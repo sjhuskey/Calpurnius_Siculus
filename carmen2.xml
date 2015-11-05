@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="poem" n="2">
+            <head>[Idas, Astacus, Thyrsis]</head>
+            <list type="speakers">
+               <item xml:id="Idas">Idas</item>
+               <item xml:id="Astacus">Astacus</item>
+               <item xml:id="Thyrsis">Thrysis</item>
+            </list>
+            <note>hic loquitur poeta <ref target="#P">P</ref></note>
+            <l n="1"><app><lem>Intactam</lem><rdg wit="#P">ntantam</rdg></app> Crocalen puer Astacus et puer Idas,</l>
+            <l n="2">Idas lanigeri dominus gregis, Astacus horti,</l>
+            <l n="3">dilexere diu, formosus uterque nec impar</l>
+            <l n="4">voce sonans. hi cum terras gravis ureret aestas,</l>
+            <l n="5">ad gelidos fontes et easdem forte sub ulmos</l>
+            <l n="6">conveniunt dulcique simul contendere cantu</l>
+            <l n="7">pignoribusque parant: placet, hic ut vellera septem,</l>
+            <l n="8">ille sui victus ne messem vindicet horti;</l>
+            <l n="9">et magnum certamen erat sub iudice Thyrsi.</l>
+            <l n="10">affuit omne genus pecudum, genus omne ferarum</l>
+            <l n="11">et quodcumque vagis altum ferit aera pennis.</l>
+            <l n="12">convenit umbrosa quicumque sub ilice lentus</l>
+            <l n="13">pascit oves, Faunusque pater Satyrique bicornes;</l>
+            <l n="14">affuerunt sicco Dryades pede, Naides udo,</l>
+            <l n="15">et tenuere suos properantia flumina cursus;</l>
+            <l n="16">desistunt tremulis incurrere frondibus Euri</l>
+            <l n="17">altaque per totos fecere silentia montes.</l>
+            <l n="18">omnia cessabant, neglectaque pascua tauri</l>
+            <l n="19">calcabant, illis etiam certantibus ausa est</l>
+            <l n="20">daedala nectareos apis intermittere flores.</l>
+            <l n="21">iamque sub annosa medius consederat umbra</l>
+            <l n="22">Thyrsis et 'o pueri, me iudice pignora' dixit</l>
+            <l n="23">'irrita sint moneo: satis hoc mercedis habete,</l>
+            <l n="24">si laudem victor, si fert opprobria victus.</l>
+            <l n="25">et nunc alternos magis ut distinguere cantus</l>
+            <l n="26">possitis, ter quisque manus iactate micantes'.</l>
+            <l n="27">nec mora: decernunt digitis, prior incipit Idas.</l>
+            <sp who="Idas">
+               <speaker>I.</speaker>
+               <l n="28">Me Silvanus amat, dociles mihi donat avenas</l>
+               <l n="29">et mea frondenti circumdat tempora taeda.</l>
+               <l n="30">ille etiam parvo dixit mihi non leve carmen:</l>
+               <l n="31">'iam levis obliqua crescat tibi fistula canna'.</l>
+            </sp>
+            <sp who="Astacus">
+               <speaker>A.</speaker>
+               <l n="32">Et mihi Flora comas pallenti gramine pingit</l>
+               <l n="33">et matura mihi Pomona sub arbore ludit.</l>
+               <l n="34">'accipe' dixerunt Nymphae 'puer, accipe fontes:</l>
+               <l n="35">iam potes irriguos nutrire canalibus hortos'.</l>
+            </sp>
+            <sp who="Idas">
+               <speaker>I.</speaker>
+               <l n="36">Me docet ipsa Pales cultum gregis, ut niger albae</l>
+               <l n="37">terga maritus ovis nascenti mutet in agna,</l>
+               <l n="38">quae neque diversi speciem servare parentis</l>
+               <l n="39">possit et ambiguo testetur utrumque colore.</l>
+            </sp>
+            <sp who="Astacus">
+               <speaker>A.</speaker>
+               <l n="40">Non minus arte mea mutabilis induit arbos</l>
+               <l n="41">ignotas frondes et non genitalia poma.</l>
+               <l n="42">ars mea nunc malo pira temperat et modo cogit</l>
+               <l n="43">insita praecoquibus subrepere persica prunis.</l>
+            </sp>
+            <sp who="Idas">
+               <speaker>I.</speaker>
+               <l n="44">Me teneras salices iuvat aut oleastra putare</l>
+               <l n="45">et gregibus portare novis, ut carpere frondes</l>
+               <l n="46">condiscant primoque recidere gramina morsu,</l>
+               <l n="47">ne depulsa vagas quaerat fetura parentes.</l>
+            </sp>
+            <sp who="Astacus">
+               <speaker>A.</speaker>
+               <l n="48">At mihi cum vulsis radicibus arida tellus</l>
+               <l n="49">pangitur, irriguo perfunditur area fonte</l>
+               <l n="50">et satiatur aqua, sucos ne forte priores</l>
+               <l n="51">languida mutata quaerant plantaria terra.</l>
+            </sp>
+            <sp who="Idas">
+               <speaker>I.</speaker>
+               <l n="52">O si qui Crocalen deus afferat! hunc ego terris,</l>
+               <l n="53">hunc ego sideribus solum regnare fatebor;</l>
+               <l n="54">decernamque nemus dicamque: 'sub arbore numen</l>
+               <l n="55">hac erit; ite procul (sacer est locus) ite profani'.</l>
+            </sp>
+            <sp who="Astacus">
+               <speaker>A.</speaker>
+               <l n="56">Urimur in Crocalen: si quis mea vota deorum</l>
+               <l n="57">audiat, huic soli, virides qua gemmeus undas</l>
+               <l n="58">fons agit et tremulo percurrit lilia rivo,</l>
+               <l n="59">inter pampineas ponetur faginus ulmos.</l>
+            </sp>
+            <sp who="Idas">
+               <speaker>I.</speaker>
+               <l n="60">Ne contemne casas et pastoralia tecta:</l>
+               <l n="61">rusticus est, fateor, sed non et barbarus Idas.</l>
+               <l n="62">saepe vaporato mihi caespite palpitat agnus,</l>
+               <l n="63">saepe cadit festis devota Parilibus agna.</l>
+            </sp>
+            <sp who="Astacus">
+               <speaker>A.</speaker>
+               <l n="64">Nos quoque pomiferi Laribus consuevimus horti</l>
+               <l n="65">mittere primitias et figere liba Priapo,</l>
+               <l n="66">rorantesque favos damus et liquentia mella;</l>
+               <l n="67">nec sunt grata minus, quam si caper imbuat aras.</l>
+            </sp>
+            <sp who="Idas">
+               <speaker>I.</speaker>
+               <l n="68">Mille sub uberibus balantes pascimus agnas,</l>
+               <l n="69">totque Tarentinae praestant mihi uellera matres;</l>
+               <l n="70">per totum niveus premitur mihi caseus annum:</l>
+               <l n="71">si venias, Crocale, totus tibi serviet annus.</l>
+            </sp>
+            <sp who="Astacus">
+               <speaker>A.</speaker>
+               <l n="72">Qui numerare velit, quam multa sub arbore nostra</l>
+               <l n="73">poma legam, tenues citius numerabit harenas.</l>
+               <l n="74">semper holus metimus, nec bruma nec impedit aestas:</l>
+               <l n="75">si venias, Crocale, totus tibi serviet hortus.</l>
+            </sp>
+            <sp who="Idas">
+               <speaker>I.</speaker>
+               <l n="76">Quamvis siccus ager languentes excoquat herbas,</l>
+               <l n="77">sume tamen calathos nutanti lacte coactos:</l>
+               <l n="78">vellera tunc dabimus, cum primum tempus apricum</l>
+               <l n="79">surget et a tepidis fiet tonsura Kalendis.</l>
+            </sp>
+            <sp who="Astacus">
+               <speaker>A.</speaker>
+               <l n="80">At nos, quos etiam praetorrida munerat aestas,</l>
+               <l n="81">mille renidenti dabimus tibi cortice chias,</l>
+               <l n="82">castaneasque nuces totidem, cum sole Decembri</l>
+               <l n="83">maturis nucibus virides rumpentur echinni.</l>
+            </sp>
+            <sp who="Idas">
+               <speaker>I.</speaker>
+               <l n="84">Num, precor, informis videor tibi? num gravis annis?</l>
+               <l n="85">decipiorque miser, quotiens mollissima tango</l>
+               <l n="86">ora manu primique sequor vestigia floris</l>
+               <l n="87">nescius et gracili digitos lanugine fallo?</l>
+            </sp>
+            <sp who="Astacus">
+               <speaker>A.</speaker>
+               <l n="88">Fontibus in liquidis quotiens me conspicor, ipse</l>
+               <l n="89">admiror totiens. etenim sic flore iuventae</l>
+               <l n="90">induimur vultus, ut in arbore saepe notaui</l>
+               <l n="91">cerea sub tenui lucere cydonia lana.</l>
+            </sp>
+            <sp who="Idas">
+               <speaker>I.</speaker>
+               <l n="92">Carmina poscit amor nec fistula cedit amori,</l>
+               <l n="93">sed fugit ecce dies revocatque crepuscula vesper.</l>
+               <l n="94">hinc tu, Daphni, greges, illinc agat Alphesiboeus.</l>
+            </sp>
+            <sp who="Astacus">
+               <speaker>A.</speaker>
+               <l n="95">astacus Iam resonant frondes, iam cantibus obstrepit arbos:</l>
+               <l n="96">i procul, i, Doryla, plenumque reclude canalem</l>
+               <l n="97">et sine iam dudum sitientes irriget hortos.—</l>
+            </sp>
+            <l n="98">Vix ea finierant, senior cum talia Thyrsis:</l>
+            <l n="99">'este pares: et ob hoc concordes vivite; nam vos</l>
+            <l n="100">et decor et cantus et amor sociavit et aetas'.</l>
+         </div>
+      </body>
+   </text>
+</TEI>
