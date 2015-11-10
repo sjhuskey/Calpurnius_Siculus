@@ -1,39 +1,46 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <listBibl>
     <bibl xml:id="r">
+        <editor/>
         <pubPlace> Rome </pubPlace>
         <publisher> Schweynheim and Pannartz </publisher>
         <date> 1471 </date>
     </bibl>
     <bibl xml:id="e">
+        <editor/>
         <pubPlace> Venice </pubPlace>
         <publisher> Ausonius and Giradinus </publisher>
         <date> 1472 </date>
     </bibl>
     <listBibl xml:id="d">
         <bibl xml:id="d1">
+            <editor/>
             <pubPlace> Daventer </pubPlace>
             <publisher> Richardus Paffraet </publisher>
             <date> 1488 </date>
         </bibl>
         <bibl xml:id="d2">
+            <editor/>
             <pubPlace> Daventer </pubPlace>
             <publisher> Jacobus de Breda </publisher>
             <date> 1491 </date>
         </bibl>
     </listBibl>
     <bibl xml:id="u">
+        <editor/>
         <pubPlace> Parma </pubPlace>
         <publisher> Angelius Ugoletus </publisher>
         <date> 1492 </date>
     </bibl>
 
     <bibl xml:id="c">
+        <editor/>
         <pubPlace> Cologne </pubPlace>
         <publisher> </publisher>
         <date> </date>
     </bibl>
     <bibl xml:id="Nordh.">
+        <editor/>
         <pubPlace> Nordheim </pubPlace>
         <publisher> </publisher>
         <date> </date>
@@ -66,11 +73,13 @@
     </listBibl>
     <listBibl xml:id="l">
         <bibl xml:id="l1">
+            <editor/>
             <pubPlace> Venice </pubPlace>
             <publisher> Aldus Manutius </publisher>
             <date> 1518 </date>
         </bibl>
         <bibl xml:id="l2">
+            <editor/>
             <pubPlace> Venice </pubPlace>
             <publisher> Aldus Manutius </publisher>
             <date> 1534 </date>
@@ -83,16 +92,19 @@
         <date> 1519 </date>
     </bibl>
     <bibl xml:id="Vienn.">
+        <editor/>
         <pubPlace> Vienna </pubPlace>
         <publisher> </publisher>
         <date> 1519 </date>
     </bibl>
     <bibl xml:id="g">
+        <editor/>
         <pubPlace> Augsbourg </pubPlace>
         <publisher> Henricus Steyner </publisher>
         <date> 1534 </date>
     </bibl>
     <bibl xml:id="Tig.">
+        <editor/>
         <pubPlace> Zurich </pubPlace>
         <publisher> Christoph Froschauer </publisher>
         <date> 1537 </date>
@@ -105,16 +117,19 @@
         <date> 1885 </date>
     </bibl>
     <bibl xml:id="Gryph.">
+        <editor/>
         <pubPlace> Lyon </pubPlace>
         <publisher> Sebastian Gryphius </publisher>
         <date> 1537 </date>
     </bibl>
     <bibl xml:id="o">
+        <editor/>
         <pubPlace> Basel </pubPlace>
         <publisher> Johannes Oporinus </publisher>
         <date> 1546 </date>
     </bibl>
     <bibl xml:id="p">
+        <editor/>
         <pubPlace> Paris </pubPlace>
         <publisher> Pierre Pithou </publisher>
         <date> 1590 </date>
@@ -132,6 +147,7 @@
         <date> 1645 </date>
     </bibl>
     <bibl xml:id="h">
+        <editor/>
         <pubPlace> </pubPlace>
         <publisher> R. Bruce and Sigebert Haverkamp </publisher>
         <date> 1728 </date>
@@ -143,6 +159,7 @@
         <date> 1731 </date>
     </bibl>
     <bibl xml:id="t">
+        <editor/>
         <pubPlace> Jelgava, Latvia </pubPlace>
         <publisher> Jacob Friederich Hinzius </publisher>
         <date> 1774 </date>
@@ -193,9 +210,9 @@
             <date> 1906 </date>
         </bibl>
     </listBibl>
-    
-    
-    
+
+
+
     <bibl xml:id="Keene">
         <editor> Charles Haines Keene </editor>
         <pubPlace> London </pubPlace>
@@ -210,7 +227,7 @@
 
 
 
-    
+
 
 
 
