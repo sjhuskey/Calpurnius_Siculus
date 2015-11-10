@@ -69,7 +69,7 @@
                   <rdg source="#Martell.">neque</rdg>
                </app> impar</l>
             <l n="4">voce sonans. <app>
-                  <lem source="#GlaeserSqq">hi cum terras</lem>
+                  <lem source="#GlaeserSqq">hi cum terras</lem> <!-- Silvia: This is a good example of an apparatus entry that shows wild divergence among witnesses and sources. Giarratano has printed a conjecture by Glaeser in his main text. -->
                   <rdg wit="#Ν #G">hy cum terras</rdg>
                   <rdg wit="#P" xml:id="rdgP2.11.4">hīc</rdg>
                   <witDetail wit="#P" target="#rdgP2.11.4">(om. <hi>cum terras</hi>)</witDetail>
@@ -136,7 +136,7 @@
                      >erant</add></rdg>
                   <note target="#rdgAscensius2.11.9">in notis</note>
                   <rdg source="#Heins." copyOf="#rdgAscensius2.11.9"/>
-               </app> sub iudice <app>
+               </app> sub iudice <app> <!-- Silvia: This is a good example of a place where there is a lot of variation, but none of it is particularly meaningful, since the variants are just different spellings of the same word. -->
                   <lem wit="#γ #ε #ρ2 #ζ" source="#edd.">Thyrsi</lem>
                   <rdg wit="#G #P">tyrsi</rdg>
                   <rdg wit="#Ν1">tirsi</rdg>
@@ -171,7 +171,7 @@
                </app>
                <app>
                   <lem wit="#Ν #G #P #β #μ #κ #ρ1 #η #φ #κ #ν #π #r #s"
-                     source="#t #Guid. #Ulit. #Burm. #Beck #Glaeser #Keene #Schenkl">altum</lem>
+                     source="#t #Guid. #Ulit. #Burm. #Beck #Glaeser #Keene #Schenkl">altum</lem> <!-- Silvia: A good example of widely distributed support for completely different variant readings. -->
                   <rdg wit="#ε #γ #δ #ρ2 #ζ #d2 #u #e #b"
                      source="#o #n #i #p #h #g #l2 #Titus #Gebhardt #Wernsd.">alitum</rdg>
                   <rdg wit="#λ" source="#Bart. #LMueller #Baehr.">avium</rdg>
@@ -266,7 +266,7 @@
                   <witDetail wit="#N">(infra et supra litt. <hi>r</hi> est rasura; <hi>o</hi> add.
                      sup. <ref target="#N2">m2</ref>)</witDetail>
                </app> apis <app>
-                  <lem>intermittere</lem>
+                  <lem>intermittere</lem> <!-- Silvia: Another good example of significant variation in readings, with some outliers. The second, third, and fourth variants are plausible, but not likely readings, with scant support. -->
                   <rdg wit="#G">intramittere</rdg>
                   <rdg wit="#φ #ν #η #ρ2 #r #s" source="#Guid.">intervisere</rdg>
                   <rdg wit="#π">intermiscere</rdg>
@@ -293,7 +293,7 @@
                </app></l>
             <app xml:id="app-lem-l2.22" exclude="#app-rdg-s-l2.22">
                <lem><l n="22" xml:id="l2.22"><app>
-                        <lem>Thyrsis</lem>
+                        <lem>Thyrsis</lem> <!-- Silvia: Another example of variation in spelling only. There's no doubt about what the text says, just different ways of spelling it. This often happens with proper nouns (e.g., names). -->
                         <rdg wit="#γ #δ #edd.">thyrsis</rdg>
                         <rdg wit="#N">tirsis</rdg>
                         <rdg wit="#G">tirsys</rdg>
@@ -378,7 +378,7 @@
                   <rdg wit="#μ">iactante</rdg>
                </app> micantes'.</l>
             <app>
-               <lem><l n="27">nec mora: decernunt <app>
+               <lem><l n="27">nec mora: <app> <!-- Silvia: Another good example of widespread disagreement about what should be the correct reading. -->
                         <!--NGζ(in mg.) d Heins. Gronov. (Obss. 3, 13), Burm. Glaeser sqq.-->
                         <lem wit="#N #G #d" source="#Heins. #Gronov. #Burm. #GlaeserSqq"
                            xml:id="lem2.13.27">decernunt digitis</lem>
@@ -410,7 +410,7 @@
                      <lem>circumdat</lem>
                      <rdg wit="#G">circundat</rdg>
                   </app> tempora <app>
-                     <lem>taeda</lem>
+                     <lem>taeda</lem><!-- Silvia: A good example of a place where Giarratano has had to choose between the reading of inferior witnesses and other variants, including several conjectures. -->
                      <rdg wit="#λ #χ">taeda</rdg>
                      <rdg wit="#G #N #κ #ρ #α #ν #β #γ #μ #ε #π #φ">teda</rdg>
                      <rdg wit="#P">deda</rdg>
@@ -523,7 +523,7 @@
                      <rdg source="#Leo">mala datura mihi</rdg>
                   </app>
                   <app>
-                     <lem xml:id="lem2.13.33Pomona">Pomona</lem>
+                     <lem xml:id="lem2.13.33Pomona">Pomona</lem> <!-- Silvia: A visualization would be helpful here because it would show that there are many variants, some with a lot of support, others with only one or two witnesses. --> 
                      <rdg wit="#G H #π2 #ρ2" source="edd.">pomona</rdg>
                      <rdgGrp type="corrMargin">
                         <rdg wit="#N" hand="#N1" varSeq="1">poma</rdg>
@@ -775,9 +775,9 @@
                      <note><ref target="#Gronov.">Gronov.</ref> (Obss. III 13)</note>
                   </app> nemus dicamque: 'sub arbore numen</l>
                <l n="55"><app>
-                     <lem source="#Giarratno">incolit</lem>
+                     <lem source="#Giarratno">incolit</lem><!-- Silvia: This is a good example of a place that has a lot of variants and conjectures, none of which are acceptable to Giarratano, who has printed his own conjecture. -->
                      <rdgGrp>
-                        <rdg wit="#ω" source="#edd.">hoc erit</rdg>
+                        <rdg wit="#ω" source="#edd.">hoc erit</rdg> <!-- Silvia: The witness ω stands for the agreement of all of the manuscripts, with the exception of those explicitly listed in this apparatus entry. -->
                         <!--hoc (h' N, h' m2)-->
                         <rdgGrp type="subvariants">
                            <rdg wit="#N" hand="#N1">h' erit</rdg>
