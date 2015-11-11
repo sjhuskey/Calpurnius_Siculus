@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Title</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Publication Information</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Information about the source</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <!-- Page 10 -->
+            <listApp>
+                <app loc="C1.10.80">
+                    <lem wit="G ε γ ρ edd.">numquid</lem>
+                    <!-- ρ (in ras.) -->
+                    <rdg wit="N">dumquid</rdg>
+                    <!--N (corr. m2)-->
+                    <rdg wit="P κ β λ μ π δ Barth.">non quod</rdg>
+                    <rdg wit="α">non</rdg>
+                    <rdg wit="η φ ν r s o n i1 l1 p t h Guid. Tit. Vienn. Kempfer">non per</rdg>
+                    <rdg wit="χ">non quae</rdg>
+                    <rdg wit="Burm.">non quoque</rdg>
+                    <rdg wit="Burm.">nunc nec</rdg>
+                </app>
+                <app loc="C1.10.80">
+                    <lem>utrumque</lem>
+                    <rdg wit="d2">utrimque</rdg>
+                </app>
+                <app loc="C1.10.80">
+                    <lem>sicut</lem>
+                    <rdg wit="Barth. olim Kempfer Heins.">sese ut</rdg>
+                </app>
+                <app loc="C1.10.80">
+                    <lem>cruento</lem>
+                    <rdg wit="V r e s">cremato</rdg>
+                    <!--V (corr. A)-->
+                    <rdg wit="Barth.">comato</rdg>
+                </app>
+                <app loc="C1.10.81">
+                    <lem>spargit</lem>
+                    <rdg wit=" Heins. ">pergit</rdg>
+                </app>
+                <app loc="C1.10.81">
+                    <lem>scintillat</lem>
+                    <rdg wit="δ γ ε2 e u b d2">sintillat</rdg>
+                    <rdg wit="μ">sintilla</rdg>
+                </app>
+                <app loc="C1.10.81">
+                    <lem>spargit et ardenti scintillat sanguine lampas?</lem>
+                    <rdg wit="Nodell">spargitur ardenti scintillans lumine</rdg>
+                    <!--Nodell (Not. crit. p. 86)-->
+                </app>
+                <app loc="C1.10.82">
+                    <lem>at</lem>
+                    <rdg wit="ν φ η π θ r s">et</rdg>
+                </app>
+                <app loc="C1.10.82">
+                    <lem>non talis</lem>
+                    <rdg wit="P">natalis</rdg>
+                    <!--P (corr. m.1)-->
+                </app>
+                <app loc="C1.10.82">
+                    <lem>rapto</lem>
+                    <rdg wit="θ">raptum</rdg>
+                </app>
+                <app loc="C1.10.83">
+                    <lem>indixit</lem>
+                    <rdg wit="l1">induxit</rdg>
+                </app>
+                <app loc="C1.10.83">
+                    <lem>fatalia</lem>
+                    <rdg wit="d1">fatalis</rdg>
+                </app>
+                <app loc="C1.10.84">
+                    <lem>scilicet ipse deus</lem>
+                    <rdg wit="N">scilicet sedis</rdg>
+                    <!--N (corr. m2)-->
+                    <rdg wit="Glaeser L. Mueller">sed Deus</rdg>
+                    <!--Mueller (l. l. p. 1071)-->
+                </app>
+                <app loc="C1.10.84">
+                    <lem>ipse</lem>
+                    <rdg wit="P1">ille</rdg>
+                    <!-- (ille suprascr. m1) -->
+                </app>
+                <app loc="C1.10.84">
+                    <lem>molis</lem>
+                    <rdg wit="μ b">mollis</rdg>
+                </app>
+                <app loc="C1.10.85">
+                    <lem>excipiet</lem>
+                    <rdg wit="P">excipient</rdg>
+                    <rdg wit="G">accipiet</rdg>
+                    <rdg wit="N2">excuciet</rdg>
+                </app>
+                <app loc="C1.10.86">
+                    <lem>ut</lem>
+                    <rdg wit="N">uti</rdg>
+                    <!--N (corr. m2)-->
+                </app>
+                <app loc="C1.10.86">
+                    <lem>translati</lem>
+                    <rdg wit="A i1 p h Ulit. Vienn. Kempfer Barth">tralati</rdg>
+                </app>
+                <app loc="C1.10.86">
+                    <lem>sonitu</lem>
+                    <rdg wit="s n o">sonitus</rdg>
+                </app>
+                <app loc="C1.10.87">
+                    <lem>nec prius</lem>
+                    <rdg wit="γ">nec prius</rdg>
+                    <!--nec prius (cett. om.) γ-->
+                </app>
+                <app loc="C1.10.87">
+                    <lem wit="P φ κ χ ν ρ η edd.">ex meritis</lem>
+                    <rdg wit="N G Ellis">a meritis</rdg>
+                    <!--N (corr. m2) G Ellis (Amer. Journ. of Philology VII p. 20)-->
+                    <rdg wit="Schenkl">a! meritis</rdg>
+                    <rdg wit="A α β ε λ μ e u d Guid.">et meritis</rdg>
+                    <rdg wit="Leo">ut meritis</rdg>
+                    <!--Leo (l. l. p. 616)-->
+                    <rdg wit="Burm. L. Mueller">emeritos</rdg>
+                    <!--L. Mueller. (l. l. p. 1071)-->
+                    <rdg wit="δ Barth. Glaeser">emeritis</rdg>
+                    <rdg wit="Gronov. Haupt">emeriti</rdg>
+                    <!--Gronov. (Obss. III 13) Haupt (Hermes VIII p. 251)-->
+                </app>
+                <app loc="C1.10.87">
+                    <lem>defunctos</lem>
+                    <rdg wit="Burm. L. Mueller">defuncti</rdg>
+                </app>
+                <app loc="C1.10.87">
+                    <lem>penates</lem>
+                    <rdg wit="Gronov. Haupt L. Mueller">parentis</rdg>
+                </app>
+                <app loc="C1.10.88">
+                    <lem>censeat</lem>
+                    <rdg wit="Barth. Gronov. Burm. L. Mueller">sentiat</rdg>
+                </app>
+                <app loc="C1.10.88">
+                    <lem>occasus</lem>
+                    <rdg wit="P">ocasus</rdg>
+                    <rdg wit="Kempfer">occasum</rdg>
+                </app>
+                <app loc="C1.10.88">
+                    <lem>nisi cum</lem>
+                    <rdg wit="Burm.">nisi iam</rdg>
+                    <rdg wit="Gronov.">gnati quam</rdg>
+                </app>
+                <app loc="C1.10.88">
+                    <lem>respexerit</lem>
+                    <rdg wit="G">resperserit</rdg>
+                    <rdg wit="Gronov.">aspexerit</rdg>
+                    <rdg wit="Haupt">suspexerit</rdg>
+                    <rdg wit="Leo">despexerit</rdg>
+                </app>
+                <app loc="C1.10.89">
+                    <lem>C.</lem>
+                    <rdg wit=" G μ π"> </rdg><!--C. om. Gμπ-->
+                </app>
+                <app loc="C1.10.89">
+                    <lem>Ornyte</lem>
+                    <rdg wit="ω">Ornite</rdg>
+                </app>
+                <app loc="C1.10.89">
+                    <lem>velut</lem>
+                    <rdg wit="G">velud</rdg>
+                    <rdg wit="P">velit</rdg>
+                </app>
+                <app loc="C1.10.89">
+                    <lem>plenum</lem>
+                    <rdg wit="N G P ρ2 t Barth. Burm. Kempfer Beck Baehr. Schenkl">plenum</rdg>
+                    <rdg wit="V edd.">plenus</rdg>
+                </app>
+                <app loc="C1.10.90">
+                    <lem>quatit</lem>
+                    <rdg wit="P V edd.">quatit</rdg>
+                    <rdg wit="N">querit</rdg>
+                    <rdg wit="G">petit</rdg>
+                    <rdg wit="Baehr.">ferit</rdg>
+                </app>
+                <app loc="C1.10.90">
+                    <lem>mixtus</lem>
+                    <rdg wit="G">mistus</rdg>
+                </app>
+                <app loc="C1.10.90">
+                    <lem>terror</lem>
+                    <rdg wit="κ χ">tremor</rdg>
+                </app>
+                <app loc="C1.10.91">
+                    <lem> </lem>
+                    <rdg wit="e">Or.</rdg>
+                </app>
+                <app loc="C1.10.91">
+                    <lem>facundi</lem>
+                    <rdg wit="ε γ e u b i p l g o n Barth">foecundi</rdg>
+                    <rdg wit="μ ρ2">fecundi</rdg>
+                    <rdg wit="δ">secundi</rdg>
+                </app>
+                <app loc="C1.10.91">
+                    <lem>veneremur</lem>
+                    <rdg wit="θ">veneramur</rdg>
+                </app>
+                <app loc="C1.10.91">
+                    <lem>Fauni</lem>
+                    <rdg wit="Heraldus">Bacchi</rdg>
+                    <!--Heraldus (Adv. I c. 2)-->
+                </app>
+                <app loc="C1.10.92">
+                    <lem>O.</lem>
+                    <rdg wit="ω r d s o n"> </rdg>
+                    <!--O. om. ω r d s o n-->
+                </app>
+                <app loc="C1.10.92">
+                    <lem>nobis</lem>
+                    <rdg wit="b">vobis</rdg>
+                </app>
+                <app loc="C1.10.92">
+                    <lem>ipse</lem>
+                    <rdg wit="N">ipsa</rdg>
+                    <rdg wit="G"/>
+                    <!--om. G-->
+                </app>
+                <app loc="C1.10.92">
+                    <lem>canenda</lem>
+                    <rdg wit="i1">calenda</rdg>
+                    <rdg wit="l1">colenda</rdg>
+                </app>
+            </listApp>
+        </body>
+    </text>
+</TEI>

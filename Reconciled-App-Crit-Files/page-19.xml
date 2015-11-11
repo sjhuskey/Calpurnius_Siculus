@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Title</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Publication Information</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Information about the source</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listApp>
+                <app loc="#C1.19.17">
+                    <lem wit="N G P Burm. Beck sqq.">spatiosus</lem>
+                    <rdg wit="V edd. ante Beck.">spatiatus vel spaciatus</rdg>
+                    <rdg wit="Heins.">satiatus</rdg>
+                </app>
+                <app loc="#C1.19.17">
+                    <lem>revocat</lem>
+                    <note resp="Giarratano">in G et cod. Vindobon.</note>
+                    <rdg wit="m2 in mg.">ruminat</rdg>
+                    <rdg source="Baehr.">renovat</rdg>
+                </app>
+                <app loc="#C1.19.18">
+                    <lem wit="N G" source="Schenkl">quavis</lem>
+                    <rdg wit="P V edd.">quamvis</rdg>
+                </app>
+                <app loc="#C1.19.18">
+                    <lem wit="N G ρ φ ε α λ π δ μ η d" source="n Barth. Ulit.">contentus</lem>
+                    <rdg wit="N ρ">contetus</rdg>
+                    <rdg source="Burm.">contendis</rdg>
+                    <rdg wit="P γ κ χ ν β ρ2 edd.">contemptus</rdg>
+                </app>
+                <app loc="#C1.19.18">
+                    <lem>abibo</lem>
+                    <rdg wit="P">adhibo</rdg>
+                </app>
+                <app loc="#C1.19.18">
+                    <lem>quavis contentus abibo</lem>
+                    <rdg wit="Leo Fritzche">quamvis contemptus adibo</rdg>
+                    <!-- Leo(l.l. p. 617) Fritzche(De Calp. ecl. I-III Schwerin 1903 p.14)-->
+                </app>
+                <app loc="#C1.19.19">
+                    <lem wit="P ε φ ρ2 ν η edd.">Tityre</lem>
+                    <rdg wit="N G ρ1 λ γ μ β δ">Titire</rdg>
+                    <rdg wit="κ χ α π" source="o">Tytire</rdg>
+                </app>
+                <app loc="#C1.19.19">
+                    <lem wit="N π χ ε γ μ β κ ρ1 edd.">dixit</lem>
+                    <rdg wit="G">dicit</rdg>
+                    <rdg wit="φ α ν λ δ η θ ρ2 r">dixi</rdg>
+                    <rdg source="Heins.">dixti</rdg>
+                </app>
+                <app loc="#C1.19.19">
+                    <lem>salices</lem>
+                    <rdg wit="φ">silices</rdg>
+                </app>
+                <app loc="#C1.19.19">
+                    <lem>solus</lem>
+                    <rdg wit="ν θ" source="i1 o n p">laetus</rdg>
+                    <rdg wit="φ η r s">letus</rdg>
+                    <rdg source="Barth. Kempfer Burm. t Wernsd. Beck Glaeser Keene">laevus</rdg>
+                </app>
+                <app loc="#C1.19.20">
+                    <lem>invenies</lem>
+                    <rdg wit="G">invenias</rdg>
+                </app>
+                <app loc="#C1.19.20">
+                    <lem>deprensam</lem>
+                    <rdg wit="N ρ">depressam</rdg>
+                    <rdg wit="P">depressa</rdg>
+                    <rdg wit="χ">deprehensum</rdg>
+                    <rdg wit="κ">deprhensum</rdg>
+                    <rdg wit="ν μ π φ ε1 η θ β r" source="i1 p Vienn.">deprehensam</rdg>
+                </app>
+                <app loc="#C1.19.21">
+                    <lem wit="P V edd.">sed</lem>
+                    <rdg wit="N G">si</rdg>
+                </app>
+                <app loc="#C1.19.21">
+                    <lem>referas</lem>
+                    <rdg wit="N">refferas</rdg>
+                </app>
+                <app loc="#C1.19.21">
+                    <lem>hastile</lem>
+                    <rdg wit="G">astile</rdg>
+
+                </app>
+                <app loc="#C1.19.22">
+                    <lem>Lycida</lem>
+                    <rdg wit="G ε χ κ ν γ edd.">lycida</rdg>
+                    <rdg wit="N ρ α λ β μ π d2">licida</rdg>
+                    <rdg wit="P">lucida</rdg>
+                    <rdg wit="φ">licyda</rdg>
+                </app>
+                <app loc="C1.19.22">
+                    <lem wit="N P V edd.">vos tam</lem>
+                    <rdg wit="G">nos tam</rdg>
+                    <rdg wit="Baehr.">noxam</rdg>
+                    <rdg wit="C. Schenkl Schenkl1 Iacoby">res tam</rdg>
+                    <!-- Iacoby(l.l. p.1291) -->
+                </app>
+                <app loc="C1.19.22">
+                    <lem>magna</lem>
+                    <rdg wit="P">māna</rdg>
+                </app>
+                <app loc="C1.19.22">
+                    <lem>quae vos tam magna tulere</lem>
+                    <rdg wit="Maehly">quae vobis tanta fuere</rdg>
+                </app>
+                <app loc="#C1.19.23">
+                    <lem>deus</lem>
+                    <rdg wit="G"/>
+                    <note resp="Giarratano">spatio relicto tribus punctis expleto</note>
+                </app>
+                <app loc="#C1.19.23">
+                    <lem>vestro deus intervenit amori</lem>
+                    <rdg source="nonnulli apud Titium">vestrum-intervertit amorem</rdg>
+                    <rdg source="Ulit.">vestros-intervertit amores</rdg>
+                    <rdg source="Ulit.">vestro dolus intervenit amori</rdg>
+                </app>
+                <app loc="#C1.19.24">
+                    <lem>Phyllide</lem>
+                    <rdg wit="G N P">Phillide</rdg>
+                    <!-- P(ut semper) -->
+                </app>
+                <app loc="#C1.19.24">
+                    <lem>contentus</lem>
+                    <rdg wit="P">contemptus</rdg>
+                </app>
+                <app loc="#C1.19.24">
+                    <lem wit="N G P ρ Heins. Beck sqq.">sola tu</lem>
+                    <!-- ρ(in ras.) -->
+                    <rdg wit="V r u e b d2 s" source="o n l2 i2 Ulit.">tu solus</rdg>
+                    <rdg wit="edd. ante Beck">solus tu</rdg>
+                </app>
+                <app loc="#C1.19.24">
+                    <lem>Iolla</lem>
+                    <rdg wit="N G r" source="Haupt Baehr. Schenkl">iolla</rdg>
+                    <rdg wit="H P ρ α ν λ π φ χ" source="Beck Glaeser Keene">iolla es</rdg>
+                    <rdg wit="γ μ κ ε edd.">iola es</rdg>
+                    <rdg wit="β">yola es</rdg>
+                </app>
+                <app loc="#C1.19.25">
+                    <lem>Callirhoen</lem>
+                    <rdg wit="edd.">callirhoen</rdg>
+                    <rdg wit="N">calliore</rdg>
+                    <rdg wit="G">calyore</rdg>
+                    <rdg wit="P φ α η θ r s d1" source="p Barth. Glaeser Keene">calliroen</rdg>
+                    <rdg wit="ε e">calyrcen</rdg>
+                    <rdg wit="ρ2">calliroem</rdg>
+                    <rdg wit="λ">calliricem</rdg>
+                    <rdg wit="ρ1 π">calicem</rdg>
+                    <rdg wit="ν">callicoe</rdg>
+                    <rdg wit="μ">calucen</rdg>
+                    <rdg wit="γ">calyroen</rdg>
+                    <rdg wit="κ χ">calicoem</rdg>
+                    <rdg wit="β">callircen</rdg>
+                    <rdg wit="δ" source="o">callyricem</rdg>
+                    <rdg source="i1 n Vienn.">calyricem</rdg>
+                    <rdg wit="u b" source="i2 l2">calyricen</rdg>
+                </app>
+                <app loc="#C1.19.25">
+                    <lem>sprevi</lem>
+                    <rdg wit="N">spiritu</rdg>
+                    <!-- N(speciem s. v. m2) -->
+                </app>
+                <app loc="#C1.19.26">
+                    <lem wit="V P edd.">en sibi</lem>
+                    <rdg wit="N G" source="Schenkl">en ibi</rdg>
+                    <!-- N(corr. m2) -->
+                    <rdg source="Burm.">en tibi</rdg>
+                    <rdg source="Heins.">me sibi</rdg>
+                    <rdg wit="μ">heu sibi</rdg>
+                </app>
+                <app loc="#C1.19.26">
+                    <lem>calamos</lem>
+                    <rdg wit="P">calamus</rdg>
+                </app>
+
+                <app loc="#C1.19.26">
+                    <lem>cera</lem>
+                    <rdg wit="e b">caere</rdg>
+                    <rdg wit="d2 u" source="o n l2">caerae</rdg>
+                </app>
+                <app loc="#C1.19.27">
+                    <lem>ilice</lem>
+                    <rdg wit="N">illice</rdg>
+                    <rdg wit="G">ylice</rdg>
+                </app>
+                <app loc="#C1.19.28">
+                    <lem>haec</lem>
+                    <rdg wit="V edd. ante Glaeser">hoc</rdg>
+                    <!-- V(hos γ , hec μ ) -->
+                    </app>
+                <app loc="#C1.19.28">
+                    <lem>cum</lem>
+                    <rdg wit="N">dum</rdg>
+                </app>
+                <app loc="#C1.19.28">
+                    <lem>fateor</lem>
+                    <!--(or m2 e N corr.)--><!--Weird thing-->
+                </app>
+                
+                <app loc="#C1.19.28">
+                    <lem>intimus</lem>
+                    <rdg source="Barth.">imitus</rdg>
+                </app>
+                <app loc="#C1.19.29">
+                    <lem>ut</lem>
+                    <rdg wit="P">et</rdg>
+                </app>
+                <app loc="#C1.19.29">
+                    <lem>ulterius</lem>
+                    <rdg wit="d1">alterius</rdg>
+                </app>
+                <app loc="#C1.19.29">
+                    <lem>ambas</lem>
+                    <rdg source="Victor Vigilius">amba</rdg>
+                </app>
+                </listApp>
+        </body>
+    </text>
+</TEI>

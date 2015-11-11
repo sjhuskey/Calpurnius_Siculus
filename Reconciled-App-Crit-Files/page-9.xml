@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <!-- Giarratano page 9 -->
+         <listApp>
+            <app loc="C1.9.62">
+               <lem>numerabit</lem>
+               <rdg wit="G">numeravit</rdg>
+               <!-- G(corr. m1) -->
+            </app>
+            <app loc="C1.9.63">
+               <lem>quae stricti</lem>
+               <rdg wit="G">quam stripti</rdg>
+               <!-- G(que in mg.)-->
+            </app>
+            <app loc="C1.9.64">
+               <lem wit="N Glaeser sqq.">referet</lem>
+               <rdg wit="G">referent</rdg>
+               <!-- G(corr. in mg.) -->
+               <rdg wit="P V edd. ante Glaeser">revocet</rdg>
+            </app>
+            <app loc="C1.9.64">
+               <lem>Latialia</lem>
+               <rdg wit=" δ2 β γ φ π κ χ ν ρ η λ edd. ">latialia</rdg>
+               <rdg wit="G">latia</rdg>
+               <!-- G (corr. m1) -->
+               <rdg wit="N P δ1 α">lacialia</rdg>
+               <rdg wit=" ε μ e ">latralia</rdg>
+            </app>
+            <app loc="C1.9.65">
+               <lem>qui</lem>
+               <rdg wit="θ">qua</rdg>
+            </app>
+            <app loc="C1.9.65">
+               <lem>primus</lem>
+               <rdg wit=" u ">primum</rdg>
+            </app>
+            <app loc="C1.9.65">
+               <lem>caede</lem>
+               <rdg wit="G ε π φ μ β κ">cede</rdg>
+            </app>
+            <app loc="C1.9.66">
+               <lem>ardentia</lem>
+               <rdg wit="λ">cedentia</rdg>
+            </app>
+            <app loc="C1.9.67">
+               <lem>docuit</lem>
+               <rdg wit="μ">detulit</rdg>
+               <rdg wit="π">decuit</rdg>
+            </app>
+            <app loc="C1.9.68">
+               <lem>inter</lem>
+               <rdg wit=" N P V edd. ">inter-inter</rdg>
+               <rdg wit="H1">intra-inter</rdg>
+               <rdg wit="G A H2">intra-intra</rdg>
+            </app>
+            <app loc="C1.9.70">
+               <lem>vacuos</lem>
+               <rdg wit="Burm.">vanos</rdg>
+            </app>
+            <app loc="C1.9.70">
+               <lem>fasces</lem>
+               <rdg wit="P">fases</rdg>
+               <rdg wit="N">fassces</rdg>
+               <!-- N (corr. m2) -->
+            </app>
+            <app loc="C1.9.70">
+               <lem>et inane</lem>
+               <rdg wit="κ μ ν η δ β φ π1 θ r s">etiamne</rdg>
+               <rdg wit="λ">etiamve</rdg>
+               <rdg wit="d">nec inane</rdg>
+            </app>
+            <app loc="C1.9.71">
+               <lem>reductis</lem>
+               <rdg wit="G">redutus</rdg>
+            </app>
+            <app loc="C1.9.72">
+               <lem>vultumque priorem</lem>
+               <rdg wit=" Barth. ">legemque priorem</rdg>
+               <!-- Barth. (Adv. 44,15) -->
+            </app>
+            <app loc="C1.9.73">
+               <lem>auferet</lem>
+               <rdg wit="N2 P η1">afferet</rdg>
+               <rdg wit=" L. Mueller ">asseret</rdg>
+               <!-- L. Mueller (Berl. phil. Woch. V. p.1071) -->
+            </app>
+            <app loc="C1.9.74">
+               <lem>exsultet</lem>
+               <rdg wit="G">exustet</rdg>
+            </app>
+            <app loc="C1.9.74">
+               <lem>quaecumque</lem>
+               <rdg wit="G">quacumque</rdg>
+            </app>
+            <app loc="C1.9.74">
+               <lem>notum</lem>
+               <rdg wit=" P μ ν κ β δ2 γ χ1 π1 ε θ u g i2 l2 ">nothum</rdg>
+            </app>
+            <app loc="C1.9.74">
+               <lem>gens</lem>
+               <rdg wit=" N ">gen'</rdg>
+            </app>
+            <app loc="C1.9.74">
+               <lem>ima</lem>
+               <rdg wit="G">yma</rdg>
+               <rdg wit="N">in tua</rdg>
+            </app>
+            <app loc="C1.9.74">
+               <lem>iacentem</lem>
+               <rdg wit="P">giacentem</rdg>
+            </app>
+            <app loc="C1.9.75">
+               <lem wit="Barhr. Schenkl">erectumve</lem>
+               <rdg wit="P">ereptumque</rdg>
+               <rdg wit=" N G V H edd. ">erectumque</rdg>
+               <rdg wit="Heins. Kempfer">evectumque</rdg>
+            </app>
+            <app loc="C1.9.75">
+               <lem>boream</lem>
+               <rdg wit="θ Beck">borean</rdg>
+            </app>
+            <app loc="C1.9.75">
+               <lem>quaecumque</lem>
+               <rdg wit="G">quacumuque</rdg>
+            </app>
+            <app loc="C1.9.76">
+               <lem>patet</lem>
+               <rdg wit=" Postgate Schenkl2 ">tepet</rdg>
+               <!-- Postgate (Class. Reev. 1901 p.213) Schenkl2 -->
+            </app>
+            <app loc="C1.9.76">
+               <lem>mediove</lem>
+               <rdg wit="Kempfer">medioque</rdg>
+            </app>
+            <app loc="C1.9.76">
+               <lem wit=" G P A edd. ">fervit</lem>
+               <rdg wit="N V r e u b d s g i2 l2 o n Ulit. Martell. h Gryph.">servit</rdg>
+               <rdg wit="Tit. Barth. Kempfer">fervet</rdg>
+            </app>
+            <app loc="C1.9.77">
+               <lem wit="N P r Kempfer Wernsd. Beck Glaesser sqq.">vicesima</lem>
+               <rdg wit="φ">vicessima</rdg>
+               <rdg wit="G V P edd. ante Glaeser">vigesima</rdg>
+            </app>
+            <app loc="C1.9.78">
+               <lem>fulgeat</lem>
+               <rdg wit="N">fulget</rdg>
+               <!-- N (corr. m1) -->
+            </app>
+            <app loc="C1.9.78">
+               <lem wit="N G Beck Glaeser sqq.">et placida radiantem</lem>
+               <rdg wit="P">et placidam radiantem</rdg>
+               <rdg wit="π χ1 μ λ κ ρ1">et placidam radianti</rdg>
+               <rdg wit="φ α β ν θ χ2 r s o n l1 Vienn.">et placidum radianti</rdg>
+               <rdg wit="ε γ ρ2 η edd.">ut placidam radianti</rdg>
+               <rdg wit="H">ut placida radianti</rdg>
+               <rdg wit="δ">ac placidam radienti</rdg>
+               <rdg wit="p h Ulit.">ut placida radiantem</rdg>
+               <rdg wit="codd. Titii">ut placida radiatem</rdg>
+               <!-- How to deal with this? -->
+            </app>
+            <app loc="C1.9.78">
+               <lem>cometem</lem>
+               <rdg wit="G">comethem</rdg>
+               <rdg wit="ν η r s o n Beck">cometen</rdg>
+            </app>
+            <app loc="C1.9.79">
+               <lem>proferat</lem>
+               <rdg wit="N">profferet</rdg>
+            </app>
+            <app loc="C1.9.79">
+               <lem wit="Ulit. Baehr. Schenkl">niteat</lem>
+               <rdg wit="N G β κ π ρ1 λ1">mutat</rdg>
+               <rdg wit="P δ p t h Kempfer Burm.">mittat</rdg>
+               <rdg wit="μ">micat</rdg>
+               <rdg wit="θ ν α η r s o n l2 i2 Guid. Wernsd. Beck Glaeser Keene">nutet</rdg>
+               <rdg wit="ε χ γ ρ2 λ2 d e u b i1 l1 Tig. Vienn.">nutat</rdg>
+               <rdg wit="φ">mutet</rdg>
+               <rdg wit="Leo">micet ac</rdg>
+               <rdg wit="Barth.">nictat</rdg>
+            </app>
+            <app loc="C1.9.79">
+               <lem>sidus</lem>
+               <rdg wit="Burm.">sidere</rdg>
+               <rdg wit="P Glaeser Baehr. Keene">sidus plenus</rdg>
+               <rdg wit="Burm.">lumen</rdg>
+            </app>
+         </listApp>
+      </body>
+   </text>
+</TEI>

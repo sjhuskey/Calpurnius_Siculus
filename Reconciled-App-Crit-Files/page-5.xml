@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Title</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Publication Information</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Information about the source</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <!-- Giarratano page 5 -->
+            <listApp>
+                <app loc="C1.5.1">
+                    <lem wit="G P A Φ Ulit. Wernsd. Glaeser sqq.">C.</lem>
+                    <rdg wit="N π χ ρ"> </rdg>
+                    <rdg wit="ε β γ μ ρ edd. ante Glaeser">O.</rdg>
+                </app>
+                <app loc="C1.5.1">
+                    <lem>Nondum</lem>
+                    <rdg wit=" G P ">nundum</rdg>
+                    <!-- G(corr. m1) -->
+                </app>
+                <app loc="C1.5.1">
+                    <lem wit="N Heins. Schenkl">declinis</lem>
+                    <rdg wit="G V edd.">declivis</rdg>
+                    <rdg wit="P p">declivus</rdg>
+                    <rdg wit="μ">declives</rdg>
+                </app>
+                <app loc="C1.5.2">
+                    <lem>quamvis</lem>
+                    <rdg wit="φ π η θ r">quatinus</rdg>
+                </app>
+                <app loc="C1.5.2">
+                    <lem>praela</lem>
+                    <rdg wit="P">praeda</rdg>
+                </app>
+                <app loc="C1.5.3">
+                    <lem>et spument rauco ferventia musta susurro</lem>
+                    <rdg wit="κ χ"> </rdg>
+                </app>
+                <app loc="C1.5.3">
+                    <lem>musta</lem>
+                    <rdg wit="P">iniusta</rdg>
+                </app>
+                <app loc="C1.5.4">
+                    <lem> </lem>
+                    <rdg wit=" V "> C. </rdg>
+                    <!-- V plerique, edd. fere omenes ante Glaeser -->
+                </app>
+                <app loc="C1.5.4">
+                    <lem wit="Heins. Maehly Baehr. Schenkl">Ornyte</lem>
+                    <rdg wit="N G V edd.">ornite</rdg>
+                    <rdg wit="P">ornyce</rdg>
+                    <rdg wit="s">ornithe</rdg>
+                </app>
+                <app loc="C1.5.4">
+                    <lem>vaccae</lem>
+                    <rdg wit="ε χ λ β ρ α η γ edd.">vaccae</rdg>
+                    <rdg wit="N ν φ π κ μ r p">vacce</rdg>
+                    <rdg wit="G">bacce</rdg>
+                    <rdg wit="δ">vaccas</rdg>
+                </app>
+                <app loc="C1.5.5">
+                    <lem wit="P V edd.">molle sub</lem>
+                    <rdg wit=" N G A H  Glaeser Keene Jacoby"> molliter </rdg>
+                    <!-- Jacoby (Woch. f. kl. Phil. III p.1290) -->
+                    <rdg wit="Schenkl2">molle per</rdg>
+                </app>
+                <app loc="C1.5.5">
+                    <lem>hirsuta</lem>
+                    <rdg wit="P">yrsuta</rdg>
+                    <rdg wit="Schenkl2">hirsutam</rdg>
+                </app>
+                <app loc="C1.5.5">
+                    <lem>explicuere</lem>
+                    <rdg wit="ε γ μ λ1 δ e">explicare</rdg>
+                </app>
+                <app loc="C1.5.5">
+                    <lem>genista</lem>
+                    <rdg wit="λ1 δ">genestra</rdg>
+                    <rdg wit="ε γ μ λ2 χ2 e Beck">genesta</rdg>
+                    <rdg wit="Schenkl2">genistam</rdg>
+                </app>
+                <app loc="C1.5.6">
+                    <lem>succedimus</lem>
+                    <rdg wit="G">subcedimus</rdg>
+                </app>
+                <app loc="C1.5.6">
+                    <lem>umbris</lem>
+                    <rdg wit=" Titium "> ulmis </rdg>
+                    <!-- nonnulli apud Titium -->
+                </app>
+                <app loc="C1.5.8">
+                    <lem>O.</lem>
+                    <rdg wit=" N "> </rdg>
+                    <!-- N (add. m1) -->
+                </app>
+                <app loc="C1.5.8">
+                    <lem wit="χ ε δ ρ2 edd.">Corydon</lem>
+                    <rdg wit="N G β ν κ λ γ μ π ρ1 φ α η r Barth.">coridon</rdg>
+                    <rdg wit="P">corridon</rdg>
+                </app>
+                <app loc="C1.5.8">
+                    <lem>nemus</lem>
+                    <rdg wit=" G "> nemora </rdg>
+                    <!-- G (in mg.) -->
+                </app>
+                <app loc="C1.5.8">
+                    <lem>antra</lem>
+                    <rdg wit="N G Glaeser sqq.">ista</rdg>
+                </app>
+                <app loc="C1.5.9">
+                    <lem>ista</lem>
+                    <rdg wit="P V edd. ante Glaeser">antra</rdg>
+                </app>
+                <app loc="C1.5.9">
+                    <lem>graciles</lem>
+                    <rdg wit=" V "> gracilis </rdg>
+                    <note resp="Giarratano">edd. vett. accusativos eiusmodi fere semper in is
+                        exhibent</note>
+                </app>
+                <app loc="C1.5.9">
+                    <lem wit="G A P λ2 Glaeser sqq.">denset</lem>
+                    <rdg wit="N">densent</rdg>
+                    <rdg wit="V edd. ante Glaeser">densat</rdg>
+                </app>
+                <app loc="C1.5.10">
+                    <lem>rapidoque</lem>
+                    <rdg wit=" Baehr. "> rabidoque </rdg>
+                    <!--(lect. lat. p. 35) -->
+                </app>
+                <app loc="C1.5.10">
+                    <lem>caput</lem>
+                    <rdg wit="G">capud</rdg>
+                </app>
+                <app loc="C1.5.11">
+                    <lem>bullantes</lem>
+                    <rdg wit="ε δ e d2">bullentes</rdg>
+                    <rdg wit="η ν φ ρ2 r s">bullantis</rdg>
+                    <rdg wit="Heins.">palantes</rdg>
+                </app>
+                <app loc="C1.5.11">
+                    <lem source="Giarratano"> ubi </lem>
+                    <rdg wit=" G "> ut </rdg>
+                    <!-- G (et in mg.) -->
+                </app>
+                <app loc="C1.5.12">
+                    <lem> protegit </lem>
+                    <rdg wit=" G "> protegis </rdg>
+                    <!-- G (corr. m1) -->
+                </app>
+                <app loc="C1.5.12">
+                    <lem>errantibus</lem>
+                    <rdg wit="G">errantes</rdg>
+                </app>
+            </listApp>
+        </body>
+    </text>
+</TEI>

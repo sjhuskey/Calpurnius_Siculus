@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Title</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Publication Information</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Information about the source</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listApp>
+                <app loc="#C1.18.1">
+                    <lem>I.</lem>
+                    <rdg wit="N"/>
+                </app>
+                <app loc="#C1.18.1">
+                    <lem>Numquid</lem>
+                    <rdg wit="G V">nunquid</rdg>
+                    <!-- G (u e corr.) -->
+                    <rdg wit="P">ncquid</rdg>
+                    <!-- Add bar over c -->
+                    <rdg wit="α">nunc quid</rdg>
+                </app>
+                <app loc="#C1.18.1">
+                    <lem>Lycida</lem>
+                    <rdg wit="G ρ2 κ ν γ ε χ">lycida</rdg>
+                    <rdg wit="N λ α ρ1 π β">licida</rdg>
+                    <rdg wit="μ">lucida</rdg>
+                    <rdg wit="φ">licita</rdg>
+                </app>
+                <app loc="#C1.18.2">
+                    <lem>ista</lem>
+                    <rdg wit="V edd. ante Glaeser">illa</rdg>
+                </app>
+                <app loc="#C1.18.2">
+                    <lem>tauris</lem>
+                    <rdg wit="G">thauris</rdg>
+                    <rdg wit="P">tātis</rdg>
+                </app>
+                <app loc="#C1.18.3">
+                    <lem>paene</lem>
+                    <rdg wit="G">pene</rdg>
+                </app>
+                <app loc="#C1.18.3">
+                    <lem>quaeritur</lem>
+                    <rdg wit="G">queritur</rdg>
+                </app>
+                <app loc="#C1.18.3">
+                    <lem>eximit horas</lem>
+                    <rdg wit="P">exumit oras</rdg>
+                </app>
+                <app loc="#C1.18.4">
+                    <lem>ego</lem>
+                    <rdg source="Ulit.">eho</rdg>
+                </app>
+                <app loc="#C1.18.4">
+                    <lem>ruscis</lem>
+                    <rdg wit="γ ε δ ρ1 e">tuscis</rdg>
+                </app>
+                <app loc="#C1.18.5">
+                    <lem source="Heins. Baehr. Schenkl">nullus</lem>
+                    <rdg wit="ω r e s d2"
+                        source="u p h t Barth. Ulit. Burm. Glaeser Keene, def. Ellis (l. l. p. 91)"
+                        >nullis</rdg>
+                    <rdg wit="edd.">et nullis</rdg>
+                    <rdg wit="G (corr. m1 in mg.)">multis</rdg>
+                </app>
+                <app loc="#C1.18.6">
+                    <lem wit="N V">nec quicquam</lem>
+                    <rdg wit="G">nec quidquam</rdg>
+                    <rdg wit="P">ne quisquam</rdg>
+                </app>
+                <app loc="#C1.18.6">
+                    <lem>tantum</lem>
+                    <rdg wit="G">tamtum</rdg>
+                    <rdg wit="P">fantum</rdg>
+                </app>
+
+                <app loc="#C1.18.7">
+                    <lem>attendi</lem>
+                    <note resp="Giarratano">[section sign] praef. G (et sic usque ad ecl.
+                        finem).</note>
+                    <rdg wit="P">atendi</rdg>
+                </app>
+                <app loc="#C1.18.7">
+                    <lem wit="N G δ" source="Haupt Keene Baehr. Schenkl">nec</lem>
+                    <rdg wit="P V edd.">neque</rdg>
+                </app>
+                <app loc="#C1.18.7">
+                    <lem>Iolla</lem>
+                    <rdg wit="N φ π χ α ν λ ρ r s" source="Beck sqq.">iolla</rdg>
+                    <rdg wit="G P δ β">yolla</rdg>
+                    <rdg wit="γ μ ε κ η edd. ante Beck">iola</rdg>
+                </app>
+                <app loc="#C1.18.8">
+                    <lem>inmodice</lem>
+                    <rdg wit="N">immodice</rdg>
+                </app>
+                <app loc="#C1.18.8">
+                    <lem>Lycidan</lem>
+                    <rdg wit="χ γ η ν edd.">lycidan</rdg>
+                    <rdg wit="ε κ δ u e b d2" source="g i1 l2">lycidam</rdg>
+                    <rdg wit="N π ρ β">licidan</rdg>
+                    <rdg wit="G μ λ">licidam</rdg>
+                    <rdg wit="G in mg.">licidas</rdg>
+                    <rdg wit="P α">licida</rdg>
+                    <rdg wit="φ">licydam</rdg>
+                    <rdg wit="s" source="n o">lycidamque</rdg>
+                </app>
+                <app loc="#C1.18.8">
+                    <lem>reliquit</lem>
+                    <rdg wit="P">reliquid</rdg>
+                </app>
+
+                <app loc="#C1.18.9">
+                    <lem wit="χ edd.">Phyllis</lem>
+                    <note resp="Giarratano">post inmodice Barth. interpunctionem sustulit</note>
+                    <rdg wit="N G δ η λ π β ρ2 ν κ α φ r s" source="n">Phillis</rdg>
+                    <rdg wit="P ρ1 ε γ μ e u b">Philis</rdg>
+                </app>
+                <app loc="#C1.18.9">
+                    <lem>mea</lem>
+                    <rdg wit="π"/>
+                    <rdg wit="φ">me</rdg>
+                </app>
+                <app loc="#C1.189">
+                    <lem>munera</lem>
+                    <rdg wit="φ χ ρ2 ν κ δ η θ r s" source="o n">vulnera</rdg>
+                </app>
+                <app loc="#C3.18.9">
+                    <lem>Mopsum</lem>
+                    <rdg wit="P">op<hi rend="superscript">sū</hi></rdg>
+                </app>
+
+
+                <app loc="#C1.18.10">
+                    <lem wit="G">ventis</lem>
+                    <rdg wit="G">ventis</rdg>
+                    <!-- G(s e corr.) -->
+                    <note resp="Giarratano">mobilior-femina habent Exc. Par.</note>
+                </app>
+                <app loc="#C1.18.11">
+                    <lem>memini</lem>
+                    <rdg wit="N">nemini</rdg>
+                </app>
+                <app loc="#C1.18.13">
+                    <lem>querar</lem>
+                    <rdg wit="P ε">qrat</rdg>
+                    <rdg wit="π δ">queras</rdg>
+                    <rdg wit="γ1 d2">quaerar</rdg>
+                    <rdg wit="e">quaerat</rdg>
+                </app>
+                <app loc="#C1.18.13">
+                    <lem>forte</lem>
+                    <rdg wit="ε γ ρ1 edd. ante Beck. praeter r s" source="o n t Burm.">quando</rdg>
+                    <!-- ρ1(in mg.) -->
+                </app>
+                <app loc="#C1.18.13">
+                    <lem>vacabis</lem>
+                    <rdg wit="N" source="Vienn. Barth.">vocabis</rdg>
+                    <rdg wit="φ">vocabit</rdg>
+                    <rdg wit="ν η θ ρ1 r s" source="Kempfer Glaeser Ellis Keene">vocabis</rdg>
+                </app>
+
+                <app loc="#C1.18.14">
+                    <lem>pete</lem>
+                    <rdg wit="N">petes</rdg>
+                    <!-- N(corr. m2) -->
+                </app>
+                <app loc="#C1.18.14">
+                    <lem wit="λ edd.">laevas</lem>
+                    <rdg wit="N G P α ρ π ε γ β u e d2">levas</rdg>
+                    <rdg wit="φ ν η r">levis</rdg>
+                    <rdg wit="κ χ θ">leves</rdg>
+                    <rdg wit="μ">lentas</rdg>
+                    <rdg wit="δ">levos</rdg>
+                    <rdg source="Guid.">laevis</rdg>
+                    <rdg source="nonnulli apud Kempfer">laetas</rdg>
+                </app>
+            </listApp>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <listApp>
+            <app loc="C2.17.88">
+               <lem>Fontibus</lem>
+               <rdg wit=" κ χ π ">montibus</rdg>
+            </app>
+            <app loc="C2.17.88">
+               <lem>quotiens</lem>
+               <rdg wit=" P ">quoties</rdg>
+               <rdg wit=" G "> </rdg>
+            </app>
+            <app loc="C2.17.88">
+               <lem>conspicor</lem>
+               <rdg wit=" u b ">compiscor</rdg>
+            </app>
+            <app loc="C2.17.88">
+               <lem wit=" N G ρ2 edd.">ipse</lem>
+               <rdg wit=" P V r e u b o n i2 l2 ">esse</rdg>
+               <rdg wit=" Burm. ">ecce</rdg>
+               <!--post ipse interpungit L. Mueller (l.l.p. 1072)-->
+            </app>
+            <app loc="C2.17.90">
+               <lem wit=" Heins. Kempfer Ulit. Beck sqq. ">induimur</lem>
+               <rdg wit=" ω edd. ante Beck. ">induimus</rdg>
+            </app>
+            <app loc="C2.17.90">
+               <lem wit=" N ">vultus ut</lem><!-- N (litt. evanidas rest. m2) -->
+            </app>
+            <app loc="C2.17.90">
+               <lem>ut</lem>
+               <rdg wit=" κ χ ">et</rdg>
+            </app>
+            <app loc="C2.17.91">
+               <lem>sub tenui lucere</lem>
+               <rdg wit="P">εub tātū lucē</rdg>
+            </app>
+            <app loc="C2.17.91">
+               <lem wit=" N ">lucere</lem><!-- N (litt. evanidas rest. m2) -->
+            </app>
+            <app loc="C2.17.91">
+               <lem wit=" ν η λ ρ2 edd. ">cydonia</lem>
+               <rdg wit=" N ">cynodia</rdg>
+               <rdg wit=" G α ">cinodia</rdg>
+               <rdg wit=" P ">scydonea</rdg>
+               <rdg wit=" φ ε β δ ">cidonia</rdg>
+               <rdg wit=" π ">sidonia</rdg>
+               <rdg wit=" κ χ ">sydonia</rdg>
+               <rdg wit=" γ ">cyconia</rdg>
+               <rdg wit=" μ ">cytonia</rdg>
+               <rdg wit=" ρ1 ">sidonia</rdg>
+            </app>
+            <app loc="C2.17.91">
+               <lem>lana</lem>
+               <rdg wit="λ">mala</rdg>
+            </app>
+            <app loc="C2.17.92">
+               <lem>poscit</lem>
+               <rdg wit=" P ">psit</rdg>
+               <rdg wit=" n o ">spernit</rdg>
+            </app>
+            <app loc="C2.17.92">
+               <lem>nec</lem>
+               <rdg wit=" Gebauer Baehr. Schenkl1 ">et</rdg><!-- (Rh. Mus. XXVII p. 186) -->
+               <rdg wit=" n o ">neque</rdg>
+            </app>
+            <app loc="C2.17.92">
+               <lem>cedit</lem>
+               <rdg wit=" φ ν η θ ζ r s ">sistit</rdg>
+               <rdg wit=" i1 ">caedit</rdg>
+               <rdg wit=" Haupt ">sordet</rdg>
+               <rdg wit=" ">defit</rdg><!--anonymus in Rh. Mus. XXVI p. 493-->
+               <rdg wit=" n o ">flectit</rdg>
+            </app>
+            <app loc="C2.17.92">
+               <lem>amori</lem>
+               <rdg wit="n o">amorem</rdg>
+            </app>
+            <app loc="C2.17.93">
+               <lem>revocatque</lem>
+               <rdg wit="δ d1 u">revocat</rdg>
+            </app>
+            <app loc="C2.17.94">
+               <lem>Daphni</lem>
+               <rdg wit="G">dapni</rdg>
+               <rdg wit="P">dūm</rdg><!-- ( m exp. ) -->
+               <rdg wit="π ρ μ β1">damni</rdg>
+               <rdg wit="β2">dapni</rdg>
+               <rdg wit="δ">dampni</rdg>
+            </app>
+            <app loc="C2.17.94">
+               <lem>illinc</lem>
+               <rdg wit="P">illi ne</rdg>
+            </app>
+            <app loc="C2.17.94">
+               <lem>agat</lem>
+               <rdg wit=" V r d2 s ">vocat</rdg><!-- (corr. A) -->
+               <rdg wit="ε e">vocant</rdg>
+               <rdg wit="α">vocent</rdg><!-- (n exp.) -->
+               <rdg wit="g">agit</rdg>
+            </app>
+            <app loc="C2.17.94">
+               <lem>Alphesiboeus</lem>
+               <rdg wit="η φ ν edd.">alphesiboeus</rdg>
+               <rdg wit="N G P γ π μ κ λ ρ α ε u e s b n">alphesibeus</rdg>
+               <rdg wit="β">alphaesibeus</rdg>
+               <rdg wit="δ">alphisibeus</rdg>
+               <rdg wit="χ">alphesibaeus</rdg>
+            </app>
+            <app loc="C2.17.95">
+               <lem>A.</lem>
+               <rdg wit=" ν φ η χ r s o n "> </rdg>
+            </app>	   
+            <app loc="C2.17.95">
+               <lem>Iam resonant</lem>
+               <rdg wit="λ">iamque sonant</rdg>
+               <rdg wit="d2">iam resonent</rdg>
+            </app>
+            <app loc="C2.17.95">
+               <lem>cantibus</lem>
+               <rdg wit="ν φ ρ2 θ ζ r">cratibus</rdg>
+               <rdg wit="π">crartibus</rdg>
+               <rdg wit="β">cartibus</rdg>
+            </app>
+            <app loc="C2.17.95">
+               <lem>obstrepit</lem>
+               <rdg wit="u b">obtrepit</rdg>
+            </app>
+            <app loc="C2.17.95">
+               <lem>arbos</lem>
+               <rdg wit=" N P ">arbor</rdg><!-- N (corr. m1) -->
+            </app>
+            <app loc="C2.17.96">
+               <lem>A.</lem>
+               <rdg wit=" ε χ "> </rdg>
+            </app>
+            <app loc="C2.17.96">
+               <lem>i procul</lem>
+               <rdg wit=" P ">hic procul</rdg>
+            </app>
+            <app loc="C2.17.96">
+               <lem wit=" Haupt. Keene Schenkl ">i</lem>
+               <rdg wit=" N ">y</rdg>
+               <rdg wit=" P ">et</rdg>
+               <rdg wit=" G V edd. ">o</rdg>
+            </app>
+            <app loc="C2.17.96">
+               <lem wit=" Burm. Beck sqq. ">Doryla</lem>
+               <rdg wit=" N P G H λ π χ μ κ α ">dorila</rdg><!--NPG(post expunctam vocem dorida, in qua d alt. in l mutatum) H (s in fine add. s. v.)-->
+               <rdg wit=" ε φ γ ν ρ η ζ edd. ">dorida</rdg>
+               <rdg wit=" δ ">dirida</rdg>
+               <rdg wit=" Heins. ">doricla</rdg>
+            </app>
+            <app loc="C2.17.96">
+               <lem wit=" Haupt Keene Schenkl ">plenumque</lem>
+               <rdg wit=" ω edd. ">primumque</rdg> 	
+               <rdg wit=" Baehr. ">rivumque</rdg>
+               <rdg wit=" C. Schenkl ">pronumque</rdg>
+            </app>
+            <app loc="C2.17.96">
+               <lem>canalem</lem>
+               <rdg wit="N G">canale</rdg>
+               <rdg wit="Baehr.">canali</rdg>
+            </app>
+            <app loc="C2.17.97">
+               <lem wit=" ν φ ρ2 η r ">A.</lem>
+            </app>	   
+            <app loc="C2.17.97">
+               <lem>sitientes</lem>
+               <rdg wit="N">sacientes</rdg>
+            </app>
+            <app loc="C2.17.97">
+               <lem>irriget</lem>
+               <rdg wit="P">origet</rdg>
+            </app>
+            <app loc="C2.17.97">
+               <lem wit=" λ φ ε β γ η edd. ">hortos</lem>
+               <rdg wit=" N G P χ ν κ ρ α μ π δ ">ortos</rdg>
+            </app>
+            <app loc="C2.17.98">
+               <lem>Vix ea</lem>
+               <rdg wit=" P ">uxor poetae</rdg><!-- (m1 in mg.) -->
+               <rdg wit=" η φ γ ζ r s o n ">poeta</rdg>
+            </app>
+            <app loc="C2.17.98">
+               <lem>finierant</lem>
+               <rdg wit=" V r s o n i1 l1 Vienn. ">finierat</rdg><!--V (praeter ερ) -->
+            </app>
+            <app loc="C2.17.98">
+               <lem>cum</lem>
+               <rdg wit="N">con</rdg>
+               <rdg wit="n o">tum</rdg>
+            </app>
+            <app loc="C2.17.98">
+               <lem wit=" γ ε ρ2 edd. ">Thyrsis</lem>
+               <rdg wit=" N ">tirsis</rdg>
+               <rdg wit=" G P ">tyrsis</rdg>
+               <rdg wit=" ν η r o n ">thyrsus</rdg>
+               <rdg wit=" φ s ">thirsus</rdg>
+               <rdg wit=" κ χ ρ1 δ ">tyrsus</rdg>
+               <rdg wit=" α μ π λ β ">tirsus</rdg>
+            </app>
+            <app loc="C2.17.99">
+               <lem>este</lem>
+               <rdg wit="Burm.">ite</rdg>
+               <rdg wit="Baehr.">arte</rdg>
+               <rdg wit="Schenkl olim.">ecce</rdg>
+            </app>
+            <app loc="C2.17.99">
+               <lem>ob hoc</lem>
+               <rdg wit=" η φ ν ρ2 ζ r Ulit. t Burm. Beck. ">ab hoc</rdg>
+            </app>
+            <app loc="C2.17.99">
+               <lem>vivite</lem>
+               <rdg wit="P">invite</rdg>
+            </app>
+            <app loc="C2.17.99">
+               <lem>vos</lem>
+               <rdg wit="λ d1 c">nos</rdg>
+            </app>
+            <app loc="C2.17.100">
+               <lem>sociavit</lem>
+               <rdg wit="G r">sotiavit</rdg>
+               <rdg wit="P">sosciavit</rdg>
+               <rdg wit="λ1">sociat</rdg>
+               <rdg wit="κ">socia</rdg><!-- t add. m1) -->
+               <rdg wit="λ">satiavit</rdg>
+            </app>
+         </listApp>
+      </body>
+  </text>
+</TEI>

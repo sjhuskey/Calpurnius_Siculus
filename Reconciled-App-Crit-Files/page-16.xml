@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <listApp>
+            <app loc="C2.16.72">
+               <lem>Qui numerare velit, quam multa sub arbore nostra</lem>
+               <rdg wit = "φ"></rdg><!-- φ (add. m2) -->
+            </app>
+            <app loc="C2.16.73">
+               <lem>poma legam, tenues citius numerabit harenas</lem>
+               <rdg wit = "φ"></rdg><!-- φ (add. m2) -->
+            </app>
+            <app loc="C2.16.74">
+               <lem>semper holus metimus, nee bruma nec impedit aestas:</lem>
+               <rdg wit = "φ"></rdg><!-- φ (add. m2) -->
+            </app>
+            <app loc="C2.16.75">
+               <lem>si venias, Crocale, totus tibi serviet hortus</lem>
+               <rdg wit = "φ"></rdg><!-- φ (add. m2) -->
+            </app>
+            <app loc="C2.16.73">
+               <lem wit="GH Baehr. Schenkl">tenues citius</lem>
+               <rdg wit = " P">tenues cuius</rdg>
+               <rdg wit = " N ">cicius tenues</rdg>
+               <rdg wit="V edd.">citius tenues</rdg>
+            </app>
+            <app loc="C2.16.73">
+               <lem>numerabit</lem>
+               <rdg wit = "P">enumerat</rdg>
+            </app>
+            <app loc="C2.16.73">
+               <lem wit="β ρ ζ s o n Schenkl"> harenas</lem>
+               <rdg wit="N G P φ κ π χ γ μ ν α2 η δ θ r i1 l1 Vienn. Guid. Ulit. ph Glaeser Baehr. Keene"> arenas </rdg>
+               <rdg wit="ε λ α1 edd."> aristas </rdg>
+               <rdg wit="Burm."> avenas </rdg>
+            </app>
+            <app loc="C2.16.74">
+               <lem wit="N"> holus </lem>
+               <rdg wit=" G P V "> olus </rdg>
+            </app>
+            <app loc="C2.16.74">
+               <lem> metimus </lem>
+               <rdg wit=" P "> metitur </rdg>
+            </app>
+            <app loc="C2.16.74">
+               <lem> bruma </lem>
+               <rdg wit=" N "> pbruma </rdg><!-- N(corr. m2) -->
+               <rdg wit=" P "> prima </rdg>
+            </app>
+            <app loc="C2.16.74">
+               <lem>semper holus metimus, nec bruma nec impedit aestas</lem>
+               <rdg wit="δ"></rdg>                                        
+            </app>
+            <app loc="C2.16.75">
+               <lem> venias </lem>
+               <rdg wit=" ε π λ α γ η δ θ β ζ u e b d2 i2 l2 g "> venies </rdg>
+            </app>
+            <app loc="C2.16.75">
+               <lem> totus tibi </lem>
+               <rdg wit=" π "> tibi totus </rdg>
+            </app>
+            <app loc="C2.16.75">
+               <lem> serviet </lem>
+               <rdg wit=" N P φ "> serviat </rdg>
+            </app>
+            <app loc="C2.16.75">
+               <lem wit="ε β γ φ η ν λ edd."> hortus </lem>
+               <rdg wit=" N G P κ ρ α χ μ π δ b "> ortus </rdg>
+               <rdg wit=" H "> annus </rdg>
+            </app>
+            <app loc="C2.16.76">
+               <lem> Quamvis </lem>
+               <rdg wit=" Kempfer "> et cum </rdg>
+            </app>
+            <app loc="C2.16.76">
+               <lem> languentes </lem>
+               <rdg wit=" P"> langentes </rdg>
+            </app>
+            <app loc="C2.16.76">
+               <lem> excoquat </lem>
+               <rdg wit=" N "> exoquat </rdg>
+               <rdg wit=" P χ "> exquoquat </rdg>
+               <rdg wit=" ρ1 δ1 "> exquat </rdg>
+            </app>
+            <app loc="C2.16.76">
+               <lem wit="N"> herbas </lem><!-- N(uvas m2 in mg.) -->
+            </app>
+            <app loc="C2.16.77">
+               <lem wit="p φ α κ ρ ν θ η2 λ2 χ2 ζ edd."> sume </lem>
+               <rdg wit=" N G H π β λ1 χ1 η1 "> summe </rdg>
+               <rdg wit="ε δ e u b"> summo </rdg>
+               <rdg wit=" γ μ d2 i l2 p "> sumo </rdg>
+            </app>
+            <app loc="C2.16.77">
+               <lem> tamen </lem>
+               <rdg wit="N">t'ra</rdg>
+               <!--unde pro sume tamen Glaeser con. interea-->>
+            </app>
+            <app loc="C2.16.77">
+               <lem wit="ε γ π η ν λ2 χ2 edd."> calathos </lem>
+               <rdg wit="N G κ ρ α δ μ β λ1 χ1 b g l2 Barth"> calatos </rdg>
+               <rdg wit=" φ "> calamos </rdg>
+            </app>
+            <app loc="C2.16.77">
+               <lem> nutanti </lem>
+               <rdg wit=" π ε e u "> mutanti </rdg>
+               <rdg wit="Burm.">nutantes</rdg>
+               <rdg wit=" Burm. "> sudantes </rdg>
+            </app>
+            <app loc="C2.16.77">
+               <lem> coactos </lem>
+               <rdg wit=" Burm."> coacto </rdg>
+            </app>
+            <app loc="C2.16.79">
+               <lem> fiet </lem>
+               <rdg wit=" μ "> fiat </rdg>
+            </app>
+            <app loc="C2.16.79">
+               <lem wit="φ ν η θ ζ r"> surget </lem>
+            </app>
+            <app loc="C2.16.79">
+               <lem> Kalendis</lem>
+               <rdg wit=" P"> halendis </rdg>
+               <rdg wit=" μ "> kalendas </rdg>
+            </app>
+            <app loc="C2.16.80">
+               <lem> At</lem>
+               <rdg wit="N G Baehr. Schenkl"> at</rdg>
+               <rdg wit=" P V edd."> et  </rdg>
+            </app>
+            <app loc="C2.16.80">
+               <lem wit="G"> nos </lem><!--in G s. v. add. m1 -->
+            </app>
+            <app loc="C2.16.80">
+               <lem> praetorrida </lem>
+               <rdg wit="P"> ptorida </rdg>
+            </app>
+            <app loc="C2.16.80">
+               <lem wit="P η ρ β π φ γ χ ν κ edd."> munerat </lem>
+               <rdg wit=" N G λ μ δ"> numerat </rdg><!-- G(corr. in mg. m1) -->
+               <rdg wit=" ε "> munera </rdg>
+               <rdg wit=" α "> muneat </rdg>
+            </app>
+            <app loc="C2.16.81">
+               <lem wit="G A α edd."> renidenti </lem>
+               <rdg wit=" N"> renitendi </rdg>
+               <rdg wit="G ε γ β η δ θ π2 ν κ λ ρ φ χ ζ r u e b i2 l2 o n s g Titius"> renitenti </rdg><!-- G(in mg.) --><!--b(corr. Guid.)-->
+               <rdg wit=" P"> redempti </rdg>
+               <rdg wit=" π1"> retinenti </rdg>
+               <rdg wit=" μ"> remittenti </rdg>
+            </app>
+            <app loc="C2.16.81">
+               <lem> tibi </lem>
+               <rdg wit=" G "> cū </rdg>
+            </app>
+            <app loc="C2.16.81">
+               <lem wit="N G A edd"> chias </lem>
+               <rdg wit="P "> cymas </rdg>
+               <rdg wit="ρ χ ν κ β φ π η δ θ ζ r d1 "> thilas </rdg>
+               <rdg wit="ε λ γ e d2 "> thillas </rdg>
+               <rdg wit="α"> tillas </rdg>
+               <rdg wit=" μ"> chillas </rdg>
+               <rdg wit=" s "> thalas </rdg>
+               <rdg wit=" Guid. "> telas </rdg>
+            </app>
+            <app loc="C2.16.82">
+               <lem> castaneasque nuces</lem>
+               <rdg wit=" P "> canasteasque mices</rdg>
+            </app>
+            <app loc="C2.16.82">
+               <lem> cum </lem>
+               <rdg wit=" N"> con </rdg>
+            </app>
+            <app loc="C2.16.82">
+               <lem> Decembri </lem>
+               <rdg wit="P V edd. ante Glaeser"> novembri </rdg>
+            </app>
+            <app loc="C2.16.83">
+               <lem> echinni </lem>
+               <rdg wit=" ε ρ α μ π δ "> echini </rdg>
+            </app>
+            <app loc="C2.16.84">
+               <lem>Num-num</lem>
+               <rdg wit="P"> nunc-nunc </rdg>
+            </app>
+            <app loc="C2.16.84">
+               <lem> annis</lem>
+               <rdg wit="u"> an nun</rdg>
+               <rdg wit=" b  g l2"> an num</rdg>
+               <rdg wit=" i2"> annum</rdg>
+            </app>
+            <app loc="C2.16.85">
+               <lem> decipiorque</lem>
+               <rdg wit="P"> deciriorque</rdg>
+               <rdg wit="φ ν η θ ζ r s o n"> decrepitusque</rdg>
+               <rdg wit="δ"> decipietque</rdg>
+               <rdg wit="i1"> decipior</rdg>
+               <rdg wit="Heins."> decipiorne</rdg>
+            </app>
+            <app loc="C2.16.85">
+               <lem> decipiorque miser</lem>
+               <rdg wit="Barth."> decipior miser? o!</rdg>
+               <rdg wit="Vienn."> decipior miser o</rdg>
+            </app>
+            <app loc="C2.16.86">
+               <lem> vestigia</lem>
+               <rdg wit="N"> vestiga</rdg><!-- N(corr. m2) -->
+            </app>
+            <app loc="C2.16.87">
+               <lem> gracili</lem>
+               <rdg wit="φ ν η ζ r s o n Gronov."> fragili</rdg><!--Obss. IV 22-->
+            </app>
+            <app loc="C2.16.87">
+               <lem> fallo</lem>
+               <rdg wit="N"> falo</rdg><!-- N(corr. m2) -->
+            </app>
+         </listApp>
+      </body>
+  </text>
+</TEI>

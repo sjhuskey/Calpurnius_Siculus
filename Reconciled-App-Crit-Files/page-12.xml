@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <listApp>
+            <app loc="C2.12.12">
+               <lem>ilice</lem>
+               <rdg wit="N μ π">illice</rdg>
+               <rdg wit="G">ylice</rdg>
+            </app>
+            <app loc="C2.12.12">
+               <lem>lentus</lem>
+               <rdg wit="κ χ ρ2 Baehr. Schenkl">lentus</rdg><!--Baehr. (lect. lat. p. 36) Schenkl-->
+               <rdg wit="ω edd.">lentas</rdg>
+               <rdg wit="ζ">lectas</rdg>
+               <rdg wit="Titius Friesemann">laetas</rdg><!--(coll. crit. p. 135)-->
+            </app>
+            <app loc="C2.12.13">
+               <lem>Satyrique</lem>
+               <rdg wit="N ε χ ρ2 φ2 λ ν α γ">satyrique</rdg>
+               <rdg wit="G P β κ ρ1 μ φ1 π">satirique</rdg>
+            </app>
+            <app loc="C2.12.14">
+               <lem wit=" π φ γ χ κ ρ η ε ν edd. ">affuerunt</lem>
+               <rdg wit="N G P α μ δ">affuerant</rdg>
+               <rdg wit="λ β d Vienn.">adfuerant</rdg>
+            </app>
+            <app loc="C2.12.14">
+               <lem>Dryades</lem>
+               <rdg wit="ν λ γ">dryades</rdg>
+               <rdg wit="N G P κ χ ρ ε α μ φ π β">driades</rdg>
+            </app>
+            <app loc="C2.12.14">
+               <lem>Naides</lem>
+               <rdg wit="P Burm. sqq.">naides</rdg>
+               <rdg wit="N V edd. ante Burm.">naiades</rdg>
+               <rdg wit="G δ μ θ s">nayades</rdg>
+            </app>
+            <app loc="C2.12.14">
+               <lem>udo</lem>
+               <rdg wit="P">ubo</rdg>
+            </app>
+            <app loc="C2.12.16">
+               <lem>incurrere</lem>
+               <rdg wit="N">incurere</rdg><!--N (corr. m2)-->
+            </app>
+            <app loc="C2.12.16">
+               <lem>frondibus</lem>
+               <rdg wit="κ χ1 β">fontibus</rdg>
+            </app>
+            <app loc="C2.12.16">
+               <lem>euri</lem>
+               <rdg wit="P">ēris</rdg>
+            </app>
+            <app loc="C2.12.17">
+               <lem>fecere</lem>
+               <rdg wit="Burm.">egere</rdg>
+            </app>
+            <app loc="C2.12.18">
+               <lem>neglectaque</lem>
+               <rdg wit="G">neglettaque</rdg>
+               <rdg wit="N P">negletaque</rdg>
+            </app>
+            <!--vv. 18-19 sic praebent V (corr. A) rdsebon : <lem>omnia cessabant illis certantibus ausa est.</lem> Guid. et Beck censent ambos versus expungendos-->
+            <app loc="C2.12.20">
+               <lem wit=" ε φ γ α ν λ ρ2 ">daedala</lem>
+               <rdg wit="N G κ β π χ">dedala</rdg>
+               <rdg wit="ρ1">daedalea</rdg>
+               <rdg wit="μ">dedela</rdg>
+            </app>
+            <app loc="C2.12.20">
+               <lem>nectareos</lem>
+               <rdg wit="N">nectares</rdg><!--(infra et supra litt. r est rasura; o add. sup. m2)-->
+            </app>
+            <app loc="C2.12.20">
+               <lem>intermittere</lem>
+               <rdg wit="G">intramittere</rdg>
+               <rdg wit="φ ν η ρ2 r s Guid.">intervisere</rdg>
+               <rdg wit="π">intermiscere</rdg>
+               <rdg wit="λ">internectere</rdg>
+               <rdg wit="θ">intermisere</rdg>
+            </app>
+            <app loc="C2.12.21">
+               <lem>iamque</lem>
+               <rdg wit="P">iam</rdg>
+            </app>
+            <app loc="C2.12.21">
+               <lem>annosa</lem>
+               <rdg wit="V r e u b d i l n o s Ulit. Vienn. Wernsd. Beck">umbrosa</rdg>
+               <rdg wit="α">herbosa</rdg>
+               <rdg wit="μ">herbora</rdg>
+            </app>
+            <app loc="C2.12.21">
+               <lem>medius</lem>
+               <rdg wit="P">meolus</rdg>
+            </app>
+            <app loc="C2.12.21">
+               <lem>umbra</lem>
+               <rdg wit=" φ π2 ν ρ2 θ ζ edd. ante Glaeser ">ulmo</rdg><!-- (sed iam Burm. umbra) -->
+            </app>
+            <app loc="C2.12.22">
+               <lem>Thyrsis</lem>
+               <rdg wit="γ δ edd.">thyrsis</rdg>
+               <rdg wit="N">tirsis</rdg>
+               <rdg wit="G">tirsys</rdg>
+               <rdg wit="P">tyrsi</rdg>
+               <rdg wit="φ π α λ μ κ β ρ1">tirsus</rdg>
+               <rdg wit="ρ2">tyrsis</rdg>
+               <rdg wit="ε ν η r u b e o n">thyrsus</rdg>
+               <rdg wit="χ">tyrsus</rdg>
+               <rdg wit="s">thirsus</rdg>
+            </app>
+            <app loc="C2.12.22">
+               <lem>iudice</lem>
+               <rdg wit="P">indice</rdg>
+            </app>
+            <app loc="C2.12.22">
+               <lem>pignora</lem>
+               <rdg wit="P">pignor</rdg>
+               <rdg wit="α μ">pignera</rdg>
+            </app>
+            <app loc="C2.12.22">
+               <lem>dixit</lem>
+               <rdg wit="κ χ π μ β">dicit</rdg>
+            </app>
+            <!--hic versus post v. 23 invenitur in s.-->
+            <!-- 23 satis-24 victus exstant in Exc. Par. -->
+            <app loc="C2.12.23">
+               <lem wit=" V Exc. Par. edd. ">hoc</lem>
+               <rdg wit="N G H2">hic</rdg>
+               <rdg wit="P">hac</rdg>
+               <rdg wit="Glaeser Keene">hinc</rdg>
+            </app>
+            <app loc="C2.12.23">
+               <lem wit="d2 Kempfer Burm. Wernsd. Beck Baehr.">habete</lem>
+               <rdg wit="N P V Exc. Par. edd.">habeto</rdg><!-- P (in quo t s. v. m1) -->
+               <rdg wit="G κ β">habento</rdg>
+               <rdg wit="d1">habere</rdg>
+            </app>
+            <app loc="C2.12.24">
+               <lem>fert</lem>
+               <rdg wit="G">feret</rdg><!--G (in mg. portat et ferret)-->
+            </app>
+            <app loc="C2.12.24">
+               <lem wit=" μ α ">opprobria</lem>
+               <rdg wit="ε φ γ χ ν λ">obprobria</rdg>
+               <rdg wit="G κ ρ β">obrobria</rdg>
+               <rdg wit="N">opbrobria</rdg><!-- N (ut vid., unde oprobria, ut vid. m2) -->
+               <rdg wit="π">oprobria</rdg>
+            </app>
+            <app loc="C2.12.24">
+               <lem>victus</lem>
+               <rdg wit="P">victor</rdg>
+            </app>
+            <app loc="C2.12.25">
+               <lem>distinguere</lem>
+               <rdg wit="P">distingere</rdg>
+               <rdg wit="N">distingure</rdg><!--N (corr. m2)-->
+            </app>
+            <app loc="C2.12.26">
+               <lem>possitis</lem>
+               <rdg wit="Burm.">possimus</rdg>
+            </app>
+            <app loc="C2.12.26">
+               <lem>quisque</lem>
+               <rdg wit="G">quique</rdg>
+            </app>
+            <app loc="C2.12.26">
+               <lem>iactate</lem>
+               <rdg wit="P κ α γ φ1 η θ d">iactare</rdg>
+               <rdg wit="μ">iactante</rdg>
+            </app>
+         </listApp>
+      </body>
+  </text>
+</TEI>

@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Title</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Publication Information</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Information about the source</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listApp>
+                <app loc="C1.6.13">
+                    <lem>vocas</lem>
+                    <rdg wit="P p">vacas</rdg>
+                </app>
+                <app loc="C1.6.13">
+                    <lem>sequor</lem>
+                    <rdg wit="N Glaeser Keene">sequar</rdg>
+                </app>
+                <app loc="C1.6.13">
+                    <lem>Ornyte</lem>
+                    <rdg wit="ω">ornite</rdg>
+                    <rdg wit="N">or.</rdg><!-- in ras. -->
+                </app>
+                <app loc="C1.6.13">
+                    <lem wit="N G A P π ε χ2 edd.">Leuce</lem>
+                    <rdg wit="κ α χ1">leute</rdg>
+                    <rdg wit="φ η ρ ν θ r s">lene</rdg>
+                    <rdg wit="γ μ">lance</rdg>
+                    <rdg wit="b">luce</rdg><!-- b(corr. Guid.)--><!-- Guid. should probably be a new rdg. -->
+                    <rdg wit="λ δ β">lauce</rdg>
+                </app>
+                <app loc="C1.6.14">
+                    <lem>nocturnaque</lem>
+                    <rdg wit=" G "> noturnaque </rdg>
+                    <rdg wit=" N "> nocturnaque </rdg><!-- (nocturna in ras.) -->
+                </app>
+                <app loc="C1.6.15">
+                    <lem>pervia</lem>
+                    <rdg wit="P">previa</rdg>
+                </app>
+                <app loc="C1.6.15">
+                    <lem>Fauni</lem>
+                    <rdg wit="P">fanni</rdg>
+                </app>
+                <app loc="C1.6.16">
+                    <lem> </lem>
+                    <rdg wit="φ ε γ η ν edd.">O.</rdg><!--edd. praeter Baehr. et Schenkl.-->
+                </app>
+                <app loc="C1.6.16">
+                    <lem>calamos</lem>
+                    <rdg wit="G">chalamos</rdg>
+                </app>
+                <app loc="C1.6.16">
+                    <lem>prome igitur calamos et si qua recondita servas;</lem>
+                    <rdg wit="b"> </rdg>
+                    <note resp="Giarratano">post hunc versum Beck aliquid excidisse
+                        suspicatur</note>
+                </app>
+                <app loc="C1.6.17">
+                    <lem>mea</lem>
+                    <rdg wit="ρ"> </rdg>
+                    <rdg wit="A">mea</rdg>
+                    <!-- add. A in mg. -->
+                    <rdg wit="ν φ η θ r s o n Burm. Beck">nova</rdg>
+                </app>
+                <app loc="C1.6.18">
+                    <lem>matura</lem>
+                    <rdg wit="P p Kempfer">natura</rdg>
+                </app>
+                <app loc="C1.6.18">
+                    <lem wit="N">docilis</lem><!-- N(s eras.) -->
+                    <rdg wit="Beck.">docili vel docilem</rdg>
+                    </app>
+                <app loc="C1.6.18">
+                    <lem wit="G ν φ λ ρ μ1">arundine</lem>
+                    <rdg wit="N α β δ η μ2 π χ ε γ κ">harundine</rdg>
+                </app>
+                <app loc="C1.6.18">
+                    <lem wit="N G A H P Baehr. Schenkl">Ladon</lem><!-- Schenkl (qui proposnit Ladas) -->
+                    <rdg wit="ν φ χ γ μ δ η θ r s">Lydon</rdg>
+                    <rdg wit="κ π β ρ1">Lidon</rdg>
+                    <rdg wit="α λ b n">Ligdon</rdg>
+                    <rdg wit="ε ρ2 edd.">Lygdon</rdg>
+                    <rdg wit="Wilamowitz">Lacon</rdg>
+                    <!--(ind. lect. aest. Gott. 1884 p. 6)-->
+                    <rdg wit="Schenkl">Ladas</rdg>
+                </app>
+                <app loc="C1.6.19">
+                    <lem wit="P π κ χ λ α Baehr. Schenkl">O.</lem>
+                    <rdg wit="rell. codd. et edd."> </rdg>
+                    <rdg wit="d">C.</rdg>
+                </app>
+                <app loc="C1.6.19">
+                    <lem>Et</lem>
+                    <rdg wit="Maehly">en</rdg>
+                </app>
+                <app loc="C1.6.19">
+                    <lem>captatae</lem>
+                    <rdg wit="G">captata</rdg>
+                    <rdg wit="G">captate</rdg><!--in mg.-->
+                </app>
+                <app loc="C1.6.19">
+                    <lem>pariter</lem>
+                    <rdg wit="P p"> </rdg>
+                </app>
+                <app loc="C1.6.19">
+                    <lem>successimus</lem>
+                    <rdg wit="G">subcessimus</rdg>
+                </app>
+              <app loc="C1.6.20">
+                    <lem> </lem>
+                    <rdg wit="μ ρ">O.</rdg>
+                    <rdg wit="ν φ δ η r s o n Ulit. Burm. Wernsd. Beck">C.</rdg>
+                </app>
+                <app loc="C1.6.20">
+                    <lem>sacra</lem>
+                    <rdg wit="G δ">sacro</rdg>
+                </app>
+                <app loc="C1.6.20">
+                    <lem wit="P V N edd.">descripta</lem><!-- N(m2 in mg.) -->
+                    <rdg wit=" G Jacoby "> depicta </rdg><!--Jacoby (l. l. p. 1291)-->
+                    <rdg wit="N">dipicta</rdg><!-- N(corr. m1 in depicta) -->
+                </app>
+                <app loc="C1.6.20">
+                    <lem>est</lem>
+                    <rdg wit="e u"> </rdg>
+                </app>
+                <app loc="C1.6.21">
+                    <lem>quis</lem>
+                    <rdg wit="N">qui</rdg>
+                </app>
+                <app loc="C1.6.22">
+                    <lem> </lem>
+                    <rdg wit="ε γ">C.</rdg><!--edd. ante Glaeser.(except. rsond Ulit. Burm. Wernsd. Beck.)--><!--NEEDS WORK!-->
+                </app>
+                <app loc="C1.6.22">
+                    <lem>aspicis</lem>
+                    <rdg wit="ε">aspicit</rdg>
+                </app>
+                <app loc="C1.6.22">
+                    <lem>nunc</lem>
+                    <rdg wit="Vienn.">tunc</rdg>
+                </app>
+                <app loc="C1.6.22">
+                    <lem>littera</lem>
+                    <rdg wit="N P">litera</rdg><!-- N (corr. m2) -->
+                    </app>
+                <app loc="C1.6.23">
+                    <lem>servet</lem>
+                    <rdg wit="N">csorvet</rdg><!--(o et pars. sup. litt. s in ras.)-->
+                </app>
+                <app loc="C1.6.23">
+                    <lem>arenti</lem>
+                    <rdg wit="N">arena</rdg>
+                </app>
+                <app loc="C1.6.23">
+                    <lem>se</lem>
+                    <rdg wit="N"> </rdg><!-- N (add.m1) -->
+                    </app>
+                <app loc="C1.6.23">
+                    <lem>se laxet</lem>
+                    <rdg wit="d">se laxat</rdg>
+                    <rdg wit="Schenkl olim">laxetur</rdg>
+                </app>
+                <app loc="C1.6.23">
+                    <lem>hiatu</lem>
+                    <rdg wit="N λ">hyatu</rdg>
+                </app>
+                <app loc="C1.6.24">
+                    <lem wit="P α β κ χ λ ρ μ π δ p Glaeser Keene Baehr. Schenkl">C.</lem>
+                    <rdg wit="G">§</rdg>
+                    <rdg wit="N ε ν φ γ η edd."> </rdg>
+                </app>
+                <app loc="C1.6.24">
+                    <lem>Ornyte</lem>
+                    <rdg wit="ω">ornite</rdg>
+                </app>
+                <app loc="C1.6.24">
+                    <lem wit="P ρ2 ε κ χ λ β α ν γ π η δ edd.">propius</lem>
+                    <rdg wit="N G φ μ ρ1 θ i2 h Baehr.">proprius</rdg><!-- N (r alt. exp. m1) -->
+                </app>
+                <app loc="C1.6.24">
+                    <lem>tua</lem>
+                    <rdg wit="d">tu</rdg>
+                </app>
+                <app loc="C1.6.24">
+                    <lem>alto</lem>
+                    <rdg wit="N G">altos</rdg>
+                </app>
+                <app loc="C1.6.25">
+                    <lem
+                        wit="N (rt in ras m2) P V edd. (probavit mihi per litteras F. Leo coll. virides v. 22, Verg. Ecl. V 13, Naso II, 63 sq.)"
+                        >cortice</lem><!-- NEEDS WORK -->
+                    <rdg wit="G A Schenkl">codice</rdg>
+                </app>
+                <app loc="C1.6.25">
+                    <lem>descriptos</lem>
+                    <rdg wit="G">destrictos</rdg>
+                </app>
+                <app loc="C1.6.25">
+                    <lem>citius</lem>
+                    <rdg wit="P">sycios</rdg>
+                </app>
+                <app loc="C1.6.25">
+                    <lem>percurrere</lem>
+                    <rdg wit="N">percurere</rdg><!-- N(corr. m2) -->
+                    <note resp="Giarratano">percurrere certius orsus Barth. (Adv. 34, 8)</note>
+                </app>
+                <app loc="C1.6.26">
+                    <lem> </lem>
+                    <rdg wit="π">O.</rdg>
+                </app>
+                <app loc="C1.6.26">
+                    <lem>nam</lem>
+                    <rdg wit="G">namque</rdg><!-- que del.-->
+                </app>
+            </listApp>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,238 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <!-- Page 7 -->
+         <listApp>
+            <app loc="C1.7.28">
+               <lem>O.</lem>
+               <rdg wit=" G P φ ε μ κ χ ρ2 ν γ α β η δ edd. ">O.</rdg>
+               <rdg wit=" λ π ρ1 "> </rdg>
+               <rdg wit=" N ">C.</rdg>
+            </app>
+            <app loc="C1.7.28">
+               <lem>haec</lem>
+               <rdg wit=" N P G λ Glaeser sqq. ">haec</rdg>
+               <rdg wit=" V edd. ante Glaeser ">hoc</rdg>
+            </app>
+            <app loc="C1.7.28">
+               <lem>triviali</lem>
+               <rdg wit=" P V edd. ">triviali</rdg>
+               <rdg wit=" N G ">tibi vili</rdg>
+               <!-- N (in quo litt. evanidas rest. m2) -->
+               <rdg wit=" o ">rivali</rdg>
+            </app>
+            <app loc="C1.7.29">
+               <lem>nihil armentale</lem>
+               <rdg wit=" N ">nichil armentale</rdg>
+               <!-- in quo litt. evan. rest. m2 -->
+            </app>
+            <app loc="C1.7.29">
+               <lem>resultat</lem>
+               <rdg wit=" Burm. Heins. Glaeser Keene ">resultant</rdg>
+               <!-- codex quidam Burmanni  -->
+            </app>
+            <app loc="C1.7.30">
+               <lem>nec montana sacros distinguunt iubila versus</lem>
+               <rdg wit="G"> </rdg>
+            </app>
+            <app loc="C1.7.30">
+               <lem>nec</lem>
+               <rdg wit=" N P κ χ β ν φ λ π ρ r s o n Guid. Beck Glaeser sqq. ">nec</rdg>
+               <rdg wit=" A ε α γ μ η δ edd. ante Glaeser ">non</rdg>
+            </app>
+            <app loc="C1.7.30">
+               <lem>distinguunt</lem>
+               <rdg wit=" N P ρ γ κ μ ε π φ χ δ ">distingunt</rdg>
+               <rdg wit=" β s ">destingunt</rdg>
+               <rdg wit=" λ η ">distinguit</rdg>
+               <rdg wit=" Heins. ">destringunt</rdg>
+            </app>
+            <app loc="C1.7.30">
+               <lem>iubila</lem>
+               <rdg wit=" P p ">iubilia</rdg>
+               <rdg wit=" δ ">nubila</rdg>
+               <rdg wit=" Heins. ">sibila</rdg>
+            </app>
+            <!-- post v. 32 positus est in N (corr. m2 v.31 in mg. post v. 30 adscripto) -->
+            <app loc="C1.7.31">
+               <lem>C.</lem>
+               <rdg wit=" G P ε χ φ π α κ ν β η δ ρ γ edd. ">C.</rdg>
+               <rdg wit=" N ">O.</rdg>
+               <rdg wit=" λ μ "> </rdg>
+            </app>
+            <app loc="C1.7.31">
+               <lem>oculoque</lem>
+               <rdg wit=" N ">oculosque</rdg>
+            </app>
+            <app loc="C1.7.31">
+               <lem>sequaci</lem>
+               <rdg wit=" N ">sagaci</rdg>
+               <!-- N (in v. in mg.) -->
+            </app>
+            <app loc="C1.7.32">
+               <lem>perlege</lem>
+               <rdg wit=" Gudius ">praelege</rdg>
+            </app>
+            <app loc="C1.7.33">
+               <lem>O.</lem>
+               <rdg wit=" P α β π κ ν ρ ε χ γ φ δ η edd. ">O.</rdg>
+               <rdg wit=" N λ μ "> </rdg>
+               <rdg wit=" G ">C.</rdg>
+            </app>
+            <app loc="C1.7.33">
+               <lem>tueor</lem>
+               <rdg wit=" N ">tueie</rdg>
+               <!-- N (ut videtur) -->
+               <rdg wit=" s ">tutor</rdg>
+            </app>
+            <app loc="C1.7.35">
+               <lem>patefactis</lem>
+               <rdg wit=" N ">patefatis</rdg>
+               <!-- N (corr. m2) -->
+            </app>
+            <app loc="C1.7.35">
+               <lem>fatis</lem>
+               <rdg wit=" Ulit. Heins. Kempfer Wernsd. Beck Glaeser sqq. ">fatis</rdg>
+               <rdg wit=" ω edd. ante Wernsd. ">fagis</rdg>
+            </app>
+            <app loc="C1.7.36">
+               <lem>gaudete</lem>
+               <rdg wit="#N">cogaudete</rdg>
+               <!-- (co exp.) -->
+            </app>
+            <app loc="C1.7.38">
+               <lem>pecus</lem>
+               <rdg wit=" P "> </rdg>
+            </app>
+            <app loc="C1.7.38">
+               <lem>nocturnaque</lem>
+               <rdg wit=" G ">noturnaque</rdg>
+            </app>
+            <app loc="C1.7.39">
+               <lem>fraxinea</lem>
+               <rdg wit=" P ">frasinea</rdg>
+               <rdg wit=" δ ">fraginea</rdg>
+               <rdg wit=" π1 ">flaxinea</rdg>
+               <rdg wit=" λ2 ">frassinea</rdg>
+            </app>
+            <app loc="C1.7.39">
+               <lem>nolit</lem>
+               <rdg wit=" λ ">voluit</rdg>
+               <rdg wit=" δ ">noluit</rdg>
+            </app>
+            <app loc="C1.7.39">
+               <lem>praesaepia</lem>
+               <rdg wit=" G ">praesepia</rdg>
+            </app>
+            <app loc="C1.7.40">
+               <lem>insidias</lem>
+               <rdg wit=" N ">insidia</rdg>
+               <!-- N (corr. m2) -->
+            </app>
+            <app loc="C1.7.40">
+               <lem>ovilibus</lem>
+               <rdg wit=" N ">ovillibus</rdg>
+               <!-- N (corr. m1) -->
+            </app>
+            <app loc="C1.7.41">
+               <lem>afferet</lem>
+               <rdg wit=" P ">afferret</rdg>
+               <rdg wit=" β ">adferret</rdg>
+               <rdg wit=" χ1 γ u ">affert</rdg>
+               <rdg wit=" ε ">afferunt</rdg>
+            </app>
+            <app loc="C1.7.41">
+               <lem>abiget</lem>
+               <rdg wit=" N ">atabiget</rdg>
+               <!-- ( vel arab. ) N (corr. m2) -->
+            </app>
+            <app loc="C1.7.42">
+               <lem>aurea secura cum pace renascitur aetas</lem>
+               <rdg wit=" N G "> </rdg>
+               <!-- N ( in quo add. m2 in mg. )  -->
+            </app>
+            <app loc="C1.7.42">
+               <lem>secura</lem>
+               <rdg wit=" Burm. ">sincera</rdg>
+               <rdg wit=" Friesemann ">Saturni</rdg>
+            </app>
+            <app loc="C1.7.42">
+               <lem>cum</lem>
+               <rdg wit=" N2 ">tum</rdg>
+            </app>
+            <app loc="C1.7.42">
+               <lem>pace</lem>
+               <rdg wit=" P ">pate</rdg>
+            </app>
+            <app loc="C1.7.43">
+               <lem>redit</lem>
+               <rdg wit=" P ">reddit</rdg>
+            </app>
+            <app loc="C1.7.43">
+               <lem>tandem</lem>
+               <rdg wit=" G ">tandem</rdg>
+               <!-- G (supra lin.) -->
+            </app>
+            <app loc="C1.7.43">
+               <lem>squalore</lem>
+               <rdg wit=" P ">tādāsqulore</rdg>
+               <!-- P ( s ex d ) -->
+            </app>
+            <app loc="C1.7.44">
+               <lem>Themis</lem>
+               <rdg wit=" G ">temis</rdg>
+               <rdg wit=" P ">thenis</rdg>
+            </app>
+            <app loc="C1.7.44">
+               <lem>sequuntur</lem>
+               <rdg wit=" Kempfer ">sequentur</rdg>
+            </app>
+            <app loc="C1.7.45">
+               <lem>maternis</lem>
+               <rdg wit=" N ">maturnis</rdg>
+               <!-- N (corr. m2) -->
+            </app>
+            <app loc="C1.7.45">
+               <lem>causam</lem>
+               <rdg wit=" μ ">curnam</rdg>
+               <!-- (n exp.) -->
+               <rdg wit=" d ">curam</rdg>
+               <rdg wit=" Burm. Beck ">caussas</rdg>
+            </app>
+            <app loc="C1.7.45">
+               <lem>vicit</lem>
+               <rdg wit=" N P Glaeser sqq. ">vicit</rdg>
+               <rdg wit=" G ">vīcit</rdg>
+               <rdg wit=" d ">ludit</rdg>
+               <rdg wit=" V edd. ante Glaeser ">lusit</rdg>
+               <rdg wit=" μ ">visit</rdg>
+               <rdg wit=" γ "> </rdg>
+            </app>
+            <app loc="C1.7.45">
+               <lem>Iulis</lem>
+               <rdg wit=" N P G V r e u b d s g i2 l2 Baehr. Schenkl ">iulis</rdg>
+               <rdg wit=" μ ">iullis</rdg>
+               <rdg wit=" γ "> </rdg>
+               <rdg wit=" A edd. ">in ulnis</rdg>
+            </app>
+         </listApp>
+      </body>
+   </text>
+</TEI>

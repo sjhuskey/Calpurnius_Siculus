@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <listApp>
+            <app loc="C2.15.56">
+               <lem>Crocalen</lem>
+               <rdg wit = "N P">crocale</rdg>
+               <rdg wit = "G">crochalem</rdg>
+               <rdg wit = "Modius">crocale</rdg>
+               <rdg wit = "Heins.">crotale</rdg>
+            </app>
+            <app loc="C2.15.56">
+               <lem>quis</lem>
+               <rdg wit = "Kempfer">quisquis</rdg>
+            </app>
+            <app loc="C2.15.56">
+               <lem>vota</lem>
+               <rdg wit = "P">nota</rdg>
+            </app>
+            <app loc="C2.15.57">
+               <lem> audiat</lem>
+               <rdg wit="P"> audeat </rdg>
+            </app>
+            <app loc="C2.15.57">
+               <lem>huic</lem>
+               <rdg wit=" Gronov."> hic </rdg>
+            </app>
+            <app loc="C2.15.57">
+               <lem> soli </lem>
+               <rdg wit=" ε e "> silis </rdg>
+               <rdg wit=" λ "> sili </rdg>
+               <rdg wit=" μ γ α δ ρ2 u b d2 l2 i2 Titius "> similis </rdg>
+               <rdg wit=" Vienn. "> solidi </rdg>
+               <rdg wit=" Gronov."> solus </rdg><!--Gronov.(Obss. III 13)-->
+               <rdg wit=" Gronov."> similis </rdg><!--Gronov.(Obss. III 13)-->
+            </app>
+            <app loc="C2.15.57">
+               <lem> virides </lem>
+               <rdg wit=" γ "> </rdg>
+               <rdg wit=" Burm. ">lucus</rdg><!--  Burm. olim -->
+            </app>
+            <app loc="C2.15.57">
+               <lem> qua gemmeus </lem>
+               <rdg wit=" N ">etiā gēmes</rdg>
+            </app>
+            <app loc="C2.15.58">
+               <lem> percurrit </lem>
+               <rdg wit=" N μ"> percurit </rdg>
+               <rdg wit=" θ "> praecurrit </rdg>
+               <rdg wit=" ζ "> perfundit </rdg><!-- ζ (corr. in mg.) -->
+            </app>
+            <app loc="C2.15.60">
+               <lem> Ne </lem>
+               <rdg wit=" s"> nec </rdg>
+            </app>
+            <app loc="C2.15.60">
+               <lem> contemne </lem>
+               <rdg wit=" N G P ρ α"> contempne </rdg>
+            </app>
+            <app loc="C2.15.61">
+               <lem> est </lem>
+               <rdg wit=" λ "> es </rdg>
+               <rdg wit=" π ">  </rdg>
+            </app>
+            <app loc="C2.15.61">
+               <lem> et </lem>
+               <rdg wit=" V edd. praeter Heins. Glaeser. sqq."> est </rdg>
+               <rdg wit=" λ "> es </rdg>
+               <rdg wit=" α "> est et </rdg>
+            </app>
+            <app loc="C2.15.61">
+               <lem> Idas </lem>
+               <rdg wit=" G "> ydas </rdg>
+            </app>
+            <app loc="C2.15.62">
+               <lem> caespite </lem>
+               <rdg wit=" ω "> cespite </rdg>
+            </app>
+            <app loc="C2.15.63">
+               <lem> devota </lem>
+               <rdg wit=" Gryph "> devecta </rdg>
+            </app>
+            <app loc="C2.15.63">
+               <lem wit=" P ζ2 p h Martell. Kempfer Baehr. Sehenkl. "> Parilibus </lem>
+               <rdg wit=" G N "> paliribus </rdg>
+               <rdg wit=" V edd."> palilibus </rdg>
+               <rdg wit=" ε e d c Nordh">  </rdg>
+               <note resp="Giarratano">et in his edd. pro eo scriptum est: perfundens aras divorum sanguine largo.</note>
+            </app>
+            <app loc="C2.15.63">
+               <lem wit=" λ v η γ ε φ "> horti </lem>
+               <rdg wit=" N G P κ ρ π μ α β δ χ"> orti </rdg><!-- (ex ortis) -->
+            </app>
+            <app loc="C2.15.65">
+               <lem> mittere </lem>
+               <rdg wit=" G "> mictere </rdg>
+            </app>
+            <app loc="C2.15.65">
+               <lem> et </lem>
+               <rdg wit=" N ">  </rdg><!-- G (add. m2) -->    
+            </app>
+            <app loc="C2.15.65">
+               <lem wit=" N G P A edd. "> figere</lem>
+               <rdg wit=" V r s o n i1 l1 Guid. Vienn. "> fundere </rdg>
+               <rdg wit=" ε e"> fraude </rdg>
+               <rdg wit=" d Nordh. ">farrea</rdg>
+               <rdg wit=" codd. Titii Tig. Modius Ulit. h p t Casaub. Martell. Burm. Wernsd. Beck Glaeser Keene "> fingere </rdg>
+            </app>
+            <app loc="C2.15.66">
+               <lem> rorantesque favos</lem>
+               <rdg wit=" V"> rorantes fagos</rdg>
+               <rdg wit=" α"> rorantesque </rdg>
+               <rdg wit=" φ ν ρ1 η ζ r i1"> rorantis </rdg>
+               <rdg wit=" α φ2 ρ2 ζ ruebil Vienn"> favos </rdg>
+               <rdg wit=" s n o"> rorantisque favos </rdg>
+               <rdg wit=" d Nordh"> portantesque favos </rdg>
+            </app>
+            <app loc="C2.15.66">
+               <lem> et </lem>
+               <rdg wit=" d Nordh "> atque </rdg>
+            </app>
+            <app loc="C2.15.66">
+               <lem> liquentia </lem>
+               <rdg wit="ρ2"> rorantia </rdg>
+            </app>
+            <app loc="C2.15.67">
+               <lem> nec </lem>
+               <rdg wit=" μ "> ne </rdg>
+            </app>
+            <app loc="C2.15.67">
+               <lem wit=" N G P λ2 edd. "> sunt </lem>
+               <rdg wit=" A γ μ ε α δ λ1 u e b d2 o n i l2 Barth. Nordh. Wernsd. Beck Keene  "> fore </rdg>
+               <rdg wit=" π χ β v φ ρ κ η ζ θ r h Ulit. "> fere </rdg>
+               <rdg wit=" s p Modius Kempfer"> fero </rdg>
+               <rdg wit=" Heins. "> fors </rdg>
+               <rdg wit=" Burm. "> fert </rdg>
+               <rdg wit=" Glaeser"> stant </rdg>
+               
+            </app>
+            <app loc="C2.15.67">
+               <lem> grata </lem>
+               <rdg wit=" κ λ ρ2 "> cara </rdg>
+            </app>
+            <app loc="C2.15.68">
+               <lem wit=" N G P H χ β edd. "> balantes </lem>
+               <rdg wit=" ρ1 π θ l1 Vienn. p h Ulit. ">palantes</rdg>
+               <rdg wit=" v φ η ρ2 r i1 "> palantis </rdg>
+               <rdg wit=" α κ "> pallantes </rdg><!-- (in ras. ) -->
+               <rdg wit="ε λ γ e d "> pallentes </rdg>
+               <rdg wit=" μ"> patentes </rdg>
+               <rdg wit="δ "> palentes </rdg>
+               <rdg wit="ζ "> balantis </rdg>
+               <rdg wit="u b "> ballantes </rdg>
+               <rdg wit="s "> pallantis </rdg>
+            </app>
+            <app loc="C2.15.68">
+               <lem> agnas </lem>
+               <rdg wit=" G"> agnos </rdg>
+            </app>
+            <app loc="C2.15.69">
+               <lem> praestant </lem>
+               <rdg wit=" i2"> praestent </rdg>
+            </app>
+            <app loc="C2.15.69">
+               <lem> uellera </lem>
+               <rdg wit=" Vienn. p Kempfer"> vellere </rdg>
+            </app>
+            <app loc="C2.15.70">
+               <lem> annum </lem>
+               <rdg wit=" G "> annus </rdg><!-- G (corr. m1) -->
+            </app>
+            <app loc="C2.15.71">
+               <lem> si venias</lem>
+               <rdg wit=" α β χ γ δ ε λ κ ρ η ν θ ζ r u e b d2 i l2"> si venies </rdg>
+               <rdg wit=" μ "> invenies </rdg>
+            </app>
+            <app loc="C2.15.71">
+               <lem> Crocale</lem>
+               <rdg wit="G"> crochale</rdg>
+            </app>
+            <app loc="C2.15.71">
+               <lem> tibi</lem>
+               <rdg wit="ε e u b i l2 Gryph. Tig. P "> mihi</rdg>
+            </app>
+            <app loc="C2.15.71">
+               <lem> serviet</lem>
+               <rdg wit="P"> serviat</rdg>
+            </app>
+            <app loc="C2.15.71">
+               <lem> annus</lem>
+               <rdg wit=" φ ν θ ζ r"> ornus</rdg>
+               <rdg wit="s"> ortus</rdg>
+               <rdg wit="n o"> hortus</rdg>
+               <rdg wit=" codd. Titii l1 i1 p h t Vienn. Scaliger Guid. Barth. Ulit. Wernsd. Beck Glaeser Keene"> hornus</rdg>
+               <note resp="Giarratano">totum-hornum vel foetus-hornus Burm.</note>
+            </app>
+         </listApp>
+      </body>
+  </text>
+</TEI>

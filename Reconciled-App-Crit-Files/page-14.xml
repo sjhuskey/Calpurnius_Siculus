@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <listApp>
+            <app loc="C2.14.37">
+               <lem>nascenti</lem>
+               <rdg wit="d2">nascente</rdg>
+            </app>
+            <app loc="C2.14.37">
+               <lem>mutet</lem>
+               <rdg wit="G d2">mutat</rdg>
+               <rdg source="Maehly">misceat</rdg>
+            </app>
+            <app loc="C2.14.37">
+               <lem>in agna</lem>
+               <rdg source="Maehly">agnae</rdg>
+            </app>
+            <app loc="C2.14.38">
+               <lem>neque</lem>
+               <rdg source="Maehly">bene</rdg>
+            </app>
+            <app loc="C2.14.39">
+               <lem>utrumque</lem>
+               <rdg source="d">utrimque</rdg>
+            </app>
+            <app loc="C2.14.39">
+               <lem>colore</lem>
+               <rdg wit="u" source="l2 g">calore</rdg>
+               <!--b (corr. Guid.)-->
+            </app>
+            <app loc="C2.14.40">
+               <lem>mutabilis</lem>
+               <rdg wit="P">mirabilis</rdg>
+            </app>
+            <app loc="C2.14.40">
+               <lem>induit</lem>
+               <rdg source="l1 i1 Vienn.">induis</rdg>
+            </app>
+            <app loc="C2.14.40">
+               <lem>arbos</lem>
+               <rdg wit="P">arbor</rdg>
+            </app>
+            <app loc="C2.14.41">
+               <lem>genitalia</lem>
+               <rdg wit="ε α θ ρ1 u e d" source="b i2 l2 Titius Burm. Wernsd. Beck">gentilia</rdg>
+               <!--Heins. (ad Claud. in Ruf. I 228)-->
+               <rdg wit="μ">gemalia</rdg>
+            </app>
+            <app loc="C2.14.43">
+               <lem wit="G ε χ γ ν ρ2 ζ1" source="edd.">praecoquibus</lem>
+               <rdg wit="N β μ ρ1">preco quibus</rdg>
+               <rdg wit="α">prequoquibus</rdg>
+               <rdg wit="φ2 λ κ π η r">precoquibus</rdg>
+               <rdg wit="φ1">preqcoquibus</rdg>
+               <rdg wit="δ">precocibus</rdg>
+               <rdg wit="ζ2 s" source="o n Beck">praecocibus</rdg>
+            </app>
+            <app loc="C2.14.43">
+               <lem>persica</lem>
+               <rdg wit="P">pessica</rdg>
+            </app>
+            <app loc="C2.14.43">
+               <lem>prunis</lem>
+               <rdg wit="N">prurrus</rdg>
+               <!--N (r del. i supra u add. m2)-->
+            </app>
+            <app loc="C2.14.44">
+               <lem>iuvat</lem>
+               <rdg wit="G">iuvas</rdg>
+               <!--G (corr. m1)-->
+            </app>
+            <app loc="C2.14.45">
+               <lem wit="N G δ" source="Ulit. h Glaeser sqq.">novis></lem>
+               <rdg wit="P V" source="edd. ante Glaeser">novas</rdg>
+               <rdg wit="μ">novos</rdg>
+            </app>
+            <app loc="C2.14.46">
+               <lem>condiscant</lem>
+               <rdg wit="P">cū discant</rdg>
+               <rdg wit="Voss">condiscat</rdg>
+               <!--Voss (ad Verg. ländl. Ged. I, p. 139)-->
+            </app>
+            <app loc="C2.14.46">
+               <lem wit="P V" source="edd.">gramina</lem>
+               <rdg wit="N">germina</rdg>
+               <rdg wit="G">grādiamina</rdg>
+               <!--G (corr. m1)-->
+            </app>
+            <app loc="C2.14.47">
+               <lem>ne</lem>
+               <rdg wit="δ s" source="o n Kempfer Voss">nec</rdg>
+            </app>
+            <app loc="C2.14.47">
+               <lem source="Scaliger Voss Beck Baehr. Schenkl Keene">vagas</lem>
+               <rdg wit="ω" source="edd.">vagos</rdg>
+            </app>
+            <app loc="C2.14.47">
+               <lem>fetura</lem>
+               <rdg wit="P">factura</rdg>
+            </app>
+            <app loc="C2.14.48">
+               <lem> At </lem>
+               <rdg wit="N G" source="Baehr. Schenkl"> at </rdg>
+               <rdg wit="P V" source="edd."> et </rdg>
+            </app>
+            <app loc="C2.14.48">
+               <lem source="Beck Baehr. Schenkl"> vulsis</lem>
+               <!--Burm. (qui malebat et furvis)-->
+               <rdg wit="ω" source="edd."> fulvis </rdg>
+            </app>
+            <app loc="C2.14.48">
+               <lem wit="N G A α" source="edd."> arida </lem>
+               <rdg wit="P V r s" source="o n Ulit. Burm. Beck"> altera </rdg>
+               <rdg source="b"> arrida </rdg>
+               <rdg wit="ε e"> avida </rdg>
+            </app>
+            <app loc="C2.14.49">
+               <lem wit="N G P ρ2" source="l1 i1 Vienn. Scaliger Glaeser Baehr. Keene Schenkl">
+                  pangitur </lem>
+               <rdg wit="V" source="edd."> panditur </rdg>
+            </app>
+            <app loc="C2.14.49">
+               <lem> irriguo </lem>
+               <rdg wit=" P"> irigno </rdg>
+            </app>
+            <app loc="C2.14.50">
+               <lem wit="G λ μ χ1"> sucos </lem>
+               <rdg wit=" N P η δ β π γ ν ε φ α κ ρ χ2 ζ"> succos </rdg>
+            </app>
+            <app loc="C2.14.51">
+               <lem> plantaria </lem>
+               <rdg wit=" γ δ μ"> paritaria </rdg>
+               <rdg wit=" β "> pantaria </rdg>
+
+            </app>
+            <app loc="C2.14.52">
+               <lem> Crocalen </lem>
+               <rdg wit=" G "> crocalem </rdg>
+               <rdg wit=" N "> crotalem </rdg>
+               <rdg wit="P">talē</rdg>
+            </app>
+            <app loc="C2.14.53">
+               <lem> ego </lem>
+               <rdg wit=" P "> </rdg>
+            </app>
+            <app loc="C2.14.53">
+               <lem> sideribus </lem>
+               <rdg wit="κ ρ1 χ ε γ δ η ζ r u e s" source="b g l2 p"> syderibus </rdg>
+            </app>
+            <app loc="C2.14.54">
+               <lem wit="N G H P p h t" source="Barth. Heins. Ulit. Burm. Keene"> decernamque </lem>
+               <rdg wit="V" source="edd.">dicam namque</rdg>
+               <rdg source="Glaeser"> discernamque </rdg>
+               <rdg source="Baehr. Schenkl"> secernamque </rdg>
+               <!--Gronov. (Obss. III 13)-->
+            </app>
+            <app loc="C2.14.55">
+               <lem wit="e" source="g o"> incolit </lem>
+               <rdg wit="ω" source="edd.">hoc erit</rdg>
+               <!--hoc (h' N, h' m2)-->
+               <rdg source="Ulit. Gronov. Beck Schenkl">hac erit</rdg>
+               <rdg>hac erat</rdg>
+               <!--Postgate (1.1 p.213)-->
+               <rdg source="Maehly">hac est</rdg>
+               <rdg source="Heins.">hac eris</rdg>
+            </app>
+            <app loc="C2.15.55">
+               <lem wit="G P ε ν κ χ φ η ρ" source="edd."> profani </lem>
+               <rdg wit="N γ λ α β μ π δ ζ u e d2" source="b o n i2 l2 g"> prophani </rdg>
+            </app>
+         </listApp>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <listApp>
+            <app loc="C2.13.27">
+               <lem>nec mora: decernunt digitis, prior incipit Idas.</lem>
+               <rdg wit="μ δ γ"/>
+            </app>
+            <app loc="C2.13.27">
+               <lem wit="N G ζ d Heins. Gronov. Burm. Glaeser sqq.">decernunt digitis</lem>
+               <!--NGζ(in mg.) d Heins. Gronov. (Obss. 3, 13), Burm. Glaeser sqq.-->
+               <rdg wit="P η π φ χ ρ ν κ θ β ζ edd. ante Glaeser.">discernunt digitis</rdg>
+               <rdg wit="H A α ε u b e l2 i2">discrevit digitus</rdg>
+               <rdg wit="λ">deseruit digitis</rdg>
+               <rdg wit="Tit.">discernit digitus</rdg>
+            </app>
+            <app loc="C2.13.27">
+               <lem>Idas</lem>
+               <rdg wit="N G">ydas</rdg>
+            </app>
+            <app loc="C2.13.28">
+               <lem>I</lem>
+               <rdg wit="N"/>
+               <!-- N(add. m2)-->
+            </app>
+            <app loc="C2.13.29">
+               <lem>circumdat</lem>
+               <rdg wit="G">circundat</rdg>
+            </app>
+            <app loc="C2.13.29">
+               <lem>taeda</lem>
+               <rdg wit="λ χ">taeda</rdg>
+               <rdg wit="G N κ ρ α ν β γ μ ε π φ">teda</rdg>
+               <rdg wit="P">deda</rdg>
+               <rdg wit="Burm.">pinu</rdg>
+               <rdg wit="Heins.">taenia</rdg>
+               <!--(Heins. (Gronov. def. taeda coll. Plin. N. H. 16, 10).-->
+            </app>
+            <app loc="C2.13.30">
+               <lem>etiam</lem>
+               <rdg wit="P">cerā</rdg>
+            </app>
+            <app loc="C2.13.30">
+               <lem wit="N P G Heins. Beck Glaeser sqq.">parvo dixit</lem>
+               <rdg wit="V edd.">parvo hoc dixit</rdg>
+               <rdg wit="H">parvo dixit hoc</rdg>
+            </app>
+            <app loc="C2.13.31">
+               <lem>iam</lem>
+               <rdg wit="κ χ">tam</rdg>
+            </app>
+            <app loc="C2.13.31">
+               <lem>levis</lem>
+               <rdg wit="Baehr.">teres</rdg>
+            </app>
+            <app loc="C2.13.31">
+               <lem wit="N P G Heins Baaehr. Schenkl">crescat</lem>
+               <rdg wit="V edd.">crescit</rdg>
+               <!--V edd. (def. Haupt, De carm. buc. Calp. et Nem. Berolini 1854, p28)-->
+               <rdg wit="χ2 Maehly">crescet</rdg>
+            </app>
+            <app loc="C2.13.31">
+               <lem>canna</lem>
+               <rdg wit="P c">cana</rdg>
+               <rdg wit="φ">canda</rdg>
+            </app>
+            <app loc="C2.13.32">
+               <lem>Et</lem>
+               <rdg wit="A P V r u e b d s l2 i2 o n Ulit. Schenkl">et</rdg>
+               <!--Ulit Schenkl, quod, coll. Verg. Ecl. III 62, deff. Gerbauer (de poet. I p. 30) Forbiger (ad loc. all. Verg.) Leo (l. l. p. 617)-->
+               <rdg wit="N G edd.">at</rdg>
+               <rdg wit="ρ">ast</rdg>
+            </app>
+            <app loc="C2.13.32">
+               <lem>Flora</lem>
+               <rdg wit="P π1 φ δ γ η κ λ ν β θ χ ζ ρ r">flore</rdg>
+               <!--ρ (corr. A) r.-->
+            </app>
+            <app loc="C2.13.32">
+               <lem wit="de Rooy Beck Haupt Keene Baehr. Schenkl Leo">pallenti</lem>
+               <!-- Rooy(spic. crit. c. 17 p. 111) -->
+               <rdg wit="ω edd.">parienti</rdg>
+               <rdg wit="Heins.">ridenti vel varianti vel vernanti vel roranti</rdg>
+               <!--Heins.,<<fortasse latet epitheton ad v. mihi pertinens>> Glaeser.-->
+            </app>
+            <app loc="C2.13.32">
+               <lem>gramine</lem>
+               <rdg wit="Burm.">germine</rdg>
+            </app>
+            <app loc="C2.13.32">
+               <lem wit="N A P G Baehr. Schenkl">pingit</lem>
+               <!-- G (in quo p ex f; i nmg. pingit) -->
+               <rdg wit="V edd.">spargit</rdg>
+               <rdg wit="λ Titius">fundit</rdg>
+               <!--λ (in mg.) -->
+               <rdg wit="Glaeser">iungit</rdg>
+               <rdg wit="Haupt Leo Keene">cingit</rdg>
+            </app>
+            <app loc="C2.13.33">
+               <lem>et matura mihi</lem>
+               <rdg wit="ζ2 n o Burm. Wernsd. Haupt Glaeser Keene">et mihi matura</rdg>
+               <rdg wit="s Baehr.">et Matuta mihi</rdg>
+               <rdg wit="Leo">mala datura mihi</rdg>
+            </app>
+            <app loc="C2.13.33">
+               <lem>Pomona</lem>
+               <rdg wit="G H π2 ρ2 edd.">pomona</rdg>
+               <rdg wit="N">poma</rdg>
+               <!--N (corr. m3 in mg.)-->
+               <rdg wit="P">pomena</rdg>
+               <rdg wit="α">pamona</rdg>
+               <rdg wit="φ κ χ λ β η">peramena</rdg>
+               <rdg wit="π1">amena</rdg>
+               <rdg wit="μ ρ1 r">per amena</rdg>
+               <rdg wit="ε ν γ ζ e">per amoena</rdg>
+               <rdg wit="δ">pemmena</rdg>
+               <rdg wit="θ d s Nordh.">peramoena</rdg>
+               <rdg wit="Baehr.">nova poma</rdg>
+               <rdg wit="Maehly">mala sua</rdg>
+            </app>
+            <app loc="C2.13.33">
+               <lem>arbore</lem>
+               <rdg wit="P">ardore</rdg>
+            </app>
+            <app loc="C2.13.33">
+               <lem>ludit</lem>
+               <rdg wit="Haupt Keene">plaudit</rdg>
+               <rdg wit="Baehr.">fundit</rdg>
+            </app>
+            <app loc="C2.13.34">
+               <lem>Nymphae</lem>
+               <rdg wit="κ χ λ δ edd.">nymphae</rdg>
+               <rdg wit="N G η β ν o γ ζ r">nymphe</rdg>
+               <rdg wit="ρ">nimphae</rdg>
+               <rdg wit="α ε">nyphae</rdg>
+               <rdg wit="π μ">nimphe</rdg>
+            </app>
+            <app loc="C2.13.34">
+               <lem>fontes</lem>
+               <rdg wit="ρ2 edd. ante Glaeser.">fontem</rdg>
+               <!--Glaeser. (prater Guid.)-->
+               <rdg wit="η ν φ θ ζ r s">fontis</rdg>
+            </app>
+            <app loc="C2.13.35">
+               <lem wit="N G P Burm. Glaeser sqq.">iam</lem>
+               <rdg wit="V edd. ante Glaeser">nam</rdg>
+            </app>
+            <app loc="C2.13.35">
+               <lem wit="N G A α Glaeser sqq.">irriguos</lem>
+               <rdg wit="P">inriguis</rdg>
+               <rdg wit=" V edd. ante Glaeser">irriguis</rdg>
+            </app>
+            <app loc="C2.13.35">
+               <lem
+                  wit="N G A P i1 l1 p t h Ulit. Vienn. Modius Nodell Wernsd. Beck Glaeser sqq."
+                  >nutrire</lem>
+               <rdg wit="V edd. ante Glaeser.">mutare</rdg>
+               <rdg wit="μ">imitare</rdg>
+               <rdg wit="Martell">maturare</rdg>
+               <!--(!) Martell-->
+            </app>
+            <app loc="C2.13.35">
+               <lem>canalibus</lem>
+               <rdg wit="Demster">canilibus</rdg>
+            </app>
+            <app loc="C2.13.35">
+               <lem wit="ε φ β γ λ ν η edd.">hortos</lem>
+               <rdg wit="G P ρ κ α χ π μ δ">ortos</rdg>
+               <rdg wit="N codd. Titii Martell">ortus</rdg>
+            </app>
+            <app loc="C2.13.36">
+               <lem>docet</lem>
+               <rdg wit="G">decet</rdg>
+            </app>
+            <app loc="C2.13.36">
+               <lem>ut</lem>
+               <rdg wit="P">ubi</rdg>
+               <rdg wit="κ χ1">et</rdg>
+            </app>
+         </listApp>
+      </body>
+  </text>
+</TEI>

@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <!-- Giarratano Page 8 -->
+         <listApp>
+            <app loc="C1.8.46">
+               <lem>populos</lem>
+               <rdg wit="s">populus</rdg>
+            </app>
+            <app loc="C1.8.46">
+               <lem>deus</lem>
+               <rdg wit="G">reget</rdg>
+               <!--G (corr. m1)-->
+            </app>
+            <app loc="C1.8.46">
+               <lem>dabit</lem>
+               <rdg wit="P">dapit</rdg>
+               <!--corr. m1-->
+            </app>
+            <app loc="C1.8.46">
+               <lem wit="A ν φ γ δ edd.">vinctas</lem>
+               <!-- probavit F. Ramorino -->
+               <rdg wit="N G P β ρ π α κ λ μ χ s n o Barth. Glaeser Baehr. Keene">victas</rdg>
+               <rdg wit="ε u e b l2 i2 g">iunctas</rdg>
+               <!--b(corr.Guid.)-->
+               <rdg wit="Schenkl">victa</rdg>
+               <!--[Shenkl] olim.-->
+            </app>
+            <app loc="C1.8.47">
+               <lem>post tergum</lem>
+               <rdg wit="P">postergum</rdg>
+            </app>
+            <app loc="C1.8.48">
+               <lem>vesanos</lem>
+               <rdg wit="N">vesano</rdg>
+               <rdg wit="δ">vexanos</rdg>
+               <rdg wit="φ">vessanos</rdg>
+            </app>
+            <app loc="C1.8.48">
+               <lem>torquebit</lem>
+               <rdg wit="θ">torquebat</rdg>
+            </app>
+            <app loc="C1.8.48">
+               <lem>morsus</lem>
+               <rdg wit="N">morsis</rdg>
+               <!--N(corr. m2)-->
+            </app>
+            <app loc="C1.8.49">
+               <lem>quae</lem>
+               <rdg wit="G">quaque</rdg>
+               <!--G(que del. m1)-->
+            </app>
+            <app loc="C1.8.50">
+               <lem>Philippos</lem>
+               <rdg wit="N G">philipos</rdg>
+            </app>
+            <app loc="C1.8.51">
+               <lem>deflebit, nullos ducet captiva triumphos</lem>
+               <rdg wit="V r e d s"/>
+               <!-- V(add.A) -->
+            </app>
+            <app loc="C1.8.51">
+               <lem>deflebit</lem>
+               <rdg wit="P">defiebit</rdg>
+            </app>
+            <app loc="C1.8.51">
+               <lem>nullos ducet</lem>
+               <rdg wit="Heins.">nullosque sui</rdg>
+               <rdg wit="Heins.">nullosque ducis</rdg>
+               <rdg wit="Heins.">nullosque ducum</rdg>
+            </app>
+            <app loc="C1.8.51">
+               <lem>triumphos</lem>
+               <rdg wit="P">triumpos</rdg>
+            </app>
+            <app loc="C1.8.52">
+               <lem>subigentur</lem>
+               <rdg wit="ν φ ρ η θ r s">subdentur</rdg>
+               <rdg wit="P">subiguntur</rdg>
+               <rdg source="Ulit.">claudentur</rdg>
+            </app>
+            <app loc="C1.8.52">
+               <lem>carcere</lem>
+               <rdg wit="G">cargicarcere</rdg>
+               <!--G(cargi eras.)-->
+            </app>
+            <app loc="C1.8.52">
+               <lem>bella</lem>
+               <!--vix sanum putat Baehr.-->
+            </app>
+            <app loc="C1.8.53">
+               <lem wit="G">inmergentque</lem>
+               <rdg wit="N V">immergentque</rdg>
+               <rdg wit="μ">immergerentque</rdg>
+               <rdg wit="P">inverguntque</rdg>
+            </app>
+            <app loc="C1.8.53">
+               <lem>caput</lem>
+               <rdg wit="G P">capud</rdg>
+            </app>
+            <app loc="C1.8.53">
+               <lem>tenebris</lem>
+               <rdg wit="G">teneris</rdg>
+               <!--G(corr. m1)-->
+            </app>
+            <app loc="C1.8.54">
+               <lem>nec</lem>
+               <rdg wit="Kempfer">non</rdg>
+            </app>
+            <app loc="C1.8.54">
+               <lem>vultu</lem>
+               <rdg wit="P">ultu</rdg>
+               <rdg wit="Dempster">cultu</rdg>
+               <!--(De Etrur. Reg. III cap. 86)-->
+            </app>
+            <app loc="C1.8.55">
+               <lem>qualis</lem>
+               <rdg wit="Burm.">quali</rdg>
+               <rdg wit="Burm.">qualis</rdg>
+            </app>
+            <app loc="C1.8.55">
+               <lem source="Giarratano">quae</lem>
+               <rdg wit="Beck">quum</rdg>
+               <rdg wit="Baehr.">ceu</rdg>
+               <rdg wit="Barth. Heins. Burm. Wernsd.">quam</rdg>
+            </app>
+            <app loc="C1.8.55">
+               <lem>Marte</lem>
+               <rdg wit="β">matre</rdg>
+            </app>
+            <app loc="C1.8.55">
+               <lem wit="P V edd.">professo</lem>
+               <rdg wit="N G A H μ b i g l2">profuso</rdg>
+               <!--(corr. m2)-->
+               <rdg wit="u">profusso</rdg>
+            </app>
+            <app loc="C1.8.55">
+               <lem>qualis saepe fuit, quae libera Marte professo</lem>
+               <rdg wit="λ"/>
+            </app>
+            <app loc="C1.8.56">
+               <lem>quae</lem>
+               <rdg wit="Beck">quum</rdg>
+               <rdg wit="Barth. Heins. Kempfer Hartel Schenkl1">quam</rdg>
+               <rdg wit="Burm.">et</rdg>
+            </app>
+            <app loc="C1.8.56">
+               <lem>tamen</lem>
+               <rdg wit="Maehly">palam</rdg>
+            </app>
+            <app loc="C1.8.56">
+               <lem wit="P γ ρ edd.">grassantibus</lem>
+               <rdg wit="N">grasantibus</rdg>
+               <rdg wit="G V r e d">crassantibus</rdg>
+               <rdg wit="Heins. Maehly">cessantibus</rdg>
+            </app>
+            <app loc="C1.8.57">
+               <lem>publica</lem>
+               <rdg wit="N2">puplica</rdg>
+               <rdg wit="Hermann Haupt Baehr.">iubila</rdg>
+               <rdg wit="Leo">vulnera</rdg>
+               <!--(Zeitschr. f. d. oesterr. Gymn. XXX p. 616)-->
+               <rdg wit="Schenkl2">fulmina</rdg>
+            </app>
+            <app loc="C1.8.57">
+               <lem>diffudit</lem>
+               <rdg wit="φ ρ1 ν η θ r Ulit.">diffugit</rdg>
+               <rdg wit="C.Schenkl Schenkl1">diffindit</rdg>
+               <!-- No idea what "C" is supposed to mean -->
+               <rdg wit="Maehly">confodit</rdg>
+            </app>
+            <app loc="C1.8.57">
+               <lem>tacito</lem>
+               <rdg wit="P">tacita</rdg>
+               <!--(corr. m2)-->
+               <rdg wit="Beck">tacito</rdg>
+               <rdg wit="Beck">tacite</rdg>
+            </app>
+            <app loc="C1.8.57">
+               <lem>discordia</lem>
+               <rdg wit="Beck Leo">Discordia</rdg>
+               <rdg wit="Maehly">praecordia</rdg>
+               <note>totum locum nondum correctum esse F. Ramorino iure suspicatur</note>
+            </app>
+            <app loc="C1.8.59">
+               <lem>insanos</lem>
+               <rdg wit="g">insano</rdg>
+            </app>
+            <app loc="C1.8.59">
+               <lem>Clementia</lem>
+               <rdg wit="π φ ρ1 β δ θ r s o n i1 Guid. Vienn.">dementia</rdg>
+            </app>
+            <app loc="C1.8.59">
+               <lem>contudit</lem>
+               <rdg wit="N G P H χ μ γ1 κ π α β Barth. Glaeser sqq.">contudit</rdg>
+               <rdg wit="ε γ2 η ν ϕ ρ edd. ante Glaeser">condidit</rdg>
+               <rdg wit="λ">contulit</rdg>
+               <rdg wit="δ">contundit</rdg>
+               <rdg wit="δ">concedit</rdg>
+               <!-- in mg. -->
+               <rdg wit="N">truderit</rdg>
+               <!--m3 in mg-->
+
+            </app>
+            <app loc="C1.8.60">
+               <lem>catenati</lem>
+               <rdg wit="P γ ν η δ r s i1 p n o">cathenati</rdg>
+            </app>
+            <app loc="C1.8.60">
+               <lem>senatus</lem>
+               <rdg wit="N">senatis</rdg>
+               <!--(corr. m1)-->
+
+               <rdg wit="Shenkl">senati</rdg>
+               <!--olim-->
+            </app>
+            <app loc="C1.8.61">
+               <lem wit="χ φ γ μ λ2 α β ν κ ρ η ε edd.">lassabit</lem>
+               <rdg wit="G P π λ1">laxabit</rdg>
+               <rdg wit="N">lassabis</rdg>
+               <!-- N(corr. m2) -->
+               <rdg wit="δ">laxabat</rdg>
+            </app>
+            <app loc="C1.8.61">
+               <lem>pleno</lem>
+               <rdg wit="θ">plenos</rdg>
+            </app>
+         </listApp>
+      </body>
+   </text>
+</TEI>

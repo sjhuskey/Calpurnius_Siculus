@@ -1,0 +1,222 @@
+<?xml version="1.0"encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng"type="application/xml"schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng"type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <!-- Giarratano page 11 -->
+         <!-- need to add # to all witnesses -->
+         <listApp>
+            <app loc="C1.11.92">
+               <lem>ipse</lem>
+               <rdg wit="#Ν">ipsa</rdg>
+               <rdg wit="G"> </rdg>
+            </app>
+            <app loc="C1.11.92">
+               <lem>canenda</lem>
+               <rdg wit="i1">calenda</rdg>
+               <rdg wit="l1">colenda</rdg>
+            </app>
+            <app loc="C1.11.93">
+               <lem>dicamus</lem>
+               <rdg source="Barth.">discamus</rdg>
+               <!--(Adv. 34,8)-->
+            </app>
+            <app loc="C1.11.93">
+               <lem>teretique</lem>
+               <rdg wit="#Ν">territique</rdg>
+               <rdg wit="ρ1 Wernsd.">teretisque</rdg>
+            </app>
+            <app loc="C1.11.93">
+               <lem>sonum modulemur avena</lem>
+               <rdg wit="Wernsd.">sono modulemur avenae</rdg>
+            </app>
+            <app loc="C1.11.94">
+               <lem>forsitan</lem>
+               <rdg wit="#Ν">forsitā</rdg>
+            </app>
+            <app loc="C1.11.94">
+               <lem>augustas</lem>
+               <rdg wit="#Ν π γ ρ1 λ1"> angustas </rdg>
+               <rdg wit="μ"> agustas </rdg>
+            </app>
+            <app loc="C1.11.94">
+               <lem> Meliboeus </lem>
+               <rdg wit="ν ε2 ρ2">meliboeus</rdg>
+               <rdg wit="G P λ π δ1 γ ρ1 α β">melibeus</rdg>
+               <rdg wit="#Ν">melibes</rdg>
+               <!--(melibeus m2)-->
+               <rdg wit="χ φ">melibaeus</rdg>
+               <rdg wit="η">moelibeus</rdg>
+               <rdg wit="ε1">moeliboeus</rdg>
+               <rdg wit="κ">maelibaeus</rdg>
+               <rdg wit="μ">me libens</rdg>
+            </app>
+            <app loc="C1.11.94">
+               <lem>ad</lem>
+               <rdg wit="P">hoc</rdg>
+            </app>
+            <app loc="C1.11.94">
+               <lem>aures</lem>
+               <rdg wit="P Ulit.">auras</rdg>
+               <rdg wit="ν φ ρ2 θ r s i1 o n">auris</rdg>
+               <rdg wit="ε">aras</rdg>
+               <rdg wit="π">auraes</rdg>
+            </app>
+            <!-- Poem 2 -->
+            <app loc="C2.11.1">
+               <lem> </lem>
+               <rdg wit="P"> hic loquitur poeta </rdg>
+            </app>
+            <app loc="C2.11.1">
+               <lem> Intactam </lem>
+               <rdg wit="#P">ntantam</rdg>
+            </app>
+            <app loc="C2.11.1">
+               <lem wit="γ α edd."> Crocalen </lem>
+               <rdg wit="#Ν π ρ1 n"> crotalem </rdg>
+               <rdg wit="θ ζ r p h l1 Barth. Vienn. Ulit. Glaeser Keene"> crotalen </rdg>
+               <rdg wit="G δ ε β λ μ χ ρ2"> crocalem </rdg>
+               <rdg wit="η φ ν b o i 1">crotalē</rdg>
+               <rdg wit="P κ">crocalē</rdg>
+            </app>
+            <app loc="C2.11.1">
+               <lem> puer </lem>
+               <rdg wit="#Ν"> </rdg>
+               <!-- puer (in ras. m3) -->
+            </app>
+            <app loc="C2.11.1">
+               <lem> Astacus </lem>
+               <rdg wit="ε χ γ ρ2 ζ u e b o n d2 i2 l2"> asthacus </rdg>
+               <rdg wit="μ d1"> astachus </rdg>
+            </app>
+            <app loc="C2.11.1">
+               <lem> Idas </lem>
+               <rdg wit="G P"> ydas </rdg>
+               <rdg wit="δ"> iddas </rdg>
+               <!-- item v. 2 -->
+            </app>
+            <app loc="C2.11.2">
+               <lem> Idas </lem>
+               <rdg wit="δ"> iddas </rdg>
+            </app>
+            <app loc="C2.11.2">
+               <lem wit="ρ2 φ2 ε ν λ η γ"> horti </lem>
+               <rdg wit="#Ν G P δ α β κ χ μ π ρ1 φ1"> orti </rdg>
+            </app>
+            <app loc="C2.11.3">
+               <lem wit="A Modius Ulit. Barthius Kempfer Burm. sqq."> nec </lem>
+               <rdg wit="#Ν G P V edd. ante Burm."> sed </rdg>
+               <rdg wit="Martell."> neque </rdg>
+            </app>
+            <app loc="C2.11.4">
+               <lem wit="Glaeser sqq."> hi cum terras </lem>
+               <rdg wit="#Ν G"> hy cum terras </rdg>
+               <rdg wit="P"> hīc </rdg>
+               <!--(om. cum terras)-->
+               <rdg wit="ν κ χ μ δ λ2 edd. ante Glaeser"> terras hi cum </rdg>
+               <rdg wit="β λ1 α γ π ρ φ η θ ζ r s"source="o n">terras ii cum</rdg>
+               <rdg wit="ε d">terras vi cum</rdg>
+               <rdg wit="e">terras iii cum</rdg>
+               <!-- ! -->
+            </app>
+            <app loc="C2.11.4">
+               <lem> gravis </lem>
+               <rdg wit="#Ν"> graves </rdg>
+               <!-- (i ex e m3) -->
+            </app>
+            <app loc="C2.11.4">
+               <lem> ureret </lem>
+               <rdg wit="P"> urreret </rdg>
+            </app>
+            <app loc="C2.11.4">
+               <lem> aestas </lem>
+               <note>aestus--doctus aliquis in mg. edit. Bon.</note>
+               <!-- Deal with this -->
+            </app>
+            <app loc="C2.11.5">
+               <lem wit="#Ν G Glaeser Keene Schenkl"> umbras </lem>
+               <rdg wit="P V edd."> ulmos </rdg>
+               <!-- probavit Jacoby (Woch. f. kl. Phil. III p. 1291) -->
+            </app>
+            <app loc="C2.11.6">
+               <lem> contendere </lem>
+               <rdg wit="G"> condendere </rdg>
+               <!-- G (corr. m1) -->
+            </app>
+            <app loc="C2.11.7">
+               <lem> ut </lem>
+               <rdg wit="Baehr."> ne </rdg>
+               <rdg wit="g"> et </rdg>
+            </app>
+            <app loc="C2.11.7">
+               <lem> vellera </lem>
+               <rdg wit="α"> vulnera </rdg>
+            </app>
+            <app loc="C2.11.8">
+               <lem wit="#Ν1 P G edd."> vindicet </lem>
+               <rdg wit="#Ν2 V r e u b s o n p i l2 g Gryph. Kempfer"> vendicet </rdg>
+               <rdg wit="d"> vendicat </rdg>
+               <rdg wit="Heins."> venditet </rdg>
+            </app>
+            <app loc="C2.11.8">
+               <lem> horti </lem>
+               <rdg wit="Heins."> horni </rdg>
+            </app>
+            <app loc="C2.11.9">
+               <lem> erat </lem>
+               <rdg wit="s Heins."> erant </rdg>
+               <!-- Ascensius in notis -->
+            </app>
+            <app loc="C2.11.9">
+               <lem wit="γ ε ρ2 ζ edd."> Thyrsi </lem>
+               <rdg wit="#G #P">tyrsi </rdg>
+               <rdg wit="#Ν"> tirsi </rdg>
+               <!-- (tirso m2) -->
+               <rdg wit="π φ β κ α ρ1 λ μ">tirso </rdg>
+               <rdg wit="χ δ1">tyrso</rdg>
+               <rdg wit="δ2 θ η ν r n o i1 b l1 Vienn.">thyrso</rdg>
+               <rdg wit="s">thirso</rdg>
+            </app>
+            <app loc="C2.11.10">
+               <lem> pecudum </lem>
+               <rdg wit="G">pecorum </rdg>
+               <!--(corr. supr. lin.)-->
+               <!--quod def. L. Mueller (l. l. p. 1071)-->
+            </app>
+            <app loc="C2.11.11">
+               <lem wit="λ χ2 Ulit. Schenkl"> quodcumque </lem>
+               <rdg wit="ω edd.">quaecumque </rdg>
+               <!-- def. L. Mueller -->
+            </app>
+            <app loc="C2.11.11">
+               <lem>vagis </lem>
+               <rdg wit="#G μ">magis </rdg>
+               <!-- G (corr. m1)-->
+            </app>
+            <app loc="C2.11.11">
+               <lem
+                  wit="#Ν #G #P β μ κ ρ1 η φ κ ν π r s t Guid. Ulit. Burm. Beck Glaeser Keene Schenkl">
+                  altum </lem>
+               <rdg wit="ε γ δ ρ2 ζ d2 u e b o n i p h g l2 Titus Gebhardt Wernsd."> alitum </rdg>
+               <rdg wit="λ Bart. L. Mueller Baehr."> avium </rdg>
+               <rdg wit="α"> ales </rdg>
+            </app>
+         </listApp>
+      </body>
+   </text>
+</TEI>
