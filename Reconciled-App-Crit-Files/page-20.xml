@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <listApp>
+            <app>
+               <lem wit="#N #G #P #ρ2 #d #s" source="#n #h #p #t #Ulit. #Kempfer #Barth. #Burm. #Wernsd. #Baehr. #Schenkl">diduxi</lem>
+               <rdg wit="#V" source="edd.">deduxi</rdg>
+               <rdg wit="λ">seduxi</rdg>
+            </app>
+            <app>
+               <lem wit="#N #P #G #A" source="#edd.">cecidi</lem>
+               <rdg wit="#G">tutudi</rdg><!-- in mg. -->
+               <rdg wit="#V #H #r #d #e #s" source="#o #n">recidi</rdg>
+               <rdg wit="#u #b" source="#i2 #l2">rescidi</rdg>
+            </app>
+            <app>
+               <lem>Alcippen</lem>
+               <rdg wit="#P">accipe</rdg>
+               <rdg wit="#γ #β #μ #ε #λ #δ #ρ2 #u #e #b" source="#i #s #l2">alcipen</rdg>
+               <rdg wit="#π #ρ1">alcipem</rdg>
+               <rdg wit="#ν #α">alcippem</rdg>
+               <rdg wit="#κ">altippem</rdg>
+               <rdg wit="#χ">altippen</rdg>
+               <rdg wit="#η">alccippen</rdg>
+            </app>
+            <app>
+               <lem>irata</lem>
+               <rdg wit="#P">iurata</rdg>               
+            </app>
+            <app>
+               <lem wit="#G #ε #ν #κ #χ #γ" source="#edd.">te, Lycida</lem>
+               <rdg wit="#N #λ #ρ #α #β #π">te licida</rdg>
+               <rdg wit="#P">theliocida</rdg>
+               <rdg wit="#μ">te lucida</rdg>
+               <rdg wit="#φ">te lycida</rdg>
+               <rdg source="#Glaeser">te o Lycida</rdg>
+            </app>
+            <app>
+               <lem>Mopsum</lem>
+               <rdg wit="#G">mossum</rdg>
+               <rdg wit="#P">ī opsū</rdg>
+            </app>
+            <app>
+               <lem>amabit</lem>
+               <rdg wit="#P">amabat</rdg>
+               <rdg wit="#N">amabis</rdg><!-- corr m2 -->
+            </app>
+            <app>
+               <lem>Alcippen</lem>
+               <rdg wit="#P">alcipē</rdg>
+            </app>
+            <app>
+               <lem>manet</lem>
+               <rdg wit="#ε #u #e #b">movet</rdg><!-- corr. Guid.)-->
+            </app>
+            <app>
+               <lem>ac</lem>
+               <rdg wit="#G">hac</rdg>
+               <rdg source="#Barth.">at</rdg>
+               <rdg source="#Scriver">ah</rdg>
+            </app>
+            <app>
+               <lem wit="#N #G #P" source="#Baehr. #Schenkl">negetur</lem>
+               <rdg wit="#V" source="#edd">vagetur</rdg>
+            </app>
+            <app>
+               <lem>a!</lem>
+               <rdg source="#Baehr. #Schenkl">a!</rdg>
+               <rdg wit="#N #ν #α #λ #ρ #π #β" source="#edd.">ah</rdg>
+               <rdg wit="#G">hac</rdg>
+               <rdg wit="#P #μ #φ #γ #κ #χ #ε #u #e #b">ha</rdg>
+            </app>
+            <app>
+               <lem wit="#G #μ" source="#Baehr. #Schenkl">cum</lem>
+               <rdg wit="#N #P #H #V" source="#edd.">quod</rdg>
+               <rdg source="#Burm.">quo</rdg>
+               <rdg source="#Heins.">ne</rdg>
+            </app>
+            <app>
+               <lem>iurgetur</lem>
+               <rdg wit="#δ #θ #γ2" source="#i1 #l1 #Tig. #Barth. #Vienn. #Ulit.">iungetur</rdg>
+               <rdg source="#Heins.">iungatur</rdg>
+               <rdg wit="#π">vergatur</rdg>
+            </app>
+            <app>
+               <lem wit="#δ #η #β #λ #κ #ν #ρ #α #π #χ" source="#edd.">anhelo</lem>
+               <rdg wit="#N">ambelo</rdg>
+               <rdg wit="#G #γ #ε #e #u" source="#i2 #l2 #g">hanelo</rdg>
+               <rdg wit="#μ">anello</rdg>
+               <rdg wit="#P">anelo</rdg>
+               <rdg wit="#φ">anhello</rdg>
+            </app>
+            <app>
+               <lem wit="#P #ν #κ">A te coeperunt</lem>
+               <rdg wit="#N #G">o te ceperunt</rdg>
+               <rdg wit="#α #δ #η #β #ρ #φ #π #ε #μ #r #e #u #b" source="#n #i1">a te ceperunt</rdg><!-- The lack of reference to i2 means that we must infer that i2 has the lemma, right? -->
+               <rdg wit="#λ">at te ceperunt</rdg>
+               <rdg wit="#γ #χ">a te caeperunt</rdg>
+            </app>
+            <app>
+               <lem>victas</lem>
+               <rdg wit="#ε #ρ #γ #u #e #b" source="#l2 #i #Tig. #Barth.">vinctas</rdg>
+               <rdg source="#Modius">iunctas</rdg>
+            </app>
+            <app>
+               <lem>puellae</lem>
+               <rdg source="#Barth.">puellis</rdg>
+            </app>
+            <app>
+               <lem wit="#ρ2" source="#edd.">nocet</lem>
+               <rdg wit="#N #G #P #V #r #e #u #b" source="#i1 #l2 #g #Tig. #Gryph. #Barth. #Glaeser">nocent</rdg>
+            </app>
+            <app>
+               <lem>iuvabit</lem>
+               <rdg wit="#N">iuvabis</rdg><!-- (corr. m2) -->
+            </app>
+            <app>
+               <lem>iratae</lem>
+               <rdg wit="#G">irate</rdg>
+               <rdg source="#Heins.">iratas</rdg>
+            </app>
+            <app>
+               <lem>contingam nuntius</lem>
+               <rdg wit="#G">contingat nūptius</rdg>
+            </app>
+            <app>
+               <lem>aures</lem>
+               <rdg wit="#P">aures</rdg><!-- (i supra e add.) -->
+            </app>
+            <app>
+               <lem>forsitan</lem>
+               <rdg wit="#N">forsitā</rdg><!-- (ut semper) -->
+            </app>
+            <app>
+               <lem>mitescere</lem>
+               <rdg source="#Burm.">miserescere</rdg><!-- olim -->
+            </app>
+            <app>
+               <lem>ad sidera</lem>
+               <rdg wit="#P">a sydera</rdg>
+            </app>
+            <app>
+               <lem wit="#V #P" source="#edd.">nam</lem>
+               <rdg wit="#N #G" source="#Schenkl2">nunc</rdg>
+            </app>
+            <app>
+               <lem>cerasi</lem>
+               <rdg wit="#φ #ν1 #ρ2 #θ #r">ceras</rdg>
+            </app>
+            <app>
+               <lem>tua</lem>
+               <rdg wit="#P">mea</rdg>
+            </app>
+            <app>
+               <lem>notabo</lem>
+               <rdg wit="#N">notato</rdg><!-- (corr. m2) -->
+               <rdg wit="#P">notabo</rdg><!-- (bo e corr.) -->
+            </app>
+            <app>
+               <lem>et decisa</lem>
+               <rdg wit="#N">et decisam</rdg><!-- (m eras.) -->
+               <rdg wit="#P">et decissa</rdg>
+               <rdg source="#Heins.">atque incisa</rdg>
+            </app>
+            <app>
+               <lem>L.</lem>
+               <rdg wit="#P" />
+            </app>
+            <app>
+               <lem>Phylli</lem>
+               <rdg wit="#N">Philli</rdg>
+            </app>
+            <app>
+               <lem>pallidus</lem>
+               <rdg wit="#N #ε #π #μ #e">palidus</rdg>
+            </app>
+            <app>
+               <lem>Lycidas</lem>
+               <rdg wit="#N">Licidas</rdg>
+            </app>
+            <app>
+               <lem>quos</lem>
+               <rdg wit="#N #G">quas</rdg>
+            </app>
+            <app>
+               <lem>modulatur</lem>
+               <rdg wit="#P #μ">modulatus</rdg>
+               <rdg wit="#π">medulatus</rdg>
+            </app>
+            <app>
+               <lem>acerba</lem>
+               <rdg wit="#N">avena</rdg><!-- (avena s.v. m2) -->
+            </app>
+            <app>
+               <lem wit="#N #G #P" source="#Glaeser #Keene #Schenkl">excluso</lem>
+               <rdg wit="#V" source="#edd.">excusso</rdg>
+            </app>
+            <app>
+               <lem wit="#N #G #H #P" source="#GlaeserSqq">disperdit</lem>
+               <rdg wit="#V" source="#eddAnteGlaeser">dispergit</rdg>
+               <rdg source="#Scaliger">distergit</rdg>
+               <rdg wit="#δ" source="#Burm.">dispargit</rdg>
+               <rdg wit="#u #b">dispergis</rdg>
+               <rdg source="#Heins. #Kempfer">detergit</rdg><!-- (cui placuit et disperdit) -->
+            </app>
+         </listApp>
+      </body>
+  </text>
+</TEI>

@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Title</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Publication Information</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Information about the source</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listApp>
+                <app loc="C3.21.48">
+                    <lem wit="N P" source="Burm. sqq.">destricta</lem>
+                    <rdg wit="G ρ2" source="i1 1l Guid. Tit. Barth. Tig. Vienn. p Heins."
+                        >districta</rdg>
+                    <rdg wit="V" source="eddAnteBurm.">destructa</rdg>
+                    <rdg wit="λ">destructus</rdg>
+                    <rdg wit="s">distincta</rdg>
+                </app>
+                <app loc="C3.21.48">
+                    <lem wit="G λ1 κ1 β χ" source="GlaeserSqq.">marcescit</lem>
+                    <rdg wit="N P">marcessit</rdg>
+                    <rdg wit="V" source="eddAnteGlaeser">macrescit</rdg>
+                </app>
+                <app loc="C3.21.48">
+                    <lem>turdus</lem>
+                    <rdg wit="P e d2">tardus</rdg>
+                </app>
+                <app loc="C3.21.49">
+                    <lem>legulus</lem>
+                    <rdg wit="G">legulis</rdg>
+                </app>
+                <app loc="C3.21.49">
+                    <lem>sustulit</lem>
+                    <lem wit="P κ χ η δ ρ λ π1" source="i1">substulit</lem>
+                </app>
+                <app loc="C3.21.49">
+                    <lem>uvas</lem>
+                    <rdg source="Burm.">herbas</rdg>
+                </app>
+                <app loc="C3.21.50">
+                    <lem>ut</lem>
+                    <rdg wit="P">et</rdg>
+                </app>
+                <app loc="C3.21.50">
+                    <lem>Phyllide</lem>
+                    <rdg wit="P">Philide</rdg>
+                    <rdg wit="N">Phillide</rdg>
+                </app>
+                <app loc="C3.21.50">
+                    <lem>tabidus</lem>
+                    <rdg wit="G u b" source="i2 l2 o n">turbidus</rdg>
+                    <rdg wit="ε e">tubidus</rdg>
+                    <rdg wit="N">tapidus</rdg>
+                    <!-- N (corr. m2) -->
+                    <rdg wit="θ">talibus</rdg>
+                </app>
+                <!--sine-51 misero om. η-->
+                <app loc="C3.21.51">
+                    <lem>te sine</lem>
+                    <rdg wit="P">desine</rdg>
+                </app>
+                <app loc="C3.21.51">
+                    <lem wit="edd.">vae</lem>
+                    <rdg wit="N G P V r e u b i l2 g">ve</rdg>
+                    <rdg wit="δ d2">veh</rdg>
+                    <rdg wit="α">vē</rdg>
+                    <rdg wit="s" source="o n">vel</rdg>
+                </app>
+                <app loc="C3.21.51">
+                    <lem>misero</lem>
+                    <rdg wit="φ ν θ ρ1 r" source="Guid.">domina</rdg>
+                </app>
+                <app loc="C3.21.52">
+                    <lem>sapiunt</lem>
+                    <rdg wit="P" source="i1 l1 Vienn.">sapient</rdg>
+                </app>
+                <app loc="C3.21.52">
+                    <lem>et acescunt</lem>
+                    <rdg wit="φ π ν ρ1 η θ r s" source="Guid.">et dulcia</rdg>
+                    <rdg wit="δ">nec crescunt</rdg>
+                </app>
+                <app loc="C3.21.53">
+                    <lem>venias</lem>
+                    <rdg wit="G ρ2">venies</rdg>
+                </app>
+                <app loc="C3.21.53">
+                    <lem>et</lem>
+                    <rdg wit="ε α μ γ δ e u d2" source="b i2 l2">iam</rdg>
+                    <rdg source="Fabric.">nec</rdg>
+                    <!-- Fabric. (bibl. lat. III c. 5). -->
+                </app>
+                <app loc="C3.21.53">
+                    <lem>fient</lem>
+                    <rdg wit="u">fiant</rdg>
+                </app>
+                <app loc="C3.21.54">
+                    <lem>sapient</lem>
+                    <rdg wit="G">sapiet</rdg>
+                    <rdg wit="δ">sapiunt</rdg>
+                </app>
+                <app loc="C3.21.54">
+                    <lem>bibentur</lem>
+                    <rdg wit="φ ν ρ1 θ r d2 Guid.">bibenti</rdg>
+                </app>
+                <app loc="C3.21.55">
+                    <lem>Lycidas</lem>
+                    <rdg wit="N">licidas</rdg>
+                </app>
+                <app loc="C3.21.55">
+                    <lem wit="N G α γ d" source="p h Modius Ulit. BurmSqq.">te</lem>
+                    <rdg wit="V P" source="eddAnteBurm.">tu</rdg>
+                </app>
+                <app loc="C3.21.55">
+                    <lem>cantante</lem>
+                    <rdg wit="e ε" source="g">cantare</rdg>
+                </app>
+                <app loc="C3.21.57">
+                    <lem>nec</lem>
+                    <rdg wit="P">ne</rdg>
+                </app>
+                <app loc="C3.21.57">
+                    <lem>dubitasti</lem>
+                    <rdg wit="P">dubitanti</rdg>
+                </app>
+                <app loc="C3.21.57">
+                    <lem>rumpere</lem>
+                    <rdg wit="d2">erumpere</rdg>
+                </app>
+                <!--58 om. δ-->
+                <app loc="C3.21.59">
+                    <lem>a</lem>
+                    <rdg wit="N G φ ν κ λ α χ">ah</rdg>
+                    <rdg wit="P ρ β γ μ ε π">ha</rdg>
+                </app>
+                <app loc="C3.21.59">
+                    <lem wit="N G P d1" source="Kempfer Wernsd. GlaeserSqq.">haec</lem>
+                    <rdg wit="V" source="eddAnteGlaeser">hoc</rdg>
+                </app>
+                <app loc="C3.21.59">
+                    <lem>torrida</lem>
+                    <rdg source="Heins.">torpida</rdg><!-- olim. -->
+                </app>
+                <app loc="C3.21.60">
+                    <lem>iners</lem>
+                    <rdg wit="P">inexs</rdg>
+                    <rdg wit="V" source="eddAnteGlaeser">inops</rdg>
+                </app>
+                <app loc="C3.21.60">
+                    <lem>acerbae</lem>
+                    <rdg wit="N">crebre</rdg>
+                </app>
+                <app loc="C3.21.61">
+                    <lem>Phylli</lem>
+                    <rdg wit="P">filla</rdg>
+                </app>
+                <app loc="C3.21.62">
+                    <lem wit="N G P ρ2" source="GlaeserSqq.">iurare</lem>
+                    <rdg wit="V" source="eddAnteGlaeser">narrare</rdg>
+                    <!--is this separation correct?-->
+                    
+                    <rdg wit="κ ρ1">narare</rdg>
+                </app>
+                <app loc="C3.21.63">
+                    <lem>certaverit</lem>
+                    <rdg wit="φ ν η θ r s" sourc="o n">certaverat</rdg>
+                </app>
+                <app loc="C3.21.63">
+                    <lem wit="λ φ" source="edd.">haedos</lem>
+                    <rdg wit="N κ χ ν s" source="n">hedos</rdg>
+                    <rdg wit="G β γ μ ε π δ e u">edos</rdg>
+                    <rdg wit="P">hedes</rdg>
+                    <rdg wit="ρ α b">aedos</rdg>
+                    <rdg wit="l2 g o i2 Barth. Ulit. p"> hoedus </rdg>
+                    </app>
+                <app loc="C3.21.64">
+                    <lem>quot</lem>
+                    <rdg wit="P">quod</rdg>
+                </app>
+                <app loc="C3.21.64">
+                    <lem>nostri numerantur</lem>
+                    <rdg source="Kempfer">nobis numerentur</rdg>
+                </app>
+                <app loc="C3.21.65">
+                    <lem>nosti</lem>
+                    <rdg wit="P ρ ε1 u">nostri</rdg>
+                </app>
+                <app loc="C3.21.65">
+                    <lem>scis</lem>
+                    <rdg wit="N δ">sis</rdg>
+                </app>
+                <app loc="C3.21.66">
+                    <lem>meis</lem>
+                    <rdg wit="P">mors</rdg>
+                    <rdg source="Kempfer">mihi</rdg>
+                </app>
+                <app loc="C3.21.66">
+                    <lem wit="N α κ μ ρ2" source="edd.">bucula</lem>
+                    <rdg wit="P φ ν ε λ χ η δ β ρ1 γ r u e b d2" source="l2 g i2 p h Barth. Ulit."
+                        >buccula</rdg>
+                    <rdg wit="G">bucchula</rdg>
+                    <rdg wit="π">buculo</rdg>
+                </app>
+                <app loc="C3.21.66">
+                    <lem wit="ε α ν λ γ φ κ2 ρ2" source="edd.">mulctris</lem>
+                    <rdg wit="G β δ ρ1">multris</rdg>
+                    <rdg wit="N">multis</rdg>
+                    <rdg wit="P">ī ultrix</rdg>
+                    <!--superscript 1-->
+                    <rdg wit="π κ1">multrix</rdg>
+                    <rdg wit="μ">multus</rdg>
+                    <rdg wit="χ">mulctrix</rdg>
+                </app>
+            </listApp>
+        </body>
+    </text>
+</TEI>
