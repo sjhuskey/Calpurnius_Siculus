@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Title</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Publication Information</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Information about the source</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listApp>
+                <app loc="#C1.23.82">
+                    <lem>metere</lem>
+                    <rdg wit="P">meta</rdg>
+                </app>
+                <app loc="#C1.23.82">
+                    <lem>occidua</lem>
+                    <rdg wit="G">occiduas</rdg>
+                    <!-- (s del) -->
+                </app>
+                <app>
+                    <lem>occidua-nocte</lem>
+                    <rdg wit="Maehly">occiduo-sole</rdg>
+                    <rdg wit="Barth">occidua-falce</rdg>
+                </app>
+                <app loc="#C1.23.82">
+                    <lem>ferales</lem>
+                    <rdg wit="φ π ν η r s" source="o n">feralis</rdg>
+                    <rdg wit="μ">feroles</rdg>
+                    <rdg wit="α2">feniles</rdg>
+                </app>
+                <app loc="#C1.23.83">
+                    <lem>cocto</lem>
+                    <rdg wit="N">tecto</rdg>
+                    <rdg source="Glaeser">secto</rdg>
+                </app>
+                <app loc="#C1.23.83">
+                    <lem>pensare</lem>
+                    <rdg wit="ε λ ρ2 α1 e u b d2" source="i2 l2 g h Barth. Ulit.">pinsare</rdg>
+                    <rdg source="i1 Guid. l1 Vienn.">pinsere</rdg>
+                </app>
+                <app loc="#C1.23.83">
+                    <lem>cocto pensare legumine panem</lem>
+                    <rdg wit="ν φ ρ2 η θ r b s" source="n o">cocto pensare legumina pane</rdg>
+                    <rdg wit="d2">cocto pensare legumine pane</rdg>
+                    <rdg wit="δ">cocto pensare lingumine-panem</rdg>
+                    <rdg source="Burm.">cocto pensare legumina pane</rdg>
+                <rdg source="Burm.">coctum pensare legumine panem</rdg>
+                    <rdg source="Burm.">cocto pensare legumine panem</rdg>
+                </app>
+                <app loc="#C1.23.84">
+                    <lem wit="P V" source="edd.">tunc-tunc</lem>
+                    <rdg wit="N G η">tum-tunc</rdg>
+                    <rdg wit="H ε γ u e b d2" source="i l2">tum-tum</rdg>
+                </app>
+                <app loc="#C1.23.84">
+                    <lem>felix tunc fortunatus habetur</lem>
+                    <rdg source="Kempfer">tunc felix fortunatusque videtur</rdg>
+                </app>
+                <app loc="#C1.23.85">
+                    <lem>cum</lem>
+                    <rdg wit="P α">tunc</rdg>
+                    <rdg source="Wernsd.">quam</rdg>
+                </app>
+                <app loc="#C1.23.85">
+                    <lem>manualibus</lem>
+                    <rdg wit="N">manuilibus</rdg>
+                    <!-- N(corr. m2) -->
+                </app>
+                <app loc="#C1.23.85">
+                    <lem wit="ν η">hordea</lem>
+                    <rdg wit="N2 G P V">ordea</rdg>
+                    <rdg wit="N1">odea</rdg>
+                </app>
+                <app loc="#C1.23.85">
+                    <lem>saxis</lem>
+                    <rdg wit="Scaliger">sulcis</rdg>
+                    <note resp="Giarratano">ad Manil. V 281</note>
+                </app>
+                <app loc="#C1.23.86">
+                    <lem>turpis</lem>
+                    <rdg wit="P">cupis</rdg>
+                </app>
+                <app loc="#C1.23.86">
+                    <lem>quod</lem>
+                    <rdg wit="N">que</rdg>
+                    <rdg source="Glaeser">quae</rdg>
+                </app>
+                <app loc="#C1.23.87">
+                    <lem>obstiterit</lem>
+                    <rdg wit="G u">ostiterit</rdg>
+                </app>
+                <app loc="#C1.23.87">
+                    <lem>laqueum</lem>
+                    <rdg wit="P">leque</rdg>
+                </app>
+                <app loc="#C1.23.87">
+                    <lem>miseri nectemus</lem>
+                    <rdg wit="χ π β ν δ λ μ κ ρ1">miser innectemus</rdg>
+                    <rdg wit="P">miser m'estemus</rdg>
+                    <rdg wit="α φ θ r s" source="n o">miseri innectemus</rdg>
+                    <rdg wit="η ">miseri mectemus</rdg>
+                </app>
+                <app loc="#C1.23.88">
+                    <lem>nostros primum</lem>
+                    <rdg wit="V edd. ante Glaeser">primum nostros</rdg>
+                </app>
+                <app loc="#C1.23.89">
+                    <lem wit="V" source="edd.">hi</lem>
+                    <rdg wit="N G">hy</rdg>
+                    <rdg wit="P" source="Gryph.">hic</rdg>
+                <rdg wit="δ">ii</rdg>
+                </app>
+                <app loc="#C1.23.89">
+                    <lem>figentur</lem>
+                    <rdg wit="μ π δ ρ1 χ1">fingentur</rdg>
+                    <rdg wit="α">fingetur</rdg>
+                    <rdg source="Heins.">signentur</rdg>
+                </app>
+                <!--habent exc. Bon.-->
+                <app loc="#C1.23.91">
+                    <lem>Phyllida</lem>
+                    <rdg wit="N G">Phillida</rdg>
+                    <rdg wit="P">Philida</rdg>
+                </app>
+                <app loc="#C1.23.91">
+                    <lem wit="N G A" source="Tit. Barth. Scriver. Ulit. Kempfer Burm. Baehr. Schenkl"
+                        >habet</lem>
+                    <rdg wit="P V" source="edd.">amat</rdg>
+                </app>
+                <app loc="#C1.23.91">
+                    <lem wit="Burm. Scriver. Glaeser Baehr. Keene Schenkl"
+                        >Lycidan</lem><!-- probavit H. Cocchia -->
+                    <rdg wit="γ φ ε ν" source="edd.">Lycidas</rdg><!--  def. Ellis(l.l. p.90) -->
+                    <rdg wit="G μ λ ρ π α β">licidas</rdg>
+                    <rdg wit="N">licidax</rdg>
+                    <!-- N(n supra x m2) -->
+                    <rdg wit="κ χ">lycida</rdg>
+                </app>
+                <app loc="#C1.23.91">
+                    <lem>habet</lem>
+                    <rdg source="Baehr. Kempfer">amat</rdg>
+                    <rdg source="Heins.">obit</rdg>
+                </app>
+                <app loc="#C1.23.92">
+                    <lem>quicquam</lem>
+                    <rdg wit="G μ">quidquam</rdg>
+                    <rdg source="Barth.">quiquam</rdg>
+                </app>
+                <app loc="#C1.23.92">
+                    <lem>miseris</lem>
+                    <rdg wit="P">miseros</rdg>
+                </app>
+                <app loc="#C1.23.92">
+                    <lem>succurris</lem>
+                    <rdg wit="N">succuris</rdg>
+                </app>
+                <app loc="#C1.23.92">
+                    <lem>Iolla</lem>
+                    <rdg wit="N ε γ μ">iola</rdg>
+                </app>
+                <app loc="#C1.23.93">
+                    <lem> wit="N G P α λ κ φ ρ" source="edd."perfer et exora modulato</lem>
+                    <!-- ρ(in ras.) -->
+                    <rdg wit="γ μ ε e">perfer et ore tuo modulator</rdg>
+                    <rdg wit="A u" source="b (corr. Guid.) Martell.">perfer et ore tuo modulabor</rdg><!-- A (ex modulator) --><!-- b (corr. Guid.) -->
+                    <rdg wit="π o n">profer et exora modulto</rdg>
+                    <rdg wit="ν χ θ">praefer et exora modulato</rdg>
+                    <rdg wit="η r">prefer et exora modulato</rdg>
+                    <rdg wit="β">perfer et exora modulatu</rdg>
+                    <rdg wit="δ ">postifer ore tuo modulabor</rdg>
+                    <rdg wit="d">perfert et ore tuo modulator</rdg>
+                    <rdg source="Kempfer">perfer et exora meditato</rdg>
+                </app>
+                <app loc="#C1.23.95">
+                    <lem>propius</lem>
+                    <rdg wit="G α μ δ ρ1">proprius</rdg>
+                </app>
+                <app loc="#C1.23.95">
+                    <lem>vicina</lem>
+                    <rdg source="Oudendorp">vicini</rdg><!-- (ap. Burm. Anth. lat. I p. 716) -->
+                    </app>
+                <app loc="#C1.23.95">
+                    <lem>saepe</lem>
+                    <rdg wit="φ μ π r s" source="g i2 l2">sepe</rdg>
+                    <rdg source="p">ut saepe</rdg><!-- sqq. usque ad Baehr.-->
+                </app>
+                <app loc="#C1.23.95">
+                    <lem wit="A H Glaeser sqq.">horti</lem>
+                    <rdg wit="N G P" source="Haupt">orti</rdg>
+                    <rdg wit="V edd.">ara</rdg>
+                    <rdg wit="d">ora</rdg>
+                    <rdg source="Kempfer">aram</rdg>
+                </app>
+                <app loc="#C1.23.95">
+                    <lem>vicina saepe sub horti</lem>
+                    <rdg source="Ulit.">vi cina sepe sub aram</rdg>
+                <rdg source="Ulit.">vicinae sepibus arae</rdg>
+                </app>
+            </listApp>
+        </body>
+    </text>
+</TEI>

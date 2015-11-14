@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Title</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Publication Information</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Information about the source</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listApp>
+                <app loc="#C3.22.67">
+                    <lem> quam </lem>
+                    <rdg wit="N"> qui </rdg>
+                    <!-- 67 qui (ex quam) N. -->
+                </app>
+                <app loc="#C3.22.67">
+                    <lem> suspendat </lem>
+                    <rdg wit="π ρ1 ν φ η θ r s"> suspendit </rdg>
+                </app>
+                <app loc="#C3.22.67">
+                    <lem> suos-natos </lem>
+                    <rdg wit="δ"> suas-natas </rdg>
+                </app>
+                <app loc="#C3.22.67">
+                    <lem> ad ubera </lem>
+                    <rdg source="Ulit."> ab ubere </rdg>
+                </app>
+                <app loc="#C3.22.68">
+                    <lem> nec </lem>
+                    <rdg wit="P" source="n"> ne </rdg>
+                </app>
+                <app loc="#C3.22.68">
+                    <lem wit="ε γ d2 u e" source="b g l2 i2 Gryph. Ulit. Haupt Schenkl"> gracili </lem>
+                    <rdg wit="ω" source="edd."> gracilis </rdg>
+                </app>
+                <app loc="#C3.22.68">
+                    <lem> fiscella </lem>
+                    <rdg wit="P"> ficella </rdg>
+                    <rdg wit="u" source="b"> fiscela </rdg>
+                </app>
+                <app loc="#C3.22.69">
+                    <lem> texitur </lem>
+                    <rdg wit="G"> toxitur </rdg>
+                </app>
+                <app loc="#C3.22.69">
+                    <lem wit="N G P" source="p sqq."> nullo-lacte </lem>
+                    <rdg wit="V H2 edd. ante p Wernsd. Beck."> nulla-lactis </rdg>
+                    <rdg wit="H1 Glaeser"> nulla-lacte </rdg>
+                    <rdg wit="d. Burm."> nullo-lactis </rdg>
+                </app>
+                <!-- Burm. coniecit: et molli, puro, mundo vel aut multo t.
+						c. lacte vel nullo t. c. fisco, vel nulla t. c. cista, corbe, vel texta nec
+						in calathis t. c. lactis. -->
+                <app loc="#C3.22.70">
+                    <lem> quod </lem>
+                    <rdg wit="P"> quo </rdg>
+                </app>
+                <app loc="#C3.22.71">
+                    <lem wit="λ χ γ ρ2" source="edd."> illae </lem>
+                    <rdg wit="G P μ π φ β η δ ε ρ1 α ν κ r e u b" source="i1"> ille </rdg>
+                    <rdg wit="N"> illē </rdg>
+                    <rdg source="Vienn. p Ulit. h t Barth. Burm. Wernsd. Beck Glaeser Keene"> illae
+                        et </rdg>
+                </app>
+                <app loc="#C3.22.71">
+                    <lem> vimine </lem>
+                    <rdg wit="G"> vigmine </rdg>
+                    <rdg source="cod. Titii"> verbere </rdg>
+                </app>
+                <app loc="#C3.22.72">
+                    <lem source="Giarratano">sic licet</lem>
+                    <rdg wit="ω" source="edd."> scilicet </rdg><note>def. Ellis</note>
+                    <!-- ω (silicet κχ, sed μ) edd. def. Ellis (l. l. p. 90) -->
+                    <rdg source="Schenkl"> seu licet </rdg>
+                    <rdg source="Heins."> quin licet </rdg>
+                    <rdg source="Burm. Baehr."> si libet </rdg>
+                    <rdg source="Maehly"> si placet </rdg>
+                    <rdg source="Iacoby"> ilicis </rdg>
+                    <!-- Iacoby (l. l. p. 1291) -->
+                    <rdg source="Leo"> et salice </rdg>
+                    <!-- Leo dubitanter proposuit -->
+                </app>
+                <app loc="#C3.22.72">
+                    <lem> post tergum </lem>
+                    <rdg wit="P1"> postergum </rdg>
+                </app>
+                <app loc="#C3.22.73">
+                    <lem wit="H ν φ η edd."> ut </lem>
+                    <rdg wit="N">vī</rdg>
+                    <rdg wit="G P V e u" source="i1 Vienn."> vi </rdg>
+                </app>
+                <app loc="#C3.22.73">
+                    <lem> mala </lem>
+                    <rdg source="Glaeser"> male </rdg>
+                </app>
+                <app loc="#C3.22.73">
+                    <lem> nocturni </lem>
+                    <rdg wit="G"> noturni </rdg>
+                </app>
+                <app loc="#C3.22.73">
+                    <lem wit="ε χ λ η"> bracchia </lem>
+                    <rdg wit="ω"> brachia </rdg>
+                </app>
+                <app loc="#C3.22.74">
+                    <lem> Tityrus </lem>
+                    <rdg wit="ν ε α η φ ρ2"> tityrus </rdg>
+                    <rdg wit="G P π κ χ"> tytirus </rdg>
+                    <rdg wit="N ρ1"> titurus </rdg>
+                    <rdg wit="λ μ δ β γ"> titirus </rdg>
+                </app>
+                <app loc="#C3.22.74">
+                    <lem> furem medio </lem>
+                    <rdg wit="P V edd. ante Glaeser"> medio furem </rdg>
+                </app>
+                <app loc="#C3.22.75">
+                    <lem> accipe </lem>
+                    <rdg source="o"> aspice </rdg>
+                </app>
+                <app loc="#C3.22.75">
+                    <lem> dubites </lem>
+                    <rdg wit="P V" source="eddAnteGlaeser"> dubita </rdg>
+                </app>
+                <app loc="#C3.22.75">
+                    <lem wit="λ ν γ ε"> poenas </lem>
+                    <rdg wit="N G κ π μ δ α"> penas </rdg>
+                    <rdg wit="φ χ η ρ β"> paenas </rdg>
+                </app>
+                <app loc="#C3.22.76">
+                    <lem> his </lem>
+                    <rdg wit="G"> hys </rdg>
+                </app>
+                <app loc="#C3.22.76">
+                    <lem wit="π μ λ β δ" source="edd."> his isdem </lem>
+                    <rdg wit="N"> his hisdem </rdg>
+                    <rdg wit="G"> hys hysdem </rdg>
+                    <rdg wit="P"> is isdem </rdg>
+                    <rdg wit="H φ γ η ν ρ1 r" source="Guid. Heins."> his iisdem </rdg>
+                    <rdg wit="ε α ρ2 d e u b s" source="i o n l2 p h Barth. Ulit."> his inquam </rdg>
+                    <rdg wit="χ2"> iisdem </rdg>
+                    <rdg wit="κ"> ii in isdem </rdg>
+                    <rdg wit="χ1"> is iisdem </rdg>
+                </app>
+                <app loc="#C3.22.76">
+                    <lem> palumbes </lem>
+                    <rdg wit="P"> palombes </rdg>
+                    <rdg wit="π ν1 η θ r b s" source="o n"> palumbos </rdg>
+                    <rdg wit="φ">palumōs</rdg>
+                    </app>
+                <app loc="#C3.22.77">
+                    <lem> leporem </lem>
+                    <rdg wit="N"> lepolem </rdg>
+                </app>
+                <app loc="#C3.22.77">
+                    <lem> decepta </lem>
+                    <rdg wit="θ"> decerpta </rdg>
+                    <rdg source="Baehr."> deserta </rdg>
+                </app>
+                <!-- versum om. δ. -->
+                <app loc="#C3.22.78">
+                    <lem> gremium </lem>
+                    <rdg wit="P V r u e b" source="i l Vienn. g Martell. Ulit."> gremio </rdg>
+                </app>
+                <app loc="#C3.22.78">
+                    <lem> prima </lem>
+                    <rdg wit="κ χ1 d2"> primo </rdg>
+                </app>
+                <app loc="#C3.22.79">
+                    <lem> contigerant </lem>
+                    <rdg wit="P δ"> contingerant </rdg>
+                    <rdg
+                        source="Burm. Friesem. Beck Glaeser Baehr. Schenkl1 Keene"
+                        > contigerunt </rdg>
+                    <!-- Friesem. (coll. crit. p. 176) Beck -->
+                    <rdg wit="s"> contigerat </rdg>
+                </app>
+                <app loc="#C3.22.79">
+                    <lem> vixdum </lem>
+                    <rdg wit="P"> virdum </rdg>
+                </app>
+                <app loc="#C3.22.80">
+                    <lem> degustabat </lem>
+                    <rdg source="Heins. Burm. Baehr. Schenkl1"> degustarat </rdg>
+                    <rdg wit="λ"> degustavit </rdg>
+                </app>
+                <app loc="#C3.22.81">
+                    <lem> aurea </lem>
+                    <rdg wit="P"> aureas </rdg>
+                    <rdg wit="μ"> aurem </rdg>
+                    <rdg wit="α"> aure </rdg>
+                </app>
+                <app loc="#C3.22.81">
+                    <lem> forsan mendax </lem>
+                    <rdg source="Kempfer"> mendax forsan </rdg>
+                </app>
+                <app loc="#C3.22.81">
+                    <lem wit="P V" source="edd."> iactat </lem>
+                    <rdg wit="N"> iactast </rdg>
+                    <!-- iactast (s exp.) N, -->
+                    <rdg wit="G"> ictat </rdg>
+                </app>
+            </listApp>
+        </body>
+    </text>
+</TEI>
