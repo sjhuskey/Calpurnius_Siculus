@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Title</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Publication Information</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Information about the source</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listApp>
+                <app loc="#C3.24.96">
+                    <lem>et veniet</lem>
+                    <rdg wit="κ χ">et venias</rdg>
+                    <rdg wit="ρ1 λ α υ δ η ν π φ β θ r">et venies</rdg>
+                    <rdg source="Glaeser">eveniet</rdg>
+                </app>
+                <app loc="#C3.24.96">
+                    <lem>fallunt</lem>
+                    <rdg wit="N">falunt</rdg>
+                </app>
+                <app loc="#C3.24.97">
+                    <lem wit="G P χ γ μ ε π λ α κ ρ2" source="edd.">a dextro</lem>
+                    <note resp="Giarratano">probavit F. Ramorino</note>
+                    <rdg wit="N">adexstro</rdg>
+                    <rdg wit="H θ ν φ η r s b" source="i l1 o n p Barth. Glaeser Keene">a
+                        dextra</rdg>
+                    <!--Buecheler (Rh. Mus. XV p. 454) Fritzsche (1.1.p. 19)-->
+                    <rdg wit="ρ1">addextra</rdg>
+                    <rdg wit="δ u e">adextro</rdg>
+                    <rdg>dextrum</rdg>
+                    <!--Leo (1. 1. p. 616)-->
+                    <rdg source="Ulit.">en dextrum</rdg>
+                    <rdg source="Baehr. Schenkl1">a! dextrum</rdg>
+                </app>
+                <app loc="#C3.24.97">
+                    <lem>Tityrus</lem>
+                    <rdg wit="N">titurus</rdg>
+                    <rdg wit="P">tyturus</rdg>
+                    <rdg wit="G">tytirus</rdg>
+                </app>
+                <app loc="#C3.24.98">
+                    <lem wit="N G P V r s" source="Glaeser Keene Schenkl">venit</lem>
+                    <rdg wit="A ε γ" source="edd.">redit</rdg>
+                </app>
+                <app loc="#C4.24.1">
+                    <lem wit="ν2" source="edd.">Corydon</lem>
+                    <rdg wit="ω r d2">Coridon</rdg>
+                </app>
+                <app loc="#C4.24.2">
+                    <lem>quidve</lem>
+                    <rdg>quiddve</rdg>
+                    <!--G (d alt. del.)-->
+                </app>
+                <app loc="#C4.24.2">
+                    <lem wit="P V" source="edd.">platano</lem>
+                    <rdg wit="N G">patula</rdg>
+                    <rdg source="Schenkl1">pinu</rdg>
+                </app>
+                <app loc="#C4.24.2">
+                    <lem>quam</lem>
+                    <rdg source="n o">cui</rdg>
+                </app>
+                <app loc="#C4.24.2">
+                    <lem>garrulus</lem>
+                    <rdg wit="N G μ δ u" source="b g l2">garulus</rdg>
+                </app>
+                <app loc="#C4.24.2">
+                    <lem>astrepit</lem>
+                    <rdg wit="G χ2" source="i1 l1 Tig. Vienn.">obstrepit</rdg>
+                    <rdg wit="φ">abstrepit</rdg>
+                </app>
+                <app loc="#C4.24.2">
+                    <lem>humor</lem>
+                    <rdg wit="P">umor</rdg>
+                </app>
+                <app loc="#C4.24.3">
+                    <lem wit="N G H ρ" source="Heins. Baehr. Schenkl">insueta</lem>
+                    <!--in ras.-->
+                    <rdg wit="P">inseta</rdg>
+                    <rdg wit="π μ χ θ δ ν κ λ α r">insecta</rdg>
+                    <rdg wit="φ">infecta</rdg>
+                    <rdg wit="ε ρ" source="edd.">infesta</rdg>
+                    <!--in mg.-->
+                    <rdg wit="γ">in....</rdg>
+                    <rdg wit="β η">in secta</rdg>
+                    <rdg source="Ulit.">intecta</rdg>
+                    <rdg>in festa</rdg>
+                    <!--Salmasius (epist. ad Gronov. 110)-->
+                    <rdg source="Burm.">in certa</rdg>
+                    <rdg source="Burm.">lecta</rdg>
+                </app>
+                <app loc="#C4.24.3">
+                    <lem>iuvat</lem>
+                    <rdg wit="N">vivat</rdg>
+                </app>
+                <app loc="#C4.24.3">
+                    <lem>humida</lem>
+                    <rdg source="Baehr.">algida</rdg>
+                    <rdg source="Schenkl">herbida</rdg>
+                    <note resp="Giarratano">post humida una littera est erasa in N</note>
+                </app>
+                <app loc="#C4.24.4">
+                    <lem>levatque</lem>
+                    <rdg source="Barth.">levatve</rdg>
+                </app>
+                <app loc="#C4.24.4">
+                    <lem>diem</lem>
+                    <rdg wit="δ"/>
+                </app>
+                <app loc="#C4.24.4">
+                    <lem>spiritus</lem>
+                    <rdg>spc<!--macron on c--></rdg>
+                    <!--N (deinde lac. 6 litt.)-->
+                </app>
+                <app loc="#C4.24.4">
+                    <lem>amnis</lem>
+                    <rdg wit="G P">annis</rdg>
+                </app>
+                <app loc="#C4.24.5">
+                    <lem>iam</lem>
+                    <rdg wit="π χ φ ν κ λ ρ1 θ β η r">nam</rdg>
+                </app>
+                <app loc="#C4.24.5">
+                    <lem>nemorale</lem>
+                    <rdg wit="G δ η" source="n">memorale</rdg>
+                </app>
+                <app loc="#C4.24.5">
+                    <lem>resultent</lem>
+                    <rdg wit="G θ">resultet</rdg>
+                </app>
+                <app loc="#C4.24.6">
+                    <lem>Meliboee</lem>
+                    <rdg wit="ε γ" source="edd.">meliboee</rdg>
+                    <rdg wit="N G λ α β δ μ π">melibee</rdg>
+                    <rdg wit="η">melibeae</rdg>
+                    <!--not sure this is correct-->
+                    <rdg wit="φ χ ρ ν κ u b" source="Barth.">melibaee</rdg>
+                </app>
+                <app loc="#C4.24.6">
+                    <lem>possint</lem>
+                    <rdg wit="G P α γ edd.">possint</rdg>
+                    <rdg wit="N V r e u s" source="o n">possunt</rdg>
+                </app>
+                <app loc="#C4.24.7">
+                    <lem>canatur</lem>
+                    <rdg wit="δ">cantatur</rdg>
+                </app>
+                <app loc="#C4.24.8">
+                    <lem wit="N G P β δ π ρ θ" source="i1 l1 Vienn p h Barth. Baehr. Schenkl"
+                        >urbesque</lem>
+                    <rdg wit="ε κ λ α χ μ γ" source="edd.">urbemque</rdg>
+                    <rdg wit="ν φ η r s" source="o n">urbisque</rdg>
+                </app>
+                <app loc="#C4.24.8">
+                    <lem>pacemque</lem>
+                    <rdg source="Ulit.">plebemque</rdg>
+                </app>
+                <app loc="#C4.24.9">
+                    <!--M. om P-->
+                </app>
+                <app loc="#C4.24.9">
+                    <lem>resonas</lem>
+                    <rdg wit="φ ν η r">resonans</rdg>
+                </app>
+                <app loc="#C4.24.9">
+                    <lem>Apollo</lem>
+                    <rdg wit="N">apolo</rdg>
+                </app>
+                <app loc="#C4.24.10">
+                    <lem wit="N G ρ2" source="edd.">despicit</lem>
+                    <rdg wit="P V r d" source="o n p h t Ulit. Modius">respicit</rdg>
+                    <rdg source="Burm.">respuit</rdg>
+                </app>
+                <app loc="#C4.24.10">
+                    <lem wit="N G P A" source="edd.">numina</lem>
+                    <rdg wit="V r e u b d2 s" source="i l2 n o">munera</rdg>
+                    <rdg wit="χ" source="Titius Ulit.">moenia</rdg>
+                    <!--χ (in mg.)-->
+                </app>
+                <app loc="#C4.24.11">
+                    <lem>Menalcae</lem>
+                    <rdg wit="G P ρ β ε2 η δ π μ φ r">menalce</rdg>
+                    <rdg wit="ε1">menalche</rdg>
+                </app>
+            </listApp>
+        </body>
+    </text>
+</TEI>
