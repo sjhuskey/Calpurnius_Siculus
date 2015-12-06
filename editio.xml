@@ -590,10 +590,6 @@
                            <surname>Casaubon</surname>
                         </persName>
                      </author>
-                     <title>Flavii Aviani Fabulae ad MS. CD. Collatae. Accedunt Variae Lectiones in Ovidii Remedium Amoris Theoduli Eclogam et Catonis Disticha curante Jo. Ad. Nodell, qui notas criticas in scriptores aliquot veteres adjecit</title>
-                     <pubPlace>Amsterdam</pubPlace>
-                     <publisher>apud Petrus den Hengst</publisher>
-                     <date>1787</date>
                   </bibl>
                   <bibl xml:id="Nodell">
                      <author ref="http://viaf.org/viaf/50155316">
@@ -603,8 +599,25 @@
                            <surname>Nodell</surname>
                         </persName>
                      </author>
-                     <title></title>
+                      <title>Flavii Aviani Fabulae ad MS. CD. Collatae. Accedunt Variae Lectiones in Ovidii Remedium Amoris Theoduli Eclogam et Catonis Disticha curante Jo. Ad. Nodell, qui notas criticas in scriptores aliquot veteres adjecit</title>
+                      <pubPlace>Amsterdam</pubPlace>
+                      <publisher>apud Petrus den Hengst</publisher>
+                      <date>1787</date>
                   </bibl>
+                   <bibl>
+                       <author ref="http://viaf.org/viaf/77077577">
+                           <persName>
+                               <forename>Franz</forename>
+                               <forename>Volkmar</forename>
+                               <surname>Fritzsche</surname>
+                           </persName>
+                       </author>
+                       <title level="m">De Eclogis Calpurnianis</title>
+                       <title level="s">Jahresbericht des grossherzoglichen Gymnasium Fridericianum zu Schwerin</title>
+                       <pubPlace>Schwerin</pubPlace>
+                       <publisher>Baerensprungschen Hofbuchdruckerei</publisher>
+                       <date>1903</date>
+                   </bibl>
                   <!-- Add: Martell. --><!-- "Martell." is the letter of Martellius printed in the back of Titus' edition. -->
                   <!-- Add Casaub. -->
                </listBibl>
@@ -619,6 +632,8 @@
                <item xml:id="BurmSqq">Burm. sqq.: Burmann's edition and all editions published thereafter, unless referenced specifically elsewhere in an entry in the apparatus. </item>
                <item xml:id="nonnulliTitium">Nonnulli apud Titum: some of the mss. cited by Titius</item>
                <item xml:id="coddTitii">Codd. Titii: the manuscripts cited by Titius</item>
+               <item xml:id="nonnulliKempfer">Nonnulli apud Kempfer</item>
+               <item xml:id="codVind">cod. Vindobon. (see 3.19)</item> 
             </list>
          </div>
       </front>
