@@ -658,6 +658,20 @@
                        <publisher>Baerensprungschen Hofbuchdruckerei</publisher>
                        <date>1903</date>
                    </bibl>
+                   <bibl xml:id="Fabricius" n="Fabricius">
+                       <author ref="http://viaf.org/viaf/24623353">
+                           <persName>
+                               <forename>Johann</forename>
+                               <forename>Albert</forename>
+                               <surname>Fabricius</surname>
+                           </persName>
+                       </author>
+                       <title level="m">Bibliotheca Latina, tomus III</title>
+                       <pubPlace>Lipsiae</pubPlace>
+                       <publisher>Apud Weidmanni heredes et Reichium</publisher>
+                       <date>1774</date>
+                       <ptr target="https://books.google.com/books?id=r7bwmNY6a9sC&pg=PP7#v=onepage&q&f=false"/>
+                   </bibl>
                   <!-- Add: Martell. --><!-- "Martell." is the letter of Martellius printed in the back of Titus' edition. -->
                   <!-- Add Casaub. -->
                </listBibl>

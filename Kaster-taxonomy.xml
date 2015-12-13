@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+    <interpretation type="Kaster">
+        <interp xml:id="k1">
+            Lexical: a reading that differs from the accepted reading by offering an entirely different lexeme.
+        </interp>
+        <interp xml:id="k2">
+            Syntactic: a reading that differs from the accepted reading in its grammatical construction or arrangement
+        </interp>
+        <interp xml:id="k3">
+            Morphological: a reading that differs from the accepted reading in its grammatical form
+        </interp>
+        <interp xml:id="k4">
+            Ordinal: a reading that changes the order in which units (letters, words, phrases, sentences, lines) occur the text
+        </interp>
+        <interp xml:id="k5">
+            Orthographical: a reading that differs from the accepted reading only in spelling (i.e., not in any grammatically meaningful way)
+        </interp>
+        <interp xml:id="k6">
+            Subtractive: omission of some unit of text through oversight, erasure, or some other cause
+        </interp>
+        <interp xml:id="k7">
+            Additive: an interpolation, i.e., some text judged by the editor to have entered the tradition through the mistaken or deliberate copying of auxiliary material (e.g., glosses, marginalia, etc.)
+        </interp>
+    </interpretation>
