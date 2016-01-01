@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Title</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Publication Information</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Information about the source</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listApp>
+                <app loc="C4.26.29">
+                    <lem>haec</lem>
+                    <rdg wit="#ν #ρ1"> nec </rdg>
+                    <rdg wit="#δ #φ"> hac </rdg>
+                    <rdg wit="#ed. #Aural. #a."> hoc </rdg>
+                    <!-- hoc ed. Aurel. a. 1611. -->
+                </app>
+                <app loc="C4.26.30">
+                    <lem> sunt </lem>
+                    <rdg wit="#Tig. #Barth."> nunc </rdg>
+                </app>
+                <app loc="C4.26.31">
+                    <lem> fraga </lem>
+                    <rdg wit="#N #G #λ1 #ρ1"> fragra </rdg>
+                    <!-- NG (in quo in mg. farra) -->
+                </app>
+                <app loc="C4.26.32">
+                    <lem> famem </lem>
+                    <rdg wit="#Titius"> iam me </rdg>
+                </app>
+                <app loc="C4.26.32">
+                    <lem> solarer </lem>
+                    <rdg wit="#N"> solaret </rdg>
+                </app>
+                <app loc="C4.26.34">
+                    <lem>nostras miseratus opes</lem>
+                    <rdg source="Barth.">nostri miseratus ope es</rdg>
+                </app>
+                <app loc="C4.26.35">
+                    <lem> hiberna </lem>
+                    <rdg wit="#G"> yberna </rdg>
+                    <rdg wit="#ν #φ #α #κ #χ #ρ2"> hyberna </rdg>
+                </app>
+                <app loc="C4.26.35">
+                    <lem wit="#N #G #A #edd."> solvere </lem>
+                    <rdg wit="#V #r #e #d #s #o #n #Beck."> pellere </rdg>
+                </app>
+                <app loc="C4.26.37">
+                    <lem> per te </lem>
+                    <rdg wit="#G"> per ste </rdg>
+                    <!-- G (s del.). -->
+                </app>
+                <app loc="C4.26.37">
+                    <lem> saturi </lem>
+                    <rdg wit="#ν #λ #η #θ #r"> satyri </rdg>
+                    <rdg wit="#φ"> satiri </rdg>
+                </app>
+                <app loc="C4.26.37">
+                    <lem> recubamus </lem>
+                    <rdg wit="#ν #φ"> recumbamus </rdg>
+                </app>
+                <app loc="C4.26.37">
+                    <lem> in umbra </lem>
+                    <rdg wit="N (antra exp. m2)"> in antra umbra </rdg>
+                </app>
+                <app loc="C4.26.38">
+                    <lem> Amaryllidos </lem>
+                    <rdg wit="#ν #χ #edd."> amaryllidos </rdg>
+                    <rdg wit="#G #φ #κ #λ #η #β #s #Barth."> amarillidos </rdg>
+                    <rdg wit="#N #π #α #ρ1 #i1"> amarilidos </rdg>
+                    <rdg wit="#ε #γ #δ #e #d2"> amarilidis </rdg>
+                    <rdg wit="#ρ2 #b"> amarylidos </rdg>
+                    <rdg wit="u">amarylidis</rdg>
+					<rdg wit="μ">amaididis</rdg>
+					<rdg wit="#l2 #g #i2 #Gryph."> amaryllidis </rdg>
+                </app>
+                <app loc="C4.26.39">
+                    <lem wit="#G"> litora </lem>
+                    <rdg wit="#N #V #edd."> littora </rdg>
+                    <rdg wit="#Gebauer #Haupt #Baehr. #Schenkl1"> ultima </rdg>
+                </app>
+                <app loc="C4.26.40">
+                    <lem> ultima </lem>
+                    <rdg wit="#Gebauer #Haupt #Baehr. #Schenkl1"> litora </rdg>
+                    <!-- Schenkl1. codicum scripturam F. Leo et A. E. Housman
+                        probaerunt. post litora Leo (l. l. p. 617) interpunxit. -->
+                </app>
+                <app loc="C4.26.40">
+                    <lem> visuri </lem>
+                    <rdg wit="#N"> visura </rdg>
+                    <rdg wit="#d1 #o"> visurus </rdg>
+                </app>
+                <app loc="C4.26.40">
+                    <lem wit="#G #H #ε #α #edd."> trucibusque </lem>
+                    <!-- edd.,deff.L.Mueller et Leo, -->
+                    <rdg wit="#N #V #r #o #n #Haupt #Schenkl1"> trucibus </rdg>
+                    <!-- N (in quo corr.m2) -->
+                    <rdg wit="#Barth."> trucibus qua </rdg>
+                </app>
+                <app loc="C4.26.40">
+                    <lem> visuri, trucibusque obnoxia </lem>
+                    <rdg wit="#Haupt #olim"> visuri trucibus tristes obn. M.</rdg>
+                </app>
+                <app loc="C4.26.41">
+                    <lem> pascua </lem>
+                    <rdg wit="#G"> pauscua </rdg>
+                    <!-- G (corr. m1). -->
+                </app>
+                <app loc="C4.26.41">
+                    <lem wit="#N #A #edd."> Geryonis </lem>
+                    <!-- N (y supr.lin.) -->
+                    <rdg wit="#G #i1"> Gerionis </rdg>
+                    <rdg wit="#V #r #d #e #s"> germani </rdg>
+                    <rdg wit="#δ"> germanis </rdg>
+                    <rdg wit="#Heins. #Burm. #t."> Geryonae </rdg>
+                    <!-- Heins. (ad Ovid. Her.8,9) Burm. t. -->
+                </app>
+                <app loc="C4.26.42">
+                    <lem> impellere </lem>
+                    <rdg wit="#N"> impelere </rdg>
+                </app>
+                <app loc="C4.26.42">
+                    <lem wit="#Ulit. #sqq."> Baetis </lem>
+                    <rdg wit="#G #i2"> Bethis </rdg>
+                    <rdg wit="#N"> beris </rdg>
+                    <rdg wit="#A #H #i1 #l1 #Vienn. #Tig."> bethys </rdg>
+                    <!-- A (in quo h supr. lin.) -->
+                    <rdg wit="#V #N2 #r #d #s"> bactrus </rdg>
+                    <!-- N2 (in mg.) rds -->
+                    <rdg wit="#φ"> bractus </rdg>
+                    <rdg wit="#β"> bachus </rdg>
+                    <rdg wit="#μ"> battrus </rdg>
+                    <rdg wit="#e"> bacctrus </rdg>
+                    <rdg wit="#u #b #o #n #l2 #g #p #h"> betys </rdg>
+                </app>
+                <app loc="C4.26.42">
+                    <lem> harenas </lem>
+                    <rdg wit="#G #ν #α #λ #φ #η #μ #δ"> arenas </rdg>
+                </app>
+                <app loc="C4.26.43">
+                    <lem wit="#V #edd."> extremo </lem>
+                    <rdg wit="#N #G"> externo </rdg>
+                </app>
+                <app loc="C4.26.43">
+                    <lem> vilis </lem>
+                    <rdg wit="#N"> villis </rdg>
+                    <!-- villis (l alt. exp.) N. vv. 43-48 om. βν1. -->
+                </app>
+                <app loc="C4.26.44">
+                    <lem wit="#Baehr. #Schenkl"> a </lem>
+                    <rdg wit="#N #G #ν #λ #α #η #δ #edd."> ah </rdg>
+                    <rdg wit="#κ #ρ #γ #μ #φ #ε #π #χ #u #e #b #d2"> ha </rdg>
+                </app>
+                <app loc="C4.26.44">
+                    <lem> inter </lem>
+                    <rdg wit="#N #G"> intra </rdg>
+                </app>
+                <app loc="C4.26.44">
+                    <lem> Hiberas </lem>
+                    <rdg wit="#N #G #γ #λ #η #δ"> hiberas </rdg>
+                    <rdg wit="#ρ #φ"> iberas </rdg>
+                    <rdg wit="#α #ε"> hibernas </rdg>
+                    <rdg wit="#κ #χ #μ"> hyberas </rdg>
+                    <rdg wit="#ν"> jberas </rdg>
+                </app>
+                <app loc="C4.26.46">
+                    <lem wit="#V #edd."> quisquam </lem>
+                    <rdg wit="#N #G #θ #φ"> quicquam </rdg>
+                    <!-- N (in quo corr. m2) -->
+                </app>
+                <app loc="C4.26.46">
+                    <lem> nostras inter </lem>
+                    <rdg wit="#N"> inter nostras </rdg>
+                </app>
+                <app loc="C4.26.46">
+                    <lem> respiceret </lem>
+                    <rdg wit="#Titius"> respicerent </rdg>
+                </app>
+                <app loc="C4.26.46"> <!-- Transitions to page 27. -->
+                    <lem> non ipse daret </lem>
+                    <rdg wit="#Heins."> non hisce daret </rdg>
+                </app>
+            </listApp>
+        </body>
+    </text>
+</TEI>

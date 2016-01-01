@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <listApp>
+            <app loc="C4.27.48">
+               <lem>vota</lem>
+               <rdg wit="#ν #λ1">nota</rdg>
+            </app>
+            <app loc="C4.27.49">
+               <lem>non</lem>
+               <rdg source="#Burm.">nunc</rdg>
+            </app>
+            <app loc="C4.27.49">
+               <lem>in orbe</lem>
+               <rdg source="#Glaeser">ab orbe</rdg>
+            </app>
+            <app loc="C4.27.50">
+               <lem wit="#N #G #ρ2 #θ #s" source="#o #n #Baehr. #Schenkl">advocat</lem>
+               <rdg wit="#ε #χ #π #κ #μ #ρ1 #δ #α #λ #β" source="#edd.">advocet</rdg>
+               <rdg wit="#ν #φ #η #r" source="#t #Burm. #Wernsd. #Beck #Glaeser #Keene">avocat</rdg>
+               <rdg wit="#γ" source="#p #Fruterius #Modius #Barth">avocet</rdg>
+               <!-- Fruterius (Coniect. Verisim. III 12) -->
+            <!-- Modius (Epist.124) -->
+            </app>
+            <app loc="C4.27.51">
+               <lem>magis</lem>
+               <rdg wit="#N">magna</rdg>
+               <!-- N(corr. m2) -->
+            </app>
+            <app loc="C4.27.51">
+               <lem>carmina rident</lem>
+               <rdg source="#Modius">pagina ridet</rdg>
+            </app>
+            <app loc="C4.27.52">
+               <lem>hodierna</lem>
+               <rdg wit="#A #ε #u #e #b #d2" source="#o #n #i2 #l2 #g #Gryph. #Burm. #Wernsd."
+                  >aliena</rdg>
+               <!-- corr. Guid -->
+            </app>
+            <app loc="C4.27.52">
+               <lem>subigatur</lem>
+               <rdg wit="#ε #e #u" source="#l2">subigat vir</rdg>
+               <rdg wit="#ρ #π1">subiugatur</rdg>
+               <rdg wit="#φ" source="#h">sibigatur</rdg>
+            </app>
+            <app loc="C4.27.53">
+               <lem>tantum</lem>
+               <rdg wit="#N2 #H #V" source="#eddAnteGlaeser">solum</rdg>
+            </app>
+            <app loc="C4.27.53">
+               <lem>venturos</lem>
+               <rdg wit="#φ #ν #η #r">futuros</rdg>
+            </app>
+            <app loc="C4.27.53">
+               <lem wit="#N" source="#Baehr. #Schenkl">dicere ventos</lem>
+               <rdg wit="#G #H">discere ventos</rdg>
+               <rdg wit="#N2">dicere nimbos</rdg>
+               <rdg wit="#φ #η #π #ρ #α #ν #β #χ2 #r"
+                  source="#l2 #i2 #o #p #h #t #Ulit. #Burm. #Beck">noscere nimbos</rdg>
+               <rdg wit="#γ" source="#edd.">noscere nymbos</rdg>
+               <rdg wit="#μ">noscere cumbos</rdg>
+               <rdg wit="#κ #λ #χ1">noscere limbos</rdg>
+               <rdg source="#Glaeser #Haupt">discere nimbos</rdg>
+               <!-- Haupt (l.l. p. 20) -->
+               <rdg source="#Chytil">dicere nimbos</rdg>
+               <!-- Der Eklogendichter T. Calp. Sic. u. seine Vorbilder, Znaim 1894, pag. 4) -->
+            </app>
+            <app loc="C4.27.54">
+               <lem>agricolis</lem>
+               <rdg source="#Burm. #t">agricolae</rdg>
+            </app>
+            <app loc="C4.27.54">
+               <lem>qualemque ferat</lem>
+               <rdg wit="#G">quem ferat</rdg>
+               <!-- quem (exp.) ferat -->
+            </app>
+            <app loc="C4.27.55">
+               <lem>attribuere</lem>
+               <rdg wit="#λ">accubuere</rdg>
+            </app>
+            <app loc="C4.27.56">
+               <lem>concinis</lem>
+               <rdg wit="#N">scinis</rdg>
+               <!-- N (corr. m2) -->
+            </app>
+            <app loc="C4.27.56">
+               <lem wit="#ε #α #λ #γ #ρ2">Baccheis</lem>
+               <rdg wit="#N #κ #χ #μ #β #δ">bacheis</rdg>
+               <rdg wit="#G">bacheys</rdg>
+            </app>
+            <app loc="C4.27.56">
+               <lem wit="#λ #χ" source="#edd.">corymbis</lem>
+               <rdg wit="#N #G #ε #μ #γ #κ #α #ρ2 #β #u #e #b">corimbis</rdg>
+            </app>
+            <app loc="C4.27.57">
+               <lem>pulcher</lem>
+               <rdg wit="#G">pulcer</rdg>
+            </app>
+            <app loc="C4.27.57">
+               <lem>obumbrat</lem>
+               <rdg wit="#N">obum'berat</rdg>
+            </app>
+            <!--vv. 56-57 sic conglut. φνηρ1θπr: concinis et medio (modo π) plus (om. πρ1) pulcher obumbrat Apollo. -->
+            <app loc="C4.27.58">
+               <lem>quod</lem>
+               <rdg wit="#N #G">quo</rdg>
+               <!-- N (corr. m2) G (in mg.) -->
+            </app>
+            <app loc="C4.27.58">
+               <lem wit="#α #γ #ε #δ" source="#edd.">si tu</lem>
+               <rdg wit="#N #G #H #ν #λ #κ #μ #φ #κ #χ #η #β #θ #r #s" source="#o #n">tu si</rdg>
+               <rdg wit="ρ">si tu si</rdg>
+               <!-- si (exp.) tu si -->
+            </app>
+            <app loc="C4.27.58">
+               <lem>forsitan</lem>
+               <rdg wit="#G">forsitasn</rdg>
+               <!-- s alt. del. -->
+            </app>
+            <app loc="C4.27.59">
+               <lem wit="#N #G #A #γ" source="#edd.">here quos mihi</lem>
+               <!-- N (in quo q m1, qᵒˢ m2) -->
+               <rdg wit="#ε #e" source="#o #n #Tig.">heri quos mihi</rdg>
+               <rdg wit="#η #ν #κ #β #μ #π #χ #ρ1 #r #s">heri quos</rdg>
+               <rdg wit="#λ #α #δ">et heri quos</rdg>
+               <rdg wit="φ">eri quos</rdg>
+               <rdg wit="#d">quis iam mihi</rdg>
+               <rdg source="#Heins.">here quîs me</rdg>
+            </app>
+            <app loc="C4.27.59">
+               <lem>doctus</lem>
+               <rdg wit="#π">electus</rdg>
+               <rdg wit="#θ">ductus</rdg>
+            </app>
+            <app loc="C4.27.59">
+               <lem>Iollas</lem>
+               <rdg wit="#G">yollas</rdg>
+            </app>
+            <app loc="C4.27.60">
+               <lem>tauros</lem>
+               <!-- G fagos (del.) tauros -->
+               <rdg wit="#G">fagos</rdg>
+               <!-- Check later editions to see if this is a reading for truces -->
+            </app>
+            <app loc="C4.27.60">
+               <lem>haec</lem>
+               <rdg wit="#G">hec</rdg>
+            <!-- appears in the apparatus after tauros, but is before in the poem. Strange. -->
+            </app>
+            <app loc="C4.27.61">
+               <lem>nostroque</lem>
+               <rdg wit="#N">nostrosque</rdg>
+            </app>
+            <app loc="C4.27.62">
+               <lem>Tityrus</lem>
+               <rdg wit="#N #G">titirus</rdg>
+            </app>
+            <app loc="C4.27.62">
+               <lem wit="#V" source="#edd.">qui</lem>
+               <rdg wit="#N #G">quoque</rdg>
+            </app>
+            <app loc="C4.27.63">
+               <lem source="#i2sqq">Hyblaea</lem>
+               <!-- Add i2sqq to list of abbreviations -->
+               <rdg wit="#N #G #κ #β #α #λ #δ">hiblea</rdg>
+               <rdg wit="#ν #ρ #η #ε #γ #χ #φ #r #e #u #b #s" source="#o #n #i2 #l2 #g #p"
+                  >hyblea</rdg>
+               <!-- ρ (in ras.) -->
+               <rdg wit="#d2">hiblaea</rdg>
+               <rdg wit="#μ">yblea</rdg>
+               <rdg wit="#π">iblea</rdg>
+            </app>
+            <app loc="C4.27.63">
+               <lem wit="#V" source="#edd.">modulabile carmen</lem>
+               <rdg wit="#N">carmen mulamine</rdg>
+               <!-- mulamine (modulabile m2) N -->
+               <rdg wit="#G">carmen modulavit</rdg>
+               <rdg wit="#δ" source="#Baehr.">carmen modulabile</rdg>
+               <rdg wit="#η">carmen modulamine</rdg>
+               <rdg wit="#ε1">modulamine carmen</rdg>
+               <rdg source="#Schenkl #Leo">carmen modulatus</rdg>
+               <!-- Leo (l. l. p. 616) -->
+            </app>
+         </listApp>
+      </body>
+   </text>
+</TEI>

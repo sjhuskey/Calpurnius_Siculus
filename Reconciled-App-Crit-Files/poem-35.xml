@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <listApp>
+            <app loc="C4.35.161">
+               <lem wit="#ε #ρ2" source="edd.">Tityron e</lem>
+               <rdg wit="#N">Titiron e</rdg>
+               <rdg wit="#G">Tytiron e</rdg>
+               <rdg wit="#λ #δ #β #γ">Tironiam</rdg>
+               <rdg wit="#θ #ν #κ #η #μ #χ #ρ1 #r">Tyroniam</rdg>
+               <rdg wit="#χ2">Tyronam</rdg>
+               <rdg wit="#α #s" source="#n #o">Tityron a</rdg>
+               <rdg wit="#π">Tironia</rdg>
+               <rdg wit="#φ">Tromom</rdg>
+               <rdg source="#Burm.">Tyronem e</rdg>
+            </app>
+            <app loc="C4.35.161">
+               <lem>in</lem>
+               <rdg source="#Titius">ad</rdg>
+            </app>
+            <app loc="C4.35.162">
+               <lem>ostenditque</lem>
+               <rdg wit="#G">ostenditque</rdg>
+               <!-- (t alt. e corr.) -->
+            </app>
+            <app loc="C4.35.162">
+               <lem source="#Heins. #Beck #Baehr. #Schenkl">deis</lem>
+               <rdg wit="#ω" source="#edd.">deos</rdg>
+            </app>
+            <app loc="C4.35.162">
+               <lem>ovili</lem>
+               <rdg wit="#ν">olivo</rdg>
+            </app>
+            <app loc="C4.35.163">
+               <lem wit="#ε #φ #ν #α #ρ2">Tityre</lem>
+               <rdg wit="#N #G #γ #μ #λ #β #δ">Titire</rdg>
+               <rdg wit="#ρ1">Titure</rdg>
+               <rdg wit="#κ #π #χ">Tytire</rdg>
+            </app>
+            <app loc="C4.35.163">
+               <lem>sed post</lem>
+               <rdg source="#Leo">post res</rdg>
+               <!-- l.l. p. 618 -->
+            </app>
+            <app loc="C4.35.163">
+               <lem>cantabimus</lem>
+               <rdgGrp type="conjectures">
+                  <rdg source="#Heins.">cantabitis</rdg>
+                  <rdg source="#Heins." xml:id="rdg4.163cantabiset">cantabis et</rdg>
+               </rdgGrp>
+               <rdg source="#Leo" copyOf="#rdg4.163cantabiset"/>
+            </app>
+            <app loc="C4.35.164">
+               <lem wit="#G" source="#edd.">A.</lem>
+               <rdg wit="#N #ν #φ #ρ #η #r #d #s" source="#n #o #p #Ulit.">M.</rdg>
+               <rdg wit="#κ #χ #π #α #λ #γ #μ #β #ε #e #b"/>
+               <rdg source="#l2">C.</rdg>
+            </app>
+            <app loc="C4.35.164">
+               <lem>Respiciat</lem>
+               <rdg wit="#ε1">despiciant</rdg>
+               <rdg wit="#ε2 #d2">despiciat</rdg>
+            </app>
+            <app loc="C4.35.164">
+               <lem>nostros</lem>
+               <rdg wit="#N">vestros</rdg>
+            </app>
+            <app loc="C4.35.164">
+               <lem>utinam</lem>
+               <rdg source="#o">vitam</rdg>
+            </app>
+            <app loc="C4.35.165">
+               <lem/>
+               <rdg wit="#γ #λ #μ #β #ε #α #u #e #b" source="#g #i2 #l2 #Tig.">A.</rdg>
+               <rdg wit="#κ #π #χ">M.</rdg>
+            </app>
+            <app loc="C4.35.165">
+               <lem>pulcrior</lem>
+               <rdg wit="#N">pulcrior</rdg>
+               <!-- (h supra scr.) -->
+            </app>
+            <app loc="C4.35.165">
+               <lem>et meritae</lem>
+               <rdg wit="#G #ρ #μ #π #ε #β">et merite</rdg>
+               <rdg wit="#φ #ν #θ #r">et mente</rdg>
+               <rdg source="#Gudius">emeritae</rdg>
+            </app>
+            <app loc="C4.35.165">
+               <lem>faveat</lem>
+               <rdg wit="#θ">fave</rdg>
+               <rdg source="#g #Modius">fuerat</rdg>
+            </app>
+            <app loc="C4.35.165">
+               <lem>ipse</lem>
+               <rdg source="#Heins.">iste</rdg>
+            </app>
+            <app loc="C4.35.166">
+               <lem/>
+               <rdg wit="#N #G">C.</rdg>
+            </app>
+            <app loc="C4.35.166">
+               <lem>interea</lem>
+               <rdg wit="#d">in terra</rdg>
+            </app>
+            <app loc="C4.35.166">
+               <lem>mactabimus</lem>
+               <rdg wit="#N">iactabimus</rdg>
+               <!-- N (corr. m2) -->
+               <rdg wit="#G">iantabimur</rdg>
+               <!-- G(corr. in mg.). -->
+            </app>
+            <app loc="C4.35.166">
+               <lem wit="#λ #ν" source="#edd.">haedum</lem>
+               <rdg wit="#G #π #β #δ #μ">edum</rdg>
+               <rdg wit="#N">evum</rdg>
+               <!-- N (hedum m1), -->
+               <rdg wit="#α #κ #χ #ρ">aedum</rdg>
+               <rdg wit="#φ #γ #e #u #b #s" source="#n">hedum</rdg>
+               <rdg source="#l2 #i2 #o #g #p #h #t #Ulit. #Burm.">hoedum</rdg>
+            </app>
+            <!-- versum om. ε -->
+            <app loc="C4.35.168">
+               <lem wit="#λ #γ #α #β #δ #ε" source="#edd.">M.</lem>
+               <rdg wit="#N #G #π #μ #φ #ν #κ #ρ #η #χ #r #s" source="#o #n #i1 #p #Barth"/>
+            </app>
+            <app loc="C4.35.168">
+               <lem wit="#N #V" source="#edd.">fremit</lem>
+               <!-- N (it in ras.) -->
+               <rdg wit="#G">stremit</rdg>
+               <rdg wit="#φ" source="#Heins.">premit</rdg>
+               <!-- φ (in mg.) -->
+               <rdg source="#Maehly">furit</rdg>
+            </app>
+            <app loc="C4.35.168">
+               <lem>aestas</lem>
+               <rdg wit="#λ" source="#Ulit. #Beck">aestus</rdg>
+            </app>
+            <app loc="C4.35.169">
+               <lem>contractas</lem>
+               <rdg wit="#G">cum tactas</rdg>
+            </app>
+            
+            <app loc="C4.35.169">
+               <lem>umbras</lem>
+               <rdg wit="#N">umbras</rdg>
+               <!-- umbras (as in ras. m2) N, -->
+               <rdg wit="#G">ubras</rdg>
+            </app>
+            <app loc="C4.35.169">
+               <lem>admovet</lem>
+               <rdg wit="#N #μ #u #b">admonet</rdg>
+            </app>
+            <!-- Poem 5 -->
+            <app loc="C5.35.1">
+               <lem wit="#G #V" source="#Baehr. #Schenkl">Micon</lem>
+               <rdg wit="#N">michon</rdg>
+               <rdg wit="#γ #ν #ε2" source="#edd.">mycon</rdg>
+            </app>
+            <app loc="C5.35.1">
+               <lem wit="#ν #α #ρ2 #λ2" source="#edd.">Canthusque</lem>
+               <rdg wit="#N #π #χ #φ #β">chantusque</rdg>
+               <rdg wit="#G #κ #μ #ε #γ #λ1 #η #δ #ρ1 #e #d2">cantusque</rdg>
+               <rdg wit="#d1">cantus</rdg>
+            </app>
+            <app loc="C5.35.1">
+               <lem>alumnus</lem>
+               <rdg wit="#G">alupnū</rdg>
+            </app>
+            <app loc="C5.35.2">
+               <lem>torrentem</lem>
+               <rdg wit="#N">torentem</rdg>
+               <!-- N (corr. m2) -->
+            </app>
+            <app loc="C5.35.2">
+               <lem>vitabant</lem>
+               <rdg wit="#ε #e">mirabant</rdg>
+            </app>
+            <app loc="C5.35.2">
+               <lem source="#GlaeserSqq">ilice</lem>
+               <rdg wit="#N">illice</rdg>
+               <rdg wit="#G">ylice</rdg>
+               <rdg wit="#V" source="#eddAnteGlaeser">arbore</rdg>
+            </app>
+            <app loc="C5.35.3">
+               <lem>cum</lem>
+               <rdg wit="#ε #β #κ #λ #α #μ #γ #π #χ #e #u #b #d2" source="#i2 #l2">tum</rdg>
+            </app>
+            <app loc="C5.35.3">
+               <lem>alumno</lem>
+               <rdg wit="#G">alūpno</rdg>
+            </app>
+            <app loc="C5.35.5">
+               <lem/>
+               <rdg wit="#γ #π #μ #e #u #b #s #d2" source="#i #l2 #g #Glaeser #Keene"
+                  >Micon</rdg>
+               <!-- praef. -->
+               <!-- Micon praef. γπμeubsd2il2g-->
+            </app>
+            <app loc="C5.35.6">
+               <lem wit="#V" source="#edd.">canaque</lem>
+               <rdg wit="#N #G">vanaque</rdg>
+               <rdg wit="#π">cannaque</rdg>
+               <rdg source="#Schenkl1">vernaque</rdg>
+               <!-- probb. L. Mueller Ellis Jacoby -->
+            </app>
+            <app loc="C5.35.6">
+               <lem>lascivo</lem>
+               <rdg wit="#G">laxivo</rdg>
+            </app>
+            <app loc="C5.35.6">
+               <lem wit="#G #V" source="#edd.">gramina</lem>
+               <rdg wit="#N #H" source="#Baehr. #Schenkl">germina</rdg>
+               <!-- H (corr. m2) -->
+            </app>
+            <!-- versum om. ε -->
+            <!-- 7, 6, 8 colloc N (in quo corr.m2) G; 7, 8, 6 Maehly -->
+         </listApp>
+      </body>
+   </text>
+</TEI>

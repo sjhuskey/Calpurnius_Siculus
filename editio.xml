@@ -239,6 +239,17 @@
                             <publisher> Pierre Pithou </publisher>
                             <date> 1590 </date>
                         </bibl>
+                        <bibl xml:id="edAurel" n="Editio Aureliana">
+                            <editor />
+                            <title level="a">T. Calphrunii Siculi Bucolicon Carmen ad Nemesianum Carthaginiensem</title>
+                            <title level="m">Corpus omnium veterum poetarum Latinarm secundum seriem temporum</title>
+                            <biblScope unit="volume">2</biblScope>
+                            <biblScope unit="page">497–505</biblScope>
+                            <pubPlace>Aureliae Allobrogum (Geneva)</pubPlace>
+                            <publisher>Samuel Crispinus</publisher>
+                            <date>1611</date>
+                            <ptr target="https://books.google.com/books?id=Q-EPAAAAQAAJ&amp;dq=Corpus%20omnium%20veterum%20poetarum%20latinorum%201611&amp;pg=PA497#v=onepage&amp;q=Corpus%20omnium%20veterum%20poetarum%20latinorum%201611&amp;f=false"/>
+                        </bibl>
                         <bibl xml:id="Barth" n="Barth">
                             <editor> Kaspar von Barth </editor>
                             <pubPlace> Hanau </pubPlace>
@@ -524,6 +535,20 @@
                                 target="https://books.google.com/books?id=9n5MAAAAcAAJ&amp;pg=PP7#v=onepage&amp;q&amp;f=false"
                             />
                         </bibl>
+                        <bibl xml:id="GronovDiatrib" n="GronovDiatrib">
+                            <author ref="http://viaf.org/viaf/41850877">
+                                <persName>
+                                    <forename>Joannes</forename>
+                                    <forename>Fredericus</forename>
+                                    <surname>Gronovius</surname>
+                                </persName>
+                            </author>
+                            <title>In Papinii Statii Silvarum Libros V Diatribe ad Th. Graswinckelium</title>
+                            <pubPlace>Hagae-Comitis</pubPlace>
+                            <publisher>Ex officina Theodori Maire</publisher>
+                            <date>1637</date>
+                            <ptr target="https://books.google.com/books?id=zBk-AAAAcAAJ&amp;dq=gronovius%20diatrib&amp;pg=PP7#v=onepage&amp;q=gronovius%20diatrib&amp;f=false"/>
+                        </bibl>
                         <bibl xml:id="HauptHermes" n="HauptHermes">
                             <author ref="http://viaf.org/viaf/36998303">
                                 <persName>
@@ -738,14 +763,104 @@
                                 target="https://books.google.com/books?id=r7bwmNY6a9sC&amp;pg=PP7#v=onepage&amp;q&amp;f=false"
                             />
                         </bibl>
+                        <bibl xml:id="Swarth" n="Swartius">
+                            <author ref="http://viaf.org/viaf/15563174">
+                                <persName>
+                                    <forename>Eustathius</forename>
+                                    <surname>Swartius</surname>
+                                </persName>
+                            </author>
+                            <title>Analectorum libri III, in quibus innumera Auctorum, qua Graecorum qua Latinorum, loca emendantur, dilucidantur, illustrantur, notantur.</title>
+                            <pubPlace>Lugdunum Batavorum</pubPlace>
+                            <publisher>Apud Ludovicum Elzevirium</publisher>
+                            <date>1616</date>
+                            <ptr target="https://books.google.com/books?id=8JFMAAAAcAAJ&amp;pg=PP5#v=onepage&amp;q&amp;f=false"/>
+                        </bibl>
+                        <bibl xml:id="GHermann" n="G. Hermann">
+                            <author ref="http://viaf.org/viaf/9977025">
+                                <persName><forename>Gottfried</forename>
+                                <surname>Hermann</surname></persName>
+                            </author>
+                            <title>Bionis et Moschi Carmina</title>
+                            <pubPlace>Lipsiae</pubPlace>
+                            <publisher>Apud Weidmannos</publisher>
+                            <date>1849</date>
+                        </bibl>
+                        <bibl xml:id="Salmasius" n="Salmasius">
+                            <author ref="http://viaf.org/viaf/41850039">
+                                <persName>
+                                    <forename>Claude</forename>
+                                    <surname>Saumaise</surname>
+                                </persName>
+                            </author>
+                            <title>Epistolarum liber primus</title>
+                            <pubPlace>Lugduni Batavorum</pubPlace>
+                            <publisher>Ex typographia Adriani Wyngaerden</publisher>
+                            <date>1656</date>
+                            <ptr target="https://books.google.com/books?id=0zRv3_Ym5R4C&amp;dq=Salmasius%20epistolae&amp;pg=PP5#v=onepage&amp;q=Salmasius%20epistolae&amp;f=false"/>
+                        </bibl>
+                        <bibl xml:id="HeinsHer" n="HeinsHer">
+                            <author ref="http://viaf.org/viaf/95302161">
+                                <persName>
+                                    <forename>Nicolaas</forename>
+                                    <surname>Heinsius</surname>
+                                </persName>
+                            </author>
+                            <title>Notae in Heroidas P. Ovidii Nasonis</title>
+                            <pubPlace/>
+                            <publisher/>
+                            <date/>
+                            <ptr target="https://books.google.com/books?id=uuYJ9S-mr2QC&amp;pg=PP5#v=onepage&amp;q&amp;f=false"/>
+                        </bibl>
+                        <bibl xml:id="Chytil" n="Chytil">
+                            <author ref="http://viaf.org/viaf/247602836">
+                                <persName>
+                                    <forename>Franz</forename>
+                                    <surname>Chytil</surname>
+                                </persName>
+                            </author>
+                            <title level="a">Der Eklogendichter T. Calpurnius Siculus und seine Vorbilder</title>
+                            <title level="j">Jahresbericht des k. k. Gymnasium in Znaim</title>
+                            <pubPlace>Znaim</pubPlace>
+                            <publisher>Druck der k. k. Buchdruckerei des M. G. Lenk</publisher>
+                            <date>1893-94</date>
+                            <ptr target="http://hdl.handle.net/2027/uc1.c071004696"/>
+                        </bibl>
+                        <bibl xml:id="Buecheler" n="Buecheler">
+                            <author ref="http://viaf.org/viaf/167424">
+                                <persName>
+                                    <forename>Franz</forename>
+                                    <surname>Buecheler</surname>
+                                </persName>
+                            </author>
+                            <title level="a">Zur höfische Poesie unter Nero</title>
+                            <title level="j">Rheinisches Museum für Philologie</title>
+                            <biblScope unit="volume">26</biblScope>
+                            <biblScope unit="page">235–40</biblScope>
+                            <date>1871</date>
+                            <ptr target="http://www.rhm.uni-koeln.de/026/Buecheler1.pdf"/>
+                        </bibl>
+                        <bibl xml:id="Hoeufft" n="Hoeufft">
+                            <author ref="http://viaf.org/viaf/15548571">
+                                <persName>
+                                    <forename>Jacob</forename>
+                                    <forename>Hendrik</forename>
+                                    <surname>Hoeufft</surname>
+                                </persName>
+                            </author>
+                            <title level="m">Pericula Poëtica</title>
+                            <pubPlace/>
+                            <publisher/>
+                            <date>1783</date>
+                            <ptr target="https://books.google.com/books?id=Xv9hAAAAcAAJ&amp;dq=Hoeufft%20peric&amp;pg=PP7#v=onepage&amp;q=Hoeufft%20peric&amp;f=false"/>
+                        </bibl>
 
                         <!-- Add: Martell. -->
                         <!-- "Martell." is the letter of Martellius printed in the back of Titus' edition. -->
-                        <!-- Add Casaub. -->
                         <!-- Add Scriver(ius) -->
-                        <!-- Add Modius -->
                         <!-- Add Scaliger -->
                         <!-- Add Ramorino -->
+                        <!-- Housman -->
                     </listBibl>
                 </listBibl>
                 <list type="abbreviations">
@@ -754,6 +869,12 @@
                         <list>
                             <item xml:id="edd.">edd.: All editions not explicitly referenced
                                 elsewhere in an entry in the apparatus.</item>
+                            <item xml:id="eddFereOmnes">edd. fere omnes: Almost all editions</item>
+                            <item xml:id="eddAnteWernsd" n="edd. ante Wernsd.">edd. ante Wernsd.: All editions published before Wernsdorf's edition, unless referenced specifically elsewhere in an entry.</item>
+                            <item xml:id="i2Sqq" n="i2Sqq">i2 sqq: editio Florentia (1590) and all editions published thereafter.</item>
+                            <item xml:id="WernsdSqq" n="Wernsd. sqq.">Wernsd. sqq: Wernsdorf's edition and all editions 
+                                published thereafter, unless referenced specifically elsewhere in an
+                                entry in the apparatus.</item>
                             <item xml:id="eddAnteBeck">edd. ante Beck: All editions published before
                                 Beck's edition, unless referenced specifically elsewhere in an entry
                                 in the apparatus.</item>
@@ -772,7 +893,7 @@
                             <item xml:id="BurmSqq">Burm. sqq.: Burmann's edition and all editions
                                 published thereafter, unless referenced specifically elsewhere in an
                                 entry in the apparatus. </item>
-                            <item xml:id="nonnulliTitium">Nonnulli apud Titum: some of the mss.
+                            <item xml:id="nonnulliTitium">Nonnulli apud Titium: some of the mss.
                                 cited by Titius</item>
                             <item xml:id="coddTitii">Codd. Titii: the manuscripts cited by
                                 Titius</item>
@@ -781,6 +902,8 @@
                             <item xml:id="codVind" n="codVind">cod. Vindobon. (see 3.19)</item>
                             <item xml:id="antep" n="antep">All editions published before p.</item>
                             <item xml:id="pSqq" n="pSqq">All editions published after p.</item>
+                            <item xml:id="hSqqUsqueAdGlaeser">hSqqUsqueAdGlaeser</item>
+                            <item xml:id="uSqqUsqueAdGlaeser">uSqq</item>
                         </list>
                     </item>
                     <label>Other abbreviations</label>
@@ -793,6 +916,9 @@
                             <item xml:id="BarthVV" n="Victor Vigilius" sameAs="#Barth">Victor
                                 Vigilius is a pseudonym used by <ref target="#Barth">Kaspar von
                                     Barth</ref>.</item>
+                            <item xml:id="CSchenkl" n="C. Schenkl">C. Schenkl is H. Schenkl's father, whose unpublished opinions H. Schenkl cites periodically.</item>
+                            <item xml:id="Fruterius" n="Fruterius">Barth cites content from the third book of Fruterius' (<ptr target="http://viaf.org/viaf/35271168"/>)"Coniect. Verisim.", which is no longer extant.</item>
+                            <item xml:id="DOrville" n="D'Orville">D'Orville is Jacques-Philippe d'Orville (<ptr target="http://viaf.org/viaf/24945908"/>), whose notes are recorded in <ref target="#Burm.">Burmann's edition</ref></item>
                         </list>
                     </item>
                 </list>

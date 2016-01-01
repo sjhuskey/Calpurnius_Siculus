@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <listApp>
+            <app loc="C4.30.94">
+               <lem wit="#H #ρ" source="#Ulit. #h #t #WernsdSqq">abes</lem>
+               <!-- ρ (in mg.) -->
+               <!-- probavit Leo -->
+               <rdg wit="#N #G #η #θ #χ #α #π #ρ #φ #β #λ #ν #κ #r" xml:id="rdg4.94habes">habes</rdg>
+               <rdg wit="#A #ε #γ" source="#eddAnteWernsd">abis</rdg>
+               <rdg wit="#μ">cibis</rdg>
+               <rdg source="#DOrville">aves</rdg>
+               <rdg source="#Burm." xml:id="rdg4.94ades">ades</rdg>
+               <rdg source="#Baehr.">ovas</rdg>
+               <rdg source="#Heins.">agis</rdg>
+               <rdgGrp type="conjectures">
+                  <rdg source="#Gudius" copyOf="#rdg4.94ades"/>
+                  <rdg source="#Gudius" copyOf="#rdg4.94habes"/>
+               </rdgGrp>
+            </app>
+            <app loc="C4.30.94">
+               <lem>posito</lem>
+               <rdg wit="#N #G"/>
+            </app>
+            <app loc="C4.30.94">
+               <lem>paulisper</lem>
+               <rdg wit="#N">palisper</rdg>
+               <!-- N(corr. m1) -->
+            </app>
+            <app loc="C4.30.94">
+               <lem>fulmine</lem>
+               <rdg wit="#ε #θ #e #u" source="#l2">flumine</rdg>
+            </app>
+            <app loc="C4.30.95">
+               <lem>Cresia</lem>
+               <rdg wit="#ρ2 #γ" source="#edd.">Cressia</rdg>
+               <!-- edd. fere omnes -->
+               <rdg wit="#ρ1">ciesia</rdg>
+               <rdg wit="#β">craesia</rdg>
+               <rdg wit="#ε">cressis</rdg>
+               <rdg source="#g">crassia</rdg>
+            </app>
+            <app loc="C4.30.95">
+               <lem>rura</lem>
+               <rdg wit="#N #ρ">iura</rdg>
+            </app>
+            <app loc="C4.30.95">
+               <lem wit="#N #G" source="#Barth #t #WernsdSqq">reclinis</lem>
+               <rdgGrp type="MSVariants">
+                  <rdg wit="#A" xml:id="rdg4.95reclivus">reclivus</rdg>
+                  <rdg wit="#A" xml:id="rdg4.95reclivis">reclivis</rdg>
+               </rdgGrp>
+               <rdg wit="#ε #χ #κ #γ #β #e #u #b #d2" source="#i2 #l2" copyOf="#rdg4.95reclivus"/>
+               <rdg wit="#α #λ #δ" source="#eddAnteWernsd" copyOf="#rdg4.95reclivis"/>
+               <rdg wit="#μ">redivus</rdg>
+               <rdg wit="#φ #π #ν #ρ #η #θ #r">reclusus</rdg>
+               <rdg source="#Burm.">refusus</rdg>
+            </app>
+            <app loc="C4.30.96">
+               <lem>Dictaeis</lem>
+               <rdg wit="#N">diteis</rdg>
+               <rdg wit="#G #V #r #u #e #b #s" source="#g #i2 #l2">dicteis</rdg>
+               <rdg wit="#γ #λ">dycteis</rdg>
+               <rdg wit="#μ">dictheis</rdg>
+            </app>
+            <app loc="C4.30.96">
+               <lem>audit</lem>
+               <rdg wit="#G">audijt</rdg>
+               <!-- G (i exp.) -->
+            </app>
+            <app loc="C4.30.96">
+               <lem wit="#G #ε #δ #γ #α #λ #ρ2 #β" source="#edd.">Curetica</lem>
+               <rdg wit="#N">curētia</rdg>
+               <rdg wit="#κ #χ">caretica</rdg>
+               <rdg wit="#μ">euretica</rdg>
+               <rdg wit="#π #φ #η #θ #ν #ρ1 #r">currentia</rdg>
+               <rdg source="#l2">coretica</rdg>
+            </app>
+            <app loc="C4.30.97">
+               <lem> </lem>
+               <note target="#whoknows?">Carmen amoebaeum, quod vocatur, cum ex impari stropharum
+                  numero constare nequeat, in hac ecloga integrum non esses <ref target="#GHermann"
+                     >G. Hermann</ref> (ad Bion. et Mosch. p. 46<ptr
+                        target="https://books.google.com/books?id=a9Dh6bvB3z4C&amp;dq=bion%20moschus%20hermann&amp;pg=PA46#v=onepage&amp;q=bion%20moschus%20hermann&amp;f=false"
+                     />) primus sensit. <ref target="#Schenkl">Schenkl</ref> autem censuit deesse
+                  stropham quae olim opposita fuit strophae VIII itidemque comite carere III, quam
+                  ob rem <ref target="#Schenkl1">in editione priore</ref> vir doctissimus III post
+                  XI transposuit lacunameque in utraque editione post VIII statuit. Contra <ref
+                     target="#Leo">F. Leo (Zeitsch. f. d. oesterr. Gymn. XXXVI p. 619)</ref> XIII
+                  post III collocavit ut v. 141 carmen amoebaeum concluderetur. Mhi quidem, cum
+                  strophae I, et II, IV et V, VI et VII, IX et X, XII et XIII invicem sibi
+                  respondeant, visum est lacunem post III constituere et XI transponere ante
+                  VIII.</note>
+            </app>
+            <app loc="C4.30.98">
+               <lem>memini</lem>
+               <rdg wit="#N">nemini</rdg>
+            </app>
+            <app loc="C4.30.99">
+               <lem>sic nemus</lem>
+               <rdg wit="#φ #ν #η #θ #r">scit deus</rdg>
+               <rdg wit="#κ #χ #π #ρ1">sic deus</rdg>
+               <rdg wit="#s" source="#o #n">scit nemus</rdg>
+            </app>
+            <app loc="C4.30.100">
+               <lem>et dixi</lem>
+               <rdg wit="#G">et deus dixi</rdg>
+               <!-- et deus dixi (deus del.) G. -->
+               <rdg source="#edAurel">et dixit</rdg>
+            </app>
+            <app loc="C4.30.100">
+               <lem wit="#N #V" source="#edd.">hinc</lem>
+               <rdg wit="#G #codVind">hic</rdg>
+            </app>
+            <app loc="C4.30.100">
+               <lem>certe</lem>
+               <rdg wit="#δ"/>
+            </app>
+            <app loc="C4.30.101">
+               <lem source="#Heins. #Haupt #Baehr. #Schenkl">Parrhasiae</lem>
+               <rdg wit="#N #μ">pharsalie</rdg>
+               <rdg wit="#G #π #ρ1">farsalie</rdg>
+               <rdg wit="#A #λ #κ #δ #α #β #ε #γ #χ" source="#edd.">pharsaliae</rdg>
+               <rdg wit="#φ #ρ2">farsalis</rdg>
+               <rdg wit="#ν #η #θ #r" source="#Ulit.">pharsalis</rdg>
+               <rdg source="#Glaeser #Keene">Pharsalae</rdg>
+               <rdg source="#Beck">Pharsales</rdg>
+               <rdg source="#Burm.">Moenaliae</rdg>
+            </app>
+            <app loc="C4.30.101">
+               <lem>solverunt</lem>
+               <rdg wit="#A #H #ε #e #u #b #d2" source="#l2 #i2 #Heins. #Haupt #Baehr."
+                  >sonuerunt</rdg>
+            </app>
+         </listApp>
+      </body>
+   </text>
+</TEI>

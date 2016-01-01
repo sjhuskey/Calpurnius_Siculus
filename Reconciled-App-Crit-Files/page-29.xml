@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <listApp>
+            <app loc="C4.29.80">
+               <lem source="#Barth #Beck #Baehr. #Schenkl">ducite</lem>
+               <rdg wit="#G #V" source="#edd.">dicite</rdg>
+               <rdg wit="#N">vdicite</rdg><!-- v del. -->
+            </app>
+            <app loc="C4.29.80">
+               <lem wit="#N #G #γ #β #δ #χ #κ #λ #ε #e #u #b #d2" source="#i2 #l2 #Baehr. #Schenkl">nec</lem>
+               <rdg wit="#ρ #φ #ν #μ #α2" source="#edd.">ne</rdg>
+            </app>
+            <!-- ducite-reducite vel dicite-redicite Freisemann (coll. crit. pag. 177) -->
+            <app loc="C4.29.81"><!-- line omission -->
+               <lem>tuque prior, Corydon, tu proximus ibis, Amynta.</lem>
+               <rdg wit="#κ #χ #λ"/> 
+            </app>
+            <app loc="C4.29.81">
+               <lem wit="#ρ2 #s" source="#Ulit. #h #BurmSqq">Amynta</lem>
+               <rdg wit="#G">amintha</rdg>
+               <rdg wit="#N #ρ1 #α2 #μ #δ #β">aminta</rdg>
+               <rdg wit="#ν #γ" source="#eddAnteBurm">amyntas</rdg>
+               <rdg wit="#ε #φ #u #e #b" source="#n">amintas</rdg>
+            </app>
+            <app loc="C4.29.82">
+               <lem wit="#N #α #β #ρ #λ #ν #η #φ #γ #ε">Ab</lem>
+               <rdg wit="#G #π #κ #χ #υ #δ">a</rdg>
+            </app>
+            <app loc="C4.29.82">
+               <lem wit="#V" source="#edd.">canit</lem>
+               <rdg wit="#N #G" source="#Baehr.">canat</rdg><!-- N (corr. m2) -->
+            </app>
+            <app loc="C4.29.82">
+               <lem wit="#λ2 #φ #γ #μ #χ #δ #β #α #κ #ρ #ν" source="#edd.">sumat</lem>
+               <rdg wit="#N #G">sumat</rdg>
+               <!-- Overline hovering high above the m. -->
+               <rdg wit="#η #λ1 #ε #π">summat</rdg>
+            </app>
+            <app loc="C4.29.83">
+               <lem wit="#λ #κ2" source="#edd.">Atlantiaci</lem>
+               <rdg wit="#N">athlanciaci</rdg>
+               <rdg wit="#G #φ1">atlhantiati</rdg>
+               <rdg wit="#μ">atlhantiari</rdg>
+               <rdg wit="#η #λ #π #κ1 #ε #γ #ρ2 #β #e #u #b #s" source="#i #l2">athlantiaci</rdg><!-- Check later editions: there are two entries for η here. -->
+               <rdg wit="#φ2">atlantiati</rdg>
+               <rdg wit="#α">atlanciaci</rdg>
+               <rdg wit="#ρ1 #δ">athlantici</rdg>
+               <rdg wit="#ν #r">antlantiaci</rdg>
+               <rdg source="#Barth #Burm.">atlantiacum</rdg>
+            </app>
+            <app loc="C4.29.83">
+               <lem wit="#N #G" source="#GlaeserSqq">pondus molitur</lem>
+               <rdg wit="#ε #ν #η #ρ2" source="#eddAnteGlaeser">molitur pondus</rdg>
+               <rdg wit="#δ #α #χ #μ #π #λ #β #κ #ρ1">molitus pondus</rdg>
+               <rdg wit="#γ #φ">mollitur pondus</rdg>
+            </app>
+            <app loc="C4.29.83">
+               <lem>Olympi</lem>
+               <rdg wit="#N #G #π #ρ1 #κ #γ #β">olimpi</rdg>
+               <rdg source="#Burm.">Olympum</rdg>
+            </app>
+            <app loc="C4.29.84">
+               <lem wit="#N #G #A" source="#edd.">at mihi qui</lem>
+               <rdg wit="#V #r #s" source="#o #n">at nunc qui</rdg>
+               <rdg wit="#ε #γ #e #u #b" source="#i2 #l2">at qui nunc</rdg>
+               <rdg wit="#d2">atqui nunc</rdg>
+            </app>
+            <app loc="C4.29.85">
+               <lem>iuvenili</lem>
+               <rdg wit="#φ #ν #η #μ #θ #r" source="#Guid.">vivendi</rdg>
+            </app>
+            <app loc="C4.29.85">
+               <lem>robore</lem>
+               <rdg wit="#G">corpore</rdg>
+            </app>
+            <app loc="C4.29.85">
+               <lem>pacem</lem>
+               <rdg wit="#π1 #χ1 #β #μ #λ #κ #ρ #α1">partem</rdg>
+            </app>
+            <app loc="C4.29.86">
+               <lem>laetus</lem>
+               <rdg wit="#G">letus</rdg>
+            </app>
+            <app loc="C4.29.86">
+               <lem>et</lem>
+               <rdg wit="#A" source="#i1 #l1 #Vienn. #Tig. #Barth">in</rdg>
+            </app>
+            <app loc="C4.29.86">
+               <lem wit="#N #G">arrideat</lem><!-- N (t add. m2) -->
+            </app>
+            <app loc="C4.29.87">
+               <lem>A.</lem>
+               <rdg wit="#G"/> 
+            </app>
+            <app loc="C4.29.87">
+               <lem wit="#N #G #A" source="#edd.">Me</lem>
+               <rdg wit="#V #r #d #e #u #b #s" source="#o #n #i2 #l2">te</rdg>
+            </app>
+            <app loc="C4.29.87">
+               <lem>Apolline</lem>
+               <rdg wit="#N">allaplline</rdg><!-- all del. -->
+            </app>
+            <app loc="C4.29.88">
+               <lem>neu</lem>
+               <rdg wit="#G" source="#o #n">ne</rdg>
+            </app>
+            <app loc="C4.29.88">
+               <lem>dedignetur</lem>
+               <rdg wit="#N">dedigetur</rdg><!-- n add. m1 -->
+            </app>
+            <app loc="C4.29.88">
+               <lem>adire</lem>
+               <rdg source="#Burm.">amoenos</rdg>
+            </app>
+            <app loc="C4.29.89">
+               <lem>Phoebus</lem>
+               <rdg wit="#N #G">Phebus</rdg>
+            </app>
+            <app loc="C4.29.89">
+               <lem>Iuppiter</lem>
+               <rdg wit="#N #G #α #ρ #π #η #κ #χ #β #μ #γ #r #u #e" source="#n #p #i1 #Baehr.">Iupiter</rdg>
+            </app>
+            <app loc="C4.29.90">
+               <lem source="#Barth #Ulit. #Heins. #Burm. #Haupt #Schenkl2">visurae</lem>
+               <rdg wit="#N #G #ρ2" source="#edd.">visuraque</rdg><!-- N (in quo litt. evanidas restit. m2) -->
+               <rdg wit="#H">visura</rdg>
+               <rdg wit="#V #r #s" source="#o #n">visurus</rdg>
+               <rdg wit="#λ">visuros</rdg>
+               <rdg wit="#e #u #b #d2" source="#l2 #Sarpe">visuris</rdg>
+               <rdg source="#i2">visuri</rdg>
+            </app>
+            <app loc="C4.29.90">
+               <lem>triumphos</lem>
+               <rdg wit="#N">trihumphos</rdg>
+            </app>
+            <app loc="C4.29.91">
+               <lem wit="#G #H #A #ε #μ #γ #α" source="#edd.">fructificat</lem>
+               <rdg wit="#N">frutifivat</rdg>
+               <rdg wit="#χ #λ #ρ #κ #φ #ν #β #π #δ #η #θ #r">fructiferat</rdg>
+               <rdg wit="#u" source="#Ulit. #Heins. #Burm.">fructificant</rdg>
+               <rdg source="#Barth">fructiferant</rdg>
+               <rdg source="#Haupt">en fruticant</rdg><!-- WHERE? -->
+               <rdg source="#Schenkl1">iam fruticat</rdg>
+            </app>
+            <app loc="C4.29.91">
+               <lem wit="#N" xml:id="lem91vicinaque">vicinaque</lem><!-- (litt. evan. rest. m2) N -->
+               <rdgGrp type="conjectures">
+                  <rdg source="#Barth">divinaque</rdg>
+                  <rdg source="#Barth">et civica</rdg>
+                  <rdg source="#Barth">unitaque</rdg>
+                  <rdg source="#Barth" copyOf="#lem91vicinaque"/>
+               </rdgGrp>
+               <rdg source="#Swarth">vitisequa</rdg><!-- (Anal. III 6) https://books.google.com/books?id=8JFMAAAAcAAJ&amp;pg=PA118#v=onepage&amp;q&amp;f=false -->
+               <rdgGrp type="conjectures">
+                  <rdg source="#Ulit.">erycinaque</rdg>
+                  <rdg source="#Ulit." copyOf="#lem91vicinaque"/>
+               </rdgGrp>
+            </app>
+            <app loc="C4.29.92">
+               <lem>C.</lem>
+               <rdg wit="#G"/> 
+            </app>
+            <app loc="C4.29.92">
+               <lem>qui</lem>
+               <rdg wit="#u" source="#l2 #g #i2 #Gryph">quo</rdg>
+            </app>
+            <app loc="C4.29.93">
+               <lem>ipse</lem>
+               <rdg source="#Heins. #Burm. #Beck">ille</rdg>
+            </app>
+            <app loc="C4.29.93">
+               <lem>cui</lem>
+               <rdg wit="#ρ1 #ε #χ #γ #μ #κ #π #λ #β #δ #u #e #b #d2" source="#l2 #h #i2 #Ulit.">quo</rdg>
+               <rdg wit="#α">quod</rdg>
+               <rdg wit="#ρ2 #φ #θ #r">quoi</rdg>
+               <rdg wit="#ν2">qui</rdg>
+            </app>
+            <app loc="C4.29.93">
+               <lem>iam</lem>
+               <rdg wit="#s">tam</rdg>
+            </app>
+            <app loc="C4.29.93">
+               <lem source="#Leo">ecce</lem>
+               <rdg wit="#N #G" source="#DOrville #Baehr.">esse</rdg><!-- Do something about "D'Orville" -->
+               <rdg wit="#V" source="#edd.">ipse</rdg>
+               <rdg source="#Heins.">ipsi</rdg>
+            </app>
+            <app loc="C4.29.93–94"><!-- Do something about the cross-over conjectures by Glaeser. -->
+               <lem> </lem>
+               <rdg> </rdg>
+            </app>
+         </listApp>
+      </body>
+   </text>
+</TEI>

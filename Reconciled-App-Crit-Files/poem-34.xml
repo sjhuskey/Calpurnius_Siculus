@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <listApp>
+            <app loc="C4.34.150">
+               <lem>liquidum</lem>
+               <rdg wit="#G" source="#Baehr.">liquide</rdg>
+            </app>
+            <app loc="C4.34.150">
+               <lem>dulce</lem>
+               <rdg wit="#N">duce</rdg>
+               <!-- N (corr. m2) -->
+            </app>
+            <app loc="C4.34.150">
+               <lem>tam liquidum, tam dulce</lem>
+               <rdg wit="#μ">tam dulce tam liquidum</rdg>
+            </app>
+            <app loc="C4.34.150">
+               <lem>canunt</lem>
+               <rdg wit="#H #d #s" source="#Modius #Beck #Keene #Schenkl">sonant</rdg>
+               <rdg source="#Barth.">canit</rdg>
+               <rdg source="#Burm. #Baehr.">cadunt</rdg>
+               <rdg source="#Housman">canunt</rdg>
+               <!-- actually says: -->
+               <!-- canunt iniuria multis suspectum defendit Housman. -->
+            </app>
+            <app loc="C4.34.150">
+               <lem>ut</lem>
+               <rdg wit="#N"/>
+               <!-- N (add. supr. lin. m1) -->
+            </app>
+            <app loc="C4.34.151">
+               <lem>quod</lem>
+               <rdg wit="#N">quot</rdg>
+               <!-- N (corr. m1) -->
+            </app>
+            <app loc="C4.34.151">
+               <lem>Peligna</lem>
+               <rdg wit="#N #G #α" source="#edd.">peligna</rdg>
+               <rdg wit="#A #ε #e">paligna</rdg>
+               <!-- A (in quo supr. pr. α scriptum est e) -->
+               <rdg wit="#θ #η #r #s">pelvina</rdg>
+               <rdg wit="#φ #ν #κ #λ #ρ #β #γ #χ">peluina</rdg>
+               <rdg wit="#μ">pelinna</rdg>
+               <rdg wit="#π">peluma</rdg>
+               <rdg wit="#δ">plevina</rdg>
+            </app>
+            <app loc="C4.34.151">
+               <lem wit="#N #G #A #H" source="#edd.">solent</lem>
+               <rdg wit="#V #r #e">sonant</rdg>
+               <rdg wit="#d #s" source="#o #n #Modius #Keene">legunt</rdg>
+               <rdg source="#Titius">solet</rdg>
+               <rdg source="#Heins. #Barth.">fovent</rdg>
+               <!-- Barth. (Adv. p. 1205) -->
+               <rdg source="#Barth">serunt</rdg>
+               <!-- Barth. (Adv. p. 2341) -->
+               <rdg source="#Haupt #Schenkl1 #Ellis">parant</rdg>
+            </app>
+            <app loc="C4.34.151">
+               <lem>lambere</lem>
+               <rdg source="#Baehr.">fingere</rdg>
+            </app>
+            <app loc="C4.35.152">
+               <lem>O mihi</lem>
+               <rdg wit="#H #V" source="#edd.">o mihi</rdg>
+               <rdg wit="#N #G" source="#Glaeser #Schenkl #Leo">olim</rdg>
+               <!-- Leo (l.l.p. 618) -->
+               <rdg wit="#s">hei mihi</rdg>
+               <rdg wit="#d2">ey mihi</rdg>
+            </app>
+            <app loc="C4.35.152">
+               <lem source="#Glaeser #Baehr. #Schenkl1">quae tereti</lem>
+               <rdg wit="#N">que teriti</rdg>
+               <!-- N (tereti m2) -->
+               <rdg wit="#G">quae teriti</rdg>
+               <rdg wit="#V" source="#edd.">quam tenero</rdg>
+               <rdg wit="#H">quam tereri</rdg>
+               <rdg source="#o #Beck">quae tenero</rdg>
+               <rdg source="#Haupt #Keene #Leo #Schenkl2">quam tereti</rdg>
+            </app>
+            <app loc="C4.35.152">
+               <lem wit="#V" source="#edd.">decurrunt</lem>
+               <rdg wit="#N #G" source="#Glaeser #Baehr. #Schenkl #Leo">decurrent</rdg>
+               <rdg wit="#λ">docuerunt</rdg>
+               <rdg source="#Barth #Friesemann #Beck">quae currunt</rdg>
+               <!-- Friesemann (coll. crit. p. 177) -->
+               <rdg source="#Haupt #Keene">decurrens</rdg>
+            </app>
+            <app loc="C4.34.152">
+               <lem>carmina versu</lem>
+               <rdg source="#Haupt #Keene">carmine versus</rdg>
+               <rdg source="#Titius">carmina mensu</rdg>
+               <!-- Quote from Titius --><note resp="Giarratano">"post 152 excidit versus in quo fuit quae triviale (riviale errore typoth.) vel tale quid"</note>
+            </app>
+            <app loc="C4.34.153">
+               <lem wit="#V #r #s" source="#o #n #Haupt #Baehr. #Schenkl1 #Ellis">tunc</lem>
+               <rdg wit="#N #G" source="#Schenkl2">nunc</rdg>
+               <rdg wit="#ε #γ" source="#edd.">tum</rdg>
+               <rdg source="#Glaeser">dum</rdg>
+            </app>
+            <app loc="C4.34.153">
+               <lem wit="#ε #γ #ρ2" source="#edd.">sonent</lem>
+               <rdg wit="#ω #r" source="#Schenkl2">sonant</rdg>
+               <rdg source="#Baehr.">meum</rdg>
+               <rdg source="#Schenkl1">mihi</rdg>
+               <rdg source="#Ellis">sona</rdg><!--Ellis (1.1.p.91)-->
+               <rdg source="#Haupt #Keene. #Leo">sonet</rdg>
+               <!-- Keene. (nunc triviale sonant) Leo (l. l. p. 618). -->
+            </app>
+            <app loc="C4.34.153">
+               <lem wit="#G #φ" source="#Haupt #Baehr. #Leo #Schenkl">montibus</lem>
+               <rdg wit="#N #V #H" source="#edd.">in montibus</rdg>
+            </app>
+            <app loc="C4.34.154">
+               <lem>dicar</lem>
+               <rdg wit="#χ #μ #φ #ν #ρ1 #η #θ #r #d2" source="#i1 #l1">dicat</rdg>
+            </app>
+            <!-- 155 vellit-157 habent Exc. Par. -->
+            <app loc="C4.33.154">
+               <lem wit="#N #G" source="#Glaeser #Schenkl #Keene">contingat</lem>
+               <rdg wit="#V" source="#edd.">contigerit</rdg>
+            </app>
+            <app loc="C4.34.155">
+               <lem wit="#N">vellit</lem>
+               <rdg wit="#N">vellit</rdg>
+               <!-- vellit (i in ras.) N. -->
+            </app>
+            <app loc="C4.34.155">
+               <lem>nam</lem>
+               <rdg source="#Exc. #Par.">michi</rdg>
+               <!-- nam] michi Exc. Par. -->
+            </app>
+            <app loc="C4.34.156">
+               <lem wit="#N #G #d #ExcPar #d" source="#n #o #Barth #Baehr. #Schenkl">dicit</lem>
+               <rdg wit="#V" source="#edd.">dixit</rdg>
+            </app>
+            <app loc="C4.34.156">
+               <lem source="#Heins. #BurmSqq">ovilia</lem>
+               <rdg wit="#ω" source="#eddAnteBurm.">vilia</rdg>
+            </app>
+            <app loc="C4.34.157">
+               <lem>cura</lem>
+               <rdg wit="#u" source="#l2 #i2">rura</rdg>
+               <!-- ovilia Heins. Burm. sqq rura ul2i2. 157 -->
+               <!-- All kinds of strange. -->
+            </app>
+            <app loc="C4.34.157">
+               <lem/><!-- It's the silly margin letter again. -->
+               <rdg wit="#φ #ν #η #ρ2 #r #s" source="#n #o">A.</rdg>
+            </app>
+            <app loc="C4.34.157">
+               <lem>at tu, si qua tamen</lem>
+               <rdg source="#n #o #Beck #Glaeser #sqq.">at tu si qua tamen</rdg>
+               <rdg wit="#N #G #π #λ #φ #κ #χ #ν #β #η #θ #r #s">et tu si qua tamen</rdg>
+               <rdg wit="#γ #ρ1">et tu si qua modo</rdg>
+               <rdg wit="#ε #ρ2" source="#eddAnteGlaeser.">at tu si qua modo</rdg>
+               <rdg wit="#μ #δ">et cui si qua mihi</rdg>
+               <rdg wit="#α">et tui si qua mihi</rdg>
+               <!-- et tui si qua mihi (tamen m2) α -->
+            </app>
+            <app loc="C4.34.157">
+               <lem>aspernanda</lem>
+               <rdg wit="#N #κ #π #λ #α #ρ1">aspernenda</rdg>
+               <rdg wit="#μ">spernenda</rdg>
+            </app>
+            <app loc="C4.34.160"><!-- apparatus transitions into page 35. -->
+               <lem wit="#κ #χ #γ #π #λ #β #ε #δ #e #u #b #d2" source="#i2 #l2 #Gryph. #Baehr. #Schenkl">tum</lem>
+               <rdg wit="#N #G #ρ #ν #μ #φ #α #η #θ" source="#edd.">tu</rdg>
+            </app>
+            <app loc="C4.34.160">
+               <lem>eris</lem>
+               <rdg wit="#G #π #κ #χ #β">erit</rdg>
+            </app>
+         </listApp>
+      </body>
+   </text>
+</TEI>

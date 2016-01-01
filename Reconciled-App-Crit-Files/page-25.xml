@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Title</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Publication Information</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Information about the source</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listApp>
+                
+                <!-- ATTENTION: JORDAN DID NOT SEPARATE WIT FROM SOURCE, SO DO THAT FIRST!!! -->
+                
+                <app loc="C4.25.12">
+                    <!-- first bit in the apparatus is on page 24. -->
+                    <lem> C. </lem>
+                    <rdg wit="#N"/>
+                    <!-- 12 C. om. N (in quo add. m2). G. -->
+                    <!-- Not sure what the G corresponds do. Goes straight to the next lemma. -->
+                </app>
+                <app loc="C4.25.12">
+                    <lem> Quidquid </lem>
+                    <rdg wit="#G #ν #φ #λ #α #μ #ε #χ"> quidquid </rdg>
+                    <!-- just lowercase -->
+                    <rdg wit="#P #κ # ρ #β #γ #π"> quicquid </rdg>
+                    <rdg wit="#N1"> quidque . . . </rdg>
+                    <!-- There are dots, so I feel like it's part of the lemma.-->
+                    <rdg wit="#N2"> quidque qd </rdg>
+                </app>
+                <app loc="C4.25.12">
+                    <lem wit="#G #P #ν #φ #edd."> id est </lem>
+                    <rdg wit="#N #δ"> ide </rdg>
+                    <!-- macron over the e -->
+                    <rdg wit="#Modius"> adest </rdg>
+                </app>
+                <!-- hic P desinit -->
+                <!-- Its meaning is hidden from me. -->
+                <!-- 14 sq. exstant in Exc. Par. C. praef. G, M. N. -->
+                <!-- also this directly after -->
+                <app loc="C4.25.14">
+                    <lem wit="#N #G #Exc. #Par."> nunc </lem>
+                    <!-- NG Exc. Par., defendit F Ramorino, -->
+                    <rdg wit="#V #edd."> dum </rdg>
+                    <rdg wit="#Barth."> tum </rdg>
+                    <rdg wit="#Baehr."> nam </rdg>
+                    <!-- non C.et H.Schenkl. -->
+                </app>
+                <app loc="C4.25.14">
+                    <lem> polita </lem>
+                    <rdg wit="#Burm."> politi </rdg>
+                </app>
+                <app loc="C4.25.15">
+
+                    <lem>valet</lem>
+                    <rdg wit="#Exc. #Par. #prior."> valeate </rdg>
+                    <!-- valeate Exc.Par.prior.(ut videtur) -->
+                    <rdg wit="#ν"> vacat </rdg>
+                    <!-- ν (in ras.) -->
+                    <rdg wit="#Barth."> valet a </rdg>
+                    <!-- Barth. (Adr.XII 10) -->
+                </app>
+                <!-- 16 om. G.M.praef.ηφνr. -->
+                <!-- Τhey omitted so hard I ommitted it from this xml. -->
+                <app loc="C4.25.16">
+                    <lem> hac </lem>
+                    <rdg wit="#Glaeser"> haec </rdg>
+                </app>
+                <!-- Glaeser. post eadem edd.ante Schenkl. interpunxerunt. -->
+                <app loc="C4.25.16">
+                    <lem wit="#N #Schenkl"> maxima </lem>
+                    <rdg wit="#V #edd."> proxima </rdg>
+                </app>
+                <app loc="C4.25.17">
+                    <lem> haec </lem>
+                    <rdg wit="#Gudius"> hac </rdg>
+                </app>
+                <app loc="C4.25.17">
+                    <lem wit="#N #G #ρ2 #i1 #l1 #Vienn. #Ulit. #h. #p #Wernsd. #sqq."> meditatur </lem>
+                    <rdg wit="#V #edd. #ante #Wernsd."> meditatus </rdg>
+                </app>
+                <app loc="C4.25.17">
+                    <lem> Amyntas </lem>
+                    <rdg wit="#ν #φ #edd."> amyntas </rdg>
+                    <!-- more lowercase -->
+                    <rdg wit="#N #G #α #γ #μ #λ #ρ #κ #β #ε #χ #u #e #b #n"> amintas </rdg>
+                    <rdg wit="#π"> aminctas </rdg>
+                    <rdg wit="#η"> amynctas </rdg>
+                </app>
+                <app loc="C4.25.18">
+                    <lem> admovet </lem>
+                    <rdg wit="#N"> amonet </rdg>
+                    <rdg wit="#μ #η"> admonet </rdg>
+                </app>
+                <app loc="C4.25.18">
+                    <lem> vicina-admovet aetas </lem>
+                    <rdg wit="#Barth."> vicena-amovet aestas </rdg>
+                    <!-- Barth(Adv. XII 10) -->
+                    <rdg wit="#Burm. #t"> vicena-admovet aestas </rdg>
+                    <rdg wit="#Heins."> bis dena-admovet aestas </rdg>
+                    <rdg wit="#Heins."> bis dena-amovet aestas</rdg>
+                    <!-- bis dena-admovet aestas vel amovet aestas Heins. -->
+                    <rdg wit="#Gronov"> vicina-admonet aestas </rdg>
+                    <!-- Gronov. (in omiss. ad Diatr. Statii p. 415) -->
+                </app>
+                <app loc="C4.25.19">
+                    <lem> M. </lem>
+                    <rdg wit="#ω #φ #η #r #b"> C. </rdg>
+                </app>
+                <app loc="C4.25.19">
+                    <lem> odorae </lem>
+                    <rdg wit="#φ #π #ε #μ #β #e #i1 #Guid."> odore </rdg>
+                    <rdg wit="#ν #η #θ #r"> odorare </rdg>
+                    <rdg wit="#δ"> adorae </rdg>
+                </app>
+                <app loc="C4.25.20">
+                    <lem wit="#N #G #A #H #Ulit. #t #Beck #sqq."> non cohibes </lem>
+                    <!-- N (in quo chohibes) -->
+                    <rdg wit="#V #edd. #ante #Beck."> nunc cohibes </rdg>
+                    <rdg wit="#Titius"> tunc cohibes </rdg>
+                    <rdg wit="#Heins."> tun' coges </rdg>
+                    <rdg wit="Burm."> non cohibes </rdg>
+                    <rdg wit="Burm."> vix una prohibes </rdg>
+                    <!-- non cohibes vel vix una prohibes Burm. -->
+                    <rdg wit="#cod. #Titii"> nunc cogis </rdg>
+                </app>
+                <app loc="C4.25.21">
+                    <lem> fronte </lem>
+                    <rdg wit="#Titius"> voce </rdg>
+                </app>
+                <app loc="C4.25.21">
+                    <lem> paterna </lem>
+                    <rdg wit="χ"> proterva </rdg>
+                    <!-- χ in mg. -->
+                </app>
+                <!-- 22 om. G (in mg. add. m1). M. praef. νηφrn. -->
+                <app loc="C4.25.22">
+                    <lem> Corydon </lem>
+                    <rdg wit="#N #G"> Coridon </rdg>
+                </app>
+                <app loc="C4.25.22">
+                    <lem wit="#N #G #ε #γ #ρ2 #edd."> te non </lem>
+                    <rdg wit="#V #r #s #o #n"> non te </rdg>
+                </app>
+                <app loc="C4.25.23">
+                    <lem> desere </lem>
+                    <rdg wit="#d1"> collige </rdg>
+                </app>
+                <app loc="C4.25.24">
+                    <lem> i </lem>
+                    <rdg wit="#V #edd. #ante #Wernsd."> et </rdg>
+                    <!-- This is a guess. -->
+                    <!-- Wernsd. procul θ -->
+                </app>
+                <app>
+                    <lem>potius</lem>
+                    <rdg wit="θ">procul</rdg>
+                </app>
+                <app loc="C4.25.24">
+                    <lem> glandes </lem>
+                    <rdg wit="#π #μ"> grandes </rdg>
+                </app>
+                <app loc="C4.25.24">
+                    <lem> rubicundaque </lem>
+                    <rdg wit="#N"> rubicondaque </rdg>
+                </app>
+                <app loc="C4.25.25">
+                    <lem xml:id="lem4.25ad">ad</lem>
+<note target="#lem4.25ad"><hi rend="italics">ad</hi> s. v. <ref target="#N1">N1</ref></note>
+                    <!-- s. v. N(m1). -->
+                </app>
+                <app loc="C4.25.25">
+                    <lem> mulctra </lem>
+                    <rdg wit="#N #G"> multra </rdg>
+                </app>
+                <app loc="C4.25.25">
+                    <lem> greges et </lem>
+                    <rdg wit="#N"> greges ad </rdg>
+                    <!-- N (ad greges m1) -->
+                </app>
+                <!-- Come back to this. Something has gone wrong in the apparatus in Giarratano. -->                
+<app loc="C4.25.26">
+                    <lem> tacitus </lem>
+                    <!-- tutere is in line 27, which would fit better, but the apparatus says 26. -->
+                    <rdg wit="#N #G #H #ρ2 #ε #edd."> tutere </rdg>
+                    <rdg wit="#φ #η #ν2 #θ #r"> taceare </rdg>
+                    <rdg wit="#μ"> taceatque </rdg>
+                    <rdg wit="#κ #π #χ #ν1 #β #ρ1"> tacere </rdg>
+                    <rdg wit="#χ #d1 #Ulit."> tueare </rdg>
+                    <!-- χ in mg. d1 Ulit., -->
+                    <rdg wit="#α"> tutare </rdg>
+                    <rdg wit="#δ"> tace </rdg>
+                    <!-- macron over the e -->
+                    <rdg wit="#λ #γ"/>
+                    <rdg wit="Heins."> solere </rdg>
+                </app>
+                <app loc="C4.25.28">
+                    <lem> praeter ab </lem>
+                    <rdg wit="#s #p #Modius"> praeterquam </rdg>
+                </app>
+                <app loc="C4.25.28">
+                    <lem> his </lem>
+                    <rdg wit="#G"> hys </rdg>
+                    <rdg wit="#N"> hijs </rdg>
+                </app>
+                <app loc="C4.25.28">
+                    <lem> ventosa </lem>
+                    <rdg wit="#λ #α"> ventura </rdg>
+                </app>
+                <app loc="C4.25.28">
+                    <lem> remurmurat </lem>
+                    <rdg wit="#G"> remunerat </rdg>
+                </app>
+                <app loc="C4.25.28">
+                    <lem> echo </lem>
+                    <rdg wit="#N"> exho </rdg>
+                    <rdg wit="#ε #δ #η"> eccho </rdg>
+                </app>
+            </listApp>
+        </body>
+    </text>
+</TEI>

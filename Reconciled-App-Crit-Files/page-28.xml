@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <listApp>
+            <app loc="C4.28.65">
+               <!-- Page 27 in the poem. Line 64. Must have been a typing mistake in the apparatus. -->
+               <lem>Corydon</lem>
+               <!-- Listed on page 28 in the apparatus as line 65, though. -->
+               <rdg wit="#N #G">Coridon</rdg>
+            </app>
+            <app loc="C4.28.65">
+               <!-- Same as above. -->
+               <lem>Tityrus</lem>
+               <rdg wit="#N #G">titirus</rdg>
+            </app>
+            <app loc="C4.28.66">
+               <lem wit="#N #G" source="#Heins. #Barth. #BurmSqq">praesonuisse</lem>
+               <rdg wit="#V" source="#eddAnteBurm">personuisse</rdg>
+            </app>
+            <app loc="C4.28.66">
+               <lem wit="#λ2 #e"
+                  source="#o #n #Barth. #Burm. #t #Wernsd. #Beck #Baehr. #Schenkl"
+                  >chelyn</lem>
+               <rdg wit="#N #γ #φ #ν #η #α #r">chelin</rdg>
+               <rdg wit="#G #χ #β #μ #κ #ρ #π #λ1 #θ #u #b #s" source="#b #i #l2 #g #p"
+                  >chelim</rdg>
+               <rdg wit="#ε" source="#edd.">chelym</rdg>
+               <rdg wit="#δ">chesim</rdg>
+            </app>
+            <app loc="C4.28.66">
+               <lem wit="#G #κ #γ #d" source="#t #Heins. #Burm. #Beck #GlaeserSqq"
+                  >blandae</lem>
+               <rdg wit="#N #γ #ρ #λ #α #β #φ #π #γ #μ #ε #η #δ #eddAnteGlaeser">blande</rdg>
+               <!-- γ is definitely listed twice. -->
+            </app>
+            <app loc="C4.28.67">
+               <lem wit="#N #κ">adlusere</lem>
+               <rdg wit="#G #V">allusere</rdg>
+               <rdg wit="#φ">alusere</rdg>
+            </app>
+            <app loc="C4.28.67">
+               <lem>ferae</lem>
+               <rdg wit="#G">fere</rdg>
+            </app>
+            <app loc="C4.28.68">
+               <lem>cantantem</lem>
+               <rdg wit="#G">cantatem</rdg>
+            </app>
+            <app loc="C4.28.68">
+               <lem wit="#G #edd.">acantho</lem>
+               <rdg wit="#N #ρ1">acanto</rdg>
+               <rdg wit="#η #δ #χ #ν #κ #λ #μ #π #ο #β #r #s" source="#n">achanto</rdg>
+               <rdg wit="#ε #γ #ρ2 #u #e #b">achantho</rdg>
+               <rdg wit="#α">archanto</rdg>
+            </app>
+            <app loc="C4.28.69">
+               <lem>Nais</lem>
+               <rdg wit="#G">nays</rdg>
+            </app>
+            <!-- Use @exclude to deal with this -->
+            <app loc="C4.28.69">
+               <lem>implicitos comebat pectine crines</lem>
+               <rdg wit="#φ #ρ #π1 #κ #ν #χ #μ #β #η #ρ #r">implicitas comebat pectine
+                  comas</rdg>
+               <!-- ρ (corr. A) π1κ -->
+               <rdg wit="#α">implicitas-crines</rdg>
+            </app>
+            <app loc="C4.28.69">
+               <lem>comebat</lem>
+               <rdg source="#l2 #Tig.">comabat</rdg>
+            </app>
+            <app loc="C4.28.69">
+               <lem>pectine</lem>
+               <rdg wit="#G">pettine</rdg>
+            </app>
+            <app loc="C4.28.70">
+               <lem>est</lem>
+               <rdg wit="#φ #ν #η #θ #r">et</rdg>
+            </app>
+            <app loc="C4.28.70">
+               <lem>nec</lem>
+               <rdg wit="#φ #ν #η #θ #r #s" source="#Modius">nunc</rdg>
+               <rdg source="#n #o">non</rdg>
+               <rdg source="#i2 #l2 #g #Gryph. #Martell.">si</rdg>
+            </app>
+            <app loc="C4.28.71">
+               <lem>forsitan</lem>
+               <rdg wit="#N">forsitam</rdg>
+            </app>
+            <app loc="C4.28.71">
+               <lem>abnuerit</lem>
+               <rdg wit="#V #r #s">annuerit</rdg>
+               <!-- V (corr. ρ2) rs -->
+            </app>
+            <app loc="C4.28.71">
+               <lem>tantum</lem>
+               <rdg wit="#δ #π1 #ρ1">tamen</rdg>
+            </app>
+            <app loc="C4.28.71">
+               <lem>audi</lem>
+               <rdg wit="#N">audli</rdg>
+               <!-- audli (l del.) N. -->
+            </app>
+            <!-- 72 M. praef. νηφson Guid. -->
+            <app loc="C4.28.72">
+               <lem>scimus enim</lem>
+               <rdg wit="#ν #φ #η #θ #r">dicimus en</rdg>
+            </app>
+            <app loc="C4.28.72">
+               <lem source="#ViennSqq.">quam</lem>
+               <rdg wit="#ω #r #u #e #b #d #s" source="#i #l #o #n #Modius">quia</rdg>
+            </app>
+            <app loc="C4.28.72">
+               <lem>aspernetur</lem>
+               <rdg wit="#G #ρ #φ #π #ν #r #b #s" source="#o #n #i2">aspernatur</rdg>
+               <rdg source="#i1 #l1">spernatur</rdg>
+            </app>
+            <app loc="C4.28.73">
+               <lem>prospice</lem>
+               <rdg source="#Guid.">perspice</rdg>
+            </app>
+            <app loc="C4.28.74">
+               <lem>buxo</lem>
+               <rdg wit="#κ #χ #ν1">busso</rdg>
+               <rdg wit="#δ">buso</rdg>
+            </app>
+            <app loc="C4.28.75">
+               <lem wit="#G #γ" source="#edd.">quam</lem>
+               <rdg wit="#N #H">qm</rdg>
+               <!-- N (qua m2) H -->
+               <rdg wit="#φ #χ #ρ #ν #κ #θ #r #s">qua</rdg>
+               <rdg wit="#A #ε #α #λ #β #u #e #b" source="#o #n #i2 #l2">quae</rdg>
+               <rdg wit="#δ #π">quo</rdg>
+               <rdg wit="#μ">que</rdg>
+            </app>
+            <app loc="C4.28.75">
+               <lem wit="#N #γ2" source="#edd.">Alexin</lem>
+               <rdg wit="#G #A #δ #α #μ #γ1 #χ2 #d #s"
+                  source="#i1 #o #n #p #h #Tit. #Ulit. #Glaeser #Keene">Alexim</rdg>
+               <rdg wit="#ρ #ν #κ #λ #χ1 #ε #φ #π #β #η #θ #r #u #e #b" source="#b #i2 #l2"
+                  >Alexis</rdg>
+            </app>
+            <app loc="C4.28.76">
+               <lem wit="#V" source="#edd.">hos potius</lem>
+               <rdg wit="#N #G">hospicius</rdg>
+            </app>
+            <app loc="C4.28.76">
+               <!-- Use @exclude for this -->
+               <lem>hos potius magis hoc</lem>
+               <rdg wit="#ρ2">hoc potius magis hoc</rdg>
+            </app>
+            <app loc="C4.28.76">
+               <lem wit="#N #G" source="#Schenkl">magis hos calamos</lem>
+               <rdg wit="#V" source="#edd.">calamos magis hos</rdg>
+               <rdg source="#Baehr.">magis hos calamo</rdg>
+               <rdg source="#Leo">magnos calamos</rdg>
+               <!-- Leo (l. l. p. 617) -->
+            </app>
+            <app loc="C4.28.76">
+               <lem>sectare</lem>
+               <rdg wit="#G">settare</rdg>
+               <!-- G (ut vid.). -->
+            </app>
+            <app loc="C4.28.76">
+               <lem>canales</lem>
+               <rdg source="#CSchenkl">canoros</rdg>
+            </app>
+            <app loc="C4.28.77">
+               <lem source="#Leo #Schenkl">exprime</lem>
+               <!-- Leo (l. l. p. 617) -->
+               <rdg wit="#N #G" source="#Glaeser #Baehr. #Keene">et preme</rdg>
+               <rdg wit="#γ #ρ #μ #β #δ">prome</rdg>
+               <rdg wit="#π #φ #χ #θ #ν #κ #λ #μ #α #r"
+                  source="#i1 #l1 #Vienn. #Guid. #Barth. #t">pro me</rdg>
+               <rdg wit="#A #ε" source="#edd.">per me</rdg>
+               <rdg source="#Burm.">pro re</rdg>
+               <rdg source="#Buecheler">Romae</rdg>
+               <!-- Buecheler (Rh. Mus. XXVI p. 238) -->
+               <rdg source="#Bursian">primi</rdg>
+            </app>
+            <app loc="C4.28.78">
+               <lem>ne</lem>
+               <rdg wit="#ε #γ #e #u #b #d2" source="#i #l2">nec</rdg>
+            </app>
+            <app loc="C4.28.78">
+               <lem wit="#V" source="#edd.">venit en et</lem>
+               <rdg wit="#N">ven et</rdg>
+               <rdg wit="#G">en et</rdg>
+               <rdg source="#n #o">venit en quoque</rdg>
+            </app>
+            <app loc="C4.28.78">
+               <lem>Amyntas</lem>
+               <rdg wit="#γ #ν #ρ2" source="#edd.">amyntas</rdg>
+               <rdg wit="#N #ρ1 #μ #κ #λ #φ #χ #δ #ε #β #u #e #b" source="#n">amintas</rdg>
+               <rdg wit="#G #π">aminctas</rdg>
+               <rdg wit="#α">aminta</rdg>
+            </app>
+            <app loc="C4.28.79">
+               <lem wit="#χ2" source="#edd.">succinet</lem>
+               <rdg wit="#N">sucinit</rdg>
+               <!-- N (sucinat m2) -->
+               <rdg wit="#G">subcinit</rdg>
+               <rdg wit="#H #ρ #θ #ν #κ #χ1 #r #s" source="#o #n #Beck">succinat</rdg>
+               <rdg wit="#A #u #b" source="#i #l2">succinit</rdg>
+               <rdg wit="#λ #μ #β #γ #α #ε">sanciat</rdg>
+               <rdg wit="#ρ1">succinant</rdg>
+               <rdg wit="#δ #e">santiat</rdg>
+               <rdg wit="#d">serviat</rdg>
+            </app>
+            <!-- d. vv. 79-81 om. α1πη. -->
+         </listApp>
+      </body>
+   </text>
+</TEI>
