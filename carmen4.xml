@@ -21,7 +21,7 @@
                <head>[Meliboeus, Corydon, Amyntas]</head>
                <list type="speakers">
                   <item xml:id="Meliboeus">Meliboeus</item>
-                  <item xml:id="Corydon">Corydon</item>
+                  <item><ref target="#Corydon">Corydon</ref></item>
                   <item xml:id="Amyntas">Amyntas</item>
                </list>
                <sp who="#Meliboeus">
@@ -1955,10 +1955,6 @@
                         </app> compita ludos.</l>
                   </lg>
                </sp>
-
-
-               <!-- Start here -->
-
                <sp who="#Amyntas">
                   <speaker><app>
                         <lem>A.</lem>
