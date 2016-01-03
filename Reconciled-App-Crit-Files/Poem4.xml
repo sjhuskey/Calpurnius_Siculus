@@ -100,8 +100,8 @@
             </app>
             <app loc="#C4.24.4">
                <lem>spiritus</lem>
-               <rdg wit="#N" xml:id="rdg4.4spc">spc</rdg>
-               <!-- c with bar: &#099;&#773; -->
+               <rdg wit="#N" xml:id="rdg4.4spc">sp<!-- c with bar: &#099;&#773; --><gap
+                     reason="lost" quantity="6" unit="chars"/></rdg>
                <witDetail wit="#N" target="#rdg4.4spc">(deinde lac. 6 litt.)</witDetail>
             </app>
             <app loc="#C4.24.4">
@@ -204,7 +204,7 @@
                <rdg wit="#V" source="#edd.">dum</rdg>
                <rdg source="#Barth">tum</rdg>
                <rdg source="#Baehr.">nam</rdg>
-               <rdg source="#CSchenkl #HSchenkl">non</rdg>
+               <rdg source="#CSchenkl #Schenkl">non</rdg>
             </app>
             <app loc="C4.25.14">
                <lem>polita</lem>
@@ -256,7 +256,7 @@
             <app loc="C4.25.18">
                <!-- Use @exclude here -->
                <lem>vicina-admovet aetas</lem>
-               <rdg source="#BarthAdv" xml:id="rdg4.18vicina-amovet">vicena-amovet aestas</rdg>
+               <rdg source="#BarthAdv" xml:id="rdg4.18vicena-amovet">vicena-amovet aestas</rdg>
                <note target="#rdg4.18vicina-amovet">Adv. XII 10</note>
                <rdg source="#Burm. #t">vicena-admovet aestas</rdg>
                <rdgGrp type="conjectures">
@@ -825,7 +825,7 @@
             <app loc="C4.28.66">
                <!-- γ is definitely listed three times. Check it in later editions -->
                <lem wit="#G #κ #γ #d" source="#t #Heins. #Burm. #Beck #GlaeserSqq">blandae</lem>
-               <rdg wit="#N #γ #ρ #λ #α #β #φ #π #γ #μ #ε #η #δ #eddAnteGlaeser">blande</rdg>
+               <rdg wit="#N #ρ #λ #α #β #φ #π #μ #ε #η #δ #eddAnteGlaeser">blande</rdg>
             </app>
             <app loc="C4.28.67">
                <lem wit="#N #κ">adlusere</lem>
@@ -931,8 +931,11 @@
             <app loc="C4.28.75">
                <lem wit="#G #γ" source="#edd.">quam</lem>
                <!-- qm N (qua m2) H -->
-               <rdg wit="#N #H">qm</rdg>
-               <rdg wit="#N2">qua</rdg>
+               <rdgGrp type="MSVariants">
+                  <rdg wit="#N" xml:id="rdg4.75qm">qm</rdg>
+                  <rdg wit="#N2">qua</rdg>
+               </rdgGrp>
+               <rdg wit="#H" copyOf="#rdg4.75qm"/>
                <rdg wit="#φ #χ #ρ #ν #κ #θ #r #s">qua</rdg>
                <rdg wit="#A #ε #α #λ #β #u #e #b" source="#o #n #i2 #l2">quae</rdg>
                <rdg wit="#δ #π">quo</rdg>
@@ -977,7 +980,6 @@
                <note target="#lem4.77exprime"><ref target="#Leo">Leo</ref> (l. l. p. 617 <ptr
                      target="https://books.google.com/books?id=vABMAAAAYAAJ&amp;pg=PA617#v=onepage&amp;q&amp;f=false"
                   />)</note>
-               <!-- Leo (l. l. p. 617) -->
                <rdg wit="#N #G" source="#Glaeser #Baehr. #Keene">et preme</rdg>
                <rdg wit="#γ #ρ #μ #β #δ">prome</rdg>
                <rdg wit="#π #φ #χ #θ #ν #κ #λ #μ #α #r" source="#i1 #l1 #Vienn. #Guid. #Barth #t"
@@ -1235,11 +1237,7 @@
             </app>
             <app loc="C4.29.93">
                <lem source="#Leo">ecce</lem>
-               <rdg wit="#N #G" source="#DOrville #Baehr.">esse</rdg>
-               <!-- Do something about "D'Orville" -->
-               <!-- Schenkl says that D'Orville can be found "sec. Burm.", and he is, but he's not cited for this particular variant, which can, however, be found in the addenda to Burmann's edition. Sigh. -->
-               <!-- I'm pretty sure that he meant to cite D'Orville for aves in line 94 -->
-               <!--Baehr. cites G as a witness for esse, mentions nothing about D'Orville. -->
+               <rdg wit="#N #G" source="#Baehr.">esse</rdg>
                <rdg wit="#V" source="#edd.">ipse</rdg>
                <rdg source="#Heins.">ipsi</rdg>
             </app>
@@ -1357,10 +1355,17 @@
                <rdg wit="#s" source="#o #n">scit nemus</rdg>
             </app>
             <app loc="C4.30.100">
-               <lem>et dixi</lem>
-               <rdg wit="#G">et deus dixi</rdg>
-               <!-- et deus dixi (deus del.) G. -->
+               <lem xml:id="lem4.100et_dixi">et dixi</lem>
+               <rdgGrp type="anteCorr">
+                  <rdg wit="#G" varSeq="1">et deus dixi</rdg>
+                  <rdg wit="#G" varSeq="2" copyOf="#lem4.100et_dixi" xml:id="rdg4.100et_dixi"/>
+               </rdgGrp>
+               <witDetail wit="#G" target="#rdg4.100et_dixi"><hi rend="italic">deus</hi> del. <ref
+                     target="#G">G</ref></witDetail>
                <rdg source="#edAurel">et dixit</rdg>
+
+               <!-- Start here -->
+
             </app>
             <app loc="C4.30.100">
                <lem wit="#N #V" source="#edd.">hinc</lem>
@@ -1723,11 +1728,12 @@
             <app loc="C4.32.124">
                <lem wit="#V" source="#edd." xml:id="lem4.124ruptas">ruptas</lem>
                <rdgGrp type="anteCorr">
-                  <rdg wit="#N" varSeq="1" xml:id="rdg4.124raptas">raptas</rdg>
-                  <rdg wit="#N2" varSeq="2" copyOf="#lem4.124ruptas"/>
+                  <rdg wit="#N" varSeq="1" xml:id="rdg4.124raptas1">raptas</rdg>
+                  <rdg wit="#N2" varSeq="2" copyOf="#lem4.124ruptas" xml:id="rdg4.124ruptas"/>
                </rdgGrp>
-               <rdg wit="#G" copyOf="#rdg4.124raptas"/>
-               <rdg source="#Glaeser">ruptis</rdg>
+               <rdg wit="#G" copyOf="#rdg4.124raptas" xml:id="rdg4.124raptas2"/>
+               <rdg source="#Glaeser" xml:id="rdg4.124ruptis-Glaeser"
+                  exclude="#lem4.124in_uvas #rdg4.12ad_uvas">ruptis</rdg>
                <!-- ruptis (in uvis) Glaeser. -->
             </app>
             <app loc="C4.32.124">
@@ -1740,7 +1746,6 @@
                   omissis ad diatr. Stat. p. 416<ptr
                      target="https://books.google.com/books?id=zBk-AAAAcAAJ&amp;pg=PA416#v=onepage&amp;q&amp;f=false"
                   />)</note>
-               <!--  -->
                <rdgGrp type="MSVariants">
                   <rdg wit="#N">psalat</rdg>
                   <rdg wit="#N2">psaliat</rdg>
@@ -1754,9 +1759,11 @@
                <witDetail wit="#π" target="#rdg4.124saltat">in mg.</witDetail>
             </app>
             <app loc="C4.32.124">
-               <lem>in uvas</lem>
-               <rdg source="#Ulit.">ad uvas</rdg>
-               <rdg source="#Glaeser">in uvis</rdg>
+               <lem xml:id="lem4.124in_uvas">in uvas</lem>
+               <rdg source="#Ulit." xml:id="rdg4.124ad_uvas">ad uvas</rdg>
+               <rdg source="#Glaeser" xml:id="rdg4.124in_uvis-Glaeser"
+                  exclude="#lem4.124ruptas #rdg4.124raptas1 #rdg4.124ruptas #rdg4.124raptas2">in
+                  uvis</rdg>
                <!-- How to connect this to the reading ruptis earlier in the line? -->
             </app>
             <app loc="C4.32.124">
@@ -1781,23 +1788,27 @@
             </app>
             <app loc="C4.32.125">
                <!-- Handle this with @exclude etc. -->
-               <lem>utque bono plaudat paganica</lem>
-               <rdg wit="#V #edd. #ante #Glaeser">ut quoque turba bono plaudat saginata (satiata et
+               <lem>utque bono plaudat paganica turba magistro</lem>
+               <rdg wit="#V #eddAnteGlaeser">ut quoque turba bono plaudat saginata (satiata et
                   signata π in mg.)</rdg>
                <rdg wit="#κ">ut quoque turba bono plaudat fraginata</rdg>
-               <rdg source="#Modius #Dempster">ut quoque turba non plaudat satiata</rdg>
-               <rdg source="#Modius #Dempster">ut quoque turba bono plaudat saturata</rdg>
+               <rdgGrp type="conjectures">
+                  <rdg source="#Modius #Dempster">ut quoque turba non plaudat satiata</rdg>
+                  <rdg source="#Modius #Dempster">ut quoque turba bono plaudat saturata</rdg>
+               </rdgGrp>
                <rdg wit="#χ1">ut quoque turba bono plaudat fragmata</rdg>
                <rdg wit="#χ2">ut quoque turba non plaudat pragmata</rdg>
                <rdg wit="#δ">ut quoque turba non plaudat sagmata</rdg>
                <rdg source="#Ulit. #h #p #t #Tig.">ut quoque turba non plaudat signata</rdg>
                <rdg source="#Titius">ut quoque turba non plaudat sagnata</rdg>
-               <rdg source="#Heins.">ut quoque turba non plaudat Sicana</rdg>
-               <rdg source="#Heins.">ut quoque turba non plaudat pagana</rdg>
-               <rdg source="#Heins.">ut quoque turba non plaudat satiata</rdg>
-               <rdg source="#Heins.">ut quoque turba non plaudat sic grata</rdg>
+               <rdgGrp type="conjectures">
+                  <rdg source="#Heins.">ut quoque turba non plaudat Sicana</rdg>
+                  <rdg source="#Heins.">ut quoque turba non plaudat pagana</rdg>
+                  <rdg source="#Heins.">ut quoque turba non plaudat satiata</rdg>
+                  <rdg source="#Heins.">ut quoque turba non plaudat sic grata</rdg>
+               </rdgGrp>
                <rdg wit="#d2">ut quoque turba non plaudat saginato</rdg>
-               <note resp="Giarratano">excepto</note>
+               <note target="#rdg4.125lineVariant1"><ref target="#Burm.">Burm.</ref> excepto</note>
             </app>
             <app loc="C4.32.126">
                <lem>qui</lem>
@@ -1808,6 +1819,10 @@
                <witDetail wit="#G" target="#lem4.126pervia">s.v. <ref target="#G1"
                   >G1</ref></witDetail>
             </app>
+            
+            <!-- Start here -->
+            
+            
             <app loc="C4.32.127">
                <lem>A.</lem>
                <rdg wit="#G"/>
@@ -2053,7 +2068,7 @@
                <rdg wit="#χ" copyOf="#rdg4.147nobis"/>
             </app>
             <app loc="C4.33.148">
-               <lem>deos</lem>
+               <lem wit="#V" source="#edd.">deos</lem>
                <rdg wit="#G" source="#Schenkl2" xml:id="rdg4.148deas">deas</rdg>
                <note target="#rdg4.148deas">def. <ref target="#Leo">Leo</ref> (l. l. p. 616 <ptr
                      target="https://books.google.com/books?id=vABMAAAAYAAJ&amp;pg=PA616#v=onepage&amp;q&amp;f=false"
@@ -2062,7 +2077,6 @@
                <witDetail wit="#N" target="#rdg4.148das">intra et supra <hi rend="italic">a</hi>
                   ras.; <hi rend="italic">o</hi> ex <hi rend="italic">a</hi>
                   <ref target="#N2">N2</ref></witDetail>
-               <rdg wit="#V" source="#edd.">deos</rdg>
             </app>
             <app loc="C4.33.148">
                <lem>apta</lem>
@@ -2195,7 +2209,7 @@
                <rdg source="#Titius">carmina mensu</rdg>
             </app>
             <!-- <note target="#line4.152">post 152 excidit versus in quo fuit quae triviale (riviale
-                  errore typoth.) vel tale quid"</note> -->
+                  errore typoth.) vel tale quid</note> -->
             <app loc="C4.34.153">
                <lem wit="#V #r #s" source="#o #n #Haupt #Baehr. #Schenkl1 #Ellis">tunc</lem>
                <rdg wit="#N #G" source="#Schenkl2">nunc</rdg>
