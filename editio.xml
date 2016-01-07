@@ -112,132 +112,132 @@
                         <!-- These editions are known as witnesses, since they may (or may not) be the only surviving witness to a manuscript -->
                         <bibl xml:id="r" n="r">
                             <editor/>
-                            <pubPlace> Rome </pubPlace>
-                            <publisher> Schweynheim and Pannartz </publisher>
-                            <date> 1471 </date>
+                            <pubPlace>Rome</pubPlace>
+                            <publisher>Schweynheim and Pannartz</publisher>
+                            <date>1471</date>
                         </bibl>
                         <bibl xml:id="e" n="e">
                             <editor/>
-                            <pubPlace> Venice </pubPlace>
-                            <publisher> Ausonius and Giradinus </publisher>
-                            <date> 1472 </date>
+                            <pubPlace>Venice</pubPlace>
+                            <publisher>Ausonius and Giradinus</publisher>
+                            <date>1472</date>
                         </bibl>
                         <listBibl xml:id="d" n="d">
                             <bibl xml:id="d1" n="d1">
                                 <editor/>
-                                <pubPlace> Daventer </pubPlace>
-                                <publisher> Richardus Paffraet </publisher>
-                                <date> 1488 </date>
+                                <pubPlace>Daventer</pubPlace>
+                                <publisher>Richardus Paffraet</publisher>
+                                <date>1488</date>
                             </bibl>
                             <bibl xml:id="d2" n="d2">
                                 <editor/>
-                                <pubPlace> Daventer </pubPlace>
-                                <publisher> Jacobus de Breda </publisher>
-                                <date> 1491 </date>
+                                <pubPlace>Daventer</pubPlace>
+                                <publisher>Jacobus de Breda</publisher>
+                                <date>1491</date>
                             </bibl>
                         </listBibl>
                         <bibl xml:id="u" n="u">
                             <editor/>
-                            <pubPlace> Parma </pubPlace>
-                            <publisher> Angelius Ugoletus </publisher>
-                            <date> 1492 </date>
+                            <pubPlace>Parma</pubPlace>
+                            <publisher>Angelius Ugoletus</publisher>
+                            <date>1492</date>
                         </bibl>
                         <bibl xml:id="c" n="c">
                             <editor/>
-                            <pubPlace> Cologne </pubPlace>
-                            <publisher> </publisher>
-                            <date> </date>
+                            <pubPlace>Cologne</pubPlace>
+                            <publisher></publisher>
+                            <date></date>
                         </bibl>
                         <bibl xml:id="Nordh." n="Nordh.">
                             <editor/>
-                            <pubPlace> Nordheim </pubPlace>
-                            <publisher> </publisher>
-                            <date> </date>
+                            <pubPlace>Nordheim</pubPlace>
+                            <publisher></publisher>
+                            <date></date>
                         </bibl>
                         <bibl xml:id="s" n="s">
                             <editor xml:id="Ascensius" n="Ascensius">Badius Ascensius</editor>
-                            <pubPlace> Paris </pubPlace>
-                            <publisher> In vico Maturinorum a Durando Gerlerio </publisher>
-                            <date> 1503 </date>
+                            <pubPlace>Paris</pubPlace>
+                            <publisher>In vico Maturinorum a Durando Gerlerio</publisher>
+                            <date>1503</date>
                         </bibl>
                     </listBibl>
                     <listBibl type="source">
                         <!-- These editions are known as "sources" below, since they are "modern" editions (i.e., not single manuscript). -->
                         <bibl xml:id="b" n="b">
-                            <editor xml:id="Guid." n="Guid."> Diomede Guidalotti </editor>
-                            <pubPlace> Bologna </pubPlace>
-                            <publisher> Caligula Bazalerius </publisher>
-                            <date> 1504 </date>
+                            <editor xml:id="Guid." n="Guid.">Diomede Guidalotti</editor>
+                            <pubPlace>Bologna</pubPlace>
+                            <publisher>Caligula Bazalerius</publisher>
+                            <date>1504</date>
                         </bibl>
                         <listBibl xml:id="i" n="i">
                             <bibl xml:id="i1" n="i1">
-                                <editor> Benedictus Philologus Florentinus (a.k.a Ricardinus) </editor>
-                                <pubPlace> Florence </pubPlace>
-                                <publisher> Philippi de Giunta </publisher>
-                                <date> 1504 </date>
+                                <editor>Benedictus Philologus Florentinus (a.k.a Ricardinus)</editor>
+                                <pubPlace>Florence</pubPlace>
+                                <publisher>Philippi de Giunta</publisher>
+                                <date>1504</date>
                             </bibl>
                             <bibl xml:id="i2" n="i2">
-                                <editor xml:id="Tit" n="Tit"> R. Titus </editor>
-                                <pubPlace> Florence </pubPlace>
-                                <publisher> Apud Philippum Iunctam </publisher>
-                                <date> 1590 </date>
+                                <editor xml:id="Tit" n="Tit">R. Titus</editor>
+                                <pubPlace>Florence</pubPlace>
+                                <publisher>Apud Philippum Iunctam</publisher>
+                                <date>1590</date>
                             </bibl>
                         </listBibl>
                         <listBibl xml:id="l" n="l">
                             <bibl xml:id="l1" n="l1">
                                 <editor/>
-                                <pubPlace> Venice </pubPlace>
-                                <publisher> Aldus Manutius </publisher>
-                                <date> 1518 </date>
+                                <pubPlace>Venice</pubPlace>
+                                <publisher>Aldus Manutius</publisher>
+                                <date>1518</date>
                             </bibl>
                             <bibl xml:id="l2" n="l2">
                                 <editor/>
-                                <pubPlace> Venice </pubPlace>
-                                <publisher> Aldus Manutius </publisher>
-                                <date> 1534 </date>
+                                <pubPlace>Venice</pubPlace>
+                                <publisher>Aldus Manutius</publisher>
+                                <date>1534</date>
                             </bibl>
                         </listBibl>
                         <bibl xml:id="n" n="n">
                             <editor>Johann Alexander Brassicanus</editor>
-                            <pubPlace> Hagenau/Strasburg </pubPlace>
-                            <publisher> Johannes Knobloch </publisher>
-                            <date> 1519 </date>
+                            <pubPlace>Hagenau/Strasburg</pubPlace>
+                            <publisher>Johannes Knobloch</publisher>
+                            <date>1519</date>
                         </bibl>
                         <bibl xml:id="Vienn." n="Vienn.">
                             <editor/>
-                            <pubPlace> Vienna </pubPlace>
-                            <publisher> </publisher>
-                            <date> 1519 </date>
+                            <pubPlace>Vienna</pubPlace>
+                            <publisher></publisher>
+                            <date>1519</date>
                         </bibl>
                         <bibl xml:id="g" n="g">
                             <editor/>
-                            <pubPlace> Augsbourg </pubPlace>
-                            <publisher> Henricus Steyner </publisher>
-                            <date> 1534 </date>
+                            <pubPlace>Augsbourg</pubPlace>
+                            <publisher>Henricus Steyner</publisher>
+                            <date>1534</date>
                         </bibl>
                         <bibl xml:id="Tig." n="Tig.">
                             <editor/>
-                            <pubPlace> Zurich </pubPlace>
-                            <publisher> Christoph Froschauer </publisher>
-                            <date> 1537 </date>
+                            <pubPlace>Zurich</pubPlace>
+                            <publisher>Christoph Froschauer</publisher>
+                            <date>1537</date>
                         </bibl>
                         <bibl xml:id="Gryph." n="Gryph.">
                             <editor/>
-                            <pubPlace> Lyon </pubPlace>
-                            <publisher> Sebastian Gryphius </publisher>
-                            <date> 1537 </date>
+                            <pubPlace>Lyon</pubPlace>
+                            <publisher>Sebastian Gryphius</publisher>
+                            <date>1537</date>
                         </bibl>
                         <bibl xml:id="o" n="o">
                             <editor/>
-                            <pubPlace> Basel </pubPlace>
-                            <publisher> Johannes Oporinus </publisher>
-                            <date> 1546 </date>
+                            <pubPlace>Basel</pubPlace>
+                            <publisher>Johannes Oporinus</publisher>
+                            <date>1546</date>
                         </bibl>
                         <bibl xml:id="p" n="p">
                             <editor/>
-                            <pubPlace> Paris </pubPlace>
-                            <publisher> Pierre Pithou </publisher>
-                            <date> 1590 </date>
+                            <pubPlace>Paris</pubPlace>
+                            <publisher>Pierre Pithou</publisher>
+                            <date>1590</date>
                         </bibl>
                         <bibl xml:id="edAurel" n="Editio Aureliana">
                             <editor/>
@@ -255,64 +255,64 @@
                             />
                         </bibl>
                         <bibl xml:id="Barth" n="Barth">
-                            <editor> Kaspar von Barth </editor>
-                            <pubPlace> Hanau </pubPlace>
-                            <publisher> Bibliopolius Willerianus </publisher>
-                            <date> 1613 </date>
+                            <editor>Kaspar von Barth</editor>
+                            <pubPlace>Hanau</pubPlace>
+                            <publisher>Bibliopolius Willerianus</publisher>
+                            <date>1613</date>
                         </bibl>
                         <bibl xml:id="Ulit." n="Ulit.">
-                            <editor> Jan van Vliet (a.k.a. Janus Ulitius) </editor>
-                            <pubPlace> Leiden </pubPlace>
-                            <publisher> Officina Elzeviriana </publisher>
-                            <date> 1645 </date>
+                            <editor>Jan van Vliet (a.k.a. Janus Ulitius)</editor>
+                            <pubPlace>Leiden</pubPlace>
+                            <publisher>Officina Elzeviriana</publisher>
+                            <date>1645</date>
                         </bibl>
                         <bibl xml:id="h" n="h">
                             <editor/>
-                            <pubPlace> </pubPlace>
-                            <publisher> R. Bruce and Sigebert Haverkamp </publisher>
-                            <date> 1728 </date>
+                            <pubPlace></pubPlace>
+                            <publisher>R. Bruce and Sigebert Haverkamp</publisher>
+                            <date>1728</date>
                         </bibl>
                         <bibl xml:id="Burm." n="Burm.">
-                            <editor> Pieter Burmann </editor>
-                            <pubPlace> Leiden </pubPlace>
-                            <publisher> Conrad Wishoff and Daniel Goedval </publisher>
-                            <date> 1731 </date>
+                            <editor>Pieter Burmann</editor>
+                            <pubPlace>Leiden</pubPlace>
+                            <publisher>Conrad Wishoff and Daniel Goedval</publisher>
+                            <date>1731</date>
                         </bibl>
                         <bibl xml:id="t" n="t">
                             <editor/>
-                            <pubPlace> Jelgava, Latvia </pubPlace>
-                            <publisher> Jacob Friederich Hinzius </publisher>
-                            <date> 1774 </date>
+                            <pubPlace>Jelgava, Latvia</pubPlace>
+                            <publisher>Jacob Friederich Hinzius</publisher>
+                            <date>1774</date>
                         </bibl>
                         <bibl xml:id="Wernsd." n="Wernsd.">
-                            <editor> Johannes Christianus Wernsdorf </editor>
-                            <pubPlace> Altenburg </pubPlace>
-                            <publisher> Richter </publisher>
-                            <date> 1780 </date>
+                            <editor>Johannes Christianus Wernsdorf</editor>
+                            <pubPlace>Altenburg</pubPlace>
+                            <publisher>Richter</publisher>
+                            <date>1780</date>
                         </bibl>
                         <bibl xml:id="Heins." n="Heins.">
-                            <editor> </editor>
-                            <pubPlace> </pubPlace>
-                            <publisher> </publisher>
-                            <date> </date>
+                            <editor></editor>
+                            <pubPlace></pubPlace>
+                            <publisher></publisher>
+                            <date></date>
                         </bibl>
                         <bibl xml:id="Beck" n="Beck">
-                            <editor> Christian Daniel Beck </editor>
-                            <pubPlace> Leipzig </pubPlace>
-                            <publisher> Weidmann </publisher>
-                            <date> 1803 </date>
+                            <editor>Christian Daniel Beck</editor>
+                            <pubPlace>Leipzig</pubPlace>
+                            <publisher>Weidmann</publisher>
+                            <date>1803</date>
                         </bibl>
                         <bibl xml:id="Glaeser" n="Glaeser">
-                            <editor> C.E. Glaeser </editor>
-                            <pubPlace> Göttingen </pubPlace>
-                            <publisher> Dieterichiani </publisher>
-                            <date> 1842 </date>
+                            <editor>C.E. Glaeser</editor>
+                            <pubPlace>Göttingen</pubPlace>
+                            <publisher>Dieterichiani</publisher>
+                            <date>1842</date>
                         </bibl>
                         <bibl xml:id="Baehr." n="Baehr.">
-                            <editor ref="http://viaf.org/viaf/52432033"> Emil Baehrens </editor>
-                            <pubPlace> Leipzig </pubPlace>
-                            <publisher> Teubner </publisher>
-                            <date> 1881 </date>
+                            <editor ref="http://viaf.org/viaf/52432033">Emil Baehrens</editor>
+                            <pubPlace>Leipzig</pubPlace>
+                            <publisher>Teubner</publisher>
+                            <date>1881</date>
                         </bibl>
                         <listBibl xml:id="Schenkl" n="Schenkl">
                             <bibl xml:id="Schenkl1" n="Schenkl¹">
@@ -322,17 +322,17 @@
                                 <date>1885</date>
                             </bibl>
                             <bibl xml:id="Schenkl2" n="Schenkl²">
-                                <editor> Heinrich Schenkl </editor>
-                                <pubPlace> Leipzig </pubPlace>
-                                <publisher> </publisher>
-                                <date> 1906 </date>
+                                <editor>Heinrich Schenkl</editor>
+                                <pubPlace>Leipzig</pubPlace>
+                                <publisher></publisher>
+                                <date>1906</date>
                             </bibl>
                         </listBibl>
                         <bibl xml:id="Keene" n="Keene">
-                            <editor> Charles Haines Keene </editor>
-                            <pubPlace> London </pubPlace>
-                            <publisher> Bell </publisher>
-                            <date> 1887 </date>
+                            <editor>Charles Haines Keene</editor>
+                            <pubPlace>London</pubPlace>
+                            <publisher>Bell</publisher>
+                            <date>1887</date>
                         </bibl>
                         <bibl xml:id="Giarratano" n="Giarratano">
                             <editor>Caesar Giarratano</editor>

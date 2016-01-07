@@ -20,6 +20,7 @@
       <body>
          <div type="section" n="1">
             <head>Prose description</head>
+            <!-- This is how Giarratano describes the manuscript known as "N" in his introduction -->
             <p>Codex Neapolitanus V A 8, olim 380, membranaceus, mm. 261 X 160, sub initium saeculi
                XV exarratus, constat foliis 116, quorum 1–36ʳ continent Catonis de agricultura
                librum, 40–101ʳ Varronis de re rustica libros tres, 101ʳ–115ᵛ Calpurnii et Nemesiani
@@ -36,6 +37,7 @@
          </div>
          <div type="section" n="2">
             <head>Structured description</head>
+            <!-- This is how we might use the TEI's module for manuscript description to do it. -->
             <listWit>
                <witness xml:id="N"> <!-- An id for the manuscript as a container -->
                   <listWit> <!-- A container for the hands in the manuscript as individual witnesses -->
