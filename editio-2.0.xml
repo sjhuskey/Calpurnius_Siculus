@@ -87,8 +87,7 @@
                                     <witness xml:id="χ2" n="χ²">second hand</witness>
                                 </listWit>
                             </witness>
-                            <witness xml:id="ν" n="ν">Vatican City, Vatican Library Palatinus 1652,
-                                XV </witness>
+                            <witness xml:id="ν" n="ν">Florence, Biblioteca Medicea Laurenziana, pl. 37.14</witness>
                             <witness xml:id="π" n="π">Vatican City, Vatican Library Palatinus 1652,
                                 XV. <listWit>
                                     <head>Hands</head>
@@ -1032,8 +1031,8 @@
                         <list>
                             <item xml:id="edd.">edd.: All editions not explicitly referenced
                                 elsewhere in an entry in the apparatus.</item>
-                            <item xml:id="eddFereOmnes">edd. fere omnes: Almost all editions</item>
-                            <item xml:id="i2Sqq" n="i2Sqq">i2 sqq: <ref target="#i2">editio
+                            <item xml:id="eddFereOmnes" n="edd. fere omnes">edd. fere omnes: Almost all editions</item>
+                            <item xml:id="i2Sqq" n="i2 sqq.">i2 sqq: <ref target="#i2">editio
                                     Florentina (1590)</ref> and all editions published
                                 thereafter.</item>
                             <item xml:id="eddAnteWernsd" n="edd. ante Wernsd.">edd. ante Wernsd.:
@@ -1054,7 +1053,7 @@
                                 before <ref target="#Glaeser">Glaeser's</ref> edition, unless
                                 referenced specifically elsewhere in an entry in the
                                 apparatus.</item>
-                            <item xml:id="GlaeserSqq">Glaeser sqq: <ref target="#Glaeser"
+                            <item xml:id="GlaeserSqq" n="Glaeser sqq.">Glaeser sqq: <ref target="#Glaeser"
                                     >Glaeser's</ref> edition and all editions published thereafter,
                                 unless referenced specifically elsewhere in an entry in the
                                 apparatus.</item>
@@ -1118,7 +1117,7 @@
         <front> </front>
         <body>
             <div type="edition" xml:space="preserve">
-                <div type="textpart" n="1">
+                <div type="textpart" n="1" xml:id="poem1">
                     <head>[Corydon, Ornytus]</head>
                     <list type="speakers">
                         <item xml:id="Corydon">Corydon</item>
@@ -1175,7 +1174,7 @@
                                 <rdg wit="#P">ornyce</rdg>
                                 <rdg wit="#s">ornithe</rdg>
                             </app>, <app>
-                                <lem xml:id="foo" wit="#ε #χ #λ #β #ρ #α #η #γ">vaccae</lem>
+                                <lem wit="#ε #χ #λ #β #ρ #α #η #γ">vaccae</lem>
                                 <rdg wit="#N #ν #φ #π #κ #μ #r" source="#p">vacce</rdg>
                                 <rdg wit="#G">bacce</rdg>
                                 <rdg wit="#δ">vaccas</rdg>
@@ -1611,7 +1610,7 @@
                     <sp who="#Corydon">
                         <speaker>
                             <app>
-                                <lem xml:id="food" wit="#G #P #ε #χ #φ #π #α #κ #ν #β #η #δ #ρ #γ"
+                                <lem wit="#G #P #ε #χ #φ #π #α #κ #ν #β #η #δ #ρ #γ"
                                     source="#edd.">C.</lem>
                                 <rdg wit="#N">O.</rdg>
                                 <rdg wit="#λ #μ"/>
@@ -2596,7 +2595,7 @@
                             </app>.</l>
                     </sp>
                 </div>
-                <div type="textpart" n="2">
+                <div type="textpart" n="2" xml:id="poem2">
                     <head>[Idas, Astacus, Thyrsis]</head>
                     <list type="speakers">
                         <item xml:id="Idas">Idas</item>
@@ -4155,7 +4154,7 @@
                             <rdg wit="#λ">satiavit</rdg>
                         </app> et aetas'.</l>
                 </div>
-                <div type="textpart" n="3">
+                <div type="textpart" n="3" xml:id="poem3">
                     <head>[Iollas, Lycidas]</head>
                     <list type="speakers">
                         <item xml:id="Iollas">Iollas</item>
@@ -4208,7 +4207,7 @@
                         <l n="5">iam dudum <app>
                                 <lem source="#Heins. #Baehr. #Schenkl">nullus</lem>
                                 <rdg wit="#ω #r #e #s #d2"
-                                    source="#u #p #h #t #Barth #Ulit. #Burm. #Glaeser #Keene, #def. #Ellis #(l. #l. #p. #91)"
+                                    source="#u #p #h #t #Barth #Ulit. #Burm. #Glaeser #Keene #def. #Ellis  #l."
                                     xml:id="rdg3.5nullis">nullis</rdg>
                                 <rdg wit="#edd.">et nullis</rdg>
                                 <rdgGrp type="corrMarg">
@@ -5489,7 +5488,7 @@
                             </app> inventa non irritus ecce iuvenca.</l>
                     </sp>
                 </div>
-                <div type="textpart" n="4">
+                <div type="textpart" n="4" xml:id="poem4">
                     <head>[Meliboeus, Corydon, Amyntas]</head>
                     <list type="speakers">
                         <item xml:id="Meliboeus">Meliboeus</item>
