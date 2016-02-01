@@ -32,107 +32,111 @@
                 <list type="sources">
                     <head>Sources for this Edition</head>
                     <item>
-                        <label>Manuscripts</label>
                         <listWit>
-                            <head>First family</head>
-                            <witness xml:id="N" n="N">Naples, Biblioteca Nazionale di Napoli V A 8,
-                                XV. <listWit>
-                                    <head>Hands</head>
-                                    <witness xml:id="N1" n="N¹">first hand</witness>
-                                    <witness xml:id="N2" n="N²">second hand</witness>
-                                    <witness xml:id="N3" n="N³">third hand</witness>
-                                </listWit>
-                            </witness>
-                            <witness xml:id="G" n="G">Florence, Biblioteca Medicea Laurenziana
-                                [Catalog Number] pl. 90, 12 inf , XV. <listWit>
-                                    <head>Hands</head>
-                                    <witness xml:id="G1" n="G¹">first hand</witness>
-                                    <witness xml:id="G2" n="G²">second hand</witness>
-                                </listWit></witness>
-                        </listWit>
-                        <listWit xml:id="V" n="V">
-                            <head>Second family</head>
-                            <witness xml:id="α" n="α">Milan, Biblioteca Ambrosiana O.74 sup., XV </witness>
-                            <witness xml:id="β" n="β">Milan, Biblioteca Ambrosiana I 26 sup., XV </witness>
-                            <witness xml:id="δ" n="δ">Wrocław, 1.4.11, XV. <listWit>
-                                    <head>Hands</head>
-                                    <witness xml:id="δ1" n="δ¹">first hand</witness>
-                                    <witness xml:id="δ2" n="δ²">second hand</witness>
-                                </listWit></witness>
-                            <witness xml:id="γ" n="γ">Vatican City, Vatican Library 3152, XV. <listWit>
-                                    <head>Hands</head>
-                                    <witness xml:id="γ1" n="γ¹">first hand</witness>
-                                    <witness xml:id="γ2" n="γ²">second hand</witness>
-                                </listWit></witness>
-                            <witness xml:id="λ" n="λ">Florence, Biblioteca Medicea Laurenziana
-                                [Catalog Number] Aed. 203, XV. <listWit>
-                                    <head>Hands</head>
-                                    <witness xml:id="λ1" n="λ¹">first hand</witness>
-                                    <witness xml:id="λ2" n="λ²">second hand</witness>
-                                </listWit></witness>
-                            <witness xml:id="ε" n="ε">Vatican City, Vatican Library Urbinas 353, XV </witness>
-                            <witness xml:id="μ" n="μ">Vatican City, Vatican Library 2110, XV. <listWit>
-                                    <head>Hands</head>
-                                    <witness xml:id="μ1" n="μ¹">first hand</witness>
-                                    <witness xml:id="μ2" n="μ²">second hand</witness>
-                                </listWit>
-                            </witness>
-                            <witness xml:id="κ" n="κ">Florence, Biblioteca Riccardiana 724, XVI </witness>
-                            <witness xml:id="φ" n="φ">Vatican City, Vatican Library Ottobonianus
-                                1466, XV </witness>
-                            <witness xml:id="χ" n="χ">Vatican City, Vatican Library Reginensis 1759,
-                                XV. <listWit>
-                                    <head>Hands</head>
-                                    <witness xml:id="χ1" n="χ¹">first hand</witness>
-                                    <witness xml:id="χ2" n="χ²">second hand</witness>
-                                </listWit>
-                            </witness>
-                            <witness xml:id="ν" n="ν">Florence, Biblioteca Medicea Laurenziana, pl. 37.14</witness>
-                            <witness xml:id="π" n="π">Vatican City, Vatican Library Palatinus 1652,
-                                XV. <listWit>
-                                    <head>Hands</head>
-                                    <witness xml:id="π1" n="μ¹">first hand</witness>
-                                    <witness xml:id="π2" n="μ²">second hand</witness>
-                                </listWit>
-                            </witness>
-                            <witness xml:id="η" n="η">Wrocław, 1.4.10, XV. <listWit>
-                                    <head>Hands</head>
-                                    <witness xml:id="η1" n="η¹">first hand</witness>
-                                    <witness xml:id="η2" n="η²">second hand</witness>
-                                </listWit></witness>
-                            <witness xml:id="ρ" n="ρ">Florence, Biblioteca Riccardiana 636, XV. <listWit>
-                                    <head>Hands</head>
-                                    <witness xml:id="ρ1" n="ρ¹">first hand</witness>
-                                    <witness xml:id="ρ2" n="ρ²">second hand</witness>
-                                </listWit></witness>
-                            <witness xml:id="θ" n="θ">Gotha, Forschungsbibliothek 55, XIV </witness>
-                            <witness xml:id="ζ" n="ζ">Florence, Biblioteca Riccardiana 974, XV
-                            </witness>
-                        </listWit>
-                        <listWit>
-                            <head>Third family</head>
-                            <witness xml:id="P" n="P">Paris, Bibliothèque Nationale 8049, XII. <listWit>
-                                    <head>Hands</head>
-                                    <witness xml:id="P1" n="P¹">first hand</witness>
-                                    <witness xml:id="P2" n="P²">second hand</witness>
-                                </listWit></witness>
-                        </listWit>
-                        <listWit>
-                            <head>Other codices</head>
-                            <witness xml:id="A" n="A">Florence, Biblioteca Riccardiana 636,
-                                XV</witness>
-                            <witness xml:id="H" n="H">London, British Library 2578</witness>
-                            <witness xml:id="ω" n="ω">codicum omnium consensus</witness>
-                            <witness xml:id="Exc.Par." n="Exc.Par.">exerpta quae in libris Parisinis
-                                7647 et 17903 extant.</witness>
-                            <witness xml:id="Exc.Bon." n="Exc.Bon.">excerpta quae extant in cod.
-                                Bonon. 83 (52, II n. 1)</witness>
+                            <head>Manuscripts</head>
+                            <listWit>
+                                <head>First family</head>
+                                <witness xml:id="N" n="N">Naples, Biblioteca Nazionale di Napoli V A
+                                    8, XV. <listWit>
+                                        <head>Hands</head>
+                                        <witness xml:id="N1" n="N¹">first hand</witness>
+                                        <witness xml:id="N2" n="N²">second hand</witness>
+                                        <witness xml:id="N3" n="N³">third hand</witness>
+                                    </listWit>
+                                </witness>
+                                <witness xml:id="G" n="G">Florence, Biblioteca Medicea Laurenziana
+                                    [Catalog Number] pl. 90, 12 inf , XV. <listWit>
+                                        <head>Hands</head>
+                                        <witness xml:id="G1" n="G¹">first hand</witness>
+                                        <witness xml:id="G2" n="G²">second hand</witness>
+                                    </listWit></witness>
+                            </listWit>
+                            <listWit xml:id="V" n="V">
+                                <head>Second family</head>
+                                <witness xml:id="α" n="α">Milan, Biblioteca Ambrosiana O.74 sup., XV </witness>
+                                <witness xml:id="β" n="β">Milan, Biblioteca Ambrosiana I 26 sup., XV </witness>
+                                <witness xml:id="δ" n="δ">Wrocław, 1.4.11, XV. <listWit>
+                                        <head>Hands</head>
+                                        <witness xml:id="δ1" n="δ¹">first hand</witness>
+                                        <witness xml:id="δ2" n="δ²">second hand</witness>
+                                    </listWit></witness>
+                                <witness xml:id="γ" n="γ">Vatican City, Vatican Library 3152, XV. <listWit>
+                                        <head>Hands</head>
+                                        <witness xml:id="γ1" n="γ¹">first hand</witness>
+                                        <witness xml:id="γ2" n="γ²">second hand</witness>
+                                    </listWit></witness>
+                                <witness xml:id="λ" n="λ">Florence, Biblioteca Medicea Laurenziana
+                                    [Catalog Number] Aed. 203, XV. <listWit>
+                                        <head>Hands</head>
+                                        <witness xml:id="λ1" n="λ¹">first hand</witness>
+                                        <witness xml:id="λ2" n="λ²">second hand</witness>
+                                    </listWit></witness>
+                                <witness xml:id="ε" n="ε">Vatican City, Vatican Library Urbinas 353,
+                                    XV </witness>
+                                <witness xml:id="μ" n="μ">Vatican City, Vatican Library 2110, XV. <listWit>
+                                        <head>Hands</head>
+                                        <witness xml:id="μ1" n="μ¹">first hand</witness>
+                                        <witness xml:id="μ2" n="μ²">second hand</witness>
+                                    </listWit>
+                                </witness>
+                                <witness xml:id="κ" n="κ">Florence, Biblioteca Riccardiana 724, XVI </witness>
+                                <witness xml:id="φ" n="φ">Vatican City, Vatican Library Ottobonianus
+                                    1466, XV </witness>
+                                <witness xml:id="χ" n="χ">Vatican City, Vatican Library Reginensis
+                                    1759, XV. <listWit>
+                                        <head>Hands</head>
+                                        <witness xml:id="χ1" n="χ¹">first hand</witness>
+                                        <witness xml:id="χ2" n="χ²">second hand</witness>
+                                    </listWit>
+                                </witness>
+                                <witness xml:id="ν" n="ν">Florence, Biblioteca Medicea Laurenziana,
+                                    pl. 37.14</witness>
+                                <witness xml:id="π" n="π">Vatican City, Vatican Library Palatinus
+                                    1652, XV. <listWit>
+                                        <head>Hands</head>
+                                        <witness xml:id="π1" n="μ¹">first hand</witness>
+                                        <witness xml:id="π2" n="μ²">second hand</witness>
+                                    </listWit>
+                                </witness>
+                                <witness xml:id="η" n="η">Wrocław, 1.4.10, XV. <listWit>
+                                        <head>Hands</head>
+                                        <witness xml:id="η1" n="η¹">first hand</witness>
+                                        <witness xml:id="η2" n="η²">second hand</witness>
+                                    </listWit></witness>
+                                <witness xml:id="ρ" n="ρ">Florence, Biblioteca Riccardiana 636, XV. <listWit>
+                                        <head>Hands</head>
+                                        <witness xml:id="ρ1" n="ρ¹">first hand</witness>
+                                        <witness xml:id="ρ2" n="ρ²">second hand</witness>
+                                    </listWit></witness>
+                                <witness xml:id="θ" n="θ">Gotha, Forschungsbibliothek 55, XIV </witness>
+                                <witness xml:id="ζ" n="ζ">Florence, Biblioteca Riccardiana 974, XV
+                                </witness>
+                            </listWit>
+                            <listWit>
+                                <head>Third family</head>
+                                <witness xml:id="P" n="P">Paris, Bibliothèque Nationale 8049, XII. <listWit>
+                                        <head>Hands</head>
+                                        <witness xml:id="P1" n="P¹">first hand</witness>
+                                        <witness xml:id="P2" n="P²">second hand</witness>
+                                    </listWit></witness>
+                            </listWit>
+                            <listWit>
+                                <head>Other codices</head>
+                                <witness xml:id="A" n="A">Florence, Biblioteca Riccardiana 636,
+                                    XV</witness>
+                                <witness xml:id="H" n="H">London, British Library 2578</witness>
+                                <witness xml:id="ω" n="ω">codicum omnium consensus</witness>
+                                <witness xml:id="Exc.Par." n="Exc.Par.">exerpta quae in libris
+                                    Parisinis 7647 et 17903 extant.</witness>
+                                <witness xml:id="Exc.Bon." n="Exc.Bon.">excerpta quae extant in cod.
+                                    Bonon. 83 (52, II n. 1)</witness>
+                            </listWit>
                         </listWit>
                     </item>
                     <item>
-                        <label>Early editions</label>
                         <!-- These editions are known as witnesses, since they may (or may not) be the only surviving witness to a manuscript -->
                         <listBibl type="witness">
+                            <head>Early editions</head>
                             <bibl xml:id="r" n="r">
                                 <editor/>
                                 <pubPlace>Rome</pubPlace>
@@ -198,8 +202,8 @@
                         </listBibl>
                     </item>
                     <item>
-                        <label>Modern editions</label>
                         <listBibl type="source">
+                            <head>Modern editions</head>
                             <!-- These editions are known as "sources" below, since they are "modern" editions (i.e., not single manuscript). -->
                             <bibl xml:id="b" n="b">
                                 <editor xml:id="Guid." n="Guid.">Diomede Guidalotti</editor>
@@ -481,8 +485,8 @@
                         </listBibl>
                     </item>
                     <item>
-                        <label>Secondary sources</label>
                         <listBibl>
+                            <head>Secondary sources</head>
                             <!-- Secondary sources -->
                             <bibl xml:id="BaehrLL" n="BaehrLL">
                                 <author ref="http://viaf.org/viaf/52432033">
@@ -1025,10 +1029,10 @@
                     </item>
                 </list>
                 <list>
-                    <label>Other abbreviations used in this edition</label>
+                    <head>Other abbreviations used in this edition</head>
                     <item>
-                        <label>Groups of manuscripts and/or editions</label>
                         <list>
+                            <head>Groups of manuscripts and/or editions</head>
                             <item xml:id="edd.">edd.: All editions not explicitly referenced
                                 elsewhere in an entry in the apparatus.</item>
                             <item xml:id="eddFereOmnes" n="edd. fere omnes">edd. fere omnes: Almost all editions</item>
@@ -1086,9 +1090,9 @@
                                 >Glaeser</ref>'s</item>
                         </list>
                     </item>
-                    <label>Other abbreviations</label>
                     <item>
                         <list>
+                            <head>Other abbreviations</head>
                             <item xml:id="Oudendorp" n="Oudendorp">Oudendorp = Frans van Oudendorp
                                     <ptr target="http://viaf.org/viaf/37257920"/>, cited in <ref
                                     target="#BurmAnth">Burman's <hi rend="italic">Anthologia Veterum

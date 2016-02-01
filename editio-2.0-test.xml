@@ -26,109 +26,115 @@
                 </respStmt>
                 <biblScope unit="vol">1</biblScope>
             </seriesStmt>
-            <sourceDesc>
+            <sourceDesc xml:id="sources">
                 <list type="sources">
                     <head>Sources for this Edition</head>
                     <item>
-                        <label>Manuscripts</label>
                         <listWit>
-                            <head>First family</head>
-                            <witness xml:id="N" n="N">Naples, Biblioteca Nazionale di Napoli V A 8,
-                                XV. <listWit>
-                                    <witness xml:id="N1" n="N¹">original hand of <ref target="#N">N</ref></witness>
-                                    <witness xml:id="N2" n="N²">second hand of <ref target="#N">N</ref></witness>
-                                    <witness xml:id="N3" n="N³">third hand of <ref target="#N">N</ref></witness>
-                                </listWit>
-                            </witness>
-                            <witness xml:id="G" n="G">Florence, Biblioteca Medicea Laurenziana
-                                [Catalog Number] pl. 90, 12 inf , XV. <listWit>
-                                    <witness xml:id="G1" n="G¹">G¹: original hand of <ref target="#G">G</ref></witness>
-                                    <witness xml:id="G2" n="G²">second hand</witness>
-                                </listWit></witness>
-                        </listWit>
-                        <listWit xml:id="V" n="V">
-                            <head>Second family</head>
-                            <witness xml:id="α" n="α">Milan, Biblioteca Ambrosiana O.74 sup., XV </witness>
-                            <witness xml:id="β" n="β">Milan, Biblioteca Ambrosiana I 26 sup., XV </witness>
-                            <witness xml:id="δ" n="δ">Wrocław, 1.4.11, XV. <listWit>
-                                    <head>Hands</head>
-                                    <witness xml:id="δ1" n="δ¹">first hand</witness>
-                                    <witness xml:id="δ2" n="δ²">second hand</witness>
-                                </listWit></witness>
-                            <witness xml:id="γ" n="γ">Vatican City, Vatican Library 3152, XV. <listWit>
-                                    <head>Hands</head>
-                                    <witness xml:id="γ1" n="γ¹">first hand</witness>
-                                    <witness xml:id="γ2" n="γ²">second hand</witness>
-                                </listWit></witness>
-                            <witness xml:id="λ" n="λ">Florence, Biblioteca Medicea Laurenziana
-                                [Catalog Number] Aed. 203, XV. <listWit>
-                                    <head>Hands</head>
-                                    <witness xml:id="λ1" n="λ¹">first hand</witness>
-                                    <witness xml:id="λ2" n="λ²">second hand</witness>
-                                </listWit></witness>
-                            <witness xml:id="ε" n="ε">Vatican City, Vatican Library Urbinas 353, XV </witness>
-                            <witness xml:id="μ" n="μ">Vatican City, Vatican Library 2110, XV. <listWit>
-                                    <head>Hands</head>
-                                    <witness xml:id="μ1" n="μ¹">first hand</witness>
-                                    <witness xml:id="μ2" n="μ²">second hand</witness>
-                                </listWit>
-                            </witness>
-                            <witness xml:id="κ" n="κ">Florence, Biblioteca Riccardiana 724, XVI </witness>
-                            <witness xml:id="φ" n="φ">Vatican City, Vatican Library Ottobonianus
-                                1466, XV </witness>
-                            <witness xml:id="χ" n="χ">Vatican City, Vatican Library Reginensis 1759,
-                                XV. <listWit>
-                                    <head>Hands</head>
-                                    <witness xml:id="χ1" n="χ¹">first hand</witness>
-                                    <witness xml:id="χ2" n="χ²">second hand</witness>
-                                </listWit>
-                            </witness>
-                            <witness xml:id="ν" n="ν">Florence, Biblioteca Medicea Laurenziana, pl. 37.14</witness>
-                            <witness xml:id="π" n="π">Vatican City, Vatican Library Palatinus 1652,
-                                XV. <listWit>
-                                    <head>Hands</head>
-                                    <witness xml:id="π1" n="μ¹">first hand</witness>
-                                    <witness xml:id="π2" n="μ²">second hand</witness>
-                                </listWit>
-                            </witness>
-                            <witness xml:id="η" n="η">Wrocław, 1.4.10, XV. <listWit>
-                                    <head>Hands</head>
-                                    <witness xml:id="η1" n="η¹">first hand</witness>
-                                    <witness xml:id="η2" n="η²">second hand</witness>
-                                </listWit></witness>
-                            <witness xml:id="ρ" n="ρ">Florence, Biblioteca Riccardiana 636, XV. <listWit>
-                                    <head>Hands</head>
-                                    <witness xml:id="ρ1" n="ρ¹">first hand</witness>
-                                    <witness xml:id="ρ2" n="ρ²">second hand</witness>
-                                </listWit></witness>
-                            <witness xml:id="θ" n="θ">Gotha, Forschungsbibliothek 55, XIV </witness>
-                            <witness xml:id="ζ" n="ζ">Florence, Biblioteca Riccardiana 974, XV
-                            </witness>
-                        </listWit>
-                        <listWit>
-                            <head>Third family</head>
-                            <witness xml:id="P" n="P">Paris, Bibliothèque Nationale 8049, XII. <listWit>
-                                    <head>Hands</head>
-                                    <witness xml:id="P1" n="P¹">first hand</witness>
-                                    <witness xml:id="P2" n="P²">second hand</witness>
-                                </listWit></witness>
-                        </listWit>
-                        <listWit>
-                            <head>Other codices</head>
-                            <witness xml:id="A" n="A">Florence, Biblioteca Riccardiana 636,
-                                XV</witness>
-                            <witness xml:id="H" n="H">London, British Library 2578</witness>
-                            <witness xml:id="ω" n="ω">codicum omnium consensus</witness>
-                            <witness xml:id="Exc.Par." n="Exc.Par.">exerpta quae in libris Parisinis
-                                7647 et 17903 extant.</witness>
-                            <witness xml:id="Exc.Bon." n="Exc.Bon.">excerpta quae extant in cod.
-                                Bonon. 83 (52, II n. 1)</witness>
+                            <head>Manuscripts</head>
+                            <listWit>
+                                <head>First family</head>
+                                <witness xml:id="N" n="N">Naples, Biblioteca Nazionale di Napoli V A
+                                    8, XV. <listWit>
+                                        <head>Hands</head>
+                                        <witness xml:id="N1" n="N¹">first hand</witness>
+                                        <witness xml:id="N2" n="N²">second hand</witness>
+                                        <witness xml:id="N3" n="N³">third hand</witness>
+                                    </listWit>
+                                </witness>
+                                <witness xml:id="G" n="G">Florence, Biblioteca Medicea Laurenziana
+                                    [Catalog Number] pl. 90, 12 inf , XV. <listWit>
+                                        <head>Hands</head>
+                                        <witness xml:id="G1" n="G¹">first hand</witness>
+                                        <witness xml:id="G2" n="G²">second hand</witness>
+                                    </listWit></witness>
+                            </listWit>
+                            <listWit xml:id="V" n="V">
+                                <head>Second family</head>
+                                <witness xml:id="α" n="α">Milan, Biblioteca Ambrosiana O.74 sup., XV </witness>
+                                <witness xml:id="β" n="β">Milan, Biblioteca Ambrosiana I 26 sup., XV </witness>
+                                <witness xml:id="δ" n="δ">Wrocław, 1.4.11, XV. <listWit>
+                                        <head>Hands</head>
+                                        <witness xml:id="δ1" n="δ¹">first hand</witness>
+                                        <witness xml:id="δ2" n="δ²">second hand</witness>
+                                    </listWit></witness>
+                                <witness xml:id="γ" n="γ">Vatican City, Vatican Library 3152, XV. <listWit>
+                                        <head>Hands</head>
+                                        <witness xml:id="γ1" n="γ¹">first hand</witness>
+                                        <witness xml:id="γ2" n="γ²">second hand</witness>
+                                    </listWit></witness>
+                                <witness xml:id="λ" n="λ">Florence, Biblioteca Medicea Laurenziana
+                                    [Catalog Number] Aed. 203, XV. <listWit>
+                                        <head>Hands</head>
+                                        <witness xml:id="λ1" n="λ¹">first hand</witness>
+                                        <witness xml:id="λ2" n="λ²">second hand</witness>
+                                    </listWit></witness>
+                                <witness xml:id="ε" n="ε">Vatican City, Vatican Library Urbinas 353,
+                                    XV </witness>
+                                <witness xml:id="μ" n="μ">Vatican City, Vatican Library 2110, XV. <listWit>
+                                        <head>Hands</head>
+                                        <witness xml:id="μ1" n="μ¹">first hand</witness>
+                                        <witness xml:id="μ2" n="μ²">second hand</witness>
+                                    </listWit>
+                                </witness>
+                                <witness xml:id="κ" n="κ">Florence, Biblioteca Riccardiana 724, XVI </witness>
+                                <witness xml:id="φ" n="φ">Vatican City, Vatican Library Ottobonianus
+                                    1466, XV </witness>
+                                <witness xml:id="χ" n="χ">Vatican City, Vatican Library Reginensis
+                                    1759, XV. <listWit>
+                                        <head>Hands</head>
+                                        <witness xml:id="χ1" n="χ¹">first hand</witness>
+                                        <witness xml:id="χ2" n="χ²">second hand</witness>
+                                    </listWit>
+                                </witness>
+                                <witness xml:id="ν" n="ν">Florence, Biblioteca Medicea Laurenziana,
+                                    pl. 37.14</witness>
+                                <witness xml:id="π" n="π">Vatican City, Vatican Library Palatinus
+                                    1652, XV. <listWit>
+                                        <head>Hands</head>
+                                        <witness xml:id="π1" n="μ¹">first hand</witness>
+                                        <witness xml:id="π2" n="μ²">second hand</witness>
+                                    </listWit>
+                                </witness>
+                                <witness xml:id="η" n="η">Wrocław, 1.4.10, XV. <listWit>
+                                        <head>Hands</head>
+                                        <witness xml:id="η1" n="η¹">first hand</witness>
+                                        <witness xml:id="η2" n="η²">second hand</witness>
+                                    </listWit></witness>
+                                <witness xml:id="ρ" n="ρ">Florence, Biblioteca Riccardiana 636, XV. <listWit>
+                                        <head>Hands</head>
+                                        <witness xml:id="ρ1" n="ρ¹">first hand</witness>
+                                        <witness xml:id="ρ2" n="ρ²">second hand</witness>
+                                    </listWit></witness>
+                                <witness xml:id="θ" n="θ">Gotha, Forschungsbibliothek 55, XIV </witness>
+                                <witness xml:id="ζ" n="ζ">Florence, Biblioteca Riccardiana 974, XV
+                                </witness>
+                            </listWit>
+                            <listWit>
+                                <head>Third family</head>
+                                <witness xml:id="P" n="P">Paris, Bibliothèque Nationale 8049, XII. <listWit>
+                                        <head>Hands</head>
+                                        <witness xml:id="P1" n="P¹">first hand</witness>
+                                        <witness xml:id="P2" n="P²">second hand</witness>
+                                    </listWit></witness>
+                            </listWit>
+                            <listWit>
+                                <head>Other codices</head>
+                                <witness xml:id="A" n="A">Florence, Biblioteca Riccardiana 636,
+                                    XV</witness>
+                                <witness xml:id="H" n="H">London, British Library 2578</witness>
+                                <witness xml:id="ω" n="ω">codicum omnium consensus</witness>
+                                <witness xml:id="Exc.Par." n="Exc.Par.">exerpta quae in libris
+                                    Parisinis 7647 et 17903 extant.</witness>
+                                <witness xml:id="Exc.Bon." n="Exc.Bon.">excerpta quae extant in cod.
+                                    Bonon. 83 (52, II n. 1)</witness>
+                            </listWit>
                         </listWit>
                     </item>
                     <item>
-                        <label>Early editions</label>
                         <!-- These editions are known as witnesses, since they may (or may not) be the only surviving witness to a manuscript -->
                         <listBibl type="witness">
+                            <head>Early editions</head>
                             <bibl xml:id="r" n="r">
                                 <editor/>
                                 <pubPlace>Rome</pubPlace>
@@ -187,8 +193,8 @@
                         </listBibl>
                     </item>
                     <item>
-                        <label>Modern editions</label>
                         <listBibl type="source">
+                            <head>Modern editions</head>
                             <!-- These editions are known as "sources" below, since they are "modern" editions (i.e., not single manuscript). -->
                             <bibl xml:id="b" n="b">
                                 <editor xml:id="Guid." n="Guid.">Diomede Guidalotti</editor>
@@ -435,8 +441,8 @@
                         </listBibl>
                     </item>
                     <item>
-                        <label>Secondary sources</label>
                         <listBibl>
+                            <head>Secondary sources</head>
                             <!-- Secondary sources -->
                             <bibl xml:id="BaehrLL" n="BaehrLL">
                                 <author ref="http://viaf.org/viaf/52432033">
@@ -934,11 +940,11 @@
                     </item>
                 </list>
                 <list>
-                    <label>Other abbreviations used in this edition</label>
+                    <head>Other abbreviations used in this edition</head>
                     <item>
-                        <label>Groups of manuscripts and/or editions</label>
                         <list>
-                            <item xml:id="edd." n="edd.">edd.: All editions not explicitly referenced
+                            <head>Groups of manuscripts and/or editions</head>
+                            <item xml:id="edd.">edd.: All editions not explicitly referenced
                                 elsewhere in an entry in the apparatus.</item>
                             <item xml:id="eddFereOmnes" n="edd. fere omnes">edd. fere omnes: Almost all editions</item>
                             <item xml:id="i2Sqq" n="i2 sqq.">i2 sqq: <ref target="#i2">editio
@@ -986,9 +992,9 @@
                                 and all later editions up to <ref target="#Glaeser">Glaeser</ref>'s</item>
                         </list>
                     </item>
-                    <label>Other abbreviations</label>
                     <item>
                         <list>
+                            <head>Other abbreviations</head>
                             <item xml:id="Oudendorp" n="Oudendorp">Oudendorp = Frans van Oudendorp
                                     <ptr target="http://viaf.org/viaf/37257920"/>, cited in <ref target="#BurmAnth">Burman's <hi rend="italic">Anthologia Veterum
                                         Latinorum Epigrammatum et Poëmatum</hi></ref></item>
@@ -1010,21 +1016,17 @@
                 </list>
             </sourceDesc>
         </fileDesc>
-        <profileDesc>
-            <particDesc>
-                <listPerson>
-                    <person><persName>Corydon</persName></person>
-                    <person><persName>Ornytus</persName></person>
-                </listPerson>
-            </particDesc>
-        </profileDesc>
     </teiHeader>
     <text>
         <front> </front>
         <body>
             <div type="edition" xml:space="preserve">
                 <div type="textpart" n="1" xml:id="poem1">
-                    <head>1. [<persName ref="#Corydon">Corydon</persName>, <persName ref="#Ornytus">Ornytus</persName>]</head>
+                    <head>[Corydon, Ornytus]</head>
+                    <list type="speakers">
+                        <item xml:id="Corydon">Corydon</item>
+                        <item xml:id="Ornytus">Ornytus</item>
+                    </list>
                     <sp who="#Corydon">
                         <speaker>
                             <app><lem wit="#G #P #A #φ" source="#Ulit. #Wernsd. #GlaeserSqq">C.</lem><rdg wit="#N #π #χ" source="#p"/><rdg wit="#ε #β #γ #μ #ρ" source="#eddAnteGlaeser">O.</rdg></app>
@@ -1054,7 +1056,8 @@
                             <app><lem xml:id="lem1.7.O">O.</lem><rdgGrp type="corrOmission"><rdg wit="#N" varSeq="1"/><rdg wit="#N1" varSeq="2" copyOf="#lem1.7.O"/></rdgGrp></app>
                         </speaker>
                         <l n="8">Hoc potius, frater <app><lem wit="#χ #ε #δ #ρ2" source="#edd.">Corydon</lem><rdg wit="#N #G #β #ν #κ #λ #γ #μ #π #ρ1 #φ #α #η #r" source="#Barth">coridon</rdg><rdg wit="#P">corridon</rdg></app>, <app type="addMargin"><lem>nemus</lem><rdg wit="#G1"><add place="margin">nemora</add></rdg></app>, <app type="transposition"><lem wit="#N #G" source="#GlaeserSqq" xml:id="l8a1lem1" exclude="l9a1rdg1">antra</lem><rdg wit="#P #V" source="#eddAnteGlaeser" xml:id="l8a1rdg1" exclude="l9a1lem1">ista</rdg></app> petamus</l>
-                        <l n="9"><app type="transposition"><lem wit="#N #G" source="#GlaeserSqq" xml:id="l9a1lem1" exclude="#l8a1rdg1">ista</lem><rdg wit="#P #V" source="#eddAnteGlaeser" xml:id="l9a1rdg1" exclude="l8a1lem1">antra</rdg></app> patris Fauni, <app><lem>graciles</lem><rdg wit="#V">gracilis </rdg><note>edd. vett. accusativos eiusmodi fere semper in is exhibent</note></app> ubi pinea <app><lem wit="#G #A #P #λ2" source="#GlaeserSqq">denset</lem><rdg wit="#N">densent</rdg><rdg wit="#V" source="#eddAnteGlaeser">densat</rdg></app></l>
+                        <l n="9"><app type="transposition"><lem wit="#N #G" source="#GlaeserSqq" xml:id="l9a1lem1" exclude="#l8a1rdg1">ista</lem><rdg wit="#P #V" source="#eddAnteGlaeser" xml:id="l9a1rdg1" exclude="l8a1lem1">antra</rdg></app> patris Fauni, <app><lem>graciles</lem><rdg wit="#V">gracilis </rdg><note>edd. vett. accusativos eiusmodi fere semper in is
+                                    exhibent</note></app> ubi pinea <app><lem wit="#G #A #P #λ2" source="#GlaeserSqq">denset</lem><rdg wit="#N">densent</rdg><rdg wit="#V" source="#eddAnteGlaeser">densat</rdg></app></l>
                         <l n="10">silva comas <app><lem>rapidoque</lem><rdg source="#BaehrLL">rabidoque </rdg><note>(lect. lat. p. 35 <ptr target="https://books.google.com/books?id=a6FMAAAAcAAJ&amp;pg=PT38#v=onepage&amp;q&amp;f=false"/>)</note></app>
                             <app><lem>caput</lem><rdg wit="#G">capud</rdg></app> levat obvia soli,</l>
                         <l n="11"><app><lem>bullantes</lem><rdg wit="#ε #δ #e #d2">bullentes</rdg><rdg wit="#η #ν #φ #ρ2 #r #s">bullantis</rdg><rdg source="#Heins.">palantes</rdg></app>
@@ -1336,38 +1339,39 @@
                     </sp>
                 </div>
                 <div type="textpart" n="2" xml:id="poem2">
-                    <head>2. [Idas, Astacus, Thyrsis]</head>
+                    <head>[Idas, Astacus, Thyrsis]</head>
                     <list type="speakers">
                         <item xml:id="Idas">Idas</item>
                         <item xml:id="Astacus">Astacus</item>
                         <item xml:id="Thyrsis">Thrysis</item>
                     </list>
-                    <l n="1"><app><lem/><rdg wit="#P">hic loquitur poeta </rdg></app><app><lem>Intactam</lem><rdg wit="#P">ntantam</rdg></app>
-                        <app><lem wit="#γ #α">Crocalen</lem><note>edd.</note><rdg wit="#N #π #ρ1 #n">crotalem</rdg><rdg wit="#θ #ζ #r #p" source="#h #l1 #Barth #Vienn. #Ulit. #Glaeser #Keene">crotalen</rdg><rdg wit="#G #δ #ε #β #λ #μ #χ #ρ2">crocalem</rdg><rdg wit="#η #φ #ν #b" source="#o #i #1">crotalē</rdg><rdg wit="#P #κ">crocalē</rdg></app>
-                        <app><lem xml:id="lem2.11.1">puer</lem><rdg wit="#N" type="corrInRas"><add hand="#N3" place="inline" copyOf="#lem2.11.1"/></rdg></app>
+                    <witDetail wit="#P">hic loquitur poeta</witDetail>
+                    <l n="1"><app><lem>Intactam</lem><rdg wit="#P">ntantam</rdg></app>
+                        <app><lem wit="#γ #α">Crocalen</lem><note>edd.</note><rdg wit="#Ν #π #ρ1 #n">crotalem</rdg><rdg wit="#θ #ζ #r #p" source="#h #l1 #Barth #Vienn. #Ulit. #Glaeser #Keene">crotalen</rdg><rdg wit="#G #δ #ε #β #λ #μ #χ #ρ2">crocalem</rdg><rdg wit="#η #φ #ν #b" source="#o #i #1">crotalē</rdg><rdg wit="#P #κ">crocalē</rdg></app>
+                        <app><lem xml:id="lem2.11.1">puer</lem><rdg xml:id="bar" wit="#Ν" type="corrInRas"><add hand="#N3" place="inline" copyOf="#lem2.11.1"/></rdg></app>
                         <app><lem>Astacus</lem><rdg wit="#ε #χ #γ #ρ2 #ζ #u #e #b" source="#o #n #d2 #i2 #l2">asthacus</rdg><rdg wit="#μ #d1">astachus</rdg></app> et puer <app><lem>Idas</lem><rdg wit="#G #P">ydas</rdg><rdg wit="#δ">iddas</rdg><note>(item v. 2)</note></app>,</l>
-                    <l n="2"><app><lem>Idas</lem><rdg wit="#δ">iddas</rdg></app> lanigeri dominus gregis, Astacus <app><lem wit="#ρ2 #φ2 #ε #ν #λ #η #γ">horti</lem><rdg wit="#N #G #P #δ #α #β #κ #χ #μ #π #ρ1 #φ1">orti</rdg></app>,</l>
-                    <l n="3">dilexere diu, formosus uterque <app><lem wit="#A" source="#Modius #Ulit. #Barthius #Kempfer #BurmSqq">nec</lem><rdg wit="#N #G #P #V #eddAnteBurm">sed</rdg><rdg source="#Martell.">neque</rdg></app> impar</l>
-                    <l n="4">voce sonans. <app><lem source="#GlaeserSqq">hi cum terras</lem><rdg wit="#N #G">hy cum terras</rdg><rdg wit="#P" xml:id="rdgP2.11.4">hīc</rdg><witDetail wit="#P" target="#rdgP2.11.4">(om. <hi rend="italic">cum
+                    <l n="2"><app><lem>Idas</lem><rdg wit="#δ">iddas</rdg></app> lanigeri dominus gregis, Astacus <app><lem wit="#ρ2 #φ2 #ε #ν #λ #η #γ">horti</lem><rdg wit="#Ν #G #P #δ #α #β #κ #χ #μ #π #ρ1 #φ1">orti</rdg></app>,</l>
+                    <l n="3">dilexere diu, formosus uterque <app><lem wit="#A" source="#Modius #Ulit. #Barthius #Kempfer #BurmSqq">nec</lem><rdg wit="#Ν #G #P #V #eddAnteBurm">sed</rdg><rdg source="#Martell.">neque</rdg></app> impar</l>
+                    <l n="4">voce sonans. <app><lem source="#GlaeserSqq">hi cum terras</lem><rdg wit="#Ν #G">hy cum terras</rdg><rdg wit="#P" xml:id="rdgP2.11.4">hīc</rdg><witDetail wit="#P" target="#rdgP2.11.4">(om. <hi rend="italic">cum
                                     terras</hi>)</witDetail><rdg wit="#ν #κ #χ #μ #δ #λ2" source="#eddAnteGlaeser">terras hi
                                 cum</rdg><rdg wit="#β #λ1 #α #γ #π #ρ #φ #η #θ #ζ #r #s" source="#o #n">terras ii
                                 cum</rdg><rdg wit="#ε #d">terras vi cum</rdg><rdg wit="#e">terras iii cum</rdg><note>(!)</note></app>
-                        <app><lem>gravis</lem><rdg wit="#N" xml:id="rdgN2.11.4">graves</rdg><witDetail wit="#N" target="#rdgN2.11.4">(i ex e m3)</witDetail></app>
+                        <app><lem>gravis</lem><rdg wit="#Ν" xml:id="rdgN2.11.4">graves</rdg><witDetail wit="#N" target="#rdgN2.11.4">(i ex e m3)</witDetail></app>
                         <app><lem>ureret</lem><rdg wit="#P">urreret</rdg></app>
                         <app><lem>aestas</lem><rdg source="#b" type="margAddition" xml:id="rdgb2.11.4"><add place="margin">aestus</add></rdg><witDetail wit="#b" target="#rdgb2.11.4">doctus aliquis in mg. edit.
                                 Bon.</witDetail></app>,</l>
-                    <l n="5">ad gelidos fontes et easdem forte sub <app><lem wit="#N #G" source="#Glaeser #Keene #Schenkl">umbras</lem><rdg wit="#P #V" source="#edd.">ulmos</rdg><note>probavit <ref target="#Jacoby">Jacoby</ref> (Woch. f. kl. Phil.
+                    <l n="5">ad gelidos fontes et easdem forte sub <app><lem wit="#Ν #G" source="#Glaeser #Keene #Schenkl">umbras</lem><rdg wit="#P #V" source="#edd.">ulmos</rdg><note>probavit <ref target="#Jacoby">Jacoby</ref> (Woch. f. kl. Phil.
                                 III p. 1291)</note></app></l>
                     <l n="6">conveniunt dulcique simul <app><lem xml:id="lem2.11.6">contendere</lem><rdgGrp type="anteCorr"><rdg wit="#G" hand="#G1" varSeq="1">condendere</rdg><rdg wit="#G" hand="#G1" varSeq="2" copyOf="#lem2.11.6"/></rdgGrp></app> cantu</l>
                     <l n="7">pignoribusque parant: placet, hic <app><lem>ut</lem><rdg source="Baehr.">ne</rdg><rdg source="#g">et</rdg></app>
                         <app><lem>vellera</lem><rdg wit="#α">vulnera</rdg></app> septem,</l>
-                    <l n="8">ille sui victus ne messem <app><lem wit="#N1 #P #G" source="#edd.">vindicet</lem><rdg wit="#N2 #V #r #e #u #s #b" source="#o #n #p #i #l2 #g #Gryph. #Kempfer">vendicet</rdg><rdg wit="#d">vendicat</rdg><rdg source="#Heins.">venditet</rdg></app>
+                    <l n="8">ille sui victus ne messem <app><lem wit="#Ν1 #P #G" source="#edd.">vindicet</lem><rdg wit="#Ν2 #V #r #e #u #s #b" source="#o #n #p #i #l2 #g #Gryph. #Kempfer">vendicet</rdg><rdg wit="#d">vendicat</rdg><rdg source="#Heins.">venditet</rdg></app>
                         <app><lem>horti</lem><rdg source="#Heins.">horni</rdg></app>;</l>
-                    <l n="9">et magnum certamen <app><lem>erat</lem><rdg source="#Ascensius" xml:id="rdgAscensius2.11.9"><add place="unspecified">erant</add></rdg><note target="#rdgAscensius2.11.9">in notis</note><rdg source="#Heins." copyOf="#rdgAscensius2.11.9"/></app> sub iudice <app><lem wit="#γ #ε #ρ2 #ζ" source="#edd.">Thyrsi</lem><rdg wit="#G #P">tyrsi</rdg><rdg wit="#N1">tirsi</rdg><rdg wit="#N2 #π #φ #β #κ #α #ρ1 #λ #μ">tirso</rdg><rdg wit="#χ #δ1">tyrso</rdg><rdg wit="#δ2 #θ #η #ν #r #b" source="#n #o #i1 #l1 #Vienn.">thyrso</rdg><rdg wit="#s">thirso</rdg></app>.</l>
+                    <l n="9">et magnum certamen <app><lem>erat</lem><rdg source="#Ascensius" xml:id="rdgAscensius2.11.9"><add place="unspecified">erant</add></rdg><note target="#rdgAscensius2.11.9">in notis</note><rdg source="#Heins." copyOf="#rdgAscensius2.11.9"/></app> sub iudice <app><lem wit="#γ #ε #ρ2 #ζ" source="#edd.">Thyrsi</lem><rdg wit="#G #P">tyrsi</rdg><rdg wit="#Ν1">tirsi</rdg><rdg wit="#N2 #π #φ #β #κ #α #ρ1 #λ #μ">tirso</rdg><rdg wit="#χ #δ1">tyrso</rdg><rdg wit="#δ2 #θ #η #ν #r #b" source="#n #o #i1 #l1 #Vienn.">thyrso</rdg><rdg wit="#s">thirso</rdg></app>.</l>
                     <l n="10">affuit omne genus <app><lem xml:id="lem2.11.10">pecudum</lem><rdgGrp type="anteCorr"><rdg wit="#G" varSeq="1" xml:id="rdgPecorum">pecorum</rdg><rdg wit="#G" varSeq="2"><add place="above" copyOf="#lem2.11.10"/></rdg></rdgGrp><witDetail wit="#G" target="#rdgPecorum">quod def. <ref target="#LMueller">L. Mueller</ref> (l. l. p. 1071)</witDetail></app>, genus omne ferarum</l>
                     <l n="11">et <app><lem wit="#λ #χ2" source="#Ulit. #Schenkl">quodcumque</lem><rdg wit="#ω" source="#edd." xml:id="rdgω2.11.11">quaecumque</rdg><witDetail wit="#ω" target="#rdgω2.11.11">def. <ref target="#LMueller">L. Mueller</ref></witDetail></app>
                         <app><lem xml:id="lem2.11.11">vagis</lem><rdgGrp type="anteCorr"><rdg wit="#G" hand="#G1" varSeq="1" xml:id="rdg2.11.11">magis</rdg><rdg wit="#G" hand="#G1" varSeq="2" copyOf="#lem2.11.11"/></rdgGrp><rdg wit="#μ" copyOf="#rdg2.11.11"/></app>
-                        <app><lem wit="#N #G #P #β #μ #κ #ρ1 #η #φ #κ #ν #π #r #s" source="#t #Guid. #Ulit. #Burm. #Beck #Glaeser #Keene #Schenkl">altum</lem><rdg wit="#ε #γ #δ #ρ2 #ζ #d2 #u #e #b" source="#o #n #i #p #h #g #l2 #Titus #Gebhardt #Wernsd.">alitum</rdg><rdg wit="#λ" source="#Bart. #LMueller #Baehr.">avium</rdg><rdg wit="#α">ales</rdg></app> ferit aera pennis.</l>
+                        <app><lem wit="#Ν #G #P #β #μ #κ #ρ1 #η #φ #κ #ν #π #r #s" source="#t #Guid. #Ulit. #Burm. #Beck #Glaeser #Keene #Schenkl">altum</lem><rdg wit="#ε #γ #δ #ρ2 #ζ #d2 #u #e #b" source="#o #n #i #p #h #g #l2 #Titus #Gebhardt #Wernsd.">alitum</rdg><rdg wit="#λ" source="#Bart. #LMueller #Baehr.">avium</rdg><rdg wit="#α">ales</rdg></app> ferit aera pennis.</l>
                     <l n="12">convenit umbrosa quicumque sub <app><lem>ilice</lem><rdg wit="#N #μ #π">illice</rdg><rdg wit="#G">ylice</rdg></app>
                         <app><lem>lentus</lem><rdg wit="#κ #χ #ρ2" source="#BaehrLL #Schenkl">lentus</rdg><rdg wit="#ω" source="#edd.">lentas</rdg><rdg wit="#ζ">lectas</rdg><rdg source="#Titius">laetas</rdg><note><ref target="#Friesemann">Friesemann</ref> (coll. crit. p.
                                 175)</note></app></l>
@@ -1618,7 +1622,7 @@
                     <l n="100">et decor et cantus et amor <app><lem>sociavit</lem><rdg wit="#G #r">sotiavit</rdg><rdg wit="#P">sosciavit</rdg><rdg wit="#λ1">sociat</rdg><rdg wit="#κ">socia<add hand="#κ1" place="inline">t</add></rdg><rdg wit="#λ">satiavit</rdg></app> et aetas'.</l>
                 </div>
                 <div type="textpart" n="3" xml:id="poem3">
-                    <head>3. [Iollas, Lycidas]</head>
+                    <head>[Iollas, Lycidas]</head>
                     <list type="speakers">
                         <item xml:id="Iollas">Iollas</item>
                         <item xml:id="Lycidas">Lycidas</item>
@@ -1830,7 +1834,7 @@
                     </sp>
                 </div>
                 <div type="textpart" n="4" xml:id="poem4">
-                    <head>4. [Meliboeus, Corydon, Amyntas]</head>
+                    <head>[Meliboeus, Corydon, Amyntas]</head>
                     <list type="speakers">
                         <item xml:id="Meliboeus">Meliboeus</item>
                         <item><ref target="#Corydon">Corydon</ref></item>
@@ -2251,8 +2255,9 @@
                                     618 <ptr target="https://books.google.com/books?id=vABMAAAAYAAJ&amp;pg=PA618#v=onepage&amp;q&amp;f=false"/>)</note><rdg wit="#s">hei mihi</rdg><rdg wit="#d2">ey mihi</rdg></app>
                             <app><lem source="#Glaeser #Baehr. #Schenkl1">quae tereti</lem><rdgGrp type="MSVariants"><rdg wit="#N">que teriti</rdg><rdg wit="#N2">que tereti</rdg></rdgGrp><rdg wit="#G">quae teriti</rdg><rdg wit="#V" source="#edd.">quam tenero</rdg><rdg wit="#H">quam tereri</rdg><rdg source="#o #Beck">quae tenero</rdg><rdg source="#Haupt #Keene #Leo #Schenkl2">quam tereti</rdg></app>
                             <app><lem wit="#V" source="#edd.">decurrunt</lem><rdg wit="#N #G" source="#Glaeser #Baehr. #Schenkl #Leo">decurrent</rdg><rdg wit="#λ">docuerunt</rdg><rdg source="#Barth #Friesemann #Beck" xml:id="rdg4.152quae_currunt">quae currunt</rdg><note target="#rdg4.152quae_currunt"><ref target="#Friesemann">Friesemann</ref> (coll. crit. p. 177 <ptr target="https://books.google.com/books?id=hu5WAAAAcAAJ&amp;pg=PA177#v=onepage&amp;q&amp;f=false"/>)</note><rdg source="#Haupt #Keene">decurrens</rdg></app>
-                            <app><lem>carmina versu</lem><rdg source="#Haupt #Keene">carmine versus</rdg><rdg source="#Titius">carmina mensu</rdg></app><app><note target="#C4.152Line">"post 152 excidit versus in quo fuit <hi rend="italic">quae triviale</hi> (<hi rend="italic">riviale</hi>
-                            errore typoth.) vel tale quid" <ref target="#Schenkl2">Schenkl2</ref></note></app></l>
+                            <app><lem>carmina versu</lem><rdg source="#Haupt #Keene">carmine versus</rdg><rdg source="#Titius">carmina mensu</rdg></app></l>
+                        <note target="#C4.152Line">"post 152 excidit versus in quo fuit <hi rend="italic">quae triviale</hi> (<hi rend="italic">riviale</hi>
+                            errore typoth.) vel tale quid" <ref target="#Schenkl2">Schenkl2</ref></note>
                         <l n="153" xml:id="C4.153Line"><app><lem><app><lem wit="#V #r #s" source="#o #n #Haupt #Baehr. #Schenkl1 #Ellis">tunc</lem><rdg wit="#N #G" source="#Schenkl2">nunc</rdg><rdg wit="#ε #γ" source="#edd.">tum</rdg><rdg source="#Glaeser">dum</rdg></app>, Meliboee, <app><lem wit="#ε #γ #ρ2" source="#edd.">sonent</lem><rdg wit="#ω #r" source="#Schenkl2">sonant</rdg><rdg source="#Baehr.">meum</rdg><rdg source="#Schenkl1">mihi</rdg><rdg source="#Ellis" xml:id="rdg4.153sona">sona</rdg><note target="#rdg4.153sona"><ref target="#Ellis">Ellis</ref> (l. l. p. 91 <ptr target="https://books.google.com/books?id=tl4bu49MEyIC&amp;dq=editions%3AkJBBtxu-RskC&amp;pg=PA91#v=onepage&amp;q=ellis&amp;f=false"/>)</note><rdg source="#Haupt #Keene #Leo">sonet</rdg></app></lem><rdg source="#Leo" xml:id="rdg4.153Leo">nunc triviale sonant</rdg><note target="#rdg4.153Leo">(l. l. p. 618 <ptr target="https://books.google.com/books?id=vABMAAAAYAAJ&amp;pg=PA618#v=onepage&amp;q&amp;f=false"/>)</note></app>, si quando <app><lem wit="#G #φ" source="#Haupt #Baehr. #Leo #Schenkl">montibus</lem><rdg wit="#N #V #H" source="#edd.">in montibus</rdg></app> istis</l>
                         <l n="154"><app><lem>dicar</lem><rdg wit="#χ #μ #φ #ν #ρ1 #η #θ #r #d2" source="#i1 #l1">dicat</rdg></app> habere Larem, si quando nostra videre</l>
                         <app><lem xml:id="lem4.155ExcPar"><l n="155">pascua <app><lem wit="#N #G" source="#Glaeser #Schenkl #Keene">contingat</lem><rdg wit="#V" source="#edd.">contigerit</rdg></app>! <app><lem wit="#N" xml:id="lem4.155vellit">vellit</lem><witDetail wit="#N" target="#lem4.155vellit">(<hi rend="italic">i</hi> in ras.</witDetail></app>
