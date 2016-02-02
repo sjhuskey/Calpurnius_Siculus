@@ -2024,8 +2024,8 @@
                                 <lem>discordia</lem>
                                 <rdg source="#Beck #Leo">Discordia</rdg>
                                 <rdg wit="#Maehly">praecordia</rdg>
-                            </app><note target="#line1.57">totum locum nondum correctum esse <ref
-                                    target="#Ramorino">F. Ramorino</ref> iure suspicatur</note>
+                            </app><app><note target="#line1.57">totum locum nondum correctum esse <ref
+                                    target="#Ramorino">F. Ramorino</ref> iure suspicatur</note></app>
                             ferro:</l>
                         <l n="58">omne procul vitium simulatae cedere pacis</l>
                         <l n="59">iussit et <app>
@@ -2335,8 +2335,6 @@
                                     scintillans lumine</rdg>
                                 <note target="#rdg1.81spargitur">Not. crit. p. 86</note>
                             </app> lampas?</l>
-                        <note><q/>
-                            <ref target="#Nodell">Nodell</ref> (Not. crit. p. 86)</note>
                         <l n="82">
                             <app>
                                 <lem>at</lem>
@@ -4232,7 +4230,7 @@
                     </sp>
                     <sp who="#Lycidas">
                         <speaker xml:id="speakerline6">L.</speaker>
-                        <note target="#speakerline6">§ praef. G (et sic usque ad ecl. finem).</note>
+                        <app><note target="#speakerline6">§ praef. G (et sic usque ad ecl. finem).</note></app>
                         <l n="7">Non satis <app>
                                 <lem>attendi</lem>
                                 <rdg wit="#P">atendi</rdg>
@@ -4844,9 +4842,9 @@
                             <app>
                                 <lem>misero</lem>
                                 <rdg wit="#φ #ν #θ #ρ1 #r" source="#Guid.">domina</rdg>
-                            </app><anchor xml:id="l51misero"/><note target="#l50sine"
+                            </app><anchor xml:id="l51misero"/><app><note target="#l50sine"
                                 targetEnd="#l51misero">sine-51 misero <hi rend="italic">om.</hi>
-                                <ref target="η">η</ref></note>, mihi lilia nigra videntur</l>
+                                <ref target="η">η</ref></note></app>, mihi lilia nigra videntur</l>
                         <l n="52">nec <app>
                                 <lem>sapiunt</lem>
                                 <rdg wit="#P" source="#i1 #l1 #Vienn.">sapient</rdg>
@@ -5351,9 +5349,9 @@
                                 <rdg wit="#α">fingetur</rdg>
                                 <rdg source="#Heins.">signentur</rdg>
                             </app> in arbore versus:</l>
-                        <l n="90" xml:id="l90">"credere, pastores, levibus nolite puellis;<note
+                        <l n="90" xml:id="l90">"credere, pastores, levibus nolite puellis;<app><note
                                 target="#l90"><hi rend="italic">habent</hi>
-                                <ref target="#Exc.Bon.">exc. Bon.</ref></note></l>
+                                <ref target="#Exc.Bon.">exc. Bon.</ref></note></app></l>
                         <l n="91"><app>
                                 <lem>Phyllida</lem>
                                 <rdg wit="#N #G">Phillida</rdg>
@@ -6887,10 +6885,10 @@
                                         copyOf="#lem.94abes"
                                         exclude="#lem4.93iam #rdg4.93tam #rdg4.93esse #rdg4.93ipse #rdg4.93ipse #rdg4.93ipsi #rdg4.93isse-Glaeser"
                                     />
-                                </app><note target="#C4.93GlaeserNote"><hi rend="italic"
+                                </app><app><note target="#C4.93GlaeserNote"><hi rend="italic"
                                     >isse</hi>-94 <hi rend="italic">aves</hi> vel <hi rend="italic"
                                         >tam-ecce-</hi>94 <hi rend="italic">abes</hi>
-                                    <ref target="#Glaeser">Glaeser</ref></note>, <app>
+                                    <ref target="#Glaeser">Glaeser</ref></note></app>, <app>
                                     <lem>posito</lem>
                                     <rdg wit="#N #G"/>
                                 </app>
@@ -6967,7 +6965,7 @@
                         <speaker>C.</speaker>
                         <lg type="strophe" n="4" xml:id="C4strophe4">
                             <l n="97" xml:id="C4.97">Aspicis, ut virides audito Caesare silvae</l>
-                            <note target="#C4.97">Carmen amoebaeum, quod vocatur, cum ex impari
+                            <app><note target="#C4.97">Carmen amoebaeum, quod vocatur, cum ex impari
                                 stropharum numero constare nequeat, in hac ecloga integrum non esses
                                     <ref target="#GHermann">G. Hermann</ref> (ad Bion. et Mosch. p.
                                     46<ptr
@@ -6995,7 +6993,7 @@
                                     target="C4strophe13">XIII</ref> invicem sibi respondeant, visum
                                 est lacunem post <ref target="C4strophe3">III</ref> constituere et
                                     <ref target="C4strophe11">XI</ref> transponere ante <ref
-                                    target="C4strophe8">VIII</ref>.</note>
+                                    target="C4strophe8">VIII</ref>.</note></app>
                             <l n="98">conticeant? <app>
                                     <lem>memini</lem>
                                     <rdg wit="#N">nemini</rdg>
@@ -7903,11 +7901,11 @@
                                 <lem>carmina versu</lem>
                                 <rdg source="#Haupt #Keene">carmine versus</rdg>
                                 <rdg source="#Titius">carmina mensu</rdg>
-                            </app></l>
-                        <note target="#C4.152Line">"post 152 excidit versus in quo fuit <hi
+                            </app><app><note target="#C4.152Line">"post 152 excidit versus in quo fuit <hi
                                 rend="italic">quae triviale</hi> (<hi rend="italic">riviale</hi>
                             errore typoth.) vel tale quid" <ref target="#Schenkl2"
-                            >Schenkl2</ref></note>
+                            >Schenkl2</ref></note></app></l>
+                        
                         <l n="153" xml:id="C4.153Line"><app>
                                 <lem><app>
                                         <lem wit="#V #r #s"
