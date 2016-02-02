@@ -28,7 +28,7 @@
                 </respStmt>
                 <biblScope unit="vol">1</biblScope>
             </seriesStmt>
-            <sourceDesc>
+            <sourceDesc xml:id="sources">
                 <list type="sources">
                     <head>Sources for this Edition</head>
                     <item>
