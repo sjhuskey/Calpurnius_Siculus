@@ -38,7 +38,6 @@
                                 <head>First family</head>
                                 <witness xml:id="N" n="N">Naples, Biblioteca Nazionale di Napoli V A
                                     8, XV. <listWit>
-                                        <head>Hands</head>
                                         <witness xml:id="N1" n="N¹">first hand</witness>
                                         <witness xml:id="N2" n="N²">second hand</witness>
                                         <witness xml:id="N3" n="N³">third hand</witness>
@@ -46,7 +45,6 @@
                                 </witness>
                                 <witness xml:id="G" n="G">Florence, Biblioteca Medicea Laurenziana
                                     [Catalog Number] pl. 90, 12 inf , XV. <listWit>
-                                        <head>Hands</head>
                                         <witness xml:id="G1" n="G¹">first hand</witness>
                                         <witness xml:id="G2" n="G²">second hand</witness>
                                     </listWit></witness>
@@ -56,25 +54,21 @@
                                 <witness xml:id="α" n="α">Milan, Biblioteca Ambrosiana O.74 sup., XV </witness>
                                 <witness xml:id="β" n="β">Milan, Biblioteca Ambrosiana I 26 sup., XV </witness>
                                 <witness xml:id="δ" n="δ">Wrocław, 1.4.11, XV. <listWit>
-                                        <head>Hands</head>
                                         <witness xml:id="δ1" n="δ¹">first hand</witness>
                                         <witness xml:id="δ2" n="δ²">second hand</witness>
                                     </listWit></witness>
                                 <witness xml:id="γ" n="γ">Vatican City, Vatican Library 3152, XV. <listWit>
-                                        <head>Hands</head>
                                         <witness xml:id="γ1" n="γ¹">first hand</witness>
                                         <witness xml:id="γ2" n="γ²">second hand</witness>
                                     </listWit></witness>
                                 <witness xml:id="λ" n="λ">Florence, Biblioteca Medicea Laurenziana
                                     [Catalog Number] Aed. 203, XV. <listWit>
-                                        <head>Hands</head>
                                         <witness xml:id="λ1" n="λ¹">first hand</witness>
                                         <witness xml:id="λ2" n="λ²">second hand</witness>
                                     </listWit></witness>
                                 <witness xml:id="ε" n="ε">Vatican City, Vatican Library Urbinas 353,
                                     XV </witness>
                                 <witness xml:id="μ" n="μ">Vatican City, Vatican Library 2110, XV. <listWit>
-                                        <head>Hands</head>
                                         <witness xml:id="μ1" n="μ¹">first hand</witness>
                                         <witness xml:id="μ2" n="μ²">second hand</witness>
                                     </listWit>
@@ -84,7 +78,6 @@
                                     1466, XV </witness>
                                 <witness xml:id="χ" n="χ">Vatican City, Vatican Library Reginensis
                                     1759, XV. <listWit>
-                                        <head>Hands</head>
                                         <witness xml:id="χ1" n="χ¹">first hand</witness>
                                         <witness xml:id="χ2" n="χ²">second hand</witness>
                                     </listWit>
@@ -93,18 +86,15 @@
                                     pl. 37.14</witness>
                                 <witness xml:id="π" n="π">Vatican City, Vatican Library Palatinus
                                     1652, XV. <listWit>
-                                        <head>Hands</head>
                                         <witness xml:id="π1" n="μ¹">first hand</witness>
                                         <witness xml:id="π2" n="μ²">second hand</witness>
                                     </listWit>
                                 </witness>
                                 <witness xml:id="η" n="η">Wrocław, 1.4.10, XV. <listWit>
-                                        <head>Hands</head>
                                         <witness xml:id="η1" n="η¹">first hand</witness>
                                         <witness xml:id="η2" n="η²">second hand</witness>
                                     </listWit></witness>
                                 <witness xml:id="ρ" n="ρ">Florence, Biblioteca Riccardiana 636, XV. <listWit>
-                                        <head>Hands</head>
                                         <witness xml:id="ρ1" n="ρ¹">first hand</witness>
                                         <witness xml:id="ρ2" n="ρ²">second hand</witness>
                                     </listWit></witness>
@@ -115,7 +105,6 @@
                             <listWit>
                                 <head>Third family</head>
                                 <witness xml:id="P" n="P">Paris, Bibliothèque Nationale 8049, XII. <listWit>
-                                        <head>Hands</head>
                                         <witness xml:id="P1" n="P¹">first hand</witness>
                                         <witness xml:id="P2" n="P²">second hand</witness>
                                     </listWit></witness>
@@ -1122,7 +1111,7 @@
         <body>
             <div type="edition" xml:space="preserve">
                 <div type="textpart" n="1" xml:id="poem1">
-                    <head>[Corydon, Ornytus]</head>
+                    <head>1. [Corydon, Ornytus]</head>
                     <list type="speakers">
                         <item xml:id="Corydon">Corydon</item>
                         <item xml:id="Ornytus">Ornytus</item>
@@ -2598,7 +2587,7 @@
                     </sp>
                 </div>
                 <div type="textpart" n="2" xml:id="poem2">
-                    <head>[Idas, Astacus, Thyrsis]</head>
+                    <head>2. [Idas, Astacus, Thyrsis]</head>
                     <list type="speakers">
                         <item xml:id="Idas">Idas</item>
                         <item xml:id="Astacus">Astacus</item>
@@ -4157,7 +4146,7 @@
                         </app> et aetas'.</l>
                 </div>
                 <div type="textpart" n="3" xml:id="poem3">
-                    <head>[Iollas, Lycidas]</head>
+                    <head>3. [Iollas, Lycidas]</head>
                     <list type="speakers">
                         <item xml:id="Iollas">Iollas</item>
                         <item xml:id="Lycidas">Lycidas</item>
@@ -5491,7 +5480,7 @@
                     </sp>
                 </div>
                 <div type="textpart" n="4" xml:id="poem4">
-                    <head>[Meliboeus, Corydon, Amyntas]</head>
+                    <head>4. [Meliboeus, Corydon, Amyntas]</head>
                     <list type="speakers">
                         <item xml:id="Meliboeus">Meliboeus</item>
                         <item><ref target="#Corydon">Corydon</ref></item>

@@ -1011,7 +1011,7 @@
         <body>
             <div type="edition" xml:space="preserve">
                 <div type="textpart" n="1" xml:id="poem1">
-                    <head>[Corydon, Ornytus]</head>
+                    <head>1. [Corydon, Ornytus]</head>
                     <list type="speakers">
                         <item xml:id="Corydon">Corydon</item>
                         <item xml:id="Ornytus">Ornytus</item>
@@ -1326,7 +1326,7 @@
                     </sp>
                 </div>
                 <div type="textpart" n="2" xml:id="poem2">
-                    <head>[Idas, Astacus, Thyrsis]</head>
+                    <head>2. [Idas, Astacus, Thyrsis]</head>
                     <list type="speakers">
                         <item xml:id="Idas">Idas</item>
                         <item xml:id="Astacus">Astacus</item>
@@ -1609,7 +1609,7 @@
                     <l n="100">et decor et cantus et amor <app><lem>sociavit</lem><rdg wit="#G #r">sotiavit</rdg><rdg wit="#P">sosciavit</rdg><rdg wit="#λ1">sociat</rdg><rdg wit="#κ">socia<add hand="#κ1" place="inline">t</add></rdg><rdg wit="#λ">satiavit</rdg></app> et aetas'.</l>
                 </div>
                 <div type="textpart" n="3" xml:id="poem3">
-                    <head>[Iollas, Lycidas]</head>
+                    <head>3. [Iollas, Lycidas]</head>
                     <list type="speakers">
                         <item xml:id="Iollas">Iollas</item>
                         <item xml:id="Lycidas">Lycidas</item>
@@ -1821,7 +1821,7 @@
                     </sp>
                 </div>
                 <div type="textpart" n="4" xml:id="poem4">
-                    <head>[Meliboeus, Corydon, Amyntas]</head>
+                    <head>4. [Meliboeus, Corydon, Amyntas]</head>
                     <list type="speakers">
                         <item xml:id="Meliboeus">Meliboeus</item>
                         <item><ref target="#Corydon">Corydon</ref></item>
