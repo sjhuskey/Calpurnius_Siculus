@@ -35,7 +35,7 @@
                         <label>Manuscripts</label>
                         <listWit>
                             <head>First family</head>
-                            <witness xml:id="N">
+                            <witness xml:id="N" n="N">
                                 <msDesc>
                                     <msIdentifier>
                                         <settlement>Naples</settlement>
@@ -48,41 +48,47 @@
                                     <msContents>
                                         <msItem n="1">
                                             <locus>1–36a</locus>
-                                            <title xml:lang="la">Catonis de agricultura liber</title>
+                                            <title xml:lang="la">Catonis de agricultura
+                                                liber</title>
                                         </msItem>
                                         <msItem n="2">
                                             <locus>40–101a</locus>
-                                            <title xml:lang="la">Varronis de re rustica libri tres</title>
+                                            <title xml:lang="la">Varronis de re rustica libri
+                                                tres</title>
                                         </msItem>
                                         <msItem n="3">
                                             <locus>101a–115b</locus>
-                                            <title xml:lang="la">Calpurnii et Nemesiani bucolia</title>
-                                            <note xml:lang="la">singula carmina inscriptionibus carent, sed
-                                                brevibus spatiis relictis inter se disiuncta sunt.</note>
-                                            <explicit xml:lang="la">Aureliani Nemesiani Cartaḡ bucol' explicit:
-                                                Deo gratias amen</explicit>
-                                            <note xml:lang="la">denique alia manus admodum recens, ut Bursian et Schenkl
-                                                intellexerunt, inscriptiones <hi rend="italic">Calpurnii eclogae</hi> et <hi
-                                                    rend="italic">Nemesiani eclogae</hi> apposuit</note>
+                                            <title xml:lang="la">Calpurnii et Nemesiani
+                                                bucolia</title>
+                                            <note xml:lang="la">singula carmina inscriptionibus
+                                                carent, sed brevibus spatiis relictis inter se
+                                                disiuncta sunt.</note>
+                                            <explicit xml:lang="la">Aureliani Nemesiani Cartaḡ
+                                                bucol' explicit: Deo gratias amen</explicit>
+                                            <note xml:lang="la">denique alia manus admodum recens,
+                                                ut Bursian et Schenkl intellexerunt, inscriptiones
+                                                  <hi rend="italic">Calpurnii eclogae</hi> et <hi
+                                                  rend="italic">Nemesiani eclogae</hi>
+                                                apposuit</note>
                                         </msItem>
                                     </msContents>
                                     <physDesc>
                                         <objectDesc form="codex">
-                                            <supportDesc material="membranaceus">
+                                            <supportDesc material="parch">
                                                 <support>
-                                                    <p>Membranaceus</p>
+                                                  <p>Membranaceus</p>
                                                 </support>
                                                 <extent>
-                                                    <measure unit="folios" quantity="116"/>
-                                                    <dimensions unit="mm">
-                                                        <height>261</height>
-                                                        <width>160</width>
-                                                    </dimensions>
+                                                  <measure unit="folios" quantity="116"/>
+                                                  <dimensions unit="mm">
+                                                  <height>261</height>
+                                                  <width>160</width>
+                                                  </dimensions>
                                                 </extent>
                                             </supportDesc>
                                             <layoutDesc>
-                                                <layout writtenLines="38">singulae paginae tricenos octonos
-                                                    versus habent</layout>
+                                                <layout writtenLines="38">singulae paginae tricenos
+                                                  octonos versus habent</layout>
                                             </layoutDesc>
                                         </objectDesc>
                                         <handDesc hands="3">
@@ -90,13 +96,13 @@
                                                 <p>Eius ipsius qui scripsit librum.</p>
                                             </handNote>
                                             <handNote xml:id="N2" n="N²" scope="major">
-                                                <p>Iterum codux eodem fere tempore correctus est, sed hic atque
-                                                    lillic secunda manus a priore haud facile distingui
-                                                    potest.</p>
+                                                <p>Iterum codux eodem fere tempore correctus est,
+                                                  sed hic atque lillic secunda manus a priore haud
+                                                  facile distingui potest.</p>
                                             </handNote>
                                             <handNote xml:id="N3" n="N³" scope="minor">
-                                                <p>Emendationes autem tertiae manus paucis tantum locis
-                                                    deprehendi</p>
+                                                <p>Emendationes autem tertiae manus paucis tantum
+                                                  locis deprehendi</p>
                                             </handNote>
                                         </handDesc>
                                     </physDesc>
@@ -107,33 +113,339 @@
                                     </history>
                                 </msDesc>
                             </witness>
-                            <witness xml:id="G" n="G">Florence, Biblioteca Medicea Laurenziana
-                                [Catalog Number] pl. 90, 12 inf , XV. <listWit>
-                                    <head>Hands</head>
-                                    <witness xml:id="G1" n="G¹">first hand</witness>
-                                    <witness xml:id="G2" n="G²">second hand</witness>
-                                </listWit></witness>
+                            <witness xml:id="G" n="G">
+                                <msDesc>
+                                    <msIdentifier>
+                                        <settlement>Florence</settlement>
+                                        <repository>Biblioteca Medicea Laurenziana</repository>
+                                        <idno>plut. 90, 12 inf.</idno>
+                                    </msIdentifier>
+                                    <msContents>
+                                        <msItem n="1">
+                                            <locus>1–44</locus>
+                                            <title xml:lang="la">Francisci Petrarchae eclogae
+                                                duodecim</title>
+                                        </msItem>
+                                        <msItem n="2">
+                                            <locus>45–51</locus>
+                                            <title xml:lang="la">Vergilii Maronis Culex</title>
+                                        </msItem>
+                                        <msItem n="3">
+                                            <locus>52–55</locus>
+                                            <title xml:lang="la">Vergilii Maronis liber
+                                                Dirarum</title>
+                                        </msItem>
+                                        <msItem n="4">
+                                            <locus>55–74</locus>
+                                            <title xml:lang="la">Calpurnius et Nemesianus</title>
+                                        </msItem>
+                                    </msContents>
+                                    <physDesc>
+                                        <objectDesc form="codex">
+                                            <supportDesc material="paper">
+                                                <support>
+                                                  <p>Chartaceus.</p>
+                                                </support>
+                                                <extent>
+                                                  <measure unit="folios" quantity="74"/>
+                                                  <dimensions unit="mm">
+                                                  <height>294</height>
+                                                  <width>225</width>
+                                                  </dimensions>
+                                                </extent>
+                                            </supportDesc>
+                                        </objectDesc>
+                                        <handDesc hands="2">
+                                            <handNote xml:id="G1" n="G¹" sameAs="#G">Correctiones
+                                                fere omnes addidit ipse librarius, qui vel scribendi
+                                                errores in versibus sustulit vel varias lectiones
+                                                margini appinxit.</handNote>
+                                            <handNote xml:id="G2" n="G²">Nonnulla tamen sunt quae ab
+                                                alia manu profecta videntur.</handNote>
+                                        </handDesc>
+                                    </physDesc>
+                                    <history>
+                                        <origin>
+                                            <origDate notAfter="1500" notBefore="1400">XV</origDate>
+                                            <note>saec. XV ineunte scriptus</note>
+                                        </origin>
+                                    </history>
+                                </msDesc>
+                            </witness>
                         </listWit>
                         <listWit xml:id="V" n="V">
                             <head>Second family</head>
-                            <witness xml:id="α" n="α">Milan, Biblioteca Ambrosiana O.74 sup., XV </witness>
-                            <witness xml:id="β" n="β">Milan, Biblioteca Ambrosiana I 26 sup., XV </witness>
-                            <witness xml:id="δ" n="δ">Wrocław, 1.4.11, XV. <listWit>
-                                    <head>Hands</head>
-                                    <witness xml:id="δ1" n="δ¹">first hand</witness>
-                                    <witness xml:id="δ2" n="δ²">second hand</witness>
-                                </listWit></witness>
-                            <witness xml:id="γ" n="γ">Vatican City, Vatican Library 3152, XV. <listWit>
-                                    <head>Hands</head>
-                                    <witness xml:id="γ1" n="γ¹">first hand</witness>
-                                    <witness xml:id="γ2" n="γ²">second hand</witness>
-                                </listWit></witness>
-                            <witness xml:id="λ" n="λ">Florence, Biblioteca Medicea Laurenziana
-                                [Catalog Number] Aed. 203, XV. <listWit>
-                                    <head>Hands</head>
-                                    <witness xml:id="λ1" n="λ¹">first hand</witness>
-                                    <witness xml:id="λ2" n="λ²">second hand</witness>
-                                </listWit></witness>
+                            <witness xml:id="α" n="α">
+                                <msDesc>
+                                    <msIdentifier>
+                                        <settlement>Milan</settlement>
+                                        <repository>Biblioteca Ambrosiana</repository>
+                                        <idno>O 74 sup.</idno>
+                                    </msIdentifier>
+                                    <msContents>
+                                        <msItem n="1">
+                                            <title>poematia minora quae olim Vergilio
+                                                tribuebantur</title>
+                                        </msItem>
+                                        <msItem n="2">
+                                            <title xml:lang="la">Claudiani Alexandrini
+                                                epigrammata</title>
+                                        </msItem>
+                                        <msItem n="3">
+                                            <title xml:lang="la">Orestis fabula</title>
+                                        </msItem>
+                                        <msItem n="4">
+                                            <locus>112–133</locus>
+                                            <title xml:lang="la">Calpurnii XI eclogae</title>
+                                        </msItem>
+                                        <msItem n="5">
+                                            <title xml:lang="la">Ioviani Pontani Parthenopaeus et
+                                                duae elegiae</title>
+                                        </msItem>
+                                        <msItem n="6">
+                                            <title xml:lang="la">Antonii Panormitae ad Ioannem
+                                                Lamolam bononiensem elegia</title>
+                                        </msItem>
+                                        <msItem n="7">
+                                            <title xml:lang="la">Iani Pannonii epithalamium in
+                                                Salomonem Sacratum et Liberam Guarinam</title>
+                                        </msItem>
+                                        <msItem n="8">
+                                            <title xml:lang="la">carmen in Venetae urbis
+                                                laudem</title>
+                                        </msItem>
+                                        <msItem n="9">
+                                            <title xml:lang="la">carmen de ortu atque obitu
+                                                hermaphroditi</title>
+                                        </msItem>
+                                    </msContents>
+                                    <physDesc>
+                                        <objectDesc form="codex">
+                                            <supportDesc material="paper">
+                                                <support>
+                                                  <p>Chartaceus.</p>
+                                                </support>
+                                                <extent>
+                                                  <measure unit="folios" quantity="183"/>
+                                                  <dimensions unit="mm">
+                                                  <height>212</height>
+                                                  <width>145</width>
+                                                  </dimensions>
+                                                </extent>
+                                            </supportDesc>
+                                            <layoutDesc>
+                                                <layout writtenLines="25">Viceni quini versus sunt
+                                                  in paginis singulis</layout>
+                                            </layoutDesc>
+                                        </objectDesc>
+                                        <handDesc hands="2">
+                                            <handNote xml:id="α1" n="α¹" sameAs="#α">manus
+                                                prima</handNote>
+                                            <handNote xml:id="α2" n="α²">manus altera</handNote>
+                                        </handDesc>
+                                    </physDesc>
+                                    <history>
+                                        <origin>
+                                            <origDate notAfter="1500" notBefore="1400">XV</origDate>
+                                        </origin>
+                                    </history>
+                                </msDesc>
+                            </witness>
+                            <witness xml:id="β" n="β">
+                                <msDesc>
+                                    <msIdentifier>
+                                        <settlement>Milan</settlement>
+                                        <repository>Biblioteca Ambrosiana</repository>
+                                        <idno>I 26 sup.</idno>
+                                    </msIdentifier>
+                                    <msContents>
+                                        <msItem n="1">
+                                            <locus>1–30</locus>
+                                            <title xml:lang="la">Claudii Claudiani de raptu
+                                                Proserpinae</title>
+                                        </msItem>
+                                        <msItem n="2">
+                                            <locus>32–33</locus>
+                                            <title xml:lang="la">carmina de cantu avium et sono
+                                                quadrupedum</title>
+                                        </msItem>
+                                        <msItem n="3">
+                                            <locus>35–61</locus>
+                                            <title xml:lang="la">Calpurnii et Nemesiani bucolica uni
+                                                Calpurnio tributa</title>
+                                            <explicit xml:lang="la">die 4 augusti 1463 ego petrus
+                                                feliciter peregi</explicit>
+                                        </msItem>
+                                    </msContents>
+                                    <physDesc>
+                                        <objectDesc form="codex">
+                                            <supportDesc material="paper">
+                                                <support>
+                                                  <p>Chartaceus</p>
+                                                </support>
+                                                <extent>
+                                                  <measure unit="folios" quantity="61"/>
+                                                  <dimensions unit="mm">
+                                                  <height>214</height>
+                                                  <width>158</width>
+                                                  </dimensions>
+                                                </extent>
+                                            </supportDesc>
+                                            <layoutDesc>
+                                                <layout writtenLines="20">Singulae paginae vicenos
+                                                  versus habent</layout>
+                                            </layoutDesc>
+                                        </objectDesc>
+                                        <handDesc hands="2">
+                                            <handNote xml:id="β1" n="β¹" sameAs="#β">manus
+                                                prima</handNote>
+                                            <handNote xml:id="β2" n="β²">manus altera</handNote>
+                                        </handDesc>
+                                    </physDesc>
+                                    <history>
+                                        <origin>
+                                            <origDate notAfter="1500" notBefore="1400">XV</origDate>
+                                        </origin>
+                                    </history>
+                                </msDesc>
+                            </witness>
+                            <witness xml:id="δ" n="δ">
+                                <msDesc>
+                                    <msIdentifier>
+                                        <settlement>Vratislavia</settlement>
+                                        <repository>Bibliotheca Vratislavia</repository>
+                                        <idno>1. 4. 11</idno>
+                                    </msIdentifier>
+                                    <msContents>
+                                        <msItem n="1">
+                                            <locus>3.1–22.1</locus>
+                                            <title xml:lang="la">omnes XI eclogae Calpurnio
+                                                adscriptae sunt</title>
+                                        </msItem>
+                                    </msContents>
+                                    <physDesc>
+                                        <objectDesc form="codex">
+                                            <supportDesc material="paper">
+                                                <support>
+                                                  <p>Chartaceus.</p>
+                                                </support>
+                                                <extent>
+                                                  <measure unit="folios" quantity="115"/>
+                                                </extent>
+                                            </supportDesc>
+                                            <layoutDesc>
+                                                <layout writtenLines="26">Singulae paginae viginti
+                                                  sex versus continent.</layout>
+                                            </layoutDesc>
+                                        </objectDesc>
+                                        <handDesc hands="2">
+                                            <handNote xml:id="δ1" n="δ¹" sameAs="#δ">manus
+                                                prima</handNote>
+                                            <handNote xml:id="δ2" n="δ²">manus altera</handNote>
+                                        </handDesc>
+                                    </physDesc>
+                                    <history>
+                                        <origin>
+                                            <origDate notAfter="1500" notBefore="1400">XV</origDate>
+                                        </origin>
+                                    </history>
+                                </msDesc>
+                            </witness>
+                            <witness xml:id="γ" n="γ">
+                                <msDesc>
+                                    <msIdentifier>
+                                        <settlement>Vatican City</settlement>
+                                        <repository>Bibliotheca Apostolica Vaticana</repository>
+                                        <idno>3152</idno>
+                                    </msIdentifier>
+                                    <msContents>
+                                        <msItem n="1">
+                                            <locus>1–18a</locus>
+                                            <title xml:lang="la">Calpurnii undecim eclogae</title>
+                                        </msItem>
+                                    </msContents>
+                                    <physDesc>
+                                        <objectDesc form="codex">
+                                            <supportDesc material="paper">
+                                                <support>
+                                                  <p>Chartaceus</p>
+                                                </support>
+                                                <extent>
+                                                  <measure unit="folios" quantity="81"/>
+                                                  <dimensions unit="mm">
+                                                  <height>215</height>
+                                                  <width>147</width>
+                                                  </dimensions>
+                                                </extent>
+                                            </supportDesc>
+                                        </objectDesc>
+                                        <handDesc hands="2">
+                                            <handNote xml:id="γ1" n="γ¹" sameAs="#γ">manus
+                                                prima</handNote>
+                                            <handNote xml:id="γ2" n="γ²">manus altera</handNote>
+                                        </handDesc>
+                                    </physDesc>
+                                    <history>
+                                        <origin>
+                                            <origDate notAfter="1500" notBefore="1400">XV</origDate>
+                                        </origin>
+                                    </history>
+                                </msDesc>
+                            </witness>
+                            <witness xml:id="λ" n="λ">
+                                <msDesc>
+                                    <msIdentifier>
+                                        <settlement>Florence</settlement>
+                                        <repository>Biblioteca Laurenziana</repository>
+                                        <idno>bibl. Aed. 203</idno>
+                                    </msIdentifier>
+                                    <msContents>
+                                        <msItem n="1">
+                                            <locus>140–161</locus>
+                                            <title xml:lang="la">Calpurnii XI eclogae</title>
+                                        </msItem>
+                                        <msItem n="2">
+                                            <title xml:lang="la">Carmina Vergilii, Statii,
+                                                Claudiani, Maximiani aliorumque veterum
+                                                poetarum</title>
+                                            <explicit xml:lang="la">Georgii Ant. Vespuiceii
+                                                liber</explicit>
+                                        </msItem>
+                                    </msContents>
+                                    <physDesc>
+                                        <objectDesc form="codex">
+                                            <supportDesc material="paper">
+                                                <support>
+                                                  <p>Chartaceus.</p>
+                                                </support>
+                                                <extent>
+                                                  <measure unit="folios" quantity="188"/>
+                                                  <dimensions unit="mm">
+                                                  <height>223</height>
+                                                  <width>155</width>
+                                                  </dimensions>
+                                                </extent>
+                                            </supportDesc>
+                                            <layoutDesc>
+                                                <layout writtenLines="25">In singulis paginis viceni
+                                                  quini versus insunt.</layout>
+                                            </layoutDesc>
+                                        </objectDesc>
+                                        <handDesc hands="2">
+                                            <handNote xml:id="λ1" n="λ¹" sameAs="#λ">manus
+                                                prima</handNote>
+                                            <handNote xml:id="λ2" n="λ²">manus altera</handNote>
+                                        </handDesc>
+                                    </physDesc>
+                                    <history>
+                                        <origin>
+                                            <origDate notAfter="1500" notBefore="1400">XV</origDate>
+                                        </origin>
+                                        <provenance><p>olim bibliothecae Capituli S. M. de
+                                            Flore</p></provenance>
+                                    </history>
+                                </msDesc>
+                            </witness>
                             <witness xml:id="ε" n="ε">
                                 <msDesc>
                                     <msIdentifier>
@@ -143,7 +455,7 @@
                                     </msIdentifier>
                                     <msContents>
                                         <msItem n="1">
-                                            <locus>95a-113b</locus>
+                                            <locus>95a–113b</locus>
                                             <title xml:lang="la">Calpurnii eclogae XI</title>
                                             <explicit xml:lang="la">Federicus De Veteranis Urbinas
                                                 sub divo Federico Urbinat, duce invictiss. romanae
@@ -155,16 +467,26 @@
                                     </msContents>
                                     <physDesc>
                                         <objectDesc form="codex">
-                                            <supportDesc material="membranaceus">
+                                            <supportDesc material="parch">
                                                 <support>
-                                                  <p>Parchment.</p>
+                                                  <p>Membranaceus.</p>
                                                 </support>
-                                                <extent>309 folios</extent>
+                                                <extent>
+                                                  <measure unit="folios" quantity="309"/>
+                                                  <dimensions unit="mm">
+                                                  <height>387</height>
+                                                  <width>247</width>
+                                                  </dimensions>" </extent>
                                             </supportDesc>
+                                            <layoutDesc>
+                                                <layout writtenLines="29">In singulis paginis viceni
+                                                  noveni versus insunt.</layout>
+                                            </layoutDesc>
                                         </objectDesc>
                                         <handDesc hands="2">
-                                            <handNote xml:id="ε1" n="ε¹" sameAs="#ε">The hand that copied the text into the manuscript.</handNote>
-                                            <handNote xml:id="ε2" n="ε²">A later hand.</handNote>
+                                            <handNote xml:id="ε1" n="ε¹" sameAs="#ε">manus
+                                                prima</handNote>
+                                            <handNote xml:id="ε2" n="ε²">manus altera</handNote>
                                         </handDesc>
                                     </physDesc>
                                     <history>
@@ -173,57 +495,569 @@
                                         </origin>
                                     </history>
                                 </msDesc></witness>
-                            <witness xml:id="μ" n="μ">Vatican City, Vatican Library 2110, XV. <listWit>
-                                    <head>Hands</head>
-                                    <witness xml:id="μ1" n="μ¹">first hand</witness>
-                                    <witness xml:id="μ2" n="μ²">second hand</witness>
-                                </listWit>
+                            <witness xml:id="μ" n="μ">
+                                <msDesc>
+                                    <msIdentifier>
+                                        <settlement>Vatican City</settlement>
+                                        <repository>Bibliotheca Apostolica Vaticana</repository>
+                                        <idno>2110</idno>
+                                    </msIdentifier>
+                                    <msContents>
+                                        <msItem n="1">
+                                            <locus>1–56</locus>
+                                            <title xml:lang="la">Aristotelis Magnorum moralium
+                                                interpretatio latina</title>
+                                        </msItem>
+                                        <msItem n="2">
+                                            <locus>57–65a</locus>
+                                            <title xml:lang="la">Ciceronis topica</title>
+                                        </msItem>
+                                        <msItem n="3">
+                                            <locus>65a–67b</locus>
+                                            <title xml:lang="la">Boethii obss. in top.
+                                                Ciceronis</title>
+                                        </msItem>
+                                        <msItem n="4">
+                                            <locus>67b–80</locus>
+                                            <title xml:lang="la">Calpurnii undecim eclogae</title>
+                                        </msItem>
+                                        <msItem n="5">
+                                            <locus>81–120a</locus>
+                                            <title xml:lang="la">Sancti Ioannis Crysostomi de
+                                                dignitate sacerdotali dialogus</title>
+                                        </msItem>
+                                        <msItem n="6">
+                                            <locus>12b–128</locus>
+                                            <title xml:lang="la">vita Ioannis Crysostomi</title>
+                                        </msItem>
+                                    </msContents>
+                                    <physDesc>
+                                        <objectDesc form="codex">
+                                            <supportDesc material="parch">
+                                                <support>
+                                                  <p>Membranaceus.</p>
+                                                </support>
+                                                <extent>
+                                                  <measure unit="folios" quantity="128"/>
+                                                  <dimensions unit="mm">
+                                                  <height>284</height>
+                                                  <width>216</width>
+                                                  </dimensions>
+                                                </extent>
+                                            </supportDesc>
+                                            <layoutDesc>
+                                                <layout writtenLines="40 43">Singulae paginae habent
+                                                  quadragenos vel quadragenos singulos vel
+                                                  quadragenos ternos versus.</layout>
+                                            </layoutDesc>
+                                        </objectDesc>
+                                        <handDesc hands="2">
+                                            <handNote xml:id="μ1" n="μ¹" sameAs="#μ">manus
+                                                prima</handNote>
+                                            <handNote xml:id="μ2" n="μ²">manus altera</handNote>
+                                        </handDesc>
+                                    </physDesc>
+                                    <history>
+                                        <origin>
+                                            <origDate notAfter="1500" notBefore="1400">XV</origDate>
+                                        </origin>
+                                    </history>
+                                </msDesc>
                             </witness>
-                            <witness xml:id="κ" n="κ">Florence, Biblioteca Riccardiana 724, XVI </witness>
-                            <witness xml:id="φ" n="φ">Vatican City, Vatican Library Ottobonianus
-                                1466, XV </witness>
-                            <witness xml:id="χ" n="χ">Vatican City, Vatican Library Reginensis 1759,
-                                XV. <listWit>
-                                    <head>Hands</head>
-                                    <witness xml:id="χ1" n="χ¹">first hand</witness>
-                                    <witness xml:id="χ2" n="χ²">second hand</witness>
-                                </listWit>
+                            <witness xml:id="κ" n="κ">
+                                <msDesc>
+                                    <msIdentifier>
+                                        <settlement>Florence</settlement>
+                                        <repository>Biblioteca Riccardiana</repository>
+                                        <idno>724</idno>
+                                        <altIdentifier>
+                                            <idno>L IIII 10</idno>
+                                        </altIdentifier>
+                                    </msIdentifier>
+                                    <msContents>
+                                        <msItem n="1">
+                                            <locus>1–25a</locus>
+                                            <title xml:lang="la">Calpurnii eclogae undecim</title>
+                                        </msItem>
+                                    </msContents>
+                                    <physDesc>
+                                        <objectDesc form="codex">
+                                            <supportDesc material="parch">
+                                                <support>
+                                                  <p>Membranaceus</p>
+                                                </support>
+                                                <extent>
+                                                  <measure unit="folios" quantity="29"/>
+                                                  <dimensions unit="mm">
+                                                  <height>203</height>
+                                                  <width>136</width>
+                                                  </dimensions>
+                                                </extent>
+                                            </supportDesc>
+                                            <layoutDesc>
+                                                <layout writtenLines="22">Singulae paginae habent
+                                                  versus vicenos binos</layout>
+                                            </layoutDesc>
+                                        </objectDesc>
+                                        <handDesc hands="2">
+                                            <handNote xml:id="κ1" n="κ¹" sameAs="#κ">manus
+                                                prima</handNote>
+                                            <handNote xml:id="κ2" n="κ²">manus altera</handNote>
+                                        </handDesc>
+                                    </physDesc>
+                                    <history>
+                                        <origin>
+                                            <origDate notAfter="1500" notBefore="1400">XV</origDate>
+                                        </origin>
+                                    </history>
+                                </msDesc>
                             </witness>
-                            <witness xml:id="ν" n="ν">Vatican City, Vatican Library Palatinus 1652,
-                                XV </witness>
-                            <witness xml:id="π" n="π">Vatican City, Vatican Library Palatinus 1652,
-                                XV. <listWit>
-                                    <head>Hands</head>
-                                    <witness xml:id="π1" n="μ¹">first hand</witness>
-                                    <witness xml:id="π2" n="μ²">second hand</witness>
-                                </listWit>
+                            <witness xml:id="φ" n="φ">
+                                <msDesc>
+                                    <msIdentifier>
+                                        <settlement>Vatican City</settlement>
+                                        <repository>Bibliotheca Apostolica Vaticana</repository>
+                                        <idno>1466</idno>
+                                        <altIdentifier>
+                                            <idno>Altaempsianus</idno>
+                                        </altIdentifier>
+                                    </msIdentifier>
+                                    <msContents>
+                                        <msItem n="1">
+                                            <locus>1–24a</locus>
+                                            <title xml:lang="la">Calpurnii eclogae XI</title>
+                                        </msItem>
+                                    </msContents>
+                                    <physDesc>
+                                        <objectDesc form="codex">
+                                            <supportDesc material="paper">
+                                                <support>
+                                                  <p>Chartaceus</p>
+                                                </support>
+                                                <extent>
+                                                  <measure unit="folios" quantity="51"/>
+                                                  <dimensions>
+                                                  <height>198</height>
+                                                  <width>132</width>
+                                                  </dimensions>
+                                                </extent>
+                                            </supportDesc>
+                                            <layoutDesc>
+                                                <layout writtenLines="24">Sigulae paginae habent
+                                                  vicenos quaternos versus.</layout>
+                                            </layoutDesc>
+                                        </objectDesc>
+                                        <handDesc hands="2">
+                                            <handNote xml:id="φ1" n="φ¹" sameAs="#φ">manus
+                                                prima</handNote>
+                                            <handNote xml:id="φ2" n="φ²">manus altera</handNote>
+                                        </handDesc>
+                                    </physDesc>
+                                    <history>
+                                        <origin>
+                                            <origDate notAfter="1500" notBefore="1400">XV</origDate>
+                                        </origin>
+                                    </history>
+                                </msDesc>
                             </witness>
-                            <witness xml:id="η" n="η">Wrocław, 1.4.10, XV. <listWit>
-                                    <head>Hands</head>
-                                    <witness xml:id="η1" n="η¹">first hand</witness>
-                                    <witness xml:id="η2" n="η²">second hand</witness>
-                                </listWit></witness>
-                            <witness xml:id="ρ" n="ρ">Florence, Biblioteca Riccardiana 636, XV. <listWit>
-                                    <head>Hands</head>
-                                    <witness xml:id="ρ1" n="ρ¹">first hand</witness>
-                                    <witness xml:id="ρ2" n="ρ²">second hand</witness>
-                                </listWit></witness>
-                            <witness xml:id="θ" n="θ">Gotha, Forschungsbibliothek 55, XIV </witness>
-                            <witness xml:id="ζ" n="ζ">Florence, Biblioteca Riccardiana 974, XV
+                            <witness xml:id="χ" n="χ">Vatican City, Vatican Library Reginensis 1759, XV.<msDesc>
+                                    <msIdentifier>
+                                        <settlement>Vatican City</settlement>
+                                        <repository>Bibliotheca Apostolica Vaticana</repository>
+                                        <idno>1759</idno>
+                                    </msIdentifier>
+                                    <msContents>
+                                        <msItem n="1">
+                                            <locus>1–22</locus>
+                                            <title xml:lang="la">Calpurnii XI eclogae</title>
+                                        </msItem>
+                                    </msContents>
+                                    <physDesc>
+                                        <objectDesc form="codex">
+                                            <supportDesc material="parch">
+                                                <support>
+                                                  <p>Membranaceus.</p>
+                                                </support>
+                                                <extent>
+                                                  <measure unit="folios" quantity="22"/>
+                                                  <dimensions unit="mm">
+                                                  <height>198</height>
+                                                  <width>123</width>
+                                                  </dimensions>
+                                                </extent>
+                                            </supportDesc>
+                                            <layoutDesc>
+                                                <layout writtenLines="25">Singulae paginae habent
+                                                  vicenos quinos versus.</layout>
+                                            </layoutDesc>
+                                        </objectDesc>
+                                        <handDesc hands="2">
+                                            <handNote xml:id="χ1" n="χ¹" sameAs="#χ">manus
+                                                prima</handNote>
+                                            <handNote xml:id="χ2" n="χ²">manus altera</handNote>
+                                        </handDesc>
+                                    </physDesc>
+                                    <history>
+                                        <origin>
+                                            <origDate notAfter="1500" notBefore="1400">XV</origDate>
+                                        </origin>
+                                        <provenance><p>olim bibliothecae S.
+                                            Silvestri</p></provenance>
+                                    </history>
+                                </msDesc>
                             </witness>
+                            <witness xml:id="ν" n="ν">
+                                <msDesc>
+                                    <msIdentifier>
+                                        <settlement>Florence</settlement>
+                                        <repository>Biblioteca Laurenziana</repository>
+                                        <idno>plut.37.14</idno>
+                                    </msIdentifier>
+                                    <msContents>
+                                        <msItem n="1">
+                                            <title xml:lang="la">Sili Italici Punica</title>
+                                        </msItem>
+                                        <msItem n="2">
+                                            <locus>177b–193b</locus>
+                                            <title xml:lang="la">Calpurnii eclogae XI</title>
+                                        </msItem>
+                                        <msItem n="3">
+                                            <title xml:lang="la">Hesiodi Opera et Dies</title>
+                                        </msItem>
+                                        <msItem n="4">
+                                            <title xml:lang="la">Claudiani de raptu Proserpinae
+                                                libri</title>
+                                        </msItem>
+                                    </msContents>
+                                    <physDesc>
+                                        <objectDesc form="codex">
+                                            <supportDesc material="parch">
+                                                <support>
+                                                  <p>Membranaceus</p>
+                                                </support>
+                                                <extent>
+                                                  <measure unit="folios" quantity="224"/>
+                                                  <dimensions unit="mm">
+                                                  <height>323</height>
+                                                  <width>195</width>
+                                                  </dimensions>
+                                                </extent>
+                                            </supportDesc>
+                                            <layoutDesc>
+                                                <layout writtenLines="35">Singulae paginae tricenos
+                                                  quinos versus habent.</layout>
+                                            </layoutDesc>
+                                        </objectDesc>
+                                        <handDesc hands="2">
+                                            <handNote xml:id="ν1" n="ν¹" sameAs="#ν">manus
+                                                prima</handNote>
+                                            <handNote xml:id="ν2" n="ν²">manus altera</handNote>
+                                        </handDesc>
+                                    </physDesc>
+                                    <history>
+                                        <origin>
+                                            <origDate notAfter="1500" notBefore="1400">XV</origDate>
+                                        </origin>
+                                    </history>
+                                </msDesc>
+                            </witness>
+                            <witness xml:id="π" n="π">
+                                <msDesc>
+                                    <msIdentifier>
+                                        <settlement>Vatican City</settlement>
+                                        <repository>Bibliotheca Apostolica Vaticana</repository>
+                                        <idno>1652</idno>
+                                    </msIdentifier>
+                                    <msContents>
+                                        <msItem n="1">
+                                            <locus>1–28a</locus>
+                                            <title xml:lang="la">Tibullus</title>
+                                        </msItem>
+                                        <msItem n="2">
+                                            <locus>28b–60a</locus>
+                                            <title xml:lang="la">Catullus</title>
+                                        </msItem>
+                                        <msItem n="3">
+                                            <locus>60a–74b</locus>
+                                            <title xml:lang="la">Calpurnii XI eclogae</title>
+                                        </msItem>
+                                        <msItem n="4">
+                                            <locus>74b–129</locus>
+                                            <title xml:lang="la">Propertius</title>
+                                            <explicit xml:lang="la">a M' petro montopolitano die XXI
+                                                februarii 1460</explicit>
+                                        </msItem>
+                                    </msContents>
+                                    <physDesc>
+                                        <objectDesc form="codex">
+                                            <supportDesc material="parch">
+                                                <support>
+                                                  <p>Membranaceus.</p>
+                                                </support>
+                                                <extent>
+                                                  <measure unit="folios" quantity="129"/>
+                                                  <dimensions unit="mm">
+                                                  <height>267</height>
+                                                  <width>159</width>
+                                                  </dimensions>
+                                                </extent>
+                                            </supportDesc>
+                                            <layoutDesc>
+                                                <layout writtenLines="37">Singulae paginae habent
+                                                  tricenos septenos versus.</layout>
+                                            </layoutDesc>
+                                        </objectDesc>
+                                        <handDesc hands="2">
+                                            <handNote xml:id="π1" n="μ¹" sameAs="#π">manus
+                                                prima</handNote>
+                                            <handNote xml:id="π2" n="μ²">manus altera</handNote>
+                                        </handDesc>
+                                    </physDesc>
+                                    <history>
+                                        <origin>
+                                            <origDate notAfter="1500" notBefore="1400">XV</origDate>
+                                        </origin>
+                                    </history>
+                                </msDesc>
+                            </witness>
+                            <witness xml:id="η" n="η">, 1.4.10, XV. <msDesc>
+                                    <msIdentifier>
+                                        <settlement>Vratislavia</settlement>
+                                        <repository>Bibliotheca Rehdigeranus</repository>
+                                        <idno>1.4.10</idno>
+                                    </msIdentifier>
+                                    <msContents>
+                                        <msItem n="1">
+                                            <locus>3.1-27.1</locus>
+                                            <title xml:lang="la">omnes undecim eclogae Calpurnio
+                                                assignatae</title>
+                                        </msItem>
+                                    </msContents>
+                                    <physDesc>
+                                        <objectDesc form="codex">
+                                            <supportDesc material="mixed">
+                                                <support>
+                                                  <p>Chartaceus, membranaceus.</p>
+                                                </support>
+                                                <extent>
+                                                  <measure unit="folios" quantity="130"/>
+                                                </extent>
+                                            </supportDesc>
+                                            <layoutDesc>
+                                                <layout writtenLines="22 23">Singulae paginae
+                                                  viginti vel duos vel tres versus
+                                                  exhibent.</layout>
+                                            </layoutDesc>
+                                        </objectDesc>
+                                        <handDesc hands="2">
+                                            <handNote xml:id="η1" n="η¹" sameAs="#η">manus
+                                                prima</handNote>
+                                            <handNote xml:id="η2" n="η²">manus altera</handNote>
+                                        </handDesc>
+                                    </physDesc>
+                                    <history>
+                                        <origin>
+                                            <origDate notAfter="1500" notBefore="1400">XV</origDate>
+                                        </origin>
+                                    </history>
+                                </msDesc>
+                            </witness>
+                            <witness xml:id="ρ" n="ρ">
+                                <msDesc>
+                                    <msIdentifier>
+                                        <settlement>Florence</settlement>
+                                        <repository>Biblioteca Riccardiana</repository>
+                                        <idno>636</idno>
+                                        <altIdentifier>
+                                            <idno>L IIII 14</idno>
+                                        </altIdentifier>
+                                    </msIdentifier>
+                                    <msContents>
+                                        <msItem n="1">
+                                            <locus>25-45</locus>
+                                            <title xml:lang="la">Calpurnii eclogae undecim</title>
+                                        </msItem>
+                                    </msContents>
+                                    <physDesc>
+                                        <objectDesc form="codex">
+                                            <supportDesc material="parch">
+                                                <support>
+                                                  <p>Membranaceus.</p>
+                                                </support>
+                                                <extent>
+                                                  <measure unit="folios" quantity="126"/>
+                                                  <dimensions unit="mm">
+                                                  <height>225</height>
+                                                  <width>150</width>
+                                                  </dimensions>
+                                                </extent>
+                                            </supportDesc>
+                                            <layoutDesc>
+                                                <layout writtenLines="26">Singulae paginae vicenos
+                                                  senos versus habent.</layout>
+                                            </layoutDesc>
+                                        </objectDesc>
+                                        <handDesc hands="2">
+                                            <handNote xml:id="ρ1" n="ρ¹" sameAs="#ρ">manus
+                                                prima</handNote>
+                                            <handNote xml:id="ρ2" n="ρ²">Variae manus sive radendo
+                                                sive emendando sive adnotando ita verba tradita
+                                                obscurarunt ut interdum vix discernere possis quae
+                                                fuerit scriptura primaria. Praeterea propter earum
+                                                similitudinem, ut iam Schenklio, mihi quoque non
+                                                semper licuit dignoscere manus posteriores, quam ob
+                                                rem eas omnes, lectionibus Angelii exceptis, in
+                                                apparatu critico nota ρ² significavi.</handNote>
+                                            <handNote sameAs="#A">In codice ad calcem Calpurnii manu
+                                                [Nicolai] Angelii sic scriptum est: <hi
+                                                  rend="italic">ex vetustissimo Codice e Germania
+                                                  <lb/> allato hic est transcriptus titulus finis
+                                                  bucolicorum <lb/> Calphurnii Aurelii Nemesiani
+                                                  poetae Carthagi<lb/>nensis egologa prima</hi>, et
+                                                in fine Nemesiani: <hi rend="itali">Contuli ego
+                                                  Nicolaus Angelius hunc codicem <lb/> cum multisque
+                                                  aliis et cum illo vetustissimo codice <lb/> quem
+                                                  nobis Thadeus Ugoletus pannoniae regis <lb/>
+                                                  bibliothecae praefectus e Germania allatum <lb/>
+                                                  accomodavit in quo multa Carmina sunt reperta
+                                                  <lb/> Anno salutis MCCCCLXXXXII</hi>. … Manus
+                                                Angelii omnibus fere locis facile a ceteris
+                                                distinguitur. Atque eius scripturae nunc spectandae
+                                                sunt ut de auctoritate codicis Germanici iudicium
+                                                rectum fieri possit.</handNote>
+                                        </handDesc>
+                                    </physDesc>
+                                    <history>
+                                        <origin>
+                                            <origDate notAfter="1500" notBefore="1400">XV</origDate>
+                                        </origin>
+                                    </history>
+                                </msDesc>
+                            </witness>
+                            <witness xml:id="θ" n="θ">
+                                <msDesc>
+                                    <msIdentifier>
+                                        <settlement>Gotha</settlement>
+                                        <repository>Forschungsbibliothek</repository>
+                                        <idno>55</idno>
+                                    </msIdentifier>
+                                    <msContents>
+                                        <msItem n="1">
+                                            <title>Virgilii Bucolica, Georgica et Aeneidem</title>
+                                        </msItem>
+                                        <msItem n="2">
+                                            <title>Calpurnii eclogae septem</title>
+                                            <note>Mutilus aut ex mutilo codice descriptus,
+                                                quandoquidem septima ecloga in versu 65 finitur, et
+                                                librarius post spatium aliquod vacuum in extrema
+                                                paginae ora haec subscripsit:</note>
+                                            <colophon>Finis: haec quae de Calphurnio
+                                                inveniuntur.</colophon>
+                                        </msItem>
+                                    </msContents>
+                                    <physDesc>
+                                        <objectDesc form="codex">
+                                            <supportDesc material="parch">
+                                                <support>
+                                                  <p>Membranaceus.</p>
+                                                </support>
+                                            </supportDesc>
+                                        </objectDesc>
+                                    </physDesc>
+                                    <history>
+                                        <origin>
+                                            <origDate notAfter="1500" notBefore="1400">XV</origDate>
+                                        </origin>
+                                    </history>
+                                </msDesc>
+                            </witness>
+                            <witness xml:id="ζ" n="ζ">
+                                <msDesc>
+                                    <msIdentifier>
+                                        <settlement>Florence</settlement>
+                                        <repository>Biblioteca Riccardiana</repository>
+                                        <idno>974</idno>
+                                    </msIdentifier>
+                                    <msContents>
+                                        <msItem n="1">
+                                            <locus>3–5</locus>
+                                            <title xml:lang="la">Calpurnii tantum ecloga
+                                                secunda</title>
+                                        </msItem>
+                                    </msContents>
+                                    <physDesc>
+                                        <objectDesc form="codex">
+                                            <supportDesc material="paper">
+                                                <support>
+                                                  <p>Chartaceus</p>
+                                                </support>
+                                                <extent>74 folia</extent>
+                                            </supportDesc>
+                                        </objectDesc>
+                                        <handDesc>
+                                            <handNote xml:id="ζ1" n="ζ¹" sameAs="#ζ">manus
+                                                prima</handNote>
+                                            <handNote xml:id="ζ2" n="ζ²">manus altera</handNote>
+                                        </handDesc>
+                                    </physDesc>
+                                    <history>
+                                        <origin>
+                                            <origDate notAfter="1500" notBefore="1400">XV</origDate>
+                                        </origin>
+                                    </history>
+                                </msDesc></witness>
                         </listWit>
                         <listWit>
                             <head>Third family</head>
-                            <witness xml:id="P" n="P">Paris, Bibliothèque Nationale 8049, XII. <listWit>
-                                    <head>Hands</head>
-                                    <witness xml:id="P1" n="P¹">first hand</witness>
-                                    <witness xml:id="P2" n="P²">second hand</witness>
-                                </listWit></witness>
+                            <witness xml:id="P" n="P">Paris, Bibliothèque Nationale 8049, XII. <msDesc>
+                                    <msIdentifier>
+                                        <settlement>Paris</settlement>
+                                        <repository>Bibliothèque Nationale</repository>
+                                        <idno>8049</idno>
+                                    </msIdentifier>
+                                    <msContents>
+                                        <msItem n="1">
+                                            <title>Prolegomena de satira et Persius</title>
+                                        </msItem>
+                                        <msItem n="2">
+                                            <title>Ciceronis de divinatione libri secundi
+                                                finis</title>
+                                            <explicit>Marci Tullii de divinacione liber IIᵁˢ
+                                                explicit.</explicit>
+                                        </msItem>
+                                        <msItem n="3">
+                                            <title>Egloga Calpurnii (nondum solis equos I 1—quicquid
+                                                id est silvestra etc. IIII 12</title>
+                                        </msItem>
+                                        <msItem n="4">
+                                            <title>Senecae proverbia</title>
+                                        </msItem>
+                                    </msContents>
+                                    <physDesc>
+                                        <objectDesc form="codex">
+                                            <supportDesc material="parch">
+                                                <support>
+                                                  <p>Membranaceus.</p>
+                                                </support>
+                                            </supportDesc>
+                                        </objectDesc>
+                                        <handDesc>
+                                            <handNote xml:id="P1" n="P¹" sameAs="#P">[codicem]
+                                                librarius linguae latinae prorsus ignarus exaravit,
+                                                qui neglegentissime suo munere functus innumeros
+                                                scribendi errores commisit nec opus
+                                                absolvit.</handNote>
+                                            <handNote xml:id="P2" n="P²">manus altera</handNote>
+                                        </handDesc>
+                                    </physDesc>
+                                </msDesc>
+                            </witness>
                         </listWit>
                         <listWit>
                             <head>Other codices</head>
-                            <witness xml:id="A" n="A">Florence, Biblioteca Riccardiana 636,
-                                XV</witness>
+                            <witness xml:id="A" n="A" corresp="#ρ">cod. Germanicus Th. Ugoleti,
+                                cuius scripturas in mg. <ref target="#ρ">cod. Riccard. 636</ref> N.
+                                Angelius enotavit.</witness>
                             <witness xml:id="H" n="H">
                                 <msDesc>
                                     <msIdentifier>
@@ -237,20 +1071,70 @@
                                     <msContents>
                                         <p>Lectiones, quae ad Boccaccii codicem vel ad cod. Th.
                                             Ugoleti redire videntur.</p>
+                                        <p>de codice Boccaccii testimonium praebet nobis codex
+                                            Harleianus 2578 (de quo cfr. C. Schenkl in praef. ed.
+                                            Ausonii, Berolini 1884, p. XXI), ubi in fine Nemesiani
+                                            haec subscriptio invenitur: <hi rend="italic">collatus
+                                                accuratissime hic codex cum illo vetustissimo: quem
+                                                Thadeus Ugoletus pannoniae regis bibliothecae
+                                                praefectus e germania secum attulit. et cum illo
+                                                quem Iohamnes Boccaccius propria manu scripsisse
+                                                traditur bibliothecae sancti spiritus florentini
+                                                dicatum et cum plerisque aliis: ubi titulum et
+                                                operis divisionem: multa etiam carmina
+                                                reperimus.</hi></p>
+                                        <p>De codice Boccaccii quae dici possunt pauca sane et
+                                            incerta sunt. nam cum codex Harleianus, ut eius
+                                            subscriptio refert, cum libro Germanico et cum libro
+                                            Boccaccii et cum plerisque aliis collatus sit, ad librum
+                                            Boccaccii redire videtur maior pars lectionum quas
+                                            Angelius in codice Riccardiano non enotavit. quibus
+                                            lectionibus diligenter perspectis, hoc unum concludere
+                                            possumus illum quidem codicem, quem Boccaccius sua manu
+                                            scripsisse traditur, primae familiae quae vocatur
+                                            tribuendum esse. reliqua enim maxime dubia sunt. atque
+                                            de huius codicis auctoritate eadem valeant quae de
+                                            codice Germanico diximus. denique hoc praetereundum non
+                                            puto uno loco (N. IV 70 <hi rend="italic">quo</hi>)
+                                            librum Boccaccii solum ex omnibus veram scripturam
+                                            exhibere.</p>
                                     </msContents>
                                     <physDesc>
                                         <handDesc hands="2">
-                                            <handNote xml:id="H1" n="H¹">First hand</handNote>
-                                            <handNote xml:id="H2" n="H²">Second hand</handNote>
+                                            <handNote xml:id="H1" n="H¹">manus prima</handNote>
+                                            <handNote xml:id="H2" n="H²">manus altera</handNote>
                                         </handDesc>
                                     </physDesc>
                                 </msDesc>
                             </witness>
+                        </listWit>
+                        <listWit>
+                            <head>Excerpts</head>
+                            <witness xml:id="ExcPar" n="Exc.Par.">Fragmenta sunt haec: C. II 23 <hi
+                                    rend="italic">satis</hi>-24, III 10 <hi rend="italic"
+                                    >mobilior-femina</hi>, IV 14–15, 155 <hi rend="italic"
+                                    >vellit</hi>–156, V 12–13, 46–48, VI 53–56, N. IV 19 <hi
+                                    rend="italic">levant–curas</hi>, 21 24, 32, 38 <hi rend="italic"
+                                    >vocat–umbram</hi>." <msDesc>
+                                    <msIdentifier>
+                                        <settlement>Paris</settlement>
+                                        <repository>Bibliothèque Nationale</repository>
+                                        <idno>Thuaneus 7647</idno>
+                                    </msIdentifier>
+                                </msDesc>
+                                <msDesc>
+                                    <msIdentifier>
+                                        <settlement>Paris</settlement>
+                                        <repository>Bibliothèque Nationale</repository>
+                                        <idno>Nostradamensis 17903</idno>
+                                    </msIdentifier>
+                                </msDesc>
+                            </witness>
+                            <witness xml:id="ExcBon" n="Exc.Bon.">excerpta quae extant in cod. Bonon. 83
+                                (52, II n. 1)</witness>
+                        </listWit>
+                        <listWit>
                             <witness xml:id="ω" n="ω">codicum omnium consensus</witness>
-                            <witness xml:id="Exc.Par." n="Exc.Par.">exerpta quae in libris Parisinis
-                                7647 et 17903 extant.</witness>
-                            <witness xml:id="Exc.Bon." n="Exc.Bon.">excerpta quae extant in cod.
-                                Bonon. 83 (52, II n. 1)</witness>
                         </listWit>
                     </item>
                     <item>
@@ -325,7 +1209,7 @@
                         <label>Modern editions</label>
                         <listBibl type="source">
                             <!-- These editions are known as "sources" below, since they are "modern" editions (i.e., not single manuscript). -->
-                            <bibl xml:id="b" n="b">
+                            <bibl xml:id="b" n="b"><!-- Fix this so that it's somehow clear that "b" is different from "Guid." -->
                                 <editor xml:id="Guid." n="Guid.">Diomede Guidalotti</editor>
                                 <pubPlace>Bologna</pubPlace>
                                 <publisher>Caligula Bazalerius</publisher>
@@ -552,6 +1436,11 @@
                                         <surname>Gude</surname>
                                     </persName>
                                 </respStmt>
+                                <note>Notes the readings of <name xml:id="Scaliger"
+                                        ref="http://viaf.org/viaf/29540435">Joseph-Juste
+                                        Scaliger</name> and <name xml:id="Scriverius" n="Scriver."
+                                        ref="https://viaf.org/viaf/121894458/">Scriverius (Pieter
+                                        Schrijver)</name> in various places.</note>
                             </bibl>
                             <bibl xml:id="t" n="t">
                                 <editor/>
@@ -764,7 +1653,7 @@
                                     Freytag, Pragae, F. Tempsky, 1885</title>
                                 <title level="j">Wochenschrift für klassiche Philologie</title>
                                 <biblScope unit="vol">3</biblScope>
-                                <biblScope unit="pp">1287-1294</biblScope>
+                                <biblScope unit="pp">1287–1294</biblScope>
                                 <date>1886</date>
                                 <ptr
                                     target="https://books.google.de/books?id=q5blAAAAMAAJ&amp;hl=de&amp;pg=RA7-PA41#v=onepage&amp;q&amp;f=false"
@@ -835,7 +1724,7 @@
                                 <title level="j">Classical Journal</title>
                                 <biblScope unit="vol">15</biblScope>
                                 <biblScope unit="issue">4</biblScope>
-                                <biblScope unit="pp">213-214</biblScope>
+                                <biblScope unit="pp">213–214</biblScope>
                                 <date>1901</date>
                                 <ptr target="http://www.jstor.org/stable/694806"/>
                             </bibl>
@@ -1104,7 +1993,7 @@
                                 <publisher>Baerensprungschen Hofbuchdruckerei</publisher>
                                 <date>1903</date>
                             </bibl>
-                            <bibl xml:id="Fabricius" n="Fabricius">
+                            <bibl xml:id="Fabricius" n="Fabric.">
                                 <author ref="http://viaf.org/viaf/24623353">
                                     <persName>
                                         <forename>Johann</forename>
@@ -1189,7 +2078,7 @@
                                 <title level="j">Jahresbericht des k. k. Gymnasium in Znaim</title>
                                 <pubPlace>Znaim</pubPlace>
                                 <publisher>Druck der k. k. Buchdruckerei des M. G. Lenk</publisher>
-                                <date>1893-94</date>
+                                <date>1893–94</date>
                                 <ptr target="http://hdl.handle.net/2027/uc1.c071004696"/>
                             </bibl>
                             <bibl xml:id="Buecheler" n="Buecheler">
@@ -1248,7 +2137,7 @@
                                 <title level="j">The Classical Review</title>
                                 <biblScope unit="volume">16</biblScope>
                                 <biblScope unit="issue">5</biblScope>
-                                <biblScope unit="page">281-282</biblScope>
+                                <biblScope unit="page">281–282</biblScope>
                                 <date>1902</date>
                                 <ptr target="http://www.jstor.org/stable/695474"/>
                             </bibl>
@@ -1270,10 +2159,53 @@
                                     target="https://books.google.com/books?id=ejldAAAAcAAJ&amp;dq=Der%20Oedipus%20Coloneus%20des%20Sophocles&amp;pg=PA99#v=onepage&amp;q&amp;f=false"
                                 />
                             </bibl>
-
-
-                            <!-- Add Scriver(ius) -->
-                            <!-- Add Scaliger -->
+                            <bibl xml:id="Gebhard">
+                                <author ref="http://viaf.org/viaf/64758716">
+                                    <persName>
+                                        <forename>Jan</forename>
+                                        <surname>Gebhard</surname>
+                                    </persName>
+                                </author>
+                                <title>Crepundiorum seu iuvenilium curarum libri tres</title>
+                                <biblScope unit="page">97–100</biblScope>
+                                <pubPlace>Hanoviae</pubPlace>
+                                <publisher>Wechelianis, apud Haeredes Ioannis Aubrii</publisher>
+                                <date>1615</date>
+                            </bibl>
+                            <bibl xml:id="Sarpe">
+                                <author ref="http://viaf.org/viaf/57376075">
+                                    <persName>
+                                        <forename>Gustav</forename>
+                                        <forename>Cristoph</forename>
+                                        <surname>Sarpe</surname>
+                                    </persName>
+                                </author>
+                                <title>Nomina virorum eruditione ac meritis excellentium, quos inter
+                                    quarta academiae secularia summis in philosophia ornamentis ...
+                                    augebit ordo philosophorum Rostochiensis indicantur ...
+                                    Praemissae sunt Quaestiones Philologicae.</title>
+                                <pubPlace>Rostochii</pubPlace>
+                                <publisher>Adler</publisher>
+                                <date>1819</date>
+                                <ptr
+                                    target="http://www.mdz-nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:bvb:12-bsb10972357-6"
+                                />
+                            </bibl>
+                            <bibl xml:id="Lachmann" n="Lachmann">
+                                <editor ref="http://viaf.org/viaf/34531046">
+                                    <persName>
+                                        <forename>Johannes</forename>
+                                        <surname>Vahlen</surname>
+                                    </persName>
+                                </editor>
+                                <title>Karl Lachmanns Briefe an Moriz Haupt</title>
+                                <pubPlace>Berlin</pubPlace>
+                                <publisher>Druck und Verlag von Georg Reimer</publisher>
+                                <date>1892</date>
+                                <ptr
+                                    target="https://books.google.com/books?id=e5gOAQAAMAAJ&amp;dq=lachmann%20placido%20quin&amp;pg=PR1#v=onepage&amp;q=lachmann%20placido%20quin&amp;f=false"
+                                />
+                            </bibl>
                             <!-- Add Ramorino -->
                             <!-- Housman -->
                         </listBibl>
@@ -1301,6 +2233,14 @@
                                     target="#Wernsd.">Wernsdorf's</ref> edition and all editions
                                 published thereafter, unless referenced specifically elsewhere in an
                                 entry in the apparatus.</item>
+                            <item xml:id="ViennSqq" n="Vienn. sqq.">Vienn. sqq.: <ref
+                                    target="#Vienn.">Vienn.</ref> and all editions published
+                                thereafter, unless referenced specifically elsewhere in an entry in
+                                the apparatus.</item>
+                            <item xml:id="eddAnteBurman" n="edd. ante Burman">edd. ante Burman: All
+                                editions published before <ref target="#Burm.">Burman's
+                                    edition</ref>, unless referenced specifically elsewhere in an
+                                entry in the apparatus.</item>
                             <item xml:id="eddAnteBeck">edd. ante Beck: All editions published before
                                     <ref target="#Beck">Beck's</ref> edition, unless referenced
                                 specifically elsewhere in an entry in the apparatus.</item>
@@ -1315,7 +2255,7 @@
                                     >Glaeser's</ref> edition and all editions published thereafter,
                                 unless referenced specifically elsewhere in an entry in the
                                 apparatus.</item>
-                            <item xml:id="eddAnteBurm.">edd. ante Burm.: All editions published
+                            <item xml:id="eddAnteBurm">edd. ante Burm.: All editions published
                                 before <ref target="#Burm.">Burmann's</ref> edition, unless
                                 referenced specifically elsewhere in an entry in the
                                 apparatus.</item>
@@ -1324,9 +2264,9 @@
                                 unless referenced specifically elsewhere in an entry in the
                                 apparatus. </item>
                             <item xml:id="nonnulliTitium" n="nonnulliTitium">Nonnulli apud Titium:
-                                some of the mss. cited by <ref target="#Tit.">Titius</ref></item>
+                                some of the mss. cited by <ref target="#Tit.">Tit.</ref></item>
                             <item xml:id="coddTitii">Codd. Titii: the manuscripts cited by <ref
-                                    target="#Tit.">Titius</ref></item>
+                                    target="#Tit.">Tit.</ref></item>
                             <item xml:id="nonnulliKempfer" n="nonnulli apud Kempfer">Nonnulli apud
                                     <ref target="#Kempfer">Kempfer</ref></item>
                             <item xml:id="codVind" n="cod. Vind.">cod. Vindobon. (see 3.19)</item>
@@ -1342,6 +2282,8 @@
                                 usque ad Glaeser = The edition known as "<ref target="#u">u</ref>"
                                 and all later editions up to <ref target="#Glaeser"
                                 >Glaeser</ref>'s</item>
+                            <item xml:id="UlitSqq" n="Ulit. sqq.">Ulit. sqq.: <ref target="#Ulit."
+                                    >Ulit.</ref> and all editions published after it.</item>
                         </list>
                     </item>
                     <label>Other abbreviations</label>
@@ -1351,9 +2293,10 @@
                                     <ptr target="http://viaf.org/viaf/37257920"/>, cited in <ref
                                     target="#BurmAnth">Burman's <hi rend="italic">Anthologia Veterum
                                         Latinorum Epigrammatum et Poëmatum</hi></ref></item>
-                            <item xml:id="BarthVV" n="Victor Vigilius" sameAs="#Barth">Victor
+                            <item xml:id="Vigilius" n="Victor Vigilius" sameAs="#Barth">Victor
                                 Vigilius is a pseudonym used by <ref target="#Barth">Kaspar von
-                                    Barth</ref>.</item>
+                                    Barth</ref> in his notes to suggest conjectures that he is not
+                                prepared to print in his text..</item>
                             <item xml:id="CSchenkl" n="C. Schenkl">C. Schenkl is H. Schenkl's
                                 father, whose unpublished opinions <ref target="#Schenkl">H.
                                     Schenkl</ref> cites periodically.</item>
@@ -1367,6 +2310,9 @@
                                 d'Orville (<ptr target="http://viaf.org/viaf/24945908"/>), whose
                                 notes are recorded in <ref target="#Burm.">Burmann's
                                 edition</ref></item>
+                            <item xml:id="Bursian" n="Bursian"><ref target="#Haupt">Haupt says that
+                                    he used Conrad Bursian's collation of a Neapolitan
+                                    manuscript.</ref></item>
                         </list>
                     </item>
                 </list>
@@ -2802,17 +3748,17 @@
                             <rdg wit="#δ">iddas</rdg>
                         </app> lanigeri dominus gregis, Astacus <app>
                             <lem wit="#ρ2 #φ2 #ε #ν #λ #η #γ">horti</lem>
-                            <rdg wit="#Ν #G #P #δ #α #β #κ #χ #μ #π #ρ1 #φ1">orti</rdg>
+                            <rdg wit="#N #G #P #δ #α #β #κ #χ #μ #π #ρ1 #φ1">orti</rdg>
                         </app>,</l>
                     <l n="3">dilexere diu, formosus uterque <app>
-                            <lem wit="#A" source="#Modius #Ulit. #Barthius #Kempfer #BurmSqq">nec</lem>
-                            <rdg wit="#Ν #G #P #V #eddAnteBurm">sed</rdg>
+                            <lem wit="#A" source="#Modius #Ulit. #Barth #Kempfer #BurmSqq">nec</lem>
+                            <rdg wit="#N #G #P #V #eddAnteBurm">sed</rdg>
                             <rdg source="#Martell.">neque</rdg>
                         </app> impar</l>
                     <l n="4">voce sonans. <app>
                             <lem source="#GlaeserSqq">hi cum terras</lem>
                             <!-- Silvia: This is a good example of an apparatus entry that shows wild divergence among witnesses and sources. Giarratano has printed a conjecture by Glaeser in his main text. -->
-                            <rdg wit="#Ν #G">hy cum terras</rdg>
+                            <rdg wit="#N #G">hy cum terras</rdg>
                             <rdg wit="#P" xml:id="rdgP2.11.4">hīc</rdg>
                             <witDetail wit="#P" target="#rdgP2.11.4">(om. <hi rend="italic">cum
                                     terras</hi>)</witDetail>
@@ -2827,7 +3773,7 @@
                         <app>
                             <lem>gravis</lem>
                             <!-- Handling "(i ex e m3)" -->
-                            <rdg wit="#Ν" xml:id="rdgN2.11.4">graves</rdg>
+                            <rdg wit="#N" xml:id="rdgN2.11.4">graves</rdg>
                             <witDetail wit="#N" target="#rdgN2.11.4">(i ex e m3)</witDetail>
                         </app>
                         <app>
@@ -2841,7 +3787,7 @@
                                 Bon.</witDetail>
                         </app>,</l>
                     <l n="5">ad gelidos fontes et easdem forte sub <app>
-                            <lem wit="#Ν #G" source="#Glaeser #Keene #Schenkl">umbras</lem>
+                            <lem wit="#N #G" source="#Glaeser #Keene #Schenkl">umbras</lem>
                             <rdg wit="#P #V" source="#edd.">ulmos</rdg>
                             <note>probavit <ref target="#Jacoby">Jacoby</ref> (Woch. f. kl. Phil.
                                 III p. 1291)</note>
@@ -2864,8 +3810,8 @@
                             <rdg wit="#α">vulnera</rdg>
                         </app> septem,</l>
                     <l n="8">ille sui victus ne messem <app>
-                            <lem wit="#Ν1 #P #G" source="#edd.">vindicet</lem>
-                            <rdg wit="#Ν2 #V #r #e #u #s #b" source="#o #n #p #i #l2 #g #Gryph. #Kempfer">vendicet</rdg>
+                            <lem wit="#N1 #P #G" source="#edd.">vindicet</lem>
+                            <rdg wit="#N2 #V #r #e #u #s #b" source="#o #n #p #i #l2 #g #Gryph. #Kempfer">vendicet</rdg>
                             <rdg wit="#d">vendicat</rdg>
                             <rdg source="#Heins.">venditet</rdg>
                         </app>
@@ -2882,7 +3828,7 @@
                             <!-- Silvia: This is a good example of a place where there is a lot of variation, but none of it is particularly meaningful, since the variants are just different spellings of the same word. -->
                             <lem wit="#γ #ε #ρ2 #ζ" source="#edd.">Thyrsi</lem>
                             <rdg wit="#G #P">tyrsi</rdg>
-                            <rdg wit="#Ν1">tirsi</rdg>
+                            <rdg wit="#N1">tirsi</rdg>
                             <rdg wit="#N2 #π #φ #β #κ #α #ρ1 #λ #μ">tirso</rdg>
                             <rdg wit="#χ #δ1">tyrso</rdg>
                             <rdg wit="#δ2 #θ #η #ν #r #b" source="#n #o #i1 #l1 #Vienn.">thyrso</rdg>
@@ -2911,10 +3857,10 @@
                             <rdg wit="#μ" copyOf="#rdg2.11.11"/>
                         </app>
                         <app>
-                            <lem wit="#Ν #G #P #β #μ #κ #ρ1 #η #φ #κ #ν #π #r #s" source="#t #Guid. #Ulit. #Burm. #Beck #Glaeser #Keene #Schenkl">altum</lem>
+                            <lem wit="#N #G #P #β #μ #κ #ρ1 #η #φ #κ #ν #π #r #s" source="#t #Guid. #Ulit. #Burm. #Beck #Glaeser #Keene #Schenkl">altum</lem>
                             <!-- Silvia: A good example of widely distributed support for completely different variant readings. -->
-                            <rdg wit="#ε #γ #δ #ρ2 #ζ #d2 #u #e #b" source="#o #n #i #p #h #g #l2 #Titus #Gebhardt #Wernsd.">alitum</rdg>
-                            <rdg wit="#λ" source="#Bart. #LMueller #Baehr.">avium</rdg>
+                            <rdg wit="#ε #γ #δ #ρ2 #ζ #d2 #u #e #b" source="#o #n #i #p #h #g #l2 #Tit. #Gebhard #Wernsd.">alitum</rdg>
+                            <rdg wit="#λ" source="#Barth #LMueller #Baehr.">avium</rdg>
                             <rdg wit="#α">ales</rdg>
                         </app> ferit aera pennis.</l>
                     <l n="12">convenit umbrosa quicumque sub <app>
@@ -2927,7 +3873,7 @@
                             <rdg wit="#κ #χ #ρ2" source="#BaehrLL #Schenkl">lentus</rdg>
                             <rdg wit="#ω" source="#edd.">lentas</rdg>
                             <rdg wit="#ζ">lectas</rdg>
-                            <rdg source="#Titius">laetas</rdg>
+                            <rdg source="#Tit.">laetas</rdg>
                             <note><ref target="#Friesemann">Friesemann</ref> (coll. crit. p.
                                 175)</note>
                         </app></l>
@@ -2947,7 +3893,7 @@
                         </app> pede, <app>
                             <lem>Naides</lem>
                             <rdg wit="#P" source="#BurmSqq">naides</rdg>
-                            <rdg wit="#N #V" source="#eddAnteBurm.">naiades</rdg>
+                            <rdg wit="#N #V" source="#eddAnteBurm">naiades</rdg>
                             <rdg wit="#G #δ #μ #θ #s">nayades</rdg>
                         </app>
                         <app>
@@ -3060,13 +4006,13 @@
                     <witDetail wit="#s" target="#l2.22">hic versus post v. 23 invenitur in
                         s.</witDetail>
                     <l n="23" xml:id="l2.23">'irrita sint moneo: satis <app>
-                            <lem wit="#V #Exc.Par." source="#edd.">hoc</lem>
+                            <lem wit="#V #ExcPar" source="#edd.">hoc</lem>
                             <rdg wit="#N #G #H2">hic</rdg>
                             <rdg wit="#P">hac</rdg>
                             <rdg source="#Glaeser #Keene">hinc</rdg>
                         </app> mercedis <app>
                             <lem wit="#d2" source="#Kempfer #Burm. #Wernsd. #Beck #Baehr.">habete</lem>
-                            <rdg wit="#N #P #V #Exc.Par." source="#edd." xml:id="rdg2.12.23Habeto">habeto</rdg>
+                            <rdg wit="#N #P #V #ExcPar" source="#edd." xml:id="rdg2.12.23Habeto">habeto</rdg>
                             <witDetail wit="#P" target="#rdg2.12.23Habeto">(in <ref target="#P">P</ref>
                                 <hi rend="italic">t</hi> s. v. m1)</witDetail>
                             <rdg wit="#G #κ #β">habento</rdg>
@@ -3094,7 +4040,7 @@
                             </rdgGrp>
                             <rdg wit="#π">oprobria</rdg>
                         </app> victus.</l>
-                    <witDetail wit="#Exc.Par." target="l2.23">23 satis-24 <app>
+                    <witDetail wit="#ExcPar" target="l2.23">23 satis-24 <app>
                             <lem>victus</lem>
                             <rdg wit="#P">victor</rdg>
                         </app> exstant in Exc. Par.</witDetail>
@@ -3127,7 +4073,7 @@
                                     <!-- Good place for <sourceDetail> -->
                                     <rdg wit="#ζ"><add place="margin" copyOf="#lem2.13.27"/></rdg>
                                     <rdg wit="#P #η #π #φ #χ #ρ #ν #κ #θ #β #ζ #eddAnteGlaeser">discernunt digitis</rdg>
-                                    <rdg wit="H #A #α #ε #u #e #b" source="#l2 #i2">discrevit
+                                    <rdg wit="#H #A #α #ε #u #e #b" source="#l2 #i2">discrevit
                                         digitus</rdg>
                                     <rdg wit="#λ">deseruit digitis</rdg>
                                     <rdg source="#Tit.">discernit digitus</rdg>
@@ -3181,7 +4127,7 @@
                                 <lem>levis</lem>
                                 <rdg source="Baehr.">teres</rdg>
                             </app> obliqua <app>
-                                <lem wit="#N #P #G" source="#Heins #Baehr. #Schenkl">crescat</lem>
+                                <lem wit="#N #P #G" source="#Heins. #Baehr. #Schenkl">crescat</lem>
                                 <rdg wit="#V" source="#edd.">crescit</rdg>
                                 <note>(def. <bibl><author>Haupt</author>, <title ref="#HauptDiss">De
                                             carm. buc. Calp. et Nem.</title>
@@ -3249,7 +4195,7 @@
                                 <rdg wit="#V #edd.">spargit</rdg>
                                 <rdgGrp>
                                     <rdg wit="#λ" xml:id="rdg2.13.32fundit"><add place="margin">fundit</add></rdg>
-                                    <rdg source="#Titius" copyOf="#rdg2.13.32fundit"/>
+                                    <rdg source="#Tit." copyOf="#rdg2.13.32fundit"/>
                                 </rdgGrp>
                                 <rdg source="#Glaeser">iungit</rdg>
                                 <rdg source="#Haupt #Leo #Keene">cingit</rdg>
@@ -3263,7 +4209,7 @@
                             <app>
                                 <lem xml:id="lem2.13.33Pomona">Pomona</lem>
                                 <!-- Silvia: A visualization would be helpful here because it would show that there are many variants, some with a lot of support, others with only one or two witnesses. -->
-                                <rdg wit="#G H #π2 #ρ2" source="edd.">pomona</rdg>
+                                <rdg wit="#G #H #π2 #ρ2" source="#edd.">pomona</rdg>
                                 <rdgGrp type="corrMargin">
                                     <rdg wit="#N" hand="#N1" varSeq="1">poma</rdg>
                                     <rdg wit="#N" hand="#N3" varSeq="2" copyOf="#lem2.13.33Pomona"/>
@@ -3312,7 +4258,7 @@
                                 <lem wit="#N #G #A #P #i1 #l1" source="#p #t #h #Ulit. #Vienn. #Modius #Nodell #Wernsd. #Beck #GlaeserSqq">nutrire</lem>
                                 <rdg wit="#V" source="#eddAnteGlaeser">mutare</rdg>
                                 <rdg wit="#μ">imitare</rdg>
-                                <rdg source="#Martell">maturare</rdg>
+                                <rdg source="#Martell.">maturare</rdg>
                                 <note>(!)</note>
                             </app>
                             <app>
@@ -3383,7 +4329,7 @@
                             </app></l>
                         <l n="41">ignotas frondes et non <app>
                                 <lem>genitalia</lem>
-                                <rdg wit="#ε #α #θ #ρ1 #u #e #d #b" source="#i2 #l2 #Titius #HeinsAdClaud #Burm. #Wernsd. #Beck">gentilia</rdg>
+                                <rdg wit="#ε #α #θ #ρ1 #u #e #d #b" source="#i2 #l2 #Tit. #HeinsAdClaud #Burm. #Wernsd. #Beck">gentilia</rdg>
                                 <rdg wit="#μ">gemalia</rdg>
                             </app> poma.</l>
                         <l n="42">ars mea nunc malo pira temperat et modo cogit</l>
@@ -3458,8 +4404,8 @@
                                 <rdg wit="#N #G" source="#Baehr. #Schenkl">at</rdg>
                                 <rdg wit="#P #V" source="#edd.">et</rdg>
                             </app> mihi cum <app>
-                                <lem source="#Burm #Beck #Baehr. #Schenkl">vulsis</lem>
-                                <rdg source="#Burm">furvis</rdg>
+                                <lem source="#Burm. #Beck #Baehr. #Schenkl">vulsis</lem>
+                                <rdg source="#Burm.">furvis</rdg>
                                 <rdg wit="#ω" source="#edd.">fulvis</rdg>
                             </app> radicibus <app>
                                 <lem wit="#N #G #A #α" source="#edd.">arida</lem>
@@ -3500,14 +4446,14 @@
                                 <rdg wit="#κ #ρ1 #χ #ε #γ #δ #η #ζ #r #u #e #s #b" source="#g #l2 #p">syderibus </rdg>
                             </app> solum regnare fatebor;</l>
                         <l n="54"><app>
-                                <lem wit="#N #G H #P #p #h #t" source="#Barth #Heins. #Ulit. #Burm. #Keene">decernamque</lem>
+                                <lem wit="#N #G #H #P #p #h #t" source="#Barth #Heins. #Ulit. #Burm. #Keene">decernamque</lem>
                                 <rdg wit="#V" source="#edd.">dicam namque</rdg>
                                 <rdg source="#Glaeser">discernamque</rdg>
                                 <rdg source="#Gronov. #Baehr. #Schenkl">secernamque</rdg>
                                 <note><ref target="#Gronov.">Gronov.</ref> (Obss. III 13)</note>
                             </app> nemus dicamque: 'sub arbore numen</l>
                         <l n="55"><app>
-                                <lem source="#Giarratno">incolit</lem>
+                                <lem source="#Giarratano">incolit</lem>
                                 <!-- Silvia: This is a good example of a place that has a lot of variants and conjectures, none of which are acceptable to Giarratano, who has printed his own conjecture. -->
                                 <rdgGrp>
                                     <rdg wit="#ω" source="#edd.">hoc erit</rdg>
@@ -3554,7 +4500,7 @@
                                 <lem>soli</lem>
                                 <rdg wit="#ε #e">silis</rdg>
                                 <rdg wit="#λ">sili</rdg>
-                                <rdg wit="#μ #γ #α #δ #ρ2 #u #b" source="#d2 #l2 #i2 #Titius">similis</rdg>
+                                <rdg wit="#μ #γ #α #δ #ρ2 #u #b" source="#d2 #l2 #i2 #Tit.">similis</rdg>
                                 <rdg source="#Vienn.">solidi</rdg>
                                 <rdgGrp type="conjectures">
                                     <rdg source="#Gronov.">solus</rdg>
@@ -3615,21 +4561,21 @@
                         <l n="63"><app>
                                 <lem>saepe cadit festis <app>
                                         <lem>devota</lem>
-                                        <rdg wit="#Gryph">devecta</rdg>
+                                        <rdg wit="#Gryph.">devecta</rdg>
                                     </app>
                                     <app>
                                         <lem wit="#P #ζ2 #p" source="#h #Martell. #Kempfer #Baehr. #Schenkl">Parilibus</lem>
                                         <rdg wit="#G #N">paliribus</rdg>
                                         <rdg wit="#V" source="#edd.">palilibus</rdg>
                                     </app> agna.</lem>
-                                <rdg wit="#ε #e #d #c #Nordh">perfundens aras divorum sanguine
+                                <rdg wit="#ε #e #d #c #Nordh.">perfundens aras divorum sanguine
                                     largo</rdg>
                             </app></l>
                     </sp>
                     <sp who="Astacus">
                         <speaker>A.</speaker>
                         <l n="64">Nos quoque pomiferi Laribus consuevimus <app>
-                                <lem wit="#λ #v #η #γ #ε #φ">horti</lem>
+                                <lem wit="#λ #ν #η #γ #ε #φ">horti</lem>
                                 <rdgGrp>
                                     <rdg wit="#N #G #P #κ #ρ #π #μ #β #δ #χ" xml:id="rdg2.15.63">orti</rdg>
                                     <rdgGrp type="subvariant">
@@ -3653,7 +4599,7 @@
                                 <rdg wit="#V #r #s" source="#o #n #i1 #l1 #Guid. #Vienn.">fundere</rdg>
                                 <rdg wit="#ε #e">fraude</rdg>
                                 <rdg wit="#d #Nordh.">farrea</rdg>
-                                <rdg wit="#codd." source="#Titii #Tig. #Modius #Ulit. #h #p #t #Casaub. #Martell. #Burm. #Wernsd. #Beck #Glaeser #Keene">fingere</rdg>
+                                <rdg wit="#coddTitii" source="#Tig. #Modius #Ulit. #h #p #t #Casaub. #Martell. #Burm. #Wernsd. #Beck #Glaeser #Keene">fingere</rdg>
                             </app> liba Priapo,</l>
                         <l n="66"><app>
                                 <lem>rorantesque favos</lem>
@@ -3665,7 +4611,7 @@
                                 <rdg wit="#d #Nordh.">portantesque favos</rdg>
                             </app> damus <app>
                                 <lem>et</lem>
-                                <rdg wit="#d #Nordh">atque</rdg>
+                                <rdg wit="#d #Nordh.">atque</rdg>
                             </app>
                             <app>
                                 <lem>liquentia</lem>
@@ -3678,7 +4624,7 @@
                             <app>
                                 <lem wit="#N #G #P #λ2" source="#edd.">sunt</lem>
                                 <rdg wit="#A #γ #μ #ε #α #δ #λ1 #u #e #b #d2" source="#o #n #i #l2 #Barth #Nordh. #Wernsd. #Beck #Keene ">fore</rdg>
-                                <rdg wit="#π #χ #β #v #φ #ρ #κ #η #ζ #θ #r" source="#h #Ulit.">fere</rdg>
+                                <rdg wit="#π #χ #β #ν #φ #ρ #κ #η #ζ #θ #r" source="#h #Ulit.">fere</rdg>
                                 <rdg wit="#s" source="#p #Modius #Kempfer">fero</rdg>
                                 <rdg source="#Heins.">fors</rdg>
                                 <rdg source="#Burm.">fert</rdg>
@@ -3692,9 +4638,9 @@
                     <sp who="Idas">
                         <speaker>I.</speaker>
                         <l n="68">Mille sub uberibus <app>
-                                <lem wit="#N #G #P H #χ #β" source="#edd.">balantes</lem>
+                                <lem wit="#N #G #P #H #χ #β" source="#edd.">balantes</lem>
                                 <rdg wit="#ρ1 #π #θ #l1" source="#Vienn. #p #h #Ulit.">palantes</rdg>
-                                <rdg wit="#v #φ #η #ρ2 #r" source="#i1">palantis</rdg>
+                                <rdg wit="#ν #φ #η #ρ2 #r" source="#i1">palantis</rdg>
                                 <rdgGrp type="subvariants">
                                     <rdg wit="#α"><add place="inline" hand="#α1" xml:id="rdg2.15.67">pallantes</add></rdg>
                                     <rdg wit="#κ" copyOf="#rdg2.15.67"/>
@@ -3744,7 +4690,7 @@
                                 <rdg wit="#φ #ν #θ #ζ #r">ornus</rdg>
                                 <rdg wit="#s">ortus</rdg>
                                 <rdg source="#n #o">hortus</rdg>
-                                <rdg source="#Titii #l1 #i1 #p #h #t #Vienn. #Scaliger #Guid. #Barth #Ulit. #Wernsd. #Beck #Glaeser #Keene">hornus</rdg>
+                                <rdg source="#coddTitii #l1 #i1 #p #h #t #Vienn. #Scaliger #Guid. #Barth #Ulit. #Wernsd. #Beck #Glaeser #Keene">hornus</rdg>
                                 <!-- codd. -->
                                 <note><q>totum-hornum</q> vel <q>foetus-hornus</q>
                                     <ref target="#Burm.">Burm.</ref></note>
@@ -3856,7 +4802,7 @@
                             </app>,</l>
                         <l n="77"><app>
                                 <lem wit="#p #φ #α #κ #ρ #ν #θ #η2 #λ2 #χ2 #ζ" source="#edd.">sume</lem>
-                                <rdg wit="#N #G H #π #β #λ1 #χ1 #η1">summe</rdg>
+                                <rdg wit="#N #G #H #π #β #λ1 #χ1 #η1">summe</rdg>
                                 <rdg wit="#ε #δ #e #u #b">summo</rdg>
                                 <rdg wit="#γ #μ #d2" source="#i #l2 #p">sumo</rdg>
                             </app>
@@ -3917,7 +4863,7 @@
                         <l n="81">mille <app>
                                 <lem wit="#G #A #α" source="#edd.">renidenti</lem>
                                 <rdg wit="#N">renitendi</rdg>
-                                <rdg wit="#G #ε #γ #β #η #δ #θ #π2 #ν #κ #λ #ρ #φ #χ #ζ #r #u #e #b" source="#i2 #l2 #o #n #s #g #Titius" xml:id="rdg2.16.81">renitenti</rdg>
+                                <rdg wit="#G #ε #γ #β #η #δ #θ #π2 #ν #κ #λ #ρ #φ #χ #ζ #r #u #e #b" source="#i2 #l2 #o #n #s #g #Tit." xml:id="rdg2.16.81">renitenti</rdg>
                                 <witDetail wit="#G" target="#rdg2.16.81">(in mg.)</witDetail>
                                 <witDetail wit="#b" target="#rdg2.16.81">(corr. <ref target="#Guid.">Guid.</ref></witDetail>
                                 <!-- Corresponded with Bob about this. Not a correction, really. -->
@@ -4214,7 +5160,7 @@
                             <note>olim</note>
                         </app> pares: et <app>
                             <lem>ob hoc</lem>
-                            <rdg wit="#η #φ #ν #ρ2 #ζ #r" source="#Ulit. #t #Burm. #Beck.">ab
+                            <rdg wit="#η #φ #ν #ρ2 #ζ #r" source="#Ulit. #t #Burm. #Beck">ab
                                 hoc</rdg>
                         </app> concordes <app>
                             <lem>vivite</lem>
@@ -4285,12 +5231,13 @@
                             </app></l>
                         <l n="5">iam dudum <app>
                                 <lem source="#Heins. #Baehr. #Schenkl">nullus</lem>
-                                <rdg wit="#ω #r #e #s #d2" source="#u #p #h #t #Barth #Ulit. #Burm. #Glaeser #Keene, #def. #Ellis #(l. #l. #p. #91)" xml:id="rdg3.5nullis">nullis</rdg>
+                                <rdg wit="#ω #r #e #s #d2" source="#u #p #h #t #Barth #Ulit. #Burm. #Glaeser #Keene" xml:id="rdg3.5nullis">nullis</rdg>
                                 <rdg wit="#edd.">et nullis</rdg>
                                 <rdgGrp type="corrMarg">
                                     <rdg wit="#G" varSeq="1">multis</rdg>
                                     <rdg wit="#G" varSeq="2"><add place="margin" copyOf="#rdg3.5nullis"/></rdg>
                                 </rdgGrp>
+                            <note target="#rdg3.5nullis">def. <ref target="#Ellis">Ellis</ref> l. l. p. 91</note>
                             </app> dubitavi crura rubetis</l>
                         <l n="6">scindere, <app>
                                 <lem wit="#N #V">nec quicquam</lem>
@@ -4313,7 +5260,7 @@
                                 <rdg wit="#P #V #edd.">neque</rdg>
                             </app> enim vacat. uror, <app>
                                 <lem>Iolla</lem>
-                                <rdg wit="#N #φ #π #χ #α #ν #λ #ρ #r #s" source="#BeckSqq.">iolla</rdg>
+                                <rdg wit="#N #φ #π #χ #α #ν #λ #ρ #r #s" source="#BeckSqq">iolla</rdg>
                                 <rdg wit="#G #P #δ #β">yolla</rdg>
                                 <rdg wit="#γ #μ #ε #κ #η" source="#eddAnteBeck">iola</rdg>
                             </app>,</l>
@@ -4445,10 +5392,10 @@
                                         <lem>abibo</lem>
                                         <rdg wit="#P">adhibo</rdg>
                                     </app></lem>
-                                <rdg source="#Leo #Fritzche" xml:id="rdg3.18quamvis">quamvis
+                                <rdg source="#Leo #Fritzsche" xml:id="rdg3.18quamvis">quamvis
                                     contemptus adibo</rdg>
                                 <note target="rdg3.18quamvis">Leo (l.l. p. 617) Fritzche (De Calp.
-                                    ecl. I-III Schwerin 1903 p.14)</note>
+                                    ecl. I–III Schwerin 1903 p.14)</note>
                             </app>.</l>
                         <l n="19"><app>
                                 <lem wit="#P #ε #φ #ρ2 #ν #η" source="#edd.">Tityre</lem>
@@ -4500,8 +5447,8 @@
                                         <lem wit="#N #P #V" source="#edd.">vos tam</lem>
                                         <rdg wit="#G">nos tam</rdg>
                                         <rdg wit="#Baehr.">noxam</rdg>
-                                        <rdg wit="#C. #Schenkl #Schenkl1 #Iacoby" xml:id="rdg3.22restam">res tam</rdg>
-                                        <note target="#rdg3.22restam">Iacoby (l.l. p.1291)</note>
+                                        <rdg wit="#CSchenkl #Schenkl1 #Jacoby" xml:id="rdg3.22restam">res tam</rdg>
+                                        <note target="#rdg3.22restam">Jacoby (l.l. p.1291)</note>
                                     </app>
                                     <app>
                                         <lem>magna</lem>
@@ -4607,7 +5554,7 @@
                                 <rdg wit="#d1">alterius</rdg>
                             </app> tulerim. nam protinus <app>
                                 <lem>ambas</lem>
-                                <rdg source="#VictorVigilius">amba</rdg>
+                                <rdg source="#Vigilius">amba</rdg>
                             </app></l>
                         <l n="30"><app>
                                 <lem wit="#N #G #P #ρ2 #d #s" source="#n #h #p #t #Ulit. #Kempfer #Barth #Burm. #Wernsd. #Baehr. #Schenkl">diduxi</lem>
@@ -4665,10 +5612,10 @@
                                 <lem>ac</lem>
                                 <rdg wit="#G">hac</rdg>
                                 <rdg source="#Barth">at</rdg>
-                                <rdg source="#Scriver">ah</rdg>
+                                <rdg source="#Scriverius">ah</rdg>
                             </app> ne forte <app>
                                 <lem wit="#N #G #P" source="#Baehr. #Schenkl">negetur</lem>
-                                <rdg wit="#V" source="#edd">vagetur</rdg>
+                                <rdg wit="#V" source="#edd.">vagetur</rdg>
                             </app>,</l>
                         <l n="34"><app>
                                 <lem source="#Baehr. #Schenkl">a!</lem>
@@ -4832,7 +5779,7 @@
                             </app> lumina somno.</l>
                         <l n="48">non sic <app>
                                 <lem wit="#N #P" source="#BurmSqq">destricta</lem>
-                                <rdg wit="#G #ρ2" source="#i1 #1l #Guid. #Tit. #Barth #Tig. #Vienn. #p #Heins.">districta</rdg>
+                                <rdg wit="#G #ρ2" source="#i1 #l1 #Guid. #Tit. #Barth #Tig. #Vienn. #p #Heins.">districta</rdg>
                                 <rdg wit="#V" source="#eddAnteBurm">destructa</rdg>
                                 <rdg wit="#λ">destructus</rdg>
                                 <rdg wit="#s">distincta</rdg>
@@ -4904,7 +5851,7 @@
                             </app>, <app>
                                 <lem>et</lem>
                                 <rdg wit="#ε #α #μ #γ #δ #e #u #d2" source="#b #i2 #l2">iam</rdg>
-                                <rdg source="#Fabric." xml:id="rdg3.53nec">nec</rdg>
+                                <rdg source="#Fabricius" xml:id="rdg3.53nec">nec</rdg>
                                 <note target="#rdg3.53nec">bibl. lat. III c. 5</note>
                             </app> candida lilia <app>
                                 <lem>fient</lem>
@@ -4922,8 +5869,8 @@
                                 <lem>Lycidas</lem>
                                 <rdg wit="#N">licidas</rdg>
                             </app>, quo <app>
-                                <lem wit="#N #G #α #γ #d" source="#p #h #Modius #Ulit. #BurmSqq.">te</lem>
-                                <rdg wit="#V #P" source="#eddAnteBurm.">tu</rdg>
+                                <lem wit="#N #G #α #γ #d" source="#p #h #Modius #Ulit. #BurmSqq">te</lem>
+                                <rdg wit="#V #P" source="#eddAnteBurm">tu</rdg>
                             </app>
                             <app>
                                 <lem>cantante</lem>
@@ -4943,7 +5890,7 @@
                             </app> cantus</l>
                         <l n="58"><!-- Need to figure out what to do about line omission. --><app>
                                 <lem>atque inter calamos errantia labra petisti.</lem>
-                                <rdg wit="δ"/>
+                                <rdg wit="#δ"/>
                             </app></l>
                         <l n="59"><app>
                                 <lem>a</lem>
@@ -4971,7 +5918,7 @@
                             </app>, fugis? formosior illo</l>
                         <l n="62">dicor, et hoc ipsum mihi tu <app>
                                 <!-- This whole entry deserves a second look. ρ is listed with two different readings. V isn't exactly right, since there are exceptions … -->
-                                <lem wit="#N #G #P #ρ2" source="#GlaeserSqq.">iurare</lem>
+                                <lem wit="#N #G #P #ρ2" source="#GlaeserSqq">iurare</lem>
                                 <rdg wit="#V" source="#eddAnteGlaeser">narrare</rdg>
                                 <rdg wit="#κ #ρ1">narare</rdg>
                             </app> solebas.</l>
@@ -5029,7 +5976,7 @@
                                 </rdgGrp>
                             </app> multa <app>
                                 <lem xml:id="lem3.67suos" exclude="#rdg3.67natas">suos</lem>
-                                <rdg wit="δ" xml:id="rdg3.67suas" exclude="#lem3.67natos">suas</rdg>
+                                <rdg wit="#δ" xml:id="rdg3.67suas" exclude="#lem3.67natos">suas</rdg>
                             </app>
                             <app>
                                 <lem>suspendat</lem>
@@ -5063,7 +6010,7 @@
                                     </app> et <app>
                                         <!-- Wrapping the first word of the combo nullo-lacte in an <app> and using @exclude to pair readings with each other. -->
                                         <lem wit="#N #G #P" source="#pSqq" xml:id="lem3.69nullo" exclude="#rdg3.69lactisa #rdg3.69lacte #rdg3.69lactisb">nullo</lem>
-                                        <rdg wit="#V #H2" source="#edd. #antep #Wernsd. #Beck." xml:id="rdg3.69nulla1" exclude="#lem3.69lacte #rdg3.69lacte #rdg3.69lactisb">nulla</rdg>
+                                        <rdg wit="#V #H2" source="#edd. #antep #Wernsd. #Beck" xml:id="rdg3.69nulla1" exclude="#lem3.69lacte #rdg3.69lacte #rdg3.69lactisb">nulla</rdg>
                                         <rdg wit="#H1" source="#Glaeser" xml:id="rdg3.69nulla2" exclude="lem3.69lacte #rdg3.69lactisa #rdg3.69lactisb">nulla</rdg>
                                         <rdg wit="#d" source="#Burm." xml:id="rdg3.69nullo" exclude="#lem3.69lacte #rdg3.69lactisa #rdg3.69lacte">nullo</rdg>
                                         <rdgGrp type="conjectures" xml:id="rdgGrpBurmCon">
@@ -5107,12 +6054,12 @@
                                 <rdg wit="#ω" source="#edd." xml:id="rdg3.72scilicet">scilicet</rdg>
                                 <note target="#rdg3.72scilicet">def. <ref target="#Ellis">Ellis</ref> (l. l. p. 90)</note>
                                 <rdg wit="#κ #χ">silicet</rdg>
-                                <rdg wit="μ">sed</rdg>
+                                <rdg wit="#μ">sed</rdg>
                                 <rdg source="#Schenkl">seu licet</rdg>
                                 <rdg source="#Heins.">quin licet</rdg>
                                 <rdg source="#Burm. #Baehr.">si libet</rdg>
                                 <rdg source="#Maehly">si placet</rdg>
-                                <rdg source="#Iacoby" xml:id="rdg3.72ilicis">ilicis</rdg>
+                                <rdg source="#Jacoby" xml:id="rdg3.72ilicis">ilicis</rdg>
                                 <note target="#rdg3.72ilicis">l. l. p. 1291</note>
                                 <rdg source="#Leo" xml:id="rdg3.72Leo">et salice</rdg>
                                 <note target="#rdg3.72Leo">Leo dubitanter proposuit</note>
@@ -5342,11 +6289,11 @@
                                 <rdg wit="#N #G">Phillida</rdg>
                                 <rdg wit="#P">Philida</rdg>
                             </app> Mopsus <app>
-                                <lem wit="#N #G #A" source="#Tit. #Barth #Scriver. #Ulit. #Kempfer #Burm. #Baehr. #Schenkl">habet</lem>
+                                <lem wit="#N #G #A" source="#Tit. #Barth #Scriverius #Ulit. #Kempfer #Burm. #Baehr. #Schenkl">habet</lem>
                                 <!-- "Scriver" is "Scriverius". It's a reference to Scriverius' commentary on Martial (perhaps XII.20?) -->
                                 <rdg wit="#P #V" source="#edd.">amat</rdg>
                             </app>, <app>
-                                <lem source="#Burm. #Scriver. #Glaeser #Baehr. #Keene #Schenkl" xml:id="lem3.9lycidan">Lycidan</lem>
+                                <lem source="#Burm. #Scriverius #Glaeser #Baehr. #Keene #Schenkl" xml:id="lem3.9lycidan">Lycidan</lem>
                                 <!-- probavit H. Cocchia -->
                                 <rdg wit="#γ #φ #ε #ν" source="#edd." xml:id="rdg3.91lycidas">Lycidas</rdg>
                                 <note target="rdg3.91lycidas">def. <ref target="#Ellis">Ellis</ref>
@@ -5427,7 +6374,7 @@
                         <l n="96">Ibimus: <app>
                                 <lem>et veniet</lem>
                                 <rdg wit="#κ #χ">et venias</rdg>
-                                <rdg wit="#ρ1 #λ #α #υ #δ #η #ν #π #φ #β #θ #r">et venies</rdg>
+                                <rdg wit="#ρ1 #λ #α #μ #δ #η #ν #π #φ #β #θ #r">et venies</rdg>
                                 <rdg source="#Glaeser">eveniet</rdg>
                             </app>, nisi me praesagia <app>
                                 <lem>fallunt</lem>
@@ -5579,7 +6526,7 @@
                                 <rdg wit="#δ">cantatur</rdg>
                             </app>,</l>
                         <l n="8">qui populos <app>
-                                <lem wit="#N #G #P #β #δ #π #ρ #θ" source="#i1 #l1 #Vienn #p #h #Barth #Baehr. #Schenkl">urbesque</lem>
+                                <lem wit="#N #G #P #β #δ #π #ρ #θ" source="#i1 #l1 #Vienn. #p #h #Barth #Baehr. #Schenkl">urbesque</lem>
                                 <rdg wit="#ε #κ #λ #α #χ #μ #γ" source="#edd.">urbemque</rdg>
                                 <rdg wit="#ν #φ #η #r #s" source="#o #n">urbisque</rdg>
                             </app> regit <app>
@@ -5606,7 +6553,7 @@
                             </app>, o iuvenis, sed magnae <app>
                                 <lem wit="#N #G #P #A" source="#edd.">numina</lem>
                                 <rdg wit="#V #r #e #u #b #d2 #s" source="#i #l2 #n #o">munera</rdg>
-                                <rdg wit="#χ" source="#Titius #Ulit." xml:id="rdg4.10moenia">moenia</rdg>
+                                <rdg wit="#χ" source="#Tit. #Ulit." xml:id="rdg4.10moenia">moenia</rdg>
                                 <witDetail wit="χ" target="#rdg4.10moenia">in mg.</witDetail>
                             </app> Romae</l>
                         <l n="11">non ita cantari debent, ut ovile <app>
@@ -5623,7 +6570,7 @@
                             </app></speaker>
                         <l n="12"><app>
                                 <lem wit="#G #ν #φ #λ #α #μ #ε #χ">Quidquid</lem>
-                                <rdg wit="#P #κ # ρ #β #γ #π">quicquid</rdg>
+                                <rdg wit="#P #κ #ρ #β #γ #π">quicquid</rdg>
                                 <rdg wit="#N1">quidque . . .</rdg>
                                 <rdg wit="#N2">quidque qd</rdg>
                             </app>
@@ -5687,8 +6634,8 @@
                                 <lem>haec</lem>
                                 <rdg source="#Gudius">hac</rdg>
                             </app> eadem nobis frater <app>
-                                <lem wit="#N #G #ρ2" source="#i1 #l1 #Vienn. #Ulit. #h. #p #WernsdSqq">meditatur</lem>
-                                <rdg wit="#V" source="#eddAnteWernsd.">meditatus</rdg>
+                                <lem wit="#N #G #ρ2" source="#i1 #l1 #Vienn. #Ulit. #h #p #WernsdSqq">meditatur</lem>
+                                <rdg wit="#V" source="#eddAnteWernsd">meditatus</rdg>
                             </app>
                             <app>
                                 <lem wit="#ν #φ" source="#edd.">Amyntas</lem>
@@ -5705,7 +6652,7 @@
                                     <rdg source="#Heins." xml:id="rdg4.18Heins1" exclude="#rdg4.18amonet #rdg4.18admonet #rdg4.18Gronov-admonet #rdg4.18amovet">bis dena</rdg>
                                     <rdg source="#Heins." xml:id="rdg4.18Heins2" exclude="#lem4.18admovet #rdg4.18amonet #rdg4.18admonet #rdg4.18Gronov-admonet">bis dena</rdg>
                                 </rdgGrp>
-                                <rdg source="#Gronov" xml:id="rdg4.18Gronov-vicina" copyOf="#lem4.18vicina" exclude="#lem4.18admovet #rdg4.18admonet #rdg4.18amonet #rdg4.18amovet"/>
+                                <rdg source="#Gronov." xml:id="rdg4.18Gronov-vicina" copyOf="#lem4.18vicina" exclude="#lem4.18admovet #rdg4.18admonet #rdg4.18amonet #rdg4.18amovet"/>
                                 <note target="#rdg4.18vicina-admonet">in omiss. ad Diatr. Statii
                                         <ptr target="https://books.google.com/books?id=zBk-AAAAcAAJ&amp;dq=gronovius%20diatrib&amp;pg=PA415#v=onepage&amp;q=gronovius%20diatrib&amp;f=false"/>p. 415</note>
                             </app> meis natalibus <app>
@@ -5714,7 +6661,7 @@
                                 <rdg wit="#μ #η" xml:id="rdg4.18admonet" exclude="#rdg4.18Barth-vicena #rdg4.18Burm-vicena #rdg4.18Heins1 #rdgHeins2 #rdg4.18Gronov-vicina">admonet</rdg>
                                 <rdg source="#BarthAdv" xml:id="rdg4.18amovet" exclude="#lem4.18vicina #rdg4.18Burm-vicena #rdg4.18Heins1 #rdg4.18Heins2 #rdg4.18Gronov-vicina">amovet</rdg>
                                 <note target="#rdg4.18amovet">Adv. XII 10</note>
-                                <rdg source="Gronov" xml:id="rdg4.18Gronov-admonet" copyOf="#rdg4.18admonet" exclude="#lem4.18vicina #rdg4.18Barth-vicena #rdg4.18Burm-vicena #rdg4.18Heins1 #rdg4.18Heins2"/>
+                                <rdg source="Gronov." xml:id="rdg4.18Gronov-admonet" copyOf="#rdg4.18admonet" exclude="#lem4.18vicina #rdg4.18Barth-vicena #rdg4.18Burm-vicena #rdg4.18Heins1 #rdg4.18Heins2"/>
                             </app> aetas.</l>
                     </sp>
                     <sp who="#Meliboeus">
@@ -5733,17 +6680,17 @@
                                 <witDetail wit="#N" target="#lem4.20non_cohibes">(in quo
                                     chohibes)</witDetail>
                                 <rdg wit="#V" source="#eddAnteBeck">nunc cohibes</rdg>
-                                <rdg source="#Titius">tunc cohibes</rdg>
+                                <rdg source="#Tit.">tunc cohibes</rdg>
                                 <rdg source="#Heins.">tun' coges</rdg>
                                 <rdgGrp type="conjectures">
                                     <rdg source="Burm.">non cohibes</rdg>
                                     <rdg source="Burm.">vix una prohibes</rdg>
                                 </rdgGrp>
-                                <rdg wit="#codTitii">nunc cogis</rdg>
+                                <rdg wit="#coddTitii">nunc cogis</rdg>
                             </app>, levibus quem saepe cicutis</l>
                         <l n="21">ludere conantem vetuisti <app>
                                 <lem>fronte</lem>
-                                <rdg source="#Titius">voce</rdg>
+                                <rdg source="#Tit.">voce</rdg>
                             </app>
                             <app>
                                 <lem>paterna</lem>
@@ -5755,7 +6702,7 @@
                                 <l n="22">
                                     <app>
                                         <lem/>
-                                        <rdg wit="ω η φ r" source="n">M.</rdg>
+                                        <rdg wit="#ω #η #φ #r" source="#n">M.</rdg>
                                     </app>
                                     <!-- Not happy about this. See above, line 16 -->dicentem, <app>
                                         <lem>Corydon</lem>
@@ -5779,7 +6726,7 @@
                                 <rdg wit="#V" source="#eddAnteWernsd">et</rdg>
                             </app>, <app>
                                 <lem>potius</lem>
-                                <rdg wit="θ">procul</rdg>
+                                <rdg wit="#θ">procul</rdg>
                             </app>
                             <app>
                                 <lem>glandes</lem>
@@ -5867,7 +6814,7 @@
                             </app> rubosque</l>
                         <l n="32">colligerem viridique <app>
                                 <lem>famem</lem>
-                                <rdg source="#Titius">iam me</rdg>
+                                <rdg source="#Tit.">iam me</rdg>
                             </app>
                             <app>
                                 <lem>solarer</lem>
@@ -5914,8 +6861,8 @@
                                 <rdg wit="#N #π #α #ρ1" source="#i1">amarilidos</rdg>
                                 <rdg wit="#ε #γ #δ #e #d2">amarilidis</rdg>
                                 <rdg wit="#ρ2 #b">amarylidos</rdg>
-                                <rdg wit="u">amarylidis</rdg>
-                                <rdg wit="μ">amaididis</rdg>
+                                <rdg wit="#u">amarylidis</rdg>
+                                <rdg wit="#μ">amaididis</rdg>
                                 <rdg source="#l2 #g #i2 #Gryph.">amaryllidis</rdg>
                             </app>, ultima nuper</l>
                         <l n="39"><app>
@@ -5963,7 +6910,7 @@
                                 <rdg wit="#G" source="#i1">Gerionis</rdg>
                                 <rdg wit="#V #r #d #e #s">germani</rdg>
                                 <rdg wit="#δ">germanis</rdg>
-                                <rdg source="#HeinsHer #Burm. #t." xml:id="rdg4.41Geryonae">Geryonae</rdg>
+                                <rdg source="#HeinsHer #Burm. #t" xml:id="rdg4.41Geryonae">Geryonae</rdg>
                                 <note target="#rdg4.41Geryonae">Heins. (ad Ovid. Her. 8,9)<ptr target="https://books.google.com/books?id=uuYJ9S-mr2QC&amp;pg=RA2-PA67#v=onepage&amp;q&amp;f=false"/></note>
                             </app>, liquidis ubi cursibus ingens</l>
                         <l n="42">dicitur occiduas <app>
@@ -6027,7 +6974,7 @@
                                     </app> dumeta camenas</l>
                                 <l n="47"><app>
                                         <lem>respiceret</lem>
-                                        <rdg source="#Titius">respicerent</rdg>
+                                        <rdg source="#Tit.">respicerent</rdg>
                                     </app>; <app>
                                         <lem>non ipse daret</lem>
                                         <rdg source="#Heins.">non hisce daret</rdg>
@@ -6149,7 +7096,7 @@
                                         Apollo.</l></rdg>
                             </rdgGrp>
                             <witDetail wit="#φ #ν #η #ρ1 #θ #π #r" target="#rdg4.56LineCongl">vv.
-                                56-57 sic conglut. <ref target="#φ">φ</ref>
+                                56–57 sic conglut. <ref target="#φ">φ</ref>
                                 <ref target="#ν">ν</ref>
                                 <ref target="#η">η</ref>
                                 <ref target="#ρ1">ρ1</ref>
@@ -6173,7 +7120,7 @@
                             <app>
                                 <lem wit="#α #γ #ε #δ" source="#edd.">si tu</lem>
                                 <rdg wit="#N #G #H #ν #λ #κ #μ #φ #κ #χ #η #β #θ #r #s" source="#o #n">tu si</rdg>
-                                <rdg wit="ρ">si tu si</rdg>
+                                <rdg wit="#ρ">si tu si</rdg>
                             </app> faveas trepido mihi, <app>
                                 <lem xml:id="lem4.58forsitan">forsitan</lem>
                                 <rdgGrp type="anteCorr">
@@ -6191,7 +7138,7 @@
                                 <rdg wit="#ε #e" source="#o #n #Tig.">heri quos mihi</rdg>
                                 <rdg wit="#η #ν #κ #β #μ #π #χ #ρ1 #r #s">heri quos</rdg>
                                 <rdg wit="#λ #α #δ">et heri quos</rdg>
-                                <rdg wit="φ">eri quos</rdg>
+                                <rdg wit="#φ">eri quos</rdg>
                                 <rdg wit="#d">quis iam mihi</rdg>
                                 <rdg source="#Heins.">here quîs me</rdg>
                             </app>
@@ -6228,7 +7175,7 @@
                                 <rdg wit="#N #G">quoque</rdg>
                             </app> primus in istis</l>
                         <l n="63">montibus <app>
-                                <lem source="#i2sqq">Hyblaea</lem>
+                                <lem source="#i2Sqq">Hyblaea</lem>
                                 <rdg wit="#N #G #κ #β #α #λ #δ">hiblea</rdg>
                                 <rdg wit="#ν #ρ #η #ε #γ #χ #φ #r #e #u #b #s" source="#o #n #i2 #l2 #g #p" xml:id="rdg4.63hyblea">hyblea</rdg>
                                 <witDetail wit="#ρ" target="#rdg4.63hyblea">in ras.</witDetail>
@@ -6292,7 +7239,7 @@
                             </app> rutilo spargebat <app>
                                 <lem wit="#G #edd.">acantho</lem>
                                 <rdg wit="#N #ρ1">acanto</rdg>
-                                <rdg wit="#η #δ #χ #ν #κ #λ #μ #π #ο #β #r #s" source="#n">achanto</rdg>
+                                <rdg wit="#η #δ #χ #ν #κ #λ #μ #π #β #r #s" source="#n #o">achanto</rdg>
                                 <rdg wit="#ε #γ #ρ2 #u #e #b">achantho</rdg>
                                 <rdg wit="#α">archanto</rdg>
                             </app></l>
@@ -6359,7 +7306,7 @@
                                 <lem>scimus enim</lem>
                                 <rdg wit="#ν #φ #η #θ #r">dicimus en</rdg>
                             </app>, <app>
-                                <lem source="#ViennSqq.">quam</lem>
+                                <lem source="#ViennSqq">quam</lem>
                                 <rdg wit="#ω #r #u #e #b #d #s" source="#i #l #o #n #Modius">quia</rdg>
                             </app> te non <app>
                                 <lem>aspernetur</lem>
@@ -6503,7 +7450,7 @@
                         <lg type="strophe" n="1" xml:id="C4strophe1">
                             <l n="82"><app>
                                     <lem wit="#N #α #β #ρ #λ #ν #η #φ #γ #ε">Ab</lem>
-                                    <rdg wit="#G #π #κ #χ #υ #δ">a</rdg>
+                                    <rdg wit="#G #π #κ #χ #μ #δ">a</rdg>
                                 </app> Iove principium, si quis <app>
                                     <lem wit="#V" source="#edd." xml:id="lem4.82canit">canit</lem>
                                     <rdgGrp type="anteCorr">
@@ -6661,7 +7608,7 @@
                         <lg type="strophe" n="3" xml:id="C4strophe3">
                             <l n="92">Ipse polos etiam <app>
                                     <lem>qui</lem>
-                                    <rdg wit="#u" source="#l2 #g #i2 #Gryph">quo</rdg>
+                                    <rdg wit="#u" source="#l2 #g #i2 #Gryph.">quo</rdg>
                                 </app> temperat igne geluque,</l>
                             <l n="93">Iuppiter <app>
                                     <lem>ipse</lem>
@@ -6863,7 +7810,7 @@
                                     <rdg wit="#δ">faetus</rdg>
                                     <rdg wit="#π #ρ1 #u #β">fetus</rdg>
                                     <rdg wit="#κ #χ #λ">foetus</rdg>
-                                    <rdg source="#Titius">setis</rdg>
+                                    <rdg source="#Tit.">setis</rdg>
                                 </app>?</l>
                             <l n="105">hoc <app>
                                     <lem wit="#V" source="#edd.">ego iam</lem>
@@ -6873,7 +7820,7 @@
                                     <note target="#rdg4.105">olim</note>
                                 </app>, memini, semel <app>
                                     <lem>hac</lem>
-                                    <rdg source="#Titius #Mollius">haud</rdg>
+                                    <rdg source="#Tit.">haud</rdg><!-- Note that Giarratano here lists "Mollius" as a source, but that is a misreading of Burman's note on Titius' reading. -->
                                 </app> in <app>
                                     <lem>valle</lem>
                                     <rdg wit="#N">vale</rdg>
@@ -6942,7 +7889,7 @@
                                     <rdg wit="#φ" source="#i1 #Guid.">qui silva</rdg>
                                     <rdg wit="#η #θ #r">quoi silva</rdg>
                                     <rdg wit="#ε #e">gusilva</rdg>
-                                    <rdg source="#coddTitii #Titius #Ulit. #Barth #p #h">quo
+                                    <rdg source="#coddTitii #Tit. #Ulit. #Barth #p #h">quo
                                         silva</rdg>
                                 </app>
                                 <app>
@@ -7002,7 +7949,7 @@
                                     <rdg wit="#N #G">cepit</rdg>
                                 </app> et uberior, <app>
                                     <lem>sulcis</lem>
-                                    <rdg wit="#Η #π #φ #ρ1 #χ1 #ν #κ #α #η #δ #β #ε #γ #r #e #d2 #s #u #b" source="#l2 #i #n #o">succis</rdg>
+                                    <rdg wit="#H #π #φ #ρ1 #χ1 #ν #κ #α #η #δ #β #ε #γ #r #e #d2 #s #u #b" source="#l2 #i #n #o">succis</rdg>
                                     <rdg wit="#μ #λ #χ2">sucis</rdg>
                                 </app>
                                 <app>
@@ -7072,7 +8019,7 @@
                                     <lem>siccato</lem>
                                     <rdg wit="#d">siccata</rdg>
                                     <rdg source="#Heins.">sicca cito</rdg>
-                                    <rdg source="#Titius">soccato</rdg>
+                                    <rdg source="#Tit.">soccato</rdg>
                                 </app>
                                 <app>
                                     <lem>velox pede</lem>
@@ -7095,16 +8042,16 @@
                                 </app>
                                 <app>
                                     <lem>metuit</lem>
-                                    <rdg source="#Titius">metues</rdg>
+                                    <rdg source="#Tit.">metues</rdg>
                                 </app>
                                 <app>
                                     <lem>iactare</lem>
                                     <rdg source="#Maehly">tractare</rdg>
                                 </app> ligones</l>
                             <l n="118">fossor et invento, si <app>
-                                    <lem wit="#N #G #δ #π #λ" source="#Barth #Burm. #WernsdSqq.">fors</lem>
+                                    <lem wit="#N #G #δ #π #λ" source="#Barth #Burm. #WernsdSqq">fors</lem>
                                     <rdg wit="#φ">for</rdg>
-                                    <rdg wit="#V" source="#eddAnteWernsd.">sors</rdg>
+                                    <rdg wit="#V" source="#eddAnteWernsd">sors</rdg>
                                 </app>
                                 <app>
                                     <lem xml:id="lem4.118dedit">dedit</lem>
@@ -7236,7 +8183,7 @@
                                             <rdg wit="#χ1">fragmata</rdg>
                                             <rdg wit="#χ2">pragmata</rdg>
                                             <rdg source="#Ulit. #h #p #t #Tig." copyOf="#rdg4.125signata"/>
-                                            <rdg source="#Titius">sagnata</rdg>
+                                            <rdg source="#Tit.">sagnata</rdg>
                                             <rdg wit="#δ">sagmata</rdg>
                                             <rdgGrp type="conjectures">
                                                 <rdg source="Heins.">Sicana</rdg>
@@ -7306,7 +8253,7 @@
                                             <lem>viridante</lem>
                                             <rdg wit="#α">viridem</rdg>
                                         </app> licet mihi condere libro,</l></lem>
-                                <rdg wit="d2"/>
+                                <rdg wit="#d2"/>
                             </app>
                             <l n="131"><app>
                                     <lem xml:id="lem4.131turbida">turbida</lem>
@@ -7321,7 +8268,7 @@
                                     <rdg wit="#δ #φ #α #λ1">exundant</rdg>
                                     <rdg wit="#λ2">exanant</rdg>
                                     <rdg wit="#d1">exurgant</rdg>
-                                    <rdg source="#Titius">exurdent</rdg>
+                                    <rdg source="#Tit.">exurdent</rdg>
                                 </app>
                                 <app>
                                     <lem>classica</lem>
@@ -7422,8 +8369,8 @@
                                     <rdg source="#Vienn. #Tig.">vivas atque et hunc precor</rdg>
                                     <rdg wit="#d" source="#Modius">aeternum hunc te precor</rdg>
                                     <rdgGrp type="conjectures">
-                                        <rdg source="#Titius">vivas atque hunc precor</rdg>
-                                        <rdg source="#Titius">venias atque hunc precor</rdg>
+                                        <rdg source="#Tit.">vivas atque hunc precor</rdg>
+                                        <rdg source="#Tit.">venias atque hunc precor</rdg>
                                     </rdgGrp>
                                 </app>, orbem,</l>
                             <l n="145"><app>
@@ -7564,7 +8511,7 @@
                                 <lem wit="#N #G #A #H" source="#edd.">solent</lem>
                                 <rdg wit="#V #r #e">sonant</rdg>
                                 <rdg wit="#d #s" source="#o #n #Modius #Keene">legunt</rdg>
-                                <rdg source="#Titius">solet</rdg>
+                                <rdg source="#Tit.">solet</rdg>
                                 <rdg source="#Heins. #BarthAdv" xml:id="rdg4.151fovent">fovent</rdg>
                                 <note target="#rdg4.151fovent"><ref target="#BarthAdv">Barth</ref>
                                     (Adv. p. 1205 <ptr target="https://books.google.com/books?id=oIZNAAAAcAAJ&amp;pg=PT643#v=onepage&amp;q&amp;f=false"/>)</note>
@@ -7611,7 +8558,7 @@
                             <app>
                                 <lem>carmina versu</lem>
                                 <rdg source="#Haupt #Keene">carmine versus</rdg>
-                                <rdg source="#Titius">carmina mensu</rdg>
+                                <rdg source="#Tit.">carmina mensu</rdg>
                             </app></l>
                         <note target="#C4.152Line">"post 152 excidit versus in quo fuit <hi rend="italic">quae triviale</hi> (<hi rend="italic">riviale</hi>
                             errore typoth.) vel tale quid" <ref target="#Schenkl2">Schenkl2</ref></note>
@@ -7650,14 +8597,14 @@
                                     </app>
                                     <app>
                                         <lem>nam</lem>
-                                        <rdg source="#ExcPar.">michi</rdg>
+                                        <rdg source="#ExcPar">michi</rdg>
                                     </app> saepius aurem</l>
                                 <l n="156">invida Paupertas et <app>
                                         <lem wit="#N #G #d #ExcPar #d" source="#n #o #Barth #Baehr. #Schenkl">dicit</lem>
                                         <rdg wit="#V" source="#edd.">dixit</rdg>
                                     </app>: '<app>
                                         <lem source="#Heins. #BurmSqq">ovilia</lem>
-                                        <rdg wit="#ω" source="#eddAnteBurm.">vilia</rdg>
+                                        <rdg wit="#ω" source="#eddAnteBurm">vilia</rdg>
                                     </app>
                                     <app>
                                         <lem>cura</lem>
@@ -7667,7 +8614,7 @@
                                         <lem/>
                                         <rdg wit="#φ #ν #η #ρ2 #r #s" source="#n #o">A.</rdg>
                                     </app><app>
-                                        <lem source="#n #o #Beck #Glaeser #sqq.">at tu, si qua
+                                        <lem source="#n #o #Beck #GlaeserSqq">at tu, si qua
                                             tamen</lem>
                                         <rdg wit="#N #G #π #λ #φ #κ #χ #ν #β #η #θ #r #s">et tu si
                                             qua tamen</rdg>
@@ -7709,7 +8656,7 @@
                                 <rdg source="#Burm.">Tyronem e</rdg>
                             </app> silvis dominam deduxit <app>
                                 <lem>in</lem>
-                                <rdg source="#Titius">ad</rdg>
+                                <rdg source="#Tit.">ad</rdg>
                             </app> urbem</l>
                         <l n="162"><app>
                                 <lem xml:id="lem4.162ostenditque">ostenditque</lem>
