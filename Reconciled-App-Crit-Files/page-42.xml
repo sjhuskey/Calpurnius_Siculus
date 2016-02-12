@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Title</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Publication Information</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Information about the source</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listApp>
+                <app loc="C5.42.96">
+                    <lem>qua</lem>
+                    <rdg source="#Burm.">quae</rdg>
+                </app>
+                <app loc="C5.42.96">
+                    <lem> geras </lem>
+                    <rdg source="#Heins.">feras</rdg>
+                    <rdg source="#Maehly">regas</rdg>
+                    <rdg source="#Baehr.">teras</rdg>
+                </app>
+                <app loc="C5.42.97">
+                    <lem>et</lem>
+                    <rdg wit="#N">at</rdg>
+                </app>
+                <app loc="C5.42.97">
+                    <lem>laetas</lem>
+                    <rdg source="#Barth">lectas</rdg>
+                </app>
+                <app loc="C5.42.97">
+                    <lem wit="#N #G" source="#GlaeserSqq">circitor</lem>
+                    <!-- N (in quo vinitor m2) G. Glaeser sqq.-->
+                    <rdg wit="#V" source="#eddAnteGlaeser">vinitor</rdg>
+                </app>
+                <app loc="C5.42.98">
+                    <lem>vivasque</lem>
+                    <rdg source="#Heins.">nimiasque</rdg>
+                </app>
+                <app loc="C5.42.99">
+                    <lem wit="#N #G" source="#GlaeserSqq">nunc</lem>
+                    <!-- N (in quo tunc m2) -->
+                    <rdg wit="#V" source="#eddAnteGlaeser">tunc</rdg>
+                </app>
+                <app loc="C5.42.99">
+                    <lem>summatim</lem>
+                    <rdg wit="#G">sumatim</rdg>
+                </app>
+                <app loc="C5.42.100">
+                    <lem wit="#N #G" source="#GlaeserSqq">nunc</lem>
+                    <rdg wit="#V #r #s" source="#n #o #Beck">tunc</rdg>
+                    <rdg wit="#A #ε #γ" source="#eddAnteGlaeser">tum</rdg>
+                </app>
+                <app loc="C5.42.100">
+                    <lem wit="#N" source="#GlaeserSqq">hiemi</lem>
+                    <rdg wit="#G #H">hiemis</rdg>
+                    <rdg wit="#V" source="#eddAnteGlaeser">debes</rdg>
+                </app>
+                <app loc="C5.42.101">
+                    <lem>excutit</lem>
+                    <rdg source="#o">expuit</rdg>
+                </app>
+                <app loc="C5.42.101">
+                    <lem>Africus</lem>
+                    <rdg wit="#N #G #λ #ε #γ #β #e">affricus</rdg>
+                    <rdg wit="#s" source="#i1 #n #o">aphricus</rdg>
+                </app>
+                <app loc="C5.42.102">
+                    <lem wit="#γ" source="#pSqq.">has tibi</lem>
+                    <rdg wit="#N #G #φ #ν #η #r" source="#n #o">ast tibi</rdg>
+                    <rdg wit="#H #ε #α #δ #χ #β #μ #κ #π #λ" source="#eddAntep">ast ubi</rdg>
+                    <rdg wit="#A">ast ubi</rdg>
+                    <rdg wit="#A">ast tibi</rdg>
+                    <!-- ast ubi et ast tibi A. -->
+                    <rdg wit="#ρ #θ #s">at tibi</rdg>
+                </app>
+                <app loc="C5.42.102">
+                    <lem>conveniet</lem>
+                    <rdg wit="#N">cum veniet</rdg>
+                </app>
+                <app loc="C5.42.102">
+                    <lem>tepidis</lem>
+                    <rdg wit="#G">trepidis</rdg>
+                    <rdg wit="#p #h" source="#Barth">tepidas</rdg>
+                </app>
+                <app loc="C5.42.104">
+                    <lem source="#GlaeserSqq">hac</lem>
+                    <rdg wit="#N #G">hoc</rdg>
+                    <rdg wit="#A" source="#Barth">hic</rdg>
+                    <rdg wit="#V" source="#eddAnteGlaeser">sic</rdg>
+                    <rdg wit="#d" source="#Modius #Burm.">dic</rdg>
+                    <rdg source="#Baehr.">huc</rdg>
+                </app>
+                <app loc="C5.42.104">
+                    <lem wit="#μ" source="#Glaeser #Haupt #Schenkl">nitendum</lem>
+                    <rdg wit="#N">nectendum</rdg>
+                    <rdg wit="#G">videndum</rdg>
+                    <rdg wit="#V" source="#edd.">nitendum est</rdg>
+                    <rdg wit="#π1">interdum est</rdg>
+                </app>
+                <app loc="C5.42.104">
+                    <lem>hac tibi nitendum</lem>
+                    <rdg source="#Maehly">hac tibi nec standum est</rdg>
+                </app>
+                <app loc="C5.42.104">
+                    <lem wit="#N #G" source="#Haupt #Schenkl #Keene">hic</lem>
+                    <rdg wit="#V" source="#edd.">hoc</rdg>
+                    <rdg source="#Glaeser">hinc</rdg>
+                    <rdg source="#Baehr.">huc</rdg>
+                </app>
+                <!-- v v. 104 sq. post v. 118 Schenkl1 collocandos censnit. 105 -->
+                <app loc="C5.42.105">
+                    <lem wit="#N #G" source="#GlaeserSqq">redit</lem>
+                    <rdg wit="#V" source="#eddAnteGlaeser">venit</rdg>
+                </app>
+                <app loc="C5.42.105">
+                    <lem>pastoria</lem>
+                    <rdg wit="#N #G">pastoralia</rdg>
+                    <!-- N (in quo corr. m2) G (in quo correctum est in mg.) -->
+                </app>
+                <app loc="C5.42.106">
+                    <lem wit="#N #G #γ #η #ρ2 #d" source="#Baehr. #Schenkl">ne</lem>
+                    <rdg wit="#V" source="#edd.">nec</rdg>
+                </app>
+                <app loc="C5.42.106">
+                    <lem>siccis miscere</lem>
+                    <rdg wit="#G">sucis miserere</rdg>
+                </app>
+                <app loc="C5.42.107">
+                    <lem wit="#G #λ #μ #χ">sucos</lem>
+                    <rdg wit="#N #V">succos</rdg>
+                    <rdg source="#Heins.">sulcos</rdg>
+                </app>
+                <app loc="C5.42.107">
+                    <lem source="#Giarratano">cum torrida</lem>
+                    <rdg wit="#N #G #V" source="#edd.">ne torrida</rdg>
+                    <rdg wit="#H #ε #γ #ρ2 #u #e #b #d2" source="#l2 #i2">neu torrida</rdg>
+                    <rdg source="#Haupt">dum torrida</rdg>
+                    <rdg source="#Ulit.">ne ut torrida</rdg>
+                    <rdg source="#Burm.">ne turbida</rdg>
+                    <rdg source="#Modius #Martellus #Baehr. #Schenkl">licet horrida</rdg>
+                </app>
+                <app loc="C5.42.108">
+                    <lem>instet</lem>
+                    <rdg source="#Ulit.">instat</rdg>
+                    <rdg source="#Burm.">cum stet</rdg>
+                </app>
+                <app loc="C5.42.108">
+                    <lem wit="#N #γ #π #κ #β #ρ1">hiems</lem>
+                    <rdg wit="#G #ν #λ #ρ2 #α #ε #δ #η">hyems</rdg>
+                    <!-- Letter between the α and δ is faded.  Unsure if it really is ε or not. -->
+                    <rdg wit="#μ #χ">hyemps</rdg>
+                    <rdg wit="#φ">hyens</rdg>
+                </app>
+                <app loc="C5.42.108">
+                    <lem>coactis</lem>
+                    <rdg source="#Glaeser">coactus</rdg>
+                    <!-- Glaeser (ex cod. Pal. Barthii). -->
+                </app>
+                <app loc="C5.42.109">
+                    <lem wit="#N #G" source="#Martellus #Ulit. #h #t #Ellis #Schenkl #2">incurvare
+                        velit</lem>
+                    <!-- Ellis  (l. l. p. 90) -->
+                    <rdg wit="#V" source="#edd.">incurvare velis</rdg>
+                    <rdg source="#Haupt #Baehr. #Schenkl1 #Keene">incursare velet</rdg>
+                    <!-- Haupt (l. l. p. 31) -->
+                </app>
+                <app loc="C5.42.109">
+                    <lem>nemus</lem>
+                    <rdg wit="#ν #φ #η #θ #r" source="#i1 #Tit. #Vienn. #Heins.">vimen</rdg>
+                    <rdg wit="#κ #χ">nomen</rdg>
+                    <!-- κχ (in quo ramum in mg.). -->
+                </app>
+                <app loc="C5.42.109">
+                    <lem>et constringere</lem>
+                    <rdg source="#Tit. #Heins.">et stringere</rdg>
+                </app>
+                <app loc="C5.42.110">
+                    <lem>tu</lem>
+                    <rdg source="#i2">tum</rdg>
+                </app>
+                <app loc="C5.42.110">
+                    <lem>tamen aut</lem>
+                    <rdg wit="#λ">mihi seu</rdg>
+                </app>
+                <app loc="C5.42.110">
+                    <lem>leves</lem>
+                    <rdg wit="#φ #η #θ #r #s">levis</rdg>
+                </app>
+                <app loc="C5.42.110">
+                    <!-- Transition to page 43 -->
+                    <lem>hederas</lem>
+                    <rdg wit="#G #μ #ε">ederas</rdg>
+                    <rdg wit="#θ #φ #η #r">horedas</rdg>
+                </app>
+                <app loc="C5.42.110">
+                    <lem>aut molle</lem>
+                    <rdg wit="#θ">et molle</rdg>
+                </app>
+            </listApp>
+        </body>
+    </text>
+</TEI>

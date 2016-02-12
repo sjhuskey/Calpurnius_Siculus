@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="textpart" n="5" xml:id="poem5">
+            <head>5.</head>
+            <l n="1">Forte Micon senior Canthusque, Miconis alumnus,</l>
+            <l n="2">torrentem patula vitabant ilice solem,</l>
+            <l n="3">cum iuveni senior praecepta daturus alumno</l>
+            <l n="4">talia verba refert tremulis titubantia labris:</l>
+            <l n="5">'quas errare vides inter dumeta capellas</l>
+            <l n="6">canaque lascivo concidere germina morsu,</l>
+            <l n="7">Canthe puer, quos ecce greges a monte remotos</l>
+            <l n="8">cernis in aprico decerpere gramina campo,</l>
+            <l n="9">hos tibi do senior iuveni pater: ipse tuendos</l>
+            <l n="10">accipe. iam certe potes insudare labori,</l>
+            <l n="11">iam pro me gnavam potes exercere iuventam.</l>
+            <l n="12">aspicis ut nobis aetas iam mille querelas</l>
+            <l n="13">afferat et baculum premat inclinata senectus?</l>
+            <l n="14">sed qua lege regas et amantes lustra capellas</l>
+            <l n="15">et melius pratis errantes mollibus agnas,</l>
+            <l n="16">percipe. vere novo, cum iam tinnire volucres</l>
+            <l n="17">incipient nidosque reversa lutabit hirundo,</l>
+            <l n="18">protinus hiberno pecus omne movebis ovili.</l>
+            <l n="19">tunc etenim melior vernanti germine silva</l>
+            <l n="20">pullat et aestivas reparabilis incohat umbras,</l>
+            <l n="21">tunc florent silvae viridisque renascitur annus,</l>
+            <l n="22">tunc Venus et calidi scintillat fervor amoris</l>
+            <l n="23">lascivumque pecus salientes accipit hircos.</l>
+            <l n="24">sed non ante greges in pascua mitte reclusos,</l>
+            <l n="25">quam fuerit placata Pales. tum caespite vivo</l>
+            <l n="26">pone focum geniumque loci Faunumque Laresque</l>
+            <l n="27">salso farre voca; tepidos tunc hostia cultros</l>
+            <l n="28">imbuat: hac etiam, dum vivit, ovilia lustra.</l>
+            <l n="29">nec mora, tunc campos ovibus, dumeta capellis</l>
+            <l n="30">orto sole dabis, simul hunc transcendere montem</l>
+            <l n="31">coeperit ac primae spatium tepefecerit horae.</l>
+            <l n="32">at si forte vaces, dum matutina relaxat</l>
+            <l n="33">frigora sol, tumidis spument tibi mulctra papillis.</l>
+            <l n="34">in tenebris quod mane fluet, rursusque premetur</l>
+            <l n="35">mane quod occiduae mulsura redegerit horae.</l>
+            <l n="36">parce tamen fetis: ne sint compendia tanti,</l>
+            <l n="37">destruat ut niveos venalis caseus agnos;</l>
+            <l n="38">nam tibi praecipuo fetura coletur amore.</l>
+            <l n="39">te quoque non pudeat, cum serus ovilia vises,</l>
+            <l n="40">si qua iacebit ovis partu resoluta recenti,</l>
+            <l n="41">hanc umeris portare tuis natosque patenti</l>
+            <l n="42">ferre sinu tremulos et nondum stare paratos.</l>
+            <l n="43">nec tu longinquas procul a praesaepibus herbas</l>
+            <l n="44">nec nimis amotae sectabere pabula silvae,</l>
+            <l n="45">dum peragit vernum Iovis inconstantia tempus.</l>
+            <l n="46">veris enim dubitanda fides: modo fronte serena</l>
+            <l n="47">blandius arrisit, modo cum caligine nimbos</l>
+            <l n="48">intulit et miseras torrentibus abstulit agnas.</l>
+            <l n="49">at cum longa dies sitientes afferet aestus</l>
+            <l n="50">nec fuerit variante deo mutabile caelum,</l>
+            <l n="51">iam silvis committe greges, iam longius herbas</l>
+            <l n="52">quaere; sed ante diem pecus exeat: humida dulces</l>
+            <l n="53">efficit aura cibos, quotiens fugientibus euris</l>
+            <l n="54">frigida nocturno tanguntur pascua rore</l>
+            <l n="55">et matutinae lucent in gramine guttae.</l>
+            <l n="56">at simul argutae nemus increpuere cicadae,</l>
+            <l n="57">ad fontem compelle greges; nec protinus herbas</l>
+            <l n="58">et campos permitte sequi, sed protegat illos</l>
+            <l n="59">interea veteres quae porrigit aesculus umbras.</l>
+            <l n="60">verum ubi declini iam nona tepescere sole</l>
+            <l n="61">incipietque serique videbitur hora premendi,</l>
+            <l n="62">rursus pasce greges et opacos desere lucos.</l>
+            <l n="63">nec prius aestivo pecus includatur ovili,</l>
+            <l n="64">quam levibus nidis somnos captare volucris</l>
+            <l n="65">cogitet et tremulo queribunda fritinniat ore.</l>
+            <l n="66">cum iam tempus erit maturas demere lanas,</l>
+            <l n="67">sucida iam tereti constringere vellera iunco,</l>
+            <l n="68">hircorumque iubas et olentes caedere barbas,</l>
+            <l n="69">ante tamen secerne pecus gregibusque notatis</l>
+            <l n="70">consimiles include comas, ne longa minutis,</l>
+            <l n="71">mollia ne duris coeant, ne candida fuscis.</l>
+            <l n="72">sed tibi cum vacuas posito velamine costas</l>
+            <l n="73">denudavit ovis, circumspice, ne sit acuta</l>
+            <l n="74">forpice laesa cutis, tacitum ne pusula virus</l>
+            <l n="75">texerit occulto sub vulnere: quae nisi ferro</l>
+            <l n="76">rumpitur, a! miserum fragili rubigine corpus</l>
+            <l n="77">arrodet sanies et putria contrahet ossa.</l>
+            <l n="78">providus (hoc moneo) viventia sulphura tecum</l>
+            <l n="79">et scillae caput et virosa bitumina portes,</l>
+            <l n="80">vulneribus laturus opem. nec Brutia desit</l>
+            <l n="81">pix tibi: tu liquido picis unguine terga memento,</l>
+            <l n="82">si sint rasa, linas. durae quoque pondera malthae</l>
+            <l n="83">ardenti coquito lentumque bitumen aheno,</l>
+            <l n="84">impressurus ovi tua nomina; nam tibi lites</l>
+            <l n="85">auferet ingentes lectus possessor in armo.</l>
+            <l n="86">nunc etiam, dum siccus ager, dum fervida tellus,</l>
+            <l n="87">dum rimosa palus et multo torrida limo</l>
+            <l n="88">aestuat et fragiles nimium sol pulverat herbas,</l>
+            <l n="89">lurida conveniet succendere galbana saeptis</l>
+            <l n="90">et tua cervino lustrare mapalia fumo.</l>
+            <l n="91">obfuit ille malis odor anguibus: ipse videbis</l>
+            <l n="92">serpentum cecidisse minas: non stringere dentes</l>
+            <l n="93">ulla potest uncos, sed inani debilis ore</l>
+            <l n="94">marcet et obtuso iacet exarmata veneno.</l>
+            <l n="95">nunc age vicinae circumspice tempora brumae</l>
+            <l n="96">qua ratione geras. aperit cum vinea saepes</l>
+            <l n="97">et portat laetas securus circitor uvas,</l>
+            <l n="98">incipe falce nemus vivasque recidere frondes.</l>
+            <l n="99">nunc opus est teneras summatim stringere virgas,</l>
+            <l n="100">nunc hiemi servare comas, dum permanet humor,</l>
+            <l n="101">dum viret et tremulas non excutit Africus umbras.</l>
+            <l n="102">has tibi conveniet tepidis fenilibus olim</l>
+            <l n="103">promere, cum pecudes extremus clauserit annus.</l>
+            <l n="104">hac tibi nitendum, labor hic in tempore noster</l>
+            <l n="105">gnavaque sedulitas redit et pastoria virtus.</l>
+            <l n="106">ne pigeat ramos siccis miscere recentes</l>
+            <l n="107">et sucos adhibere novos: qcum torrida nimbis</l>
+            <l n="108">instet hiems nimioque gelu nivibusque coactis</l>
+            <l n="109">incurvare velit nemus et constringere frondes,</l>
+            <l n="110">tu tamen aut leves hederas aut molle salictum</l>
+            <l n="111">valle premes media: sitis est pensanda tuorum,</l>
+            <l n="112">Canthe, gregum viridante cibo: nihil aridus illis,</l>
+            <l n="113">ingenti positus quamvis strue, prosit acervus,</l>
+            <l n="114">virgea si desint liquido turgentia suco</l>
+            <l n="115">et quibus est aliquid plenae vitale medullae.</l>
+            <l n="116">praecipue gelidum stipula cum fronde caduca</l>
+            <l n="117">sterne solum, ne forte rigor penetrabile corpus</l>
+            <l n="118">urat et interno vastet pecuaria morbo.</l>
+            <l n="119">plura quidem meminisse velim, nam plura supersunt:</l>
+            <l n="120">sed iam sera dies cadit et iam sole fugato</l>
+            <l n="121">frigidus aestivas impellit Noctifer horas'.</l>
+         </div>
+
+      </body>
+   </text>
+</TEI>

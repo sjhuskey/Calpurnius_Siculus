@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Title</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Publication Information</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Information about the source</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listApp>
+                <app loc="C5.43.111">
+                    <lem>premes</lem>
+                    <rdg wit="#G">premens</rdg>
+                </app>
+                <app loc="C5.43.111">
+                    <lem wit="#N #G" source="#GlaeserSqq">media</lem>
+                    <rdg wit="#V" source="#eddAnteGlaeser">gelida</rdg>
+                    <rdg wit="#δ #μ">gelidi</rdg>
+                </app>
+                <app loc="C5.43.111">
+                    <lem>sitis</lem>
+                    <rdg wit="#ν #φ #θ #η #ρ1 #r #s" source="#n #o">satis</rdg>
+                </app>
+                <app loc="C5.43.112">
+                    <lem wit="#λ #φ #ν #α #η #ρ2" source="#edd.">Canthe</lem>
+                    <rdg wit="#N #π #κ #χ #β">Chante</rdg>
+                    <rdg wit="#G #ε #δ #γ #ρ1 #e #u #d2" source="#i1">Cante</rdg>
+                    <!-- Little hard to read the superscripts. -->
+                    <rdg wit="#μ">Caute</rdg>
+                </app>
+                <app loc="C5.43.113">
+                    <lem>positus quamvis</lem>
+                    <rdg wit="#α">quamvis positus</rdg>
+                </app>
+                <app loc="C5.43.113">
+                    <lem>positus</lem>
+                    <rdg wit="#b" source="#i1 #Vienn.">prositus</rdg>
+                </app>
+                <app loc="C5.43.113">
+                    <lem>quamvis</lem>
+                    <rdg wit="#G">quavis</rdg>
+                </app>
+                <app loc="C5.43.113">
+                    <lem>prosit</lem>
+                    <rdg wit="#γ #μ #χ #κ #ε #λ" source="#i1 #Vienn.">possit</rdg>
+                    <rdg wit="#ν">posit</rdg>
+                </app>
+                <app loc="C5.43.114">
+                    <lem> desint </lem>
+                    <rdg wit="#N">desinit</rdg>
+                    <rdg source="#Glaeser #Keene">desunt</rdg>
+                </app>
+                <app loc="C5.43.114">
+                    <lem wit="#G #λ #μ #χ">suco</lem>
+                    <rdg wit="#N #ν #β #κ #ρ #ε #γ #α #φ2">succo</rdg>
+                    <rdg wit="#π #φ1">sicco</rdg>
+                </app>
+                <app loc="C5.43.115">
+                    <lem>plenae</lem>
+                    <rdg wit="#N">plene</rdg>
+                </app>
+                <app loc="C5.43.116">
+                    <lem source="#GlaeserSqq">stipula cum</lem>
+                    <rdg wit="#N #G">stipule cum</rdg>
+                    <rdg wit="#V" source="#eddAnteGlaeser">stipulis et</rdg>
+                </app>
+                <app loc="C5.43.117">
+                    <lem wit="#V" source="#edd.">sterne</lem>
+                    <rdg wit="#N">sint ne</rdg>
+                    <rdg wit="#G">sint . .</rdg>
+                </app>
+                <app loc="C5.43.117">
+                    <lem>penetrabile</lem>
+                    <rdg wit="#N">penetrabille</rdg>
+                </app>
+                <app loc="C5.43.118">
+                    <lem>interno</lem>
+                    <rdg wit="#λ #δ">externo</rdg>
+                </app>
+                <app loc="C5.43.118">
+                    <lem wit="#N #G #A #π" source="#edd.">pecuaria</lem>
+                    <!-- π (in mg.) edd. -->
+                    <rdg wit="#V #r #e #s #d">penetralia</rdg>
+                    <rdg wit="#θ">penetrabile</rdg>
+                </app>
+                <app loc="C5.43.119">
+                    <!-- 119 § praef. G ; except the o is strange. -->
+                    <lem wit="#N #G #λ" source="#codVindob #GlaeserSqq">meminisse</lem>
+                    <rdg wit="#V" source="#eddAnteGlaeser">monuisse</rdg>
+                    <rdg wit="#φ">novisse</rdg>
+                </app>
+                <app loc="C5.43.119">
+                    <lem>nam</lem>
+                    <rdg wit="#λ">iam</rdg>
+                </app>
+                <app loc="C5.43.120">
+                    <lem>cadit</lem>
+                    <rdg wit="#N">cadis</rdg>
+                </app>
+                <app loc="C5.43.120">
+                    <lem>sera</lem>
+                    <rdg source="#g #l2 #Gryph.">sero</rdg>
+                </app>
+                <app loc="C6.43.1">
+                    <lem wit="#N #G #A" source="#edd.">serus</lem>
+                    <rdg wit="#κ #χ">vetus</rdg>
+                    <rdg wit="#ν #ρ1">vectus</rdg>
+                    <rdg wit="#λ #α #γ #χ #e #d">laetus</rdg>
+                    <!-- χ (in mg.) ed -->
+                    <rdg wit="#θ #φ">ectus</rdg>
+                    <rdg wit="#δ">aetus</rdg>
+                    <rdg wit="#η">tectus</rdg>
+                    <rdg wit="#β #μ #π #ε2">letus</rdg>
+                    <rdg wit="#ε1">leutus</rdg>
+                    <rdg wit="#ρ2">entus</rdg>
+                    <rdg wit="#r">rectus</rdg>
+                    <rdg source="#Burm.">lentus</rdg>
+                </app>
+                <app loc="C6.43.1">
+                    <lem wit="#γ #χ #ε #κ #φ #ν" source="#edd.">Lycida</lem>
+                    <!-- Last letter is hard to see. -->
+                    <rdg wit="#N">licidas</rdg>
+                    <!--  (s eras.)-->
+                    <rdg wit="#G #β #π #α #λ #ρ #μ #d2">licida</rdg>
+                </app>
+                <app loc="C6.43.1">
+                    <lem wit="#ν #γ #ρ2" source="#edd.">Nyctilus</lem>
+                    <rdg wit="#N">nictulus</rdg>
+                    <rdg wit="#G #V #d2" source="#l2">nictilus</rdg>
+                    <rdg wit="#β">nictilius</rdg>
+                </app>
+                <app loc="C6.43.2">
+                    <lem>his</lem>
+                    <rdg wit="#G">hys</rdg>
+                </app>
+                <app loc="C6.43.3">
+                    <lem>sed</lem>
+                    <rdg wit="#G"/>
+                </app>
+                <app loc="C6.43.3">
+                    <lem>non</lem>
+                    <rdg wit="#N"/>
+                    <!-- N (add. m2). -->
+                </app>
+                <app loc="C6.43.3">
+                    <lem>Nyctilus</lem>
+                    <rdg wit="#N">nictilis</rdg>
+                    <rdg wit="#G">nictilus</rdg>
+                </app>
+                <app loc="C6.43.3">
+                    <lem wit="#N #ν #φ2">haedos</lem>
+                    <rdg wit="#λ #s" source="#n">hedos</rdg>
+                    <rdg wit="#ρ #α #κ #φ1">aedos</rdg>
+                    <rdg wit="#δ">aedes</rdg>
+                    <rdg wit="#G #β #ε #γ #μ #χ #π #e #u #b">edos</rdg>
+                </app>
+                <app loc="C6.43.4">
+                    <lem>dedit</lem>
+                    <rdg wit="#N">deo *</rdg>
+                    <!-- deo * N (corr. m2). -->
+                </app>
+                <app loc="C6.43.4">
+                    <lem source="#Heins. #LMueller">Lacaenae</lem>
+                    <!-- Lacaenae (vel Laconem Heins.) Heins. L. Mueller (l. l. p. 1072) -->
+                    <rdg source="#Heins.">Laconem</rdg>
+                    <rdg wit="#N #π #μ #δ">leene</rdg>
+                    <rdg wit="#G #χ" source="#edd.">leaenae</rdg>
+                    <rdg wit="#ε #κ #λ #α #γ #η #φ #β #r #e #u #d2">leenae</rdg>
+                    <rdg wit="#ρ #ν">laeene</rdg>
+                    <rdg wit="#codTitii">laconum</rdg>
+                    <!-- cod. Titii. nonulli, ut Pithoeus, Ulit. etc.. post ille interpunxerunt. -->
+                </app>
+                <app loc="C6.43.5">
+                    <lem>sustulit</lem>
+                    <rdg wit="#G #λ #ρ #β #δ #η #φ #ε #χ" source="#i1">substulit</rdg>
+                </app>
+            </listApp>
+        </body>
+    </text>
+</TEI>

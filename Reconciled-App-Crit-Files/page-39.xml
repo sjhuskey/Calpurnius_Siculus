@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Title</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Publication Information</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Information about the source</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listApp>
+                <app loc="C5.39.57">
+                    <lem>nec</lem>
+                    <rdg wit="#s">ne</rdg>
+                </app>
+                <app loc="C5.39.58">
+                    <lem wit="#N #G #V #r #s" source="#n #o #BeckSqq">et</lem>
+                    <rdg wit="#A #ε #α #δ #γ" source="#eddAnteBeck">vel</rdg>
+                    <rdg wit="#H">nec</rdg>
+                </app>
+                <app loc="C5.39.58">
+                    <lem>permitte</lem>
+                    <rdg wit="#G">permicte</rdg>
+                </app>
+                <app loc="C5.39.58">
+                    <lem>sed</lem>
+                    <rdg wit="#V" source="#edd" xml:id="rdg5.58sine">sine</rdg>
+                    <witDetail wit="#V" target="#rdg5.58sine">sive π κ β d¹</witDetail>
+                    <note target="#rdg5.58sine">praeter Baehr. et Schenkl</note>
+                    <!-- sine (sive πκβd1) V edd. praeter Baehr. et Schenkl-->
+                </app>
+                <app loc="C5.39.58">
+                    <lem>protegat</lem>
+                    <rdg wit="#κ #χ2">protegit</rdg>
+                    <rdg wit="#π">protegunt</rdg>
+                </app>
+                <app loc="C5.39.58">
+                    <lem>illos</lem>
+                    <rdg wit="#N">illas</rdg>
+                    <!-- illas N (corr. m2). -->
+                </app>
+                <app loc="C5.39.59">
+                    <lem>veteres</lem>
+                    <rdg wit="#N">
+                        <del>veterea</del>
+                    </rdg>
+                </app>
+                <!-- 59 post interea in N veterea del. proiicit Heins. -->
+                <app loc="C5.39.59">
+                    <lem>porrigit</lem>
+                    <rdg source="#Heins.">proiicit</rdg>
+                </app>
+                <app loc="C5.39.59">
+                    <lem wit="#λ #χ">aesculus</lem>
+                    <rdg wit="#φ">exculus</rdg>
+                    <rdg wit="#N #G #V" source="#eddFereOmnes">esculus</rdg>
+                    <!-- NGV edd. fere omnes. -->
+                </app>
+                <app loc="C5.39.60">
+                    <lem source="#Heins. #Haupt #Schenkl #Lucas">declini</lem>
+                    <rdg wit="#N #G">declivis</rdg>
+                    <!-- N (in quo declivi m2) G (in quo fortasse declinis legendum est) -->
+                    <rdg wit="#V" source="#edd.">declivi</rdg>
+                    <!-- declivi (declivo α2) V -->
+                </app>
+                <app loc="C5.39.60">
+                    <lem wit="#ω" source="#eddDefHLucas">nona</lem>
+                    <!-- ω edd. def. H. Lucas (Wiener Studien XXII p. 139-40), -->
+                    <rdg wit="#α #μ #δ #d2">nova</rdg>
+                    <rdg source="#Maehly">rura</rdg>
+                    <rdg source="#Baehr.">sera</rdg>
+                    <rdg source="#Schenkl">terra</rdg>
+                    <!-- terra Schenkl olim. -->
+                </app>
+                <app loc="C5.39.61">
+                    <lem source="#Glaeser #CSchenkl #Leo">incipietque</lem>
+                    <rdg wit="#ω" source="#edd.">incipiet</rdg>
+                    <rdg source="#Hartel">incipit esse</rdg>
+                    <rdg source="#Maehly">incipient</rdg>
+                    <rdg source="#Baehr.">incipit atque</rdg>
+                </app>
+                <app loc="C5.39.61">
+                    <lem wit="#N #G" source="#Glaeser #CSchenkl #Hartel">serique</lem>
+                    <!-- N (in quo seraeque m2 in mg.) G -->
+                    <rdg wit="#V" source="#edd.">seraeque</rdg>
+                    <rdg source="#Leo">seri quae</rdg>
+                    <rdg source="#Baehr.">seri</rdg>
+                    <rdg source="#Schenkl1">sera iamque</rdg>
+                    <note resp="Giarratano">probb. L. Mueller et Ellis</note>
+                    <rdg source="#Iacoby">lactisque</rdg>
+                    <note resp="Giarratano">Perperam quidam (cfr. Glotta I 1907) serique intellegunt
+                        ut idem sit ac vesperis</note>
+                </app>
+                <!-- Perperam quidam (dfr. Glotta I 1907) serique intellegunt ut idem sit ac vesperis. -->
+                <!-- This line appears after the lactisque entry and the creditur entry. -->
+                <!-- There is a macron over the e in serique in that line. -->
+                <app loc="C5.39.61">
+                    <lem>videbitur</lem>
+                    <rdg source="#Leo">creditur</rdg>
+                    <!-- Leo (l. l. p. 620) -->
+                </app>
+                <app loc="C5.39.61">
+                    <lem wit="#N #G"
+                        source="#Glaeser #Baehr. #Schenkl #Leo #Iacoby #Mueller #Ellis #Hartel"
+                        >premendi</lem>
+                    <rdg wit="#V" source="#edd.">merendae</rdg>
+                </app>
+                <app loc="C5.39.63">
+                    <lem>ovili</lem>
+                    <rdg wit="#N">ovilli</rdg>
+                </app>
+                <app loc="C5.39.64">
+                    <lem>quam levibus</lem>
+                    <rdg source="#Barth">quam levibus laevibus ac</rdg>
+                    <!-- there's plenty of space between levibus and laevibus. Maybe there's a faded witness in here. Maybe. -->
+                </app>
+                <app loc="C5.39.64">
+                    <lem>somnos</lem>
+                    <rdg wit="#G">sōpnos</rdg>
+                </app>
+                <app loc="C5.39.64">
+                    <lem>captare</lem>
+                    <rdg wit="#λ">cantare</rdg>
+                </app>
+                <app loc="C5.39.64">
+                    <lem>volucris</lem>
+                    <rdg wit="#N">volucres</rdg>
+                    <!-- N (corr. m2) -->
+                </app>
+                <app loc="C5.39.65">
+                    <lem>cogitet</lem>
+                    <rdg wit="#π">contiget</rdg>
+                </app>
+                <app loc="C5.39.65">
+                    <lem>et</lem>
+                    <rdg wit="#ν #φ #η #ρ1 #r" source="#Beck #Glaeser #Maehly #Keene">ac</rdg>
+                    <rdg wit="#κ #χ">at</rdg>
+                    <rdg wit="#s" source="#n #o">ad</rdg>
+                    <rdg source="#Heins.">i</rdg>
+                    <rdg source="#Burm.">hinc</rdg>
+                </app>
+                <app loc="C5.39.65">
+                    <lem source="#Glaeser #Schenkl">tremulo queribunda</lem>
+                    <!-- Glaeser (qui propsuit etiam gemibunda, quod recepit Baehr., vel volueres cogitet atque ales tremulo) -->
+                    <rdg wit="#N #A">tremulo tremebundo</rdg>
+                    <rdg wit="#G">tremulo tremēbundo</rdg>
+                    <rdg wit="#V" source="#edd.">tremuli tremebunda</rdg>
+                    <rdg source="#Maehly">tremulo iam non</rdg>
+                    <rdg source="#Wernsd. #Beck #Keene">tremuli dent mulctra</rdg>
+                    <!-- Beck (qui volebat etiam denses vel atque premas tremebunda) -->
+                    <rdg source="#Heins.">tremuli preme munda</rdg>
+                    <rdg source="#Heins.">et tremuli premere uda</rdg>
+                    <!-- tremuli preme munda vel et tremuli premere uda Heins., -->
+                    <rdg source="#Burm.">tremuli preme munda</rdg>
+                    <rdg wit="#s">te ferto tremebunda</rdg>
+                </app>
+                <app loc="C5.39.65">
+                    <lem source="#Glaeser #Baehr. #Schenkl">fritinniat ore</lem>
+                    <rdg wit="#N #G">fruniat ore</rdg>
+                    <!-- N  (in quo coagulat lacte m2 in mg.) -->
+                    <rdg wit="#A #H">tinniat ore</rdg>
+                    <rdg wit="#V" source="#edd.">coagula lactis</rdg>
+                    <!-- coagula lactis (coacula φ) V -->
+                    <rdg source="#Maehly">fringutiat ore</rdg>
+                </app>
+                <app loc="C5.39.66">
+                    <lem>cum</lem>
+                    <rdg wit="#d" source="#Glaeser #CSchenkl">tum</rdg>
+                    <rdg source="#Burm.">et</rdg>
+                    <rdg wit="#φ">quo</rdg>
+                </app>
+                <app loc="C5.39.66">
+                    <lem wit="#N #G #A" source="#Burm. #Baehr. #Schenkl">maturas</lem>
+                    <rdg wit="#V" source="#edd.">maternas</rdg>
+                </app>
+                <app loc="C5.39.66">
+                    <lem>demere</lem>
+                    <rdg wit="#N">demeres</rdg>
+                    <!-- N (corr. m2). -->
+                </app>
+                <!-- hunc versum post v. 67 collocant V (corr. A) H edd. praeter Baehr. et Schenkl. 67 -->
+                <app loc="C5.39.67">
+                    <lem>sucida</lem>
+                    <rdg wit="#N #V">succida</rdg>
+                    <rdg source="#Glaeser">succidua</rdg>
+                </app>
+                <app loc="C5.39.67">
+                    <!-- Transition to page 40. -->
+                    <lem>iam</lem>
+                    <rdg source="#Heins.">da</rdg>
+                    <rdg source="#Burm.">quum</rdg>
+                    <rdg source="#Glaeser">at</rdg>
+                </app>
+                <app loc="C5.39.67">
+                    <lem>sucida iam</lem>
+                    <rdg source="#Keene">si cupias</rdg>
+                </app>
+                <app loc="C5.39.67">
+                    <lem>constringere</lem>
+                    <rdg wit="#s">constringito</rdg>
+                    <rdg wit="#d" source="#Glaeser">cum stringes</rdg>
+                </app>
+                <app loc="C5.39.67">
+                    <lem>iunco</lem>
+                    <rdg wit="#φ #κ #α #μ #η #ρ1 #r">vinco</rdg>
+                    <rdg wit="#π">ionco</rdg>
+                </app>
+            </listApp>
+        </body>
+    </text>
+</TEI>

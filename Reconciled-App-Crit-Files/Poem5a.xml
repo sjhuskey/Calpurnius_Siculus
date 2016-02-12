@@ -1,0 +1,1561 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <listApp>
+            <app loc="C5.35.1">
+               <lem wit="#G #V" source="#Baehr. #Schenkl">Micon</lem>
+               <rdg wit="#N">michon</rdg>
+               <rdg wit="#γ #ν #ε2" source="#edd.">mycon</rdg>
+            </app>
+            <app loc="C5.35.1">
+               <lem wit="#ν #α #ρ2 #λ2" source="#edd.">Canthusque</lem>
+               <rdg wit="#N #π #χ #φ #β">chantusque</rdg>
+               <rdg wit="#G #κ #μ #ε #γ #λ1 #η #δ #ρ1 #e #d2">cantusque</rdg>
+               <rdg wit="#d1">cantus</rdg>
+            </app>
+            <app loc="C5.35.1">
+               <lem>alumnus</lem>
+               <rdg wit="#G">alupnū</rdg>
+            </app>
+            <app loc="C5.35.2">
+               <lem xml:id="lem5.2torrentem">torrentem</lem>
+               <rdgGrp type="anteCorr">
+                  <rdg wit="#N" varSeq="1">torentem</rdg>
+                  <rdg wit="#N2" varSeq="2" copyOf="lem5.2torrentem"/>
+               </rdgGrp>
+               <!-- N (corr. m2) -->
+            </app>
+            <app loc="C5.35.2">
+               <lem>vitabant</lem>
+               <rdg wit="#ε #e">mirabant</rdg>
+            </app>
+            <app loc="C5.35.2">
+               <lem source="#GlaeserSqq">ilice</lem>
+               <rdg wit="#N">illice</rdg>
+               <rdg wit="#G">ylice</rdg>
+               <rdg wit="#V" source="#eddAnteGlaeser">arbore</rdg>
+            </app>
+            <app loc="C5.35.3">
+               <lem>cum</lem>
+               <rdg wit="#ε #β #κ #λ #α #μ #γ #π #χ #e #u #b #d2" source="#i2 #l2">tum</rdg>
+            </app>
+            <app loc="C5.35.3">
+               <lem>alumno</lem>
+               <rdg wit="#G">alūpno</rdg>
+            </app>
+            <app loc="C5.35.5">
+               <lem/>
+               <rdg wit="#γ #π #μ #e #u #b #s #d2" source="#i #l2 #g #Glaeser #Keene">Micon</rdg>
+               <!-- praef. -->
+               <!-- Micon praef. γπμeubsd2il2g-->
+            </app>
+            <app loc="C5.35.6">
+               <lem wit="#V" source="#edd.">canaque</lem>
+               <rdg wit="#N #G">vanaque</rdg>
+               <rdg wit="#π">cannaque</rdg>
+               <rdg source="#Schenkl1" xml:id="rdg5.6vernaque">vernaque</rdg>
+               <note target="#rdg5.6vernaque">probb. <ref target="#LMueller">L. Mueller</ref>
+                  <ref target="#Ellis">Ellis</ref>
+                  <ref target="#Jacoby">Jacoby</ref></note>
+            </app>
+            <app loc="C5.35.6">
+               <lem>lascivo</lem>
+               <rdg wit="#G">laxivo</rdg>
+            </app>
+            <app loc="C5.35.6">
+               <lem wit="#G #V" source="#edd.">gramina</lem>
+               <rdg wit="#N #H" source="#Baehr. #Schenkl" xml:id="rdg5.6germina">germina</rdg>
+               <witDetail wit="#H">corr. <ref target="#H2">H2</ref></witDetail>
+               <!-- H (corr. m2) -->
+            </app>
+            <!-- versum om. ε -->
+            <!-- 7, 6, 8 colloc N (in quo corr.m2) G; 7, 8, 6 Maehly -->
+            <app loc="C5.36.7">
+               <lem wit="#φ #ν #η #λ #α" source="#edd.">Canthe</lem>
+               <rdg wit="#N #β #π #χ #ρ #κ2">chante</rdg>
+               <rdg wit="#G #μ">caute</rdg>
+               <rdg wit="#ε #γ #κ1 #δ #e">cante</rdg>
+            </app>
+            <app loc="C5.36.7">
+               <lem>quos</lem>
+               <rdg source="#Barth">quas</rdg>
+            </app>
+            <app loc="C5.36.7">
+               <lem>remotos</lem>
+               <rdg source="#Barth">reductas</rdg>
+               <rdg source="#Beck">reductos</rdg>
+            </app>
+            <app loc="C5.36.8">
+               <lem>gramina</lem>
+               <rdg wit="#N" source="#Maehly">germina</rdg>
+               <rdg source="#Burm.">pabula</rdg>
+            </app>
+            <app loc="C5.36.9">
+               <lem>hos</lem>
+               <rdg source="#Barth">has</rdg>
+            </app>
+            <app loc="C5.36.10">
+               <lem>certe</lem>
+               <rdg wit="#δ" source="#Heins. #Gudius #Jacoby">certo</rdg>
+               <rdg source="#Burm.">per te</rdg>
+            </app>
+            <app loc="C5.36.11">
+               <lem xml:id="lem5.11gnavam">gnavam</lem>
+               <rdg wit="#N">ianam</rdg>
+               <rdg wit="#N2"><add place="margin" copyOf="lem5.11gnavam"/></rdg>
+               <!-- N (corr. m2 in mg.) -->
+               <rdg wit="#N3">ganā</rdg>
+            </app>
+            <app loc="C5.36.11">
+               <lem xml:id="lem5.11potes">potes</lem>
+               <rdgGrp type="anteCorr">
+                  <rdg wit="#N" varSeq="1">potens</rdg>
+                  <rdg wit="#N1" varSeq="2" copyOf="#lem5.11potes"/>
+               </rdgGrp>
+               <!-- N (corr. m1) -->
+            </app>
+            <app loc="C5.36.11">
+               <lem>iuventam</lem>
+               <rdg wit="#G">iuvencam</rdg>
+            </app>
+            <!-- 12 et sq. habent Exc. Par. -->
+            <app loc="C5.36.12">
+               <lem>aspicis</lem>
+               <rdg source="#Vienn. #Tig. #Barth">aspice</rdg>
+            </app>
+            <app loc="C5.36.12">
+               <lem>ut</lem>
+               <rdg wit="#d">et</rdg>
+               <rdg source="#Burm.">iam</rdg>
+            </app>
+            <app loc="C5.36.12">
+               <lem>aetas iam</lem>
+               <rdg wit="#V #ExcPar" source="#eddAnteGlaeser">iamdudum</rdg>
+               <rdg wit="#ε #γ #e #u #b #d2" source="#l2 #i2 #Gryph.">iam pridem</rdg>
+               <rdg source="#Burm.">ut dudum</rdg>
+            </app>
+            <app loc="C5.36.13">
+               <lem>baculum</lem>
+               <rdg wit="#φ #η #ν1 #r">barulum</rdg>
+            </app>
+            <app loc="C5.36.13">
+               <lem>senectus</lem>
+               <rdg wit="#N">senetus</rdg>
+            </app>
+            <app loc="C5.36.14">
+               <lem xml:id="lem5.14qua">qua</lem>
+               <rdgGrp type="anteCorr">
+                  <rdg wit="#N" varSeq="1">quem</rdg>
+                  <rdg wit="#N2" varSeq="2" copyOf="#lem5.14qua"/>
+               </rdgGrp>
+               <!-- N (corr. m2) -->
+               <rdg source="#Glaeser">qua en</rdg>
+            </app>
+            <app loc="C5.36.14">
+               <lem>lustra</lem>
+               <rdg source="#Burm.">saxa</rdg>
+            </app>
+            <!-- 15, 14 ponit N (corr. m2) -->
+            <app loc="C5.36.15">
+               <lem n="mollibus" xml:id="lem56"/>
+               <rdgGrp type="anteCorr">
+                  <rdg wit="#N" varSeq="1" xml:id="rdg100">molibus</rdg>
+                  <rdg wit="#N2" varSeq="2" copyOf="#lem56"/>
+               </rdgGrp>
+               <!-- N (corr. m2) -->
+               <rdg wit="#G #φ1" xml:id="rdg101">montibus</rdg>
+            </app>
+            <app loc="C5.36.16">
+               <lem n="vere" xml:id="lem57"/>
+               <rdg wit="#η #r" xml:id="rdg102">vero</rdg>
+            </app>
+            <app loc="C5.36.16">
+               <lem n="tinnire" source="#edd." wit="#V" xml:id="lem58"/>
+               <rdgGrp type="anteCorr">
+                  <rdg wit="#N" varSeq="1" xml:id="rdg103">titinire</rdg>
+                  <rdg wit="#N2" varSeq="2" copyOf="#lem58"/>
+               </rdgGrp>
+               <!-- N (corr. m2) -->
+               <rdg wit="#G" xml:id="rdg104">cecinere</rdg>
+               <witDetail wit="#G" target="#rdg104"><add place="margin">(cantare)</add></witDetail>
+               <!-- G (cantare in mg.) -->
+               <rdg wit="#α" xml:id="rdg105">tinuere</rdg>
+               <rdg wit="#δ" xml:id="rdg106">tinere</rdg>
+            </app>
+            <app loc="C5.36.17">
+               <lem n="incipient" xml:id="lem59"/>
+               <rdg source="#o #n" wit="#π #χ #λ #ρ #ν #κ #α #β #μ #η #r #d1" xml:id="rdg107">incipiunt</rdg>
+               <rdg wit="#δ" xml:id="rdg108">percipiunt</rdg>
+            </app>
+            <app loc="C5.36.17">
+               <lem n="lutabit" source="#edd." wit="#N #G #A" xml:id="lem60"/>
+               <rdg wit="#V #r #e #d #s" xml:id="rdg109">habitabit</rdg>
+               <rdg source="#Scriver" xml:id="rdg110">locavit</rdg>
+            </app>
+            <app loc="C5.36.17">
+               <lem n="hirundo" source="#edd." wit="#η #ε #φ #γ #β #ν #ρ #λ #κ" xml:id="lem61"/>
+               <rdg wit="#N #G #α" xml:id="rdg111">yrundo</rdg>
+               <rdg wit="#π #δ" xml:id="rdg112">irundo</rdg>
+               <rdg source="#i1 #g" wit="#μ #χ #s" xml:id="rdg113">hyrundo</rdg>
+            </app>
+            <app loc="C5.36.18">
+               <lem n="hiberno" xml:id="lem62"/>
+               <rdg wit="#G" xml:id="rdg114">yberno</rdg>
+               <rdg source="#i1 #p" wit="#χ #ν #η #ρ2 #r" xml:id="rdg115">hyberno</rdg>
+            </app>
+            <app loc="C5.36.18">
+               <lem n="movebis" xml:id="lem63"/>
+               <rdg wit="#G" xml:id="rdg116">monebis</rdg>
+               <rdg wit="#α #μ #θ" xml:id="rdg117">movebit</rdg>
+            </app>
+            <app loc="C5.36.18">
+               <lem n="ovili" xml:id="lem64"/>
+               <rdg wit="#N" xml:id="rdg118">ovil<add place="inRasura">i</add></rdg>
+               <witDetail wit="#N" target="#rdg118"><hi rend="italic">i</hi> alt. in ras.</witDetail>
+               <!-- ovili (i alt. in ras.) N. -->
+            </app>
+            <app loc="C5.36.19">
+               <lem n="melior" source="#Burm. #GlaeserSqq" wit="#N #G" xml:id="lem65"/>
+               <rdg source="#i1 #l1 #Vienn. #Tig. #Barth" wit="#V #r #e #d #s" xml:id="rdg119">tota</rdg>
+               <rdg wit="#uSqqUsqueAdGlaeser" xml:id="rdg120">toto</rdg>
+            </app>
+            <app loc="C5.36.19">
+               <lem n="germine" source="#Burm. #Baehr. #Schenkl" xml:id="lem66"/>
+               <rdg source="#edd." wit="#ω" xml:id="rdg121">gramine</rdg>
+               <rdg wit="#μ" xml:id="rdg122">gramina</rdg>
+            </app>
+            <app loc="C5.36.19">
+               <lem n="silva" xml:id="lem67"/>
+               <rdgGrp type="anteCorr">
+                  <rdg wit="#G" varSeq="1" ana="rdg123">salva</rdg>
+                  <rdg wit="#G" varSeq="2" copyOf="#lem67"/>
+               </rdgGrp>
+               <!-- G (corr. m1) -->
+            </app>
+            <!-- totus-saltus Hoeufft (per. poet. et crit. III 331) Beck Iacoby -->
+            <!-- tunc etiam lato vel exorto vel toto vernatrix gramine vel vernante toro, tunc gramine Heins. -->
+            <app loc="C5.36.20">
+               <lem n="pullat" xml:id="lem68"/>
+               <rdg wit="#α" xml:id="rdg124">bullat</rdg>
+            </app>
+            <app loc="C5.36.20">
+               <lem n="incohat" source="#i1 #p #Barth #Baehr. #Schenkl"
+                  wit="#χ #β #κ #λ #ν #ρ #α #π1" xml:id="lem69"/>
+               <rdg source="#edd." wit="#N #μ #δ1 #π2 #φ" xml:id="rdg125">inchoat</rdg>
+               <rdg wit="#G #ε #γ #δ2 #e" xml:id="rdg126">incoat</rdg>
+               <rdg wit="#r" xml:id="rdg127">inchohat</rdg>
+            </app>
+            <!-- pullulat aestivas reparabilisque d1 -->
+            <app loc="C5.36.21">
+               <lem n="tunc" xml:id="lem70"/>
+               <rdg source="#l2 #i2" wit="#ε #γ #e #u #b #d2" xml:id="rdg128">tum</rdg>
+            </app>
+            <app loc="C5.36.21">
+               <lem n="silvae" source="#edd." wit="#ω" xml:id="lem71"/>
+               <!-- silve N π ρ μ -->
+               <!-- deff. Magnus (Phil Wochenschr. II p. 813) et Iacoby (l. l. p. 1292) -->
+               <rdg source="#Maehly" xml:id="rdg129">tiliae</rdg>
+               <rdg source="#Baehr." xml:id="rdg130">saltus</rdg>
+               <rdg source="#CSchenkl #Schenkl" xml:id="rdg131">segetes</rdg>
+            </app>
+            <app loc="C5.37.22">
+               <lem n="tunc" xml:id="lem72"/>
+               <rdg source="#l2 #i2" wit="#ε #γ #e #u #b" xml:id="rdg132">tum</rdg>
+            </app>
+            <app loc="C5.37.22">
+               <lem n="scintillat" xml:id="lem73"/>
+               <rdg wit="#ε #δ #e #u" xml:id="rdg133">sintillat</rdg>
+               <rdg wit="#γ" xml:id="rdg134">sintilat</rdg>
+               <rdg wit="#μ" xml:id="rdg135">sintilla</rdg>
+            </app>
+            <app loc="C5.37.23">
+               <lem n="lascivumque" xml:id="lem74"/>
+               <rdg wit="#G" xml:id="rdg136">laxivumque</rdg>
+            </app>
+            <app loc="C5.37.23">
+               <lem n="hircos" xml:id="lem75"/>
+               <rdg wit="#G" xml:id="rdg137">yrcos</rdg>
+            </app>
+            <app loc="C5.37.24">
+               <lem n="mitte" source="#Heins. #GlaeserSqq" wit="#N #G" xml:id="lem76">reclusos </lem>
+               <rdg source="#eddAnteGlaeser" wit="#V" xml:id="rdg138">mittito clausos</rdg>
+               <witDetail target="#lem5.24mitte_reclusos" wit="#G">micte</witDetail>
+               <note target="#rdg5.24mittito_clausos">clausas <ref target="Vienn.">Vienn.</ref>
+                  <ref target="Barth.">Barth.</ref>
+               </note>
+               <rdg source="#Wakefield" xml:id="rdg139">mittere clausos</rdg>
+               <note target="#rdg5.24.mittere_clausos">silv. crit. III p. 40</note>
+            </app>
+            <app loc="C5.37.25">
+               <lem n="fuerit" xml:id="lem77"/>
+               <rdgGrp type="anteCorr">
+                  <rdg varSeq="1" wit="#N1" xml:id="rdg140">fuerat</rdg>
+                  <rdg copyOf="#lem5.25fuerit" varSeq="2" wit="#N2" xml:id="rdg141"/>
+               </rdgGrp>
+            </app>
+            <app loc="C5.37.25">
+               <lem n="tum" source="#edd." wit="#G #ν #ρ #φ" xml:id="lem78"/>
+               <rdg source="#g #l2 #i2 #Gryph." wit="#N #V #e #u #b #d2" xml:id="rdg142">tu</rdg>
+            </app>
+            <app loc="C5.37.25">
+               <lem n="caespite" xml:id="lem79"/>
+               <rdg wit="#ω" xml:id="rdg143">cespite</rdg>
+            </app>
+            <app loc="C5.37.26">
+               <lem n="loci" xml:id="lem80"/>
+               <rdg wit="#V #r" xml:id="rdg144">foci</rdg>
+               <witDetail wit="#V">except ε ρ2</witDetail>
+            </app>
+            <app loc="C5.37.26">
+               <lem n="Laresque" xml:id="lem81"/>
+               <rdg source="#eddAnteGlaeser" wit="#V" xml:id="rdg145">laremque</rdg>
+            </app>
+            <app loc="C5.37.27">
+               <lem n="voca" xml:id="lem82"/>
+               <rdg wit="#N2" xml:id="rdg146">loca</rdg>
+            </app>
+            <app loc="C5.37.27">
+               <lem n="tunc" xml:id="lem83"/>
+               <rdg source="#Baehr." xml:id="rdg147">tumque</rdg>
+            </app>
+            <app loc="C5.37.28">
+               <lem n="hac" source="#DOrville #Beck #GlaeserSqq" wit="#N #G" xml:id="lem84"/>
+               <rdg source="#o #n" wit="#V #r #d #s" xml:id="rdg148">ac</rdg>
+               <rdg wit="#ε #e" xml:id="rdg149">at</rdg>
+               <rdg source="#eddAnteGlaeser" wit="#λ #ρ1" xml:id="rdg150">atque</rdg>
+            </app>
+            <app loc="C5.37.28">
+               <!-- connect this with the previous entry -->
+               <lem n="hac" xml:id="lem85">etiam </lem>
+               <rdgGrp type="conjectures">
+                  <rdg copyOf="#lem5.28hac_etiam" source="#Burm." xml:id="rdg151"/>
+                  <rdg source="#Burm." xml:id="rdg152">ante tamen</rdg>
+               </rdgGrp>
+            </app>
+            <app loc="C5.37.28">
+               <lem n="lustra" xml:id="lem86"/>
+               <rdg source="#Nodell" xml:id="rdg153">lustret</rdg>
+               <note target="#rdg5.29lustret">not. crit. p.38</note>
+            </app>
+            <app loc="C5.37.29">
+               <lem n="tunc" xml:id="lem87"/>
+               <rdg source="#Baehr." xml:id="rdg154">tum</rdg>
+            </app>
+            <app loc="C5.37.30">
+               <lem n="transcendere" source="#pSqq" wit="#N #G" xml:id="lem88"/>
+               <rdg source="#i1" wit="#A" xml:id="rdg155">trascendere</rdg>
+               <rdg source="#antep" wit="#V" xml:id="rdg156">accedere</rdg>
+               <rdg wit="#θ #ρ" xml:id="rdg157">accendere</rdg>
+               <rdg wit="#δ" xml:id="rdg158">attendere</rdg>
+               <rdg source="#Glaeser" xml:id="rdg159">escendere</rdg>
+            </app>
+            <!-- vv. 30–33 om. η -->
+            <app loc="C5.37.31">
+               <lem n="coeperit" source="#edd." wit="#α #ε #γ" xml:id="lem89"/>
+               <rdg source="#o #n" wit="#N #G #π #μ #φ #ρ #β" xml:id="rdg160">ceperit</rdg>
+               <rdg wit="#κ #χ #α #λ" xml:id="rdg161">caeperit</rdg>
+            </app>
+            <app loc="C5.37.31">
+               <lem n="ac" source="#Baehr. #Schenkl" wit="#N #G" xml:id="lem90"/>
+               <rdg source="#edd." wit="#H #V" xml:id="rdg162">et</rdg>
+               <rdg source="#i1 #l1 #Vienn. #Tig. #Barth" wit="#A #ε #μ #δ #ρ2 #e #u #b"
+                  xml:id="rdg163">ut</rdg>
+            </app>
+            <app loc="C5.37.31">
+               <lem n="primae" xml:id="lem91"/>
+               <rdg wit="#G #δ" xml:id="rdg164">primum</rdg>
+            </app>
+            <app loc="C5.37.31">
+               <lem n="tepefecerit" xml:id="lem92"/>
+               <rdg source="#Heins." xml:id="rdg165">perfecerit</rdg>
+            </app>
+            <app loc="C5.37.32">
+               <lem n="at" xml:id="lem93"/>
+               <rdg source="#i1 #l1 #Vienn." wit="#β #π #λ #ρ #χ #α #κ #θ #r #s" xml:id="rdg166"
+                  >ac</rdg>
+               <rdg wit="#φ" xml:id="rdg167">hac</rdg>
+            </app>
+            <app loc="C5.37.32">
+               <lem n="vaces" xml:id="lem94"/>
+               <rdg wit="#ν #φ #r" xml:id="rdg168">vates</rdg>
+               <rdg wit="#θ" xml:id="rdg169">vacet</rdg>
+            </app>
+            <app loc="C5.37.32">
+               <lem n="relaxat" xml:id="lem95"/>
+               <rdg wit="#G" xml:id="rdg170">relaxet</rdg>
+            </app>
+            <!-- vv. 32–35 om. ε δ -->
+            <app loc="C5.37.33">
+               <lem n="&#10;" source="#edd." wit="#N2 #G #V" xml:id="lem96"> spument spumant tibi
+                  mulctra multra mulcra </lem>
+               <rdg wit="#N1" xml:id="rdg171">spument trimultra</rdg>
+               <rdg source="#Maehly" xml:id="rdg172">spument si mulctra</rdg>
+               <rdg source="#Barth #Haupt #Baehr. #Keene" xml:id="rdg173">spumantia mulctra</rdg>
+            </app>
+            <app loc="C5.37.33">
+               <lem n="papillis" xml:id="lem97"/>
+               <rdg source="#Titius" wit="#A #φ #ν #θ #r" xml:id="rdg174">capellis</rdg>
+            </app>
+            <app loc="C5.37.34">
+               <lem n="in" source="#HousmanCR16" xml:id="lem98">tenebris </lem>
+               <rdg source="#edd." wit="#ω" xml:id="rdg175">implebis</rdg>
+               <rdg source="#Haupt #Keene" xml:id="rdg176">implebit</rdg>
+               <rdg source="#Burm." xml:id="rdg177">in fiscis</rdg>
+               <rdgGrp type="conjectures">
+                  <rdg source="#Ulit." xml:id="rdg178">inde premes</rdg>
+                  <rdg source="#Ulit." xml:id="rdg179">nocte premes</rdg>
+               </rdgGrp>
+               <rdg source="#Glaeser" xml:id="rdg180">hinc plebi et</rdg>
+               <rdgGrp type="conjectures">
+                  <rdg source="#Heins." xml:id="rdg181">ampla tibi</rdg>
+                  <rdg source="#Heins." xml:id="rdg182">imbre tibi</rdg>
+               </rdgGrp>
+               <note target="#lem5.34in_tenebris">Class. Rev. p. 281 sq. 1902, probat F. Leo
+                  <!-- where?! --></note>
+               <note target="#rdg5.34inde_premes">fluat</note>
+               <note target="#rdg5.34nocte_premes">fluit</note>
+            </app>
+            <app loc="C5.37.34">
+               <lem n="quod" xml:id="lem99"/>
+               <rdg wit="#N" xml:id="rdg183">q</rdg>
+               <!-- N (d/q m2) ; What a strange sighting. -->
+               <rdg source="#Barth #Heins. #Burm." wit="#s" xml:id="rdg184">quo</rdg>
+               <rdg source="#Wernsd." xml:id="rdg185">quae</rdg>
+            </app>
+            <app loc="C5.37.34">
+               <lem n="mane" xml:id="lem100">fluet </lem>
+               <rdg source="#Haupt #Baehr. #Keene #Schenkl" wit="#N" xml:id="rdg186">mane
+                  fluat</rdg>
+               <rdg wit="#G" xml:id="rdg187">mane fluent</rdg>
+               <rdg source="#edd." wit="#V" xml:id="rdg188">messe fluat</rdg>
+               <rdg source="#Glaeser" xml:id="rdg189">mane feras</rdg>
+               <rdg source="#Barth #Heins. #Burm." xml:id="rdg190">massa fluat</rdg>
+               <rdg source="#Martelli" xml:id="rdg191">nocte fluat</rdg>
+               <rdg source="#Wernsd." xml:id="rdg192">pressa fluant</rdg>
+            </app>
+            <app loc="C5.37.34">
+               <lem n="premetur" xml:id="lem101"/>
+               <rdg source="#g #i2 #l2" wit="#u #e #b" xml:id="rdg193">prementur</rdg>
+            </app>
+            <app loc="C5.37.35">
+               <lem n="quod" xml:id="lem102"/>
+               <rdg wit="#G" xml:id="rdg194">quid</rdg>
+            </app>
+            <app loc="C5.37.35">
+               <lem n="redegerit" xml:id="lem103"/>
+               <rdg source="#Barth" xml:id="rdg195">coegerit</rdg>
+            </app>
+            <app loc="C5.37.36">
+               <lem n="ne" source="#Baehr. #Schenkl" wit="#N #G #α #β #δ #λ #μ #κ #χ #π"
+                  xml:id="lem104"/>
+               <rdg source="#edd." wit="#ν #φ #ρ #η" xml:id="rdg196">nec</rdg>
+               <rdg source="#l2 #i2" wit="#ε #γ #e #u #b" xml:id="rdg197">neu</rdg>
+            </app>
+            <app loc="C5.38.37">
+               <lem n="niveos" xml:id="lem105"/>
+               <rdg wit="#δ" xml:id="rdg198">teneros</rdg>
+            </app>
+            <app loc="C5.38.38">
+               <lem n="coletur" source="#Glaeser #Schenkl #Keene" wit="#N #G" xml:id="lem106"/>
+               <rdg source="#edd." wit="#V" xml:id="rdg199">colatur</rdg>
+            </app>
+            <app loc="C5.38.39">
+               <lem n="non" xml:id="lem107"/>
+               <rdg source="#Vienn." xml:id="rdg200">ne</rdg>
+            </app>
+            <app loc="C5.38.39">
+               <lem n="vises" xml:id="lem108"/>
+               <rdg wit="#κ #χ" xml:id="rdg201">vires</rdg>
+               <rdg wit="#α" xml:id="rdg202">tendis</rdg>
+               <rdg wit="#α" xml:id="rdg203">posces</rdg>
+               <!-- a (in mg.) -->
+               <rdg wit="#μ" xml:id="rdg204">vides</rdg>
+               <rdg wit="#δ" xml:id="rdg205">tendit</rdg>
+               <rdg wit="#λ" xml:id="rdg206"/>
+            </app>
+            <app loc="C5.38.40">
+               <lem n="iacebit" xml:id="lem109"/>
+               <rdg wit="#G" xml:id="rdg207">iacebis</rdg>
+            </app>
+            <app loc="C5.38.41">
+               <lem n="umeris" xml:id="lem110"/>
+               <rdg wit="#ω" xml:id="rdg208">humeris</rdg>
+            </app>
+            <app loc="C5.38.41">
+               <lem n="natosque" xml:id="lem111"/>
+               <rdg source="#l2 #i2 #g" wit="#u #b #d2" xml:id="rdg209">natoque</rdg>
+            </app>
+            <app loc="C5.38.41">
+               <lem n="patenti" source="#Gudius #Heins. #Baehr. #Schenkl"
+                  wit="#δ #λ #γ #μ #κ #χ #α #ρ1" xml:id="lem112"/>
+               <rdg source="#i #l2 #g #n #o #Modius #Tig. #Gryph." wit="#N #G #π #ε #β #u #e #b #d2"
+                  xml:id="rdg210">parenti</rdg>
+               <rdg source="#edd." wit="#H #ν #φ #η #ρ2" xml:id="rdg211">tepenti</rdg>
+            </app>
+            <app loc="C5.38.42">
+               <lem n="tremulos" xml:id="lem113"/>
+               <rdg wit="#κ #χ" xml:id="rdg212">trepidos</rdg>
+            </app>
+            <app loc="C5.38.42">
+               <lem n="paratos" xml:id="lem114"/>
+               <rdg wit="#N" xml:id="rdg213">paratas</rdg>
+               <!-- N (corr. m2) -->
+               <rdg source="#Burm." xml:id="rdg214">peritos</rdg>
+            </app>
+            <app loc="C5.38.43">
+               <lem n="nec" xml:id="lem115"/>
+               <rdg source="#Vienn. #Tig." xml:id="rdg215">ne</rdg>
+            </app>
+            <app loc="C5.38.43">
+               <lem n="praesaepibus" xml:id="lem116"/>
+               <rdg wit="#ω" xml:id="rdg216">praesepibus</rdg>
+               <!-- vel -->
+               <rdg wit="#ω" xml:id="rdg217">presepibus</rdg>
+            </app>
+            <app loc="C5.38.44">
+               <lem n="nec" xml:id="lem117">nimis </lem>
+               <rdg wit="#β #ε #κ #ρ1 #α #π #δ" xml:id="rdg218">nec minus</rdg>
+               <rdg wit="#φ" xml:id="rdg219">nec minis</rdg>
+               <rdg wit="#χ" xml:id="rdg220">nem minus</rdg>
+               <!-- χ (corr. m2 in mg.). -->
+            </app>
+            <app loc="C5.38.44">
+               <lem n="amotae" xml:id="lem118"/>
+               <rdg source="#edd." wit="#N #κ #λ #ν #χ #α #η #ρ1 #γ1" xml:id="rdg221">amotae</rdg>
+               <!-- edd. ad (exp.) amote G -->
+               <rdg wit="#δ" xml:id="rdg222">admote</rdg>
+               <rdg wit="#μ #β #π" xml:id="rdg223">amote</rdg>
+               <rdg wit="#φ" xml:id="rdg224">amorae</rdg>
+               <rdg source="#i #l2" wit="#ε #θ #γ2 #ρ2 #e #u #b" xml:id="rdg225">admotae</rdg>
+            </app>
+            <app loc="C5.38.44">
+               <lem n="sectabere" xml:id="lem119"/>
+               <rdg wit="#ν #η #ρ1 #θ #r" xml:id="rdg226">sectare ad</rdg>
+               <rdg wit="#φ" xml:id="rdg227">septare ad</rdg>
+            </app>
+            <app loc="C5.38.44">
+               <lem n="pabula" xml:id="lem120"/>
+               <rdg wit="#G" xml:id="rdg228">pascua</rdg>
+            </app>
+            <app loc="C5.38.45">
+               <lem n="peragit" xml:id="lem121"/>
+               <rdg source="#Glaeser" wit="#N #G" xml:id="rdg229">peragunt</rdg>
+               <!-- N (in quo corr. m2) -->
+               <rdg source="#Maehly" xml:id="rdg230">variat</rdg>
+            </app>
+            <!-- 46-48 exstant in Exc. Par. -->
+            <app loc="C5.38.46">
+               <lem n="enim" xml:id="lem122"/>
+               <rdg wit="#ExcPar" xml:id="rdg231">erit</rdg>
+            </app>
+            <app loc="C5.38.46">
+               <lem n="modo" xml:id="lem123">fronte </lem>
+               <rdg wit="#ExcParPost" xml:id="rdg232">dubitanda</rdg>
+               <!-- "post"? -->
+               <rdg wit="#δ" xml:id="rdg233">dubitande</rdg>
+            </app>
+            <app loc="C5.38.46">
+               <lem n="fronte" xml:id="lem124"/>
+               <rdg wit="#ε #e #u #b" xml:id="rdg234">forte</rdg>
+               <!-- b (corr. #Guid.) -->
+            </app>
+            <app loc="C5.38.47">
+               <lem n="blandius" xml:id="lem125"/>
+               <rdg wit="#N" xml:id="rdg235">blandus</rdg>
+               <!-- N (corr. m2) -->
+            </app>
+            <app loc="C5.38.47">
+               <lem n="nimbos" xml:id="lem126"/>
+               <rdg source="#i1" wit="#ε #γ #e #u" xml:id="rdg236">nymbos</rdg>
+            </app>
+            <app loc="C5.38.48">
+               <lem n="intulit" xml:id="lem127"/>
+               <rdg source="#Heins. #Friesemann" xml:id="rdg237">impulit</rdg>
+               <!-- Friesemann (coll. cr. p. 180). -->
+            </app>
+            <app loc="C5.38.48">
+               <lem n="miseras" xml:id="lem128"/>
+               <rdg source="#Heins." xml:id="rdg238">mersas</rdg>
+            </app>
+            <app loc="C5.38.48">
+               <lem n="torrentibus" xml:id="lem129"/>
+               <rdg source="#n #o #i1 #l1 #Vienn. #Guid." wit="#φ #ν #ρ1 #θ #η #r" xml:id="rdg239"
+                  >tondentibus</rdg>
+               <rdg wit="#ExcParPrior" xml:id="rdg240">tonsoribus</rdg>
+               <!-- "prior"? -->
+            </app>
+            <app loc="C5.38.48">
+               <lem n="abstulit" xml:id="lem130"/>
+               <rdg wit="#G" xml:id="rdg241">astulit</rdg>
+            </app>
+            <app loc="C5.38.49">
+               <lem n="at" xml:id="lem131"/>
+               <rdg wit="#δ" xml:id="rdg242">et</rdg>
+            </app>
+            <app loc="C5.38.49">
+               <lem n="sitientes" xml:id="lem132"/>
+               <rdg source="#o #n #Beck #Baehr." wit="#ν #φ #ρ #θ #η #r #s" xml:id="rdg243"
+                  >sitientibus</rdg>
+               <!-- ρ (in ras.) -->
+            </app>
+            <app loc="C5.38.49">
+               <lem n="afferet" xml:id="lem133"/>
+               <rdg wit="#N #λ #μ #π #δ #ρ1" xml:id="rdg244">afferat</rdg>
+               <!-- N (ex afferet) -->
+            </app>
+            <app loc="C5.38.50">
+               <lem n="mutabile" xml:id="lem134"/>
+               <rdg wit="#N" xml:id="rdg245">mutabille</rdg>
+            </app>
+            <app loc="C5.38.52">
+               <lem n="quaere" xml:id="lem135"/>
+               <rdg wit="#G #κ #μ #β #δ #η #φ #π #r" xml:id="rdg246">quere</rdg>
+               <rdg wit="#ε" xml:id="rdg247">quare</rdg>
+            </app>
+            <app loc="C5.38.52">
+               <lem n="sed" xml:id="lem136"/>
+               <rdg wit="#G" xml:id="rdg248">quod</rdg>
+            </app>
+            <app loc="C5.38.53">
+               <lem n="efficit" xml:id="lem137"/>
+               <rdg wit="#θ" xml:id="rdg249">effugit</rdg>
+               <rdg source="#Heins." xml:id="rdg250">sufficit</rdg>
+            </app>
+            <app loc="C5.38.54">
+               <lem n="nocturno" xml:id="lem138"/>
+               <rdg wit="#G" xml:id="rdg251">noturno</rdg>
+            </app>
+            <app loc="C5.38.54">
+               <lem n="tanguntur" xml:id="lem139"/>
+               <rdg source="#edd." wit="#φ #ρ2" xml:id="rdg252">tinguntur</rdg>
+               <!-- edd. , exceptis eud2i2l2 Heins. Baehr. Schenkl. 55 -->
+            </app>
+            <app loc="C5.38.55">
+               <lem n="matutinae" xml:id="lem140"/>
+               <rdg source="#Heins." xml:id="rdg253">matutino</rdg>
+            </app>
+            <app loc="C5.38.55">
+               <lem n="gramine" xml:id="lem141"/>
+               <rdg wit="#N" xml:id="rdg254">germine</rdg>
+               <!-- N (corr. m2) -->
+               <rdg source="#Barth" wit="#δ #b" xml:id="rdg255">gramina</rdg>
+            </app>
+            <app loc="C5.38.56">
+               <lem n="at" xml:id="lem142"/>
+               <rdg source="#l2 #i2" wit="#ε #α #γ #μ #δ #e #u #b #d2" xml:id="rdg256">ut</rdg>
+            </app>
+            <app loc="C5.38.56">
+               <lem n="argutae" xml:id="lem143"/>
+               <rdg wit="#η #ν #θ #r" xml:id="rdg257">arbutae</rdg>
+               <rdg wit="#φ" xml:id="rdg258">arbute</rdg>
+               <rdg wit="#λ" xml:id="rdg259">arbuteae</rdg>
+            </app>
+            <app loc="C5.38.56">
+               <lem n="increpuere" xml:id="lem144"/>
+               <rdg source="#Ulit." xml:id="rdg260">inrupere</rdg>
+            </app>
+            <app loc="C5.39.57">
+               <lem n="nec" xml:id="lem145"/>
+               <rdg wit="#s" xml:id="rdg261">ne</rdg>
+            </app>
+            <app loc="C5.39.58">
+               <lem n="et" source="#n #o #BeckSqq" wit="#N #G #V #r #s" xml:id="lem146"/>
+               <rdg source="#eddAnteBeck" wit="#A #ε #α #δ #γ" xml:id="rdg262">vel</rdg>
+               <rdg wit="#H" xml:id="rdg263">nec</rdg>
+            </app>
+            <app loc="C5.39.58">
+               <lem n="permitte" xml:id="lem147"/>
+               <rdg wit="#G" xml:id="rdg264">permicte</rdg>
+            </app>
+            <app loc="C5.39.58">
+               <lem n="sed" xml:id="lem148"/>
+               <rdg source="#edd" wit="#V" xml:id="rdg265">sine</rdg>
+               <witDetail target="#rdg5.58sine" wit="#V">sive π κ β d¹</witDetail>
+               <note target="#rdg5.58sine">praeter Baehr. et Schenkl</note>
+               <!-- sine (sive πκβd1) V edd. praeter Baehr. et Schenkl-->
+            </app>
+            <app loc="C5.39.58">
+               <lem n="protegat" xml:id="lem149"/>
+               <rdg wit="#κ #χ2" xml:id="rdg266">protegit</rdg>
+               <rdg wit="#π" xml:id="rdg267">protegunt</rdg>
+            </app>
+            <app loc="C5.39.58">
+               <lem n="illos" xml:id="lem150"/>
+               <rdg wit="#N" xml:id="rdg268">illas</rdg>
+               <!-- illas N (corr. m2). -->
+            </app>
+            <app loc="C5.39.59">
+               <lem n="veteres" xml:id="lem151"/>
+               <rdg wit="#N" xml:id="rdg269">
+                  <del>veterea</del>
+               </rdg>
+            </app>
+            <!-- 59 post interea in N veterea del. proiicit Heins. -->
+            <app loc="C5.39.59">
+               <lem n="porrigit" xml:id="lem152"/>
+               <rdg source="#Heins." xml:id="rdg270">proiicit</rdg>
+            </app>
+            <app loc="C5.39.59">
+               <lem n="aesculus" wit="#λ #χ" xml:id="lem153"/>
+               <rdg wit="#φ" xml:id="rdg271">exculus</rdg>
+               <rdg source="#eddFereOmnes" wit="#N #G #V" xml:id="rdg272">esculus</rdg>
+               <!-- NGV edd. fere omnes. -->
+            </app>
+            <app loc="C5.39.60">
+               <lem n="declini" source="#Heins. #Haupt #Schenkl #Lucas" xml:id="lem154"/>
+               <rdg wit="#N #G" xml:id="rdg273">declivis</rdg>
+               <!-- N (in quo declivi m2) G (in quo fortasse declinis legendum est) -->
+               <rdg source="#edd." wit="#V" xml:id="rdg274">declivi</rdg>
+               <!-- declivi (declivo α2) V -->
+            </app>
+            <app loc="C5.39.60">
+               <lem n="nona" source="#eddDefHLucas" wit="#ω" xml:id="lem155"/>
+               <!-- ω edd. def. H. Lucas (Wiener Studien XXII p. 139-40), -->
+               <rdg wit="#α #μ #δ #d2" xml:id="rdg275">nova</rdg>
+               <rdg source="#Maehly" xml:id="rdg276">rura</rdg>
+               <rdg source="#Baehr." xml:id="rdg277">sera</rdg>
+               <rdg source="#Schenkl" xml:id="rdg278">terra</rdg>
+               <!-- terra Schenkl olim. -->
+            </app>
+            <app loc="C5.39.61">
+               <lem n="incipietque" source="#Glaeser #CSchenkl #Leo" xml:id="lem156"/>
+               <rdg source="#edd." wit="#ω" xml:id="rdg279">incipiet</rdg>
+               <rdg source="#Hartel" xml:id="rdg280">incipit esse</rdg>
+               <rdg source="#Maehly" xml:id="rdg281">incipient</rdg>
+               <rdg source="#Baehr." xml:id="rdg282">incipit atque</rdg>
+            </app>
+            <app loc="C5.39.61">
+               <lem n="serique" source="#Glaeser #CSchenkl #Hartel" wit="#N #G" xml:id="lem157"/>
+               <!-- N (in quo seraeque m2 in mg.) G -->
+               <rdg source="#edd." wit="#V" xml:id="rdg283">seraeque</rdg>
+               <rdg source="#Leo" xml:id="rdg284">seri quae</rdg>
+               <rdg source="#Baehr." xml:id="rdg285">seri</rdg>
+               <rdg source="#Schenkl1" xml:id="rdg286">sera iamque</rdg>
+               <note resp="Giarratano">probb. L. Mueller et Ellis</note>
+               <rdg source="#Iacoby" xml:id="rdg287">lactisque</rdg>
+               <note resp="Giarratano">Perperam quidam (cfr. Glotta I 1907) serique intellegunt ut
+                  idem sit ac vesperis</note>
+            </app>
+            <!-- Perperam quidam (dfr. Glotta I 1907) serique intellegunt ut idem sit ac vesperis. -->
+            <!-- This line appears after the lactisque entry and the creditur entry. -->
+            <!-- There is a macron over the e in serique in that line. -->
+            <app loc="C5.39.61">
+               <lem n="videbitur" xml:id="lem158"/>
+               <rdg source="#Leo" xml:id="rdg288">creditur</rdg>
+               <!-- Leo (l. l. p. 620) -->
+            </app>
+            <app loc="C5.39.61">
+               <lem n="premendi"
+                  source="#Glaeser #Baehr. #Schenkl #Leo #Iacoby #Mueller #Ellis #Hartel"
+                  wit="#N #G" xml:id="lem159"/>
+               <rdg source="#edd." wit="#V" xml:id="rdg289">merendae</rdg>
+            </app>
+            <app loc="C5.39.63">
+               <lem n="ovili" xml:id="lem160"/>
+               <rdg wit="#N" xml:id="rdg290">ovilli</rdg>
+            </app>
+            <app loc="C5.39.64">
+               <lem n="quam" xml:id="lem161">levibus </lem>
+               <rdg source="#Barth" xml:id="rdg291">quam levibus laevibus ac</rdg>
+               <!-- there's plenty of space between levibus and laevibus. Maybe there's a faded witness in here. Maybe. -->
+            </app>
+            <app loc="C5.39.64">
+               <lem n="somnos" xml:id="lem162"/>
+               <rdg wit="#G" xml:id="rdg292">sōpnos</rdg>
+            </app>
+            <app loc="C5.39.64">
+               <lem n="captare" xml:id="lem163"/>
+               <rdg wit="#λ" xml:id="rdg293">cantare</rdg>
+            </app>
+            <app loc="C5.39.64">
+               <lem n="volucris" xml:id="lem164"/>
+               <rdg wit="#N" xml:id="rdg294">volucres</rdg>
+               <!-- N (corr. m2) -->
+            </app>
+            <app loc="C5.39.65">
+               <lem n="cogitet" xml:id="lem165"/>
+               <rdg wit="#π" xml:id="rdg295">contiget</rdg>
+            </app>
+            <app loc="C5.39.65">
+               <lem n="et" xml:id="lem166"/>
+               <rdg source="#Beck #Glaeser #Maehly #Keene" wit="#ν #φ #η #ρ1 #r" xml:id="rdg296"
+                  >ac</rdg>
+               <rdg wit="#κ #χ" xml:id="rdg297">at</rdg>
+               <rdg source="#n #o" wit="#s" xml:id="rdg298">ad</rdg>
+               <rdg source="#Heins." xml:id="rdg299">i</rdg>
+               <rdg source="#Burm." xml:id="rdg300">hinc</rdg>
+            </app>
+            <app loc="C5.39.65">
+               <lem n="tremulo" source="#Glaeser #Schenkl" xml:id="lem167">queribunda </lem>
+               <!-- Glaeser (qui propsuit etiam gemibunda, quod recepit Baehr., vel volueres cogitet atque ales tremulo) -->
+               <rdg wit="#N #A" xml:id="rdg301">tremulo tremebundo</rdg>
+               <rdg wit="#G" xml:id="rdg302">tremulo tremēbundo</rdg>
+               <rdg source="#edd." wit="#V" xml:id="rdg303">tremuli tremebunda</rdg>
+               <rdg source="#Maehly" xml:id="rdg304">tremulo iam non</rdg>
+               <rdg source="#Wernsd. #Beck #Keene" xml:id="rdg305">tremuli dent mulctra</rdg>
+               <!-- Beck (qui volebat etiam denses vel atque premas tremebunda) -->
+               <rdg source="#Heins." xml:id="rdg306">tremuli preme munda</rdg>
+               <rdg source="#Heins." xml:id="rdg307">et tremuli premere uda</rdg>
+               <!-- tremuli preme munda vel et tremuli premere uda Heins., -->
+               <rdg source="#Burm." xml:id="rdg308">tremuli preme munda</rdg>
+               <rdg wit="#s" xml:id="rdg309">te ferto tremebunda</rdg>
+            </app>
+            <app loc="C5.39.65">
+               <lem n="fritinniat" source="#Glaeser #Baehr. #Schenkl" xml:id="lem168">ore </lem>
+               <rdg wit="#N #G" xml:id="rdg310">fruniat ore</rdg>
+               <!-- N  (in quo coagulat lacte m2 in mg.) -->
+               <rdg wit="#A #H" xml:id="rdg311">tinniat ore</rdg>
+               <rdg source="#edd." wit="#V" xml:id="rdg312">coagula lactis</rdg>
+               <!-- coagula lactis (coacula φ) V -->
+               <rdg source="#Maehly" xml:id="rdg313">fringutiat ore</rdg>
+            </app>
+            <app loc="C5.39.66">
+               <lem n="cum" xml:id="lem169"/>
+               <rdg source="#Glaeser #CSchenkl" wit="#d" xml:id="rdg314">tum</rdg>
+               <rdg source="#Burm." xml:id="rdg315">et</rdg>
+               <rdg wit="#φ" xml:id="rdg316">quo</rdg>
+            </app>
+            <app loc="C5.39.66">
+               <lem n="maturas" source="#Burm. #Baehr. #Schenkl" wit="#N #G #A" xml:id="lem170"/>
+               <rdg source="#edd." wit="#V" xml:id="rdg317">maternas</rdg>
+            </app>
+            <app loc="C5.39.66">
+               <lem n="demere" xml:id="lem171"/>
+               <rdg wit="#N" xml:id="rdg318">demeres</rdg>
+               <!-- N (corr. m2). -->
+            </app>
+            <!-- hunc versum post v. 67 collocant V (corr. A) H edd. praeter Baehr. et Schenkl. 67 -->
+            <app loc="C5.39.67">
+               <lem n="sucida" xml:id="lem172"/>
+               <rdg wit="#N #V" xml:id="rdg319">succida</rdg>
+               <rdg source="#Glaeser" xml:id="rdg320">succidua</rdg>
+            </app>
+            <app loc="C5.39.67">
+               <!-- Transition to page 40. -->
+               <lem n="iam" xml:id="lem173"/>
+               <rdg source="#Heins." xml:id="rdg321">da</rdg>
+               <rdg source="#Burm." xml:id="rdg322">quum</rdg>
+               <rdg source="#Glaeser" xml:id="rdg323">at</rdg>
+            </app>
+            <app loc="C5.39.67">
+               <lem n="sucida" xml:id="lem174">iam </lem>
+               <rdg source="#Keene" xml:id="rdg324">si cupias</rdg>
+            </app>
+            <app loc="C5.39.67">
+               <lem n="constringere" xml:id="lem175"/>
+               <rdg wit="#s" xml:id="rdg325">constringito</rdg>
+               <rdg source="#Glaeser" wit="#d" xml:id="rdg326">cum stringes</rdg>
+            </app>
+            <app loc="C5.39.67">
+               <lem n="iunco" xml:id="lem176"/>
+               <rdg wit="#φ #κ #α #μ #η #ρ1 #r" xml:id="rdg327">vinco</rdg>
+               <rdg wit="#π" xml:id="rdg328">ionco</rdg>
+            </app>
+            <app loc="C5.40.68">
+               <lem n="hircorumque" xml:id="lem177"/>
+               <rdg wit="#N" xml:id="rdg329">hircetque</rdg>
+               <!-- N (corr. m2) -->
+               <rdg wit="#G" xml:id="rdg330">hyrcorumque</rdg>
+            </app>
+            <app loc="C5.40.68">
+               <lem n="caedere" source="#edd." wit="#ν #λ #γ" xml:id="lem178"/>
+               <rdg source="#n #i1" wit="#N #G #V" xml:id="rdg331">cedere</rdg>
+            </app>
+            <app loc="C5.40.69">
+               <lem n="tamen" xml:id="lem179">secerne pecus </lem>
+               <rdg wit="#N" xml:id="rdg332">tamen tuum secerne notis</rdg>
+               <!-- corr. m1 -->
+            </app>
+            <app loc="C5.40.70">
+               <lem n="comas" source="#edd." wit="#N #V" xml:id="lem180"/>
+               <rdg wit="#G" xml:id="rdg333">comes</rdg>
+               <!-- comes (co e corr.) G, -->
+               <rdg source="#Barth" xml:id="rdg334">coma</rdg>
+               <rdg source="#Burm. #Beck #Baehr." xml:id="rdg335">comis</rdg>
+            </app>
+            <app loc="C5.40.70">
+               <lem n="ne" xml:id="lem181"/>
+               <rdg wit="#β #φ #κ #χ #π" xml:id="rdg336">nec</rdg>
+            </app>
+            <app loc="C5.40.71">
+               <lem n="ne" xml:id="lem182"/>
+               <rdg wit="#κ #λ" xml:id="rdg337">neu</rdg>
+               <rdg wit="#π" xml:id="rdg338">nec</rdg>
+            </app>
+            <app loc="C5.40.73">
+               <lem n="denudavit" source="#Glaeser #Baehr. #Schenkl" wit="#N #G" xml:id="lem183"/>
+               <rdg source="#edd." wit="#V" xml:id="rdg339">denudabit</rdg>
+               <rdg source="#Burm." xml:id="rdg340">denudarit</rdg>
+            </app>
+            <app loc="C5.40.73">
+               <lem n="ne" xml:id="lem184"/>
+               <rdg wit="#G" xml:id="rdg341">nec</rdg>
+               <!-- corr. m1 -->
+            </app>
+            <app loc="C5.40.74">
+               <lem n="forpice" xml:id="lem185"/>
+               <rdg wit="#V" xml:id="rdg342">forfice</rdg>
+            </app>
+            <app loc="C5.40.74">
+               <lem n="pusula" source="#Schenkl" wit="#N" xml:id="lem186"/>
+               <rdg source="#edd." wit="#G #V" xml:id="rdg343">pustula</rdg>
+               <rdg wit="#φ" xml:id="rdg344">pastula</rdg>
+               <rdg wit="#μ" xml:id="rdg345">pastuli</rdg>
+               <rdg wit="#β #d1" xml:id="rdg346">postula</rdg>
+               <rdg source="#Nordh." xml:id="rdg347">pulsula</rdg>
+            </app>
+            <app loc="C5.40.75">
+               <lem n="occulto" xml:id="lem187"/>
+               <rdg wit="#N #G #κ #α #β #e #u #b #d2" xml:id="rdg348">oculto</rdg>
+            </app>
+            <app loc="C5.40.75">
+               <lem n="vulnere" xml:id="lem188"/>
+               <rdg source="#Heins." xml:id="rdg349">vellere</rdg>
+            </app>
+            <app loc="C5.40.76">
+               <lem n="a" source="#Baehr. #Schenkl" wit="#H" xml:id="lem189"/>
+               <rdg source="#i1 #o #n #l1 #Vienn. #Titius #hSqq" wit="#N #G #ρ2 #φ #ν #η #r"
+                  xml:id="rdg350">ah</rdg>
+               <rdg source="#eddAntep" wit="#ε #κ #χ #ρ1 #π #λ #α #δ #μ #β #γ" xml:id="rdg351"
+                  >in</rdg>
+               <rdg wit="#d" xml:id="rdg352">en</rdg>
+               <rdg source="#Modius" xml:id="rdg353">ha</rdg>
+            </app>
+            <app loc="C5.40.76">
+               <lem n="rubigine" xml:id="lem190"/>
+               <rdg wit="#G" xml:id="rdg354">rubidine</rdg>
+               <rdg source="#Heins." xml:id="rdg355">porrigine</rdg>
+               <rdg source="#Heins." xml:id="rdg356">prurigine</rdg>
+            </app>
+            <app loc="C5.40.77">
+               <lem n="arrodet" source="#GlaeserSqq" wit="#N #G" xml:id="lem191"/>
+               <rdg source="#eddAnteGlaeser" wit="#V" xml:id="rdg357">corrodet</rdg>
+            </app>
+            <app loc="C5.40.77">
+               <lem n="sanies" xml:id="lem192"/>
+               <rdg source="#Ulit." xml:id="rdg358">scabies</rdg>
+            </app>
+            <app loc="C5.40.77">
+               <lem n="putria" source="#Baehr. #Schenkl" wit="#N #G" xml:id="lem193"/>
+               <rdg source="#edd." wit="#V" xml:id="rdg359">putrida</rdg>
+               <rdg wit="#φ" xml:id="rdg360">pudria</rdg>
+            </app>
+            <app loc="C5.40.77">
+               <lem n="contrahet" source="#edd." wit="#V" xml:id="lem194"/>
+               <rdg wit="#N #G" xml:id="rdg361">contrahit</rdg>
+               <!-- N (corr. m2) -->
+               <rdg wit="#φ" xml:id="rdg362">contrahat</rdg>
+            </app>
+            <app loc="C5.40.78">
+               <lem n="hoc" xml:id="lem195"/>
+               <rdg source="#n #o #Beck" wit="#ν #φ #κ #χ #ρ1 #η #θ" xml:id="rdg363">haec</rdg>
+            </app>
+            <app loc="C5.40.78">
+               <lem n="moneo" xml:id="lem196"/>
+               <rdg wit="#N" xml:id="rdg364">moneo ut</rdg>
+            </app>
+            <app loc="C5.40.78">
+               <lem n="viventia" xml:id="lem197"/>
+               <rdg source="#i1 #l1 #Vienn. #Tig." wit="#ρ2" xml:id="rdg365">liventia</rdg>
+            </app>
+            <app loc="C5.40.78">
+               <lem n="sulphura" xml:id="lem198"/>
+               <rdg wit="#ρ #β #π #μ" xml:id="rdg366">sulfura</rdg>
+               <rdg wit="#φ" xml:id="rdg367">sulpura</rdg>
+            </app>
+            <app loc="C5.40.79">
+               <lem n="scillae" source="#Heins. #WernsdSqq" wit="#Ν #δ #s" xml:id="lem199"/>
+               <rdg source="#eddAnteWernsd" wit="#λ #ρ" xml:id="rdg368">scyllae</rdg>
+               <rdg wit="#G #π" xml:id="rdg369">stille</rdg>
+               <rdg wit="#α" xml:id="rdg370">schille</rdg>
+               <rdg wit="#κ #χ" xml:id="rdg371">stillae</rdg>
+               <rdg wit="#ν #φ #η #r" xml:id="rdg372">scylle</rdg>
+               <rdg wit="#γ" xml:id="rdg373">schillae</rdg>
+               <rdg wit="#μ" xml:id="rdg374">schile</rdg>
+               <rdg wit="#ε" xml:id="rdg375">sylle</rdg>
+               <rdg wit="#β" xml:id="rdg376">scille</rdg>
+               <rdg wit="#e" xml:id="rdg377">syllae</rdg>
+               <rdg wit="#d" xml:id="rdg378">squillae</rdg>
+            </app>
+            <app loc="C5.40.79">
+               <lem n="caput" xml:id="lem200"/>
+               <rdg wit="#G" xml:id="rdg379">capud</rdg>
+               <rdg source="#Heins." xml:id="rdg380">capita</rdg>
+            </app>
+            <app loc="C5.40.79">
+               <lem n="et" source="#GlaeserSqq" wit="#N #G" xml:id="lem201">virosa </lem>
+               <rdg wit="#H #A" xml:id="rdg381">et vitrosa</rdg>
+               <!-- H (in quo et nitrosa m2) -->
+               <rdg source="#eddAnteGlaeser" wit="#ε #γ #λ2 #ρ2" xml:id="rdg382">atque intacta</rdg>
+               <rdg wit="#μ #λ1 #α1" xml:id="rdg383">et intacta</rdg>
+               <rdg wit="#π" xml:id="rdg384">et initata</rdg>
+               <rdg wit="#η #ν #φ #θ #r #s" xml:id="rdg385">et buctata</rdg>
+               <rdg wit="#ρ1" xml:id="rdg386">et bructata</rdg>
+               <rdg wit="#κ #χ" xml:id="rdg387">et victaba</rdg>
+               <!-- χ (in mg.) -->
+               <rdg wit="#χ" xml:id="rdg388">et nictaba</rdg>
+               <!-- see above note in mg. -->
+               <rdg wit="#α2" xml:id="rdg389">ac intacta</rdg>
+               <rdg wit="#β" xml:id="rdg390">et vittata</rdg>
+               <rdg wit="#δ" xml:id="rdg391">et intata</rdg>
+               <rdg source="#Ascensius" xml:id="rdg392">atque buxata</rdg>
+               <!-- in notis -->
+               <rdg source="#Burm." xml:id="rdg393">atque ructata</rdg>
+               <rdg source="#EWolf" xml:id="rdg394">et nitrata</rdg>
+            </app>
+            <app loc="C5.40.79">
+               <lem n="portes" source="#Baehr. #Schenkl" wit="#N #G" xml:id="lem202"/>
+               <rdg source="#edd." wit="#V" xml:id="rdg395">porta</rdg>
+               <!-- portu φ ponta δ -->
+            </app>
+            <app loc="C5.40.80">
+               <lem n="vulneribus" source="#Baehr. #Schenkl" wit="#N #G" xml:id="lem203"/>
+               <rdg source="#edd." wit="#V" xml:id="rdg396">ulceribus</rdg>
+            </app>
+            <app loc="C5.40.80">
+               <lem n="laturus" xml:id="lem204"/>
+               <rdg wit="#G" xml:id="rdg397">daturus</rdg>
+            </app>
+            <app loc="C5.40.80">
+               <lem n="nec" xml:id="lem205"/>
+               <rdg source="#Barth" xml:id="rdg398">ne</rdg>
+            </app>
+            <app loc="C5.40.81">
+               <lem n="pix" source="#Baehr. #Schenkl" xml:id="lem206">tibi </lem>
+               <rdg wit="#N #G" xml:id="rdg399">pia tibi</rdg>
+               <rdg source="#edd." wit="#N #V" xml:id="rdg400">dura tibi</rdg>
+               <!-- N m2 -->
+               <rdg source="#Iacoby" xml:id="rdg401">pix sed</rdg>
+               <rdg wit="#s" xml:id="rdg402">cura tibi</rdg>
+               <rdg source="#Burm." xml:id="rdg403">pura tibi</rdg>
+               <rdg source="#Burm." xml:id="rdg404">dura tibi</rdg>
+               <rdg source="#Schenkl" xml:id="rdg405">pissa tibi</rdg>
+               <!-- olim -->
+            </app>
+            <app loc="C5.40.81">
+               <lem n="tu" xml:id="lem207"/>
+               <rdg source="#edd." wit="#ν #φ #ρ2" xml:id="rdg406">et</rdg>
+               <!-- exceptis u e b o n i d2 l2 Tig. Baehr. Keene Schenkl -->
+               <rdg source="#Burm." xml:id="rdg407">liquidoque hinc</rdg>
+               <rdg source="#Burm." xml:id="rdg408">hinc liquido</rdg>
+            </app>
+            <app loc="C5.40.81">
+               <lem n="picis" source="#i2 #l2 #n #o #Modius #Baehr. #Keene #Schenkl"
+                  wit="#N #G #ε #δ #λ #ρ2 #α #π #γ #μ #e #u #b" xml:id="lem208"/>
+               <!-- ρ2 (in mg.) -->
+               <rdg source="#edd." wit="#H #η #θ #ν #φ" xml:id="rdg409">simul</rdg>
+               <rdg wit="#β" xml:id="rdg410">pacis</rdg>
+               <rdg wit="#d2" xml:id="rdg411">pycis</rdg>
+               <rdg wit="#κ #χ #ρ1" xml:id="rdg412"/>
+            </app>
+            <app loc="C5.40.81">
+               <lem n="unguine" source="#edd." wit="#G #η #ν #φ #κ #π" xml:id="lem209"/>
+               <rdg wit="#N #ρ1" xml:id="rdg413">inguine</rdg>
+               <rdg wit="#ρ2" xml:id="rdg414">unguere</rdg>
+               <rdg source="#o #n #d2 #l2 #i2" wit="#ε #λ #α #γ #β #e #u #b" xml:id="rdg415"
+                  >ungere</rdg>
+               <rdg wit="#μ" xml:id="rdg416">iungere</rdg>
+               <rdg wit="#δ" xml:id="rdg417">lingere</rdg>
+            </app>
+            <app loc="C5.41.82">
+               <lem n="sint" xml:id="lem210"/>
+               <rdg wit="#N" xml:id="rdg418">sunt</rdg>
+               <rdg wit="#d" xml:id="rdg419">tibi</rdg>
+            </app>
+            <app loc="C5.41.82">
+               <lem n="rasa" source="#edd." wit="#V" xml:id="lem211"/>
+               <rdg wit="#N #G #δ #ν1" xml:id="rdg420">rara</rdg>
+               <rdg wit="#ε" xml:id="rdg421">rase</rdg>
+               <rdg wit="#e" xml:id="rdg422">rasae</rdg>
+               <rdg source="#Schenkl" xml:id="rdg423">scabra</rdg>
+               <rdg source="#Schenkl" xml:id="rdg424">cruda</rdg>
+               <!-- scabra vel cruda Schenkl. -->
+            </app>
+            <app loc="C5.41.82">
+               <lem n="durae" source="#GlaeserSqq" wit="#N #G" xml:id="lem212"/>
+               <rdg wit="#H #ν #α #φ #θ #δ #μ #λ1 #r" xml:id="rdg425">vini</rdg>
+               <rdg source="#eddAnteGlaeser" wit="#ε #γ #κ #χ #ρ #β #η #λ2" xml:id="rdg426"
+                  >vivi</rdg>
+               <rdg wit="#π" xml:id="rdg427">runi</rdg>
+            </app>
+            <app loc="C5.41.82">
+               <lem n="pondera" xml:id="lem213"/>
+               <rdg wit="#N #ν #γ #ε #η #θ #r" xml:id="rdg428">pondere</rdg>
+               <!-- N (corr. m2) -->
+            </app>
+            <app loc="C5.41.82">
+               <lem n="quoque" xml:id="lem214">pondera </lem>
+               <rdg wit="#π" xml:id="rdg429">pondere quoque</rdg>
+            </app>
+            <app loc="C5.41.82">
+               <lem n="malthae" source="#g #o" wit="#e" xml:id="lem215"/>
+               <rdg source="#GlaeserSqq" wit="#N #G" xml:id="rdg430">massae</rdg>
+               <rdg source="#eddAnteGlaeser" wit="#β #ε #λ #ρ #μ #γ #α #δ" xml:id="rdg431"
+                  >melle</rdg>
+               <rdg wit="#φ #π #κ #χ #ν #η #θ #r" xml:id="rdg432">molle</rdg>
+               <rdg source="#Heins." xml:id="rdg433">amellis</rdg>
+               <rdg source="#Ulit." xml:id="rdg434">in olla</rdg>
+               <rdg source="#Ulit." xml:id="rdg435">in uno</rdg>
+               <rdg source="#Ulit." xml:id="rdg436">in illo</rdg>
+               <!-- in olla (ahena) vel in uno vel in illo Ulit. -->
+            </app>
+            <app loc="C5.41.83">
+               <lem n="ardenti" source="#Bergk" wit="#G" xml:id="lem216"/>
+               <!-- G (in mg.) Bergk (Rhein. Mus. XX p. 292) -->
+               <rdg source="#edd." wit="#ω" xml:id="rdg437">argenti</rdg>
+               <rdg source="#Iacoby" wit="#ν #φ #ρ2 #η #θ #r" xml:id="rdg438">argentum</rdg>
+               <rdg source="#Schenkl #LMueller" xml:id="rdg439">arrhenici</rdg>
+               <rdg source="#Haupt #Baehr." xml:id="rdg440">chalcanthi</rdg>
+               <!-- Haupt (l. l. p. 31) Baehr. -->
+            </app>
+            <app loc="C5.41.83">
+               <lem n="coquito" xml:id="lem217"/>
+               <rdg source="#Heins." xml:id="rdg441">incoquito</rdg>
+            </app>
+            <app loc="C5.41.83">
+               <lem n="lentumque" xml:id="lem218"/>
+               <rdg source="#Bergk" xml:id="rdg442">lentumve</rdg>
+            </app>
+            <app loc="C5.41.83">
+               <lem n="bitumen" xml:id="lem219"/>
+               <rdg wit="#d2" xml:id="rdg443">bitumine</rdg>
+            </app>
+            <app loc="C5.41.83">
+               <lem n="aheno" source="#edd." wit="#α #η #φ #ρ2 #λ2" xml:id="lem220"/>
+               <rdg wit="#N #G #V #e" xml:id="rdg444">aeno</rdg>
+               <rdg source="#i1" wit="#d2" xml:id="rdg445">ahaeno</rdg>
+            </app>
+            <!-- post hunc versum lacunam Iacoby (l. l. p. 31) statuit. -->
+            <app loc="C5.41.84">
+               <lem n="tua" xml:id="lem221"/>
+               <rdg wit="#G" xml:id="rdg446">tu</rdg>
+            </app>
+            <app loc="C5.41.84">
+               <lem n="lites" source="#edd." wit="#V" xml:id="lem222"/>
+               <rdg wit="#N" xml:id="rdg447">letes</rdg>
+               <rdg wit="#G" xml:id="rdg448">lethes</rdg>
+               <rdg wit="#ν #φ #η #r #s" xml:id="rdg449">litis</rdg>
+            </app>
+            <app loc="C5.41.85">
+               <lem n="auferet" xml:id="lem223"/>
+               <rdg source="#b #i #o #n #l2" wit="#δ #ε #α #γ #e #u #d2 #s" xml:id="rdg450"
+                  >afferet</rdg>
+            </app>
+            <app loc="C5.41.85">
+               <lem n="ingentes" xml:id="lem224"/>
+               <rdg source="#Tig." wit="#V #r" xml:id="rdg451">ingenti</rdg>
+               <rdg source="#b #n #o #i1" wit="#ε #γ #ρ2 #u #s" xml:id="rdg452">ingentis</rdg>
+               <rdg wit="#φ" xml:id="rdg453">ignenti</rdg>
+               <rdg wit="#e" xml:id="rdg454">ingenitis</rdg>
+               <rdg source="#Maehly" xml:id="rdg455">ingratas</rdg>
+               <rdg source="#Hartel" xml:id="rdg456">ingestas</rdg>
+            </app>
+            <app loc="C5.41.85">
+               <lem n="lectus" xml:id="lem225"/>
+               <rdg wit="#G" xml:id="rdg457">luctus</rdg>
+               <rdg wit="#α #λ" xml:id="rdg458">laetus</rdg>
+               <rdg source="#Heins." xml:id="rdg459">certus</rdg>
+            </app>
+            <app loc="C5.41.85">
+               <lem n="in" source="#Titius #Fruterius #Barth #Modius #BurmSqq"
+                  wit="#N #G #A #λ #β #γ" xml:id="lem226">armo </lem>
+               <rdg source="#eddAuteBurm." wit="#ε #α" xml:id="rdg460">in arvo</rdg>
+               <rdg wit="#π" xml:id="rdg461">in arno</rdg>
+               <rdg wit="#μ" xml:id="rdg462">in auro</rdg>
+               <rdg wit="#δ" xml:id="rdg463">marmo</rdg>
+               <rdg source="#i1 #l1 #Tit. #Tig. #Vienn." wit="#η #θ #ν #φ #r" xml:id="rdg464"
+                  >ovili</rdg>
+               <rdg wit="#ρ2" xml:id="rdg465">in arvo</rdg>
+               <rdg wit="#ρ2" xml:id="rdg466">ovili</rdg>
+               <!-- in arvo et ovili ρ2, -->
+               <rdg source="#Argol" xml:id="rdg467">in aure</rdg>
+               <!-- Argol. (ad Onuphr. Panv. de circo p. 25), -->
+               <rdg wit="#κ #χ #ρ1" xml:id="rdg468"/>
+            </app>
+            <app loc="C5.41.86">
+               <lem n="nunc" source="#i1 #l1 #Vienn. #GlaeserSqq" wit="#N #G" xml:id="lem227"/>
+               <rdg source="#eddAnteGlaeser" wit="#V" xml:id="rdg469">tunc</rdg>
+            </app>
+            <app loc="C5.41.86">
+               <lem n="dum" xml:id="lem228"/>
+               <rdg wit="#N" xml:id="rdg470"/>
+               <!-- om. N (ins m2) ; the superscript is hard to read, and I'm unsure if it is 2. -->
+               <rdg wit="#ν #φ #η #θ #r" xml:id="rdg471">quum</rdg>
+               <rdg source="#n #o" wit="#s" xml:id="rdg472">cum</rdg>
+            </app>
+            <app loc="C5.41.86">
+               <lem n="siccus" xml:id="lem229"/>
+               <rdg wit="#G" xml:id="rdg473">sicus</rdg>
+            </app>
+            <app loc="C5.41.87">
+               <lem n="et" xml:id="lem230">multo </lem>
+               <rdg source="#Titius" xml:id="rdg474">emulso</rdg>
+            </app>
+            <app loc="C5.41.87">
+               <lem n="torrida" xml:id="lem231"/>
+               <rdg source="#codTitii" xml:id="rdg475">turbida</rdg>
+            </app>
+            <app loc="C5.41.87">
+               <lem n="limo" xml:id="lem232"/>
+               <rdg source="#Vienn." xml:id="rdg476">lino</rdg>
+            </app>
+            <app loc="C5.41.88">
+               <lem n="fragiles" xml:id="lem233"/>
+               <rdg wit="#N" xml:id="rdg477">fragilles</rdg>
+            </app>
+            <app loc="C5.41.88">
+               <lem n="nimium" source="#GlaeserSqq" wit="#N #G #V #r #s" xml:id="lem234"/>
+               <rdg source="#eddAnteGlaeser" wit="#ε #γ #α #μ #ρ2" xml:id="rdg478">nimius</rdg>
+               <rdg wit="#δ" xml:id="rdg479">minius</rdg>
+            </app>
+            <app loc="C5.41.89">
+               <lem n="saeptis" xml:id="lem235"/>
+               <rdg wit="#ω" xml:id="rdg480">septis</rdg>
+            </app>
+            <app loc="C5.41.90">
+               <lem n="tua" xml:id="lem236"/>
+               <rdg source="#Heins." xml:id="rdg481">sua</rdg>
+            </app>
+            <app loc="C5.41.90">
+               <lem n="fumo" xml:id="lem237"/>
+               <rdg wit="#G" xml:id="rdg482">limo</rdg>
+            </app>
+            <app loc="C5.41.91">
+               <lem n="obfuit" xml:id="lem238"/>
+               <rdg source="#Burm." xml:id="rdg483">obvius</rdg>
+               <rdg source="#Maehly #Baehr." xml:id="rdg484">obficit</rdg>
+            </app>
+            <app loc="C5.41.91">
+               <lem n="ille" source="#GlaeserSqq" wit="#N #G" xml:id="lem239"/>
+               <rdg source="#eddAnteGlaeser" wit="#V" xml:id="rdg485">iste</rdg>
+            </app>
+            <app loc="C5.41.91">
+               <lem n="malis" xml:id="lem240"/>
+               <rdg wit="#κ #χ #ρ1" xml:id="rdg486">malus</rdg>
+            </app>
+            <app loc="C5.41.91">
+               <lem n="obfuit" xml:id="lem241">ille malis odor </lem>
+               <rdg wit="#H #ν #η #θ #φ #r" xml:id="rdg487">obfuerit malus iste odor</rdg>
+            </app>
+            <app loc="C5.41.93">
+               <lem n="uncos" xml:id="lem242"/>
+               <rdg source="#Maehly" xml:id="rdg488">unctos</rdg>
+            </app>
+            <app loc="C5.41.94">
+               <lem n="obtuso" xml:id="lem243"/>
+               <rdg wit="#N" xml:id="rdg489">obtusso</rdg>
+            </app>
+            <app loc="C5.41.95">
+               <lem n="nunc" source="#n #o #GlaeserSqq" wit="#N #G #η #θ #ν #φ #ρ2 #r #s"
+                  xml:id="lem244"/>
+               <rdg source="#eddAnteGlaeser" wit="#ε #π #γ #χ #κ #μ #λ #α #ζ #δ #ρ1" xml:id="rdg490"
+                  >tunc</rdg>
+            </app>
+            <app loc="C5.42.95">
+               <lem n="tempora" xml:id="lem245"/>
+               <rdg source="#Burm." xml:id="rdg491">tempore</rdg>
+            </app>
+            <app loc="C5.42.96">
+               <lem n="qua" xml:id="lem246"/>
+               <rdg source="#Burm." xml:id="rdg492">quae</rdg>
+            </app>
+            <app loc="C5.42.96">
+               <lem n="" xml:id="lem247">geras </lem>
+               <rdg source="#Heins." xml:id="rdg493">feras</rdg>
+               <rdg source="#Maehly" xml:id="rdg494">regas</rdg>
+               <rdg source="#Baehr." xml:id="rdg495">teras</rdg>
+            </app>
+            <app loc="C5.42.97">
+               <lem n="et" xml:id="lem248"/>
+               <rdg wit="#N" xml:id="rdg496">at</rdg>
+            </app>
+            <app loc="C5.42.97">
+               <lem n="laetas" xml:id="lem249"/>
+               <rdg source="#Barth" xml:id="rdg497">lectas</rdg>
+            </app>
+            <app loc="C5.42.97">
+               <lem n="circitor" source="#GlaeserSqq" wit="#N #G" xml:id="lem250"/>
+               <!-- N (in quo vinitor m2) G. Glaeser sqq.-->
+               <rdg source="#eddAnteGlaeser" wit="#V" xml:id="rdg498">vinitor</rdg>
+            </app>
+            <app loc="C5.42.98">
+               <lem n="vivasque" xml:id="lem251"/>
+               <rdg source="#Heins." xml:id="rdg499">nimiasque</rdg>
+            </app>
+            <app loc="C5.42.99">
+               <lem n="nunc" source="#GlaeserSqq" wit="#N #G" xml:id="lem252"/>
+               <!-- N (in quo tunc m2) -->
+               <rdg source="#eddAnteGlaeser" wit="#V" xml:id="rdg500">tunc</rdg>
+            </app>
+            <app loc="C5.42.99">
+               <lem n="summatim" xml:id="lem253"/>
+               <rdg wit="#G" xml:id="rdg501">sumatim</rdg>
+            </app>
+            <app loc="C5.42.100">
+               <lem n="nunc" source="#GlaeserSqq" wit="#N #G" xml:id="lem254"/>
+               <rdg source="#n #o #Beck" wit="#V #r #s" xml:id="rdg502">tunc</rdg>
+               <rdg source="#eddAnteGlaeser" wit="#A #ε #γ" xml:id="rdg503">tum</rdg>
+            </app>
+            <app loc="C5.42.100">
+               <lem n="hiemi" source="#GlaeserSqq" wit="#N" xml:id="lem255"/>
+               <rdg wit="#G #H" xml:id="rdg504">hiemis</rdg>
+               <rdg source="#eddAnteGlaeser" wit="#V" xml:id="rdg505">debes</rdg>
+            </app>
+            <app loc="C5.42.101">
+               <lem n="excutit" xml:id="lem256"/>
+               <rdg source="#o" xml:id="rdg506">expuit</rdg>
+            </app>
+            <app loc="C5.42.101">
+               <lem n="Africus" xml:id="lem257"/>
+               <rdg wit="#N #G #λ #ε #γ #β #e" xml:id="rdg507">affricus</rdg>
+               <rdg source="#i1 #n #o" wit="#s" xml:id="rdg508">aphricus</rdg>
+            </app>
+            <app loc="C5.42.102">
+               <lem n="has" source="#pSqq." wit="#γ" xml:id="lem258">tibi </lem>
+               <rdg source="#n #o" wit="#N #G #φ #ν #η #r" xml:id="rdg509">ast tibi</rdg>
+               <rdg source="#eddAntep" wit="#H #ε #α #δ #χ #β #μ #κ #π #λ" xml:id="rdg510">ast
+                  ubi</rdg>
+               <rdg wit="#A" xml:id="rdg511">ast ubi</rdg>
+               <rdg wit="#A" xml:id="rdg512">ast tibi</rdg>
+               <!-- ast ubi et ast tibi A. -->
+               <rdg wit="#ρ #θ #s" xml:id="rdg513">at tibi</rdg>
+            </app>
+            <app loc="C5.42.102">
+               <lem n="conveniet" xml:id="lem259"/>
+               <rdg wit="#N" xml:id="rdg514">cum veniet</rdg>
+            </app>
+            <app loc="C5.42.102">
+               <lem n="tepidis" xml:id="lem260"/>
+               <rdg wit="#G" xml:id="rdg515">trepidis</rdg>
+               <rdg source="#Barth" wit="#p #h" xml:id="rdg516">tepidas</rdg>
+            </app>
+            <app loc="C5.42.104">
+               <lem n="hac" source="#GlaeserSqq" xml:id="lem261"/>
+               <rdg wit="#N #G" xml:id="rdg517">hoc</rdg>
+               <rdg source="#Barth" wit="#A" xml:id="rdg518">hic</rdg>
+               <rdg source="#eddAnteGlaeser" wit="#V" xml:id="rdg519">sic</rdg>
+               <rdg source="#Modius #Burm." wit="#d" xml:id="rdg520">dic</rdg>
+               <rdg source="#Baehr." xml:id="rdg521">huc</rdg>
+            </app>
+            <app loc="C5.42.104">
+               <lem n="nitendum" source="#Glaeser #Haupt #Schenkl" wit="#μ" xml:id="lem262"/>
+               <rdg wit="#N" xml:id="rdg522">nectendum</rdg>
+               <rdg wit="#G" xml:id="rdg523">videndum</rdg>
+               <rdg source="#edd." wit="#V" xml:id="rdg524">nitendum est</rdg>
+               <rdg wit="#π1" xml:id="rdg525">interdum est</rdg>
+            </app>
+            <app loc="C5.42.104">
+               <lem n="hac" xml:id="lem263">tibi nitendum </lem>
+               <rdg source="#Maehly" xml:id="rdg526">hac tibi nec standum est</rdg>
+            </app>
+            <app loc="C5.42.104">
+               <lem n="hic" source="#Haupt #Schenkl #Keene" wit="#N #G" xml:id="lem264"/>
+               <rdg source="#edd." wit="#V" xml:id="rdg527">hoc</rdg>
+               <rdg source="#Glaeser" xml:id="rdg528">hinc</rdg>
+               <rdg source="#Baehr." xml:id="rdg529">huc</rdg>
+            </app>
+            <!-- v v. 104 sq. post v. 118 Schenkl1 collocandos censnit. 105 -->
+            <app loc="C5.42.105">
+               <lem n="redit" source="#GlaeserSqq" wit="#N #G" xml:id="lem265"/>
+               <rdg source="#eddAnteGlaeser" wit="#V" xml:id="rdg530">venit</rdg>
+            </app>
+            <app loc="C5.42.105">
+               <lem n="pastoria" xml:id="lem266"/>
+               <rdg wit="#N #G" xml:id="rdg531">pastoralia</rdg>
+               <!-- N (in quo corr. m2) G (in quo correctum est in mg.) -->
+            </app>
+            <app loc="C5.42.106">
+               <lem n="ne" source="#Baehr. #Schenkl" wit="#N #G #γ #η #ρ2 #d" xml:id="lem267"/>
+               <rdg source="#edd." wit="#V" xml:id="rdg532">nec</rdg>
+            </app>
+            <app loc="C5.42.106">
+               <lem n="siccis" xml:id="lem268">miscere </lem>
+               <rdg wit="#G" xml:id="rdg533">sucis miserere</rdg>
+            </app>
+            <app loc="C5.42.107">
+               <lem n="sucos" wit="#G #λ #μ #χ" xml:id="lem269"/>
+               <rdg wit="#N #V" xml:id="rdg534">succos</rdg>
+               <rdg source="#Heins." xml:id="rdg535">sulcos</rdg>
+            </app>
+            <app loc="C5.42.107">
+               <lem n="cum" source="#Giarratano" xml:id="lem270">torrida </lem>
+               <rdg source="#edd." wit="#N #G #V" xml:id="rdg536">ne torrida</rdg>
+               <rdg source="#l2 #i2" wit="#H #ε #γ #ρ2 #u #e #b #d2" xml:id="rdg537">neu
+                  torrida</rdg>
+               <rdg source="#Haupt" xml:id="rdg538">dum torrida</rdg>
+               <rdg source="#Ulit." xml:id="rdg539">ne ut torrida</rdg>
+               <rdg source="#Burm." xml:id="rdg540">ne turbida</rdg>
+               <rdg source="#Modius #Martellus #Baehr. #Schenkl" xml:id="rdg541">licet horrida</rdg>
+            </app>
+            <app loc="C5.42.108">
+               <lem n="instet" xml:id="lem271"/>
+               <rdg source="#Ulit." xml:id="rdg542">instat</rdg>
+               <rdg source="#Burm." xml:id="rdg543">cum stet</rdg>
+            </app>
+            <app loc="C5.42.108">
+               <lem n="hiems" wit="#N #γ #π #κ #β #ρ1" xml:id="lem272"/>
+               <rdg wit="#G #ν #λ #ρ2 #α #ε #δ #η" xml:id="rdg544">hyems</rdg>
+               <!-- Letter between the α and δ is faded.  Unsure if it really is ε or not. -->
+               <rdg wit="#μ #χ" xml:id="rdg545">hyemps</rdg>
+               <rdg wit="#φ" xml:id="rdg546">hyens</rdg>
+            </app>
+            <app loc="C5.42.108">
+               <lem n="coactis" xml:id="lem273"/>
+               <rdg source="#Glaeser" xml:id="rdg547">coactus</rdg>
+               <!-- Glaeser (ex cod. Pal. Barthii). -->
+            </app>
+            <app loc="C5.42.109">
+               <lem n="incurvare&#10;" source="#Martellus #Ulit. #h #t #Ellis #Schenkl #2"
+                  wit="#N #G" xml:id="lem274"> velit </lem>
+               <!-- Ellis  (l. l. p. 90) -->
+               <rdg source="#edd." wit="#V" xml:id="rdg548">incurvare velis</rdg>
+               <rdg source="#Haupt #Baehr. #Schenkl1 #Keene" xml:id="rdg549">incursare velet</rdg>
+               <!-- Haupt (l. l. p. 31) -->
+            </app>
+            <app loc="C5.42.109">
+               <lem n="nemus" xml:id="lem275"/>
+               <rdg source="#i1 #Tit. #Vienn. #Heins." wit="#ν #φ #η #θ #r" xml:id="rdg550"
+                  >vimen</rdg>
+               <rdg wit="#κ #χ" xml:id="rdg551">nomen</rdg>
+               <!-- κχ (in quo ramum in mg.). -->
+            </app>
+            <app loc="C5.42.109">
+               <lem n="et" xml:id="lem276">constringere </lem>
+               <rdg source="#Tit. #Heins." xml:id="rdg552">et stringere</rdg>
+            </app>
+            <app loc="C5.42.110">
+               <lem n="tu" xml:id="lem277"/>
+               <rdg source="#i2" xml:id="rdg553">tum</rdg>
+            </app>
+            <app loc="C5.42.110">
+               <lem n="tamen" xml:id="lem278">aut </lem>
+               <rdg wit="#λ" xml:id="rdg554">mihi seu</rdg>
+            </app>
+            <app loc="C5.42.110">
+               <lem n="leves" xml:id="lem279"/>
+               <rdg wit="#φ #η #θ #r #s" xml:id="rdg555">levis</rdg>
+            </app>
+            <app loc="C5.42.110">
+               <!-- Transition to page 43 -->
+               <lem n="hederas" xml:id="lem280"/>
+               <rdg wit="#G #μ #ε" xml:id="rdg556">ederas</rdg>
+               <rdg wit="#θ #φ #η #r" xml:id="rdg557">horedas</rdg>
+            </app>
+            <app loc="C5.42.110">
+               <lem n="aut" xml:id="lem281">molle </lem>
+               <rdg wit="#θ" xml:id="rdg558">et molle</rdg>
+            </app>
+            <app loc="C5.43.111">
+               <lem n="premes" xml:id="lem282"/>
+               <rdg wit="#G" xml:id="rdg559">premens</rdg>
+            </app>
+            <app loc="C5.43.111">
+               <lem n="media" source="#GlaeserSqq" wit="#N #G" xml:id="lem283"/>
+               <rdg source="#eddAnteGlaeser" wit="#V" xml:id="rdg560">gelida</rdg>
+               <rdg wit="#δ #μ" xml:id="rdg561">gelidi</rdg>
+            </app>
+            <app loc="C5.43.111">
+               <lem n="sitis" xml:id="lem284"/>
+               <rdg source="#n #o" wit="#ν #φ #θ #η #ρ1 #r #s" xml:id="rdg562">satis</rdg>
+            </app>
+            <app loc="C5.43.112">
+               <lem n="Canthe" source="#edd." wit="#λ #φ #ν #α #η #ρ2" xml:id="lem285"/>
+               <rdg wit="#N #π #κ #χ #β" xml:id="rdg563">Chante</rdg>
+               <rdg source="#i1" wit="#G #ε #δ #γ #ρ1 #e #u #d2" xml:id="rdg564">Cante</rdg>
+               <!-- Little hard to read the superscripts. -->
+               <rdg wit="#μ" xml:id="rdg565">Caute</rdg>
+            </app>
+            <app loc="C5.43.113">
+               <lem n="positus" xml:id="lem286">quamvis </lem>
+               <rdg wit="#α" xml:id="rdg566">quamvis positus</rdg>
+            </app>
+            <app loc="C5.43.113">
+               <lem n="positus" xml:id="lem287"/>
+               <rdg source="#i1 #Vienn." wit="#b" xml:id="rdg567">prositus</rdg>
+            </app>
+            <app loc="C5.43.113">
+               <lem n="quamvis" xml:id="lem288"/>
+               <rdg wit="#G" xml:id="rdg568">quavis</rdg>
+            </app>
+            <app loc="C5.43.113">
+               <lem n="prosit" xml:id="lem289"/>
+               <rdg source="#i1 #Vienn." wit="#γ #μ #χ #κ #ε #λ" xml:id="rdg569">possit</rdg>
+               <rdg wit="#ν" xml:id="rdg570">posit</rdg>
+            </app>
+            <app loc="C5.43.114">
+               <lem n="" xml:id="lem290">desint </lem>
+               <rdg wit="#N" xml:id="rdg571">desinit</rdg>
+               <rdg source="#Glaeser #Keene" xml:id="rdg572">desunt</rdg>
+            </app>
+            <app loc="C5.43.114">
+               <lem n="suco" wit="#G #λ #μ #χ" xml:id="lem291"/>
+               <rdg wit="#N #ν #β #κ #ρ #ε #γ #α #φ2" xml:id="rdg573">succo</rdg>
+               <rdg wit="#π #φ1" xml:id="rdg574">sicco</rdg>
+            </app>
+            <app loc="C5.43.115">
+               <lem n="plenae" xml:id="lem292"/>
+               <rdg wit="#N" xml:id="rdg575">plene</rdg>
+            </app>
+            <app loc="C5.43.116">
+               <lem n="stipula" source="#GlaeserSqq" xml:id="lem293">cum </lem>
+               <rdg wit="#N #G" xml:id="rdg576">stipule cum</rdg>
+               <rdg source="#eddAnteGlaeser" wit="#V" xml:id="rdg577">stipulis et</rdg>
+            </app>
+            <app loc="C5.43.117">
+               <lem n="sterne" source="#edd." wit="#V" xml:id="lem294"/>
+               <rdg wit="#N" xml:id="rdg578">sint ne</rdg>
+               <rdg wit="#G" xml:id="rdg579">sint . .</rdg>
+            </app>
+            <app loc="C5.43.117">
+               <lem n="penetrabile" xml:id="lem295"/>
+               <rdg wit="#N" xml:id="rdg580">penetrabille</rdg>
+            </app>
+            <app loc="C5.43.118">
+               <lem n="interno" xml:id="lem296"/>
+               <rdg wit="#λ #δ" xml:id="rdg581">externo</rdg>
+            </app>
+            <app loc="C5.43.118">
+               <lem n="pecuaria" source="#edd." wit="#N #G #A #π" xml:id="lem297"/>
+               <!-- π (in mg.) edd. -->
+               <rdg wit="#V #r #e #s #d" xml:id="rdg582">penetralia</rdg>
+               <rdg wit="#θ" xml:id="rdg583">penetrabile</rdg>
+            </app>
+            <app loc="C5.43.119">
+               <!-- 119 § praef. G ; except the o is strange. -->
+               <lem n="meminisse" source="#codVindob #GlaeserSqq" wit="#N #G #λ" xml:id="lem298"/>
+               <rdg source="#eddAnteGlaeser" wit="#V" xml:id="rdg584">monuisse</rdg>
+               <rdg wit="#φ" xml:id="rdg585">novisse</rdg>
+            </app>
+            <app loc="C5.43.119">
+               <lem n="nam" xml:id="lem299"/>
+               <rdg wit="#λ" xml:id="rdg586">iam</rdg>
+            </app>
+            <app loc="C5.43.120">
+               <lem n="cadit" xml:id="lem300"/>
+               <rdg wit="#N" xml:id="rdg587">cadis</rdg>
+            </app>
+            <app loc="C5.43.120">
+               <lem n="sera" xml:id="lem301"/>
+               <rdg source="#g #l2 #Gryph." xml:id="rdg588">sero</rdg>
+            </app>
+         </listApp>
+      </body>
+   </text>
+</TEI>
