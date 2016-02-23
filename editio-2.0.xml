@@ -2080,7 +2080,7 @@
                                 <date>1893–94</date>
                                 <ptr target="http://hdl.handle.net/2027/uc1.c071004696"/>
                             </bibl>
-                            <bibl xml:id="Buecheler" n="Buecheler">
+                            <bibl xml:id="BuechelerRhM" n="Buecheler1">
                                 <author ref="http://viaf.org/viaf/167424">
                                     <persName>
                                         <forename>Franz</forename>
@@ -2093,6 +2093,20 @@
                                 <biblScope unit="page">235–40</biblScope>
                                 <date>1871</date>
                                 <ptr target="http://www.rhm.uni-koeln.de/026/Buecheler1.pdf"/>
+                            </bibl>
+                            <bibl xml:id="BuechelerGlotta" n="Buecheler2">
+                                <author ref="http://viaf.org/viaf/167424">
+                                    <persName>
+                                        <forename>Franz</forename>
+                                        <surname>Buecheler</surname>
+                                    </persName>
+                                </author>
+                                <title level="a">Grammatica et epigraphica</title>
+                                <title level="j">Glotta</title>
+                                <biblScope unit="volume">I</biblScope>
+                                <biblScope unit="page">1-9</biblScope>
+                                <date>1907</date>
+                                <ptr target="https://archive.org/stream/glottazeitschri00kretgoog"/>
                             </bibl>
                             <bibl xml:id="Hoeufft" n="Hoeufft">
                                 <author ref="http://viaf.org/viaf/15548571">
@@ -2205,6 +2219,7 @@
                                     target="https://books.google.com/books?id=e5gOAQAAMAAJ&amp;dq=lachmann%20placido%20quin&amp;pg=PR1#v=onepage&amp;q=lachmann%20placido%20quin&amp;f=false"
                                 />
                             </bibl>
+                            
                             <!-- Add Ramorino -->
                             <!-- Housman -->
                         </listBibl>
@@ -6385,7 +6400,7 @@
                                 <note target="#lem3.97adextro">probavit F. Ramorino</note>
                                 <rdg wit="#N">adexstro</rdg>
                                 <rdg wit="#H #θ #ν #φ #η #r #s #b" source="#i #l1 #o #n #p #Barth #Glaeser #Keene" xml:id="rdg3.97adextra">a dextra</rdg>
-                                <note target="#rdg3.97adextra">Buecheler (Rh. Mus. XV p. 454), <ref target="#Fritzsche">Fritzsche</ref> (1.1.p. 19)</note>
+                                <note target="#rdg3.97adextra"><ref target="BuechelerRhM">Buecheler</ref> (Rh. Mus. XV p. 454), <ref target="#Fritzsche">Fritzsche</ref> (1.1.p. 19)</note>
                                 <rdg wit="#ρ1">addextra</rdg>
                                 <rdg wit="#δ #u #e">adextro</rdg>
                                 <rdg source="#Leo" xml:id="rdg3.97dextrum">dextrum</rdg>
@@ -7377,7 +7392,7 @@
                                 <rdg wit="#π #φ #χ #θ #ν #κ #λ #μ #α #r" source="#i1 #l1 #Vienn. #Guid. #Barth #t">pro me</rdg>
                                 <rdg wit="#A #ε" source="#edd.">per me</rdg>
                                 <rdg source="#Burm.">pro re</rdg>
-                                <rdg source="#Buecheler" xml:id="rdg4.77Romae">Romae</rdg>
+                                <rdg source="#BuechelerRhM" xml:id="rdg4.77Romae">Romae</rdg>
                                 <note target="#rdg4.77Romae">p. 239, adn. 3</note>
                                 <rdg source="#Bursian">primi</rdg>
                             </app>, qui dignas cecinerunt consule silvas.</l>
