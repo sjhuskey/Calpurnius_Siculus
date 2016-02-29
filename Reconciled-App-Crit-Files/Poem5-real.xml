@@ -449,8 +449,8 @@
                </rdgGrp>
                <note target="#lem5.34in_tenebris">(Class. Rev. p. 281 sq. 1902, probat F. Leo)
                   <!-- where?! --></note>
-               <note target="#rdg5.34inde_premes">fluat</note>
-               <note target="#rdg5.34nocte_premes">fluit</note>
+               <note target="#rdg5.34inde_premes">(fluat)</note>
+               <note target="#rdg5.34nocte_premes">(fluit)</note>
             </app>
             <app loc="C5.37.34">
                <lem xml:id="lem5.34quod">quod</lem>
@@ -772,7 +772,6 @@
                   <del>veterea</del>
                </rdg>
             </app>
-            <!-- 59 post interea in N veterea del. proiicit Heins. -->
             <app loc="C5.39.59">
                <lem>porrigit</lem>
                <rdg source="#Heins.">proiicit</rdg>
@@ -848,12 +847,7 @@
             </app>
             <app loc="C5.39.64">
                <lem>quam levibus</lem>
-               <rdg source="#Barth">quam levibus laevibus ac</rdg>
-               <!-- there's plenty of space between levibus and laevibus. Maybe there's a faded witness in here. Maybe. -->
-
-               <!-- come back to this!!! -->
-
-
+               <rdg source="#Barth">laevibus ac</rdg>
             </app>
             <app loc="C5.39.64">
                <lem>somnos</lem>
@@ -979,8 +973,11 @@
                <rdg wit="#N #G #V" source="#n #i1">cedere</rdg>
             </app>
             <app loc="C5.40.69">
-               <lem>tamen secerne pecus</lem>
-               <rdg wit="#N">tamen tuum secerne notis</rdg>
+               <lem xml:id="lem5.69tamen_secerne_pecus">tamen secerne pecus</lem>
+               <rdgGrp type="anteCorr">
+                  <rdg wit="#N" varSeq="1">tamen tuum secerne notis</rdg>
+                  <rdg wit="#N1" varSeq="2" copyOf="#lem5.69tamen_secerne_pecus"/>
+               </rdgGrp>
                <!-- corr. m1 -->
             </app>
             <app loc="C5.40.70">
@@ -1130,7 +1127,8 @@
             </app>
             <app loc="C5.40.79">
                <lem wit="#N #G" source="#Baehr. #Schenkl">portes</lem>
-               <rdg wit="#V" source="#edd.">porta</rdg>
+               <rdg wit="#V" source="#edd." xml:id="rdg5.49porta">porta</rdg>
+               <witDetail wit="#V" target="#rdg5.49porta"><hi rend="italic">portu</hi> <ref target="#φ">φ</ref> <hi rend="italic">ponta</hi> <ref target="#δ">δ</ref></witDetail>
                <!-- portu φ ponta δ -->
             </app>
             <app loc="C5.40.80">
@@ -1269,7 +1267,7 @@
                <rdg wit="#N #G #V #e">aeno</rdg>
                <rdg wit="#d2" source="#i1">ahaeno</rdg>
             </app>
-            <!-- post hunc versum lacunam Iacoby (l. l. p. 31) statuit. -->
+            <!-- post hunc versum lacunam Iacoby (l. l. p. 1293) statuit. -->
             <app loc="C5.41.84">
                <lem>tua</lem>
                <rdg wit="#G">tu</rdg>
@@ -1405,7 +1403,7 @@
                <rdg source="#Burm.">quae</rdg>
             </app>
             <app loc="C5.42.96">
-               <lem> geras </lem>
+               <lem>geras</lem>
                <rdg source="#Heins.">feras</rdg>
                <rdg source="#Maehly">regas</rdg>
                <rdg source="#Baehr.">teras</rdg>
@@ -1497,7 +1495,7 @@
                <rdg source="#Glaeser">hinc</rdg>
                <rdg source="#Baehr.">huc</rdg>
             </app>
-            <!-- v v. 104 sq. post v. 118 Schenkl1 collocandos censnit. 105 -->
+            <!-- v v. 104 sq. post v. 118 Schenkl1 collocandos censit. 105 -->
             <app loc="C5.42.105">
                <lem wit="#N #G" source="#GlaeserSqq">redit</lem>
                <rdg wit="#V" source="#eddAnteGlaeser">venit</rdg>
@@ -1668,13 +1666,14 @@
                <rdg wit="#λ #δ">externo</rdg>
             </app>
             <app loc="C5.43.118">
-               <lem wit="#N #G #A #π" source="#edd.">pecuaria</lem>
+               <lem wit="#N #G #A #π" source="#edd." xml:id="lem5.118pecuaria">pecuaria</lem>
                <!-- π (in mg.) edd. -->
+               <witDetail wit="#π" target="#lem5.118pecuaria">(in mg.)</witDetail>
                <rdg wit="#V #r #e #s #d">penetralia</rdg>
                <rdg wit="#θ">penetrabile</rdg>
             </app>
+            <!-- 119 § praef. G -->
             <app loc="C5.43.119">
-               <!-- 119 § praef. G ; except the o is strange. -->
                <lem wit="#N #G #λ" source="#codVindob #GlaeserSqq">meminisse</lem>
                <rdg wit="#V" source="#eddAnteGlaeser">monuisse</rdg>
                <rdg wit="#φ">novisse</rdg>
