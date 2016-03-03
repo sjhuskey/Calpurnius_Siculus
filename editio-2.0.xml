@@ -1004,7 +1004,8 @@
                                             <origDate notAfter="1500" notBefore="1400">XV</origDate>
                                         </origin>
                                     </history>
-                                </msDesc></witness>
+                                </msDesc>
+                            </witness>
                         </listWit>
                         <listWit>
                             <head>Third family</head>
@@ -1437,7 +1438,7 @@
                                 </respStmt>
                                 <note>Notes the readings of <name xml:id="Scaliger"
                                         ref="http://viaf.org/viaf/29540435">Joseph-Juste
-                                        Scaliger</name> and <name xml:id="Scriverius" n="Scriver."
+                                    Scaliger</name>, <name xml:id="Wolf" ref="http://viaf.org/viaf/32037036/">Johann Christoph Wolf</name>, and <name xml:id="Scriverius" n="Scriver."
                                         ref="https://viaf.org/viaf/121894458/">Scriverius (Pieter
                                         Schrijver)</name> in various places.</note>
                             </bibl>
@@ -2267,6 +2268,20 @@
                                     target="https://books.google.com/books?id=gbmMVZEcoGMC&amp;pg=PA139#v=onepage&amp;q&amp;f=false"
                                 />
                             </bibl>
+                            <bibl xml:id="Argol." n="Argol.">
+                                <author ref="http://viaf.org/viaf/34563690">
+                                    <persName>
+                                        <forename>Giovanni</forename>
+                                        <surname>Argoli</surname>
+                                    </persName>
+                                </author>
+                                <title level="a">Ioannis Argoli ad Libros Duos de Ludis Circensibus Onuphrii Panvinii Notae</title>
+                                <title level="m">Onuphrii Panvinii Veronensis de Ludis Circensibus Libri II, De Triumphis Liber Unus</title>
+                                <pubPlace>Patavii</pubPlace>
+                                <publisher>Typis Petri Marie Frambotti Bibliop.</publisher>
+                                <date>1681</date>
+                                <ptr target="https://books.google.com/books?id=50ZYAAAAcAAJ&amp;lpg=PA95&amp;ots=HX_fI-rrGz&amp;dq=De%20Ludis%20Circensibus%20argoli&amp;pg=RA4-PR43#v=onepage&amp;q&amp;f=false"/>
+                            </bibl>
 
                             <!-- Add Ramorino -->
                             <!-- Housman -->
@@ -2327,7 +2342,9 @@
                                 apparatus. </item>
                             <item xml:id="nonnulliTitium" n="nonnulliTitium">Nonnulli apud Titium:
                                 some of the mss. cited by <ref target="#Tit.">Tit.</ref></item>
-                            <item xml:id="coddTitii">Codd. Titii: the manuscripts cited by <ref
+                            <item xml:id="codTitii" n="cod. Titii">One of the manuscripts cited by <ref
+                                target="#Tit.">Tit.</ref></item>
+                            <item xml:id="coddTitii">Codd. Titii: more than one manuscript cited by <ref
                                     target="#Tit.">Tit.</ref></item>
                             <item xml:id="nonnulliKempfer" n="nonnulli apud Kempfer">Nonnulli apud
                                     <ref target="#Kempfer">Kempfer</ref></item>
@@ -2340,12 +2357,16 @@
                                 usque ad Glaeser = The edition known as "<ref target="#h">h</ref>"
                                 and all later editions up to <ref target="#Glaeser"
                                 >Glaeser</ref>'s</item>
+                            <item xml:id="hSqq" n="h sqq.">h sqq.: The edition known as "<ref target="#h">h</ref>"
+                                and all later editions.</item>
                             <item xml:id="uSqqUsqueAdGlaeser" n="u sqq. usque ad Glaeser">u sqq.
                                 usque ad Glaeser = The edition known as "<ref target="#u">u</ref>"
                                 and all later editions up to <ref target="#Glaeser"
                                 >Glaeser</ref>'s</item>
                             <item xml:id="UlitSqq" n="Ulit. sqq.">Ulit. sqq.: <ref target="#Ulit."
                                     >Ulit.</ref> and all editions published after it.</item>
+                            <item xml:id="eddAntep" n="edd. ante p">edd. ante p: All editions published before the edition known as <ref target="#p">p</ref>.</item>
+                            <item xml:id="codVindob" n="cod. Vindob.">cod. Vinob.: Codex Vindobonensis 305, a member of <ref target="#V">V</ref> that Giarratano deems worthy of use only here and there.</item>
                         </list>
                     </item>
                     <item>
@@ -3376,7 +3397,7 @@
                                 <lem>auferet</lem>
                                 <rdg wit="#N2 #P #η1">afferet</rdg>
                                 <rdg source="#LMueller">asseret</rdg>
-                                <note><ref target="#Müller">L. Mueller</ref> (Berl. phil. Woch V.
+                                <note><ref target="#LMueller">L. Mueller</ref> (Berl. phil. Woch V.
                                     p.1071 <ptr target="http://hdl.handle.net/2027/uiug.30112023962282?urlappend=%3Bseq=674"/></note>
                             </app> aevum.</l>
                         <l n="74">
@@ -9103,7 +9124,7 @@
                </app> nidosque reversa <app>
                   <lem wit="#N #G #A" source="#edd.">lutabit</lem>
                   <rdg wit="#V #r #e #d #s">habitabit</rdg>
-                  <rdg source="#Scriver">locavit</rdg>
+                  <rdg source="#Scriverius">locavit</rdg>
                </app>
                <app>
                   <lem wit="#η #ε #φ #γ #β #ν #ρ #λ #κ" source="#edd.">hirundo</lem>
@@ -9327,7 +9348,7 @@
                      </app>
                      <app>
                         <lem>papillis</lem>
-                        <rdg wit="#A #φ #ν #θ #r" source="#Titius">capellis</rdg>
+                        <rdg wit="#A #φ #ν #θ #r" source="#Tit.">capellis</rdg>
                      </app>.</l></lem>
                <rdg wit="#η #ε #δ"/>
             </app>
@@ -9368,7 +9389,7 @@
                         <rdg wit="#V" source="#edd.">messe fluat</rdg>
                         <rdg source="#Glaeser">mane feras</rdg>
                         <rdg source="#Barth #Heins. #Burm.">massa fluat</rdg>
-                        <rdg source="#Martelli">nocte fluat</rdg>
+                        <rdg source="#Martell.">nocte fluat</rdg>
                         <rdg source="#Wernsd.">pressa fluant</rdg>
                      </app>, rursusque <app>
                         <lem>premetur</lem>
@@ -9504,8 +9525,9 @@
                         </rdgGrp>
                         <!-- b (corr. #Guid.) -->
                      </app></lem>
-                  <rdg wit="#ExcParPost">dubitanda</rdg>
+                  <rdg wit="#ExcPar" xml:id="rdg5.46dubitanda">dubitanda</rdg>
                   <!-- "post"? -->
+                   <witDetail wit="#ExcPar" target="#rdg5.46dubitanda">(post)</witDetail>
                   <rdg wit="#δ">dubitande</rdg>
                </app> serena</l>
             <note target="#lines5.46-48">46–48 exstant in <ref target="#ExcPar">Exc.
@@ -9534,8 +9556,9 @@
                <app>
                   <lem>torrentibus</lem>
                   <rdg wit="#φ #ν #ρ1 #θ #η #r" source="#n #o #i1 #l1 #Vienn. #Guid.">tondentibus</rdg>
-                  <rdg wit="#ExcParPrior">tonsoribus</rdg>
+                  <rdg wit="#ExcPar" xml:id="rdg5.48tonsoribus">tonsoribus</rdg>
                   <!-- "prior"? -->
+                   <witDetail wit="#ExcPar" target="#rdg5.48tonsoribus">(prior)</witDetail>
                </app>
                <app>
                   <lem>abstulit</lem>
@@ -9627,7 +9650,7 @@
                   <rdg wit="#G">permicte</rdg>
                </app> sequi, <app>
                   <lem>sed</lem>
-                  <rdg wit="#V" source="#edd" xml:id="rdg5.58sine">sine</rdg>
+                  <rdg wit="#V" source="#edd." xml:id="rdg5.58sine">sine</rdg>
                   <witDetail wit="#V" target="#rdg5.58sine">(<hi rend="italic">sive</hi>
                      <ref target="#π">π</ref>
                      <ref target="#κ">κ</ref>
@@ -9704,7 +9727,7 @@
                   <rdg source="#Baehr.">seri</rdg>
                   <rdg source="#Schenkl1">sera iamque</rdg>
                   <note resp="Giarratano">probb. L. Mueller et Ellis</note>
-                  <rdg source="#Iacoby">lactisque</rdg>
+                  <rdg source="#Jacoby">lactisque</rdg>
                   <note resp="#Giarratano">Perperam <ref target="#BuechelerGlotta">quidam</ref>
                      (cfr. Glotta I 1907) <hi rend="italic">sērique</hi> intellegunt ut idem sit ac
                         <hi rend="italic">vesperis</hi></note>
@@ -9715,7 +9738,7 @@
                   <note target="#rdg5.61creditur">(l. l. p. 620)</note>
                   <!-- Leo (l. l. p. 620) -->
                </app> hora <app>
-                  <lem wit="#N #G" source="#Glaeser #Baehr. #Schenkl #Leo #Iacoby #Mueller #Ellis #Hartel">premendi</lem>
+                  <lem wit="#N #G" source="#Glaeser #Baehr. #Schenkl #Leo #Jacoby #LMueller #Ellis #Hartel">premendi</lem>
                   <rdg wit="#V" source="#edd.">merendae</rdg>
                </app>,</l>
             <l n="62">rursus pasce greges et opacos desere lucos.</l>
@@ -9914,7 +9937,7 @@
                </app>: quae nisi ferro</l>
             <l n="76">rumpitur, <app>
                   <lem wit="#H" source="#Baehr. #Schenkl">a</lem>
-                  <rdg wit="#N #G #ρ2 #φ #ν #η #r" source="#i1 #o #n #l1 #Vienn. #Titius #hSqq">ah</rdg>
+                  <rdg wit="#N #G #ρ2 #φ #ν #η #r" source="#i1 #o #n #l1 #Vienn. #Tit. #hSqq">ah</rdg>
                   <rdg wit="#ε #κ #χ #ρ1 #π #λ #α #δ #μ #β #γ" source="#eddAntep">in</rdg>
                   <rdg wit="#d">en</rdg>
                   <rdg source="#Modius">ha</rdg>
@@ -9963,7 +9986,7 @@
                   <rdg wit="#φ">sulpura</rdg>
                </app> tecum</l>
             <l n="79">et <app>
-                  <lem wit="#Ν #δ #s" source="#Heins. #WernsdSqq">scillae</lem>
+                  <lem wit="#N #δ #s" source="#Heins. #WernsdSqq">scillae</lem>
                   <rdg wit="#λ #ρ" source="#eddAnteWernsd">scyllae</rdg>
                   <rdg wit="#G #π">stille</rdg>
                   <rdg wit="#α">schille</rdg>
@@ -10000,7 +10023,7 @@
                   <rdg source="#Ascensius" xml:id="rdg5.79atque_buxata">atque buxata</rdg>
                   <note target="#rdg5.79atque_buxata">in notis</note>
                   <rdg source="#Burm.">atque ructata</rdg>
-                  <rdg source="#EWolf">et nitrata</rdg>
+                  <rdg source="#Wolf">et nitrata</rdg>
                </app> bitumina <app>
                   <lem wit="#N #G" source="#Baehr. #Schenkl">portes</lem>
                   <rdg wit="#V" source="#edd." xml:id="rdg5.49porta">porta</rdg>
@@ -10025,7 +10048,7 @@
                   <lem source="#Baehr. #Schenkl">pix tibi</lem>
                   <rdg wit="#N #G">pia tibi</rdg>
                   <rdg wit="#N2 #V" source="#edd.">dura tibi</rdg>
-                  <rdg source="#Iacoby">pix sed</rdg>
+                  <rdg source="#Jacoby">pix sed</rdg>
                   <rdg wit="#s">cura tibi</rdg>
                   <rdg source="#Burm.">pura tibi</rdg>
                   <rdg source="#Burm.">dura tibi</rdg>
@@ -10117,7 +10140,7 @@
                   <note target="#lem5.83ardenti">(<ref target="#Bergk">Bergk</ref>, Rhein. Mus. XX
                      p. 292)</note>
                   <rdg wit="#ω" source="#edd.">argenti</rdg>
-                  <rdg wit="#ν #φ #ρ2 #η #θ #r" source="#Iacoby">argentum</rdg>
+                  <rdg wit="#ν #φ #ρ2 #η #θ #r" source="#Jacoby">argentum</rdg>
                   <rdg source="#Schenkl #LMueller">arrhenici</rdg>
                   <rdg source="#Haupt #Baehr." xml:id="rdg5.83chalcanthi">chalcanthi</rdg>
                   <note target="#rdg5.83chalcanthi">(<ref target="#Haupt">Haupt</ref>, l. l. p.
@@ -10170,8 +10193,8 @@
                   <rdg wit="#α #λ">laetus</rdg>
                   <rdg source="#Heins.">certus</rdg>
                </app> possessor <app>
-                  <lem wit="#N #G #A #λ #β #γ" source="#Titius #Fruterius #Barth #Modius #BurmSqq">in armo</lem>
-                  <rdg wit="#ε #α" source="#eddAuteBurm.">in arvo</rdg>
+                  <lem wit="#N #G #A #λ #β #γ" source="#Tit. #Fruterius #Barth #Modius #BurmSqq">in armo</lem>
+                  <rdg wit="#ε #α" source="#eddAnteBurm">in arvo</rdg>
                   <rdg wit="#π">in arno</rdg>
                   <rdg wit="#μ">in auro</rdg>
                   <rdg wit="#δ">marmo</rdg>
@@ -10181,8 +10204,8 @@
                      <rdg wit="#ρ2">ovili</rdg>
                   </rdgGrp>
                   <!-- in arvo et ovili ρ2, -->
-                  <rdg source="#Argol" xml:id="rdg5.85in_aure">in aure</rdg>
-                  <note target="#rdg5.85in_aure">(ad Onuphr. Panv. de circo p. 25)</note>
+                  <rdg source="#Argol." xml:id="rdg5.85in_aure">in aure</rdg>
+                  <note target="#rdg5.85in_aure">(<hi rend="italic">ad Onuphr. Panv. de circo</hi> p. <choice><sic>25</sic><corr>27</corr></choice>)</note>
                   <rdg wit="#κ #χ #ρ1"/>
                </app>.</l>
             <l n="86"><app>
@@ -10204,7 +10227,7 @@
                </app> ager, dum fervida tellus,</l>
             <l n="87">dum rimosa palus <app>
                   <lem>et multo</lem>
-                  <rdg source="#Titius">emulso</rdg>
+                  <rdg source="#Tit.">emulso</rdg>
                </app>
                <app>
                   <lem>torrida</lem>
@@ -10316,7 +10339,7 @@
                   <rdg wit="#s" source="#i1 #n #o">aphricus</rdg>
                </app> umbras.</l>
             <l n="102"><app>
-                  <lem wit="#γ" source="#pSqq.">has tibi</lem>
+                  <lem wit="#γ" source="#pSqq">has tibi</lem>
                   <rdg wit="#N #G #φ #ν #η #r" source="#n #o">ast tibi</rdg>
                   <rdg wit="#H #ε #α #δ #χ #β #μ #κ #π #λ" source="#eddAntep">ast ubi</rdg>
                   <rdgGrp type="multiReadings">
@@ -10393,7 +10416,7 @@
                   <rdg source="#Haupt">dum torrida</rdg>
                   <rdg source="#Ulit.">ne ut torrida</rdg>
                   <rdg source="#Burm.">ne turbida</rdg>
-                  <rdg source="#Modius #Martellus #Baehr. #Schenkl">licet horrida</rdg>
+                  <rdg source="#Modius #Martell. #Baehr. #Schenkl">licet horrida</rdg>
                </app> nimbis</l>
             <l n="108"><app>
                   <lem>instet</lem>
@@ -10412,7 +10435,7 @@
                   <!-- Glaeser (ex cod. Pal. Barthii). -->
                </app></l>
             <l n="109"><app>
-                  <lem wit="#N #G" source="#Martellus #Ulit. #h #t #Ellis #Schenkl #2" xml:id="lem5.109incurvare_velit">incurvare velit</lem>
+                  <lem wit="#N #G" source="#Martell. #Ulit. #h #t #Ellis #Schenkl2" xml:id="lem5.109incurvare_velit">incurvare velit</lem>
                   <note target="#lem5.109incurvare_velit">(<ref target="#Ellis">Ellis</ref> l. l. p.
                      31)</note>
                   <!-- Ellis  (l. l. p. 90) -->
