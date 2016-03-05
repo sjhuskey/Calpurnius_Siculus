@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <l>A. Serus ades, Lycida: modo Nyctilus et puer Alcon</l>
+         <l>certavere sub his alterno carmine ramis,</l>
+         <l>iudice me, sed non sine pignore. Nyctilus haedos</l>
+         <l>iuncta matre dedit: catulum dedit ille Lacaenae,</l>
+         <l>iuravitque genus: sed sustulit omnia victor.</l>
+         <l>L. Nyctilon ut cantu rudis exuperaverit Alcon?</l>
+         <l>Astyle, credibile est, si vincat acanthida cornix,</l>
+         <l>vocalem superet si dirus aedona bubo.</l>
+         <l>A. Non potiar Petale, qua nunc ego maceror una,</l>
+         <l>si magis aut docili calamorum Nyctilus arte</l>
+         <l>aut cantu magis est quam vultu proximus illi.</l>
+         <l>L. Iam non decipior: te iudice pallidus alter</l>
+         <l>venit et hirsuta spinosior hystrice barbam;</l>
+         <l>candidus alter erat levique decentior ovo</l>
+         <l>et ridens oculis crinemque simillimus auro,</l>
+         <l>qui posset dici, si non cantaret, Apollo.</l>
+         <l>A. O Lycida, si quis tibi carminis usus inesset,</l>
+         <l>tu quoque laudatum posses Alcona probare.</l>
+         <l>L. Vis igitur, quoniam nec nobis, improbe, par es,</l>
+         <l>ipse tuos iudex calamos committere nostris?</l>
+         <l>vis conferre manum? veniat licet arbiter Alcon.</l>
+         <l>A. Vinces tu quemquam? vel te certamine quisquam</l>
+         <l>dignetur, qui vix stillantes, aride, voces</l>
+         <l>rumpis et expellis male singultantia verba?</l>
+         <l>L. Fingas plura licet: nec enim potes, improbe, vera</l>
+         <l>exprobrare mihi, sicut tibi multa Lycotas.</l>
+         <l>sed quid opus vana consumere tempora lite?</l>
+         <l>ecce venit Mnasyllus: erit (nisi forte recusas)</l>
+         <l>arbiter inflatis non credulus, improbe, verbis.</l>
+         <l>A. Malueram, fateor, vel praedamnatus abire</l>
+         <l>quam tibi certanti partem committere vocis.</l>
+         <l>ne tamen hoc impune feras: en aspicis illum,</l>
+         <l>candida qui medius cubat inter lilia, cervum?</l>
+         <l>quamvis hunc Petale mea diligat, accipe victor.</l>
+         <l>scit frenos et ferre iugum sequiturque vocantem</l>
+         <l>credulus et mensae non improba porrigit ora.</l>
+         <l>aspicis, ut fruticat late caput utque sub ipsis</l>
+         <l>cornibus et tereti pendent redimicula collo?</l>
+         <l>aspicis, ut niveo frons inretita capistro</l>
+         <l>lucet et, a dorso quae totam circuit alvum,</l>
+         <l>alternat vitreas lateralis cingula bullas?</l>
+         <l>cornua summa (vides?) ramos aque tempora molles</l>
+         <l>implicuere rosae rutiloque monilia torque</l>
+         <l>extrema cervice natant, ubi pendulus apri</l>
+         <l>dens sedet et nivea distinguit pectora luna,</l>
+         <l>hunc, sicutque vides, pignus, Mnasylle, paciscor</l>
+         <l>perdere, dum sciat hic se non sine pignore vinci.</l>
+         <l>L. Terreri, Mnasylle, suo me munere credit:</l>
+         <l>aspice quam timeam! genus est, ut scitis, equarum</l>
+         <l>non vulgare mihi, quarum de sanguine ponam</l>
+         <l>velocem Petason, qui gramina matre relicta</l>
+         <l>nunc primum teneris libavit dentibus: illi</l>
+         <l>terga sedent, micat acre caput, sine pondere cervix,</l>
+         <l>et tornata brevi substringitur ungula cornu,</l>
+         <l>ungula, qua viridi sic exsultavit in arvo,</l>
+         <l>tangeret ut fragiles, sed non curvaret, aristas:</l>
+         <l>hunc dare, si vincar, silvestria numina iuro.</l>
+         <l>M. Et vacat et vestros cantus audire iuvabit.</l>
+         <l>iudice me sane contendite, si libet: istic</l>
+         <l>protinus ecce torum fecere sub ilice Musae.</l>
+         <l>A. Sed ne vicini nobis sonus obstrepat amnis,</l>
+         <l>gramina linquamus ripamque volubilis undae.</l>
+         <l>namque sub exeso raucum mihi pumice lymphae</l>
+         <l>respondent et obest arguti glarea rivi.</l>
+         <l>L. Si placet, antra magis vicinaque saxa petamus,</l>
+         <l>saxa, quibus viridis stillanti vellere muscus</l>
+         <l>dependet scopulisque cavum sinuantibus arcum</l>
+         <l>imminet exesa veluti testudine concha.</l>
+         <l>M. Venimus et tacito sonitum mutavimus antro:</l>
+         <l>seu residere libet, dabit ecce sedilia tophus,</l>
+         <l>ponere seu cubitum, melior viret herba tapetis.</l>
+         <l>nunc mihi seposita reddantur carmina lite;</l>
+         <l>nam vicibus teneros malim cantetis amores:</l>
+         <l>Astyle, tu Petalen, Lycida, tu Phyllida lauda.</l>
+         <l>L. Tu modo nos illis (iam nunc, Mnasylle, precamur)</l>
+         <l>auribus accipias, quibus hunc et Acanthida nuper</l>
+         <l>diceris in silva iudex audisse Thalea.</l>
+         <l>A. Non equidem possum, cum provocet iste, tacere.</l>
+         <l>rumpor enim, Mnasylle: nihil nisi iurgia quaerit.</l>
+         <l>audiat aut dicat, quoniam cupit; hoc mihi certe</l>
+         <l>dulce satis fuerit, Lycidam spectare trementem,</l>
+         <l>dum te teste palam sua crimina pallidus audit.</l>
+         <l>L. Me, puto, vicinus Stimicon, me proximus Aegon</l>
+         <l>hos inter frutices tacite risere volentem</l>
+         <l>oscula cum tenero simulare virilia Mopso.</l>
+         <l>A. Fortior o utinam nondum Mnasyllus adesset!</l>
+         <l>efficerem, ne te quisquam tibi turpior esset.</l>
+         <l>M. Quid furitis, quo vos insania tendere iussit?</l>
+         <l>si vicibus certare placet—sed non ego vobis</l>
+         <l>arbiter: hoc alius possit discernere iudex.</l>
+         <l>et venit ecce Micon, venit et vicinus Iollas:</l>
+         <l>litibus hi vestris poterunt imponere finem.</l>
+      </body>
+   </text>
+</TEI>

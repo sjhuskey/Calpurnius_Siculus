@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <listApp>
+            <app loc="C7.50.1">
+               <lem>Lentus</lem>
+               <rdg wit="#φ #d2">entus</rdg>
+               <rdg wit="#κ1 #χ #ν">ventus</rdg>
+            </app>
+            <app loc="C7.50.1">
+               <lem wit="#G #ν #χ">Corydon</lem>
+               <rdg wit="#N #V">Coridon</rdg>
+               <rdg wit="#ε">Choridon</rdg>
+            </app>
+            <app loc="C7.50.1">
+               <lem wit="#θ #ν #μ #r" source="#n #o #GlaeserSqq">vicesima</lem>
+               <rdg wit="#G #V" source="#eddAnteGlaeser">vigesima</rdg>
+               <rdg wit="#β #e #u #b">vigessima</rdg>
+               <rdg wit="#N #φ">vicessima</rdg>
+            </app>
+            <app loc="C7.50.2">
+               <lem>fuit</lem>
+               <rdg source="#Heins.">ruit</rdg>
+               <rdg source="#Maehly">fugit</rdg><!-- (qui et <hi rend="#italic">lux</hi> pro <hi rend="#italic">nox</hi> corr.) -->
+               <rdg source="#Baehr.">subit</rdg>
+            </app>
+            <app loc="C7.50.3">
+               <lem>ut</lem>
+               <rdg wit="#V" source="#eddAnteGlaeser">et</rdg>
+            </app>
+            <app loc="C7.50.3">
+               <lem wit="#ρ2" xml:id="lem7.3maerentes">maerentes</lem>
+               <rdg wit="#N #V #r #e #u #d2">merentes</rdg>
+               <rdg wit="#α">morentes</rdg>
+               <rdg wit="#λ" xml:id="rdg7.3moerentes">moerentes</rdg>
+               <rdgGrp type="multiVariants">
+                  <rdg source="#edd." copyOf="#lem7.3maerentes"/>
+                  <rdg source="#edd." copyOf="#rdg7.3moerentes"/>
+               </rdgGrp>
+            </app>
+            <app loc="C7.50.3">
+               <lem>exspectant</lem>
+               <rdg wit="#ω">expectant</rdg>
+            </app>
+            <app loc="C7.50.3">
+               <lem>iubila</lem>
+               <rdg wit="#α #δ" source="#Heins. #Beck" xml:id="rdg7.3sibila">sibila</rdg>
+               <witDetail wit="#α" target="#rdg7.3sibila">in mg.</witDetail>
+            </app>
+            <app loc="C7.50.4">
+               <lem wit="#N #G #V #e #u #b" source="#i #l2 #Baehr. #Schenkl">o duro</lem>
+               <rdg wit="#H #ν #φ" source="#edd.">et duro</rdg>
+            </app>
+            <app loc="C7.50.4">
+               <lem wit="#N #G" source="#GlaeserSqq">non mollior</lem>
+               <rdg wit="#V" source="#eddAnteGlaeser">iam durior</rdg>
+            </app>
+            <app loc="C7.50.4">
+               <lem wit="#N #G #ε #α #β #δ #μ #λ1" source="#edd.">axe</lem>
+               <rdg wit="#ν #η #ρ2 #r #s" source="#n #o #p #h #Guid. #Ulit.">osse</rdg>
+               <rdg wit="#κ #χ #π #ρ1 #λ2">asse</rdg>
+               <rdg wit="#φ #θ">esse</rdg>
+               <rdg wit="#γ" source="#Heins.">aere</rdg>
+            </app>
+            <app loc="C7.50.4">
+               <lem wit="#χ #ν #φ" source="#edd.">Lycota</lem>
+               <rdg wit="#N #G #π #α #ρ #κ #β">licota</rdg>
+               <rdg wit="#ε #γ #e #u">lycora</rdg>
+               <rdg wit="#λ">liceta</rdg>
+               <rdg wit="#δ #μ">licora</rdg>
+            </app>
+            <app loc="C7.50.5">
+               <lem>quam</lem>
+               <rdg wit="#ρ1">quae</rdg>
+               <rdg wit="#ν #χ #φ #α #η #r">que</rdg>
+               <rdg wit="#μ">quem</rdg>
+            </app>
+            <app loc="C7.50.5">
+               <lem wit="#N">spectacula</lem>
+               <rdg wit="#G">spettacula</rdg>
+            </app>
+            <app loc="C7.50.5">
+               <lem>mavis</lem>
+               <rdg wit="#κ #χ #π1">manes</rdg>
+               <rdg wit="#μ">maius</rdg>
+            </app>
+            <app loc="C7.50.6">
+               <lem wit="#N #G #A" source="#edd.">edit</lem>
+               <rdg wit="#V #r #e #s">ardet</rdg>
+               <rdg wit="#d2">aedit</rdg>
+               <rdg source="#Ulit.">audet</rdg>
+            </app>
+            <app loc="C7.50.6">
+               <lem wit="#ε #γ #π #χ #κ #β" xml:id="lem7.6harena">harena</lem>
+               <rdg wit="#μ #φ #ν #λ #α #ρ" xml:id="rdg7.6arena">arena</rdg>
+               <rdgGrp type="multiVariants">
+                  <rdg source="#edd." copyOf="#lem7.6harena"/>
+                  <rdg source="#edd." copyOf="#rdg7.6arena"/>
+               </rdgGrp>
+               <rdg wit="#N #G">in umbra</rdg>
+            </app>
+            <app loc="C7.50.7">
+               <lem wit="#N #G #V #r #s" source="#n #o #Ulit. #BeckSqq">tanta-causa</lem>
+               <rdg wit="#γ #ε #μ #δ #ρ2" source="#eddAnteBeck">causa-tanta</rdg>
+            </app>
+            <app loc="C7.50.8">
+               <lem xml:id="lem7.8cessaret">cessaret</lem>
+               <rdgGrp type="anteCorr">
+                  <rdg wit="#N" varSeq="1">cesaret</rdg>
+                  <rdg wit="#N2" varSeq="2" copyOf="#lem7.8cessaret"/>
+               </rdgGrp>
+            </app>
+            <app loc="C7.50.8">
+               <lem>taciturnis</lem>
+               <rdg wit="#G">taciturnus</rdg>
+            </app>
+            <app loc="C7.50.9">
+               <lem>Stimicon</lem>
+               <rdg wit="#ν #ε #γ #η #r #e #d2" source="#l2">stymicon</rdg>
+               <rdg wit="#π #μ">stimichon</rdg>
+            </app>
+            <app loc="C7.50.9">
+               <lem>pallente</lem>
+               <rdg wit="#π #χ #ρ #φ #ν #β #κ #λ #η #θ #α1 #r">fallente</rdg>
+               <rdg wit="#μ">palente</rdg>
+               <rdg source="#Heins.">palante</rdg>
+            </app>
+            <app loc="C7.50.9">
+               <lem wit="#G #λ #δ" source="#edd.">corymbo</lem>
+               <rdg wit="#N #V #r #e #u">corimbo</rdg>
+               <rdgGrp type="conjectures">
+                  <rdg source="#Wernsd.">cicuta</rdg>
+                  <rdg source="#Wernsd.">canali</rdg>
+               </rdgGrp>
+            </app>
+            <app loc="C7.50.10">
+               <lem wit="#ν" source="#edd.">haedo</lem>
+               <rdg wit="#G #ε #γ #μ #χ #π #e #u">edo</rdg>
+               <rdg wit="#N #κ #λ #β #b" source="#n">hedo</rdg>
+               <rdg wit="#δ #ρ #α #φ">aedo</rdg>
+               <rdg source="#o #g #l2 #i2 #p #Ulit. #h #t #Burm.">hoedo</rdg>
+            </app>
+            <app loc="C7.50.11">
+               <lem>abes</lem>
+               <rdg wit="#G">herus</rdg>
+               <rdg wit="#e #u #b">habes</rdg><!-- (corr. Guid.)-->
+            </app>
+            <app loc="C7.50.11">
+               <lem>ovilia</lem>
+               <rdg wit="#N">ovillia</rdg>
+            </app>
+            <app loc="C7.50.11">
+               <lem wit="#γ #ρ2" source="#edd.">Thyrsis</lem>
+               <rdg wit="#N">tirsis</rdg>
+               <rdg wit="#G #ε #u #e #b" source="#n #o">tyrsis</rdg>
+               <rdg wit="#λ #π #α #μ #φ #β #ρ1">tirsus</rdg>
+               <rdg wit="#ν #η #θ #r">thyrsus</rdg>
+               <rdg wit="#δ #κ #χ">tyrsus</rdg>
+               <rdg wit="#s">thirsus</rdg>
+            </app>
+            <app loc="C7.50.13">
+               <lem wit="#γ #α2" source="#Barth #Gudius #Burm. #Beck #Baehr. #Schenkl">Sit licet</lem>
+               <rdg wit="#N">sel'</rdg><!-- (scilicet m2) -->
+               <rdg wit="#G #V" source="#edd.">scilicet</rdg>
+            </app>
+            <app loc="C7.50.13">
+               <lem>et</lem>
+               <rdgGrp type="multiVariants">
+                  <rdg source="#Glaeser">ut</rdg>
+                  <rdg source="#Glaeser">haec</rdg>
+               </rdgGrp>
+            </app>
+            <app loc="C7.50.13">
+               <lem>praemia</lem>
+               <rdg wit="#δ #η #φ #μ #π #ε #χ #e #u #b">premia</rdg>
+               <rdg wit="#γ">proemia</rdg>
+               <rdg wit="#λ #θ">prelia</rdg>
+            </app>
+            <app loc="C7.50.13">
+               <lem>invictus Stimicon et praemia dives</lem>
+               <rdgGrp type="conjectures">
+                  <rdg source="#Heins.">invitis St. ut praemia divis</rdg>
+                  <rdg source="#Heins.">invictus Stimicon et praemia silvis</rdg><!-- vel tantum <hi rend="#italic">silvis</hi> pro <hi rend="#italic">dites</hi> -->
+               </rdgGrp>
+            </app>
+         </listApp>
+      </body>
+  </text>
+</TEI>

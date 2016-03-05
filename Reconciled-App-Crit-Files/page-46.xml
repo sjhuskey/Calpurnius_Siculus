@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Title</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Publication Information</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Information about the source</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listApp>
+                <app loc="C6.46.31">
+                    <lem>partem</lem>
+                    <rdg source="#Heins.">palmam</rdg>
+                    <rdg source="#Heins.">spartam</rdg>
+                </app>
+                <app loc="C6.46.31">
+                    <lem>committere</lem>
+                    <rdg wit="#G">comictere</rdg>
+                </app>
+                <app loc="C6.46.32">
+                    <lem wit="#N #G" source="#GlaeserSqq">ne</lem>
+                    <rdg wit="#V" source="#eddAnteGlaeser">nec</rdg>
+                </app>
+                <app loc="C6.46.32">
+                    <lem>hoc</lem>
+                    <rdg wit="#G">hec</rdg>
+                </app>
+                <app loc="C6.46.32">
+                    <lem wit="#N #G" source="#GlaeserSqq">feras</lem>
+                    <rdg wit="#V" source="#eddAnteGlaeser">feres</rdg>
+                    <rdg wit="#φ">fures</rdg>
+                </app>
+                <app loc="C6.46.33">
+                    <lem>medius</lem>
+                    <rdg wit="#ν #φ #η #θ #r">melius</rdg>
+                </app>
+                <app loc="C6.46.34">
+                    <lem>quamvis hunc Petale mea diligat</lem>
+                    <rdg wit="#ε #γ #μ #e #u #b">quamvis diligat hunc mea pectale</rdg>
+                    <!--pectale (petale γμ)-->
+                    <rdg wit="#π">quamvis hunc perale mea diligat</rdg>
+                    <rdg wit="#δ">quamvis hunc diligat mea pectale</rdg>
+                    <rdg source="#Nodell #Beck">hunc quamvis Petale mea diligat</rdg>
+                    <!-- Nodell (not. crit. p. 88) -->
+                </app>
+                <app loc="C6.46.35">
+                    <lem>scit</lem>
+                    <rdg wit="#G">sit</rdg>
+                </app>
+                <app loc="C6.46.35">
+                    <lem wit="#N #G #V #r #s" source="#GlaeserSqq">et</lem>
+                    <rdg wit="#A #H #ε" source="#eddAnteGlaeser">scit</rdg>
+                </app>
+                <app loc="C6.46.35">
+                    <!-- que in G s. v. m1 -->
+                    <!-- Perhaps referring to 'sequiturque' or something. -->
+                </app>
+                <app loc="C6.46.36">
+                    <lem wit="#V" source="#edd.">mensae</lem>
+                    <rdg wit="#N">mensem</rdg>
+                    <!-- N (corr. m2) -->
+                    <rdg wit="#G">mense</rdg>
+                    <rdg wit="#φ #δ #η">mense</rdg>
+                </app>
+                <app loc="C6.46.36">
+                    <lem>improba</lem>
+                    <rdg wit="#G">improbe</rdg>
+                </app>
+                <app loc="C6.46.37">
+                    <lem wit="#φ #ν #κ2" source="#edd.">fruticat</lem>
+                    <rdg wit="#G #H #μ #λ #α #ε #γ #δ #e #u #b #d2" source="#l2 #i2">fruticet</rdg>
+                    <rdg wit="#N">frutiō</rdg>
+                    <!-- N (corr. in fruticem m2, ut vid.) -->
+                    <rdg wit="#π #β">fructicet</rdg>
+                    <rdg wit="#η #κ1 #χ">fructicat</rdg>
+                    <rdg wit="#ρ1">fructificat</rdg>
+                    <rdg wit="#ρ2">frutificat</rdg>
+                </app>
+                <app loc="C6.46.37">
+                    <lem>caput</lem>
+                    <rdg wit="#G">capud</rdg>
+                    <rdg wit="#N">capit</rdg>
+                </app>
+                <app loc="C6.46.37">
+                    <lem>sub ipsis</lem>
+                    <rdg source="#Heins.">sub hirtis</rdg>
+                </app>
+                <app loc="C6.46.38">
+                    <lem>et tereti</lem>
+                    <rdg wit="#N">ethereti</rdg>
+                    <!-- N (corr. m2) -->
+                    <rdg source="#Gebauer #Schenkl">e tereti</rdg>
+                </app>
+                <app loc="C6.46.38">
+                    <lem wit="#N #G #H" source="#Beck #GlaeserSqq">pendent</lem>
+                    <rdg wit="#V #A" source="#eddAnteGlaeser">lucent</rdg>
+                </app>
+                <!-- hunc v. (meaning 38) et sq. om. νφηρ1r -->
+                <app loc="C6.46.39">
+                    <lem>niveo</lem>
+                    <rdg wit="#N">vineo</rdg>
+                </app>
+                <app loc="C6.46.39">
+                    <lem wit="#G">inretita</lem>
+                    <rdg wit="#N #V">irretita</rdg>
+                </app>
+                <app loc="C6.46.40">
+                    <lem>et, a dorso</lem>
+                    <rdg wit="#N">etiam a dorso</rdg>
+                </app>
+                <app loc="C6.46.41">
+                    <lem>lateralis</lem>
+                    <rdg wit="#G">latialis</rdg>
+                </app>
+                <app loc="C6.46.42">
+                    <lem source="#FLeo">summa (vides?)</lem>
+                    <rdg wit="#ω" source="#edd.">subtiles</rdg>
+                    <rdg source="#Heins. #Haupt #Schenkl">sutilibus</rdg>
+                    <rdg source="#Iacoby">subsilles</rdg>
+                    <!-- Iacoby (l.l. p. 1294) -->
+                    <rdg source="#Beck">sed vittae</rdg>
+                    <rdg source="#BecK">cum vittis</rdg>
+                    <note resp="Giarratano">"latet aliquid in voce subtiles; forte genus diversum a
+                        rosis" Burm.</note>
+                </app>
+                <app loc="C6.46.42">
+                    <lem>tempora</lem>
+                    <rdg wit="#κ #χ">cornua</rdg>
+                </app>
+                <app loc="C6.46.42">
+                    <lem>molles</lem>
+                    <rdg source="#Haupt #Schenkl">nodis</rdg>
+                </app>
+                <app loc="C6.46.42">
+                    <lem>ramos aque tempora molles</lem>
+                    <rdg source="#Heins.">molles ramosa corollis</rdg>
+                </app>
+                <app loc="C6.46.43">
+                    <lem>torque</lem>
+                    <rdg wit="#G">collo torque</rdg>
+                    <!-- collo (del.) torque -->
+                </app>
+                <app loc="C6.46.44">
+                    <lem>extrema</lem>
+                    <rdg wit="#N">exterma</rdg>
+                    <!-- N (corr. m2) -->
+                </app>
+                <app loc="C6.46.44">
+                    <lem wit="#N #H #ρ2 #α2 #d1" source="#Heins. #BurmSqq">natant</lem>
+                    <rdg wit="#V" source="#eddAnteBurm.">notant</rdg>
+                    <rdg wit="#G">natent</rdg>
+                    <rdg source="#Ulit.">nitent</rdg>
+                </app>
+                <app loc="C6.46.45">
+                    <lem>luna</lem>
+                    <rdg wit="#N">lima</rdg>
+                </app>
+                <app loc="C6.46.46">
+                    <lem source="#Baehr.">hunc, sicutque vides, pignus, Mnasylle</lem>
+                    <rdg wit="#N">hunc ego (supra lin.) siƈ (ƈ exp.) cumque vides Mnasille</rdg>
+                    <rdg wit="#G">hunc sicumque vides pignus mascille</rdg>
+                    <rdg wit="#V" source="#edd.">hunc ego qualemcumque vides in valle</rdg>
+                    <rdg source="#CSchenkl">hunc sic ornatumque (vides, Mnasylle)</rdg>
+                    <rdg source="#Leo">hunc simul ornatumque vides Mnasylle</rdg>
+                    <rdg source="#Glaeser #Keene">hunc ego qualemcumque vides, Mnasylle</rdg>
+                    <rdg source="#Ellis">hunc cicurem tuque ipse vides, Mnasylle</rdg>
+                    <!-- Ellis (l. l. p. 39) -->
+                    <rdg source="#Chytil">hunc, sic ut me cumque vides, Mnasylle</rdg>
+                    <!-- Chytil (l. l. p. 14) -->
+                </app>
+            </listApp>
+        </body>
+    </text>
+</TEI>
