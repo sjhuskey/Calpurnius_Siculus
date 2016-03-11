@@ -1542,7 +1542,6 @@
                                             <persName>
                                                 <forename>John</forename>
                                                 <forename>Percival</forename>
-                                                <surname>Postgate</surname>
                                             </persName>
                                         </editor>
                                         <title level="m">Corpus Poetarum Latinorum</title>
@@ -1712,6 +1711,32 @@
                                     target="https://books.google.com/books?id=-DVOAAAAYAAJ&amp;lpg=RA4-PT766&amp;ots=v5kIDI84YC&amp;dq=Adversariorvm%20commentariorvm%20libri%20LX&amp;pg=PP1#v=onepage&amp;q=Adversariorvm%20commentariorvm%20libri%20LX&amp;f=false"
                                 />
                             </bibl>
+                            <bibl xml:id="BarthClaud" n="Barth in Cl. Claudian">
+                                <author ref="http://viaf.org/viaf/15563174">
+                                    <persName>
+                                        <forename>Kaspar von</forename>
+                                        <surname>Barth</surname>
+                                    </persName>
+                                </author>
+                                <title>Cl. Claudiani Principum, Heroumque Poetae Praegloriosissimi, Quae Exstant</title>
+                                <pubPlace>Frankfurt</pubPlace>
+                                <publisher>apud Joannem Naumannum, Bibliop. Hamburgensem</publisher>
+                                <date>1650</date>
+                                <ptr target="https://books.google.com/books?id=rCKBqXCArqIC&amp;lpg=PA1014-IA10&amp;ots=0ZdoKRfwgS&amp;dq=Principium%2C%20heroumque%20poetae%20praegloriosissimi%2C%20quae%20exstant&amp;pg=PP13#v=onepage&amp;q&amp;f=false"/>
+                            </bibl>
+                            <bibl xml:id="Bartholinus" n="Bartholinus">
+                                <author ref="http://viaf.org/viaf/27864975">
+                                    <persName>
+                                        <forename>Thomas</forename>
+                                        <surname>Bartholin</surname>
+                                    </persName>
+                                </author>
+                                <title>De Luce Animalium Libri III</title>
+                                <pubPlace>Lugdunum Batavorum</pubPlace>
+                                <publisher>Ex Officina Francisci Hackii</publisher>
+                                <date>1647</date>
+                                <ptr target="https://books.google.com/books?id=R-f-lEMwFq0C&amp;pg=PR4#v=onepage&amp;q&amp;f=false"/>
+                            </bibl>
                             <bibl xml:id="Postgate" n="Postgate">
                                 <author ref="http://viaf.org/viaf/49261366">
                                     <persName>
@@ -1721,7 +1746,7 @@
                                     </persName>
                                 </author>
                                 <title level="a">Some Suggestions on Calpurnius Siculus</title>
-                                <title level="j">Classical Journal</title>
+                                <title level="j">Classical Review</title>
                                 <biblScope unit="vol">15</biblScope>
                                 <biblScope unit="issue">4</biblScope>
                                 <biblScope unit="pp">213–214</biblScope>
@@ -2036,7 +2061,7 @@
                                 <publisher>Apud Weidmannos</publisher>
                                 <date>1849</date>
                             </bibl>
-                            <bibl xml:id="Salmasius" n="Salmasius">
+                            <bibl xml:id="SalmasiusEp" n="Salmasius Epist.">
                                 <author ref="http://viaf.org/viaf/41850039">
                                     <persName>
                                         <forename>Claude</forename>
@@ -2050,6 +2075,19 @@
                                 <ptr
                                     target="https://books.google.com/books?id=0zRv3_Ym5R4C&amp;dq=Salmasius%20epistolae&amp;pg=PP5#v=onepage&amp;q=Salmasius%20epistolae&amp;f=false"
                                 />
+                            </bibl>
+                            <bibl xml:id="SalmasiusHist" n="Salmasius Hist. Aug.">
+                                <author ref="http://viaf.org/viaf/41850039">
+                                    <persName>
+                                        <forename>Claude</forename>
+                                        <surname>Saumaise</surname>
+                                    </persName>
+                                </author>
+                                <title>Historiae Augustae Scriptores VI</title>
+                                <pubPlace>Paris</pubPlace>
+                                <publisher>n.p.</publisher>
+                                <date>1620</date>
+                                <ptr target="https://books.google.com/books?id=HmlUAAAAcAAJ&amp;dq=Historiae%20augustae%20scriptores%20salmasius&amp;pg=PP1#v=onepage&amp;q&amp;f=false"/>
                             </bibl>
                             <bibl xml:id="HeinsHer" n="HeinsHer">
                                 <author ref="http://viaf.org/viaf/95302161">
@@ -2154,6 +2192,19 @@
                                 <biblScope unit="page">281–282</biblScope>
                                 <date>1902</date>
                                 <ptr target="http://www.jstor.org/stable/695474"/>
+                            </bibl>
+                            <bibl xml:id="HousmanManil" n="Housman ad Manil.">
+                                <author ref="http://viaf.org/viaf/49249069">
+                                    <persName>
+                                        <forename>A.E.(Alfred Edward)</forename>
+                                        <surname>Housman</surname>
+                                    </persName>
+                                </author>
+                                <title>M. Manilii Astronomicon, Liber Primus</title>
+                                <pubPlace>London</pubPlace>
+                                <publisher>Grant Richards</publisher>
+                                <date>1903</date>
+                                <ptr target="https://books.google.com/books?id=78dEAQAAIAAJ&amp;dq=housman%20manilius&amp;pg=PR3#v=onepage&amp;q=housman%20manilius&amp;f=false"/>
                             </bibl>
                             <bibl xml:id="Maehly">
                                 <author ref="http://viaf.org/viaf/32754002">
@@ -2281,6 +2332,19 @@
                                 <publisher>Typis Petri Marie Frambotti Bibliop.</publisher>
                                 <date>1681</date>
                                 <ptr target="https://books.google.com/books?id=50ZYAAAAcAAJ&amp;lpg=PA95&amp;ots=HX_fI-rrGz&amp;dq=De%20Ludis%20Circensibus%20argoli&amp;pg=RA4-PR43#v=onepage&amp;q&amp;f=false"/>
+                            </bibl>
+                            <bibl xml:id="Spanheim" n="Spanheim">
+                                <author>
+                                    <persName>
+                                        <forename>Ezechiel</forename>
+                                        <surname>Spanheim</surname>
+                                    </persName>
+                                </author>
+                                <title>Insignes De Praestantia et Usu Numismatum Dissertationes</title>
+                                <pubPlace>London</pubPlace>
+                                <publisher>R. Smith</publisher>
+                                <date>1706</date>
+                                <ptr target="https://books.google.com/books?id=PxIL9N4gwK4C&amp;dq=Spanheim%20de%20praestantia%20manticoram&amp;pg=PP9#v=onepage&amp;q&amp;f=false"/>
                             </bibl>
 
                             <!-- Add Ramorino -->
@@ -6542,7 +6606,7 @@
                                 <rdg wit="#γ">in....</rdg>
                                 <rdg wit="#β #η">in secta</rdg>
                                 <rdg source="#Ulit.">intecta</rdg>
-                                <rdg source="#Salmasius" xml:id="rdg4.3in_festa">in festa</rdg>
+                                <rdg source="#SalmasiusEp" xml:id="rdg4.3in_festa">in festa</rdg>
                                 <note target="#rdg4.3in_festa">(epist. ad Gronov. 110 <ptr target="https://books.google.com/books?id=0zRv3_Ym5R4C&amp;dq=Salmasius%20epistolae&amp;pg=PA251#v=onepage&amp;q=Salmasius%20epistolae&amp;f=false"/>) </note>
                                 <rdgGrp type="contjectures">
                                     <rdg source="#Burm.">in certa</rdg>
