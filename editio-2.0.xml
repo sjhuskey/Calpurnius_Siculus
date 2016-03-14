@@ -11642,7 +11642,8 @@
                   seclusit</note>
                <app type="interpolation">
                   <!-- Presenting the line that Beck marks as an interpolation, with the unmarked version and the omission presented as variant readings -->
-                  <lem source="#Beck" xml:id="lem6.53a"><surplus><l n="6.53a" exclude="#rdg6.53b">pes levis adductum latus, excelsissima cervix</l></surplus></lem>
+                  <lem xml:id="lem6.53a"/>
+                   <rdg source="#Beck" xml:id="rdg6.53a"><surplus><l n="6.53a" exclude="#rdg6.53b">pes levis adductum latus, excelsissima cervix</l></surplus></rdg>
                   <!-- <surplus> marking the interpolation -->
                   <rdg wit="#ε #π #ρ2" source="#edd." xml:id="rdg6.53a1" exclude="#rdg6.53b"><l n="6.53a">pes levis adductum latus, excelsissima cervix</l></rdg>
                   <!-- a <rdg> without <surplus> to indicate the witnesses that accept the reading -->
@@ -11671,7 +11672,8 @@
                   Par.</ref></note>
                <app type="interpolation">
                   <!-- Accounting for the witnesses and sources that print the interpolation after line 53 -->
-                  <rdg wit="#γ #μ" source="#n #o" xml:id="rdg6.53b" exclude="#lem6.53a #rdg6.53a1 #rdg6.53a2"><l n="6.53b">pes levis adductum
+                  <lem xml:id="lem6.53b"/>
+                   <rdg wit="#γ #μ" source="#n #o" xml:id="rdg6.53b" exclude="#rdg6.53a #rdg6.53a1 #rdg6.53a2"><l n="6.53b">pes levis adductum
                         latus, excelsissima <app>
                            <lem>cervix</lem>
                            <rdg source="#Glaeser #Keene">frons est</rdg>
