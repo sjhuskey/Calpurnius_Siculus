@@ -37,7 +37,10 @@
             <app loc="C6.43.1">
                <lem wit="#γ #χ #ε #κ #φ #ν" source="#edd.">Lycida</lem>
                <!-- Last letter is hard to see. -->
-               <rdg wit="#N">licida<del rend="erasure">s</del></rdg>
+               <rdgGrp type="anteCorr">
+                  <rdg wit="#N" varSeq="1">licidas</rdg>
+                  <rdg wit="#N" varSeq="2">licida<del rend="erasure">s</del></rdg>
+               </rdgGrp>
                <!--  (s eras.)-->
                <rdg wit="#G #β #π #α #λ #ρ #μ #d2">licida</rdg>
             </app>
@@ -612,8 +615,10 @@
             </app>
             <app loc="C6.46.31">
                <lem>partem</lem>
-               <rdg source="#Heins.">palmam</rdg>
-               <rdg source="#Heins.">spartam</rdg>
+               <rdgGrp type="conjectures">
+                  <rdg source="#Heins.">palmam</rdg>
+                  <rdg source="#Heins.">spartam</rdg>
+               </rdgGrp>
             </app>
             <app loc="C6.46.31">
                <lem>committere</lem>
@@ -661,7 +666,10 @@
             </app>
             <app loc="C6.46.35">
                <lem xml:id="lem6.35sequiturque">sequiturque</lem>
-               <rdg wit="#G">sequitur<add place="below" hand="#G1">que</add></rdg>
+               <rdgGrp type="postCorr">
+                  <rdg wit="#G" varSeq="1">sequitur</rdg>
+                  <rdg wit="#G1" varSeq="2">sequitur<add place="below" hand="#G1">que</add></rdg>
+               </rdgGrp>
                <!-- que in G s. v. m1 -->
             </app>
             <app loc="C6.46.36">
@@ -755,7 +763,10 @@
             </app>
             <app loc="C6.46.43">
                <lem>torque</lem>
-               <rdg wit="#G"><del>collo</del> torque</rdg>
+               <rdgGrp type="anteCorr">
+                  <rdg wit="#G" varSeq="1">collo torque</rdg>
+                  <rdg wit="#G1" varSeq="2"><del>collo</del> torque</rdg>
+               </rdgGrp>
                <!-- collo (del.) torque -->
             </app>
             <app loc="C6.46.44">
@@ -879,7 +890,7 @@
                   excelsissima cervix (frons est no Glaeser Keene), quem Beck uncis seclusit -->
 
             <app loc="C6.47.53">
-               <lem>aere</lem>
+               <lem>acre</lem>
                <rdg source="#Ulit.">aure</rdg>
             </app>
             <app loc="C6.47.53">
@@ -899,12 +910,16 @@
             </app>
             <!-- vv. 53-56 exstant in Exc. Par. 54 -->
             <app loc="C6.47.54">
-               <lem>tornata</lem>
-               <rdg wit="#codParPrior">torvata</rdg>
-               <rdg wit="#δ #λ">curvata</rdg>
-               <rdg wit="#d">coronata</rdg>
-               <rdg source="#Barth">(ut) tornata</rdg>
-               <!-- Fix this in the edition by making the lemma "et tornata" -->
+               <lem><app>
+                     <lem>et</lem>
+                     <rdg source="#Barth">ut</rdg>
+                  </app>
+                  <app>
+                     <lem>tornata</lem>
+                     <rdg wit="#codParPrior">torvata</rdg>
+                     <rdg wit="#δ #λ">curvata</rdg>
+                     <rdg wit="#d">coronata</rdg>
+                  </app></lem>
             </app>
             <app loc="C6.47.55">
                <lem wit="#G #H #u #b" source="#l2 #i2 #GlaeserSqq">qua</lem>
@@ -935,7 +950,7 @@
                <lem>curvaret</lem>
                <rdg wit="#N">curvar</rdg>
             </app>
-            <!-- v.v. 56-57 om. νφηθρ1r. 57 -->
+            <!-- v.v. 56-57 om. νφηθρ1r -->
             <app loc="C6.47.57">
                <lem>hunc</lem>
                <rdg wit="#N">huc</rdg>
@@ -1373,8 +1388,10 @@
             </app>
             <app loc="C6.49.89">
                <lem>si</lem>
-               <rdg source="#Wernsd. #Iustius #Beck">sic</rdg>
-               <!-- Iustius (Obss. crit. p. 75) https://books.google.com/books?id=TdBWAAAAcAAJ&pg=PP7#v=onepage&q&f=false-->
+               <rdg source="#Wernsd. #Iustius #Beck" xml:id="rdg6.89sic">sic</rdg>
+               <note target="#rdg6.89sic">Iustius (<ref
+                     target="https://books.google.com/books?id=TdBWAAAAcAAJ&amp;pg=PA75#v=onepage&amp;q&amp;f=false"
+                     >Obss. crit. p. 75</ref>)</note>
             </app>
             <app loc="C6.49.89">
                <lem>certare</lem>

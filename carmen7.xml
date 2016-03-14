@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="textpart" n="7" xml:id="poem7">
+            <head>VII. [Lycotas, Corydon]</head>
+            <list type="speakers">
+               <item xml:id="Lycotas">Lycotas</item>
+               <item xml:id="Corydon">Corydon</item>
+            </list>
+            <sp who="#Lycotas">
+               <speaker>L.</speaker>
+               <l n="1">Lentus ab urbe venis, Corydon; vicesima certe</l>
+               <l n="2">nox fuit, ut nostrae cupiunt te cernere silvae,</l>
+               <l n="3">ut tua maerentes exspectant iubila tauri.</l>
+            </sp>
+            <sp who="#Corydon">
+               <speaker>C.</speaker>
+               <l n="4">O piger, o duro non mollior axe, Lycota,</l>
+               <l n="5">qui veteres fagos nova quam spectacula mavis</l>
+               <l n="6">cernere, quae patula iuvenis deus edit harena.</l>
+            </sp>
+            <sp who="#Lycotas">
+               <speaker>L.</speaker>
+               <!--Note that the first edition omits this speaker designation -->
+               <l n="7">Mirabar, quae tanta foret tibi causa morandi,</l>
+               <l n="8">cur tua cessaret taciturnis fistula silvis</l>
+               <l n="9">et solus Stimicon caneret pallente corymbo:</l>
+               <l n="10">quem sine te maesti tenero donavimus haedo.</l>
+               <l n="11">nam, dum lentus abes, lustravit ovilia Thyrsis,</l>
+               <l n="12">iussit et arguta iuvenes certare cicuta.</l>
+            </sp>
+            <sp who="#Corydon">
+               <speaker>C.</speaker>
+               <l n="13">Sit licet invictus Stimicon et praemia dives</l>
+               <l n="14">auferat, accepto nec solum gaudeat haedo,</l>
+               <l n="15">verum tota ferat quae lustrat ovilia Thyrsis:</l>
+               <l n="16">non tamen aequabit mea gaudia; nec mihi, si quis</l>
+               <l n="17">omnia Lucanae donet pecuaria silvae,</l>
+               <l n="18">grata magis fuerint quam quae spectavimus urbe.</l>
+            </sp>
+            <sp who="#Lycotas">
+               <speaker>L.</speaker>
+               <l n="19">Dic age dic, Corydon, nec nostras invidus aures</l>
+               <l n="20">despice: non aliter certe mihi dulce loquere,</l>
+               <l n="21">quam cantare soles, quotiens ad sacra vocatur</l>
+               <l n="22">aut fecunda Pales aut pastoralis Apollo.</l>
+            </sp>
+            <sp who="#Corydon">
+               <speaker>C.</speaker>
+               <l n="23">Vidimus in caelum trabibus spectacula textis</l>
+               <l n="24">surgere, Tarpeium prope despectantia culmen;</l>
+               <l n="25">emensique gradus et clivos lene iacentes</l>
+               <l n="26">venimus ad sedes, ubi pulla sordida veste</l>
+               <l n="27">inter femineas spectabat turba cathedras.</l>
+               <l n="28">nam quaecumque patent sub aperto libera caelo,</l>
+               <l n="29">aut eques aut nivei loca densavere tribuni.</l>
+               <l n="30">qualiter haec patulum concedit vallis in orbem</l>
+               <l n="31">et sinuata latus resupinis undique silvis</l>
+               <l n="32">inter continuos curvatur concava montes,</l>
+               <l n="33">sic ibi planitiem curvae sinus ambit harenae</l>
+               <l n="34">et geminis medium se molibus alligat ovum.</l>
+               <l n="35">quid tibi nunc referam, quae vix suffecimus ipsi</l>
+               <l n="36">per partes spectare suas? sic undique fulgor</l>
+               <l n="37">percussit. stabam defixus et ore patenti </l>
+               <l n="38">cunctaque mirabar necdum bona singula noram,</l>
+               <l n="39">cum mihi tum senior, lateri qui forte sinistro</l>
+               <l n="40">iunctus erat, “quid te stupefactum, rustice”, dixit</l>
+               <l n="41">“ad tantas miraris opes, qui nescius auri</l>
+               <l n="42">sordida tecta, casas, et sola mapalia nosti?</l>
+               <l n="43">en ego iam tremulus et vertice canus et ista</l>
+               <l n="44">factus in urbe senex stupeo tamen omnia: certe</l>
+               <l n="45">vilia sunt nobis quaecumque prioribus annis</l>
+               <l n="46">vidimus, et sordet quidquid spectavimus olim.</l>
+               <l n="47">balteus en gemmis, en illita porticus auro</l>
+               <l n="48">certatim radiant; nec non, ubi finis harenae</l>
+               <l n="49">proxima marmoreo praebet spectacula muro,</l>
+               <l n="50">sternitur adiunctis ebur admirabile truncis</l>
+               <l n="51">et coit in rotulum, tereti qui lubricus axe</l>
+               <l n="52">impositos subita vertigine falleret ungues</l>
+               <l n="53">excuteretque feras. auro quoque torta refulgent</l>
+               <l n="54">retia, quae totis in harenam dentibus exstant,</l>
+               <l n="55">dentibus aequatis; et erat (mihi crede, Lycota,</l>
+               <l n="56">si qua fides) nostro dens longior omnis aratro.</l>
+               <l n="57">ordine quid referam? vidi genus omne ferarum,</l>
+               <l n="58">hic niveos lepores et non sine cornibus apros,</l>
+               <l n="59">hic raram silvis etiam, quibus editur, alcen.</l>
+               <l n="60">vidimus et tauros, quibus aut cervice levata</l>
+               <l n="61">deformis scapulis torus eminet aut quibus hirtae</l>
+               <l n="62">iactantur per colla iubae, quibus aspera mento</l>
+               <l n="63">barba iacet tremulisque rigent palearia saetis.</l>
+               <l n="64">nec solum nobis silvestria cernere monstra</l>
+               <l n="65">contigit: aequoreos ego cum certantibus ursis</l>
+               <l n="66">spectavi vitulos et equorum nomine dictum,</l>
+               <l n="67">sed deforme pecus, quod in illo nascitur amne,</l>
+               <l n="68">qui sata riparum vernantibus irrigat undis.</l>
+               <l n="69">a! trepidi quotiens sola discedentis harenae</l>
+               <l n="70">vidimus in partes, ruptaque voragine terrae</l>
+               <l n="71">emersisse feras; et in isdem saepe cavernis</l>
+               <l n="72">aurea cum subito creverunt arbuta nimbo.</l>
+            </sp>
+            <sp who="#Lycotas">
+               <speaker>L.</speaker>
+               <l n="73">O felix Corydon, quem non tremebunda senectus</l>
+               <l n="74">impedit! o felix, quod in haec tibi saecula primos</l>
+               <l n="75">indulgente deo demittere contigit annos!</l>
+               <l n="76">nunc, tibi si propius venerandum cernere numen</l>
+               <l n="77">fors dedit et praesens vultumque habitumque notasti,</l>
+               <l n="78">dic age dic, Corydon, quae sit mihi forma deorum.</l>
+            </sp>
+            <sp who="#Corydon">
+               <speaker>C.</speaker>
+               <l n="79">O utinam nobis non rustica vestis inesset:</l>
+               <l n="80">vidissem propius mea numina! sed mihi sordes</l>
+               <l n="81">pullaque paupertas et adunco fibula morsu</l>
+               <l n="82">obfuerunt. utcumque tamen conspeximus ipsum</l>
+               <l n="83">longius; ac, nisi me visus decepit, in uno</l>
+               <l n="84">et Martis vultus et Apollinis esse putato.</l>
+            </sp>
+         </div>
+      </body>
+   </text>
+</TEI>
