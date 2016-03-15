@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Translation of Giarratano's Preface</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <div type="preface" xml:lang="en">
+            <div type="section" n="1">
+               <head>I</head>
+               <p>The seven eclogues of Calpurnius and the four of Nemesianus are preserved in the
+                  same manuscripts, which is how it happens that they are always published together
+                  by scholar, even though they differ in terms of refinement and charm. Add to this
+                  the fact that many who use inferior manuscripts that attribute the eleven eclogues
+                  to Calpurnius alone say that Nemesianus did not write any eclogues. From the time
+                  of [Taddeo] Ugoleto there has been no lack of those who divide the poems between
+                  Calpurnius and Nemesianus, assigning the last four to the latter, but until
+                  recently they thought that Calpurnius had sent his poems to Nemesianus. But
+                        <bibl><author>Moriz Haupt</author> (<title xml:lang="la"><hi rend="italic"
+                              ><ref
+                              target="https://books.google.com/books?id=Z-8nAAAAYAAJ&amp;pg=PP1#v=onepage&amp;q&amp;f=false"
+                              >De Carminibus bucolicis Calpurnii et Nemesiani</ref></hi></title>,
+                        <pubPlace>Berlin</pubPlace>, <date>1854</date>, <biblScope unit="page">p.
+                        1–27</biblScope>)</bibl> demonstrated with ample and reliable evidence that
+                  those eleven eclogues belong neither to one poet nor to the same period, but
+                  rather that the first seven should be assigned to Calpurnius and the rest to
+                  Nemesianus. He also demonstrated that Calpurnius lived under the reign of Nero,
+                  but Nemesianus lived in the time of Carus and his sons. Haupt's opinion, which
+                        <bibl><author>Kraffert</author> (<title xml:lang="de"><hi rend="italic"
+                           >Beitr. zur Kritik und Erklaerung lat. Autoren</hi></title>
+                     <biblScope unit="volume">T. 3</biblScope>, <pubPlace>Aurich</pubPlace>
+                     <date>1883</date>, <biblScope unit="page">p. 151</biblScope>)</bibl> et
+                        <bibl><author>Garnett</author> (<title level="a">On the date of Calp.
+                        Sic.</title>, <title level="j">Journ. of philol.</title>
+                     <biblScope unit="volume">XVI</biblScope>
+                     <date>1888</date>
+                     <biblScope unit="page">p. 216</biblScope></bibl>, cfr. <bibl><author>J. P.
+                        Postgate</author>, <title level="a">The comet of Calpurnius Siculus</title>,
+                        <title level="j">Class. Rev.</title>
+                     <date>1902</date>
+                     <biblScope unit="page">p. 38–40</biblScope></bibl>) have recently argued
+                  against in vain, now deservedly has the greatest authority among scholars.
+                  Nevertheless, both because of the similarity in subject matter and the fact that
+                  the condition of the text is the same in both poets' eclogues, I prefer to place
+                  Calpurnius side-by-side with Nemesianus.</p>
+            </div>
+         </div>
+      </front>
+      <body>
+         <p>Some text here.</p>
+      </body>
+   </text>
+</TEI>

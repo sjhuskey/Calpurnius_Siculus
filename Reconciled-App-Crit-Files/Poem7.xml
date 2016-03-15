@@ -704,8 +704,6 @@
             <app loc="C7.53.57">
                <lem>quid</lem>
                <rdg wit="#G" source="#Baehr.">qui</rdg>
-               <!--G Baehr. ν N (corr. m2)-->
-               <!-- weird overstrike thingy here. -->
             </app>
             <app loc="C7.53.57">
                <lem xml:id="lem7.57vidi">vidi</lem>
@@ -713,6 +711,7 @@
                   <rdg wit="#N" varSeq="1">v&#x305;<hi rend="stacked">i</hi></rdg>
                   <rdg wit="#N2" varSeq="2" copyOf="#lem7.57vidi"/>
                </rdgGrp>
+               <!-- weird overstrike thingy here. -->
             </app>
             <app loc="C7.53.57">
                <lem wit="#V">omne</lem>
@@ -1118,7 +1117,7 @@
             </app>
             <app loc="C7.55.83">
                <lem>visus decepit, in uno</lem>
-               <rdg source="#Glaeser"> visus deceperit una </rdg>
+               <rdg source="#Glaeser">visus deceperit una</rdg>
             </app>
             <app loc="C7.55.84">
                <lem wit="#V" source="#edd.">vultus</lem>
