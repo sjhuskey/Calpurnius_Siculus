@@ -26,112 +26,1118 @@
             </list>
             <sp who="#Lycotas">
                <speaker>L.</speaker>
-               <l n="1">Lentus ab urbe venis, Corydon; vicesima certe</l>
-               <l n="2">nox fuit, ut nostrae cupiunt te cernere silvae,</l>
-               <l n="3">ut tua maerentes exspectant iubila tauri.</l>
+               <l n="1"><app>
+                     <lem>Lentus</lem>
+                     <rdg wit="#φ #d2">entus</rdg>
+                     <rdg wit="#κ1 #χ #ν">ventus</rdg>
+                  </app> ab urbe venis, <app>
+                     <lem wit="#G #ν #χ">Corydon</lem>
+                     <rdg wit="#N #V">Coridon</rdg>
+                     <rdg wit="#ε">Choridon</rdg>
+                  </app>; <app>
+                     <lem wit="#θ #ν #μ #r" source="#n #o #GlaeserSqq">vicesima</lem>
+                     <rdg wit="#G #V" source="#eddAnteGlaeser">vigesima</rdg>
+                     <rdg wit="#β #e #u #b">vigessima</rdg>
+                     <rdg wit="#N #φ">vicessima</rdg>
+                  </app> certe</l>
+               <l n="2"><app>
+                     <lem>nox</lem>
+                     <rdg source="#Maehly">lux</rdg>
+                  </app>
+                  <app>
+                     <lem>fuit</lem>
+                     <rdg source="#Heins.">ruit</rdg>
+                     <rdg source="#Maehly" xml:id="rdg7.2fugit">fugit</rdg>
+                     <note target="#rdg7.2fugit">(qui et <hi rend="#italic">lux</hi> pro <hi
+                           rend="#italic">nox</hi> corr.)</note>
+                     <rdg source="#Baehr.">subit</rdg>
+                  </app>, <app>
+                     <lem>ut</lem>
+                     <rdg wit="#V" source="#eddAnteGlaeser">et</rdg>
+                  </app> nostrae cupiunt te cernere silvae,</l>
+               <l n="3">ut tua <app>
+                     <lem wit="#ρ2" xml:id="lem7.3maerentes">maerentes</lem>
+                     <rdg wit="#N #V #r #e #u #d2">merentes</rdg>
+                     <rdg wit="#α">morentes</rdg>
+                     <rdg wit="#λ" xml:id="rdg7.3moerentes">moerentes</rdg>
+                     <rdgGrp type="multiVariants">
+                        <rdg source="#edd." copyOf="#lem7.3maerentes"/>
+                        <rdg source="#edd." copyOf="#rdg7.3moerentes"/>
+                     </rdgGrp>
+                  </app>
+                  <app>
+                     <lem>exspectant</lem>
+                     <rdg wit="#ω">expectant</rdg>
+                  </app>
+                  <app>
+                     <lem>iubila</lem>
+                     <rdg wit="#α #δ" source="#Heins. #Beck" xml:id="rdg7.3sibila">sibila</rdg>
+                     <witDetail wit="#α" target="#rdg7.3sibila">in mg.</witDetail>
+                  </app> tauri.</l>
             </sp>
             <sp who="#Corydon">
                <speaker>C.</speaker>
-               <l n="4">O piger, o duro non mollior axe, Lycota,</l>
-               <l n="5">qui veteres fagos nova quam spectacula mavis</l>
-               <l n="6">cernere, quae patula iuvenis deus edit harena.</l>
+               <l n="4">O piger, <app>
+                     <lem wit="#N #G #V #e #u #b" source="#i #l2 #Baehr. #Schenkl">o duro</lem>
+                     <rdg wit="#H #ν #φ" source="#edd.">et duro</rdg>
+                  </app>
+                  <app>
+                     <lem wit="#N #G" source="#GlaeserSqq">non mollior</lem>
+                     <rdg wit="#V" source="#eddAnteGlaeser">iam durior</rdg>
+                  </app>
+                  <app>
+                     <lem wit="#N #G #ε #α #β #δ #μ #λ1" source="#edd.">axe</lem>
+                     <rdg wit="#ν #η #ρ2 #r #s" source="#n #o #p #h #Guid. #Ulit.">osse</rdg>
+                     <rdg wit="#κ #χ #π #ρ1 #λ2">asse</rdg>
+                     <rdg wit="#φ #θ">esse</rdg>
+                     <rdg wit="#γ" source="#Heins.">aere</rdg>
+                  </app>, <app>
+                     <lem wit="#χ #ν #φ" source="#edd.">Lycota</lem>
+                     <rdg wit="#N #G #π #α #ρ #κ #β">licota</rdg>
+                     <rdg wit="#ε #γ #e #u">lycora</rdg>
+                     <rdg wit="#λ">liceta</rdg>
+                     <rdg wit="#δ #μ">licora</rdg>
+                  </app>,</l>
+               <l n="5">qui veteres fagos nova <app>
+                     <lem>quam</lem>
+                     <rdg wit="#ρ1">quae</rdg>
+                     <rdg wit="#ν #χ #φ #α #η #r">que</rdg>
+                     <rdg wit="#μ">quem</rdg>
+                  </app>
+                  <app>
+                     <lem wit="#N">spectacula</lem>
+                     <rdg wit="#G">spettacula</rdg>
+                  </app>
+                  <app>
+                     <lem>mavis</lem>
+                     <rdg wit="#κ #χ #π1">manes</rdg>
+                     <rdg wit="#μ">maius</rdg>
+                  </app></l>
+               <l n="6">cernere, quae patula iuvenis deus <app>
+                     <lem wit="#N #G #A" source="#edd.">edit</lem>
+                     <rdg wit="#V #r #e #s">ardet</rdg>
+                     <rdg wit="#d2">aedit</rdg>
+                     <rdg source="#Ulit.">audet</rdg>
+                  </app>
+                  <app>
+                     <lem wit="#ε #γ #π #χ #κ #β" xml:id="lem7.6harena">harena</lem>
+                     <rdg wit="#μ #φ #ν #λ #α #ρ" xml:id="rdg7.6arena">arena</rdg>
+                     <rdgGrp type="multiVariants">
+                        <rdg source="#edd." copyOf="#lem7.6harena"/>
+                        <rdg source="#edd." copyOf="#rdg7.6arena"/>
+                     </rdgGrp>
+                     <rdg wit="#N #G">in umbra</rdg>
+                  </app>.</l>
             </sp>
             <sp who="#Lycotas">
                <speaker>L.</speaker>
                <!--Note that the first edition omits this speaker designation -->
-               <l n="7">Mirabar, quae tanta foret tibi causa morandi,</l>
-               <l n="8">cur tua cessaret taciturnis fistula silvis</l>
-               <l n="9">et solus Stimicon caneret pallente corymbo:</l>
-               <l n="10">quem sine te maesti tenero donavimus haedo.</l>
-               <l n="11">nam, dum lentus abes, lustravit ovilia Thyrsis,</l>
+               <l n="7">Mirabar, quae <app>
+                     <lem wit="#N #G #V #r #s" source="#n #o #Ulit. #BeckSqq" xml:id="lem7.7tanta"
+                        exclude="#rdg7.7tanta">tanta</lem>
+                     <rdg wit="#γ #ε #μ #δ #ρ2" source="#eddAnteBeck" xml:id="rdg7.7causa"
+                        exclude="#lem7.7causa">causa</rdg>
+                  </app> foret tibi <app>
+                     <lem wit="#N #G #V #r #s" source="#n #o #Ulit. #BeckSqq" xml:id="lem7.7causa"
+                        exclude="#rdg7.7causa">causa</lem>
+                     <rdg wit="#γ #ε #μ #δ #ρ2" source="#eddAnteBeck" xml:id="rdg7.7tanta"
+                        exclude="#lem7.7tanta">tanta</rdg>
+                  </app> morandi,</l>
+               <l n="8">cur tua <app>
+                     <lem xml:id="lem7.8cessaret">cessaret</lem>
+                     <rdgGrp type="anteCorr">
+                        <rdg wit="#N" varSeq="1">cesaret</rdg>
+                        <rdg wit="#N2" varSeq="2" copyOf="#lem7.8cessaret"/>
+                     </rdgGrp>
+                  </app>
+                  <app>
+                     <lem>taciturnis</lem>
+                     <rdg wit="#G">taciturnus</rdg>
+                  </app> fistula silvis</l>
+               <l n="9">et solus <app>
+                     <lem>Stimicon</lem>
+                     <rdg wit="#ν #ε #γ #η #r #e #d2" source="#l2">stymicon</rdg>
+                     <rdg wit="#π #μ">stimichon</rdg>
+                  </app> caneret <app>
+                     <lem>pallente</lem>
+                     <rdg wit="#π #χ #ρ #φ #ν #β #κ #λ #η #θ #α1 #r">fallente</rdg>
+                     <rdg wit="#μ">palente</rdg>
+                     <rdg source="#Heins.">palante</rdg>
+                  </app>
+                  <app>
+                     <lem wit="#G #λ #δ" source="#edd.">corymbo</lem>
+                     <rdg wit="#N #V #r #e #u">corimbo</rdg>
+                     <rdgGrp type="conjectures">
+                        <rdg source="#Wernsd.">cicuta</rdg>
+                        <rdg source="#Wernsd.">canali</rdg>
+                     </rdgGrp>
+                  </app>:</l>
+               <l n="10">quem sine te maesti tenero donavimus <app>
+                     <lem wit="#ν" source="#edd.">haedo</lem>
+                     <rdg wit="#G #ε #γ #μ #χ #π #e #u">edo</rdg>
+                     <rdg wit="#N #κ #λ #β #b" source="#n">hedo</rdg>
+                     <rdg wit="#δ #ρ #α #φ">aedo</rdg>
+                     <rdg source="#o #g #l2 #i2 #p #Ulit. #h #t #Burm.">hoedo</rdg>
+                  </app>.</l>
+               <l n="11">nam, dum lentus <app>
+                     <lem>abes</lem>
+                     <rdg wit="#G">herus</rdg>
+                     <rdg wit="#e #u #b" xml:id="rdg7.11habes">habes</rdg>
+                     <witDetail wit="#b">(corr. <ref target="#Guid.">Guid.</ref>)</witDetail>
+                  </app>, lustravit <app>
+                     <lem>ovilia</lem>
+                     <rdg wit="#N">ovillia</rdg>
+                  </app>
+                  <app>
+                     <lem wit="#γ #ρ2" source="#edd.">Thyrsis</lem>
+                     <rdg wit="#N">tirsis</rdg>
+                     <rdg wit="#G #ε #u #e #b" source="#n #o">tyrsis</rdg>
+                     <rdg wit="#λ #π #α #μ #φ #β #ρ1">tirsus</rdg>
+                     <rdg wit="#ν #η #θ #r">thyrsus</rdg>
+                     <rdg wit="#δ #κ #χ">tyrsus</rdg>
+                     <rdg wit="#s">thirsus</rdg>
+                  </app>,</l>
                <l n="12">iussit et arguta iuvenes certare cicuta.</l>
             </sp>
             <sp who="#Corydon">
                <speaker>C.</speaker>
-               <l n="13">Sit licet invictus Stimicon et praemia dives</l>
-               <l n="14">auferat, accepto nec solum gaudeat haedo,</l>
-               <l n="15">verum tota ferat quae lustrat ovilia Thyrsis:</l>
+               <l n="13"><app>
+                     <lem wit="#γ #α2" source="#Barth #Gudius #Burm. #Beck #Baehr. #Schenkl">Sit
+                        licet</lem>
+                     <rdg wit="#N">sel'</rdg>
+                     <rdg wit="#N2 #G #V" source="#edd.">scilicet</rdg>
+                  </app>
+                  <app>
+                     <lem>invictus Stimicon <app>
+                           <lem>et</lem>
+                           <rdgGrp type="multiVariants">
+                              <rdg source="#Glaeser">ut</rdg>
+                              <rdg source="#Glaeser">haec</rdg>
+                           </rdgGrp>
+                        </app>
+                        <app>
+                           <lem>praemia</lem>
+                           <rdg wit="#δ #η #φ #μ #π #ε #χ #e #u #b">premia</rdg>
+                           <rdg wit="#γ">proemia</rdg>
+                           <rdg wit="#λ #θ">prelia</rdg>
+                        </app> dives</lem>
+                     <rdgGrp type="conjectures">
+                        <rdg source="#Heins.">invitis Stimicon ut praemia divis</rdg>
+                        <rdg source="#Heins.">invictus Stimicon et praemia silvis</rdg>
+                        <!-- vel tantum <hi rend="#italic">silvis</hi> pro <hi rend="#italic">dites</hi> -->
+                     </rdgGrp>
+                  </app></l>
+               <l n="14">auferat, accepto <app>
+                     <lem wit="#N #G #H" source="#Heins. #Burm. #Beck #Baehr. #Schenkl">nec</lem>
+                     <rdg wit="#V" source="#edd.">non</rdg>
+                  </app> solum gaudeat haedo,</l>
+               <l n="15">verum <app>
+                     <lem>tota</lem>
+                     <rdg wit="#κ #ρ #ν #η #χ #π #φ #θ #r #s">tuta</rdg>
+                  </app> ferat quae lustrat ovilia <app>
+                     <lem>Thyrsis</lem>
+                     <rdg wit="#G">tyrsis</rdg>
+                     <rdg wit="#N">tirsis</rdg>
+                  </app>:</l>
                <l n="16">non tamen aequabit mea gaudia; nec mihi, si quis</l>
-               <l n="17">omnia Lucanae donet pecuaria silvae,</l>
-               <l n="18">grata magis fuerint quam quae spectavimus urbe.</l>
+               <l n="17">omnia Lucanae <app>
+                     <lem>Thyrsis</lem>
+                     <rdg wit="#G">tyrsis</rdg>
+                     <rdg wit="#N">tirsis</rdg>
+                  </app> pecuaria silvae,</l>
+               <l n="18">grata magis fuerint quam quae <app>
+                     <lem wit="#Α #Η #κ #χ" source="#Heins. #Baehr. #Schenkl">spectavimus</lem>
+                     <rdg wit="#G">spettamus in</rdg>
+                     <rdg wit="#N #V" source="#edd.">spectamus in</rdg>
+                     <rdg wit="#δ">expectamus</rdg>
+                     <rdg source="#Glaeser">spectantur in</rdg>
+                  </app> urbe.</l>
             </sp>
             <sp who="#Lycotas">
                <speaker>L.</speaker>
-               <l n="19">Dic age dic, Corydon, nec nostras invidus aures</l>
-               <l n="20">despice: non aliter certe mihi dulce loquere,</l>
-               <l n="21">quam cantare soles, quotiens ad sacra vocatur</l>
-               <l n="22">aut fecunda Pales aut pastoralis Apollo.</l>
+               <l n="19">Dic age dic, Corydon, nec nostras invidus <app>
+                     <lem xml:id="lem7.19aures">aures</lem>
+                     <rdgGrp type="anteCorr">
+                        <rdg wit="#G" varSeq="1">arte</rdg>
+                        <rdg wit="#G" varSeq="2"><del>arte</del><add copyOf="#lem7.10aures"/></rdg>
+                     </rdgGrp>
+                     <!-- arte (del.) aures G. -->
+                  </app></l>
+               <l n="20"><app>
+                     <lem>despice</lem>
+                     <rdg source="#Baehr.">decipe</rdg>
+                  </app>: non aliter certe mihi dulce <app>
+                     <lem>loquere</lem>
+                     <rdg wit="#δ">liquore</rdg>
+                  </app>,</l>
+               <l n="21"><app>
+                     <lem>quam</lem>
+                     <rdg wit="#π #κ #α">quod</rdg>
+                  </app>
+                  <app>
+                     <lem wit="#N #G #s" source="Gudius #GlaeserSqq">cantare</lem>
+                     <rdg wit="#V" source="#eddAnteGlaeser">certare</rdg>
+                  </app>
+                  <app>
+                     <lem wit="#s" source="#pSqq">soles</lem>
+                     <rdg wit="#N #G #π #κ #χ #λ #ν #φ #ρ #η #β #θ #r">solet</rdg>
+                     <rdg wit="#G #ε #γ #μ #α #δ" source="#eddAntep">solent</rdg>
+                  </app>, quotiens ad sacra <app>
+                     <lem wit="#N #η #β #ρ #λ #π #χ #ν #φ #κ #r #s" source="#pSqq">vocatur</lem>
+                     <rdg wit="#G">vocatu<del>s</del>r</rdg>
+                     <!-- vocatusr (s del.) -->
+                     <rdg wit="#γ #μ #α #ε" source="#eddAntep #Keene">vocantur</rdg>
+                     <rdg wit="#δ">vocabar</rdg>
+                     <rdg wit="#d2">vacantur</rdg>
+                     <rdg source="#Glaeser">vocabat</rdg>
+                  </app></l>
+               <l n="22">aut <app>
+                     <lem>fecunda</lem>
+                     <rdg wit="#κ #ρ #γ1 #π #μ #χ #β">facunda</rdg>
+                     <rdg wit="#u">secunda</rdg>
+                  </app> Pales aut pastoralis Apollo.</l>
             </sp>
             <sp who="#Corydon">
                <speaker>C.</speaker>
-               <l n="23">Vidimus in caelum trabibus spectacula textis</l>
-               <l n="24">surgere, Tarpeium prope despectantia culmen;</l>
-               <l n="25">emensique gradus et clivos lene iacentes</l>
-               <l n="26">venimus ad sedes, ubi pulla sordida veste</l>
-               <l n="27">inter femineas spectabat turba cathedras.</l>
-               <l n="28">nam quaecumque patent sub aperto libera caelo,</l>
-               <l n="29">aut eques aut nivei loca densavere tribuni.</l>
-               <l n="30">qualiter haec patulum concedit vallis in orbem</l>
-               <l n="31">et sinuata latus resupinis undique silvis</l>
-               <l n="32">inter continuos curvatur concava montes,</l>
-               <l n="33">sic ibi planitiem curvae sinus ambit harenae</l>
-               <l n="34">et geminis medium se molibus alligat ovum.</l>
-               <l n="35">quid tibi nunc referam, quae vix suffecimus ipsi</l>
-               <l n="36">per partes spectare suas? sic undique fulgor</l>
-               <l n="37">percussit. stabam defixus et ore patenti </l>
-               <l n="38">cunctaque mirabar necdum bona singula noram,</l>
-               <l n="39">cum mihi tum senior, lateri qui forte sinistro</l>
-               <l n="40">iunctus erat, “quid te stupefactum, rustice”, dixit</l>
-               <l n="41">“ad tantas miraris opes, qui nescius auri</l>
-               <l n="42">sordida tecta, casas, et sola mapalia nosti?</l>
-               <l n="43">en ego iam tremulus et vertice canus et ista</l>
-               <l n="44">factus in urbe senex stupeo tamen omnia: certe</l>
-               <l n="45">vilia sunt nobis quaecumque prioribus annis</l>
-               <l n="46">vidimus, et sordet quidquid spectavimus olim.</l>
-               <l n="47">balteus en gemmis, en illita porticus auro</l>
-               <l n="48">certatim radiant; nec non, ubi finis harenae</l>
-               <l n="49">proxima marmoreo praebet spectacula muro,</l>
-               <l n="50">sternitur adiunctis ebur admirabile truncis</l>
-               <l n="51">et coit in rotulum, tereti qui lubricus axe</l>
-               <l n="52">impositos subita vertigine falleret ungues</l>
-               <l n="53">excuteretque feras. auro quoque torta refulgent</l>
-               <l n="54">retia, quae totis in harenam dentibus exstant,</l>
-               <l n="55">dentibus aequatis; et erat (mihi crede, Lycota,</l>
-               <l n="56">si qua fides) nostro dens longior omnis aratro.</l>
-               <l n="57">ordine quid referam? vidi genus omne ferarum,</l>
-               <l n="58">hic niveos lepores et non sine cornibus apros,</l>
-               <l n="59">hic raram silvis etiam, quibus editur, alcen.</l>
-               <l n="60">vidimus et tauros, quibus aut cervice levata</l>
-               <l n="61">deformis scapulis torus eminet aut quibus hirtae</l>
-               <l n="62">iactantur per colla iubae, quibus aspera mento</l>
-               <l n="63">barba iacet tremulisque rigent palearia saetis.</l>
-               <l n="64">nec solum nobis silvestria cernere monstra</l>
-               <l n="65">contigit: aequoreos ego cum certantibus ursis</l>
-               <l n="66">spectavi vitulos et equorum nomine dictum,</l>
-               <l n="67">sed deforme pecus, quod in illo nascitur amne,</l>
-               <l n="68">qui sata riparum vernantibus irrigat undis.</l>
-               <l n="69">a! trepidi quotiens sola discedentis harenae</l>
-               <l n="70">vidimus in partes, ruptaque voragine terrae</l>
-               <l n="71">emersisse feras; et in isdem saepe cavernis</l>
-               <l n="72">aurea cum subito creverunt arbuta nimbo.</l>
+               <l n="23">Vidimus in caelum trabibus spectacula <app>
+                     <lem>textis</lem>
+                     <rdg wit="#G" source="#i1 #l1 #Vienn.">testis</rdg>
+                  </app></l>
+               <l n="24">surgere, Tarpeium <app>
+                     <lem>prope</lem>
+                     <rdg source="#Modius">probe</rdg>
+                  </app> despectantia culmen;</l>
+               <l n="25"><app>
+                     <lem source="#Schrader #Haupt #Baehr. #Schenkl" xml:id="lem7.25emensique"
+                        >emensique</lem>
+                     <note target="#lem7.25emensique"><ref target="#Schraeder">Schraeder</ref> (apud
+                           <ref target="#Brantsma">Brantsmam</ref> in spec. obss. p. 15, Franequerae
+                        1762)</note>
+                     <!-- Actually, this reference is from Haupt. The original is not available online, and it's owned by only three libraries, all in the Netherlands. -->
+                     <rdg wit="#ω" source="#edd." xml:id="rdg7.25immensoque">immensoque</rdg>
+                     <witDetail wit="#ω">(inmensoque <ref target="#G">G</ref>)</witDetail>
+                     <!--immensoque (inm. G)-->
+                  </app> gradus <app>
+                     <lem>et</lem>
+                     <rdg source="#Heins.">ceu</rdg>
+                     <rdg source="#Burm.">ut</rdg>
+                  </app>
+                  <app>
+                     <lem wit="#A #H #α #λ #φ" source="#edd." xml:id="lem7.25clivos">clivos</lem>
+                     <witDetail wit="#φ">(in mg.)</witDetail>
+                     <!--φ (in mg.)-->
+                     <rdg wit="#N #G #V #r #u #s" source="#l2 #i2">divos</rdg>
+                     <rdg wit="#ε #e #d" source="#Nordh.">dives</rdg>
+                  </app> lene iacentes</l>
+               <l n="26">venimus <app>
+                     <lem>ad</lem>
+                     <rdg wit="G">in</rdg>
+                  </app> sedes, ubi pulla sordida <app>
+                     <lem>veste</lem>
+                     <rdg wit="#γ #ε2 #e #u" source="#l2">vesta</rdg>
+                  </app></l>
+               <l n="27">inter femineas spectabat turba <app>
+                     <lem>cathedras</lem>
+                     <rdg wit="#G"><add place="margin">catervas</add></rdg>
+                     <!--G (in mg.)-->
+                  </app>.</l>
+               <l n="28">nam quaecumque <app>
+                     <lem>patent</lem>
+                     <rdg wit="#λ">patet</rdg>
+                     <rdg wit="#χ">parent</rdg>
+                     <rdg wit="#u #b" xml:id="rdg7.28petent">petent</rdg>
+                     <witDetail wit="#b">(corr. <ref target="#Guid.">Guid.</ref>)</witDetail>
+                     <rdg source="#Barth">petant</rdg>
+                  </app> sub aperto libera caelo,</l>
+               <l n="29">aut <app>
+                     <lem>eques</lem>
+                     <rdg wit="#φ #η #r">equos</rdg>
+                  </app> aut nivei loca <app>
+                     <lem>densavere</lem>
+                     <rdg wit="#N">densavuere</rdg>
+                     <rdg source="#Heins.">densa habuere</rdg>
+                  </app> tribuni.</l>
+               <l n="30">qualiter <app>
+                     <lem>haec</lem>
+                     <rdg wit="#G">hoc</rdg>
+                  </app> patulum <app>
+                     <lem wit="#N #G" source="#Burm. #GlaeserSqq">concedit</lem>
+                     <rdg wit="#V" source="#eddAnteGlaeser">contendit</rdg>
+                  </app>
+                  <app>
+                     <lem xml:id="lem7.30vallis">vallis</lem>
+                     <rdgGrp type="anteCorr">
+                        <rdg wit="#N" varSeq="1">valis</rdg>
+                        <rdg wit="#N2" varSeq="2" copyOf="#lem7.30vallis"/>
+                     </rdgGrp>
+                     <!--N (corr. m2)-->
+                  </app> in orbem</l>
+               <l n="31">et sinuata <app>
+                     <lem>latus</lem>
+                     <rdg wit="#d2" source="#Nordh.">lacus</rdg>
+                  </app> resupinis undique silvis</l>
+               <app>
+                  <lem><l n="32">inter <app>
+                           <lem>continuos</lem>
+                           <rdg wit="#u" source="#g #i1 #l2">continuas</rdg>
+                           <rdg wit="#b">contivas</rdg>
+                        </app>
+                        <app>
+                           <lem>curvatur</lem>
+                           <rdg wit="G"><add place="margin">curvantur</add></rdg>
+                           <!--G (in mg.)-->
+                        </app> concava montes,</l>
+                     <l n="33">sic <app>
+                           <lem wit="#N" source="#Barth #Heins. #GlaeserSqq">ibi</lem>
+                           <rdg wit="#G #A" source="#eddAnteGlaeser">tibi</rdg>
+                        </app> planitiem curvae sinus ambit <app>
+                           <lem>harenae</lem>
+                           <rdg wit="#N">harene</rdg>
+                           <rdg wit="#G #A">arenae</rdg>
+                        </app></l>
+                     <l n="34">et geminis medium se <app>
+                           <lem>molibus</lem>
+                           <rdg wit="#N #A #u" source="#g #l2">mollibus</rdg>
+                        </app> alligat ovum.</l></lem>
+                  <rdg wit="#V #r #e #s #d #Nordh." xml:id="rdglines32-34"/>
+                  <witDetail wit="#V" target="#rdglines32-34">(add. <ref target="#A"
+                     >A</ref>)</witDetail>
+                  <note target="#rdglines32-34">vv. 32-34 om. <ref target="#V">V</ref> (add. <ref
+                        target="#A">A</ref>) <ref target="#r">r</ref>
+                     <ref target="#e">e</ref>
+                     <ref target="#s">s</ref>
+                     <ref target="#d">d</ref>
+                     <ref target="#Nordh.">Nordh.</ref></note>
+               </app>
+               <l n="35">quid tibi nunc referam, quae vix <app>
+                     <lem>suffecimus</lem>
+                     <rdg wit="#G">subfecimus</rdg>
+                     <rdg wit="#ρ1 #u #d2" source="#g #l2 #i2 #Barth">sufficimus</rdg>
+                  </app> ipsi</l>
+               <l n="36">per partes <app>
+                     <lem>spectare</lem>
+                     <rdg wit="#G">spettare</rdg>
+                  </app> suas? <app>
+                     <lem>sic</lem>
+                     <rdg wit="#η #φ #ν1 #θ #r">it</rdg>
+                     <rdg wit="#s">is me</rdg>
+                  </app> undique fulgor</l>
+               <l n="37">percussit. stabam defixus et ore <app>
+                     <lem>patenti</lem>
+                     <rdg wit="#N" source="#Burm.">parenti</rdg>
+                  </app>
+               </l>
+               <l n="38"><app>
+                     <lem>cunctaque</lem>
+                     <rdg wit="#N">conctaque</rdg>
+                     <rdg wit="#G">cuntaque</rdg>
+                  </app> mirabar <app>
+                     <lem>necdum</lem>
+                     <rdg source="#Burm.">nec enim</rdg>
+                  </app>
+                  <app>
+                     <lem>bona</lem>
+                     <rdg wit="#λ2" source="#Heins. #Beck #Leo">bene</rdg>
+                  </app> singula noram,</l>
+               <l n="39"><app>
+                     <lem><app>
+                           <lem wit="#N #G #ρ2" source="#Baehr. #Schenkl">cum</lem>
+                           <rdg wit="#ε #λ #μ #γ #α #β #η1" source="#edd.">tum</rdg>
+                           <rdg wit="#π #φ #ρ1 #ν #κ #χ #δ #η2 #θ #r">tu</rdg>
+                        </app> mihi <app>
+                           <lem wit="#N #G #κ #χ #β #λ #ρ1 #α" source="#Beck #Glaeser #Keene"
+                              xml:id="lem7.39tum">tum</lem>
+                           <note target="#lem7.39tum">(cfr. <ref target="#HousmanManil">A. E.
+                                 Housman</ref>
+                              <ref
+                                 target="https://books.google.com/books?id=78dEAQAAIAAJ&amp;dq=housman%20manilius&amp;pg=PA6#v=onepage&amp;q=housman%20manilius&amp;f=false"
+                                 >ad. Manil. I 58</ref>)</note>
+                           <rdg wit="#H #ε #ρ2 #e #d2" source="#Wernsd.">tunc</rdg>
+                           <rdg wit="#π #δ #γ #μ">cum</rdg>
+                           <rdg wit="#φ #η #θ" source="#edd.">dum</rdg>
+                        </app> senior, lateri qui</lem>
+                     <!-- Deal with this!!! -->
+                     <rdg source="#Barth">tum senior mihi dum lateri qui</rdg>
+                     <rdg source="#Burm.">quum mihi qui senior lateri tum</rdg>
+                     <rdgGrp type="conjectures">
+                        <rdg source="#Ulit.">tum mihi tum senior lateri quis</rdg>
+                        <rdg source="#Ulit.">tum mihi dum senior lateri quis</rdg>
+                     </rdgGrp>
+                  </app> forte <app>
+                     <lem>sinistro</lem>
+                     <rdg wit="#G">sinixtro</rdg>
+                  </app></l>
+               <l n="40">iunctus erat, “<app>
+                     <lem wit="#H #γ #ε #π2 #ρ2" source="#edd.">quid te</lem>
+                     <rdg wit="#N #G #μ">qui me</rdg>
+                     <rdg wit="#V #r #s">quid me</rdg>
+                     <rdg source="#Ulit.">quid tu</rdg>
+                     <rdg source="#Heins.">quo te</rdg>
+                     <rdg source="#Burm. #Friesemann">quid ni</rdg>
+                  </app>
+                  <app>
+                     <lem>stupefactum</lem>
+                     <rdg wit="#φ" source="#Ulit. #Friesemann" xml:id="rdg7.40stupefactus"
+                        >stupefactus</rdg>
+                     <note target="#rdg7.40stupefactus"><ref target="#Friesemann">Friesemann</ref>
+                           (<ref
+                           target="https://books.google.com/books?id=hu5WAAAAcAAJ&amp;pg=PA181#v=onepage&amp;q&amp;f=false"
+                           >coll. crit. p. 181</ref>)--></note>
+                  </app>, rustice”, dixit</l>
+               <l n="41">“<app>
+                     <lem>ad</lem>
+                     <rdg wit="#G">non</rdg>
+                     <rdg wit="#s" source="#Carrio">ac</rdg>
+                     <rdg source="#Heins.">quid</rdg>
+                  </app> tantas <app>
+                     <lem>miraris</lem>
+                     <rdg wit="#ν #κ #π #λ #φ #μ #χ #δ #η #θ #β #r">mireris</rdg>
+                     <rdgGrp type="conjectures">
+                        <rdg source="#Burm.">mirarer</rdg>
+                        <rdg source="#Burm.">non mirer</rdg>
+                        <rdg source="#Burm.">te mirer</rdg>
+                     </rdgGrp>
+                  </app> opes, qui nescius auri</l>
+               <l n="42">sordida <app>
+                     <lem>tecta</lem>
+                     <rdg source="#Burm.">tesqua</rdg>
+                  </app>, <app>
+                     <lem>casas</lem>
+                     <rdg wit="#ν #φ #η #θ #r">dabas</rdg>
+                     <rdg wit="#s">vides</rdg>
+                  </app>, et sola mapalia <app>
+                     <lem>nosti</lem>
+                     <rdg wit="#s" source="#n">nostri</rdg>
+                  </app>?</l>
+               <l n="43">en ego <app>
+                     <lem wit="#N #G #s" source="#Friesemann #GlaeserSqq">iam</lem>
+                     <rdg wit="#V" source="#eddAnteGlaeser">tam</rdg>
+                  </app> tremulus <app>
+                     <lem wit="#N #G #V #r #s" source="#GlaeserSqq">et</lem>
+                     <rdg wit="#A #H #ε" source="#eddAnteGlaeser">tam</rdg>
+                     <rdg source="#Friesemann #LMueller">iam</rdg>
+                  </app> vertice canus et <app>
+                     <lem>ista</lem>
+                     <rdg source="#Friesemann" xml:id="rdg7.43ipsa">ipsa</rdg>
+                     <note target="#rdg7.43ipsa"><ref target="#Friesemann">Friesemann</ref> (<ref
+                           target="https://books.google.com/books?id=hu5WAAAAcAAJ&amp;pg=PA182#v=onepage&amp;q&amp;f=false"
+                           >coll. crit. p. 182</ref>)</note>
+                  </app></l>
+               <l n="44"><app>
+                     <lem xml:id="line7.44">factus in urbe senex stupeo tamen omnia: certe</lem>
+                     <note target="#line7.44">plerique <ref target="#eddAnteBurm">edd. ante
+                           Burm.</ref> post <hi rend="italic">tamen</hi> interpunxerunt, post <hi
+                           rend="italic">omnia</hi>
+                        <ref target="#BurmSqq">Burm. et sqq.</ref>, post <hi rend="italic"
+                           >certe</hi>
+                        <ref target="#LMueller">L. Mueller</ref> (<ref
+                           target="http://hdl.handle.net/2027/uiug.30112023962282?urlappend=%3Bseq=674"
+                           >l. l. p. 1072</ref>)</note>
+                  </app></l>
+               <l n="45"><app>
+                     <lem>vilia</lem>
+                     <rdg wit="#N">villia</rdg>
+                  </app> sunt nobis quaecumque prioribus annis</l>
+               <l n="46">vidimus, et <app>
+                     <lem>sordet</lem>
+                     <rdg wit="#G">scribet</rdg>
+                  </app>
+                  <app>
+                     <lem wit="#G #ε">quidquid</lem>
+                     <rdg wit="#N #V">quicquid</rdg>
+                  </app> spectavimus olim.</l>
+               <l n="47"><app>
+                     <lem>balteus</lem>
+                     <rdg wit="#G">baltheus</rdg>
+                  </app>
+                  <app>
+                     <lem>en gemmis, en illita porticus auro</lem>
+                     <rdg wit="#λ"/>
+                  </app></l>
+               <l n="48">certatim radiant; <app>
+                     <lem>nec</lem>
+                     <rdg wit="#G">ne</rdg>
+                  </app> non, <app>
+                     <lem wit="#V" source="#edd." xml:id="lem7.48ubi">ubi</lem>
+                     <rdg wit="#G #H" xml:id="rdg7.48tibi">tibi</rdg>
+                     <rdgGrp type="anteCorr">
+                        <rdg wit="#N" varSeq="1" copyOf="#rdg7.48tibi"/>
+                        <rdg wit="#N2" varSeq="2" copyOf="#lem7.48ubi"/>
+                     </rdgGrp>
+                     <!--N (in quo corr. m2)-->
+                  </app> finis <app>
+                     <lem wit="#κ #γ #ε #β #η2">harenae</lem>
+                     <rdg wit="#N #G #π #χ">harene</rdg>
+                     <rdg wit="#V">arenae</rdg>
+                     <rdg wit="#μ">arene</rdg>
+                     <rdg wit="#d1">arena</rdg>
+                     <rdg wit="#d2">harena</rdg>
+                  </app></l>
+               <l n="49">proxima <app>
+                     <lem>marmoreo</lem>
+                     <rdg wit="#N">marmorea</rdg>
+                  </app>
+                  <app>
+                     <lem wit="#N #G" source="#GlaeserSqq">praebet</lem>
+                     <rdg wit="#V" source="#eddAnteGlaeser">peragit</rdg>
+                     <rdg wit="#δ">peragat</rdg>
+                  </app> spectacula muro,</l>
+               <l n="50"><app>
+                     <lem wit="#ω" source="#edd." xml:id="lem7.50sternitur">sternitur</lem>
+                     <witDetail wit="#ω">(in <ref target="#G">G</ref>
+                        <hi rend="italic">t</hi> pr. s.v.)</witDetail>
+                     <!-- ω (in G t pr. s. v.) -->
+                     <rdg source="#Glaeser">cernitur</rdg>
+                     <rdg source="#Baehr.">tenditur</rdg>
+                  </app>
+                  <app>
+                     <lem>adiunctis</lem>
+                     <rdg source="#Heins.">advectis</rdg>
+                  </app> ebur admirabile truncis</l>
+               <l n="51"><app>
+                     <lem>et</lem>
+                     <rdg source="#Baehr.">nam</rdg>
+                  </app>
+                  <app>
+                     <lem wit="#G #γ #μ #ε #α #β #κ2 #ρ2" source="#edd." xml:id="lem7.51coit"
+                        >coit</lem>
+                     <rdgGrp type="anteCorr">
+                        <rdg wit="#N" varSeq="1">cogit</rdg>
+                        <rdg wit="#N2" varSeq="2" copyOf="#lem7.51coit"/>
+                     </rdgGrp>
+                     <!-- N (corr. m2) -->
+                     <rdg wit="#λ #ν #φ #ρ1 #η #θ #r">colit</rdg>
+                     <rdg wit="#π #χ #κ1 #δ">cohit</rdg>
+                  </app>
+                  <app>
+                     <lem wit="#θ #ρ1 #r" source="#BeckSqq">in rotulum</lem>
+                     <rdg wit="#N #G #V" source="#eddAnteBeck">in rutilum</rdg>
+                     <rdg wit="#ρ2 #ν #u" source="#Salmasius #Wernsd." xml:id="rdg7.51in_rutulum">in
+                        rutulum</rdg>
+                     <note target="#rdg7.51in_rutulum"><ref target="#SalmasiusHist">Salmasius</ref>
+                           (<ref
+                           target="https://books.google.com/books?id=HmlUAAAAcAAJ&amp;dq=Historiae%20augustae%20scriptores%20salmasius&amp;pg=PA437#v=onepage&amp;q&amp;f=false"
+                           >ad Hist. Aug. p. 437</ref>)</note>
+                     <rdg wit="#η">in rotolum</rdg>
+                     <rdg wit="#φ">hirotulum</rdg>
+                     <rdg wit="#μ">in rictulum</rdg>
+                     <rdgGrp type="conjectures">
+                        <rdg source="#Lipsius">in rotulam</rdg>
+                        <rdg source="#Lipsius">in ruplum</rdg>
+                     </rdgGrp>
+                     <rdg wit="#s" source="#n #o #p #h #Ulit.">in rotulam</rdg>
+                     <rdg source="#Barth">in pluteum</rdg>
+                  </app>, <app>
+                     <lem wit="#N">tereti</lem>
+                     <rdg source="#Lipsius">teretem</rdg>
+                     <rdg source="#Barth">teres hic</rdg>
+                  </app>
+                  <app>
+                     <lem wit="#N #G" source="#Salmasius #BeckSqq">qui</lem>
+                     <rdg wit="#V" source="#eddAnteBeck">qua</rdg>
+                     <rdg source="#Barth #Burm.">quo</rdg>
+                     <rdg wit="#γ"/>
+                  </app> lubricus <app>
+                     <lem source="#Salmasius #BurmSqq">axe</lem>
+                     <rdg wit="#N #G #λ #ε #π #α #β #γ #μ #δ #ρ2" source="#eddAnteBurm.">axem</rdg>
+                     <rdg wit="#κ #χ #ν #φ #η #θ #ρ1 #r">assem</rdg>
+                     <rdg source="#p #Barth #Ulit. #h.">axis</rdg>
+                  </app></l>
+               <app>
+                  <lem><l n="52">impositos subita vertigine <app>
+                           <lem>falleret</lem>
+                           <rdg wit="#N">fallaret</rdg>
+                        </app>
+                        <app>
+                           <lem wit="#A" source="#edd." xml:id="lem7.52ungues">ungues</lem>
+                           <rdgGrp type="anteCorr">
+                              <rdg wit="#N" varSeq="1">angues</rdg>
+                              <rdg wit="#N1" varSeq="2" copyOf="#lem7.52ungues"/>
+                           </rdgGrp>
+                           <!-- N (corr.m1) -->
+                           <rdg wit="#G">urgues</rdg>
+                        </app></l>
+                     <l n="53">excuteretque feras. auro quoque <app>
+                           <lem>torta</lem>
+                           <rdg source="#n #o">tota</rdg>
+                        </app> refulgent</l>
+                     <l n="54">retia, quae totis in <app>
+                           <lem wit="#A #G">harenam</lem>
+                           <rdg wit="#N">arenam</rdg>
+                        </app> dentibus exstant,</l></lem>
+                  <rdg wit="#V #r #e #s #d #c #Nordh." xml:id="rdg7.52-54"/>
+                  <witDetail wit="#V" target="#rdg7.52-54">(add. <ref target="#A"
+                     >A</ref>)</witDetail>
+                  <note target="#rdg7.52-64">vv. 52-54 om. <ref target="#V">V</ref> (add. <ref
+                        target="#A">A</ref>) <ref target="#r">r</ref>
+                     <ref target="#e">e</ref>
+                     <ref target="#s">s</ref>
+                     <ref target="#d">d</ref>
+                     <ref target="#c">c</ref>
+                     <ref target="#Nordh.">Nordh.</ref></note>
+               </app>
+               <l n="55"><app>
+                     <lem xml:id="lem7.55dentibus_aequatis">dentibus <app>
+                           <lem>aequatis</lem>
+                           <rdg source="#Ulit." xml:id="rdg7.55auratis">auratis</rdg>
+                           <note target="#rdg7.55auratis">(<ref
+                                 target="https://books.google.com/books?id=LxUinvgBdtMC&amp;pg=PA49#v=onepage&amp;q&amp;f=false"
+                                 >ad Gratii Cyn. v. 87</ref>)</note>
+                        </app></lem>
+                     <rdgGrp type="anteCorr">
+                        <rdg wit="#G" varSeq="1"/>
+                        <rdg wit="#G1" varSeq="2"><add place="margin"
+                              copyOf="#lem7.55dentibus_aequatis"/></rdg>
+                     </rdgGrp>
+                     <!-- G (add.m1 in mg.) -->
+                  </app>; et erat (mihi <app>
+                     <lem xml:id="lem7.55crede">crede</lem>
+                     <rdgGrp type="anteCorr">
+                        <rdg wit="#N" varSeq="1">creda</rdg>
+                        <rdg wit="#N2" varSeq="2" copyOf="#lem7.55crede"/>
+                     </rdgGrp>
+                     <!-- N (corr. m2) -->
+                  </app>, <app>
+                     <lem>Lycota</lem>
+                     <rdg wit="#N #G">Licota</rdg>
+                  </app>,</l>
+               <l n="56">si qua fides) <app>
+                     <lem>nostro</lem>
+                     <rdg wit="#G">nostra</rdg>
+                  </app>
+                  <app>
+                     <lem>dens</lem>
+                     <rdg wit="#λ"/>
+                     <rdg wit="#δ #μ #π">deus</rdg>
+                  </app> longior <app>
+                     <lem>omnis</lem>
+                     <rdg source="#Friesemann" xml:id="rdg7.56unus">unus</rdg>
+                     <note target="#rdg7.56unus">(<ref
+                           target="https://books.google.com/books?id=hu5WAAAAcAAJ&amp;pg=PA182#v=onepage&amp;q&amp;f=false"
+                           >l. l. p. 182</ref>) --></note>
+                  </app> aratro.</l>
+               <l n="57">ordine <app>
+                     <lem>quid</lem>
+                     <rdg wit="#G" source="#Baehr.">qui</rdg>
+                  </app>
+                  <app>
+                     <lem>referam? <app>
+                           <lem xml:id="lem7.57vidi">vidi</lem>
+                           <rdgGrp type="anteCorr">
+                              <rdg wit="#N" varSeq="1">v&#x305;<hi rend="stacked">i</hi></rdg>
+                              <rdg wit="#N2" varSeq="2" copyOf="#lem7.57vidi"/>
+                           </rdgGrp>
+                        </app> genus <app>
+                           <lem wit="#V">omne</lem>
+                           <rdg wit="#N #G">esse</rdg>
+                        </app> ferarum</lem>
+                     <rdg source="#Glaeser">referam, veluti genus ecce ferarum?</rdg>
+                  </app>,</l>
+               <l n="58"><app>
+                     <lem>hic</lem>
+                     <rdg wit="#G">hinc</rdg>
+                  </app> niveos lepores et non sine cornibus <app>
+                     <lem>apros</lem>
+                     <rdg source="#Heins.">uros</rdg>
+                  </app>,</l>
+               <l n="59"><app>
+                     <lem wit="#N #G #A #H" source="#GlaeserSqq">hic raram</lem>
+                     <rdg wit="#A" source="#eddAnteGlaeser" xml:id="rdg7.59manticoram"
+                        >manticoram</rdg>
+                     <witDetail wit="#A" target="#rdg7.59manticoram">(var.script.)</witDetail>
+                     <rdg wit="#ε #α #λ #γ #μ #e">nocticanam</rdg>
+                     <rdg wit="#φ #π #κ #χ #β">nicticanam</rdg>
+                     <rdg wit="#δ">hoc ticanam</rdg>
+                     <rdg wit="#ρ1">victimam</rdg>
+                     <rdg wit="#ν #η #ρ2 #θ #r #s">nycticanam</rdg>
+                     <rdg wit="#d #c">ast ursam in</rdg>
+                     <rdgGrp type="conjectures">
+                        <rdg source="#Ulit.">et canam</rdg>
+                        <rdg source="#Ulit.">Mantichoram et</rdg>
+                     </rdgGrp>
+                     <rdg source="#Spanheim" xml:id="rdg7.59manticoram_et">manticoram et</rdg>
+                     <note target="#rdg7.59manticoram_et">(<ref
+                           target="https://books.google.com/books?id=PxIL9N4gwK4C&amp;dq=Spanheim%20de%20praestantia%20manticoram&amp;pg=PA197#v=onepage&amp;q&amp;f=false"
+                           >de praestantia numism. diss. IV c. II sect. VI p. 197</ref>)</note>
+                     <rdg source="#i1 #l1">monticoram</rdg>
+                     <rdg source="#Postgate" xml:id="rdg7.59adclinem">adclinem</rdg>
+                     <note target="#rdg7.59adclinem">(Class. Rev. XV p. 213)</note>
+                  </app>
+                  <app>
+                     <lem>silvis etiam</lem>
+                     <rdg source="#n #o">rigidam et sylvis</rdg>
+                     <rdg source="#BarthClaud" xml:id="rdg7.59silvis_cinctam">silvis cinctam</rdg>
+                     <note target="#rdg7.59silvis_cinctam"><ref target="#BarthClaud">Barth.</ref>
+                           (<ref
+                           target="https://books.google.com/books?id=rCKBqXCArqIC&amp;lpg=PA1014-IA10&amp;ots=0ZdoKRfwgS&amp;dq=Principium%2C%20heroumque%20poetae%20praegloriosissimi%2C%20quae%20exstant&amp;pg=PA175#v=onepage&amp;q&amp;f=false"
+                           >ad Claud. cons. Mall. 293</ref>).</note>
+                  </app>, quibus editur, <app>
+                     <lem wit="#G #ε #α #λ #ν #φ #γ" source="#edd.">alcen</lem>
+                     <rdg wit="#N #β #κ #χ #ρ #π #μ #η #u #b" source="#g #i #l2">alcem</rdg>
+                     <rdg wit="#δ">alcon</rdg>
+                     <rdg wit="#d #c">alten</rdg>
+                     <rdg source="#Heins.">alce</rdg>
+                  </app>.</l>
+               <l n="60">vidimus et <app>
+                     <lem>tauros</lem>
+                     <rdg wit="#N">thauros</rdg>
+                  </app>, quibus aut cervice levata</l>
+               <l n="61">deformis <app>
+                     <!-- Apparatus has a typo: refers to line 81 instead of 61-->
+                     <lem>scapulis</lem>
+                     <rdg wit="#G #π #λ #δ">scopulis</rdg>
+                  </app>
+                  <app>
+                     <lem>torus</lem>
+                     <rdg wit="#N #η #β #ν #κ #χ #λ #ρ #μ #π #r">thorus</rdg>
+                  </app> eminet aut quibus <app>
+                     <lem wit="#A #π #ν #β #λ #κ #α #δ" source="#edd.">hirtae</lem>
+                     <rdg wit="#N #η #r">hirte</rdg>
+                     <rdg wit="#G #γ #e">hyrtae</rdg>
+                     <rdg wit="#μ #π #φ">hyrte</rdg>
+                     <rdg wit="#ε">hyrcae</rdg>
+                     <rdg wit="#χ">hitte</rdg>
+                     <rdg wit="#s">hirteae</rdg>
+                  </app></l>
+               <l n="62">iactantur per <app>
+                     <lem>colla</lem>
+                     <rdg wit="#N">cola</rdg>
+                  </app> iubae, <app>
+                     <lem>quibus</lem>
+                     <rdg wit="#π #φ #μ #ρ1 #κ #α #λ #ν #χ #β #δ #η #r">quis</rdg>
+                  </app> aspera <app>
+                     <lem>mento</lem>
+                     <rdg wit="#δ">merito</rdg>
+                  </app></l>
+               <l n="63">barba iacet tremulisque rigent palearia <app>
+                     <lem>saetis</lem>
+                     <rdg wit="#ω">setis</rdg>
+                  </app>.</l>
+               <l n="64"><app>
+                     <lem>nec</lem>
+                     <rdg wit="#κ #χ #π #ν #ρ #η #φ" source="#edd." xml:id="rdg7.64non">non</rdg>
+                     <note target="#rdg7.64non">edd. praeter <ref target="#e">e</ref>
+                        <ref target="#d">d</ref>
+                        <ref target="#u">u</ref>
+                        <ref target="#b">b</ref>
+                        <ref target="#i2">i²</ref>
+                        <ref target="#l2">l²</ref>
+                        <ref target="#Barth">Barth</ref>
+                        <ref target="#Beck">Beck</ref>
+                        <ref target="#Baehr.">Baehr.</ref>
+                        <ref target="#Schenkl">Schenkl</ref></note>
+                  </app> solum <app>
+                     <lem xml:id="lem7.64nobis">nobis</lem>
+                     <rdgGrp type="anteCorr">
+                        <rdg wit="#G" varSeq="1">nostris nobis</rdg>
+                        <rdg wit="#G" varSeq="2" copyOf="#lem7.64nobis"/>
+                     </rdgGrp>
+                     <!-- nostris (exp.) nobis G. -->
+                  </app> silvestria cernere <app>
+                     <lem>monstra</lem>
+                     <rdg wit="#G">mostra</rdg>
+                  </app></l>
+               <l n="65">contigit: <app>
+                     <lem wit="#ε #γ #β #λ" source="#edd.">aequoreos</lem>
+                     <rdg wit="#N #G" xml:id="rdg7.65equoreis">equor<add place="above"
+                        >e</add>is</rdg>
+                     <witDetail wit="#N" target="#rdg7.65equoreis">(in quo alt. <hi rend="italic"
+                           >e</hi> supra lin.)</witDetail>
+                     <rdg wit="#α #κ #ρ #φ #μ #π #δ #η #χ #r" source="#n #o">equoreos</rdg>
+                     <rdg wit="#ν">equoreus</rdg>
+                  </app> ego cum <app>
+                     <lem>certantibus</lem>
+                     <rdg wit="#G">concertantibus</rdg>
+                  </app> ursis</l>
+               <l n="66"><app>
+                     <lem>spectavi</lem>
+                     <rdg wit="#G">spettavi</rdg>
+                  </app> vitulos <app>
+                     <lem>et</lem>
+                     <rdg wit="#λ1 #d"/>
+                  </app> equorum nomine <app>
+                     <lem wit="#N #G #A" source="#Heins. #Ulit. #GlaeserSqq">dictum</lem>
+                     <rdg wit="#V #eddAnteGlaeser">dignum</rdg>
+                  </app>,</l>
+               <l n="67"><app>
+                     <lem>sed deforme</lem>
+                     <rdg wit="#s" source="#Barth">et deforme</rdg>
+                  </app> pecus, <app>
+                     <lem wit="#A #G #λ #β #ε #χ #ρ1 #γ #π #α #κ #μ" source="#edd.">quod in
+                        illo</lem>
+                     <rdgGrp type="multivariants">
+                        <rdg wit="#N">quod millo</rdg>
+                        <rdg wit="#N2">quod nillo</rdg>
+                     </rdgGrp>
+                     <!--millo (nillo m2)-->
+                     <rdg wit="#ν #φ #η #ρ2 #r" source="#n #o">quod nilo</rdg>
+                     <rdg wit="#δ">quid illo</rdg>
+                     <rdg wit="#s">quid nilo</rdg>
+                  </app>
+                  <app>
+                     <lem>nascitur</lem>
+                     <rdg wit="#δ #η #ν #φ #ρ #r #s" source="#n #o">pascitur</rdg>
+                  </app>
+                  <app>
+                     <lem source="#n #o #Barth #Baehr. #Schenkl">amne</lem>
+                     <rdg wit="#N">anne</rdg>
+                     <rdg wit="#G">anē</rdg>
+                     <rdg wit="#ε #μ #φ">anni</rdg>
+                     <rdg wit="#V" source="#edd.">amni</rdg>
+                  </app>,</l>
+               <l n="68">qui sata riparum <app>
+                     <lem wit="#N #G #A" source="#GlaeserSqq">vernantibus</lem>
+                     <rdg wit="#V" source="#eddAnteGlaeser">venientibus</rdg>
+                     <rdgGrp type="conjectures">
+                        <rdg source="#Heins.">vernantibus</rdg>
+                        <rdg source="#Heins.">refluentibus</rdg>
+                     </rdgGrp>
+                     <!-- vernantibus vel refluentibus Heins. -->
+                  </app> irrigat undis.</l>
+               <l n="69"><app>
+                     <lem source="#Baehr. #Schenkl">a!</lem>
+                     <rdg wit="#N #G #ν #λ #α #φ" source="#edd.">ah</rdg>
+                     <rdg wit="#V #e #u #b" source="#i1">ha</rdg>
+                  </app>
+                  <app>
+                     <lem><app>
+                           <lem>trepidi</lem>
+                           <rdg source="#Glaeser">trepidus</rdg>
+                        </app> quotiens</lem>
+                     <rdg wit="#α">quotiens trepidi</rdg>
+                  </app>
+                  <app>
+                     <lem source="#Haupt #Schenkl">sola discedentis</lem>
+                     <rdg wit="#N" xml:id="rdg7.69sol_discedentis">sol discedentis</rdg>
+                     <note target="#rdg7.69sol_discedentis">(<hi rend="italic">nos</hi> supra <hi
+                           rend="italic">sol</hi>
+                        <ref target="#N2">N²</ref>)--></note>
+                     <rdg wit="#G">sodiscendentis</rdg>
+                     <rdg wit="#V" source="#edd.">nos descendentis</rdg>
+                     <rdg source="#Lipsius #Burm. #Keene">nos discedentis</rdg>
+                     <rdg source="#Glaeser">sol discedentis</rdg>
+                     <rdg source="#Baehr.">se discindentis</rdg>
+                     <rdg source="#BarthClaud">noctem cedentis</rdg>
+                     <note target="#rdg7.69noctem_cedentis"><ref target="#BarthClaud">Barth</ref>
+                           (<ref
+                           target="https://books.google.com/books?id=rCKBqXCArqIC&amp;lpg=PA1014-IA10&amp;ots=0ZdoKRfwgS&amp;dq=Principium%2C%20heroumque%20poetae%20praegloriosissimi%2C%20quae%20exstant&amp;pg=PA181#v=onepage&amp;q&amp;f=false"
+                           >ad Claud. cons. Mall. 329</ref>)</note>
+                  </app> harenae</l>
+               <l n="70"><app>
+                     <lem>vidimus in partes</lem>
+                     <rdg source="#Maehly">vidimus in praeceps</rdg>
+                     <rdg source="#Haupt #Schenkl">vidimus inverti</rdg>
+                     <rdg wit="#π2" source="#o">vidimus in pratis</rdg>
+                     <rdgGrp type="conjectures">
+                        <rdg source="#Burm.">vidimus absorptas</rdg>
+                        <rdg source="#Burm.">vidimus immersas</rdg>
+                     </rdgGrp>
+                     <!-- v. absorptas vel immersas Burm. -->
+                     <rdg source="#Glaeser.">vim vidit sparsam</rdg>
+                  </app>, <app>
+                     <lem>ruptaque</lem>
+                     <rdg wit="#G">ructaque</rdg>
+                     <rdg wit="#φ #η">rapteque</rdg>
+                     <rdg wit="#ν">raptaque</rdg>
+                     <rdg source="#Ulit.">ruptaeque</rdg>
+                     <rdg source="#Burm.">raptasque</rdg>
+                  </app> voragine terrae</l>
+               <l n="71">emersisse <app>
+                     <lem>feras</lem>
+                     <rdg wit="#G">ferat</rdg>
+                     <rdg wit="#d #s">foras</rdg>
+                  </app>; <app>
+                     <lem source="#Baehr. #Schenkl">et in isdem</lem>
+                     <rdg wit="#N">in hisdem</rdg>
+                     <rdg wit="#G">in hysdem</rdg>
+                     <rdg wit="#ρ1">in iisdem</rdg>
+                     <rdg wit="#β #μ #π #ρ2">et iisdem</rdg>
+                     <rdg wit="#ε #α #γ #λ2" source="#edd.">et eisdem</rdg>
+                     <rdg wit="#η #ν #φ #r #s">et in iisdem</rdg>
+                     <rdg wit="#λ1">et eidem</rdg>
+                     <rdg wit="#κ #χ">et hisdem</rdg>
+                     <rdg wit="#δ">et aeisdem</rdg>
+                     <rdg source="#Glaeser #Keene">et ab isdem</rdg>
+                  </app> saepe <app>
+                     <lem wit="#N #G #A" source="#GlaeserSqq">cavernis</lem>
+                     <rdg wit="#V" source="#eddAnteGlaeser">latebris</rdg>
+                  </app></l>
+               <l n="72">aurea cum <app>
+                     <lem wit="#N" source="#Schenkl" xml:id="lem7.72subito">subito</lem>
+                     <rdgGrp type="anteCorr">
+                        <rdg wit="#G" varSeq="1">susito</rdg>
+                        <rdg wit="#G1" varSeq="2" copyOf="#lem7.72subito"/>
+                     </rdgGrp>
+                     <!--G (corr. m1)-->
+                     <rdg wit="#V" source="#edd.">croceo</rdg>
+                     <rdg source="#Baehr.">fulvo</rdg>
+                     <rdg wit="#δ">croco</rdg>
+                     <rdg wit="#μ">crocea</rdg>
+                  </app> creverunt <app>
+                     <lem xml:id="lem7.72arbuta">arbuta</lem>
+                     <rdgGrp type="anteCorr">
+                        <rdg wit="#N" varSeq="1" xml:id="rdg7.72arbuta">arbusta</rdg>
+                        <rdg wit="#N1" varSeq="2" copyOf="#lem7.72arbuta"/>
+                     </rdgGrp>
+                     <witDetail wit="#N" target="#rdg7.72arbuta">(<hi rend="italic">s</hi>
+                        exp.)</witDetail>
+                     <!--N (s exp.)-->
+                  </app>
+                  <app>
+                     <lem wit="#G #β #λ #α #κ #χ #μ" source="#Bartholinus #GlaeserSqq"
+                        xml:id="lem7.72nimbo">nimbo</lem>
+                     <note target="#lem7.72nimbo"><ref target="#Bartholinus">Bartholinus</ref> (<ref
+                           target="https://books.google.com/books?id=R-f-lEMwFq0C&amp;pg=PA15#v=onepage&amp;q&amp;f=false"
+                           >de luce Animal. I 3 p. 15</ref>)--></note>
+                     <rdg wit="#N #π #γ #ρ1" xml:id="rdg7.72nimbro">nimbro</rdg>
+                     <rdgGrp type="anteCorr">
+                        <rdg wit="#N" varSeq="1" copyOf="#rdg7.72nimbro" xml:id="rdg7.72nimbro1"/>
+                        <rdg wit="#N2" varSeq="2" copyOf="#lem7.72"/>
+                     </rdgGrp>
+                     <note target="#rdg7.72nimbro1">(corr. <ref target="#N2">N²</ref>, ut
+                        videtur</note>
+                     <!--N (corr. m2, ut videtur)-->
+                     <rdg wit="#A #δ">nymbo</rdg>
+                     <rdg wit="#ν #φ #ε #ρ2 #η #γ" source="#eddAnteGlaeser" xml:id="rdg7.72libro"
+                        >libro</rdg>
+                     <witDetail wit="#γ">(in mg.)</witDetail>
+                  </app>.</l>
             </sp>
             <sp who="#Lycotas">
                <speaker>L.</speaker>
-               <l n="73">O felix Corydon, quem non tremebunda senectus</l>
-               <l n="74">impedit! o felix, quod in haec tibi saecula primos</l>
-               <l n="75">indulgente deo demittere contigit annos!</l>
-               <l n="76">nunc, tibi si propius venerandum cernere numen</l>
-               <l n="77">fors dedit et praesens vultumque habitumque notasti,</l>
-               <l n="78">dic age dic, Corydon, quae sit mihi forma deorum.</l>
+               <l n="73">O felix <app>
+                     <lem>Corydon</lem>
+                     <rdg wit="#N #G">Coridon</rdg>
+                  </app>, quem non tremebunda senectus</l>
+               <l n="74"><app>
+                     <lem>impedit</lem>
+                     <rdg wit="#ν #φ #η #ρ1 #r #s" source="#p #h #Ulit. #Modius">impetit</rdg>
+                     <rdg source="#Titius">impulit</rdg>
+                  </app>! o felix, quod in haec tibi saecula <app>
+                     <lem>primos</lem>
+                     <rdg source="#Titius #Burm.">primo</rdg>
+                     <rdg source="#Baehr.">pronos</rdg>
+                  </app></l>
+               <l n="75">indulgente deo <app>
+                     <lem source="#Barth #BurmSqq">demittere</lem>
+                     <rdg wit="#N #V" source="#eddAnteBurm">dimittere</rdg>
+                     <rdg wit="#G">dimictere</rdg>
+                     <rdg wit="#α">dimittite</rdg>
+                  </app> contigit <app>
+                     <lem>annos</lem>
+                     <rdg wit="#μ #γ #κ #λ #χ #δ #β">agnos</rdg>
+                     <rdg wit="#φ">āndo</rdg>
+                  </app>!</l>
+               <l n="76">nunc, tibi si <app>
+                     <lem wit="#V" source="#edd.">propius</lem>
+                     <rdg wit="#N #G #ρ #δ #u">proprius</rdg>
+                     <rdg wit="#π">proprium</rdg>
+                  </app> venerandum cernere numen</l>
+               <l n="77"><app>
+                     <lem wit="#N #G" source="#Heins. #Schenkl">fors</lem>
+                     <rdg wit="#V" source="#edd.">sors</rdg>
+                     <rdg wit="#φ">sor</rdg>
+                  </app> dedit et <app>
+                     <lem wit="#N #G #ν #κ" source="#edd.">praesens</lem>
+                     <rdg wit="#χ #φ #π #ρ #η">presens</rdg>
+                     <rdg wit="#A #ε #α #δ #e #d2 #u #b" source="#g #i2 #l2 #Tig. #Gryph."
+                        >referens</rdg>
+                     <rdg wit="#μ #β">preferens</rdg>
+                     <!--. . . ferens λ, -->
+                     <rdg wit="#λ"><gap reason="lost" quantity="3" unit="character"/>ferens</rdg>
+                     <!-- Note use of <gap> here -->
+                     <rdg wit="#γ"/>
+                  </app>
+                  <app>
+                     <lem>vultumque habitumque</lem>
+                     <rdgGrp type="conjectures">
+                        <rdg source="#Haupt">vultus habitusque</rdg>
+                        <rdg source="#Haupt">habitum vultumque</rdg>
+                     </rdgGrp>
+                  </app> notasti,</l>
+               <l n="78">dic age dic, <app>
+                     <lem>Corydon</lem>
+                     <rdg wit="#N #G">Coridon</rdg>
+                  </app>, <app>
+                     <lem wit="#N #G #V #r #s" source="#GlaeserSqq">quae sit mihi</lem>
+                     <rdg wit="#A #ε #α #μ #γ" source="#eddAnteGlaeser">quae sit modo</rdg>
+                     <rdg wit="#π">quae sit in</rdg>
+                     <rdg source="#Burm. #Haupt #Baehr.">mihi quae sit</rdg>
+                     <rdg source="#Burm.">quae sit nova</rdg>
+                  </app> forma deorum.</l>
             </sp>
             <sp who="#Corydon">
                <speaker>C.</speaker>
-               <l n="79">O utinam nobis non rustica vestis inesset:</l>
-               <l n="80">vidissem propius mea numina! sed mihi sordes</l>
-               <l n="81">pullaque paupertas et adunco fibula morsu</l>
-               <l n="82">obfuerunt. utcumque tamen conspeximus ipsum</l>
-               <l n="83">longius; ac, nisi me visus decepit, in uno</l>
-               <l n="84">et Martis vultus et Apollinis esse putato.</l>
+               <l n="79">O utinam nobis non rustica vestis <app>
+                     <lem>inesset</lem>
+                     <rdg source="#Haupt #Schenkl1">obesset</rdg>
+                  </app>:</l>
+               <l n="80"><app>
+                     <lem>vidissem</lem>
+                     <rdg wit="#s" source="#n">vidisset</rdg>
+                  </app>
+                  <app>
+                     <lem wit="#V" source="#edd.">propius</lem>
+                     <rdg wit="#N #G #μ #δ #ρ1 #u">proprius</rdg>
+                  </app> mea numina! sed mihi sordes</l>
+               <l n="81"><app>
+                     <lem>pullaque</lem>
+                     <rdg wit="#ν #φ #η #ρ2 #r #s" source="#n #o">nudaque</rdg>
+                  </app> paupertas et <app>
+                     <lem>adunco</lem>
+                     <rdg wit="#δ">obunco</rdg>
+                     <rdg source="#Heins.">aheno</rdg>
+                     <rdg source="#Ulit.">adeso</rdg>
+                  </app> fibula morsu</l>
+               <l n="82"><app>
+                     <lem wit="#ν #α #φ #μ #η #δ" source="#edd.">obfuerunt</lem>
+                     <rdg wit="#N">offuerant</rdg>
+                     <rdg wit="#G">obfuerat</rdg>
+                     <rdg wit="#ε #γ #e #u #b #d2" source="#i #l2 #g #n #o">obfuerant</rdg>
+                     <rdg wit="#κ #χ">offuerint</rdg>
+                     <rdg wit="#β #λ #ρ #π">obfuerint</rdg>
+                  </app>. <app>
+                     <lem>utcumque</lem>
+                     <rdg wit="#φ #η #β #r #d" source="#Ulit.">utrumque</rdg>
+                  </app> tamen <app>
+                     <lem>conspeximus</lem>
+                     <rdg wit="#N">competimus</rdg>
+                  </app> ipsum</l>
+               <l n="83">longius; <app>
+                     <lem>ac</lem>
+                     <rdg wit="#b" source="#i1 #l1 #Vienn. #Barth">et</rdg>
+                     <rdg wit="#ε #e #u" source="#l2 #i2 #g #Gryph.">at</rdg>
+                  </app>, <app>
+                     <lem>nisi</lem>
+                     <rdg wit="#γ #μ #δ">mihi</rdg>
+                  </app> me <app>
+                     <lem><app>
+                           <lem wit="#N #G #ρ2" source="#BaehrSqq">visus decepit</lem>
+                           <rdg wit="#V" source="#eddAnteBaehr">decepit visus</rdg>
+                           <rdg wit="#α #β">decipit visus</rdg>
+                        </app>, in uno</lem>
+                     <rdg source="#Glaeser">visus deceperit una</rdg>
+                  </app></l>
+               <l n="84">et Martis <app>
+                     <lem wit="#V" source="#edd.">vultus</lem>
+                     <rdg wit="#N #G #δ #μ">visus</rdg>
+                  </app> et <app>
+                     <lem>Apollinis</lem>
+                     <rdg wit="#N">apolonis</rdg>
+                  </app> esse <app>
+                     <lem source="#Leo" xml:id="lem7.84putato">putato</lem>
+                     <note target="#lem7.84putato">(<ref
+                           target="https://books.google.com/books?id=vABMAAAAYAAJ&amp;pg=PA620#v=onepage&amp;q&amp;f=false"
+                           >l. l. p. 620</ref>)</note>
+                     <rdg wit="#N #G #V #r #s" source="#n #o #Glaeser #Schenkl">putatur</rdg>
+                     <rdg wit="#A #H #γ #ε" source="#edd.">putavi</rdg>
+                     <rdg wit="#α">videtur</rdg>
+                     <rdg source="#Schenkl" xml:id="rdg7.84putetur">putetur</rdg>
+                     <note target="#rdg7.84putetur">olim</note>
+                     <rdg source="#Burm. #Baehr.">probatur</rdg>
+                     <rdg source="#Haupt">notatur</rdg>
+                     <rdg source="#Modius">notavi</rdg>
+                  </app>.</l>
             </sp>
          </div>
       </body>

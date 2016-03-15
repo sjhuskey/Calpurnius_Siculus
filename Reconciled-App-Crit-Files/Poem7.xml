@@ -515,9 +515,14 @@
                      target="https://books.google.com/books?id=hu5WAAAAcAAJ&amp;pg=PA182#v=onepage&amp;q&amp;f=false"
                      >coll. crit. p. 182</ref>)</note>
             </app>
-            <!-- plerique edd. ante Burm. post <hi rend="italic">tamen</hi>
-               interpunxerunt, post <hi rend="italic">omnia</hi> Burm. et sqq., post <hi
-                  rend="italic">certe</hi> <ref target="#LMueller">L. Mueller</ref> (<ref target="http://hdl.handle.net/2027/uiug.30112023962282?urlappend=%3Bseq=674">l. l. p. 1072</ref>)</note>-->
+            <!-- <note target="#line7.44">plerique <ref target="#eddAnteBurm">edd. ante
+                           Burm.</ref> post <hi rend="italic">tamen</hi> interpunxerunt, post <hi
+                           rend="italic">omnia</hi>
+                        <ref target="#BurmSqq">Burm. et sqq.</ref>, post <hi rend="italic"
+                           >certe</hi>
+                        <ref target="#LMueller">L. Mueller</ref> (<ref
+                           target="http://hdl.handle.net/2027/uiug.30112023962282?urlappend=%3Bseq=674"
+                           >l. l. p. 1072</ref>)</note>-->
             <app loc="C7.52.45">
                <lem>vilia</lem>
                <rdg wit="#N">villia</rdg>
