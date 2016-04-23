@@ -2237,7 +2237,7 @@
                                     target="https://books.google.com/books?id=78dEAQAAIAAJ&amp;dq=housman%20manilius&amp;pg=PR3#v=onepage&amp;q=housman%20manilius&amp;f=false"
                                 />
                             </bibl>
-                            <bibl xml:id="Maehly">
+                            <bibl xml:id="Maehly" n="Maehly">
                                 <author ref="http://viaf.org/viaf/32754002">
                                     <persName>
                                         <forename>J. A. (Jakob Achilles)</forename>
@@ -2624,7 +2624,7 @@
         <body>
             <div type="edition" xml:space="preserve">
                 <div type="textpart" n="1" xml:id="poem1">
-                    <head>1. [Corydon, Ornytus]</head>
+                    <head>Poem 1. [Corydon, Ornytus]</head>
                     <list type="speakers">
                         <item xml:id="Corydon">Corydon</item>
                         <item xml:id="Ornytus">Ornytus</item>
@@ -2817,7 +2817,7 @@
                                 <lem>Fauni</lem>
                                 <rdg wit="#P">fanni</rdg>
                             </app>.</l>
-                        <l n="16" xml:id="line1.16">
+                        
                             <!-- Another speaker variant that needs fixing <app>
                         <lem/>
                         <rdg wit="#φ #ε #γ #η #ν" source="#edd.">
@@ -2826,15 +2826,14 @@
                         <note>praeter <ref target="#Baehr.">Baehr.</ref> et <ref target="#Schenkl"
                                 >Schenkl</ref></note>
                     </app> -->
-                            <app type="lineOmission">
-                                <lem>prome igitur <app>
-                                        <lem>calamos</lem>
-                                        <rdg wit="#G">chalamos</rdg>
-                                    </app> et si qua recondita servas;</lem>
-                                <rdg wit="#b"/>
-                                <note target="#line1.16">post hunc versum <ref target="#Beck">Beck</ref> aliquid excidisse suspicatur</note>
-                            </app>
-                        </l>
+                        <app type="lineOmission">
+                            <lem><l n="16" xml:id="line1.16">prome igitur <app>
+                                    <lem>calamos</lem>
+                                    <rdg wit="#G">chalamos</rdg>
+                                </app> et si qua recondita servas;</l></lem>
+                            <rdg wit="#b"/>
+                            <note target="#line1.16">post hunc versum <ref target="#Beck">Beck</ref> aliquid excidisse suspicatur</note>
+                        </app>
                         <l n="17">nec tibi defuerit <app>
                                 <lem>mea</lem>
                                 <rdg wit="#ρ"/>
@@ -4006,7 +4005,7 @@
                     </sp>
                 </div>
                 <div type="textpart" n="2" xml:id="poem2">
-                    <head>2. [Idas, Astacus, Thyrsis]</head>
+                    <head>Poem 2. [Idas, Astacus, Thyrsis]</head>
                     <list type="speakers">
                         <item xml:id="Idas">Idas</item>
                         <item xml:id="Astacus">Astacus</item>
@@ -5478,7 +5477,7 @@
                         </app> et aetas'.</l>
                 </div>
                 <div type="textpart" n="3" xml:id="poem3">
-                    <head>3. [Iollas, Lycidas]</head>
+                    <head>Poem 3. [Iollas, Lycidas]</head>
                     <list type="speakers">
                         <item xml:id="Iollas">Iollas</item>
                         <item xml:id="Lycidas">Lycidas</item>
@@ -6704,7 +6703,7 @@
                     </sp>
                 </div>
                 <div type="textpart" n="4" xml:id="poem4">
-                    <head>4. [Meliboeus, Corydon, Amyntas]</head>
+                    <head>Poem 4. [Meliboeus, Corydon, Amyntas]</head>
                     <list type="speakers">
                         <item xml:id="Meliboeus">Meliboeus</item>
                         <item><ref target="#Corydon">Corydon</ref></item>
@@ -9106,7 +9105,7 @@
                     </sp>
                 </div>
                 <div type="textpart" n="5" xml:id="poem5">
-            <head>5. [Micon]</head>
+            <head>Poem 5.</head>
             <l n="1">Forte <app>
                   <lem wit="#G #V" source="#Baehr. #Schenkl">Micon</lem>
                   <rdg wit="#N">michon</rdg>
@@ -9144,8 +9143,7 @@
                   <rdg wit="#G">alūpno</rdg>
                </app></l>
             <l n="4">talia verba refert tremulis titubantia labris:</l>
-            <l n="5" xml:id="C5.5line">'quas errare vides inter dumeta capellas</l>
-            <note target="#C5.5line" type="app">(<hi rend="italic">Micon</hi> praef. <ref target="#γ">γ</ref>
+            <l n="5" xml:id="C5.5line">'quas errare vides inter dumeta capellas<app><note target="#C5.5line" type="app">(<hi rend="italic">Micon</hi> praef. <ref target="#γ">γ</ref>
                <ref target="#π">π</ref>
                <ref target="#μ">μ</ref>
                <ref target="#e">e</ref>
@@ -9157,50 +9155,37 @@
                <ref target="#l2">l²</ref>
                <ref target="#g">g</ref>
                <ref target="#Glaeser">Glaeser</ref>
-               <ref target="#Keene">Keene</ref>)</note>
-
-
+               <ref target="#Keene">Keene</ref>)</note></app></l>
             <app type="lineTransposition">
-               <lem xml:id="lem5.6-8">
-                  <app type="lineOmission">
-                     <lem>
-                        <l n="6" xml:id="line5.6">
-                           <app>
-                              <lem wit="#V" source="#edd.">canaque</lem>
-                              <rdg wit="#N #G">vanaque</rdg>
-                              <rdg wit="#π">cannaque</rdg>
-                              <rdg source="#Schenkl1" xml:id="rdg5.6vernaque">vernaque</rdg>
-                              <note target="#rdg5.6vernaque">(probb. <ref target="#LMueller">L.
-                                    Mueller</ref>
-                                 <ref target="#Ellis">Ellis</ref>
-                                 <ref target="#Jacoby">Jacoby</ref>)</note>
-                           </app>
-                           <app>
-                              <lem>lascivo</lem>
-                              <rdg wit="#G">laxivo</rdg>
-                           </app> concidere <app>
-                              <lem wit="#G #V" source="#edd.">gramina</lem>
-                              <rdg wit="#N" source="#Baehr. #Schenkl" xml:id="rdg5.6germina">germina</rdg>
-                              <rdgGrp type="anteCorr">
-                                 <rdg wit="#H" varSeq="1" copyOf="#rdg5.6.germina"/>
-                                 <rdg wit="#H2" varSeq="2" copyOf="#lem5.6gramina"/>
-                              </rdgGrp>
-                              <!-- H (corr. m2) -->
-                           </app> morsu, </l>
-                     </lem>
-                     <rdg wit="#ε"/>
-                  </app>
-               </lem>
-               <rdgGrp type="anteCorr">
-                  <rdg wit="#N" varSeq="1" copyOf="#line5.7"/>
-                  <rdg wit="#N2" varSeq="2" copyOf="#line5.6"/>
-               </rdgGrp>
-               <rdg wit="#G" source="#Maehly" copyOf="#line5.7"/>
-               <note target="#lem5.6-8">7, 6, 8 colloc. <ref target="#N">N</ref> (in quo corr. <ref target="#N2">m2</ref>) G; 7, 8, 6 <ref target="#Maehly">Maehly</ref></note>
-            </app>
-            <app type="lineTransposition">
-               <lem>
-                  <l n="7" xml:id="line5.7">
+              <lem xml:id="lem5.6-8" wit="#edd.">
+                <app>
+                  <lem>
+                    <l n="6" xml:id="line5.6">
+                   <app>
+                      <lem wit="#V" source="#edd.">canaque</lem>
+                      <rdg wit="#N #G">vanaque</rdg>
+                      <rdg wit="#π">cannaque</rdg>
+                      <rdg source="#Schenkl1" xml:id="rdg5.6vernaque">vernaque</rdg>
+                      <note target="#rdg5.6vernaque">(probb. <ref target="#LMueller">L.
+                            Mueller</ref>
+                         <ref target="#Ellis">Ellis</ref>
+                         <ref target="#Jacoby">Jacoby</ref>)</note>
+                   </app>
+                   <app>
+                      <lem>lascivo</lem>
+                      <rdg wit="#G">laxivo</rdg>
+                   </app> concidere <app>
+                      <lem wit="#G #V" source="#edd.">gramina</lem>
+                      <rdg wit="#N" source="#Baehr. #Schenkl" xml:id="rdg5.6germina">germina</rdg>
+                      <rdgGrp type="anteCorr">
+                         <rdg wit="#H" varSeq="1" copyOf="#rdg5.6.germina"/>
+                         <rdg wit="#H2" varSeq="2" copyOf="#lem5.6gramina"/>
+                      </rdgGrp>
+                      <!-- H (corr. m2) -->
+                   </app> morsu, </l></lem>
+                  <rdg wit="#ε"/>
+                </app>
+                <l n="7" xml:id="line5.7">
                      <app>
                         <lem wit="#φ #ν #η #λ #α" source="#edd.">Canthe</lem>
                         <rdg wit="#N #β #π #χ #ρ #κ2">chante</rdg>
@@ -9215,23 +9200,23 @@
                         <rdg source="#Beck">reductos</rdg>
                      </app>
                   </l>
-               </lem>
-               <rdgGrp type="anteCorr">
-                  <rdg wit="#N" varSeq="1" copyOf="#line5.6"/>
-                  <rdg wit="#N2" varSeq="2" copyOf="#line5.7"/>
-               </rdgGrp>
-               <rdg wit="#G" copyOf="#line5.6"/>
-               <rdg source="#Maehly" copyOf="#line5.8"/>
-            </app>
-            <app type="lineTransposition">
-               <lem>
-                  <l n="8" xml:id="line5.8"> cernis in aprico decerpere <app>
+                <l n="8" xml:id="line5.8"> cernis in aprico decerpere <app>
                         <lem>gramina</lem>
                         <rdg wit="#N" source="#Maehly">germina</rdg>
                         <rdg source="#Burm.">pabula</rdg>
                      </app> campo, </l>
                </lem>
-               <rdg source="#Maehly" copyOf="#line5.6"/>
+                <rdg wit="#N #G">
+                  <l copyOf="#line5.7"/>
+                  <l copyOf="#line5.6"/>
+                  <l copyOf="#line5.8"/>
+                </rdg>
+               <rdg source="#Maehly">
+                 <l copyOf="#line5.7"/>
+                 <l copyOf="#line5.8"/>
+                 <l copyOf="#line5.6"/>
+               </rdg>
+              <note target="#lem5.6-8">7, 6, 8 colloc. <ref target="#N">N</ref> (in quo corr. <ref target="#N2">m2</ref>) G; 7, 8, 6 <ref target="#Maehly">Maehly</ref></note>
             </app>
             <l n="9"><app>
                   <lem>hos</lem>
@@ -9281,8 +9266,8 @@
                   <lem>senectus</lem>
                   <rdg wit="#N">senetus</rdg>
                </app>?</l>
-            <note target="#line5.12-13">(12 et sq. habent <ref target="#ExcPar">Exc.
-               Par.</ref>)</note>
+            <app><note target="#line5.12-13">(12 et sq. habent <ref target="#ExcPar">Exc.
+               Par.</ref>)</note></app>
             <app type="lineTransposition">
                <lem><l n="14" xml:id="line5.14">sed <app>
                         <lem xml:id="lem5.14qua">qua</lem>
@@ -9301,7 +9286,7 @@
                   <rdg wit="#N2" varSeq="2" copyOf="#line5.14"/>
                </rdgGrp>
             </app>
-            <note target="#line5.14">15, 14 ponit N (corr. m2)</note>
+            <app><note target="#line5.14">15, 14 ponit N (corr. m2)</note></app>
             <app type="lineTransposition">
                <lem>
                   <l n="15" xml:id="line5.15">et melius pratis errantes <app>
@@ -9509,7 +9494,7 @@
                      </app> montem</l></lem>
                <rdg wit="#η"/>
             </app>
-            <note target="#lines5.30-33">vv. 30–33 om. <ref target="#η">η</ref></note>
+            <app><note target="#lines5.30-33">vv. 30–33 om. <ref target="#η">η</ref></note></app>
             <app type="lineOmission">
                <lem><l n="31" xml:id="line5.31"><app>
                         <lem wit="#α #ε #γ" source="#edd.">coeperit</lem>
@@ -9545,8 +9530,8 @@
                      </app></l></lem>
                <rdg wit="#η #ε #δ"/>
             </app>
-            <note target="#line5.32">vv. 32–35 om. <ref target="#ε">ε</ref>
-               <ref target="#δ">δ</ref></note>
+            <app><note target="#line5.32">vv. 32–35 om. <ref target="#ε">ε</ref>
+               <ref target="#δ">δ</ref></note></app>
             <app type="lineOmission">
                <lem><l n="33" xml:id="line5.33">frigora sol, tumidis <app>
                         <lem wit="#N2 #G #V" source="#edd." xml:id="lem5.33spument">
@@ -9747,8 +9732,8 @@
                    <witDetail wit="#ExcPar" target="#rdg5.46dubitanda">(post)</witDetail>
                   <rdg wit="#δ">dubitande</rdg>
                </app> serena</l>
-            <note target="#lines5.46-48">46–48 exstant in <ref target="#ExcPar">Exc.
-               Par.</ref></note>
+            <app><note target="#lines5.46-48">46–48 exstant in <ref target="#ExcPar">Exc.
+               Par.</ref></note></app>
             <l n="47"><app>
                   <lem xml:id="lem5.47blandius">blandius</lem>
                   <rdgGrp type="anteCorr">
@@ -10380,8 +10365,8 @@
                   <rdg wit="#N #G #V #e">aeno</rdg>
                   <rdg wit="#d2" source="#i1">ahaeno</rdg>
                </app>,</l>
-            <note target="#line5.83">post hunc versum lacunam <ref target="#Jacoby">Iacoby</ref> (l.
-               l. p. 1293) statuit</note>
+            <app><note target="#line5.83">post hunc versum lacunam <ref target="#Jacoby">Iacoby</ref> (l.
+               l. p. 1293) statuit</note></app>
             <l n="84">impressurus ovi <app>
                   <lem>tua</lem>
                   <rdg wit="#G">tu</rdg>
@@ -10775,7 +10760,7 @@
                   <lem>nam</lem>
                   <rdg wit="#λ">iam</rdg>
                </app> plura supersunt:</l>
-            <note target="#line5.119">(§ praef. <ref target="#G">G</ref>)</note>
+            <app><note target="#line5.119">(§ praef. <ref target="#G">G</ref>)</note></app>
             <l n="120">sed iam <app>
                   <lem>sera</lem>
                   <rdg source="#g #l2 #Gryph.">sero</rdg>
@@ -10786,7 +10771,7 @@
             <l n="121">frigidus aestivas impellit Noctifer horas'.</l>
          </div>
                 <div type="textpart" n="6" xml:id="poem6">
-            <head>VI. [Astylus, Lycidas, Mnasyllus]</head>
+            <head>Poem 6. [Astylus, Lycidas, Mnasyllus]</head>
             <list type="speakers">
                <item xml:id="Astylus">Astylus</item>
                <item><ref target="#Lycidas">Lycidas</ref></item>
@@ -11484,11 +11469,11 @@
                            <lem wit="#N #G #H" source="#Beck #GlaeserSqq">pendent</lem>
                            <rdg wit="#V #A" source="#eddAnteGlaeser">lucent</rdg>
                         </app> redimicula collo?</l>
-                     <note target="#line6.38">hunc v. (6.38) et sq. om. <ref target="#ν">ν</ref>
+                     <app><note target="#line6.38">hunc v. (6.38) et sq. om. <ref target="#ν">ν</ref>
                         <ref target="#φ">φ</ref>
                         <ref target="#η">η</ref>
                         <ref target="#ρ1">ρ¹</ref>
-                        <ref target="#r">r</ref></note>
+                        <ref target="#r">r</ref></note></app>
                      <l n="39">aspicis, ut <app>
                            <lem>niveo</lem>
                            <rdg wit="#N">vineo</rdg>
@@ -11651,7 +11636,7 @@
                      </rdgGrp>
                      <!--G (in quo corr. in mg. m1)-->
                   </app></l>
-               <note target="line6.52">post hunc versum <ref target="#ε">ε</ref>
+               <app><note target="line6.52">post hunc versum <ref target="#ε">ε</ref>
                   <ref target="#π">π</ref>
                   <ref target="#ρ2">ρ²</ref>
                   <ref target="#edd.">edd.</ref> (praeter <ref target="#r">r</ref>
@@ -11668,7 +11653,7 @@
                   <ref target="#o">o</ref>
                   <ref target="#Glaeser">Glaeser</ref>
                   <ref target="#Keene">Keene</ref>), quem <ref target="#Beck">Beck</ref> uncis
-                  seclusit</note>
+                  seclusit</note></app>
                <app type="interpolation">
                   <!-- Presenting the line that Beck marks as an interpolation, with the unmarked version and the omission presented as variant readings -->
                   <lem xml:id="lem6.53a"/>
@@ -11697,8 +11682,8 @@
                         <rdg source="#Heins.">venter</rdg>
                      </rdgGrp>
                   </app>,</l>
-               <note target="#line6.53">vv. 53-56 exstant in <ref target="#ExcPar">Exc.
-                  Par.</ref></note>
+               <app><note target="#line6.53">vv. 53-56 exstant in <ref target="#ExcPar">Exc.
+                  Par.</ref></note></app>
                <app type="interpolation">
                   <!-- Accounting for the witnesses and sources that print the interpolation after line 53 -->
                   <lem xml:id="lem6.53b"/>
@@ -11766,12 +11751,12 @@
                         </app> iuro.</l></lem>
                   <rdg wit="#ν #φ #η #θ #ρ1 #r"/>
                </app>
-               <note target="#line6.56">v.v. 56-57 om. <ref target="#ν">ν</ref>
+               <app><note target="#line6.56">v.v. 56-57 om. <ref target="#ν">ν</ref>
                   <ref target="#φ">φ</ref>
                   <ref target="#η">η</ref>
                   <ref target="#θ">θ</ref>
                   <ref target="ρ1">ρ¹</ref>
-                  <ref target="#r">r</ref></note>
+                  <ref target="#r">r</ref></note></app>
             </sp>
             <sp who="Mnasyllus">
                <speaker>M.</speaker>
@@ -12233,7 +12218,7 @@
             </sp>
          </div>
                 <div type="textpart" n="7" xml:id="poem7">
-            <head>VII. [Lycotas, Corydon]</head>
+            <head>Poem 7. [Lycotas, Corydon]</head>
             <list type="speakers">
                <item xml:id="Lycotas">Lycotas</item>
                <item><ref target="#Corydon">Corydon</ref></item>
@@ -12721,13 +12706,12 @@
                      <rdg source="#Friesemann" xml:id="rdg7.43ipsa">ipsa</rdg>
                      <note target="#rdg7.43ipsa"><ref target="#Friesemann">Friesemann</ref> (<ref target="https://books.google.com/books?id=hu5WAAAAcAAJ&amp;pg=PA182#v=onepage&amp;q&amp;f=false">coll. crit. p. 182</ref>)</note>
                   </app></l>
-               <l n="44"><app>
-                     <lem xml:id="line7.44">factus in urbe senex stupeo tamen omnia: certe</lem>
-                     <note target="#line7.44">plerique <ref target="#eddAnteBurm">edd. ante
+               <l n="44" xml:id="line7.44">factus in urbe senex stupeo tamen omnia: certe
+                     <app><note target="#line7.44">plerique <ref target="#eddAnteBurm">edd. ante
                            Burm.</ref> post <hi rend="italic">tamen</hi> interpunxerunt, post <hi rend="italic">omnia</hi>
                         <ref target="#BurmSqq">Burm. et sqq.</ref>, post <hi rend="italic">certe</hi>
-                        <ref target="#LMueller">L. Mueller</ref> (<ref target="http://hdl.handle.net/2027/uiug.30112023962282?urlappend=%3Bseq=674">l. l. p. 1072</ref>)</note>
-                  </app></l>
+                        <ref target="#LMueller">L. Mueller</ref> (<ref target="http://hdl.handle.net/2027/uiug.30112023962282?urlappend=%3Bseq=674">l. l. p. 1072</ref>)</note></app>
+                  </l>
                <l n="45"><app>
                      <lem>vilia</lem>
                      <rdg wit="#N">villia</rdg>
