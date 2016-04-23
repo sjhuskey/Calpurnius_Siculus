@@ -95,11 +95,11 @@
                <p>Now it is necessary to discuss the manuscripts of the first family: <ref
                      target="#N">N = Neapolitanus V a 8</ref> and <ref target="#G">G = Gaddianus
                      Laur. plut. 90, 12 inf.</ref></p>
-               <p>Codex Neapolitanus V a 8, formerly 280, parchment, 0.261 X 0.160 cm., written at
-                  about the beginning of the fifteenth century. It consists of 116 folios, of which
-                  1–36a contain Cato's <hi rend="italic">De Agricultura</hi>; 20–101a, Varro's <hi
+               <p>Codex Neapolitanus V a 8, formerly 280, parchment, 261 X 160 mm., written at about
+                  the beginning of the fifteenth century. It consists of 116 leaves, of which 1–36a
+                  contain Cato's <hi rend="italic">De Agricultura</hi>; 20–101a, Varro's <hi
                      rend="italic">De Re Rustica</hi>; 101a–115b, the <hi rend="italic">Bucolic</hi>
-                  of Calpurnius and Nemesianus. The remaining folios are blank. Each page has
+                  of Calpurnius and Nemesianus. The remaining leaves are blank. Each page has
                   thirty-eight verses. With respect to correcting hands, the manuscript put two in
                   particular to the test. The first belongs to the original copyist. The manuscript
                   was corrected again around the same time, but here and there the second hand
@@ -111,13 +111,13 @@
                   hand, as Bursian and Schenkl recognized, wrote <hi rend="italic">Calpurnii
                      eclogae</hi> et <hi rend="italic">Nemesiani eclogae</hi>.</p>
                <p>We know nothing about the origin and provenance of this manuscript except what is
-                  understood from the following passages written on the last folio: "Joannes
-                  Antonius Perillus, a nobleman of Naples and most learned gentleman, gave this book
-                  to Jacob Perillus in 1667 on the first of June," and a little below, "This book
-                  belongs to Antonius Seripandus, received as a gift from his best friend Jacob
-                  Perillus." Later it was brought to the library of San Giovanni a Carbonara, and
-                  from there it came to the greatest library in Naples, formerly known as the
-                     <orgName xml:id="preface-borbonica">Reale biblioteca borbonica</orgName><note
+                  understood from the following passages written on the last leaf: "Joannes Antonius
+                  Perillus, a nobleman of Naples and most learned gentleman, gave this book to Jacob
+                  Perillus in 1667 on the first of June," and a little below, "This book belongs to
+                  Antonius Seripandus, received as a gift from his best friend Jacob Perillus."
+                  Later it was brought to the library of San Giovanni a Carbonara, and from there it
+                  came to the greatest library in Naples, formerly known as the <orgName
+                     xml:id="preface-borbonica">Reale biblioteca borbonica</orgName><note
                      target="#preface-borbonica">Now the <orgName ref="http://www.bnnonline.it"
                         >Biblioteca nazionale Vittorio Emanuele III</orgName></note>.
                      <persName>Jacques Philippe D'Orville</persName> was the first to collate this
@@ -137,9 +137,1754 @@
                   remove all of the discrepancies between my collation and the testimony of Schenkl,
                   in the summer of 1909 my friend <persName ref="http://viaf.org/viaf/311005886"
                      >Giampietro Zottoli</persName> inspected with me all of the places where
-                  <persName>Schenkl</persName> had a different reading, and we often uncovered carelessness on <persName>Schenkl</persName>'s
-                  part. I have published in my apparatus criticus the entire collation of his
-                  manuscript, omitting not even the slightest thing to do with orthography.</p>
+                     <persName>Schenkl</persName> had a different reading, and we often uncovered
+                  carelessness on <persName>Schenkl</persName>'s part. I have published in my
+                  apparatus criticus the entire collation of his manuscript, omitting not even the
+                  slightest thing to do with orthography.</p>
+               <p xml:id="CodexGaddianus">Codex Gaddianus Laurentianus plut. 90, 12 inf., paper, 294
+                  X 225 mm., written at the beginning of the fifteenth century, consists of 74
+                  leaves. It contains the twelve eclogues of Francesco Petrarch (ff. 1–44), the
+                        <bibl><title>Culex</title></bibl> of Vergilius Maro, the
+                        <bibl><title>Dirae</title></bibl> of Vergilius Maro (ff. 52–55), and
+                  Calpurnius and Nemesianus (ff. 55–74). A very brief, unattributed ecloque follows
+                  with the interlocutors Daphnis, Tityrus, Mopsus, and
+                  Meliboeus<!-- should these be encoded with <persName>? -->. Individual pages
+                  generally have twenty-nine versus, but some vary, with the shorter ones having
+                  twenty-six and the longer ones haveing thirty-two verses. The following
+                  inscription has been added to the eclogues of Calpurnius: <quote>The Eclogues of
+                     Calfurnius to Nemesianus of Carthage</quote>. Nemesianus follows Calpurnius
+                  with the following title prefixed: <quote>Here begin the eclogues of Aurelianus
+                     Nemesianus of Carthage</quote>. At the end of each eclogue there appears an <hi
+                     rend="italic">explicit</hi> with the number of each eclogue, but Calpunrius'
+                  sixth eclogue lacks a subscription, and the following is written at the end of the
+                  seventh: <quote>Here ends the sixth eclogue of Calphurnius</quote>. This is
+                  explained by the fact that the seventh eclogue follows the sixth without any
+                  break, with the result that only six eclogues are attributed to Calpurnius in this
+                  manuscript. But in the margin, where the sixth eclogue ought to end, the copyist
+                  has added the following: <quote>Some wish to say that the eclogue that begins <hi
+                        rend="italic">lentus</hi> is a completely different eclogue; others say that
+                     it is the same, etc.</quote></p>
+               <p>In this manuscript the copyist himself added almost all of the corrections either
+                  by removing scribal errors in the verses or adding variant readings to the margin.
+                  But there are some that seem to have been made by another hand. The manuscript was
+                  mentioned by <bibl><editor><ref target="#Glaeser">Glaeser</ref></editor></bibl>
+                  and <bibl><author><ref target="#Haupt">Haupt</ref></author></bibl>, but
+                           <bibl><editor><ref target="#Baehr.">Baehrens</ref></editor></bibl> was
+                  the first to examine it, far too hurriedly; <bibl><editor><ref target="#Schenkl"
+                           >Schenkl</ref></editor></bibl> was the next to use it, much more
+                  carefully. I myself transcribed the manuscript in 1908 with as much attentiveness
+                  as I could, but I collated it again in the following year, to settle all of the
+                  discrepancies with <ref target="#Schenkl">Schenkl</ref>. Still, there are very
+                  many places that <ref target="Schenkl">Schenkl</ref> has reported erroneously, as
+                  you can gather from my notes, for I have taken greatest pains to publish all of
+                  the readings of this manuscript, too.</p>
+               <p>Having described the outer appearance of manuscripts N and G and explained their
+                  provenance, I must now discuss in more detail their relationship and their
+                  importance. Until now, no one except Baehrens and Schenkl has examined the
+                  authority of either manuscript. It is no wonder, since Baehrens was the first to
+                  collate the Gaddianus, and no one before Glaeser considered the Neapolitanus of
+                  much value. But Baehrens and Schenkl held different opinions: the former, as
+                  usual, overvalues the manuscript that he was the first to publish and argues that
+                  the Gaddianus is superior to the others; the latter, however, prefers the
+                  Neapolitanus. But Baehrens asserts his point of view instead of demonstrating it
+                  with strong evidence. On the other hand, Schenkl tried to demonstrate that the
+                  Gaddianus admitted interpolations in some places. It seems to me that neither one
+                  has hit upon the truth entirely, as I think the following makes clear.</p>
+               <p>I have already said that both manuscripts descend from the same archetype, and
+                  that is supported by the very large number of readings that N has in common with
+                  G, when something else is written in the rest of the manuscripts. But, to be fair,
+                  they differ among themselves in many places, and it is right to discuss their
+                  differences so that it will be easier to see which manuscript departs less from
+                  the archetype. In doing this, I take no account of readings that are attributed to
+                  the second or third hand in the Neapolitanus or of the various readings that the
+                  copyist added in the margin of the Gaddianus. I shall consider them later.</p>
+               <p>But first of all, although the repute of each of the two manuscripts is frequently
+                  distorted because of the carelessness and ignorance of the copyists, it seems to
+                  me that the Gaddianus was copied a little more carelessly. For instance, four
+                  verses (C. 1.40, 4.16, 4.123; N. 1.73) are missing from it, and Nemesianus 2.49
+                  has been placed after verse 45: Moreover, the following words have been omitted:
+                  C. 1.92 <quote>ipsa</quote>, 2.88 <quote>quotiens</quote>, 3.23
+                     <quote>deus</quote>, 3.3 <quote>sed</quote>, 3.89 <quote>non</quote>. But in
+                  the Neapolitan manuscript, no verse is missing (it is unnecessary, I think, for me
+                  to remind you that I speak here about the unique defects of each manuscript, not
+                  about the common defects that are rightly assigned to the archetype), but C.
+                  1.31–32 have been inverted and N. 2.81 were inserted after 3.16. Then the copyist
+                  overlooked the following words: C. 6.46 <quote>pignus</quote>, 6.90
+                     <quote>hoc</quote>, N. 1.23 <quote>et</quote>, 1.71 <quote>et</quote>, 3.5
+                     <quote>ex tereti</quote>, 4.60 <quote>audit</quote>. Add to this the fact that
+                  in almost 130 places N offers the correct reading and G an erroneous one, and the
+                  opposite happens a little less frequently.</p>
+               <p>Each of the two manuscripts has some errors (N has more by far) in common with V,
+                  which could not have happened always entirely by chance. The following places are
+                  clearly due to interpolation: C. 2.73 <quote>cicius</quote> or <quote>citius
+                     tenues</quote> NV, 3.35 <quote>quod</quote> NV, 6.25 <quote>verba</quote> N,
+                     <quote>verba</quote> and <quote>verbo</quote> V, 6.82 <quote>te stante</quote>
+                  NV, 7.33 <quote>tibi</quote> GV, N. 3.37 <quote>ostendit</quote>. The rest of the
+                  examples are either doubtful or should be disregarded entirely.</p>
+               <p>Next, some have deemed the following places in G as possibly
+                  suspicious:<!-- Maybe do this as a list? --> C I 12 <quote>errantes</quote>, 85
+                     <quote>accipiet</quote>, III 20 <quote>invenias</quote>, IV 2
+                     <quote>obstrepit</quote>, 53 <quote>discere</quote>, 72
+                     <quote>aspernatur</quote>, 85 <quote>corpore</quote>, 105 <quote>enim</quote>,
+                  150 <quote>liquide</quote>, V 31 <quote>primum</quote>, 44 <quote>pascua</quote>,
+                  52, <quote>quod</quote>, VI 59 <quote>mascillo</quote>, VII 11
+                     <quote>herus</quote>, 26 <quote>in</quote>, 41 <quote>non</quote>, N. I 2
+                     <quote>raris</quote>, 5 <quote>flavit</quote>, 16 <quote>carmina</quote>, 63
+                     <quote>carmina</quote>, 82 <quote>canis</quote>, II 27 <quote>nostri
+                     tamquam</quote>, 32 <quote>ethera</quote>, 74 <quote>omnes</quote>, 89
+                     <quote>discedere</quote>, III 52 <quote>saliensque liquore</quote>. But
+                     <quote>enim</quote>, <quote>pascua</quote>, <quote>mascillo</quote>,
+                     <quote>in</quote>, <quote>canis</quote> are without doubt glosses inserted
+                  later in place of the poets' words. One could say the same thing about
+                     <quote>accipiet</quote>, <quote>ethera</quote>, <quote>discedere</quote>. Also
+                     <quote>aethera</quote> and <quote>discedere</quote> are just as good as
+                     <quote>aera</quote> and <quote>descendere</quote>, and for a long time I was
+                  not sure which of the two I preferred. And <quote>liquide</quote>,
+                     <quote>primum</quote>, <quote>flavit</quote>, <quote>carmina</quote> (N. I 16)
+                  should not be considered interpolations, but rather corruptions that arose in
+                  these places since the words that should have been written by the copyist appeared
+                  nearby. Thus, <quote>liquide</quote> is derived from <quote>dulce</quote>,
+                     <quote>primum</quote> from <quote>spatium</quote>, <quote>flavit</quote> from
+                     <quote>inflare</quote>, <quote>carmina</quote> from <quote>carmine</quote>. But
+                     <quote>carmina</quote> (N. 1.63) is either a gloss or a corruption that owes
+                  its origin from the initial sound of the next word, and <quote>corpore</quote> and
+                     <quote>robore</quote> are very often confused in the manuscripts. Then there
+                  are these words: <quote>herus</quote>, <quote>raris</quote>, <quote>omnes</quote>.
+                  One would hardly believe that they were made by an interpolator since they do are
+                  meaningless. But for the most part, the rest of the examples can be attributed to
+                  an interpolator. The following places in N should be considered: C. 1.13
+                     <quote>sequar</quote>, 4.46 <quote>inter nostras</quote>, 4.136 <quote>pede
+                     velox</quote>, 4.153 <quote>in</quote>, 4.164 <quote>vestros</quote>, N. 2.71
+                     <quote>ducas</quote>. <quote>in</quote> is a gloss. <quote>ducas</quote> is
+                  closer to <quote>ducam</quote>, which the inferior manuscripts have, than to
+                     <quote>duco</quote>, which G correctly offers. <quote>vestros</quote> is owed
+                  to an interpolator. The rest are uncertain.</p>
+               <p>Finally, the writings of both manuscripts have been corrupted in various was, but
+                  sometimes they betray an infelicitous effort at emendation. I would like you to
+                  consider the following places, for it is not necessary to say anything about the
+                  rest): C. 1.90 <quote>querit</quote> N, <quote>petit</quote> G; 2.96
+                     <quote>o</quote> G; 3.50 <quote>turbidus</quote> G; 4.63 <quote>carmen
+                     modulavit</quote> G; 4.125 <quote>placanda</quote> G; 5.15
+                     <quote>montibus</quote> G; 5.16 <quote>cecinere</quote> G; 5.104
+                     <quote>nectendum</quote> N, <quote>videndum</quote> G; N. 2.30 <quote>nullo
+                     sudarunt</quote> G, 4.28 <quote>volucrum tum</quote> G; 4.39
+                     <quote>subeunte</quote> G. Indeed it is hardly the case that all of these
+                  places are equally suspicious, for <quote>o</quote> is a gloss, and I do not think
+                  one should think otherwise about <quote>carmen modulavit</quote>. But
+                     <quote>turbidus</quote> is clearly an interpolation, which I could hardly say
+                  about <quote>volucrum tum</quote>. Then <quote>querit</quote> and
+                     <quote>petit</quote> perhaps stem from a poorly understood abbreviation of the
+                  word <quote>quatit</quote>, but that gives me pause. But the other examples, with
+                  due respect to Schenkl, are hardly attributable to interpolators, unless you
+                  happen to think that those interpolators were completely ignorant of the Latin
+                  language.</p>
+               <p>But before we pass judgment on the authority of manuscripts N and G, we must say a
+                  few things about the corrections that each manuscript underwent.</p>
+               <p>Manuscript N, as we said above, was emended rather often by the original copyist
+                  and others. But all of the emendations of the first hand, which I have detected in
+                  almost sixty places, arose from the archetype itself. The copyist, as often
+                  happens, sometimes corrected the more trivial scribal errors as he wrote; we are
+                  all used to making these errors when we write. Accordingly, he added letters that
+                  he omitted by writing too quickly, or he delected extra letters, or he changed
+                  vowels and consonants, or he added words that had been omitted, or he restored the
+                  order of verses, or he inserted notes about people. Since that is the case, nearly
+                  all of the emendations by the first hand are good, or, to state it more
+                  truthfully, they restore the wording of the archetype. At C. 1.20, the first hand
+                  corrected <quote>dipicta</quote> to <quote>depicta</quote>, which <ref
+                     target="#Jacoby">Jacoby</ref> recently defended in vain, since
+                     <quote>descripta</quote> is to be read without doubt (cfr. Verg. Ecl. 5.13 and
+                  Calp. 1.25), but <quote>depicta</quote> was in the archetype, as G shows us.
+                  Similarly at N. 4.65 <quote>aversa</quote> is wrong (cfr. Verg. Ecl. 8.101 sq.),
+                  and the first hand has changed the fault into <quote>adversa</quote>, but
+                     <quote>adversa</quote> is found in G, from which you can easily conclude that
+                  the same reading appeared in the archetype. Only once did the first hand corrupt
+                  the true reading of the archetype (C. 3.67 <quote>qui</quote> from
+                     <quote>quam</quote>), but that should be attributed to an abbreviation, not at
+                  all to his intellect. Finally, all of the corrections of the first hand are
+                  confirmed by the readings in manuscript G, with the exception of C. 1.24
+                     <quote>propius</quote>, where I have reasonable suspicion that the person who
+                  wrote G misread the word.</p>
+               <p>The second hand's so-called emendations are three times as frequent as the first
+                  hand's, but in terms of proportion, they are found much more often in Calpurnius
+                  than in Nemesianus, and around a third of them are correct. For the most part, the
+                  second hand corrects scribal errors of a more trivial sort, but sometimes it
+                  restores omitted verses or errors, or it corrects transposed verses, or it
+                  completely overhauls more serious problems. In general, the second hand's
+                  emendations come from manuscripts of the second family, not the archetype, but an
+                  interpolator has corrected some of them after his own fashion. It does not take
+                  many examples to demonstrate this, but, to begin with passages successfully
+                  restored, consider these readings with me, dear reader:</p>
+               <table rows="18" cols="3">
+                  <head>Comparison of N¹ and G with N² and V</head>
+                  <row role="label">
+                     <cell role="data">Line</cell>
+                     <cell role="data">N¹ and G</cell>
+                     <cell role="data">N²V</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data">1.20</cell>
+                     <cell role="data"><quote>depicta</quote> N (ex <quote>dipicta</quote>) G</cell>
+                     <cell role="data"><quote>descripta</quote></cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data">1.25</cell>
+                     <cell role="data"><quote>codice</quote></cell>
+                     <cell role="data"><quote>cortice</quote></cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data">1.42</cell>
+                     <cell role="data">omitted</cell>
+                     <cell role="data">added</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data">1.55</cell>
+                     <cell role="data"><quote>profuso</quote></cell>
+                     <cell role="data"><quote>professo</quote> (and many other mss.)</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data">1.87</cell>
+                     <cell role="data"><quote>a</quote></cell>
+                     <cell role="data"><quote>ex</quote> (and many other mss.)</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data">3.26</cell>
+                     <cell role="data"><quote>ibi</quote></cell>
+                     <cell role="data"><quote>sibi</quote></cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data">4.12</cell>
+                     <cell role="data"><quote>C.</quote> omitted</cell>
+                     <cell role="data"><quote>C.</quote> added</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data">4.46</cell>
+                     <cell role="data"><quote>quicquam</quote></cell>
+                     <cell role="data">quisquam</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data">4.82</cell>
+                     <cell role="data"><quote>canat</quote></cell>
+                     <cell role="data">canit</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data">4.124</cell>
+                     <cell role="data"><quote>raptas</quote></cell>
+                     <cell role="data"><quote>ruptas</quote></cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data">4.145</cell>
+                     <cell role="data"><quote>nos</quote></cell>
+                     <cell role="data"><quote>hos</quote></cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data">5.7</cell>
+                     <cell role="data">entire line placed before line 6</cell>
+                     <cell role="data">corrected</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data">5.28</cell>
+                     <cell role="data"><quote>vivat</quote></cell>
+                     <cell role="data"><quote>vivit</quote></cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data">5.45</cell>
+                     <cell role="data"><quote>peragunt</quote></cell>
+                     <cell role="data"><quote>peragit</quote></cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data">7.48</cell>
+                     <cell role="data"><quote>tibi</quote></cell>
+                     <cell role="data"><quote>ubi</quote></cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data">N. 2.50</cell>
+                     <cell role="data"><quote>cum</quote></cell>
+                     <cell role="data"><quote>dum</quote></cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data">3.6</cell>
+                     <cell role="data"><quote>h</quote>N, om. G</cell>
+                     <cell role="data"><quote>hanc pueri tamquam</quote></cell>
+                  </row>
+               </table>
+               <p>On the other hand, an interpolator has cleverly emended the following:C. 3.91
+                     <quote>licidan</quote> N², <quote>licidax</quote> N, <quote>licidas</quote> or
+                     <quote>lycidas</quote> G V, 4.152 <quote>teriti</quote> N G,
+                     <quote>tereti</quote> N².</p>
+               <p>Do it not seem to you that I have demonstrated what I set out to prove? Or does it
+                  seem likely that N and G corrupted the good readings of the archetype in the same
+                  way in all of these places? But, is you need more proof, reflect on these other
+                  examples. First of all, in following places the second hand of manuscript N
+                  substituted the interpolations that mar the manuscripts in V for the genuine
+                  readings of the archetype: C. 2.8 <quote>vindicet</quote>* (I have indicated all
+                  correct reading with an asterisk) N G, <quote>vendicet</quote> N²V; 2.9
+                     <quote>thyrsi</quote>*, <quote>tyrsi</quote> G, <quote>tirsi</quote> N,
+                     <quote>tirso</quote> N²V pler.; 4.42 <quote>baetis</quote>*,
+                     <quote>bethis</quote> G, <quote>beris</quote> N, <quote>bactrus</quote> N²V;
+                  4.53 <quote>tantum-ventos</quote>* N G, <quote>solum-nimbos</quote> N²V pler.;
+                  4.75 <quote>quam</quote>* G, <quote>q&#773;m</quote> N, <quote>qua</quote> N²V
+                  nonn.; 4.131 <quote>iam surdant</quote>* G, <quote>iam surdat</quote> N,
+                     <quote>exsurdant</quote> N²V nonn.; 4.148 <quote>deas</quote>* G
+                     (<quote>deas</quote> = <hi rend="italic">Musas</hi>, as <ref target="#Leo">F.
+                     Leo</ref> demonstrated), <quote>d'as</quote> N, <quote>deos</quote> N²V; 5.49
+                     <quote>afferet</quote>* N G, <quote>afferat</quote> N²V nonn.; 5.61
+                     <quote>serique-premendi</quote>* N G, <quote>seraeque-merendae</quote> N²V;
+                  5.97 <quote>circitor</quote>* N G, <quote>vinitor</quote> N²V; 5.99
+                     <quote>nunc</quote>* N G, <quote>tunc</quote> N²V; 6.47 <quote>perdere</quote>*
+                  N, <quote>prodere</quote> G, <quote>pendere</quote> N²V; 6.75 <quote>illis</quote>
+                  N G, <quote>ipsi</quote> N²V, pler.; N 1.27 <quote>laudem</quote>* N G,
+                     <quote>musam</quote> N²V; 1.54 <quote>iuris</quote>* N G, <quote>iusti</quote>
+                  N²V; 2.28 <quote>nostros posset</quote>* N G, <quote>posset rapidos</quote> N²V
+                  pler.; 4.66 <quote>urar</quote>* N, <quote>uror</quote> G, <quote>arsi</quote>
+                  N²V; cfr praeterea 4.63 <quote>carmen modulabile</quote> N²V nonn., which Baehrens
+                  would not have received into the text, if he had assessed carefully the things
+                  Haupt discussed about elisions in Calpurnius, and 5.65 <quote>coagulat
+                     lacte</quote> N², which clearly comes from <quote>coagula lactis</quote> V.
+                  Next, in the following places the second hand made some very poor attempts at
+                  conjectures for words handed down in the tradition: C. 1.31
+                  <quote>sequaci</quote>* G, <quote>sagaci</quote> N²; 1.73 <quote>auferet</quote>*
+                  N G, <quote>afferet</quote> N²; 1.85 <quote>excipiet</quote>* N,
+                     <quote>excuciet</quote> N²; 2.76 <quote>herbas</quote>* N G,
+                     <quote>uvas</quote> N²; 3.25 <quote>sprevi</quote>* G,
+                     <quote>spiritu&#773;</quote> N, <quote>speciem</quote> N²; 3.46
+                     <quote>acerba</quote>* N G, <quote>avena</quote> N²; 4.79
+                     <quote>succinet</quote>*, <quote>subcinit</quote> G, <quote>succinit</quote> N,
+                     <quote>sucinat</quote> N²; 4.106 <quote>palen</quote>*, <quote>panem</quote> N
+                  G, <quote>palam</quote> N²; 4.111 <quote>densat</quote>* G, <quote>pensat</quote>
+                  N, <quote>pulsat</quote> N²; 4.121 <quote>et</quote>* N G, <quote>at</quote> N²;
+                  4.124 <quote>saliat</quote>*, <quote>psallat</quote> G, <quote>psalat</quote> N,
+                     <quote>psaliat</quote> N²; 5.27 <quote>voca</quote>* N G, <quote>loca</quote>
+                  N²; 6.19 <quote>vis</quote>* N G, <quote>visne</quote> N²; 6.37
+                     <quote>fruticat</quote>*, <quote>fruticet</quote> G, <quote>frutiō</quote> N,
+                     <quote>fruticem</quote> N²; 6.69 <quote>mutavimus</quote>* N G,
+                     <quote>mutuabimus</quote> N²; N. 1.1 <quote>fiscella</quote>* N G,
+                     <quote>cistella</quote> N², 1.5 <quote>versuque</quote>* N G,
+                     <quote>versusque</quote> N²; 2.17 <quote>leves</quote>* N G,
+                     <quote>lenes</quote> N².</p>
+               <p>And so if the second hand's emendations agree with manuscripts of family V, they
+                  can add no authority to them, since they arose from them; but if they depend on no
+                  other book, they must be considered to be the conjectures of a fairly learned
+                  person. If we have discussed them correctly, the emendations of that sort are
+                  entirely without merit, and I did not unjustly omit them outright when I compared
+                  manuscript N with G.</p>
+               <p>Finally, there are five emendations by the third hand, of which three are good (C.
+                  2.1 puer, 2.4 gravis, 2.33 pomona) and two are bad (C. 1.59 truderit, 5.11
+                  ganā).</p>
+               <p>Manuscript G offers more than eighty emendations in its own <!-- contextu -->.
+                  With two or three exceptions where you can recognize another hand, they are the
+                  work of the original copyist. Sometimes, he restored verses or words that had been
+                  omitted, but for the most part he corrected the more trivial scribal errors. All
+                  of the corrections are good, and they are derived from the archetype itself (as
+                  agreement with its twin manuscript shows), with only three exceptions: N. 2.73,
+                  3.63, 4.10, which the scribe unsucessfully tried to emend. N. 3.53 does not count,
+                  since in this passage either the copyist of manuscript N could read poorly, or G
+                  entered a correction made either above the line or in the margin of the archetype.
+                  But aside from these emendations I found nearly alternate readings in the margine
+                  of this manuscript, which most often were added by the copyist himself. All are
+                  derived either from some manuscript of no special repute or from the conjecture of
+                  some lscholar. For the most part, they are not even worthy of mention.</p>
+               <p>If I have done my job, it is clear what we should think about each of these
+                  manuscripts. Manuscripts N and G outstrip the others not only in the good quality
+                  of their archetype, but also because their copyists were content to transcribe the
+                  archetype faithfully, and they generally abstained from interpolating the words of
+                  the poets. For very rarely have the words handed down from antiquity been
+                  corrupted by the judgment of the scribes. That is why this is the biggest
+                  difference between the Neapolitanus and the Gaddianus: that the latter generally
+                  <!-- temptavit --> the writing of the archetype by his own devices, but the former
+                  admitted the interpolations of inferior manuscripts. And, if we want to think
+                  clearly, the Neapolitanus should be preferred in a certain way, but not as Schenkl
+                  wanted. For the Gaddianus has nearly the same number of good readings as the
+                  Neapolitanus, and sometimes it alone out of all of the manuscripts preserves the
+                  genuine reading for us. And so, there is need for both manuscripts in representing
+                  the true picture of the archetype.</p>
+            </div>
+            <div type="section" n="4">
+               <head>IV. The Second Family: V</head>
+               <p>The second family, called V, includes a little more than twenty manuscripts, of
+                  which I have selected sixteen for my edition. They are as follows:</p>
+               <list>
+                  <head>Manuscripts in the Biblioteca Ambrosiana (Milan)</head>
+                  <item>Codex Ambrosianus O 74 sup., paper, 212 X 145 mm., written in the fifteenth
+                     century. It has 183 leaves with twenty-five versus to a page. Contained in it
+                     are minor poems that were once attributed to Vergil, the epgrams of Claudianus
+                     Alexandrinus (Claudian), the <bibl><title>Orestis fabula</title></bibl>, eleven
+                     eclogues of Calpurnius (ff. 112–133), the
+                        <bibl><title>Parthenopaeus</title></bibl> and two elegies of Giovanni
+                     Pontano, an elegy by Antonio Beccadelli to Johannes Lamola of Bologna, Janus
+                     Pannonius' <bibl><title>epithalamium in Salomonem Sacratum et Liberam Guarinam,
+                           a poem <bibl><title>in Venetae urbis laudem</title></bibl>, and a poem
+                                 <bibl><title>de ortu atque obitu hermaphroditi</title></bibl>
+                        </title></bibl>. A. Ceriani noted the readings of this manuscript for
+                     Schenkl, then I collated the entire manuscript in 1908, and I inspected it
+                     again in 1909.</item>
+                  <item>Codex Ambrosianus I 26 sup., paper, 214 X 158 mm., written in the fifteenth
+                     century. It consists of 61 leaves, and each page has twenty verses. It contains
+                           <bibl><author>Claudius Claudianus (Claudian)</author>
+                        <title>de raptu Proserpinae</title></bibl> (ff. 1–30), the poems
+                           <bibl><title>de cantu avium et sono quadrupedum</title> (ff.
+                        32–33)</bibl>, the <bibl><title>bucolica</title></bibl> of Calpurnius and
+                     Nemeianus attributed to Calpurnius alone (ff. 35–61). Folios 31 and 34 are
+                     blank. At the end I read the following subscription: <quote>"On August 4, 1463,
+                        I, Peter, finished this"</quote> (cf. <bibl xml:id="Sabbadini"><author>R.
+                           Sabbadini</author>, <title>Le scoperte dei codici latini e greci ne'
+                           secoli XIV e XV</title>, p. 16 n. 82 <ptr
+                           target="https://archive.org/stream/lescopertedeicod01sabbuoft"/></bibl>).
+                     In 1909 I was the first to collate this manuscript, which was entirely unknown
+                     to previous editors.</item>
+               </list>
+               <p>Then there are six Vatican manuscripts—namely Vaticanus 3152 and 2110, Urbinas
+                  353, Palatinus 1652, Reginensis 1759, Ottobonianus 1466—that I collated in 1908,
+                  then inspected again in the following year. They are:</p>
+               <list>
+                  <head>Manuscripts in the Bibliotheca Apostolica Vaticana (Vatican City)</head>
+                  <item>Codex Vaticanus 3152, paper, 215 X 147 mm., written in the fifteenth
+                     century. It consists of 81 leaves, of which 18ᵛ, 26–30, 51ʳ, 81ᵛ are blank.
+                     There are thirty-one verses on each page. It contains Calpurnius' eleven
+                     eclogues (1–18ʳ), followed by various poems by Cyprian, Lactantius, Firmianus,
+                     and Ausonius.</item>
+                  <item>Codex Vaticanus 2110, parchment, 284 X 216 mm., most handsomely written in
+                     the fifteenth century under Pope Nicholas V. It consists of 128 leaves. Each
+                     page has forty, forty-one, or forty-three verses. Contents: a Latin translation
+                     of <bibl><author>Aristotle's</author>
+                        <title>Magna Moralia</title> (ff. 1–56)</bibl>,
+                           <bibl><author>Cicero's</author>
+                        <title>Topica</title> (ff. 57–65ʳ)</bibl>, <bibl><author>Boethius'</author>
+                        <title>In Ciceronis Topica</title> (ff. 65ʳ–67ᵛ)</bibl>, Calpurnius' eleven
+                     eclogues (ff. 67ᵛ–80), <bibl><author>St. John Chysostom's</author>
+                        <title>De dignitate sacerdotali dialogus</title> (ff. 81–120ʳ)</bibl>, and
+                     an excerpt from the life of St. John Crysostom (ff. 120ᵛ–128). </item>
+                  <item>Codex Vaticanus Urbinas 353, parchment, 387 X 247 mm., most handsomely
+                     written in the fifteenth century. It consists of 309 leaves, and there are
+                     twenty-nine versus per page. <bibl xml:id="Curcio"><author>Gaetano
+                           Curcio</author> (<title>Poeti Latini Minori</title> vol. 2, pt. 1, p. VI
+                        ff.) <ptr target="https://archive.org/details/poetilatinimino03curcgoog"
+                        /></bibl> has meticulously described the outer appearance of this
+                     manuscript. The eleven eclogues of Calpurnius are contained on leaves 95ʳ–113ᵛ
+                     of this manuscript, along with many poems by various authors that it is not
+                     necessary to report here. The following subscription appears at the end of this
+                     work: <quote>Federico Veterano of Urbino, in service to Federico di
+                        Montefeltro, Duke of Urbino, Commander (Condottiero?) of the most
+                        indomitable Roman Church, copied this manuscript. When that prince dies, may
+                        I, too, be taken from your midst and find rest from the approaching times of
+                        disaster.</quote></item>
+                  <item>Codex Vaticanus Palatinus 1652, parchment, 267 X 159 mm, copied most
+                     beautifully in the fifteenth century. It consists of 129 written leaves, and
+                     each page has thirty-seven verses. It contains Tibullus (ff. 1–28ʳ), Catullus
+                     (ff. 28ᵛ–60ʳ), Calpurnius' eleven eclogues (ff. 60ʳ–74ᵛ), Propertius (ff.
+                     74ᵛ–129). The following is written at the end of the work (cfr. <ref
+                        target="#Sabbadini">Sabbadini</ref>): <quote>By the hand of
+                        <!-- M' ??? -->Petrus Montopolitanus on February 21, 1460.</quote> That is
+                     followed by two hexameters written on the death of Giannozzo Manetti.</item>
+                  <item>Codex Vaticanus Reginensis 1759, formerly in the library of the Convento di
+                     San Silvestro al Quirinale, parchment, 198 X 123 mm. It contains only the
+                     eleven eclogues of Calpurnius. It consists of 22 leaves formatted so that each
+                     page has twenty-five verses. The book was written in the fifteenth
+                     century.</item>
+                  <item>Codex Vaticanus Ottobonianus 1466, formerly in the collection of the Dukes
+                     of the Altaemps and Galesi, paper, 198 X 132 mm., written in the fifteenth
+                     century. It consists of 51 leaves, each page having twenty-four verses. It
+                     contains the eleven eclogues of Calpurnius (ff. 1–24ʳ); varios poems
+                     follow.</item>
+               </list>
+               <p>Aside from the Codex Gaddianus (<ref target="#CodexGaddianus">see above</ref>),
+                  another five manuscripts survive in Florence. I collated them in 1908, and I
+                  examined them again in 1909. They are:</p>
+               <list>
+                  <head>Manuscripts in Florence</head>
+                  <item>Codex Laurentianus plut. 37,14, parchment, 323 X 195 mm., most handsomely
+                     written in the fifteenth century. It consists of 224 written leaves. Each page
+                     has thirty-five verses. Contents: <bibl><author>Silius Italicus</author>
+                        <title>Punica</title></bibl>, <bibl><author>Calpurnius</author>
+                        <title>Eclogae XI</title> (ff. 177ᵛ–193ᵛ)</bibl>,
+                           <bibl><author>Hesiod</author>
+                        <title>Opera et Dies</title> in a Latin translation by N. Valla</bibl>,
+                           <bibl><author>Claudian</author>
+                        <title>de raptu Proserpinae</title></bibl></item>
+                  <item>Codex Laurentianus bibl. Aed. ("Edili") 203, formerly in the Cathedral of
+                     Santa Maria del Fiore, paper, 223 X 155 mm, copied in the fifteenth century. It
+                     consists of 188 written leaves, with twenty-five verses to a page. It contains
+                     the eleven eclogues of Calpurnius (ff. 140–161), along with the poems of
+                     Vergil, Statius, Caudian, Maximian and other ancient poets. At the end it is
+                     inscribed as follows: <quote>This book belongs to Giorgio Antonio
+                        Vespucci</quote></item>
+                  <item>Codex Riccardianus 724, formerly L IIII 10, parchment, 203 X 136 mm. written
+                     in the fourteenth century. It has 29 leaves with twenty-two verses to a page.
+                     It contains the eleven eclogues of Calpurnius (ff. 1–25ʳ), which some removed
+                     as the verses of other writers.</item>
+                  <item>Codex Riccardianus 636, formerly L IIII 14, parchment, 225 X 150 mm.,
+                     written in the fifteenth century. It consists of 126 leaves, with twenty-six
+                     verses to a page. I am astonished that Schenkl reported that this manuscript is
+                     designated as codex 363, especially since the scholar in charge of the
+                     Bibliotheca Riccardiana informed me that the manuscript of which we speak has
+                     never been designated with the number 363. I would not say any more about this
+                     unless <bibl><author>Teuffel-Schwabe</author> (<title>Geschichte der römischen
+                           Literatur</title> 5th edition, p. 748<ptr
+                           target="https://books.google.com/books?id=EoArAAAAYAAJ&amp;pg=PA748#v=onepage&amp;q&amp;f=false"
+                        /></bibl>, <bibl><author>Schanz</author> (<title>Geschichte der römischen
+                           Literatur</title> II.2, second edition, p. 74 <ptr
+                           target="http://hdl.handle.net/2027/coo.31924114797263?urlappend=%3Bseq=94"
+                        /></bibl>, <bibl><author>Skutsch</author> (<title>Calpurnius 119</title> RE
+                        3: 1401ff. <ptr
+                           target="http://hdl.handle.net/2027/uc1.31175030713310?urlappend=%3Bseq=709"
+                        /></bibl>, and others, had not relied on Schenkl's testimony and perpetuated
+                     the mistake. Now I return to what I started. The eleven eclogues of Calpunrius
+                     are contained in this manuscript (ff. 25–45), along with other minor works of
+                     various authors that are not worth mentioning here, since the poems of
+                     Calpurnius, as Schenkl knew, were formerly separated from the rest. And
+                     Calpurnius' bucolic poetry includes such a large number of corrections and
+                     glosses added by various hands either in the verses themselves or in the margin
+                     that the various hands cannot always be distinguished among themselves. But
+                     that is as much as I will say, since I propose to discuss the annotations of
+                     Angelius elsewhere.</item>
+                  <item>Codex Riccardianus 974, paper, 208 X 142 mm., written in the fifteenth
+                     century, consists of 74 leaves. Among other minor works of various authors, it
+                     contains only the second eclogue by Calpurnius (ff. 3–5), and that under the
+                     title of the first eclogue. Previous editors clearly did not know about this
+                     manuscript.</item>
+               </list>
+               <p>I have added three other manuscripts, namely Gothanus 55 and the two
+                  Wratislavienses Rehdigerani, I.4.10 and I.4.11, but I have not inspected them
+                  personally.</p>
+               <p>Regarding the codex Gothanus, Wernsdor reported the following: <quote>"Written on
+                     parchment. Octovo. After Vergil's <bibl><title>Bucolics</title></bibl>,
+                           <bibl><title>Georgics</title></bibl>, and
+                        <bibl><title>Aeneid</title></bibl></quote>, it has the seven eclogues of
+                  Calpurnius. It was beautifully written , but finished recently, scarcely before
+                  the fifteenth century. Moreover, it has been damaged, or it was copied from a
+                  damaged manuscript, since the seventh eclogue ends at verse 65. After an empty
+                  space on the last part of the page, the copyist has written the following
+                  subscription: <quote>The end. These are the poems that were composed by
+                     Calpurnius</quote>. I. G. Meusel collated the manuscript for Wernsdorf.</p>
+               <p><ref target="#Glaeser">Glaeser</ref> had the following to say about the codices
+                  Rehdigerani: <quote>The second codex Rehdigeranus (that is, I.4.11), retrieved
+                     from the Rehdigeran library in this city (i.e., Wrocław), quarto, written
+                     carelessly in the fifteenth century, 115 leaves. All eleven are ascribed to
+                     Calpurnius. They are preserved on leaves 3ʳ–22ʳ. Aside from one inscription at
+                     the beginning, no other is found in this book, and no indication of characters,
+                     with the exception of the recto of the third leaf. Here, the copyist put this
+                     sign (") in the margin when the character changes. Individual pages have
+                     twenty-six verses. Although this book contains many erroneous readings, I can
+                     assert that good readings are not entirely missing from it. I have collated it
+                     myself." "I received permission to use the first codex Rehdigeranus (that is,
+                     I.4.10) from the Rehdigeran library that is in this city. It is a quarto volume
+                     of mixed material (paper and parchment), beautifully written in the fifteenth
+                     century. It consists of 130 leaves. It contains all eleven eclogues assigned to
+                     Calpurnius. They appear on leave 3ʳ–27ʳ. Titles and signs for characters are
+                     decorated with red ink. Each page has twenty-two or twenty-three verses.
+                     Additionally, many of the minor poems of Vergil and other others (some more
+                     recent) are written in it. I collated it myself."</quote></p>
+               <p>All of the manuscripts that I have assigned to the second family were copied from
+                  one book, which I will call <ref target="#V">V</ref>, or from a copy of it. The
+                  common origin of these manuscripts is attested not only by the omission or
+                  transposition of the same verses and words, but also by the great number of
+                  interpolations and errors that the other manuscripts lack entirely. But aside from
+                  these common faults, which were transmitted from the archetype, the individual
+                  manuscripts have many other errors unique to themselves. Through careful
+                  comparison, these books can be assigned to specific groups. For that reason, I
+                  don't want to linger on this subject, but I will advise that Riccadianus 724 and
+                  Vaticanus Reginensis 1759 are so similar to each other that you would rightly
+                  conclude: that they were copied from the same book; that the Ottobonianus,
+                  Laurentianus pl. 37,14, the first Rehdigeranus (I.4.10), the Gothanus, and the <hi
+                     rend="italic">editio princeps</hi> descended from the same copy of manuscript
+                     <ref target="#V">V</ref> on account of certain evidence; and finally that
+                  Vaticanus Urbinas 353 and the <hi rend="italic">editio Veneta</hi> in 1472 are
+                  closely related by the tightest bonds of affinity. For the oldest editions are
+                  rightly thought to be reproductions of manuscripts (cfr. <ref target="#Sabbadini"
+                     >Sabbadini</ref>, p. 213 n. 5); moreover, the <hi rend="italic">editio
+                     Veneta</hi> was printed before Fridericus de Veteranis transcribed the Codex
+                  Urbinas (cfr. <ref target="#Curcio">Curcio</ref>, p. VIII). Finally, I add that I
+                  found the oldest edition of Calpurnius and Nemesianus in the Bibliotheca
+                  Riccardiana, recorded by no editor until now, place and year of publication
+                  unknown, now bearing the number 498, which I can demonstrate by the strongest of
+                  arguments was copied from the manuscript Laurentianus pl. 37,14 before that
+                  manuscript underwent the corrections of the so-called second hand.</p>
+               <p>If any one should collate all of the manuscripts of this family with care, he
+                  would easily know which readings are those of the archetype from which all of them
+                  originate, and which are owed to the copyists of the individual manuscripts. And
+                  so now it remains to comapre <ref target="#V">V</ref> with <ref target="#N"
+                     >N</ref> and <ref target="#G">G</ref> and to see quat authority should be
+                  attributed to them.</p>
+               <p>First of all, both families, but more often <ref target="#V">V</ref>, are marred
+                  with gaps in verses and words. Eleven versus are missing in <ref target="#V"
+                     >V</ref> (C. 1.51, 7.32–34, 7.52–54, N. 1.29, 2.83, 3.25, 3.30) and one verse
+                  has been made from the two verses C. 2.18–19. On the other hand, C. 1.42 is
+                  missing in <ref target="#N">N</ref> and <ref target="#G">G</ref>, and the
+                  following words have been omitted: C. 4.94 <quote>posito</quote>, 7.71
+                     <quote>et</quote>, N. 3.6 <quote>hanc pueri tamquam</quote>. Moreover, in <ref
+                     target="#N">N</ref>
+                  <ref target="G">G</ref> Calpurnius 5.7 is placed before 5.6 and in <ref
+                     target="#V">V</ref> Calpurnius 5.67 is placed before 5.66. But since verses and
+                  supplied words have been passed down from antiquity and cannot be attributed to
+                  interpolators, the carelessness of copyists must not be blamed in these passages.
+                  But with regard to the words <quote>(h)anc pueri tamquam</quote>, which were
+                  omitted in <ref target="#N">N</ref>
+                  <ref target="#G">G</ref> even though there was space for them, the copyist, in my
+                  opinion, deliberately omitted them because he did not understand the writing in
+                  the archetype.</p>
+               <p><ref target="#N">N</ref>
+                  <ref target="#G">G</ref> and <ref target="#V">V</ref> differ in two hundred places
+                  or even more, but the readings correctly preserved in <ref target="#N">N</ref>
+                  <ref target="#G">G</ref> are almost two times greater than those in the second
+                  family. Moreover, what is even more interesting, nearly all of the corruptions
+                  that blemish <ref target="#N">N</ref>
+                  <ref target="#G">G</ref> are owed to the carelessness or ignorance of their
+                  copyists, but <ref target="#V">V</ref> quite often underwent interpolations. For
+                  example, there is no doubt that in <ref target="#N">N</ref>
+                  <ref target="#G">G</ref> the following passages drew their flaws from either the
+                  carelessness of a copyist or an abbreviation poorly understood: C. 1.28
+                     <quote>tibi vili</quote>, 1.55 <quote>profuso</quote>, 2.14
+                     <quote>affuerant</quote>, 2.23 <quote>hic</quote>, 2.80 <quote>numerat</quote>,
+                  2.96 <quote>canale</quote>, 3.21 <quote>si</quote>, 3.36 <quote>o</quote>, 3.43
+                     <quote>nunc</quote>, 3.46 <quote>quas</quote>, 3.84 <quote>tum</quote>, 4.2
+                     <quote>patula</quote>, 4.31 <quote>fragra</quote>, 4.43 <quote>externo</quote>,
+                  4.44 <quote>intra</quote>, 4.46 <quote>quicquam</quote>, 4.62
+                     <quote>quoque</quote>, 4.76 <quote>hospicius</quote>, 4.106
+                     <quote>panem</quote>, 4.112 <quote>primo</quote>, 4.124 <quote>raptas</quote>,
+                  4.145 <quote>nos</quote>, 4.153 <quote>nunc</quote>, 5.6 <quote>vanaque</quote>,
+                  5.28 <quote>vivat</quote>, 5.45 <quote>peragunt</quote>, 5.77
+                     <quote>contrahit</quote>, 5.82 <quote>rara</quote>, 5.84
+                     <quote>let(h)es</quote>, 5.117 <quote>sint(ne)</quote>, 6.70
+                     <quote>dabis</quote>, 6.76 <quote>hinc</quote>, 7.48 <quote>tibi</quote>, 7.57
+                     <quote>esse</quote>, 7.65 <quote>(a)equoreis</quote>, 7.67 <quote>anne</quote>,
+                  7.80 <quote>proprius</quote>, 7.82 <quote>obfuerat</quote>
+                  <ref target="#G">G</ref>
+                  <quote>offuerant</quote>
+                  <ref target="#N">N</ref>, N. 1.11 <quote>et versu</quote>, 1.14
+                  <quote>nam</quote>, 1.38 <quote>si sentire datur mi(t)tite</quote>, 1.42
+                     <quote>novisti</quote>, 1.46 <quote>hic</quote>, 1.70 <quote>honor</quote>,
+                  1.73 <quote>tunc</quote>
+                  <ref target="#N">N</ref>, 2.6 <quote>veneris</quote>, 2.45
+                     <quote>rubensque</quote>, 2.50 <quote>cum</quote>, 2.73 <quote>vates
+                     fauni</quote>, 3.17 <quote>cepit fatus</quote>, 3.41 <quote>hoc</quote>, 3.51
+                     <quote>vocabula cimbula</quote>, 3.57 <quote>cūcubitum</quote>
+                  <ref target="#N">N</ref>
+                  <quote>concubitum</quote>
+                  <ref target="#G">G</ref>, 4.10 <quote>animos</quote> (<hi rend="italic">s</hi>
+                  exp.) <ref target="#G">G</ref>, <quote>arons</quote>
+                  <ref target="#N">N</ref>, 4.21 <quote>(h)erit-florem</quote>, 4.47
+                     <quote>habunda(n)s</quote>, 4.58 <quote>annos</quote>.</p>
+               <p>Glosses have been received into the text in the following passages: C. 1.5
+                     <quote>molliter</quote>, N. I 49 <quote>mortali</quote>, II 42
+                     <quote>vini</quote>, 1.51 <quote>uvas</quote>. Also, <quote>litora</quote> Nem.
+                  2.22 comes from the same word placed at the beginning of the verse, and
+                     <quote>visus</quote> C. 7.84 comes from the preceding verse. There are
+                  certainly some passages that you could trace back to an interpolator: C. 1.20
+                     <quote>depicta</quote>, 1.24 <quote>altos</quote>, 1.25 <quote>codice</quote>,
+                  1.87 <quote>a</quote>, 2.26 <quote>ibi</quote>, 4.82 <quote>canat</quote>, 4.152
+                     <quote>olim-decurrent</quote>, 6.52 <quote>illa</quote>, 6.78 <quote>provocat
+                     ille</quote>, 7.6 <quote>in umbra</quote>, N. 2.20 <quote>atque</quote>, 4.39
+                     <quote>subeunt(e)</quote>, but, from the perspective of the archetype, I would
+                  attribute even these passages, with one or two exceptions, to the ignorance or
+                  carelessness of a copyist.</p>
+               <p>The same cannot be said about the archetype of the second family; indeed, things
+                  could not be more different. To say nothing of glosses received into the text, or
+                  words moved either because of the scribes' mistake or judgment (cfr C. 1.8–9, 2.4,
+                  2.73, 3.74, 3.88, 4.76, 4.83, 7.83, N. 1.72, 2.1, 2.23, 2.33, 2.40, 2.47, 2.76,
+                  4.54), and other faults that you could explain in various ways, I have detected
+                  the following in particular in it, and it detracts greatly from its authority: I
+                  refer to a great abundance of interpolations that have arisen only out of a
+                  passion for making changes. And, just to dismiss the several passages that others
+                  have ascribed to the carelessness of copyists, there is no reason to doubt that
+                  the readings marshalled here are owed to an interpolator:
+                  Calp.<!-- Started using this abbreviation here. --> 1.45 <quote>lusit</quote>,
+                  1.64 <quote>revocet</quote>, 1.78 <quote>placidum</quote> or <quote>placidam
+                     radianti</quote>, 2.5 <quote>ulmos</quote>, 2.32 <quote>spargit</quote>, 2.65
+                     <quote>fundere</quote>, 2.67 <quote>fore</quote> or <quote>fere</quote>, 2.82
+                     <quote>novembri</quote>, 2.94 <quote>vocat</quote>, 3.16
+                     <quote>spatiatus</quote>, 3.24 <quote>tu solus-Iolla es</quote>, 3.33
+                     <quote>vagetur</quote>, 3.35 <quote>quod</quote>, 3.47 <quote>excusso
+                     dispergit</quote>, 3.48 <quote>destructa</quote>, 3.60 <quote>inops</quote>,
+                  3.62 <quote>narrare</quote>, 3.69 <quote>nulla-lactis</quote>, 3.75
+                     <quote>dubita</quote>, 3.95 <quote>ara</quote>, 4.10 <quote>munera</quote>,
+                  4.14 <quote>dum</quote>, 4.16 <quote>proxima</quote>, 4.24 <quote>et</quote>, 4.35
+                     <quote>pellere</quote>, 4.41 <quote>germani</quote>, 4.42
+                     <quote>bactrus</quote>, 4.53 <quote>solum-noscere nimbos</quote>, 4.84
+                     <quote>nunc</quote>, 4.87 <quote>te</quote>, 4.90 <quote>visurus</quote>, 4.125
+                     <quote>ut quoque turba bono plaudat saginata magistro</quote>, 4.129
+                     <quote>nonnullas-choreas</quote>, 4.131 <quote>exurdant</quote> or
+                     <quote>exundant</quote>, 4.132 <quote>lyaeo</quote> or simile quid, 4.137
+                     <quote>nisi</quote>, 4.144 <quote>vivas et hunc</quote>, 4.146
+                     <quote>terram</quote>, 4.151 <quote>sonant</quote>, 4.152 <quote>quam
+                     tenero</quote>, 4.155 <quote>contigerit</quote>, 5.2 <quote>arbore</quote>,
+                  5.12 <quote>iamdudum</quote> or <quote>iampridem</quote>, 5.17
+                     <quote>habitabit</quote>, 5.19 <quote>tota</quote>, 5.24 <quote>mittito
+                     clausos</quote>, 5.30 <quote>accedere</quote>, 5.34 <quote>messe fluat</quote>,
+                  5.58 <quote>sine</quote> or <quote>sive</quote>, 5.61
+                     <quote>seraeque-merendae</quote>, 5.65 <quote>coagula</quote>
+                  <quote>lactis</quote>, 5.77 <quote>corrodet</quote>, 5.79 <quote>porta</quote>,
+                  5.80 <quote>ulceribus</quote>, 5.81 <quote>dura</quote>, 5.82 <quote>vini</quote>
+                  or <quote>vivi</quote>, 5.97 <quote>vinitor</quote>, 5.100 <quote>debes</quote>,
+                  5.105 <quote>venit</quote>, 5.111 <quote>gelida</quote>, 5.116 <quote>stipulis
+                     et</quote>, 5.118 <quote>penetralia</quote>, 6.7 <quote>ut</quote>, 6.8
+                     <quote>turpior</quote>, 6.9 <quote>te</quote>, 6.17 <quote>adesset</quote>,
+                  6.22 <quote>vincere</quote>, 6.29 <quote>insta nunc</quote>, 6.30 <quote>praedam
+                     nactus</quote>, 6.38 <quote>lucent</quote>, 6.46 <quote>hunc ego qualemcumque
+                     vides in valle</quote>, 6.50 <quote>iugale</quote>, 6.71
+                     <quote>lapillis</quote>, 6.75 <quote>ipse</quote> or <quote>ipsi</quote>, 6.79
+                     <quote>merito nihil hic nisi</quote>, 6.82 <quote>te stante</quote>, 7.4
+                     <quote>iam durior</quote>, 7.6 <quote>ardet</quote>, 7.21
+                     <quote>certare</quote>, 7.30 <quote>contendit</quote>, 7.49
+                     <quote>peragit</quote>, 7.59 <quote>nocticanam</quote> or
+                     <quote>nicticanam</quote>, 7.66 <quote>dignum</quote>, 7.68
+                     <quote>venientibus</quote>, 7.69 <quote>nos</quote>, 7.71
+                     <quote>latebris</quote>, 7.72 <quote>croceo</quote>,
+                  Nemes.<!-- I started using this abbreviation here. --> 1.9 <quote>meam mihi care
+                     senectam</quote>, 1.13 <quote>stupuere</quote>, 1.25
+                     <quote>modulantibus</quote> or <quote>modulatibus</quote>, 1.27
+                     <quote>musam</quote>, 1.29 <quote>quercus</quote>, 1.37 <quote>calamos</quote>,
+                  1.47 <quote>pelleret</quote>, 1.67 <quote>campo</quote>, 1.74
+                     <quote>secuntur</quote>, 1.75 <quote>nascentur</quote>, 1.85
+                     <quote>plena</quote> or <quote>plene</quote>, 2.3 <quote>furiata</quote>, 2.28
+                     <quote>posset rapidos</quote> or <quote>rabidos</quote>, 2.30
+                     <quote>lamberunt</quote> or <quote>biberunt</quote>, 2.37 <quote>Idas ille ego
+                     sum</quote>, 2.44 <quote>nigra</quote>, 2.71 <quote>cupiam</quote>, 3.19
+                     <quote>qui quando</quote>, 3.20 <quote>odorato-capillo</quote>, 3.29 <quote>et
+                     vocat ad</quote>, 3.34 <quote>summas</quote>, 3.37 <quote>ostendit</quote>,
+                  3.40 <quote>pueri</quote>, 3.45 <quote>udaque</quote> or <quote>nudaque</quote>,
+                  3.47 <quote>hoc capit</quote>, 3.54 <quote>spumeus</quote>, 3.65
+                     <quote>ingerit</quote>, 4.11 <quote>quos lusus</quote> or <quote>luxus</quote>,
+                  4.17 <quote>vultum veniens</quote>, 4.24 <quote>tibi</quote>, 4.44
+                     <quote>nactum</quote> or <quote>natum</quote>, 4.45 <quote>vertito</quote>,
+                  4.47 <quote>fluens</quote>, 4.50 <quote>longa</quote>, 4.66 <quote>arsi</quote>.
+                  For these reasons the manuscripts of the second family cannot be neglected
+                  entirely, but they should be used with greatest caution.</p>
+            </div>
+            <div type="section" n="5">
+               <head>V. The Third Family</head>
+               <p>Our only witness to the third family is codex Parisinus 8049, whose outer
+                  appearance F. Buecheler described in his edition of Petronius (Berlin 1862, p.
+                  XXf.) as follows: <quote>"Parchment, quarto, bound together in three parts: I.
+                     Introduction on Satire, Perseus; II. end of the 11th century, according to
+                     Kelius, end of the 12th century, according to Froehnerus, the end of the second
+                     book of the <bibl><title>De Divinatione</title> by
+                        <author>Cicero</author></bibl>. On the verso of leaf 17: <quote>Marci Tullii
+                        de divinacione liber IIᵘˢ explicit. Petronii arbitri satirarum liber
+                        incipit</quote>. On the recto of leaf 25: <quote>explicit Petronius. incipit
+                        egologa Calpurnii (nondum solis equos I 1—quicquid id est silvestre etc.
+                        IIII 12)</quote>. III. 12th century. Seneca's proverbs."</quote> Regarding
+                  this manuscript or one very similar to it, Poggio wrote the following to Noccolus
+                  (Epist. 1.91) in 1423: <quote>Please send me Calpurnius'
+                           <bibl><title>Bucolia</title></bibl> and the excerpt of Petronius that I
+                     sent to you from England.</quote> (Cfr. <ref target="#Sabbadini"
+                     >Sabbadini</ref> p. 83 n. 52). <ref target="#Pithou">Pithou</ref> was the first
+                  to use this manuscript, then <ref target="#Heinsius">Heinsius</ref>, as it seems,
+                  Miller (for <ref target="#Glaeser">Glaeser</ref>), Bursian (for <ref
+                     target="#Haupt">Haupt</ref>), and <ref target="#Baehr.">Baehrens</ref> collated
+                  it. Finally, at the request of <ref target="#Schenkl">Schenkl</ref>, Schoene
+                  inspected many of its passages.</p>
+               <p>The copyist who wrote the Codex Parisinus was utterly ignorant of the Latin
+                  language. In his completely careless performance of his task he committed
+                  countless scribal errors, and he did not finish his work, since the manuscript
+                  contains the first three eclogues by Calpurnius and stops in mid-sentence at verse
+                  12 of the fourth. Since I have mentioned all of the readings of this manuscript in
+                  my apparatus criticus, there is no need to report here all of the defects of
+                  writing with which it teems. But I will now recount certain rather curious things
+                  that are unique to this manuscript, so that you will be all the more amazed at the
+                  copyist's carelessness and ignorance:</p>
+               <table rows="63" cols="3">
+                  <head>Curious Readings in P</head>
+                  <row role="label">
+                     <cell role="data">Line</cell>
+                     <cell role="data">Readings in N G V</cell>
+                     <cell role="data">Reading in P</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data">1.1</cell>
+                     <cell role="data"><quote>declinis</quote> N, <quote>declivis</quote> G V</cell>
+                     <cell role="data"><quote>declivus</quote></cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data">1.2</cell>
+                     <cell role="data"><quote>praela</quote> N G V</cell>
+                     <cell role="data"><quote>praeda</quote></cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data">1.3</cell>
+                     <cell role="data"><quote>musta</quote> N G V</cell>
+                     <cell role="data"><quote>iniusta</quote></cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data">1.13</cell>
+                     <cell role="data"><quote>vocas</quote> N G V</cell>
+                     <cell role="data"><quote>vacas</quote></cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data">1.15</cell>
+                     <cell role="data"><quote>pervia</quote> N G V</cell>
+                     <cell role="data"><quote>previa</quote></cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data">1.18</cell>
+                     <cell role="data"><quote>matura</quote> N G V</cell>
+                     <cell role="data"><quote>matura</quote> N G V</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data">1.19</cell>
+                     <cell role="data"><quote>pariter</quote> N G V</cell>
+                     <cell role="data">om.</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data">1.25</cell>
+                     <cell role="data"><quote>citius</quote> N G V</cell>
+                     <cell role="data"><quote>sycios</quote></cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data">1.38</cell>
+                     <cell role="data"><quote>pecus</quote> N G V</cell>
+                     <cell role="data">om.</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data">1.52</cell>
+                     <cell role="data"><quote>subigentur</quote> N G, <quote>subigentur</quote> vel
+                           <quote>subdentur</quote> V</cell>
+                     <cell role="data"><quote>subiguntur</quote></cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data">1.53</cell>
+                     <cell role="data"><quote>inmergentque</quote> G, <quote>immergentque</quote> N
+                        V</cell>
+                     <cell role="data"><quote>imverguntque</quote></cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data">1.75</cell>
+                     <cell role="data"><quote>erectumque</quote> N G V</cell>
+                     <cell role="data"><quote>ereptumque</quote></cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data">1.79</cell>
+                     <cell role="data"><quote>sidus</quote> N G V</cell>
+                     <cell role="data"><quote>plenus</quote></cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data">1.85</cell>
+                     <cell role="data"><quote>excipiet</quote> N V, <quote>accipiet</quote> G</cell>
+                     <cell role="data"><quote>excipient</quote></cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data">1.89</cell>
+                     <cell role="data"><quote>velut</quote> N V, <quote>velud</quote> G</cell>
+                     <cell role="data"><quote>velit</quote></cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data">1.94</cell>
+                     <cell role="data"><quote>aures</quote> or <quote>auris</quote> N G V</cell>
+                     <cell role="data"><quote>auras</quote></cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data">2.4</cell>
+                     <cell role="data"><quote>hy cum terras</quote> N G, <quote>terras hi</quote> or
+                           <quote>ii cum</quote> V</cell>
+                     <cell role="data"><quote>hīc</quote> (om. <quote>cum terras</quote>)</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data">2.21</cell>
+                     <cell role="data"><quote>iamque</quote> N G V</cell>
+                     <cell role="data"><quote>iam</quote></cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data">2.21</cell>
+                     <cell role="data"><quote>medius</quote> N G V</cell>
+                     <cell role="data"><quote>meolus</quote></cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data">2.22</cell>
+                     <cell role="data"><quote>iudice pignora</quote> N G V</cell>
+                     <cell role="data"><quote>indice pignor</quote></cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data">2.23</cell>
+                     <cell role="data"><quote>hīc</quote> N G, <quote>hoc</quote> V</cell>
+                     <cell role="data"><quote>hac</quote></cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data">2.24</cell>
+                     <cell role="data"><quote>victus</quote> N G V</cell>
+                     <cell role="data"><quote>victor</quote></cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data">2.29</cell>
+                     <cell role="data"><quote>teda</quote> or <quote>taeda</quote> N G V</cell>
+                     <cell role="data"><quote>deda</quote></cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data">2.30</cell>
+                     <cell role="data"><quote>etiam</quote> N G V</cell>
+                     <cell role="data"><quote>cerā</quote></cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data">2.33</cell>
+                     <cell role="data"><quote>arbore</quote> N G V</cell>
+                     <cell role="data"><quote>ardore</quote></cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data">2.40</cell>
+                     <cell role="data"><quote>mutabilis</quote> N G V</cell>
+                     <cell role="data"><quote>mirabilis</quote></cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data">2.47</cell>
+                     <cell role="data"><quote>fetura</quote> or <quote>foetura</quote> N G V</cell>
+                     <cell role="data"><quote>factura</quote></cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data">2.52</cell>
+                     <cell role="data"><quote>crocalem</quote> or <quote>crotalem</quote> or
+                        something similar N G V</cell>
+                     <cell role="data"><quote>talē</quote></cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data">2.53</cell>
+                     <cell role="data"><quote>ego</quote> N G V</cell>
+                     <cell role="data">om.</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data">2.57</cell>
+                     <cell role="data"><quote>audiat</quote> N G V</cell>
+                     <cell role="data"><quote>audeat</quote></cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data">2.73</cell>
+                     <cell role="data"><quote>tenues citius</quote> G, <quote>cicius tenues</quote>
+                        N, <quote>citius tenues</quote> V</cell>
+                     <cell role="data"><quote>tenues cuius</quote></cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data">2.73</cell>
+                     <cell role="data"><quote>numerabit</quote> N G V</cell>
+                     <cell role="data"><quote>enumerat</quote></cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data">2.74</cell>
+                     <cell role="data"><quote>metimus</quote> N G V</cell>
+                     <cell role="data"><quote>metitur</quote></cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data">2.74</cell>
+                     <cell role="data"><quote>bruma</quote> N (ex <quote>pbruma</quote>) G V</cell>
+                     <cell role="data"><quote>prima</quote></cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data">2.81</cell>
+                     <cell role="data"><quote>renidenti</quote> G, <quote>renitendi</quote> N,
+                           <quote>renitenti</quote> V</cell>
+                     <cell role="data"><quote>redempti</quote></cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data">2.81</cell>
+                     <cell role="data"><quote>chias</quote> N G, <quote>thilas</quote> V</cell>
+                     <cell role="data"><quote>cymas</quote></cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data">2.82</cell>
+                     <cell role="data"><quote>nuces</quote> N G V</cell>
+                     <cell role="data"><quote>mices</quote></cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data">2.84</cell>
+                     <cell role="data"><quote>num-num</quote> N G V</cell>
+                     <cell role="data"><quote>nunc-nunc</quote></cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data">2.91</cell>
+                     <cell role="data"><quote>tenui lucere</quote> N G V</cell>
+                     <cell role="data"><quote>tātū lucē</quote></cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data">3.2</cell>
+                     <cell role="data"><quote>tauris</quote> N V, <quote>thauris</quote> G</cell>
+                     <cell role="data"><quote>tātis</quote></cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data">3.6</cell>
+                     <cell role="data"><quote>nec quicquam</quote> or <quote>quidquam</quote> N G
+                        V</cell>
+                     <cell role="data"><quote>ne quisquam</quote></cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data">3.18</cell>
+                     <cell role="data"><quote>adibo</quote> N G V</cell>
+                     <cell role="data"><quote>adhibo</quote></cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data">3.24</cell>
+                     <cell role="data"><quote>contentus</quote> N G V</cell>
+                     <cell role="data"><quote>contemptus</quote></cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data">3.26</cell>
+                     <cell role="data"><quote>calamos</quote> N G V</cell>
+                     <cell role="data"><quote>calamus</quote></cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data">3.29</cell>
+                     <cell role="data"><quote>ut</quote> N G V</cell>
+                     <cell role="data"><quote>et</quote></cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data">3.31</cell>
+                     <cell role="data"><quote>irata</quote> N G V</cell>
+                     <cell role="data"><quote>iurata</quote></cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data">3.32</cell>
+                     <cell role="data"><quote>te licida</quote> ve <quote>lycida</quote> or
+                        something similar N G V</cell>
+                     <cell role="data"><quote>theliocida</quote></cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data">3.42</cell>
+                     <cell role="data"><quote>ad sidera</quote> N G V</cell>
+                     <cell role="data"><quote>a sydera</quote></cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data">3.43</cell>
+                     <cell role="data"><quote>tua</quote> N G V</cell>
+                     <cell role="data"><quote>mea</quote></cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data">3.48</cell>
+                     <cell role="data"><quote>turdus</quote> N G V</cell>
+                     <cell role="data"><quote>tardus</quote></cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data">3.50</cell>
+                     <cell role="data"><quote>ut</quote> N G V</cell>
+                     <cell role="data"><quote>et</quote></cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data">3.51</cell>
+                     <cell role="data"><quote>te sine</quote> N G V</cell>
+                     <cell role="data"><quote>desine</quote></cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data">3.52</cell>
+                     <cell role="data"><quote>sapiunt</quote> N G V</cell>
+                     <cell role="data"><quote>sapient</quote></cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data">3.57</cell>
+                     <cell role="data"><quote>nec</quote> N G V</cell>
+                     <cell role="data"><quote>ne</quote></cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data">3.57</cell>
+                     <cell role="data"><quote>dubitasti</quote> N G V</cell>
+                     <cell role="data"><quote>dubitanti</quote></cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data">3.66</cell>
+                     <cell role="data"><quote>meis</quote> N G V</cell>
+                     <cell role="data"><quote>mores</quote></cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data">3.66</cell>
+                     <cell role="data"><quote>multris</quote> G, <quote>multis</quote> N,
+                           <quote>mulctris</quote> or something similar V</cell>
+                     <cell role="data"><quote>ī ultrix</quote></cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data">3.68</cell>
+                     <cell role="data"><quote>nec</quote> N G V</cell>
+                     <cell role="data"><quote>ne</quote></cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data">3.70</cell>
+                     <cell role="data"><quote>quod</quote> N G V</cell>
+                     <cell role="data"><quote>quo</quote></cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data">3.82</cell>
+                     <cell role="data"><quote>metere</quote> N G V</cell>
+                     <cell role="data"><quote>metā</quote></cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data">3.86</cell>
+                     <cell role="data"><quote>turpis</quote> N G V</cell>
+                     <cell role="data"><quote>cupis</quote></cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data">3.89</cell>
+                     <cell role="data"><quote>hy</quote> N G, <quote>hi</quote> V</cell>
+                     <cell role="data"><quote>hic</quote></cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data">3.92</cell>
+                     <cell role="data"><quote>miseris</quote> N G V</cell>
+                     <cell role="data"><quote>miseros</quote></cell>
+                  </row>
+               </table>
+               <p>But despite such an abundance of errors, sometimes the Codex Parisinus reports a
+                  correct reading of the archetype that has been corrupted in the other two
+                  families: cfr. 2.14 <quote>naides</quote> P, <quote>naiades</quote> N V,
+                     <quote>nayades</quote> G, 63 <quote>parilibus</quote> P,
+                     <quote>paliribus</quote> N G, <quote>palilibus</quote> V. To those passage you
+                  could add 1.4 <quote>ornyte</quote>*, <quote>ornyce</quote> P,
+                     <quote>ornite</quote> N G V. Even if you grant that these passages could have
+                  been emended by conjecture, nevertheless you would hardly think that a copyist
+                  whose ignorance and carelessness we have detected in so many and such great
+                  passages should be pardoned. If we have discussed these matters properly, all of
+                  the interpolations that the manuscript underwent are owed to the archetype, but
+                  the numerous mistakes in writing must be attributed to the copyist.</p>
+               <p>But to make a better judgment about the worth of this manuscript, we should
+                  consider what its readings are in the passages where the first family differs from
+                  the second.</p>
+               <p>First of all, N G P often give a good reading where V has a corrupt one:</p>
+               <table rows="28" cols="3">
+                  <head>N G P versus V</head>
+                  <row role="label">
+                     <cell role="data">Line</cell>
+                     <cell role="data">N G P</cell>
+                     <cell role="data">V</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data">1.28</cell>
+                     <cell role="data"><quote>haec</quote></cell>
+                     <cell role="data"><quote>hoc</quote></cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data">1.51</cell>
+                     <cell role="data">Present</cell>
+                     <cell role="data">Omitted</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data">1.78</cell>
+                     <cell role="data"><quote>rediantem</quote></cell>
+                     <cell role="data"><quote>radianti</quote></cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data">1.80</cell>
+                     <cell role="data"><quote>cruento</quote></cell>
+                     <cell role="data"><quote>cremato</quote></cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data">1.89</cell>
+                     <cell role="data"><quote>plenum</quote></cell>
+                     <cell role="data"><quote>plenus</quote></cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data">2.8</cell>
+                     <cell role="data"><quote>vindicet</quote></cell>
+                     <cell role="data"><quote>vendicet</quote></cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data">2.18–19</cell>
+                     <cell role="data">Present</cell>
+                     <cell role="data">Collapsed into one</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data">2.21</cell>
+                     <cell role="data"><quote>annosa</quote></cell>
+                     <cell role="data"><quote>herbosa</quote> or <quote>umbrosa</quote> or
+                           <quote>herbora</quote></cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data">2.30</cell>
+                     <cell role="data"><quote>parvo dixit</quote></cell>
+                     <cell role="data"><quote>parvo hoc dixit</quote></cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data">2.31</cell>
+                     <cell role="data"><quote>crescat</quote></cell>
+                     <cell role="data"><quote>crescit</quote></cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data">2.32</cell>
+                     <cell role="data"><quote>pingit</quote></cell>
+                     <cell role="data"><quote>spargit</quote></cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data">2.35</cell>
+                     <cell role="data"><quote>iam-nutrire</quote></cell>
+                     <cell role="data"><quote>nam-mutare</quote></cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data">2.49</cell>
+                     <cell role="data"><quote>pangitur</quote></cell>
+                     <cell role="data"><quote>panditur</quote></cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data">2.54</cell>
+                     <cell role="data"><quote>decernamque</quote></cell>
+                     <cell role="data"><quote>dicam namque</quote></cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data">2.61</cell>
+                     <cell role="data"><quote>et</quote></cell>
+                     <cell role="data"><quote>est</quote></cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data">2.65</cell>
+                     <cell role="data"><quote>figere</quote></cell>
+                     <cell role="data"><quote>fundere</quote> or <quote>fraude</quote></cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data">2.67</cell>
+                     <cell role="data"><quote>sunt</quote></cell>
+                     <cell role="data"><quote>fore</quote> or <quote>fere</quote></cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data">2.94</cell>
+                     <cell role="data"><quote>agat</quote></cell>
+                     <cell role="data"><quote>vocat</quote> or <quote>vocet</quote> or something
+                        similar</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data">3.2</cell>
+                     <cell role="data"><quote>ista</quote></cell>
+                     <cell role="data"><quote>illa</quote></cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data">3.16</cell>
+                     <cell role="data"><quote>spatiosus</quote></cell>
+                     <cell role="data"><quote>spatiatus</quote></cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data">3.24</cell>
+                     <cell role="data"><quote>sola tu</quote></cell>
+                     <cell role="data"><quote>tu solus</quote></cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data">3.28</cell>
+                     <cell role="data"><quote>haec</quote></cell>
+                     <cell role="data"><quote>hoc</quote></cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data">3.33</cell>
+                     <cell role="data"><quote>negetur</quote></cell>
+                     <cell role="data"><quote>vagetur</quote></cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data">3.47</cell>
+                     <cell role="data"><quote>excluso disperdit</quote></cell>
+                     <cell role="data"><quote>excusso dispergit</quote></cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data">3.59</cell>
+                     <cell role="data"><quote>haec</quote></cell>
+                     <cell role="data"><quote>hoc</quote></cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data">3.88</cell>
+                     <cell role="data"><quote>nostros primum</quote></cell>
+                     <cell role="data"><quote>primum nostros</quote></cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data">4.10</cell>
+                     <cell role="data"><quote>numina</quote></cell>
+                     <cell role="data"><quote>munera</quote></cell>
+                  </row>
+               </table>
+               <p>The following can also be added to these examples:</p>
+               <table rows="6" cols="3">
+                  <row role="label">
+                     <cell role="data">Line</cell>
+                     <cell role="data">N G P</cell>
+                     <cell role="data">V</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data">1.9</cell>
+                     <cell role="data"><quote>densent</quote> N, <quote>denset</quote> G P</cell>
+                     <cell role="data"><quote>densat</quote></cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data">1.45</cell>
+                     <cell role="data"><quote>vicit</quote> N P <quote>vīcit</quote> G</cell>
+                     <cell role="data"><quote>lusit</quote></cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data">1.76</cell>
+                     <cell role="data"><quote>fervit</quote> G P</cell>
+                     <cell role="data"><quote>servit</quote> (N V)</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data">3.60</cell>
+                     <cell role="data"><quote>iners</quote> N G, <quote>inexs</quote> P</cell>
+                     <cell role="data"><quote>inops</quote></cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data">3.95</cell>
+                     <cell role="data"><quote>sub horti</quote>] <quote>sub orti</quote> N G
+                        P</cell>
+                     <cell role="data"><quote>sub ara</quote></cell>
+                  </row>
+               </table>
+               <p>But more rarely P V corrupt a reading of the archetype preserved in N G. Here are
+                  some examples:</p>
+               <table rows="18" cols="3">
+                  <head>N G versus P V</head>
+                  <row role="label">
+                     <cell role="data">Line</cell>
+                     <cell role="data">N G</cell>
+                     <cell role="data">P V</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data">1.8</cell>
+                     <cell role="data"><quote>antra</quote>-9 <quote>ista</quote></cell>
+                     <cell role="data"><quote>ista</quote>-9 <quote>antra</quote></cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data">1.64</cell>
+                     <cell role="data"><quote>referet</quote> N, <quote>referent</quote> G (but
+                        corrected in the margin)</cell>
+                     <cell role="data"><quote>revocet</quote></cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data">2.5</cell>
+                     <cell role="data"><quote>umbras</quote></cell>
+                     <cell role="data"><quote>ulmos</quote></cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data">2.27</cell>
+                     <cell role="data"><quote>decernunt</quote></cell>
+                     <cell role="data"><quote>discernunt</quote></cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data">2.32</cell>
+                     <cell role="data"><quote>flora</quote></cell>
+                     <cell role="data"><quote>flore</quote></cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data">2.35</cell>
+                     <cell role="data"><quote>irriguos</quote></cell>
+                     <cell role="data"><quote>inriguis</quote> P, <quote>irriguis</quote> V</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data">2.45</cell>
+                     <cell role="data"><quote>novis</quote></cell>
+                     <cell role="data"><quote>novas</quote></cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data">2.48</cell>
+                     <cell role="data"><quote>at</quote></cell>
+                     <cell role="data"><quote>et</quote></cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data">2.80</cell>
+                     <cell role="data"><quote>at</quote></cell>
+                     <cell role="data"><quote>et</quote></cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data">2.82</cell>
+                     <cell role="data"><quote>decembri</quote></cell>
+                     <cell role="data"><quote>novembri</quote></cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data">2.88</cell>
+                     <cell role="data"><quote>ipse</quote></cell>
+                     <cell role="data"><quote>esse</quote></cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data">3.7</cell>
+                     <cell role="data"><quote>nec</quote></cell>
+                     <cell role="data"><quote>neque</quote></cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data">3.18</cell>
+                     <cell role="data"><quote>quavis</quote></cell>
+                     <cell role="data"><quote>quamvis</quote></cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data">3.24</cell>
+                     <cell role="data"><quote>iolla</quote></cell>
+                     <cell role="data"><quote>iolla es</quote></cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data">3.74</cell>
+                     <cell role="data"><quote>furem medio</quote></cell>
+                     <cell role="data"><quote>medio furem</quote></cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data">3.75</cell>
+                     <cell role="data"><quote>dubites</quote></cell>
+                     <cell role="data"><quote>dubita <!-- Giarratano omits V here --></quote></cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data">3.78</cell>
+                     <cell role="data"><quote>gremium</quote></cell>
+                     <cell role="data"><quote>gremio</quote></cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data">4.10</cell>
+                     <cell role="data"><quote>despicit</quote></cell>
+                     <cell role="data"><quote>respicit</quote></cell>
+                  </row>
+               </table>
+               <p>On the other hand, P V have corrected the corrupted readings of the first family
+                  in the following places</p>
+               <table rows="19" cols="3">
+                  <head>Correct reading in P V where N G are corrupt</head>
+                  <row role="label">
+                     <cell role="data">Line</cell>
+                     <cell role="data">P V</cell>
+                     <cell role="data">N G</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data">1.5</cell>
+                     <cell role="data"><quote>molle sub</quote></cell>
+                     <cell role="data"><quote>molliter</quote></cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data">1.20</cell>
+                     <cell role="data"><quote>descripta</quote></cell>
+                     <cell role="data"><quote>depicta</quote> N (from <quote>dipicta</quote>)
+                        G</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data">1.24</cell>
+                     <cell role="data"><quote>alto</quote></cell>
+                     <cell role="data"><quote>altos</quote></cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data">1.25</cell>
+                     <cell role="data"><quote>cortice</quote></cell>
+                     <cell role="data"><quote>codice</quote> N (apparently) G</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data">1.28</cell>
+                     <cell role="data"><quote>triviali</quote></cell>
+                     <cell role="data"><quote>tibi vili</quote></cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data">1.42</cell>
+                     <cell role="data">Present</cell>
+                     <cell role="data">Omitted</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data">1.55</cell>
+                     <cell role="data"><quote>professo</quote> P, most of V</cell>
+                     <cell role="data"><quote>profuso</quote></cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data">1.87</cell>
+                     <cell role="data"><quote>ex</quote> P, most of V</cell>
+                     <cell role="data"><quote>a</quote></cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data">1.90</cell>
+                     <cell role="data"><quote>quatit</quote></cell>
+                     <cell role="data"><quote>querit</quote> N <quote>petit</quote> G</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data">2.32</cell>
+                     <cell role="data"><quote>et</quote></cell>
+                     <cell role="data"><quote>at</quote></cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data">2.96</cell>
+                     <cell role="data"><quote>canalem</quote></cell>
+                     <cell role="data"><quote>canale</quote></cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data">3.21</cell>
+                     <cell role="data"><quote>sed</quote></cell>
+                     <cell role="data"><quote>si</quote></cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data">3.26</cell>
+                     <cell role="data"><quote>sibi</quote></cell>
+                     <cell role="data"><quote>ibi</quote></cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data">3.36</cell>
+                     <cell role="data"><quote>a</quote></cell>
+                     <cell role="data"><quote>o</quote></cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data">3.43</cell>
+                     <cell role="data"><quote>nam</quote></cell>
+                     <cell role="data"><quote>nunc</quote></cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data">3.46</cell>
+                     <cell role="data"><quote>quos</quote></cell>
+                     <cell role="data"><quote>quas</quote></cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data">3.84</cell>
+                     <cell role="data"><quote>tunc-tunc</quote></cell>
+                     <cell role="data"><quote>tum-tunc</quote></cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data">4.2</cell>
+                     <cell role="data"><quote>platano</quote></cell>
+                     <cell role="data"><quote>patula</quote></cell>
+                  </row>
+               </table>
+               <p>And, finally, in some places where the manuscripts of the second family report
+                  various readings, P preserves an inferior reading:</p>
+               <table rows="1" cols="3">
+                  <head>Places where P has an inferior reading compared to V</head>
+                  <row role="label">
+                     <cell role="data">Line</cell>
+                     <cell role="data">P (with N and/or G)</cell>
+                     <cell role="data">V</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data">1.46</cell>
+                     <cell role="data"><quote>victas</quote> N G P</cell>
+                     <cell role="data"><quote>vinctas</quote>* or <quote>victas</quote></cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data">1.61</cell>
+                     <cell role="data"><quote>laxabit</quote> G P</cell>
+                     <cell role="data"><quote>lassabit</quote>* or <quote>laxabit</quote></cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data">1.80</cell>
+                     <cell role="data"><quote>numquid</quote>* G, <quote>non quod</quote> P</cell>
+                     <cell role="data"><quote>numquid</quote> or <quote>non quod</quote> or
+                           <quote>non per</quote></cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data">2.14</cell>
+                     <cell role="data"><quote>affuerant</quote></cell>
+                     <cell role="data"><quote>affuerunt</quote>* or <quote>affuerant</quote></cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data">2.26</cell>
+                     <cell role="data"><quote>iactate</quote>* N G, <quote>iactare</quote> P</cell>
+                     <cell role="data"><quote>iactate</quote> or <quote>iactare</quote></cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data">2.48</cell>
+                     <cell role="data"><quote>arida</quote>* N G, <quote>altera</quote> P</cell>
+                     <cell role="data"><quote>arida</quote> or <quote>altera</quote> or
+                           <quote>avida</quote></cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data">3.18</cell>
+                     <cell role="data"><quote>contentus</quote>* N G, <quote>contemptus</quote>
+                        P</cell>
+                     <cell role="data"><quote>contentus</quote> or <quote>contemptus</quote></cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data">3.55</cell>
+                     <cell role="data"><quote>te</quote>* N G, <quote>tu</quote> P</cell>
+                     <cell role="data"><quote>tu</quote> or <quote>te</quote></cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data">3.73</cell>
+                     <cell role="data"><quote>vi</quote> G P</cell>
+                     <cell role="data"><quote>ut</quote>* or <quote>vi</quote></cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data">3.91</cell>
+                     <cell role="data"><quote>habet</quote>* N G, <quote>amat</quote> P</cell>
+                     <cell role="data"><quote>amat</quote> or <quote>habet</quote></cell>
+                  </row>
+               </table>
+               <p>In conclusion, to review what has been accomplished in this discussion, where N
+                  and G agree with P, there is not doubt that their reading should be preferred to
+                  readings of the second family. We have seen that this rule is violated in only
+                  three places (1.48 <quote>victas</quote>, 2.14 <quote>affuerant</quote>, 3.73
+                     <quote>vi</quote>), with which I do not concern myself. But where N and G
+                  differ from P and V, both groups of manuscripts have nearly the same number of
+                  good and corrupt readings. But far be it from me to give equal authority to both
+                  groups, for nearly all of the corruptions that N and G received, as it were, by
+                  inheritance from the archetype of the first family are owed to the carelessness or
+                  ignorance of copyists, but the faults of other manuscripts should be attributed to
+                  the perverse zeal of pseudo-scholars for emending and interpolating. That is why,
+                  with one or two exceptions, there is never any uncertainty about which reading to
+                  select. If these matters have been established correctly, then the Codex Parisinus
+                  cannot always be accepted as an arbiter, but we ought always to consider its
+                  readings and we must also be sad that it has such a brief run of verses.</p>
+            </div>
+            <div type="section" n="6">
+               <head>VI. Two lost manuscripts</head>
+               <p>Now let us discuss the two manuscripts that are lost to us today, that is the
+                  Taddeo Ugoleto's Codex Germanicus and Boccaccio's manuscript.</p>
+               <p>We know nothing about the Codex Germanicus other than what Niccolò Angeli has
+                  handed down to us about it. Also, the following is written in Codex Riccardianus
+                  636 at the end of Calpurnius in the hand of Angeli: <quote>From a very ancient
+                     manuscript brought from Germany | this title has been copied: The end of the
+                     bucolics of | Calpurnius, the first eclogue of Aurelius Nemesianus the poet |
+                     from Carthage</quote>. Then, at the end of Nemesianus: <quote>I, Niccolò
+                     Angeli, collated this manuscript against many others and the very old
+                     manuscript that Taddeo Ugoleto, librarian of the royal library in Hungary,
+                     brought with him from Germany and prepared for my use. Many poems were
+                     discovered in it. In the year of salvation 1492</quote>. Regarding Boccaccio's
+                  manuscript, Codex Harleianus 2578 (about which see <bibl><author>C.
+                        Schenkl</author> in the preface to his edition of Ausonius [Berlin 1884], p.
+                     XXI)</bibl> offers similar testimony. At the end of Nemesianus, the following
+                  subscription is found: <quote>This manuscript was collated with greatest care with
+                     the very old manuscript that Taddeo Ugoleto, librarian of the royal library in
+                     Hungary, brought from Germany. Also with the one that Giovanni Boccaccio is
+                     said to have written with his own hand to dedicate to the library of Santo
+                     Spirito in Florence: We found the title and division of the work in that
+                     manuscript, along with many poems.</quote></p>
+               <p>Codex Riccardianus 636 is written very beautifully on the leaves that contain the
+                  bucolic poetry of Calpurnius and Nemesianus, but at a later date, by erasing or
+                  emending, various hands have obscured the transmitted text to such a degree that
+                  sometimes you can barely see what the original reading was. Moreover, because of
+                  their similarities, I could not, like Schenkl, always distinguish the later hands.
+                  That is why I have indicated all of them, except Angeli's readings, in the
+                  apparatus criticus with the symbol <ref target="#ρ2">ρ²</ref>. For the hand of
+                  Angeli is easily distinguished from the others in nearly all instances. And now we
+                  must consider his readings to make a proper judgment about the authority of the
+                  Codex Germanicus, since we learn nothing from the edition published in Parma
+                  (around 1500) or the first Florentine edition (1504), even though Angeli edited
+                  the latter and Angelo Ugoleto added at the end of the former that he had
+                  established the text based on the Codex Germanicus, when both editions, as Schenkl
+                  has demonstrated conclusively, derived from Codex Riccardianus 636.</p>
+               <p>First to consider is whether all of the readings noted by Angeli were taken from
+                  the Codex Germanicus or had some other origin. In the subcription of the Codex
+                  Riccardianus that we reported above <!-- refer to this --> there is mention of
+                  many other manuscripts. Moreover, Angeli's annotations can be divided generally
+                  into two classes, for most of them agree with N G, and the rest with certain
+                  manuscripts of the second family, especially Codex Urbinas 353 Vatican 3152,
+                  Ambrosianus O.74 sup., and the edition published in Venice in 1472. Consider the
+                  following passages: Calp. 1.30 <quote>non</quote> Aεαγe, 1.46
+                     <quote>vinctas</quote> Aγ, 1.87 <quote>et meritis</quote> Aεαe, 2.27
+                     <quote>discrevit digitus</quote> Aεαe, 2.32 et A V, 2.48 <quote>arida</quote>
+                  Aα, 2.67 <quote>fore</quote> Aεαγe, 3.93 <quote>perfer et ore tuo
+                     modulator</quote> A¹ εγe, 3.98 <quote>redit</quote> Aεγe, 4.51
+                     <quote>aliena</quote> Aεe, 4.75 <quote>quae</quote> Aεαe, 4.77 <quote>per
+                     me</quote> Aεe, 4.94 <quote>abis</quote> Aεγe, 4.95 <quote>reclivus</quote>
+                  Aεγe et <quote>reclivis</quote> Aα, 4.101 <quote>sonuerunt</quote> Aεe, 5.31
+                     <quote>ut</quote> Aεe, 5.58 <quote>vel</quote> Aεαγe, 5.100 <quote>tum</quote>
+                  Aεγe, 5.102 <quote>ast tibi</quote> A N G and <quote>ast ubi</quote> Aεαe, 6.35
+                     <quote>scit</quote> Aεe, 6.38 <quote>lucent</quote> A V, 6.82
+                     <quote>carmina</quote> Aεαγe, 7.25 <quote>clivos</quote> Aα, 7.43
+                     <quote>tam</quote> Aεe, 7.77 <quote>referens</quote> Aεαe, 7.78 <quote>quae sit
+                     modo</quote> Aεαγe, 7.84 <quote>putavi</quote> Aεγe, Nemes. 1.31
+                     <quote>fagosve</quote> Aεαγe, 1.32 <quote>suggerit</quote> εe, 1.78
+                     <quote>olivas</quote> A V, 2.8 <quote>iam non</quote> Aεγe, 2.15
+                     <quote>relevare</quote> Aεe, 2.30 <quote>nulloque biberunt</quote> Aεγe, 2.48
+                     <quote>tum dulce rubens</quote> Aεγe, 3.26 <quote>vos etiam et</quote> Aεe,
+                     <quote>nutristis</quote> Aεαe, 3.33 <quote>leve</quote> Aεαe, 3.37
+                     <quote>lenes</quote> Aγe, 3.51 <quote>cymbia</quote> Aεγe, 3.63 <quote>natus ab
+                     ipso</quote> Aεαγe, 4.69 <quote>artes</quote> Aεe. Add these, too: Calp. 5.33
+                     <quote>capellis</quote> Aνφθ, 7.18 <quote>spectavimus</quote> Aκχ. In light of
+                  these facts, it seems very close to the truth that the Codex Germanicus derived
+                  from the same archetype as N and G, and that the readings that agree with N and G
+                  should be attributed to that archetype, but that Angeli copied the rest of the
+                  readings from interpolated manuscripts. The inference is supported by the fact
+                  that Angeli discloses in the subscription to the Codex Riccardianus that he used
+                  other manuscripts, too. This agrees with the fact that in the Codex Germanicus, as
+                  attested by Niccolò Angeli at the end of Calpurnius in the codex Riccardianus and
+                  Angelo Ugoleto at the end of the original from Parma, the four later poems were
+                  attributed to Nemesianus. N and G divide the eleven eclogues between Calpurnius
+                  and Nemesianus in the same way, but all of them are attributed to Calpurnius alone
+                  in the manuscripts of the second family. Therefore the Codex Germanicus should
+                  certainly be assigned to the first family. But could it not happen that the Codex
+                  Germanicus underwent some interpolations? Indeed it could have happened, but since
+                  the task of seeking out a semblance of the lost manuscript is a very risky
+                  venture, even though the inference seems probably to me, I nevertheless prefer to
+                  report all of Angeli's readings without distinction under the symbol <ref
+                     target="#A">A</ref>. And I feel so strongly about the authority of the Codex
+                  Germanicus that when it agrees with N or G, it offers us another witness to the
+                  first family, and when it agrees with V, it has the same force as a manuscript of
+                  the second family. For Angeli's annotations hardly ever differ from all of the
+                  manuscripts: Calp. 1.45 <quote>in ulnis</quote>, 1.86 <quote>tralati</quote>, 2.3
+                     <quote>nec</quote>, 4.86 <quote>in</quote>, 5.65 <quote>tinniat ore</quote>,
+                  5.79 <quote>et vitrosa</quote>, 5.104 <quote>hic</quote>, 7.59
+                     <quote>manticoram</quote>, Nemes. 1.70 <quote>hinc</quote>, 2.41
+                     <quote>horti</quote>, 2.83 <quote>qui</quote>. But sometimes the Codex
+                  Germanicus alone among all manuscripts preserves for us the true reading or traces
+                  of the true reading, as at Calp. 2.3 <quote>nec et</quote>, 5.65 <quote>tinniat
+                     ore</quote>. Finally, in the same Codex Riccardianus there are certain
+                  corrections that cannot be attributed to Angeli, but doubtlessly descend from some
+                  manuscript of the first family. Perhaps some corrector copied those, too, from the
+                  Codex Germanicus.</p>
+               <p>Regarding Boccaccio's manuscript, truly the things that can be said are few and
+                  uncertain. For although the Codex Harleianus, according to its subscription, was
+                  collated with the Codex Germanicus, Boccaccio's manuscript, and many others, for
+                  the most part the readings that Angelius did not note in the Codex Riccardianus
+                  seem to go back to Boccaccio's manuscript. AFter carefully inspecting these
+                  readings, we can conclude only this: that manuscrupt that Boccaccio is said to
+                  have written with his own hand, must be assigned to the so-called first family.
+                  Everything else is highly uncertain. As for the authority of this manuscript, the
+                  same things apply that I said about the Codex Germanicus. Finally, I think we
+                  should not overlook that in one place (N. 4.70 <quote>quo</quote> Boccaccio's
+                  manuscript alone, out of all of the manuscripts, displays the true reading.</p>
+               <div type="subsection">
+                  <head>Excerpts: Exc. Par. and Exc. Bon.</head>
+                  <p>Now I must discuss the excerpts. Two manuscripts in Paris, namely Thuaneus
+                     7647, end of the 12th century, and Nostradamensis 17903, 13th century, (cf.
+                           <bibl><author>G. Meyncke</author>
+                        <title level="j">Rh. Mus.</title>
+                        <biblScope unit="volume">25</biblScope>: <biblScope unit="page"
+                           >369ff.</biblScope><ptr
+                           target="http://www.rhm.uni-koeln.de/025/Meyncke.pdf"/></bibl> and <bibl
+                        xml:id="Manitius"><author>M. Manitius</author>
+                        <title level="j">Philol.</title>
+                        <biblScope unit="volume">56</biblScope>: <biblScope unit="page"
+                           >541</biblScope><ptr
+                           target="https://books.google.com/books?id=xoCCwxJdJmcC&amp;pg=PA540#v=onepage&amp;q&amp;f=false"
+                        /></bibl>), both of which contain excerpts from the poems of Latin poets,
+                     have also some verses selected from Calpurnius' eclogues 2, 3, 4, 5, 6 and a
+                     few others from Nemesianus' fourth eclogue, attributed there to Calpurnius. For
+                     in the Codex Thuaneus at the beginning of the first excerpt the following is
+                     inscribed: <quote>Calpurnius in bucolicis</quote>; in the Codex Nostradamensis:
+                        <quote>Scalpurius in bucolicis</quote>. But in the latter, the corruption of
+                     the name traces its origin to the initial letter of the first verse:
+                        <quote>Satis hoc</quote> (2.23). These are the fragments: Calp. 2.23
+                        <quote>satis</quote>-24, 3.10 <quote>mobilior-femina</quote>, 4.14–15, 4.155
+                        <quote>vellit</quote>-156, 5.12–13, 46–48, 6.53–56, Nemes. 4.19
+                        <quote>levant-curas</quote>, 4.21–24, 4.32, 4.38
+                     <quote>vocat-umbram</quote>. Nearly the same verses are found in a certain
+                     codex in Berlin (ms. Diez. B. Santen. 60 fol. 29ʳ): cfr. <ref target="#Haupt"
+                        >M. Haupt</ref> (l. l. p. 13) et <ref target="#Manitius">M. Manitius</ref>
+                     (l. l.). Codex Bononiensis 83 (52, II n. 1) contains other excerpts (Calp.
+                     3.90, Nemes. 4.20–32, 56–59) ascribed to Calpurnius alone: cfr.
+                           <bibl><author>L. Frati</author>
+                        <title level="j">Studi italiani di Filol. classica</title>
+                        <biblScope unit="volume">16</biblScope> (<date>1908</date>): <biblScope
+                           unit="page">131</biblScope><ptr
+                           target="http://hdl.handle.net/2027/mdp.39015039585131?urlappend=%3Bseq=139"
+                        /></bibl>. Schenkl examined the books in Paris after Baehrens' edition, in
+                     1880. In 1909, I was the first to collate the excerpta Bononiensia.</p>
+                  <p>Now let us discuss the worth of the excerpts. Certainly the excerpta
+                     Bononiensia were copied from some manuscript of the second family. Compare
+                     these passages: Nemes. 4.21 <quote>eris–flores</quote> V Exc. Bon.,
+                        <quote>(h)erit
+                        florem<!-- Again, what to do about these parentheses? --></quote> N G, 4.24
+                        <quote>tibi</quote> Exc. Bon., <quote>quod</quote> N G, 4.28 <quote>volucres
+                        et</quote> V Exc. Bon., <quote>volucru et</quote> N, <quote>volucrum
+                        tum</quote> G, 4.30 <quote>perdis</quote> V Exc. Bon., <quote>prodis</quote>
+                     N G, 4.58 <quote>animos</quote> V Exc. Bon., <quote>annos</quote> N G. But the
+                     books in Paris have a better reputation by far. In the following places N G
+                     Exc. Par. offer a good reading, but V offers a bad one: Calp 4.14
+                        <quote>nunc</quote> N G Exc. Par., <quote>dum</quote> V, 4.155
+                        <quote>contingat</quote> N G Exc. Par., <quote>contigerit</quote> V, 4.156
+                        <quote>dicit</quote> N G Exc. Par., <quote>dixit</quote> V, Nemes. 4.24
+                        <quote>quod</quote> N G Exc. Par., <quote>tibi</quote> V. Add these, too:
+                     Nemes. 4.24 <quote>commodet</quote> G Exc. Par., <quote>comodet</quote> N,
+                        <quote>commodat</quote> V. But in two places V Exc. Par. preserve an
+                     attested reading that N G have corrupted: Calp. 2.23 <quote>hoc</quote> V Exc.
+                     Par., <quote>hic</quote> N G, Nemes. 4.21 <quote>eris-flores</quote> V Exc.
+                     Par., <quote>(h)erit-florem</quote> N G. Moreover, in only one place have the
+                     excerpta Parisina admitted the interpolations of the inferior manuscripts:
+                     Calp. 5.12 <quote>iamdudum</quote> pler. V Exc. Par., <quote>aetas iam</quote>
+                     N G. At Calp. 6.55 N and G and the excerpts are different. Finally, they
+                     present some readings unique to them: Calp. 4.15 <quote>valeate</quote> Par.
+                     pr., 155 <quote>michi</quote>, 5.45 <quote>erit; dubitanda</quote> Par. post.
+                     5.48 <quote>tonsoribus</quote> Par. pr., 6.54 <quote>torvata</quote> Par. pr.
+                     We have already said that all of the manuscripts that we have today must be
+                     traced back by various paths to the same archetype, as their many errors in
+                     common indicate, especially the lacuna and the confusion of verses in the
+                     amoebaean song in Calpurnius' fourth eclogue. But that the excerpts about which
+                     we speak cannot trace their origin further is supported by a single, but very
+                     strong argument (cf. <bibl><author>H. Schenkl</author>, <title level="j">Wiener
+                           Studien</title>
+                        <biblScope unit="volume">VI</biblScope>
+                        <biblScope unit="page">p. 84</biblScope>
+                        <ptr
+                           target="http://hdl.handle.net/2027/njp.32101015024290?urlappend=%3Bseq=430"
+                        /></bibl>). For at Calp. 4.156, where Heinsius quite successfully restored
+                        <quote>ovilia</quote>, all of the manuscripts and the excerpts have
+                        <quote>vilia</quote></p>
+                  <p>Before I end this preface, I want to offer my thanks to those who deserve it
+                     from me. H. Cocchia, A. E. Housan, F. Leo, F. Ramorino, G. C. Summers, most
+                     learned and humane men, to whom I owe my greatest thanks, kindly pointed out
+                     many things while I was establishing the text of Calpurnius and Nemesianus. But
+                     so that no one attributes to them the errors that I have met with, I declare
+                     that I have noted all that they shared with me in the appratus criticus, each
+                     in its own place<!-- not happy with that last bit -->.</p>
+                  <p>Milan, September 1909</p>
+                  <p>Revised in Cosenza, January 1910</p>
+                  <p>C. Giarratano</p>
+               </div>
             </div>
          </div>
       </front>

@@ -1340,7 +1340,7 @@
                             <bibl xml:id="p" n="p">
                                 <editor/>
                                 <pubPlace>Paris</pubPlace>
-                                <publisher>Pierre Pithou</publisher>
+                                <publisher xml:id="Pithou">Pierre Pithou</publisher>
                                 <date>1590</date>
                                 <ptr
                                     target="https://books.google.com/books?id=F_E6AAAAcAAJ&amp;pg=PR6#v=onepage&amp;q&amp;f=false"/>
@@ -9106,7 +9106,7 @@
                     </sp>
                 </div>
                 <div type="textpart" n="5" xml:id="poem5">
-            <head>5.</head>
+            <head>5. [Micon]</head>
             <l n="1">Forte <app>
                   <lem wit="#G #V" source="#Baehr. #Schenkl">Micon</lem>
                   <rdg wit="#N">michon</rdg>
