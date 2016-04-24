@@ -1235,14 +1235,14 @@
                                 />
                             </bibl>
                             <listBibl xml:id="i" n="i">
-                                <bibl xml:id="i1" n="i1">
+                                <bibl xml:id="i1" n="i¹">
                                     <editor>Benedictus Philologus Florentinus (a.k.a
                                         Ricardinus)</editor>
                                     <pubPlace>Florence</pubPlace>
                                     <publisher>Philippi de Giunta</publisher>
                                     <date>1504</date>
                                 </bibl>
-                                <bibl xml:id="i2" n="i2">
+                                <bibl xml:id="i2" n="i²">
                                     <editor xml:id="Tit." n="Tit.">R. Titus</editor>
                                     <pubPlace>Florence</pubPlace>
                                     <publisher>Apud Philippum Iunctam</publisher>
@@ -1257,7 +1257,7 @@
                                 </bibl>
                             </listBibl>
                             <listBibl xml:id="l" n="l">
-                                <bibl xml:id="l1" n="l1">
+                                <bibl xml:id="l1" n="l¹">
                                     <editor/>
                                     <pubPlace>Venice</pubPlace>
                                     <publisher>Aldus Manutius</publisher>
@@ -1266,7 +1266,7 @@
                                         target="http://gateway.proquest.com/openurl?url_ver=Z39.88-2004&amp;res_dat=xri:eurobo:&amp;rft_dat=xri:eurobo:rec:ita-bnc-ald-00000030-001"
                                     />
                                 </bibl>
-                                <bibl xml:id="l2" n="l2">
+                                <bibl xml:id="l2" n="l²">
                                     <editor/>
                                     <pubPlace>Venice</pubPlace>
                                     <publisher>Aldus Manutius</publisher>
@@ -1601,7 +1601,7 @@
                         <listBibl>
                             <head>Secondary sources</head>
                             <!-- Secondary sources -->
-                            <bibl xml:id="BaehrLL" n="BaehrLL">
+                            <bibl xml:id="BaehrLL" n="Baehr. 1870">
                                 <author ref="http://viaf.org/viaf/52432033">
                                     <persName>
                                         <forename>Emil</forename>
@@ -1612,7 +1612,7 @@
                                 <publisher>Carolus Georgus</publisher>
                                 <date>1870</date>
                             </bibl>
-                            <bibl xml:id="BaehrRhM" n="BaehrRhM">
+                            <bibl xml:id="BaehrRhM" n="Baehr. 1872">
                                 <author ref="http://viaf.org/viaf/52432033">
                                     <persName>
                                         <forename>Emil</forename>
@@ -1626,7 +1626,7 @@
                                 <date>1872</date>
                                 <ptr target="http://www.rhm.uni-koeln.de/027/M-Baehrens2.pdf"/>
                             </bibl>
-                            <bibl xml:id="BurmAnth" n="BurmAnth">
+                            <bibl xml:id="BurmAnth" n="Burm. 1759">
                                 <author ref="http://viaf.org/viaf/49257108">
                                     <persName>
                                         <forename>Petrus</forename>
@@ -1712,7 +1712,7 @@
                                     target="https://books.google.com/books?id=vABMAAAAYAAJ&amp;pg=PA611#v=onepage&amp;q&amp;f=false"
                                 />
                             </bibl>
-                            <bibl xml:id="BarthAdv" n="BarthAdv">
+                            <bibl xml:id="BarthAdv" n="Barth 1624">
                                 <author ref="http://viaf.org/viaf/15563174">
                                     <persName>
                                         <forename>Kaspar von</forename>
@@ -1730,7 +1730,7 @@
                                     target="https://books.google.com/books?id=-DVOAAAAYAAJ&amp;lpg=RA4-PT766&amp;ots=v5kIDI84YC&amp;dq=Adversariorvm%20commentariorvm%20libri%20LX&amp;pg=PP1#v=onepage&amp;q=Adversariorvm%20commentariorvm%20libri%20LX&amp;f=false"
                                 />
                             </bibl>
-                            <bibl xml:id="BarthClaud" n="Barth in Cl. Claudian">
+                            <bibl xml:id="BarthClaud" n="Barth 1650">
                                 <author ref="http://viaf.org/viaf/15563174">
                                     <persName>
                                         <forename>Kaspar von</forename>
@@ -1777,7 +1777,7 @@
                                 <date>1901</date>
                                 <ptr target="http://www.jstor.org/stable/694806"/>
                             </bibl>
-                            <bibl xml:id="LMueller" n="LMueller">
+                            <bibl xml:id="LMueller" n="L. Mueller">
                                 <author ref="http://viaf.org/viaf/54929846">
                                     <persName>
                                         <forename>Lucian</forename>
@@ -1811,7 +1811,7 @@
                                     target="https://books.google.com/books?id=tl4bu49MEyIC&amp;dq=editions%3AkJBBtxu-RskC&amp;pg=PA88#v=onepage&amp;q&amp;f=false"
                                 />
                             </bibl>
-                            <bibl xml:id="Gronov." n="Gronov.">
+                            <bibl xml:id="Gronov." n="Gronov. 1755">
                                 <author ref="http://viaf.org/viaf/41850877">
                                     <persName>
                                         <forename>Joannes</forename>
@@ -1827,7 +1827,7 @@
                                     target="https://books.google.com/books?id=9n5MAAAAcAAJ&amp;pg=PP7#v=onepage&amp;q&amp;f=false"
                                 />
                             </bibl>
-                            <bibl xml:id="GronovDiatrib" n="GronovDiatrib">
+                            <bibl xml:id="GronovDiatrib" n="Gronov. 1637">
                                 <author ref="http://viaf.org/viaf/41850877">
                                     <persName>
                                         <forename>Joannes</forename>
@@ -1844,7 +1844,7 @@
                                     target="https://books.google.com/books?id=zBk-AAAAcAAJ&amp;dq=gronovius%20diatrib&amp;pg=PP7#v=onepage&amp;q=gronovius%20diatrib&amp;f=false"
                                 />
                             </bibl>
-                            <bibl xml:id="HauptHermes" n="HauptHermes">
+                            <bibl xml:id="HauptHermes" n="Haupt 1874">
                                 <author ref="http://viaf.org/viaf/36998303">
                                     <persName>
                                         <forename>Moriz</forename>
@@ -1890,7 +1890,7 @@
                                     target="https://books.google.com/books?id=hu5WAAAAcAAJ&amp;lpg=PA173&amp;ots=DyquZQYHhD&amp;dq=friesemann%20collectanea%20critica&amp;pg=PP5#v=onepage&amp;q=friesemann%20collectanea%20critica&amp;f=false"
                                 />
                             </bibl>
-                            <bibl xml:id="Haupt" n="Haupt">
+                            <bibl xml:id="Haupt" n="Haupt 1854">
                                 <author ref="http://viaf.org/viaf/36998303">
                                     <persName>
                                         <forename>Moriz</forename>
@@ -1934,7 +1934,7 @@
                                     target="https://books.google.com/books?id=feBCAQAAMAAJ&amp;dq=Albert%20Forbiger&amp;pg=PR1#v=onepage&amp;q=Albert%20Forbiger&amp;f=false"
                                 />
                             </bibl>
-                            <bibl xml:id="deRooy" n="deRooy">
+                            <bibl xml:id="deRooy" n="de Rooy">
                                 <author ref="http://viaf.org/viaf/29879309">
                                     <persName>
                                         <forename>Antony</forename>
@@ -1951,7 +1951,7 @@
                                     target="https://books.google.com/books?id=m10VAAAAQAAJ&amp;pg=PA101#v=onepage&amp;q&amp;f=false"
                                 />
                             </bibl>
-                            <bibl xml:id="HeinsAdClaud" n="HeinsAdClaud">
+                            <bibl xml:id="HeinsAdClaud" n="Heins. 1665">
                                 <author ref="http://viaf.org/viaf/95302161">
                                     <persName>
                                         <forename>Nicolaas</forename>
@@ -2088,7 +2088,7 @@
                                 <publisher>Apud Weidmannos</publisher>
                                 <date>1849</date>
                             </bibl>
-                            <bibl xml:id="SalmasiusEp" n="Salmasius Epist.">
+                            <bibl xml:id="SalmasiusEp" n="Salmasius 1656">
                                 <author ref="http://viaf.org/viaf/41850039">
                                     <persName>
                                         <forename>Claude</forename>
@@ -2103,7 +2103,7 @@
                                     target="https://books.google.com/books?id=0zRv3_Ym5R4C&amp;dq=Salmasius%20epistolae&amp;pg=PP5#v=onepage&amp;q=Salmasius%20epistolae&amp;f=false"
                                 />
                             </bibl>
-                            <bibl xml:id="SalmasiusHist" n="Salmasius Hist. Aug.">
+                            <bibl xml:id="SalmasiusHist" n="Salmasius 1620">
                                 <author ref="http://viaf.org/viaf/41850039">
                                     <persName>
                                         <forename>Claude</forename>
@@ -2118,7 +2118,7 @@
                                     target="https://books.google.com/books?id=HmlUAAAAcAAJ&amp;dq=Historiae%20augustae%20scriptores%20salmasius&amp;pg=PP1#v=onepage&amp;q&amp;f=false"
                                 />
                             </bibl>
-                            <bibl xml:id="HeinsHer" n="HeinsHer">
+                            <bibl xml:id="HeinsHer" n="Heins. in Her.">
                                 <author ref="http://viaf.org/viaf/95302161">
                                     <persName>
                                         <forename>Nicolaas</forename>
@@ -2148,7 +2148,7 @@
                                 <date>1893–94</date>
                                 <ptr target="http://hdl.handle.net/2027/uc1.c071004696"/>
                             </bibl>
-                            <bibl xml:id="BuechelerRhM" n="Buecheler1">
+                            <bibl xml:id="BuechelerRhM" n="Buecheler 1871">
                                 <author ref="http://viaf.org/viaf/167424">
                                     <persName>
                                         <forename>Franz</forename>
@@ -2162,7 +2162,7 @@
                                 <date>1871</date>
                                 <ptr target="http://www.rhm.uni-koeln.de/026/Buecheler1.pdf"/>
                             </bibl>
-                            <bibl xml:id="BuechelerGlotta" n="Buecheler2">
+                            <bibl xml:id="BuechelerGlotta" n="Buecheler 1907">
                                 <author ref="http://viaf.org/viaf/167424">
                                     <persName>
                                         <forename>Franz</forename>
@@ -2207,7 +2207,7 @@
                                 <pubPlace>Cantabrigiæ</pubPlace>
                                 <date>1789–1795</date>
                             </bibl>
-                            <bibl xml:id="HousmanCR16">
+                            <bibl xml:id="HousmanCR16" n="Housman 1902">
                                 <author ref="http://viaf.org/viaf/49249069">
                                     <persName>
                                         <forename>A.E.(Alfred Edward)</forename>
@@ -2222,7 +2222,7 @@
                                 <date>1902</date>
                                 <ptr target="http://www.jstor.org/stable/695474"/>
                             </bibl>
-                            <bibl xml:id="HousmanManil" n="Housman ad Manil.">
+                            <bibl xml:id="HousmanManil" n="Housman 1903">
                                 <author ref="http://viaf.org/viaf/49249069">
                                     <persName>
                                         <forename>A.E.(Alfred Edward)</forename>
@@ -2255,7 +2255,7 @@
                                     target="https://books.google.com/books?id=ejldAAAAcAAJ&amp;dq=Der%20Oedipus%20Coloneus%20des%20Sophocles&amp;pg=PA99#v=onepage&amp;q&amp;f=false"
                                 />
                             </bibl>
-                            <bibl xml:id="Gebhard">
+                            <bibl xml:id="Gebhard" n="Gebhard">
                                 <author ref="http://viaf.org/viaf/64758716">
                                     <persName>
                                         <forename>Jan</forename>
@@ -2271,7 +2271,7 @@
                                     target="https://books.google.de/books?id=DfuKD9LRUGsC&amp;hl=de&amp;pg=PA97#v=onepage&amp;q&amp;f=false"
                                 />
                             </bibl>
-                            <bibl xml:id="Sarpe">
+                            <bibl xml:id="Sarpe" n="Sarpe">
                                 <author ref="http://viaf.org/viaf/57376075">
                                     <persName>
                                         <forename>Gustav</forename>
@@ -2741,7 +2741,7 @@
                             </app> patris Fauni, <app>
                                 <lem>graciles</lem>
                                 <rdg wit="#V">gracilis </rdg>
-                                <note>edd. vett. accusativos eiusmodi fere semper in is
+                                <note>edd. vett. accusativos eiusmodi fere semper in <hi rend="italic">is</hi>
                                     exhibent</note>
                             </app> ubi pinea <app>
                                 <lem wit="#G #A #P #λ2" source="#GlaeserSqq">denset</lem>
@@ -4027,7 +4027,7 @@
                         </app>
                         <app>
                             <lem xml:id="lem2.11.1">puer</lem>
-                            <!-- puer (in ras. m3) -->
+                            <!-- NEW: Revisit this line in light of pattern for "anteCorr" etc. -->
                             <rdg xml:id="bar" wit="#N" type="corrInRas"><add hand="#N3" place="inline" copyOf="#lem2.11.1"/></rdg>
                         </app>
                         <app>
@@ -4099,7 +4099,7 @@
                         </app> cantu</l>
                     <l n="7">pignoribusque parant: placet, hic <app>
                             <lem>ut</lem>
-                            <rdg source="Baehr.">ne</rdg>
+                            <rdg source="#Baehr.">ne</rdg>
                             <rdg source="#g">et</rdg>
                         </app>
                         <app>
@@ -4382,7 +4382,7 @@
                     </app>
                     <sp who="Idas">
                         <speaker><app>
-                                <lem xml:id="lem2.13.28">I</lem>
+                                <lem xml:id="lem2.13.28">I.</lem>
                                 <!-- N(add. m2)-->
                                 <rdgGrp type="corrOm">
                                     <rdg wit="#N" hand="#N1" varSeq="1"/>
@@ -4422,7 +4422,7 @@
                             </app>
                             <app>
                                 <lem>levis</lem>
-                                <rdg source="Baehr.">teres</rdg>
+                                <rdg source="#Baehr.">teres</rdg>
                             </app> obliqua <app>
                                 <lem wit="#N #P #G" source="#Heins. #Baehr. #Schenkl">crescat</lem>
                                 <rdg wit="#V" source="#edd.">crescit</rdg>
