@@ -4588,7 +4588,7 @@
                                 <rdg wit="#G #d2">mutat</rdg>
                                 <rdg source="#Maehly">misceat</rdg>
                             </app> in <app>
-                                <lem>in agna</lem>
+                                <lem>agna</lem>
                                 <rdg source="#Maehly">agnae</rdg>
                             </app>,</l>
                         <l n="38">quae <app>
@@ -4664,7 +4664,7 @@
                                 </rdgGrp>
                             </app> aut oleastra putare</l>
                         <l n="45">et gregibus portare <app>
-                                <lem wit="#N #G #δ" source="#Ulit. #h #GlaeserSqq">novis&gt;</lem>
+                                <lem wit="#N #G #δ" source="#Ulit. #h #GlaeserSqq">novis</lem>
                                 <rdg wit="#P #V" source="#eddAnteGlaeser">novas</rdg>
                                 <rdg wit="#μ">novos</rdg>
                             </app>, ut carpere frondes</l>
@@ -5021,11 +5021,11 @@
                                         <rdg wit="#N #G #P #φ #κ #π #χ #γ #μ #ν #α2 #η #δ #θ #r" source="#i1 #l1 #Vienn. #Guid. #Ulit. #p #h #Glaeser #Baehr. #Keene">arenas</rdg>
                                         <rdg wit="#ε #λ #α1" source="#edd.">aristas</rdg>
                                         <rdg source="#Burm.">avenas</rdg>
-                                    </app></lem>
+                                    </app>.</lem>
                                 <!-- φ (add. m2) -->
                                 <rdgGrp type="corrLineOm">
                                     <rdg wit="#φ" varSeq="1"/>
-                                    <rdg wit="#φ" varSeq="2"><add hand="#φ2" copyOf="#lem2.16.73"/></rdg>
+                                    <rdg wit="#φ2" varSeq="2"><add copyOf="#lem2.16.73"/></rdg>
                                 </rdgGrp>
                             </app></l>
                         <l n="74"><app>
@@ -5048,7 +5048,7 @@
                                 <!-- φ (add. m2) -->
                                 <rdgGrp type="corrLineOm">
                                     <rdg wit="#φ" varSeq="1"/>
-                                    <rdg wit="#φ" varSeq="2"><add hand="#φ2" copyOf="#lem2.16.74"/></rdg>
+                                    <rdg wit="#φ2" varSeq="2"><add copyOf="#lem2.16.74"/></rdg>
                                 </rdgGrp>
                                 <rdg wit="#δ"/>
                             </app></l>
@@ -5072,7 +5072,7 @@
                                 <!-- φ (add. m2) -->
                                 <rdgGrp type="corrLineOm">
                                     <rdg wit="#φ" varSeq="1"/>
-                                    <rdg wit="#φ" varSeq="2"><add hand="#φ2" copyOf="#lem2.16.75"/></rdg>
+                                    <rdg wit="#φ2" varSeq="2"><add copyOf="#lem2.16.75"/></rdg>
                                 </rdgGrp>
                             </app></l>
                     </sp>
@@ -5129,7 +5129,7 @@
                         <l n="79">surget et a tepidis <app>
                                 <lem>fiet</lem>
                                 <rdg wit="#μ">fiat</rdg>
-                                <rdg wit="#φ #ν #η #θ #ζ #r">surget&gt;</rdg>
+                                <rdg wit="#φ #ν #η #θ #ζ #r">surget</rdg>
                             </app> tonsura <app>
                                 <lem>Kalendis</lem>
                                 <rdg wit="#P">halendis</rdg>
@@ -11703,7 +11703,7 @@
                         </app>
                         <app>
                            <lem>tornata</lem>
-                           <rdg wit="#codParPrior">torvata</rdg>
+                           <rdg wit="#ParPrior">torvata</rdg>
                            <rdg wit="#δ #λ">curvata</rdg>
                            <rdg wit="#d">coronata</rdg>
                         </app></lem>
