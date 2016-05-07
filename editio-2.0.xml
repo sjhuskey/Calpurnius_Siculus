@@ -2963,7 +2963,7 @@
                                 <rdg wit="#N #λ">hyatu</rdg>
                             </app>?</l>
                     </sp>
-                    <sp who="Cordyon">
+                    <sp who="#Cordyon">
                         <speaker>
                             <app>
                                 <lem wit="#P #α #β #κ #χ #λ #ρ #μ #π #δ" source="#p #Glaeser #Keene #Baehr. #Schenkl">C.</lem>
@@ -4380,7 +4380,7 @@
                                 </app>.</l></lem>
                         <rdg wit="#μ #δ #γ"/>
                     </app>
-                    <sp who="Idas">
+                    <sp who="#Idas">
                         <speaker><app>
                                 <lem xml:id="lem2.13.28">I.</lem>
                                 <!-- N(add. m2)-->
@@ -4438,7 +4438,7 @@
                                 <rdg wit="#φ">canda</rdg>
                             </app>'.</l>
                     </sp>
-                    <sp who="Astacus">
+                    <sp who="#Astacus">
                         <speaker>A.</speaker>
                         <l n="32"><app>
                                 <lem>Et</lem>
@@ -4569,7 +4569,7 @@
                                 <note>codd. <ref target="#Tit">Titii</ref>, <ref target="#Martell">Martell.</ref></note>
                             </app>'.</l>
                     </sp>
-                    <sp who="Idas">
+                    <sp who="#Idas">
                         <speaker>I.</speaker>
                         <l n="36">Me <app>
                                 <lem>docet</lem>
@@ -4610,7 +4610,7 @@
                                 <!-- Note that this isn't really a "correction" per se; it's two different readings. But, we're encoding Giarratano, so "corr." it shall be.-->
                             </app>.</l>
                     </sp>
-                    <sp who="Astacus">
+                    <sp who="#Astacus">
                         <speaker>A.</speaker>
                         <l n="40">Non minus arte mea <app>
                                 <lem>mutabilis</lem>
@@ -4653,7 +4653,7 @@
                                         <hi rend="italic">u</hi> add. m2</note>
                             </app>.</l>
                     </sp>
-                    <sp who="Idas">
+                    <sp who="#Idas">
                         <speaker>I.</speaker>
                         <l n="44">Me teneras salices <app>
                                 <lem xml:id="lem2.14.44">iuvat</lem>
@@ -4694,7 +4694,7 @@
                                 <rdg wit="#P">factura</rdg>
                             </app> parentes.</l>
                     </sp>
-                    <sp who="Astacus">
+                    <sp who="#Astacus">
                         <speaker>A.</speaker>
                         <l n="48"><app>
                                 <lem>At</lem>
@@ -4727,7 +4727,7 @@
                                 <rdg wit="#β">pantaria</rdg>
                             </app> terra.</l>
                     </sp>
-                    <sp who="Idas">
+                    <sp who="#Idas">
                         <speaker>I.</speaker>
                         <l n="52">O si qui <app>
                                 <lem>Crocalen</lem>
@@ -4771,7 +4771,7 @@
                                 <rdg wit="#N #γ #λ #α #β #μ #π #δ #ζ #u #e #d2 #b" source="#o #n #i2 #l2 #g">prophani </rdg>
                             </app>'.</l>
                     </sp>
-                    <sp who="Astacus">
+                    <sp who="#Astacus">
                         <speaker>A.</speaker>
                         <l n="56">Urimur in <app>
                                 <lem>Crocalen</lem>
@@ -4826,7 +4826,7 @@
                             </app> lilia rivo,</l>
                         <l n="59">inter pampineas ponetur faginus ulmos.</l>
                     </sp>
-                    <sp who="Idas">
+                    <sp who="#Idas">
                         <speaker>I.</speaker>
                         <l n="60"><app>
                                 <lem>Ne</lem>
@@ -4869,7 +4869,7 @@
                                     largo</rdg>
                             </app></l>
                     </sp>
-                    <sp who="Astacus">
+                    <sp who="#Astacus">
                         <speaker>A.</speaker>
                         <l n="64">Nos quoque pomiferi Laribus consuevimus <app>
                                 <lem wit="#λ #ν #η #γ #ε #φ">horti</lem>
@@ -4932,7 +4932,7 @@
                                 <rdg wit="#κ #λ #ρ2">cara</rdg>
                             </app> minus, quam si caper imbuat aras.</l>
                     </sp>
-                    <sp who="Idas">
+                    <sp who="#Idas">
                         <speaker>I.</speaker>
                         <l n="68">Mille sub uberibus <app>
                                 <lem wit="#N #G #P #H #χ #β" source="#edd.">balantes</lem>
@@ -4993,7 +4993,7 @@
                                     <ref target="#Burm.">Burm.</ref></note>
                             </app>.</l>
                     </sp>
-                    <sp who="Astacus">
+                    <sp who="#Astacus">
                         <speaker>A.</speaker>
                         <l n="72"><app>
                                 <lem xml:id="lem2.16.72">Qui numerare velit, quam multa sub arbore
@@ -5076,7 +5076,7 @@
                                 </rdgGrp>
                             </app></l>
                     </sp>
-                    <sp who="Idas">
+                    <sp who="#Idas">
                         <speaker>I.</speaker>
                         <l n="76"><app>
                                 <lem>Quamvis</lem>
@@ -5136,7 +5136,7 @@
                                 <rdg wit="#μ">kalendas</rdg>
                             </app>.</l>
                     </sp>
-                    <sp who="Astacus">
+                    <sp who="#Astacus">
                         <speaker>A.</speaker>
                         <l n="80"><app>
                                 <lem wit="#N #G" source="#Baehr. #Schenkl">at</lem>
@@ -5195,7 +5195,7 @@
                                 <rdg wit="#ε #ρ #α #μ #π #δ">echini</rdg>
                             </app>.</l>
                     </sp>
-                    <sp who="Idas">
+                    <sp who="#Idas">
                         <speaker>I.</speaker>
                         <l n="84"><app>
                                 <lem xml:id="l84Num1" exclude="#rl84Nunc2">Num</lem>
@@ -5242,7 +5242,7 @@
                                 </rdgGrp>
                             </app>?</l>
                     </sp>
-                    <sp who="Astacus">
+                    <sp who="#Astacus">
                         <speaker>A.</speaker>
                         <l n="88"><app>
                                 <lem>Fontibus</lem>
@@ -5275,13 +5275,11 @@
                                     m2)</witDetail>
                             </app> in arbore saepe notaui</l>
                         <l n="91">cerea <app>
-                                <lem>sub tenui <app>
-                                        <lem xml:id="lem2.91lucere">lucere</lem>
-                                    </app></lem>
+                                <lem xml:id="lem2.91lucere" wit="#N">sub tenui lucere</lem>
                                 <rdg wit="#P">εub tātū lucē</rdg>
-                            </app><witDetail wit="#N" target="#lem2.91lucere">(litt. evanidas res.
-                                m2)</witDetail>
-                            <app>
+                            <witDetail wit="#N" target="#lem2.91lucere">(litt. evanidas res.
+                                <ref target="#N2">N²</ref>)</witDetail>
+                            </app> <app>
                                 <lem wit="#ν #η #λ #ρ2" source="#edd.">cydonia</lem>
                                 <rdg wit="#N">cynodia</rdg>
                                 <rdg wit="#G #α">cinodia</rdg>
@@ -5298,7 +5296,7 @@
                                 <rdg wit="#λ">mala</rdg>
                             </app>.</l>
                     </sp>
-                    <sp who="Idas">
+                    <sp who="#Idas">
                         <speaker>I.</speaker>
                         <l n="92">Carmina <app>
                                 <lem>poscit</lem>
@@ -5359,7 +5357,7 @@
                                 <rdg wit="#χ">alphesibaeus</rdg>
                             </app>.</l>
                     </sp>
-                    <sp who="Astacus">
+                    <sp who="#Astacus">
                         <speaker><app>
                                 <lem>A.</lem>
                                 <rdg wit="#ν #φ #η #χ #r #s" source="#o #n"/>

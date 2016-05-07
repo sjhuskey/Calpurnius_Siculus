@@ -1,0 +1,294 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bucolica: A Translation</title>
+            <author>Calpurnius Siculus</author>
+            <editor>samuel J. Huskey</editor>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p><ptr target="http://digitallatin.github.io/viewer/editio-2.0.html"/><ptr
+                  target="https://github.com/DigitalLatin/viewer"/></p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="translation">
+            <div type="textpart" n="1" xml:id="poemtrans1">
+               <head>Poem 1. [Corydon, Ornytus]</head>
+               <list type="speakers">
+                  <item xml:id="Corydon">Corydon</item>
+                  <item xml:id="Ornytus">Ornytus</item>
+               </list>
+               <sp who="#Corydon">
+                  <speaker>C.</speaker>
+                  <p>The waning summer is not yet taming the sun’s horses, although wine presses
+                     squeeze juicy bunches of grapes, and the fermenting grape juice foams with a
+                     gentle whisper. Look, Ornytus! Do you see how the cattle that my father
+                     entrusted to my care (5) have calmly spread out their flanks under the leafy
+                     Spanish broom? Why don’t we also go under the nearby shade? Why are we
+                     protecting our parched faces with just a hat?</p>
+               </sp>
+               <sp who="#Ornytus">
+                  <speaker>O.</speaker>
+                  <p>Brother Corydon, let’s seek this wood instead, these grottoes of father Faunus;
+                     where the pine forest grows lush with slender (10) leaves and raises its head
+                     to meet the swift sun, where the beech tree covers the waters bubbling under
+                     its base and entwines the shadows with its shifting branches.</p>
+               </sp>
+               <sp who="#Corydon">
+                  <speaker>C.</speaker>
+                  <p>I follow wherever you call me, Ornytus. For my Leuce, as long as she denies me
+                     her embraces and delight by night, (15) makes the shrines of horned Faunus
+                     passable. So, take out your reed pipes and anything you keep hidden; my
+                     shepherd’s pipe, which learned Ladon recently built from mature reed, will not
+                     fail you.</p>
+               </sp>
+               <sp who="#Ornytus">
+                  <speaker>O.</speaker>
+                  <p>And now we have come together to the desired shade. (20) But what is this page
+                     copied on the sacred beech, which someone recently marked with a hurried blade?
+                     Do you see how even now the letter preserves the green cracks and does not yet
+                     loosen from the drying wound?</p>
+               </sp>
+               <sp who="#Corydon">
+                  <speaker>C.</speaker>
+                  <p>Ornytus, bring your eyes closer: you can quickly run through (25) the verses
+                     copied deep in the bark; for your big father gave you long enough limbs, and
+                     your generous mother gave you a tall body.</p>
+               </sp>
+               <sp who="#Ornytus">
+                  <speaker>O.</speaker>
+                  <p>No shepherd, no traveler sang these lines in some common way, but in fact a god
+                     did it. It doesn’t have a bucolic sound, (30) and mountain shepherds’ songs do
+                     not adorn the sacred verses.</p>
+               </sp>
+               <sp who="#Corydon">
+                  <speaker>C.</speaker>
+                  <p>You’re speaking wonders; but don’t delay, and with careful eye read the divine
+                     song to me as soon as possible.</p>
+               </sp>
+               <sp who="#Ornytus">
+                  <speaker>O.</speaker>
+                  <p><quote>“I, who watch over mountain ridges and forests, Faunus, spawn of the
+                        upper air, I sing to the people the following things that will come to pass: it
+                        pleases me (35) to inscribe on this sacred tree cheerful songs to reveal
+                        things that are destined. Rejoice above all, you inhabitants of the woods,
+                        You, my people, rejoice: the whole flock may roam while its guardian is
+                        untroubled, and the shepherd may not wish to close the manger at night with
+                        ashen wicker-work, (40) nevertheless the predator does not lay any traps for
+                        the sheep or loosen the halters and drive away the mules. A carefree,
+                        peaceful golden age is born again. Now that squalor and neglect have been
+                        removed, nourishing Themis returns at last to the earth (45) and blessed
+                        ages follow the youth who won the case for his maternal Juliae. While the
+                        god himself rules over the peoples, wicked Bellona will surrender her hands
+                        bound behind her back and, disarmed, she will turn her mad bites against
+                        her own innards, and she will wage with herself the civil wars (50) that she
+                        spread over the whole world. Now Rome will not mourn any Philippi and will
+                        march as a captive at the head of no triumphs. All wars will be brought
+                        under a Tartarean prison; they will plunge their heads in shadows and fear
+                        the light. Shining peace will appear, shining not only in her face, (55)
+                        such as she often was, who was free from open war and far from the
+                        conquered foe, yet when arms were on the march routed public discord with
+                        her silent sword: Clemency ordered every defect of counterfeit peace to
+                        withdraw and pounded to pieces those mad swords. (60) No funereal procession
+                        of a senate in chains will exhaust the work of the executioners, and an
+                        unfortunate senate house will not count few senators because the jail is
+                        full of them. There will be a full peace that, unknowing of the drawn sword, will
+                        bring back to Latium another reign of Saturn, (65) another reign of Numa,
+                        who first taught the work of peace to the ranks rejoicing in slaughter and
+                        still eager for Romulus’ camp and, when he had silenced the weapons, ordered
+                        horns to sound among sacred rights, not wars. Now the consul will not
+                        purchase the appearance of spurious honor (70) nor silently receive useless
+                        fasces or a meaningless seat of office; but once the laws have been returned
+                        every right will be present, and a better god will restore the tradition and
+                        previous appearance of the forum, and sweep away the ruined age. Let each
+                        nation rejoice, whether it inhabits the region lying to the deepest south
+                        (75) or the highest north, whether it lies to the east or to the west or
+                        boils under the middle of the sky. Do you see how the twentieth night now
+                        shines in the clear sky and brings forth a comet beaming with peaceful
+                        light? How clearly the star shines without blemish? (80) Can it be that its
+                        light does not spatter either pole with blood-red fire, as it usually does,
+                        and spark with fiery blood? But once it was not this way, when Caesar was
+                        taken away and it announced deadly arms for our poor citizens. Certainly, a
+                        god himself will remove the unshaken weight (85) of Roman burden with his
+                        strong arms in such a way that the noise of a world handed over will not
+                        thunder with a sound and Rome will not think that her dead are rightly
+                        deified except when the rising ruler looks back on those who have set
+                        before.”</quote></p>
+               </sp>
+               <sp who="#Corydon">
+                  <speaker>C.</speaker>
+                  <p>Ornytus, long before now terror mixed with joy has stolen over me (90) and
+                     shaken me as though I were full of divine spirit. But let us revere the good
+                     spirit of fertile Faunus.</p>
+               </sp>
+               <sp who="#Ornytus">
+                  <speaker>O.</speaker>
+                  <p>The songs that the god himself gave us to sing let us sing, and let us play a
+                     tune on the tapering reed pipe. Maybe Meliboeus will bring them to august
+                     ears.</p>
+               </sp>
+            </div>
+            <div type="textpart" n="2" xml:id="poemtrans2">
+               <head>Poem 2. [Idas, Astacus, Thyrsis]</head>
+               <list type="speakers">
+                  <item xml:id="Idas">Idas</item>
+                  <item xml:id="Astacus">Astacus</item>
+                  <item xml:id="Thyrsis">Thrysis</item>
+               </list>
+               <p>Two boys, Astacus, owner of a wooly herd, and Idas, owner of a garden, had long
+                  been in love with the virgin Crocale. Both boys were handsome and not unequal in
+                  singing. When the opporessive summer heat burns the land, they chance to meet (5)
+                  at cool spring under the same shade, and at once they prepare to compete in sweet
+                  song, with wagers. Agreed: Idas will surrender seven skins; Astacus, if defeated,
+                  will not lay claim to his garden's harvest. The great contest was under the
+                  supervision of Thyrsis.</p>
+               <p>(10) Every kind of flock was there, every kind of wild beast, and anything that
+                  beats the air aloft with roving wings. Under the shady oak there assembled all who
+                  were lazily pasturing their sheep, and father Faunus and satyrs with two horns.
+                  Dryads were there with dry feet, Naiads with wet feet, (15) and the speeding
+                  rivers slowed their pace. The east winds stopped rustling the trembling leaves,
+                  and they made a profound silence across all the hills. Everything stopped. Bulls
+                  ignored the pasture and tamped it down under their feet. As the two competed, (20)
+                  even the worker bees dared to pause from their nectar-sweet flowers.</p>
+               <p>And now Thyris took his seat between them under the shade of an ancient tree and
+                  said "Boys, if I'm the judge, I suggest that all bets are off. Consider this
+                  enough of a prize: the winner gets the praise, and the loser gets the blame. (25)
+                  And now, so that you can better distinguish your the verses you trade, raise your
+                  hands three times in rapid succession. There's no delay—they decide by count of
+                  fingers, and Idas goes first.</p>
+               <sp who="#Idas">
+                  <speaker>I.</speaker>
+                  <p>Slivanus loves me. He gives me responsive reed pipes and surrounds my brows
+                     with green pine. (30) When I was still young he declared to me an oracle of no
+                     small importance: "Already a slender pipe grows for you on the slanting
+                     reed."</p>
+               </sp>
+               <sp who="#Astacus">
+                  <speaker>A.</speaker>
+                  <p>Flora adorns her hair for me with pale-green grass, and ripe Pomona plays for
+                     me under a tree. The nymphs said "Young man, take possession of these springs,
+                     take them. (35) Now you can tend your gardens, well watered by their channeled
+                     streams.</p>
+               </sp>
+               <sp who="#Idas">
+                  <speaker>I.</speaker>
+                  <p>Pales herself teaches me about caring for the flock, how the black mate of a
+                     white ewe changes the fleece on a new-born lamb, which cannot keep the
+                     appearance of its different parents, but bears witness to both with its varying
+                     color.</p>
+               </sp>
+               <sp who="#Astacus">
+                  <speaker>A.</speaker>
+                  <p>(40) Thanks to my skill, no less changeable is the tree that puts on strange
+                     leaves and fruit that it has not created. My skill blends a pear with an apple,
+                     and it causes grafted peaches to come on gradually alongside unripened
+                     plums.</p>
+               </sp>
+               <sp who="#Idas">
+                  <speaker>I.</speaker>
+                  <p>It makes me happy to think about carrying tender willow or wild olive tree
+                     branches (45) to the young flock, so that they will learn how to graze on the
+                     leaves and prune the grass with their young teeth, and so that when they have
+                     been weaned, the young will not keep looking for their roaming mothers.</p>
+               </sp>
+               <sp who="#Astacus">
+                  <speaker>A.</speaker>
+                  <p>But when I set uprooted plants in the dry soil, the ground is flooded with the
+                     overflowing spring and (50) nourished with water, so that the weak cuttings do
+                     not seek their former sap in the dirt where they have been transplanted.</p>
+               </sp>
+               <sp who="#Idas">
+                  <speaker>I.</speaker>
+                  <p>Oh, if only some god would bring Crocale here! I will say that he is master of
+                     the the earth, that he alone is master of the heavens. I will declare the wood
+                     his, and I will say, "A spirit lives under this tree. (55) Go far away, you
+                     uninitiated ones! Go! This place is holy!</p>
+               </sp>
+               <sp who="#Astacus">
+                  <speaker>A.</speaker>
+                  <p>I burn for Crocale. If any of the gods hears my prayers, a beechen ___ will be
+                     offered to him alone among the vine-covered elms, where the glittering spring
+                     carries its fresh waters and courses by the lilies with its babbling
+                     stream.</p>
+               </sp>
+               <sp who="#Idas">
+                  <speaker>I.</speaker>
+                  <p>(60) Don't look down on my cottage and rustic shelter: Idas is a country boy, I
+                     reckon, but he's not uncultivated. Often a lamb trembles on my kindled altar;
+                     often a ewe lamb is solemnly dedicated and sacrificed in celebration of the
+                     Parilia</p>
+               </sp>
+               <sp who="#Astacus">
+                  <speaker>A.</speaker>
+                  <p>It is my custom to send the first fruits to the protecting gods of my fruitful
+                     garden (65) and to hang sacrificial cakes on Priapus. I also offer dripping
+                     honeycombs and flowing honey. And these things are no less pleasing than if a
+                     goat were to spill his blood on my altar.</p>
+               </sp>
+               <sp who="#Idas">
+                  <speaker>I.</speaker>
+                  <p>I feed a thousand bleating lambs on their mothers' udders, and just as many
+                     Tarentine ewes produce fleecefor me. (70) Snow-white cheese is pressed all year
+                     long for me. If you come to me, Crocale, the whole year will serve you.</p>
+               </sp>
+               <sp who="#Astacus">
+                  <speaker>A.</speaker>
+                  <p>If someone should want to count how many apples I pick beneath my trees, he
+                     will count the fine sands more quickly. We always have a harvest of vegetables,
+                     and neither winter nor summer hampers our work. (75) If you come, Crocale, the
+                     whole harvest will serve you.</p>
+               </sp>
+               <sp who="#Idas">
+                  <speaker>I.</speaker>
+                  <p>Though the dry field parches our wilting grasses, take the milk pail full of
+                     sloshing milk. We'll offer their fleece when the sunny weather comes on, and
+                     the shearing will happen on the warm Kalends.</p>
+               </sp>
+               <sp who="#Astacus">
+                  <speaker>A.</speaker>
+                  <p>(80) But we, whom even the scorching summer rewards, will give you a thousand
+                     Chian figs with shining skins, and just as many chestnuts, when their green
+                     husks are burst by ripe nuts under the December sun.</p>
+               </sp>
+               <sp who="#Idas">
+                  <speaker>I.</speaker>
+                  <p>But you don't think I'm ugly, do you? And burdened with years? (85) Am I a sad
+                     sack, kidding myself whenever I touch my hand to my tender face and follow the
+                     traces of my youthful prime, or do I unwittingly trick my fingers with the fine
+                     down of youth?</p>
+               </sp>
+               <sp who="#Astacus">
+                  <speaker>A.</speaker>
+                  <p>Whenever I catch sight of myself in clear springs, I'm surprised, since (90) my
+                     face is covered with the flower of youth just like I have often noticed waxy
+                     quinces on their tree, glistening under their delicate fuzz.</p>
+               </sp>
+               <sp who="#Idas">
+                  <speaker>I.</speaker>
+                  <p>Love demands poetry, and shepherd's pipe doesn't shy away from the theme of
+                     love. But look! The day flees and evening revives the twilight. You, Daphnis,
+                     drive the flock on this side, and Alphesiboeus on that side.</p>
+               </sp>
+               <sp who="#Astacus">
+                  <speaker>A.</speaker>
+                  <p>(95) Now the leaves stir and the tree rustles over our songs: Go from her,
+                     Dorylas! Go! Close off the full chanel and allow it to water my gardens that
+                     have been thirsty all this while.</p>
+               </sp>
+               <p>Barely had they finished, when old Thyrsis said, "It's a tie! And so live in
+                  harmony, (100) for good looks, song, love, and age unite you.</p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
