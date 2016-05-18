@@ -5052,29 +5052,29 @@
                                 </rdgGrp>
                                 <rdg wit="#δ"/>
                             </app></l>
-                        <l n="75"><app>
-                                <lem xml:id="lem2.16.75">si <app>
-                                        <lem>venias</lem>
-                                        <rdg wit="#ε #π #λ #α #γ #η #δ #θ #β #ζ #u #e #b #d2" source="#i2 #l2 #g">venies</rdg>
-                                    </app>, Crocale, <app>
-                                        <lem>totus tibi</lem>
-                                        <rdg wit="#π">tibi totus</rdg>
-                                    </app>
-                                    <app>
-                                        <lem>serviet</lem>
-                                        <rdg wit="#N #P #φ">serviat</rdg>
-                                    </app>
-                                    <app>
-                                        <lem wit="#ε #β #γ #φ #η #ν #λ" source="#edd.">hortus</lem>
-                                        <rdg wit="#N #G #P #κ #ρ #α #χ #μ #π #δ #b">ortus</rdg>
-                                        <rdg wit="#H">annus</rdg>
-                                    </app></lem>
-                                <!-- φ (add. m2) -->
-                                <rdgGrp type="corrLineOm">
-                                    <rdg wit="#φ" varSeq="1"/>
-                                    <rdg wit="#φ2" varSeq="2"><add copyOf="#lem2.16.75"/></rdg>
-                                </rdgGrp>
-                            </app></l>
+                        <app>
+                          <lem xml:id="lem2.16.75"><l n="75">si <app>
+                                    <lem>venias</lem>
+                                    <rdg wit="#ε #π #λ #α #γ #η #δ #θ #β #ζ #u #e #b #d2" source="#i2 #l2 #g">venies</rdg>
+                                </app>, Crocale, <app>
+                                    <lem>totus tibi</lem>
+                                    <rdg wit="#π">tibi totus</rdg>
+                                </app>
+                                <app>
+                                    <lem>serviet</lem>
+                                    <rdg wit="#N #P #φ">serviat</rdg>
+                                </app>
+                                <app>
+                                    <lem wit="#ε #β #γ #φ #η #ν #λ" source="#edd.">hortus</lem>
+                                    <rdg wit="#N #G #P #κ #ρ #α #χ #μ #π #δ #b">ortus</rdg>
+                                    <rdg wit="#H">annus</rdg>
+                                </app></l></lem>
+                          <!-- φ (add. m2) -->
+                          <rdgGrp type="corrLineOm">
+                              <rdg wit="#φ" varSeq="1"/>
+                              <rdg wit="#φ2" varSeq="2" copyOf="#lem2.16.75"/>
+                          </rdgGrp>
+                        </app>
                     </sp>
                     <sp who="#Idas">
                         <speaker>I.</speaker>
