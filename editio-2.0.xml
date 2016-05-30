@@ -6579,7 +6579,7 @@
                                 <rdg source="#Heins.">signentur</rdg>
                             </app> in arbore versus:</l>
                         <l n="90" xml:id="l90">"credere, pastores, levibus nolite puellis;<app><note target="#l90"><hi rend="italic">habent</hi>
-                                <ref target="#Exc.Bon.">exc. Bon.</ref></note></app></l>
+                                <ref target="#ExcBon">exc. Bon.</ref></note></app></l>
                         <l n="91"><app>
                                 <lem>Phyllida</lem>
                                 <rdg wit="#N #G">Phillida</rdg>
@@ -9726,9 +9726,7 @@
                         </rdgGrp>
                         <!-- b (corr. #Guid.) -->
                      </app></lem>
-                  <rdg wit="#ExcPar" xml:id="rdg5.46dubitanda">dubitanda</rdg>
-                  <!-- "post"? -->
-                   <witDetail wit="#ExcPar" target="#rdg5.46dubitanda">(post)</witDetail>
+                  <rdg wit="#ExcParAlter" xml:id="rdg5.46dubitanda">dubitanda</rdg>
                   <rdg wit="#δ">dubitande</rdg>
                </app> serena</l>
             <app><note target="#lines5.46-48">46–48 exstant in <ref target="#ExcPar">Exc.
@@ -9757,9 +9755,7 @@
                <app>
                   <lem>torrentibus</lem>
                   <rdg wit="#φ #ν #ρ1 #θ #η #r" source="#n #o #i1 #l1 #Vienn. #Guid.">tondentibus</rdg>
-                  <rdg wit="#ExcPar" xml:id="rdg5.48tonsoribus">tonsoribus</rdg>
-                  <!-- "prior"? -->
-                   <witDetail wit="#ExcPar" target="#rdg5.48tonsoribus">(prior)</witDetail>
+                  <rdg wit="#ExcParPrior" xml:id="rdg5.48tonsoribus">tonsoribus</rdg>
                </app>
                <app>
                   <lem>abstulit</lem>
@@ -11702,7 +11698,7 @@
                         </app>
                         <app>
                            <lem>tornata</lem>
-                           <rdg wit="#ParPrior">torvata</rdg>
+                           <rdg wit="#ExcParPrior">torvata</rdg>
                            <rdg wit="#δ #λ">curvata</rdg>
                            <rdg wit="#d">coronata</rdg>
                         </app></lem>
@@ -11710,10 +11706,9 @@
                <l n="55">ungula, <app>
                      <lem wit="#G #H #u #b" source="#l2 #i2 #GlaeserSqq">qua</lem>
                      <rdg wit="#N">quā</rdg>
-                     <rdg wit="#V #ParPrior">qu(a)e</rdg>
-                     <!-- qu(a)e V Par. prior, -->
+                     <rdg wit="#V #ExcParPrior">qu(a)e</rdg>
                      <rdg source="#eddAnteGlaeser">quae</rdg>
-                     <rdg wit="#ParAlter">qui</rdg>
+                     <rdg wit="#ExcParAlter">qui</rdg>
                   </app> viridi sic <app>
                      <lem>exsultavit</lem>
                      <rdg wit="#ω">exultavit</rdg>
