@@ -1115,18 +1115,18 @@
                         </listWit>
                         <listWit>
                             <head>Excerpts</head>
-                            <witness xml:id="ExcPar" n="Exc.Par.">Fragmenta sunt haec: C. II 23 <hi
-                                    rend="italic">satis</hi>-24, III 10 <hi rend="italic"
-                                    >mobilior-femina</hi>, IV 14–15, 155 <hi rend="italic"
-                                    >vellit</hi>–156, V 12–13, 46–48, VI 53–56, N. IV 19 <hi
-                                    rend="italic">levant–curas</hi>, 21 24, 32, 38 <hi rend="italic"
-                                    >vocat–umbram</hi>." <msDesc>
+                            <witness xml:id="ExcPar" n="Exc. Par.">Combination of Exc. Par. Prior and
+                                Exc. Par. Posterior</witness>
+                            <witness xml:id="ExcParPrior" n="Exc. Par. Prior">
+                                <msDesc>
                                     <msIdentifier>
                                         <settlement>Paris</settlement>
                                         <repository>Bibliothèque Nationale</repository>
                                         <idno>Thuaneus 7647</idno>
                                     </msIdentifier>
                                 </msDesc>
+                            </witness>
+                            <witness xml:id="ExcParAlter" n="Exc. Par. Alter">
                                 <msDesc>
                                     <msIdentifier>
                                         <settlement>Paris</settlement>
@@ -1135,14 +1135,15 @@
                                     </msIdentifier>
                                 </msDesc>
                             </witness>
-                            <witness xml:id="codParPrior"/>
-                            <!-- No idea what to do with this. -->
-                            <witness xml:id="ParPrior"/>
-                            <!-- No idea what to do with this, either. -->
-                            <witness xml:id="ParAlter"/>
-                            <!-- Or this. -->
-                            <witness xml:id="ExcBon" n="Exc.Bon.">excerpta quae extant in cod.
-                                Bonon. 83 (52, II n. 1)</witness>
+                            <witness xml:id="ExcBon" n="Exc. Bon.">
+                                <msDesc>
+                                    <msIdentifier>
+                                        <settlement>Bologna</settlement>
+                                        <repository>R. Biblioteca Universitaria di Bologna</repository>
+                                        <idno>52 Busta II, n. 1</idno>
+                                    </msIdentifier>
+                                </msDesc>
+                            </witness>
                         </listWit>
                         <listWit>
                             <witness xml:id="ω" n="ω">codicum omnium consensus</witness>
