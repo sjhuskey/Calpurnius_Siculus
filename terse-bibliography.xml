@@ -1,0 +1,331 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <listBibl xmlns:ns1="http://www.tei-c.org/ns/1.0">
+            <bibl xml:id="Argol."><author ref="http://viaf.org/viaf/34563690">Argoli,
+                  Giovanni.</author>  <date>1681</date>. <title>Ioannis Argoli ad Libros Duos de
+                  Ludis Circensibus Onuphrii Panvinii NotaeOnuphrii Panvinii Veronensis de Ludis
+                  Circensibus Libri II, De Triumphis Liber Unus</title>Patavii: Typis Petri Marie
+               Frambotti Bibliop..   <ptr xmlns="http://www.tei-c.org/ns/1.0"
+                  target="https://books.google.com/books?id=50ZYAAAAcAAJ&amp;lpg=PA95&amp;ots=HX_fI-rrGz&amp;dq=De%20Ludis%20Circensibus%20argoli&amp;pg=RA4-PR43#v=onepage&amp;q&amp;f=false"
+               /></bibl>
+            <bibl xml:id="BaehrLL"><author ref="#Baehr.">Baehrens, Emil.</author> 
+               <date>1870</date>. <title>Lectiones Latinae</title>Bonn: Carolus Georgus.   </bibl>
+            <bibl xml:id="BaehrRhM"><author ref="#Baehr.">Baehrens, Emil.</author> 
+                  <date>1872</date>. <title>zu CalpurniusRheinisches Museum für Philologie</title>s.
+               l., s. n. <ptr xmlns="http://www.tei-c.org/ns/1.0"
+                  target="http://www.rhm.uni-koeln.de/027/M-Baehrens2.pdf"/></bibl>
+            <bibl xml:id="BarthAdv"><author ref="http://viaf.org/viaf/15563174">Barth, Kaspar
+                  von.</author>  <date>1624</date>. <title>Adversariorvm commentariorvm libri LX:
+                  quibvs ex vniversa antiqvitatis serie, omnis generis, ad vicies octies centvm,
+                  avctorvm, plvs centvm qvinqvaginta millibvs</title>Frankfurt: Typis Wechelianis,
+               apud Danielem et Davidem Aubrios, et Clementem Schleichium.   <ptr
+                  xmlns="http://www.tei-c.org/ns/1.0"
+                  target="https://books.google.com/books?id=-DVOAAAAYAAJ&amp;lpg=RA4-PT766&amp;ots=v5kIDI84YC&amp;dq=Adversariorvm%20commentariorvm%20libri%20LX&amp;pg=PP1#v=onepage&amp;q=Adversariorvm%20commentariorvm%20libri%20LX&amp;f=false"
+               /></bibl>
+            <bibl xml:id="BarthClaud"><author ref="http://viaf.org/viaf/15563174">Barth, Kaspar
+                  von.</author>  <date>1650</date>. <title>Cl. Claudiani Principum, Heroumque Poetae
+                  Praegloriosissimi, Quae Exstant</title>Frankfurt: apud Joannem Naumannum, Bibliop.
+               Hamburgensem.   <ptr xmlns="http://www.tei-c.org/ns/1.0"
+                  target="https://books.google.com/books?id=rCKBqXCArqIC&amp;lpg=PA1014-IA10&amp;ots=0ZdoKRfwgS&amp;dq=Principium%2C%20heroumque%20poetae%20praegloriosissimi%2C%20quae%20exstant&amp;pg=PP13#v=onepage&amp;q&amp;f=false"
+               /></bibl>
+            <bibl xml:id="Bartholinus"><author ref="http://viaf.org/viaf/27864975">Bartholin,
+                  Thomas.</author>  <date>1647</date>. <title>De Luce Animalium Libri
+               III</title>Lugdunum Batavorum: Ex Officina Francisci Hackii.   <ptr
+                  xmlns="http://www.tei-c.org/ns/1.0"
+                  target="https://books.google.com/books?id=R-f-lEMwFq0C&amp;pg=PR4#v=onepage&amp;q&amp;f=false"
+               /></bibl>
+            <bibl xml:id="Bergk"><author ref="http://viaf.org/viaf/7517264">Bergk,
+               Theodor.</author>  <date>1865</date>. <title>Philologische ThesenRheinisches
+                  Museum</title>s. l., s. n. <ptr xmlns="http://www.tei-c.org/ns/1.0"
+                  target="http://www.rhm.uni-koeln.de/020/M-Bergk.pdf"/></bibl>
+            <bibl xml:id="Branstma"><author ref="http://viaf.org/viaf/29459921">Brantsma,
+                  Pieter.</author>  <date>1772</date>. <title>Specimen
+               Observationum</title>Franequerae: s. n. </bibl>
+            <bibl xml:id="Brodaeus"><author ref="http://viaf.org/viaf/3531680">Brodeau,
+                  Jean.</author>  <date>1604</date>. <title>Miscellaneorum Liber VIILampas, sive Fax
+                  Artium Liberalium</title>Frankfurt: E Collegio Paltheniano, Sumptibus Ionae Rhodii
+               Bibliopola.   <ptr xmlns="http://www.tei-c.org/ns/1.0"
+                  target="https://books.google.com/books?id=09rnSvLQZ20C&amp;pg=PA5#v=onepage&amp;q&amp;f=false"
+               /></bibl>
+            <bibl xml:id="BuechelerGlotta"><author ref="http://viaf.org/viaf/167424">Buecheler,
+                  Franz.</author>  <date>1907</date>. <title>Grammatica et
+               epigraphicaGlotta</title>s. l., s. n. <ptr xmlns="http://www.tei-c.org/ns/1.0"
+                  target="https://archive.org/stream/glottazeitschri00kretgoog"/></bibl>
+            <bibl xml:id="BuechelerRhM"><author ref="http://viaf.org/viaf/167424">Buecheler,
+                  Franz.</author>  <date>1871</date>. <title>Zur höfische Poesie unter
+                  NeroRheinisches Museum für Philologie</title>s. l., s. n. <ptr
+                  xmlns="http://www.tei-c.org/ns/1.0"
+                  target="http://www.rhm.uni-koeln.de/026/Buecheler1.pdf"/></bibl>
+            <bibl xml:id="BurmAnth"><author ref="#Burm.">Burmannus Secundus, Petrus.</author> 
+                  <date>1759</date>. <title>Anthologia Veterum Latinorum Epigrammatum et
+                  PoëmatumCatalecta Poëtarum Latinorum in VI Libros Digesta</title>Amstelodami: ex
+               officina Schouteniana.   <ptr xmlns="http://www.tei-c.org/ns/1.0"
+                  target="https://books.google.com/books?id=wik_AAAAcAAJ&amp;lpg=PR74&amp;ots=zH-Fkh4dG5&amp;dq=anthologia%20veterum%20latinorum&amp;pg=PR1#v=onepage&amp;q=anthologia%20veterum%20latinorum&amp;f=false"
+               /></bibl>
+            <bibl xml:id="Casaub."><author ref="http://viaf.org/viaf/56620173">Casaubon,
+                  Isaac.</author>  <date/>. <title/>s. l., s. n. </bibl>
+            <bibl xml:id="Chytil"><author ref="http://viaf.org/viaf/247602836">Chytil,
+                  Franz.</author>  <date>1893–94</date>. <title>Der Eklogendichter T. Calpurnius
+                  Siculus und seine VorbilderJahresbericht des k. k. Gymnasium in
+               Znaim</title>Znaim: Druck der k. k. Buchdruckerei des M. G. Lenk.   <ptr
+                  xmlns="http://www.tei-c.org/ns/1.0"
+                  target="http://hdl.handle.net/2027/uc1.c071004696"/></bibl>
+            <bibl xml:id="Dempster"><author ref="http://viaf.org/viaf/4919523">Dempster,
+                  Thomas.</author>  <date>1773</date>. <title>De Etruria regali libri
+               VII</title>Florence: Apud Joannem Cajetanum Tartinium et Sanctem Franchium.   <ptr
+                  xmlns="http://www.tei-c.org/ns/1.0"
+                  target="https://books.google.com/books?id=tQJdAAAAcAAJ&amp;pg=PR8#v=onepage&amp;q&amp;f=false"
+               /></bibl>
+            <bibl xml:id="Ellis"><author ref="http://viaf.org/viaf/7379847">Ellis,
+                  Robinson.</author>  <date>1886</date>. <title>Review of "Calpurnii et Nemesiani
+                  Bucolica recensuit Henricus Schenkl, Lipsiae, G. Freytag, Pragae, F. Tempsky,
+                  1885American Journal of Philology</title>s. l., s. n. <ptr
+                  xmlns="http://www.tei-c.org/ns/1.0"
+                  target="https://books.google.com/books?id=tl4bu49MEyIC&amp;dq=editions%3AkJBBtxu-RskC&amp;pg=PA88#v=onepage&amp;q&amp;f=false"
+               /></bibl>
+            <bibl xml:id="Erasmus"><author ref="http://viaf.org/viaf/95982394">Erasmus,
+                  Desiderius.</author>  <date>1703</date>. <title>Collectanea Adagiorum
+                  VeterumDesiderii Erasmi Roterodami Opera Omnia</title>Lugduni Batavorum: Cura et
+               impensis Petri Vander Aa.   <ptr xmlns="http://www.tei-c.org/ns/1.0"
+                  target="https://books.google.ca/books?id=rZJd0x6VPqIC&amp;pg=PP5#v=onepage&amp;q&amp;f=false"
+               /></bibl>
+            <bibl xml:id="Fabricius"><author ref="http://viaf.org/viaf/24623353">Fabricius, Johann
+                  Albert.</author>  <date>1774</date>. <title>Bibliotheca Latina, tomus
+               III</title>Lipsiae: Apud Weidmanni heredes et Reichium.   <ptr
+                  xmlns="http://www.tei-c.org/ns/1.0"
+                  target="https://books.google.com/books?id=r7bwmNY6a9sC&amp;pg=PP7#v=onepage&amp;q&amp;f=false"
+               /></bibl>
+            <bibl xml:id="Forbiger"><author ref="http://viaf.org/viaf/74608819">Forbiger,
+                  Albert.</author>  <date>1845</date>. <title>P. Virgili Maronis
+               Opera</title>Lipsiae: I. C. Hinrichs.   <ptr xmlns="http://www.tei-c.org/ns/1.0"
+                  target="https://books.google.com/books?id=feBCAQAAMAAJ&amp;dq=Albert%20Forbiger&amp;pg=PR1#v=onepage&amp;q=Albert%20Forbiger&amp;f=false"
+               /></bibl>
+            <bibl xml:id="Friesemann"><author ref="http://viaf.org/viaf/5268761">Friesemann,
+                  Hendrik.</author>  <date>1786</date>. <title>Collectanea Critica</title>Amsterdam:
+               Apud Petrum den Hengst.   <ptr xmlns="http://www.tei-c.org/ns/1.0"
+                  target="https://books.google.com/books?id=hu5WAAAAcAAJ&amp;lpg=PA173&amp;ots=DyquZQYHhD&amp;dq=friesemann%20collectanea%20critica&amp;pg=PP5#v=onepage&amp;q=friesemann%20collectanea%20critica&amp;f=false"
+               /></bibl>
+            <bibl xml:id="Fritzsche"><author ref="http://viaf.org/viaf/77077577">Fritzsche, Franz
+                  Volkmar.</author>  <date>1903</date>. <title>De Eclogis CalpurnianisJahresbericht
+                  des grossherzoglichen Gymnasium Fridericianum zu Schwerin</title>Schwerin:
+               Baerensprungschen Hofbuchdruckerei.   </bibl>
+            <bibl xml:id="GHermann"><author ref="http://viaf.org/viaf/9977025">Hermann,
+                  Gottfried.</author>  <date>1849</date>. <title>Bionis et Moschi
+               Carmina</title>Lipsiae: Apud Weidmannos.   </bibl>
+            <bibl xml:id="Gebauer"><author ref="http://viaf.org/viaf/291531099">Gebauer, Gustavus
+                  Adolphus.</author>  <date>1861</date>. <title>De poetarum Graecorum Bucolicorum
+                  inprimis Theocriti Carminibus in Eclogis a Vergilio expressis libri
+               duo</title>Lipsiae: Hermann Mendelssohn.   <ptr xmlns="http://www.tei-c.org/ns/1.0"
+                  target="https://books.google.com/books?id=4YMCAAAAQAAJ&amp;lpg=PA1&amp;ots=z0FULvWGKc&amp;dq=gebauer%20de%20poetarum&amp;pg=PR1#v=onepage&amp;q=gebauer%20de%20poetarum&amp;f=false"
+               /></bibl>
+            <bibl xml:id="Gebhard"><author ref="http://viaf.org/viaf/64758716">Gebhard,
+                  Jan.</author>  <date>1615</date>. <title>Crepundiorum seu iuvenilium curarum libri
+                  tres</title>Hanoviae: Wechelianis, apud Haeredes Ioannis Aubrii.   <ptr
+                  xmlns="http://www.tei-c.org/ns/1.0"
+                  target="https://books.google.de/books?id=DfuKD9LRUGsC&amp;hl=de&amp;pg=PA97#v=onepage&amp;q&amp;f=false"
+               /></bibl>
+            <bibl xml:id="Gronov."><author ref="http://viaf.org/viaf/41850877">Gronovius, Joannes
+                  Fredericus.</author>  <date>1755</date>. <title>Observationum Libri
+                  Quattuor</title>Leipzig: Iohannes Fridericus Iahn.   <ptr
+                  xmlns="http://www.tei-c.org/ns/1.0"
+                  target="https://books.google.com/books?id=9n5MAAAAcAAJ&amp;pg=PP7#v=onepage&amp;q&amp;f=false"
+               /></bibl>
+            <bibl xml:id="GronovDiatrib"><author ref="http://viaf.org/viaf/41850877">Gronovius,
+                  Joannes Fredericus.</author>  <date>1637</date>. <title>In Papinii Statii Silvarum
+                  Libros V Diatribe ad Th. Graswinckelium</title>Hagae-Comitis: Ex officina Theodori
+               Maire.   <ptr xmlns="http://www.tei-c.org/ns/1.0"
+                  target="https://books.google.com/books?id=zBk-AAAAcAAJ&amp;dq=gronovius%20diatrib&amp;pg=PP7#v=onepage&amp;q=gronovius%20diatrib&amp;f=false"
+               /></bibl>
+            <bibl xml:id="Haupt"><author ref="http://viaf.org/viaf/36998303">Haupt, Moriz.</author> 
+                  <date>1854</date>. <title>De carminibus bucolicis Calpurnii et
+               Nemesiani</title>Berlin: Typis Academicis.   </bibl>
+            <bibl xml:id="HauptHermes"><author ref="http://viaf.org/viaf/36998303">Haupt,
+                  Moriz.</author>  <date>1874</date>. <title>ConiectaneaHermes</title>s. l., s.
+                  n. <ptr xmlns="http://www.tei-c.org/ns/1.0"
+                  target="https://books.google.de/books?id=QVYLAAAAMAAJ&amp;hl=de&amp;pg=PP1#v=onepage&amp;q&amp;f=false"
+               /></bibl>
+            <bibl xml:id="HeinsAdClaud"><author ref="http://viaf.org/viaf/95302161">Heinsius,
+                  Nicolaas.</author>  <date>1665</date>. <title>Claudii Claudiani
+               Opera</title>Amsterdam: Elsevier.   <ptr xmlns="http://www.tei-c.org/ns/1.0"
+                  target="https://books.google.com/books?id=t9c95zugnIMC&amp;lpg=PA283&amp;ots=Q4XiGvYlaT&amp;dq=heinsius%20in%20rufinum&amp;pg=PA70#v=onepage&amp;q=heinsius%20in%20rufinum&amp;f=false"
+               /></bibl>
+            <bibl xml:id="HeinsHer"><author ref="http://viaf.org/viaf/95302161">Heinsius,
+                  Nicolaas.</author>  <date/>. <title>Notae in Heroidas P. Ovidii Nasonis</title>s.
+               l., s. n. <ptr xmlns="http://www.tei-c.org/ns/1.0"
+                  target="https://books.google.com/books?id=uuYJ9S-mr2QC&amp;pg=PP5#v=onepage&amp;q&amp;f=false"
+               /></bibl>
+            <bibl xml:id="Heraldus"><author ref="http://viaf.org/viaf/9911789">Hérauld,
+                  Didier.</author>  <date>1599</date>. <title>Adversariorum Libri Duo</title>Paris:
+               Apud Ieremiam Perier.   <ptr xmlns="http://www.tei-c.org/ns/1.0"
+                  target="https://books.google.com/books?id=0DmP31YuSXkC&amp;lpg=PA51&amp;ots=v42WYr2v8h&amp;dq=Desiderii%20Heraldi%20Adversariorvm&amp;pg=PP7#v=onepage&amp;q=Desiderii%20Heraldi%20Adversariorvm&amp;f=false"
+               /></bibl>
+            <bibl xml:id="Hoeufft"><author ref="http://viaf.org/viaf/15548571">Hoeufft, Jacob
+                  Hendrik.</author>  <date>1783</date>. <title>Pericula Poëtica</title>s. l., s.
+                  n. <ptr xmlns="http://www.tei-c.org/ns/1.0"
+                  target="https://books.google.com/books?id=Xv9hAAAAcAAJ&amp;dq=Hoeufft%20peric&amp;pg=PP7#v=onepage&amp;q=Hoeufft%20peric&amp;f=false"
+               /></bibl>
+            <bibl xml:id="HousmanCR16"><author ref="http://viaf.org/viaf/49249069">Housman,
+                  A.E.(Alfred Edward).</author>  <date>1902</date>. <title>Virgil and CalpurniusThe
+                  Classical Review</title>s. l., s. n. <ptr xmlns="http://www.tei-c.org/ns/1.0"
+                  target="http://www.jstor.org/stable/695474"/></bibl>
+            <bibl xml:id="HousmanManil"><author ref="http://viaf.org/viaf/49249069">Housman,
+                  A.E.(Alfred Edward).</author>  <date>1903</date>. <title>M. Manilii Astronomicon,
+                  Liber Primus</title>London: Grant Richards.   <ptr
+                  xmlns="http://www.tei-c.org/ns/1.0"
+                  target="https://books.google.com/books?id=78dEAQAAIAAJ&amp;dq=housman%20manilius&amp;pg=PR3#v=onepage&amp;q=housman%20manilius&amp;f=false"
+               /></bibl>
+            <bibl xml:id="Iustius"><author ref="http://viaf.org/viaf/311427796">Justus, Petrus
+                  Paulus.</author>  <date>1765</date>. <title>Specimen Observationum
+                  Criticarum</title>Viennae: Typis Ioannis Thomae de Trattnern.   <ptr
+                  xmlns="http://www.tei-c.org/ns/1.0"
+                  target="https://books.google.com/books?id=TdBWAAAAcAAJ&amp;pg=PP7#v=onepage&amp;q&amp;f=false"
+               /></bibl>
+            <bibl xml:id="Jacoby"><author ref="http://viaf.org/viaf/32086104">Jacoby,
+               Karl.</author>  <date>1886</date>. <title>Review of "Calpurnii et Nemesiani Bucolica
+                  recensuit Henricus Schenkl, Lipsiae, G. Freytag, Pragae, F. Tempsky,
+                  1885Wochenschrift für klassiche Philologie</title>s. l., s. n. <ptr
+                  xmlns="http://www.tei-c.org/ns/1.0"
+                  target="https://books.google.de/books?id=q5blAAAAMAAJ&amp;hl=de&amp;pg=RA7-PA41#v=onepage&amp;q&amp;f=false"
+               /></bibl>
+            <bibl xml:id="Kannegieter"><author ref="http://viaf.org/viaf/39326858">Cannegieter,
+                  Hendrik.</author>  <date>1781</date>. <title>Flavii Aviani
+               Fabulae</title>Amstelodami: apud Martinum Schagen.   <ptr
+                  xmlns="http://www.tei-c.org/ns/1.0"
+                  target="https://books.google.com/books?id=95tHAAAAYAAJ&amp;pg=PR1#v=onepage&amp;q&amp;f=false"
+               /></bibl>
+            <bibl xml:id="LMueller"><author ref="http://viaf.org/viaf/54929846">Müller,
+                  Lucian.</author>  <date>1885</date>. <title>Review of "Calpurnii et Nemesiani
+                  Bucolica recensuit Henricus Schenkl, Lipsiae, G. Freytag, Pragae, F. Tempsky,
+                  1885Berliner philologische Wochenschrift</title>s. l., s. n. <ptr
+                  xmlns="http://www.tei-c.org/ns/1.0"
+                  target="http://hdl.handle.net/2027/uiug.30112023962282"/></bibl>
+            <bibl xml:id="Lachmann"><date>1892</date>. <title>Karl Lachmanns Briefe an Moriz
+                  Haupt</title>Berlin: Druck und Verlag von Georg Reimer.   <ptr
+                  xmlns="http://www.tei-c.org/ns/1.0"
+                  target="https://books.google.com/books?id=e5gOAQAAMAAJ&amp;dq=lachmann%20placido%20quin&amp;pg=PR1#v=onepage&amp;q=lachmann%20placido%20quin&amp;f=false"
+               /></bibl>
+            <bibl xml:id="Leo"><author ref="http://viaf.org/viaf/12434961">Leo, F..</author> 
+                  <date>1885</date>. <title>Review of "Calpurnii et Nemesiani Bucolica recensuit
+                  Henricus Schenkl, Lipsiae, G. Freytag, Pragae, F. Tempsky, 1885Zeitschrift für die
+                  österreichischen Gymnasien</title>s. l., s. n. <ptr
+                  xmlns="http://www.tei-c.org/ns/1.0"
+                  target="https://books.google.com/books?id=vABMAAAAYAAJ&amp;pg=PA611#v=onepage&amp;q&amp;f=false"
+               /></bibl>
+            <bibl xml:id="Lucas"><author ref="http://viaf.org/viaf/317057404">Lucas, Hans.</author> 
+                  <date>1901</date>. <title>Zu CalpurniusWiener Studien</title>s. l., s. n. <ptr
+                  xmlns="http://www.tei-c.org/ns/1.0"
+                  target="https://books.google.com/books?id=gbmMVZEcoGMC&amp;pg=PA139#v=onepage&amp;q&amp;f=false"
+               /></bibl>
+            <bibl xml:id="Maehly"><author ref="http://viaf.org/viaf/32754002">Mähly, J. A. (Jakob
+                  Achilles).</author>  <date>1868</date>. <title>Der Oedipus Coloneus des
+                  SophoclesAnhang enthaltend Beiträge zu Calpurnius und Nemesianus</title>Basel:
+               Hugo Richter.   <ptr xmlns="http://www.tei-c.org/ns/1.0"
+                  target="https://books.google.com/books?id=ejldAAAAcAAJ&amp;dq=Der%20Oedipus%20Coloneus%20des%20Sophocles&amp;pg=PA99#v=onepage&amp;q&amp;f=false"
+               /></bibl>
+            <bibl xml:id="Magnus"><author ref="http://viaf.org/viaf/62306539">Magnus,
+               Hugo.</author>  <date>1882</date>. <title>Review of BaehrensPhilologische
+                  Wochenschrift</title>s. l., s. n. <ptr xmlns="http://www.tei-c.org/ns/1.0"
+                  target="https://books.google.com/books?id=8eoOoQ-uLHMC&amp;pg=PA809#v=onepage&amp;q&amp;f=false"
+               /></bibl>
+            <bibl xml:id="Modius"><author ref="http://viaf.org/viaf/16442257">Modius,
+                  François.</author>  <date>1584</date>. <title>Novantiquae lectiones, tributae in
+                  epistolas centum, et quod excurrit: in quibus infinitis locis Silius, Censorinus,
+                  Hyginus, Macrobius, Fulgentius, plurimis Cicero, Seneca, Martialis, Plinius,
+                  Calpurnius, nonnullis Propertius, Ovidius, Lucanus, Varlerius Maximus, Statius,
+                  alii, supplentur, emendantur, illustrantur, notantur.</title>Frankfurt: Apud
+               heredes Andreae Wecheli.   <ptr xmlns="http://www.tei-c.org/ns/1.0"
+                  target="https://books.google.com/books?id=AzROAAAAcAAJ&amp;pg=PP5#v=onepage&amp;q&amp;f=false"
+               /></bibl>
+            <bibl xml:id="Nodell"><author ref="http://viaf.org/viaf/50155316">Nodell, Jan
+                  Adam.</author>  <date>1787</date>. <title>Flavii Aviani Fabulae ad MS. CD.
+                  Collatae. Accedunt Variae Lectiones in Ovidii Remedium Amoris Theoduli Eclogam et
+                  Catonis Disticha curante Jo. Ad. Nodell, qui notas criticas in scriptores aliquot
+                  veteres adjecit</title>Amsterdam: apud Petrus den Hengst.   <ptr
+                  xmlns="http://www.tei-c.org/ns/1.0"
+                  target="https://books.google.com/books?id=dYdYAAAAcAAJ&amp;dq=nodell%20Flavii%20Aviani%20Fabulae&amp;pg=PP7#v=onepage&amp;q&amp;f=false"
+               /></bibl>
+            <bibl xml:id="Postgate"><author ref="http://viaf.org/viaf/49261366">Postgate, John
+                  Percival.</author>  <date>1901</date>. <title>Some Suggestions on Calpurnius
+                  SiculusClassical Review</title>s. l., s. n. <ptr
+                  xmlns="http://www.tei-c.org/ns/1.0" target="http://www.jstor.org/stable/694806"
+               /></bibl>
+            <bibl xml:id="SalmasiusEp"><author ref="http://viaf.org/viaf/41850039">Saumaise,
+                  Claude.</author>  <date>1656</date>. <title>Epistolarum liber
+               primus</title>Lugduni Batavorum: Ex typographia Adriani Wyngaerden.   <ptr
+                  xmlns="http://www.tei-c.org/ns/1.0"
+                  target="https://books.google.com/books?id=0zRv3_Ym5R4C&amp;dq=Salmasius%20epistolae&amp;pg=PP5#v=onepage&amp;q=Salmasius%20epistolae&amp;f=false"
+               /></bibl>
+            <bibl xml:id="SalmasiusHist"><author ref="http://viaf.org/viaf/41850039">Saumaise,
+                  Claude.</author>  <date>1620</date>. <title>Historiae Augustae Scriptores
+                  VI</title>Paris: s. n. <ptr xmlns="http://www.tei-c.org/ns/1.0"
+                  target="https://books.google.com/books?id=HmlUAAAAcAAJ&amp;dq=Historiae%20augustae%20scriptores%20salmasius&amp;pg=PP1#v=onepage&amp;q&amp;f=false"
+               /></bibl>
+            <bibl xml:id="Sarpe"><author ref="http://viaf.org/viaf/57376075">Sarpe, Gustav
+                  Cristoph.</author>  <date>1819</date>. <title>Nomina virorum eruditione ac meritis
+                  excellentium, quos inter quarta academiae secularia summis in philosophia
+                  ornamentis ... augebit ordo philosophorum Rostochiensis indicantur ... Praemissae
+                  sunt Quaestiones Philologicae.</title>Rostochii: Adler.   <ptr
+                  xmlns="http://www.tei-c.org/ns/1.0"
+                  target="http://www.mdz-nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:bvb:12-bsb10972357-6"
+               /></bibl>
+            <bibl xml:id="Spanheim"><author ref="">Spanheim, Ezechiel.</author>  <date>1706</date>.
+                  <title>Insignes De Praestantia et Usu Numismatum Dissertationes</title>London: R.
+               Smith.   <ptr xmlns="http://www.tei-c.org/ns/1.0"
+                  target="https://books.google.com/books?id=PxIL9N4gwK4C&amp;dq=Spanheim%20de%20praestantia%20manticoram&amp;pg=PP9#v=onepage&amp;q&amp;f=false"
+               /></bibl>
+            <bibl xml:id="Swarth"><author ref="http://viaf.org/viaf/15563174">Swartius,
+                  Eustathius.</author>  <date>1616</date>. <title>Analectorum libri III, in quibus
+                  innumera Auctorum, qua Graecorum qua Latinorum, loca emendantur, dilucidantur,
+                  illustrantur, notantur.</title>Lugdunum Batavorum: Apud Ludovicum Elzevirium.  
+                  <ptr xmlns="http://www.tei-c.org/ns/1.0"
+                  target="https://books.google.com/books?id=8JFMAAAAcAAJ&amp;pg=PP5#v=onepage&amp;q&amp;f=false"
+               /></bibl>
+            <bibl xml:id="Tross"><author ref="http://viaf.org/viaf/15546092">Tross,
+                  Ludovicus.</author>  <date>1828</date>. <title>Observationum Criticarum in
+                  Scriptores Nonnullos Latinos</title>Hommone: Sumptibus auctoris.   <ptr
+                  xmlns="http://www.tei-c.org/ns/1.0"
+                  target="https://books.google.com/books?id=ao8CAAAAQAAJ&amp;lpg=PR1&amp;dq=tross%20observationum%20criticarum%20libellus&amp;pg=PR1#v=onepage&amp;q&amp;f=false"
+               /></bibl>
+            <bibl xml:id="Voss"><author ref="http://viaf.org/viaf/61642982">, .</author> 
+                  <date>1797</date>. <title>Des Publius Vergilius Maro ländliche
+               Gedichte</title>Altona: Johann Friedrich Hammerich.   <ptr
+                  xmlns="http://www.tei-c.org/ns/1.0"
+                  target="https://books.google.com/books?id=Q2YGAAAAQAAJ&amp;lpg=PA461&amp;ots=0w3fQzHW5O&amp;dq=voss%20vergils%20l%C3%A4ndliche%20gedichte&amp;pg=PP1#v=onepage&amp;q=voss%20vergils%20l%C3%A4ndliche%20gedichte&amp;f=false"
+               /></bibl>
+            <bibl xml:id="Wakefield"><author ref="http://viaf.org/viaf/8157129">Wakefield,
+                  Gilbert.</author>  <date>1789–1795</date>. <title>Silva critica sive in auctores
+                  sacros profanosque commentarius philologus</title>Cantabrigiæ: Typis academicis
+               excudebat J. Archdeacon, ubi veneunt apud J. &amp; J. Merrill ; Londini apud J.
+               Deighton ; et J. Fletcher, Oxon..   </bibl>
+            <bibl xml:id="Wilamowitz"><author ref="http://viaf.org/viaf/46781907"
+                  >Wilamowitz-Moellendorf, Ulrich von.</author>  <date>1884</date>.
+                  <title>Coniectanea</title>Göttingen: Dieterich'sche Druckerei.   <ptr
+                  xmlns="http://www.tei-c.org/ns/1.0"
+                  target="http://hdl.handle.net/2027/nnc2.ark:/13960/t8jd66k2f"/></bibl>
+            <bibl xml:id="deRooy"><author ref="http://viaf.org/viaf/29879309">de Rooy,
+                  Antony.</author>  <date>1771</date>. <title>Spicilegia critica</title>Dordracum:
+               Petrus van Braam.   <ptr xmlns="http://www.tei-c.org/ns/1.0"
+                  target="https://books.google.com/books?id=m10VAAAAQAAJ&amp;pg=PA101#v=onepage&amp;q&amp;f=false"
+               /></bibl>
+         </listBibl>
+      </body>
+   </text>
+</TEI>

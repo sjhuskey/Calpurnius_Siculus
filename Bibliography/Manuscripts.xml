@@ -1,0 +1,545 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <list type="sources">
+            <head>Sources for this Edition</head>
+            <item>
+               <list>
+                  <head>Manuscripts</head>
+                  <item>
+                     <listWit>
+                        <head>First family</head>
+                        <witness xml:id="N" n="N">Codex Neapolitanus V A 8 <!-- Use @corresp here to link to a record in the DLL catalog of manuscripts? -->
+                           <msDesc>
+                              <msIdentifier>
+                                 <settlement>Naples</settlement>
+                                 <repository>Biblioteca Nazionale di Napoli</repository>
+                                 <idno>V A 8</idno>
+                                 <altIdentifier>
+                                    <idno>380</idno>
+                                 </altIdentifier>
+                              </msIdentifier>
+                              <physDesc>
+                                 <objectDesc form="codex">
+                                    <supportDesc material="parch"/>
+                                 </objectDesc>
+                                 <handDesc hands="3">
+                                    <handNote xml:id="N1" n="N¹" sameAs="#N" scope="major"/>
+                                    <handNote xml:id="N2" n="N²" scope="major"/>
+                                    <handNote xml:id="N3" n="N³" scope="minor"/>
+                                 </handDesc>
+                              </physDesc>
+                              <history>
+                                 <origin>
+                                    <origDate notAfter="1500" notBefore="1400">XV</origDate>
+                                 </origin>
+                              </history>
+                           </msDesc>
+                        </witness>
+                        <witness xml:id="G" n="G">Codex Gaddianus pl. 90, 12 inf. <msDesc>
+                              <msIdentifier>
+                                 <settlement>Florence</settlement>
+                                 <repository>Biblioteca Medicea Laurenziana</repository>
+                                 <idno>plut. 90, 12 inf.</idno>
+                              </msIdentifier>
+                              <physDesc>
+                                 <objectDesc form="codex">
+                                    <supportDesc material="paper"/>
+                                 </objectDesc>
+                                 <handDesc hands="2">
+                                    <handNote xml:id="G1" n="G¹" sameAs="#G"/>
+                                    <handNote xml:id="G2" n="G²"/>
+                                 </handDesc>
+                              </physDesc>
+                              <history>
+                                 <origin>
+                                    <origDate notAfter="1500" notBefore="1400">XV</origDate>
+                                    <note>saec. XV ineunte scriptus</note>
+                                 </origin>
+                              </history>
+                           </msDesc>
+                        </witness>
+                     </listWit>
+                  </item>
+                  <item>
+                     <listWit xml:id="V" n="V">
+                        <head>Second family</head>
+                        <witness xml:id="α" n="α">Codex Ambrosianus O.74 sup. <msDesc>
+                              <msIdentifier>
+                                 <settlement>Milan</settlement>
+                                 <repository>Biblioteca Ambrosiana</repository>
+                                 <idno>O 74 sup.</idno>
+                              </msIdentifier>
+                              <physDesc>
+                                 <objectDesc form="codex">
+                                    <supportDesc material="paper"/>
+                                 </objectDesc>
+                                 <handDesc hands="2">
+                                    <handNote xml:id="α1" n="α¹" sameAs="#α"/>
+                                    <handNote xml:id="α2" n="α²"/>
+                                 </handDesc>
+                              </physDesc>
+                              <history>
+                                 <origin>
+                                    <origDate notAfter="1500" notBefore="1400">XV</origDate>
+                                 </origin>
+                              </history>
+                           </msDesc>
+                        </witness>
+                        <witness xml:id="β" n="β">Codex Ambrosianus I.26 sup. <msDesc>
+                              <msIdentifier>
+                                 <settlement>Milan</settlement>
+                                 <repository>Biblioteca Ambrosiana</repository>
+                                 <idno>I 26 sup.</idno>
+                              </msIdentifier>
+                              <physDesc>
+                                 <objectDesc form="codex">
+                                    <supportDesc material="paper"/>
+                                 </objectDesc>
+                                 <handDesc hands="2">
+                                    <handNote xml:id="β1" n="β¹" sameAs="#β"/>
+                                    <handNote xml:id="β2" n="β²"/>
+                                 </handDesc>
+                              </physDesc>
+                              <history>
+                                 <origin>
+                                    <origDate notAfter="1500" notBefore="1400">XV</origDate>
+                                 </origin>
+                              </history>
+                           </msDesc>
+                        </witness>
+                        <witness xml:id="δ" n="δ">Codex Vratislaviensis Rehdigeranus 1.4.11 <msDesc>
+                              <msIdentifier>
+                                 <settlement>Vratislavia</settlement>
+                                 <repository>Bibliotheca Vratislavia</repository>
+                                 <idno>Rehdigeranus 1. 4. 11</idno>
+                              </msIdentifier>
+                              <physDesc>
+                                 <objectDesc form="codex">
+                                    <supportDesc material="paper"/>
+                                 </objectDesc>
+                                 <handDesc hands="2">
+                                    <handNote xml:id="δ1" n="δ¹" sameAs="#δ"/>
+                                    <handNote xml:id="δ2" n="δ²"/>
+                                 </handDesc>
+                              </physDesc>
+                              <history>
+                                 <origin>
+                                    <origDate notAfter="1500" notBefore="1400">XV</origDate>
+                                 </origin>
+                              </history>
+                           </msDesc>
+                        </witness>
+                        <witness xml:id="γ" n="γ">Codex Vaticanus 3152 <msDesc>
+                              <msIdentifier>
+                                 <settlement>Vatican City</settlement>
+                                 <repository>Bibliotheca Apostolica Vaticana</repository>
+                                 <idno>Vaticanus 3152</idno>
+                              </msIdentifier>
+                              <physDesc>
+                                 <objectDesc form="codex">
+                                    <supportDesc material="paper"/>
+                                 </objectDesc>
+                                 <handDesc hands="2">
+                                    <handNote xml:id="γ1" n="γ¹" sameAs="#γ"/>
+                                    <handNote xml:id="γ2" n="γ²"/>
+                                 </handDesc>
+                              </physDesc>
+                              <history>
+                                 <origin>
+                                    <origDate notAfter="1500" notBefore="1400">XV</origDate>
+                                 </origin>
+                              </history>
+                           </msDesc>
+                        </witness>
+                        <witness xml:id="λ" n="λ">Codex Laurentianus bibl. Aed. 203 <msDesc>
+                              <msIdentifier>
+                                 <settlement>Florence</settlement>
+                                 <repository>Biblioteca Laurenziana</repository>
+                                 <idno>bibl. Aed. 203</idno>
+                              </msIdentifier>
+                              <physDesc>
+                                 <objectDesc form="codex">
+                                    <supportDesc material="paper"/>
+                                 </objectDesc>
+                                 <handDesc hands="2">
+                                    <handNote xml:id="λ1" n="λ¹" sameAs="#λ"/>
+                                    <handNote xml:id="λ2" n="λ²"/>
+                                 </handDesc>
+                              </physDesc>
+                              <history>
+                                 <origin>
+                                    <origDate notAfter="1500" notBefore="1400">XV</origDate>
+                                 </origin>
+                                 <provenance>olim bibliothecae Capituli S. M. de Flore</provenance>
+                              </history>
+                           </msDesc>
+                        </witness>
+                        <witness xml:id="ε" n="ε">Codex Vaticanus Urbinas 353. <msDesc>
+                              <msIdentifier>
+                                 <settlement>Vatican City</settlement>
+                                 <repository>Bibliotheca Apostolica Vaticana</repository>
+                                 <idno>Urbinas 353</idno>
+                              </msIdentifier>
+                              <physDesc>
+                                 <objectDesc form="codex">
+                                    <supportDesc material="parch"/>
+                                 </objectDesc>
+                                 <handDesc hands="2">
+                                    <handNote xml:id="ε1" n="ε¹" sameAs="#ε"/>
+                                    <handNote xml:id="ε2" n="ε²"/>
+                                 </handDesc>
+                              </physDesc>
+                              <history>
+                                 <origin>
+                                    <origDate notAfter="1500" notBefore="1400">XV</origDate>
+                                 </origin>
+                              </history>
+                           </msDesc>
+                        </witness>
+                        <witness xml:id="μ" n="μ">Codex Vaticanus 2110 <msDesc>
+                              <msIdentifier>
+                                 <settlement>Vatican City</settlement>
+                                 <repository>Bibliotheca Apostolica Vaticana</repository>
+                                 <idno>Vaticanus 2110</idno>
+                              </msIdentifier>
+                              <physDesc>
+                                 <objectDesc form="codex">
+                                    <supportDesc material="parch"/>
+                                 </objectDesc>
+                                 <handDesc hands="2">
+                                    <handNote xml:id="μ1" n="μ¹" sameAs="#μ"/>
+                                    <handNote xml:id="μ2" n="μ²"/>
+                                 </handDesc>
+                              </physDesc>
+                              <history>
+                                 <origin>
+                                    <origDate notAfter="1500" notBefore="1400">XV</origDate>
+                                 </origin>
+                              </history>
+                           </msDesc>
+                        </witness>
+                        <witness xml:id="κ" n="κ">Codex Riccardianus 724 <msDesc>
+                              <msIdentifier>
+                                 <settlement>Florence</settlement>
+                                 <repository>Biblioteca Riccardiana</repository>
+                                 <idno>724</idno>
+                                 <altIdentifier>
+                                    <idno>L IIII 10</idno>
+                                 </altIdentifier>
+                              </msIdentifier>
+                              <physDesc>
+                                 <objectDesc form="codex">
+                                    <supportDesc material="parch"/>
+                                 </objectDesc>
+                                 <handDesc hands="2">
+                                    <handNote xml:id="κ1" n="κ¹" sameAs="#κ"/>
+                                    <handNote xml:id="κ2" n="κ²"/>
+                                 </handDesc>
+                              </physDesc>
+                              <history>
+                                 <origin>
+                                    <origDate notAfter="1500" notBefore="1400">XV</origDate>
+                                 </origin>
+                              </history>
+                           </msDesc>
+                        </witness>
+                        <witness xml:id="φ" n="φ">Codex Vaticanus Ottobonianus 1466 <msDesc>
+                              <msIdentifier>
+                                 <settlement>Vatican City</settlement>
+                                 <repository>Bibliotheca Apostolica Vaticana</repository>
+                                 <idno>Ottobonianus 1466</idno>
+                                 <altIdentifier>
+                                    <idno>Altaempsianus</idno>
+                                 </altIdentifier>
+                              </msIdentifier>
+                              <physDesc>
+                                 <objectDesc form="codex">
+                                    <supportDesc material="paper"/>
+                                 </objectDesc>
+                                 <handDesc hands="2">
+                                    <handNote xml:id="φ1" n="φ¹" sameAs="#φ"/>
+                                    <handNote xml:id="φ2" n="φ²"/>
+                                 </handDesc>
+                              </physDesc>
+                              <history>
+                                 <origin>
+                                    <origDate notAfter="1500" notBefore="1400">XV</origDate>
+                                 </origin>
+                              </history>
+                           </msDesc>
+                        </witness>
+                        <witness xml:id="χ" n="χ">Codex Vaticanus Reginensis 1759 <msDesc>
+                              <msIdentifier>
+                                 <settlement>Vatican City</settlement>
+                                 <repository>Bibliotheca Apostolica Vaticana</repository>
+                                 <idno>Reginensis 1759</idno>
+                              </msIdentifier>
+                              <physDesc>
+                                 <objectDesc form="codex">
+                                    <supportDesc material="parch"/>
+                                 </objectDesc>
+                                 <handDesc hands="2">
+                                    <handNote xml:id="χ1" n="χ¹" sameAs="#χ"/>
+                                    <handNote xml:id="χ2" n="χ²"/>
+                                 </handDesc>
+                              </physDesc>
+                              <history>
+                                 <origin>
+                                    <origDate notAfter="1500" notBefore="1400">XV</origDate>
+                                 </origin>
+                                 <provenance><p>olim bibliothecae S. Silvestri</p></provenance>
+                              </history>
+                           </msDesc>
+                        </witness>
+                        <witness xml:id="ν" n="ν">Codex Laurentianus pl. 37.14 <msDesc>
+                              <msIdentifier>
+                                 <settlement>Florence</settlement>
+                                 <repository>Biblioteca Laurenziana</repository>
+                                 <idno>plut. 37.14</idno>
+                              </msIdentifier>
+                              <physDesc>
+                                 <objectDesc form="codex">
+                                    <supportDesc material="parch"/>
+                                 </objectDesc>
+                                 <handDesc hands="2">
+                                    <handNote xml:id="ν1" n="ν¹" sameAs="#ν"/>
+                                    <handNote xml:id="ν2" n="ν²"/>
+                                 </handDesc>
+                              </physDesc>
+                              <history>
+                                 <origin>
+                                    <origDate notAfter="1500" notBefore="1400">XV</origDate>
+                                 </origin>
+                              </history>
+                           </msDesc>
+                        </witness>
+                        <witness xml:id="π" n="π">Codex Vaticanus Palatinus 1652 <msDesc>
+                              <msIdentifier>
+                                 <settlement>Vatican City</settlement>
+                                 <repository>Bibliotheca Apostolica Vaticana</repository>
+                                 <idno>1652</idno>
+                              </msIdentifier>
+                              <physDesc>
+                                 <objectDesc form="codex">
+                                    <supportDesc material="parch"/>
+                                 </objectDesc>
+                                 <handDesc hands="2">
+                                    <handNote xml:id="π1" n="μ¹" sameAs="#π"/>
+                                    <handNote xml:id="π2" n="μ²"/>
+                                 </handDesc>
+                              </physDesc>
+                              <history>
+                                 <origin>
+                                    <origDate notAfter="1500" notBefore="1400">XV</origDate>
+                                 </origin>
+                              </history>
+                           </msDesc>
+                        </witness>
+                        <witness xml:id="η" n="η">Codex Vratislaviensis Rehdigeranus 1.4.10<msDesc>
+                              <msIdentifier>
+                                 <settlement>Vratislavia</settlement>
+                                 <repository>Bibliotheca Rehdigeranus</repository>
+                                 <idno>1.4.10</idno>
+                              </msIdentifier>
+                              <physDesc>
+                                 <objectDesc form="codex">
+                                    <supportDesc material="mixed"/>
+                                 </objectDesc>
+                                 <handDesc hands="2">
+                                    <handNote xml:id="η1" n="η¹" sameAs="#η"/>
+                                    <handNote xml:id="η2" n="η²"/>
+                                 </handDesc>
+                              </physDesc>
+                              <history>
+                                 <origin>
+                                    <origDate notAfter="1500" notBefore="1400">XV</origDate>
+                                 </origin>
+                              </history>
+                           </msDesc>
+                        </witness>
+                        <witness xml:id="ρ" n="ρ">Codex Riccardianus 636 <msDesc>
+                              <msIdentifier>
+                                 <settlement>Florence</settlement>
+                                 <repository>Biblioteca Riccardiana</repository>
+                                 <idno>636</idno>
+                                 <altIdentifier>
+                                    <idno>L IIII 14</idno>
+                                 </altIdentifier>
+                              </msIdentifier>
+                              <physDesc>
+                                 <objectDesc form="codex">
+                                    <supportDesc material="parch"/>
+                                 </objectDesc>
+                                 <handDesc hands="2">
+                                    <handNote xml:id="ρ1" n="ρ¹" sameAs="#ρ"/>
+                                    <handNote xml:id="ρ2" n="ρ²">Various hands that are
+                                       indistinguishable from each other.</handNote>
+                                    <handNote sameAs="#A">The hand of Niccolò Angeli, recording
+                                       variants from the lost Codex Germanicus</handNote>
+                                 </handDesc>
+                              </physDesc>
+                              <history>
+                                 <origin>
+                                    <origDate notAfter="1500" notBefore="1400">XV</origDate>
+                                 </origin>
+                              </history>
+                           </msDesc>
+                        </witness>
+                        <witness xml:id="θ" n="θ">Codex Gothanus 55 <msDesc>
+                              <msIdentifier>
+                                 <settlement>Gotha</settlement>
+                                 <repository>Forschungsbibliothek</repository>
+                                 <idno>55</idno>
+                              </msIdentifier>
+                              <physDesc>
+                                 <objectDesc form="codex">
+                                    <supportDesc material="parch"/>
+                                 </objectDesc>
+                              </physDesc>
+                              <history>
+                                 <origin>
+                                    <origDate notAfter="1500" notBefore="1400">XV</origDate>
+                                 </origin>
+                              </history>
+                           </msDesc>
+                        </witness>
+                        <witness xml:id="ζ" n="ζ">Codex Riccardianus 974 <msDesc>
+                              <msIdentifier>
+                                 <settlement>Florence</settlement>
+                                 <repository>Biblioteca Riccardiana</repository>
+                                 <idno>974</idno>
+                              </msIdentifier>
+                              <physDesc>
+                                 <objectDesc form="codex">
+                                    <supportDesc material="paper"/>
+                                 </objectDesc>
+                                 <handDesc>
+                                    <handNote xml:id="ζ1" n="ζ¹" sameAs="#ζ"/>
+                                    <handNote xml:id="ζ2" n="ζ²"/>
+                                 </handDesc>
+                              </physDesc>
+                              <history>
+                                 <origin>
+                                    <origDate notAfter="1500" notBefore="1400">XV</origDate>
+                                 </origin>
+                              </history>
+                           </msDesc>
+                        </witness>
+                     </listWit>
+                  </item>
+                  <item>
+                     <listWit>
+                        <head>Third family</head>
+                        <witness xml:id="P" n="P">Codex Parisinus 8049 <msDesc>
+                              <msIdentifier>
+                                 <settlement>Paris</settlement>
+                                 <repository>Bibliothèque Nationale</repository>
+                                 <idno>8049</idno>
+                              </msIdentifier>
+                              <physDesc>
+                                 <objectDesc form="codex">
+                                    <supportDesc material="parch"/>
+                                 </objectDesc>
+                                 <handDesc>
+                                    <handNote xml:id="P1" n="P¹" sameAs="#P"/>
+                                    <handNote xml:id="P2" n="P²"/>
+                                 </handDesc>
+                              </physDesc>
+                              <history>
+                                 <origin>
+                                    <origDate notAfter="1200" notBefore="1000">XI–XII</origDate>
+                                 </origin>
+                              </history>
+                           </msDesc>
+                        </witness>
+                     </listWit>
+                  </item>
+                  <item>
+                     <listWit>
+                        <head>Other codices</head>
+                        <witness xml:id="A" n="A" corresp="#ρ">cod. Germanicus Th. Ugoleti, cuius
+                           scripturas in mg. <ref target="#ρ">cod. Riccard. 636</ref> N. Angelius
+                           enotavit.</witness>
+                        <witness xml:id="H" n="H">cod. Harleiani 2578 lectiones, quae ad Boccaccii
+                           codicem ve ad cod. Th. Ugoleti redire videntur <msDesc>
+                              <msIdentifier>
+                                 <settlement>London</settlement>
+                                 <repository>British Library</repository>
+                                 <idno>2578</idno>
+                                 <altIdentifier>
+                                    <idno>Codex Harleianus</idno>
+                                 </altIdentifier>
+                              </msIdentifier>
+                              <physDesc>
+                                 <handDesc hands="2">
+                                    <handNote xml:id="H1" n="H¹"/>
+                                    <handNote xml:id="H2" n="H²"/>
+                                 </handDesc>
+                              </physDesc>
+                           </msDesc>
+                        </witness>
+                     </listWit>
+                  </item>
+                  <item>
+                     <listWit>
+                        <head>Excerpts</head>
+                        <witness xml:id="ExcPar" n="Exc. Par.">Combination of Exc. Par. Prior and
+                           Exc. Par. Alter</witness>
+                        <witness xml:id="ExcParPrior" n="Exc. Par. Prior">
+                           <msDesc>
+                              <msIdentifier>
+                                 <settlement>Paris</settlement>
+                                 <repository>Bibliothèque Nationale</repository>
+                                 <idno>Thuaneus 7647</idno>
+                              </msIdentifier>
+                           </msDesc>
+                        </witness>
+                        <witness xml:id="ExcParAlter" n="Exc. Par. Alter">
+                           <msDesc>
+                              <msIdentifier>
+                                 <settlement>Paris</settlement>
+                                 <repository>Bibliothèque Nationale</repository>
+                                 <idno>Nostradamensis 17903</idno>
+                              </msIdentifier>
+                           </msDesc>
+                        </witness>
+                        <witness xml:id="ExcBon" n="Exc. Bon.">
+                           <msDesc>
+                              <msIdentifier>
+                                 <settlement>Bologna</settlement>
+                                 <repository>R. Biblioteca Universitaria di Bologna</repository>
+                                 <idno>52 Busta II, n. 1</idno>
+                              </msIdentifier>
+                           </msDesc>
+                        </witness>
+                     </listWit>
+                  </item>
+                  <item>
+                     <listWit>
+                        <witness xml:id="ω" n="ω">codicum omnium consensus</witness>
+                     </listWit>
+                  </item>
+               </list>
+            </item>
+         </list>
+      </body>
+  </text>
+</TEI>
