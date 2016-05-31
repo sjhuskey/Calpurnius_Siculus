@@ -5673,16 +5673,16 @@
                     </sp>
                     <sp who="#Iollas">
                         <speaker>I.</speaker>
-                        <l n="18">Non equidem, Lycida, <app>
+                        <l n="18">Non equidem, Lycida, <app><!-- In the 1943 edition, Giarratano prints quamvis contemptus adibo -->
                                 <lem><app>
                                         <lem wit="#N #G" source="#Schenkl">quavis</lem>
                                         <rdg wit="#P #V" source="#edd.">quamvis</rdg>
                                     </app>
                                     <app>
-                                        <lem wit="#N #G #ρ #φ #ε #α #λ #π #δ #μ #η #d" source="#n #Barth #Ulit.">contentus</lem>
-                                        <rdg wit="#N #ρ">contetus</rdg>
+                                        <lem wit="#N #G #ρ #φ #ε #α #λ #π #δ #μ #η #d" source="#n #Barth #Ulit." xml:id="lem3.18contentus">contentus</lem>
                                         <rdg source="#Burm.">contendis</rdg>
                                         <rdg wit="#P #γ #κ #χ #ν #β #ρ2" source="#edd.">contemptus</rdg>
+                                        <witDetail wit="#N #ρ">(contētus)</witDetail>
                                     </app>
                                     <app>
                                         <lem>abibo</lem>
@@ -5690,7 +5690,7 @@
                                     </app></lem>
                                 <rdg source="#Leo #Fritzsche" xml:id="rdg3.18quamvis">quamvis
                                     contemptus adibo</rdg>
-                                <note target="rdg3.18quamvis">Leo (l.l. p. 617) Fritzche (De Calp.
+                                <note target="rdg3.18quamvis">Leo (l.l. p. 617) Fritzsche (De Calp.
                                     ecl. I–III Schwerin 1903 p.14)</note>
                             </app>.</l>
                         <l n="19"><app>
@@ -5744,7 +5744,7 @@
                                         <rdg wit="#G">nos tam</rdg>
                                         <rdg wit="#Baehr.">noxam</rdg>
                                         <rdg wit="#CSchenkl #Schenkl1 #Jacoby" xml:id="rdg3.22restam">res tam</rdg>
-                                        <note target="#rdg3.22restam">Jacoby (l.l. p.1291)</note>
+                                        <note target="#rdg3.22restam">Jacoby (l.l. p. 1291)</note>
                                     </app>
                                     <app>
                                         <lem>magna</lem>
@@ -5778,7 +5778,7 @@
                                 <rdg wit="#P">contemptus</rdg>
                             </app>
                             <app>
-                                <lem wit="#N #G #P #ρ" source="#Heins. #BeckSqq" xml:id="lem324solatu">sola tu</lem>
+                                <lem wit="#N #G #P #ρ" source="#Heins. #BeckSqq" xml:id="lem324solatu">sola (tu</lem>
                                 <witDetail wit="ρ">in ras.</witDetail>
                                 <rdg wit="#V #r #u #e #b #d2 #s" source="#o #n #l2 #i2 #Ulit.">tu
                                     solus</rdg>
@@ -5971,7 +5971,7 @@
                                 <lem>iratae</lem>
                                 <rdg wit="#G">irate</rdg>
                                 <rdg source="#Heins.">iratas</rdg>
-                            </app> contingam <app>
+                            </app> <app>
                                 <lem>contingam nuntius</lem>
                                 <rdg wit="#G">contingat nūptius</rdg>
                             </app>
