@@ -59,7 +59,7 @@
                <!-- Need to revise this so that it is just Calpurnius -->
             </div>
             <div type="section" n="2">
-               <head>II.</head>
+               <head>II. Overview of the Tradition</head>
                <p>There are three closely related families of manuscripts of Calpurnius and
                   Nemesianus, in particular all of those that trace their origin back to three books
                   copied from the same archetype. The first family includes two manuscripts that
@@ -513,7 +513,7 @@
                   which I have selected sixteen for my edition. They are as follows:</p>
                <list>
                   <head>Manuscripts in the Biblioteca Ambrosiana (Milan)</head>
-                  <item><ref target="#α" rend="bold">α</ref> = Codex Ambrosianus O 74 sup., paper, 212 X 145 mm., written in the fifteenth
+                  <item xml:id="CodAmbrosianusO74Trans"><ref target="#α" rend="bold">α</ref> = Codex Ambrosianus O 74 sup., paper, 212 X 145 mm., written in the fifteenth
                      century. It has 183 leaves with twenty-five verses to a page. Contained in it
                      are minor poems that were once attributed to Vergil, the epigrams of Claudianus
                      Alexandrinus (Claudian), the <bibl><title>Orestis fabula</title></bibl>, eleven
@@ -526,7 +526,7 @@
                         </title></bibl>. A. Ceriani noted the readings of this manuscript for
                      Schenkl, then I collated the entire manuscript in 1908, and I inspected it
                      again in 1909.</item>
-                  <item><ref target="β" rend="bold">β</ref> = Codex Ambrosianus I 26 sup., paper, 214 X 158 mm., written in the fifteenth
+                  <item xml:id="CodAmbrosianusI26Trans"><ref target="β" rend="bold">β</ref> = Codex Ambrosianus I 26 sup., paper, 214 X 158 mm., written in the fifteenth
                      century. It consists of 61 leaves, and each page has twenty verses. It contains
                            <bibl><author>Claudius Claudianus (Claudian)</author>
                         <title>De raptu Proserpinae</title></bibl> (ff. 1–30), the poems
@@ -547,12 +547,12 @@
                   then inspected again in the following year. They are:</p>
                <list>
                   <head>Manuscripts in the Bibliotheca Apostolica Vaticana (Vatican City)</head>
-                  <item><ref target="#γ" rend="bold">γ</ref> = Codex Vaticanus 3152, paper, 215 X 147 mm., written in the fifteenth
+                  <item xml:id="CodVat3152Trans"><ref target="#γ" rend="bold">γ</ref> = Codex Vaticanus 3152, paper, 215 X 147 mm., written in the fifteenth
                      century. It consists of 81 leaves, of which 18ᵛ, 26–30, 51ʳ, 81ᵛ are blank.
                      There are thirty-one verses on each page. It contains Calpurnius' eleven
                      eclogues (1–18ʳ), followed by various poems by Cyprian, Lactantius, Firmianus,
                      and Ausonius.</item>
-                  <item><ref target="#μ" rend="bold">μ</ref> = Codex Vaticanus 2110, parchment, 284 X 216 mm., most handsomely written in
+                  <item xml:id="CodVat2110Trans"><ref target="#μ" rend="bold">μ</ref> = Codex Vaticanus 2110, parchment, 284 X 216 mm., most handsomely written in
                      the fifteenth century under Pope Nicholas V. It consists of 128 leaves. Each
                      page has forty, forty-one, or forty-three verses. Contents: a Latin translation
                      of <bibl><author>Aristotle's</author>
@@ -563,7 +563,7 @@
                      eclogues (ff. 67ᵛ–80), <bibl><author>St. John Chysostom's</author>
                         <title>De dignitate sacerdotali dialogus</title> (ff. 81–120ʳ)</bibl>, and
                      an excerpt from the life of St. John Crysostom (ff. 120ᵛ–128). </item>
-                  <item><ref target="#ε" rend="bold">ε</ref> = Codex Vaticanus Urbinas 353, parchment, 387 X 247 mm., most handsomely
+                  <item xml:id="CodVatUrbinas353Trans"><ref target="#ε" rend="bold">ε</ref> = Codex Vaticanus Urbinas 353, parchment, 387 X 247 mm., most handsomely
                      written in the fifteenth century. It consists of 309 leaves, and there are
                      twenty-nine verses per page. <bibl xml:id="Curcio"><author>Gaetano
                            Curcio</author> (<title>Poeti Latini Minori</title> vol. 2, pt. 1, p. VI
@@ -581,7 +581,7 @@
                         calamitate.</quote> (<quote>When that prince dies, may I, too, be taken from
                         your midst and find rest from the approaching times of
                      disaster</quote>).</item>
-                  <item><ref target="#π" rend="bold">π</ref> = Codex Vaticanus Palatinus 1652, parchment, 267 X 159 mm, copied most
+                  <item xml:id="CodVatPalatinus1652Trans"><ref target="#π" rend="bold">π</ref> = Codex Vaticanus Palatinus 1652, parchment, 267 X 159 mm, copied most
                      beautifully in the fifteenth century. It consists of 129 written leaves, and
                      each page has thirty-seven verses. It contains Tibullus (ff. 1–28ʳ), Catullus
                      (ff. 28ᵛ–60ʳ), Calpurnius' eleven eclogues (ff. 60ʳ–74ᵛ), Propertius (ff.
@@ -590,12 +590,12 @@
                         XXI februarii 1460</quote> (<quote>By the hand of master Petrus
                         Montopolitanus on February 21, 1460</quote>). That is followed by two
                      hexameters written on the death of Giannozzo Manetti.</item>
-                  <item><ref target="χ" rend="bold">χ</ref> = Codex Vaticanus Reginensis 1759, formerly in the library of the Convento di
+                  <item xml:id="CodVatReginensis1759Trans"><ref target="χ" rend="bold">χ</ref> = Codex Vaticanus Reginensis 1759, formerly in the library of the Convento di
                      San Silvestro al Quirinale, parchment, 198 X 123 mm. It contains only the
                      eleven eclogues of Calpurnius. It consists of 22 leaves formatted so that each
                      page has twenty-five verses. The book was written in the fifteenth
                      century.</item>
-                  <item><ref target="#φ" rend="bold">φ</ref> = Codex Vaticanus Ottobonianus 1466, formerly in the collection of the Dukes
+                  <item xml:id="CodVatOttobonianus1466Trans"><ref target="#φ" rend="bold">φ</ref> = Codex Vaticanus Ottobonianus 1466, formerly in the collection of the Dukes
                      of the Altaemps and Galesi, paper, 198 X 132 mm., written in the fifteenth
                      century. It consists of 51 leaves, with twenty-four verses to a page. It
                      contains the eleven eclogues of Calpurnius (ff. 1–24ʳ); various poems
@@ -606,7 +606,7 @@
                   1908, and I examined them again in 1909. They are:</p>
                <list>
                   <head>Manuscripts in Florence</head>
-                  <item>Codex Laurentianus plut. 37,14, parchment, 323 X 195 mm., most handsomely
+                  <item xml:id="CodLaurPlut37.14Trans">Codex Laurentianus plut. 37,14, parchment, 323 X 195 mm., most handsomely
                      written in the fifteenth century. It consists of 224 written leaves. Each page
                      has thirty-five verses. Contents: <bibl><author>Silius Italicus</author>
                         <title>Punica</title></bibl>, <bibl><author>Calpurnius</author>
@@ -615,7 +615,7 @@
                         <title>Opera et Dies</title> in a Latin translation by N. Valla</bibl>,
                            <bibl><author>Claudian</author>
                         <title>De raptu Proserpinae</title></bibl></item>
-                  <item><ref target="#λ" rend="bold">λ</ref> = Codex Laurentianus bibl. Aed. ("Edili") 203, formerly in the Cathedral of
+                  <item xml:id="CodLaurBiblAed203Trans"><ref target="#λ" rend="bold">λ</ref> = Codex Laurentianus bibl. Aed. ("Edili") 203, formerly in the Cathedral of
                      Santa Maria del Fiore, paper, 223 X 155 mm, copied in the fifteenth century. It
                      consists of 188 written leaves, with twenty-five verses to a page. It contains
                      the eleven eclogues of Calpurnius (ff. 140–161), along with the poems of
@@ -623,11 +623,11 @@
                      inscribed as follows: <quote xml:lang="la">Georgii Ant. Vespuccii
                         liber</quote> (<quote>This book belongs to Giorgio Antonio
                         Vespucci</quote>)</item>
-                  <item><ref target="#κ" rend="bold">κ</ref> = Codex Riccardianus 724, formerly L IIII 10, parchment, 203 X 136 mm. written
+                  <item xml:id="CodRiccardianus724Trans"><ref target="#κ" rend="bold">κ</ref> = Codex Riccardianus 724, formerly L IIII 10, parchment, 203 X 136 mm. written
                      in the fourteenth century. It has 29 leaves with twenty-two verses to a page.
                      It contains the eleven eclogues of Calpurnius (ff. 1–25ʳ), which some removed
                      as the verses of other writers.</item>
-                  <item><ref target="#ρ" rend="bold">ρ</ref> = Codex Riccardianus 636, formerly L IIII 14, parchment, 225 X 150 mm.,
+                  <item xml:id="CodRiccardianus636Trans"><ref target="#ρ" rend="bold">ρ</ref> = Codex Riccardianus 636, formerly L IIII 14, parchment, 225 X 150 mm.,
                      written in the fifteenth century. It consists of 126 leaves, with twenty-six
                      verses to a page. I am astonished that <ref target="#Schenkl">Schenkl</ref>
                      reported that this manuscript is designated as codex 363, especially since the
@@ -653,7 +653,7 @@
                      that the various hands cannot always be distinguished among themselves. But
                      that is as much as I will say, since I propose to discuss the annotations of
                         <ref target="AngeliTrans">Angeli</ref> elsewhere.</item>
-                  <item><ref target="#ζ" rend="bold">ζ</ref> = Codex Riccardianus 974, paper, 208 X 142 mm., written in the fifteenth
+                  <item xml:id="CodRiccardianus974Trans"><ref target="#ζ" rend="bold">ζ</ref> = Codex Riccardianus 974, paper, 208 X 142 mm., written in the fifteenth
                      century, consists of 74 leaves. Among other minor works of various authors, it
                      contains only the second eclogue by Calpurnius (ff. 3–5), and that under the
                      title of the first eclogue. Previous editors clearly did not know about this
@@ -663,7 +663,7 @@
                   and the two
                   Wratislavienses Rehdigerani, I.4.10 (= <ref target="#η" rend="bold">η</ref>) and I.4.11 (= <ref target="#δ" rend="bold">δ</ref>), but I have not inspected them
                   personally.</p>
-               <p>Regarding the codex Gothanus, <ref target="Wernsdorf">Wernsdorf</ref> reported the
+               <p xml:id="CodGothanus55Trans">Regarding the codex Gothanus, <ref target="Wernsdorf">Wernsdorf</ref> reported the
                   following: <quote>"Written on parchment. Octovo. After Vergil's
                            <bibl><title>Bucolics</title></bibl>,
                         <bibl><title>Georgics</title></bibl>, and
@@ -675,7 +675,7 @@
                      <quote xml:lang="la">Finis: haec quae de Calphurnio inveniuntur</quote> (<quote>The end.
                      These are the poems that were composed by Calpurnius</quote>). I. G. Meusel
                   collated the manuscript for Wernsdorf.</p>
-               <p><ref target="#Glaeser">Glaeser</ref> had the following to say about the codices
+               <p xml:id="CodRehdigeraniTrans"><ref target="#Glaeser">Glaeser</ref> had the following to say about the codices
                   Rehdigerani: <quote>The second codex Rehdigeranus (that is, I.4.11), retrieved
                      from the Rehdigeran library in this city (i.e., Wrocław), quarto, written
                      carelessly in the fifteenth century, 115 leaves. All eleven are ascribed to
@@ -869,7 +869,7 @@
             </div>
             <div type="section" n="5">
                <head>V. The Third Family</head>
-               <p>Our only witness to the third family is codex Parisinus 8049 (= <ref target="#P" rend="bold">P</ref>, whose outer
+               <p xml:id="CodPar8049Lat">Our only witness to the third family is codex Parisinus 8049 (= <ref target="#P" rend="bold">P</ref>, whose outer
                   appearance F. Buecheler described in his edition of Petronius (Berlin 1862, p.
                   XXf.) as follows: <quote>"Parchment, quarto, bound together in three parts: I.
                      Introduction on Satire, Perseus; II. end of the 11th century, according to
@@ -1854,7 +1854,7 @@
                         /></bibl>. Schenkl examined the books in Paris
                      after Baehrens' edition, in 1880. In 1909, I was
                      the first to collate the excerpta Bononiensia.</p>
-                  <p>Now let us discuss the worth of the excerpts. Certainly the excerpta
+                  <p xml:id="ExcerptaTrans">Now let us discuss the worth of the excerpts. Certainly the excerpta
                      Bononiensia were copied from some manuscript of the second family. Compare
                      these passages: Nemes. 4.21 <quote xml:lang="la">eris–flores</quote> V Exc. Bon.,
                         <quote xml:lang="la">(h)erit
@@ -1895,7 +1895,7 @@
                         <quote xml:lang="la">ovilia</quote>, all of the manuscripts and the excerpts have
                         <quote xml:lang="la">vilia</quote></p>
                   <p>Before I end this preface, I want to offer my thanks to those who deserve it
-                     from me. H. Cocchia, A. E. Housan, F. Leo, F. Ramorino, G. C. Summers, most
+                     from me. H. Cocchia, A. E. Housman, F. Leo, F. Ramorino, G. C. Summers, most
                      learned and humane men to whom I owe my greatest thanks, kindly pointed out
                      many things while I was establishing the text of Calpurnius and Nemesianus. But
                      so that no one attributes to them the errors that I have fallen into, I declare
