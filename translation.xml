@@ -79,8 +79,8 @@
                <sp who="#Ornytus">
                   <speaker>O.</speaker>
                   <p><quote>“I, who watch over mountain ridges and forests, Faunus, spawn of the
-                        upper air, I sing to the people the following things that will come to pass: it
-                        pleases me (35) to inscribe on this sacred tree cheerful songs to reveal
+                        upper air, I sing to the people the following things that will come to pass:
+                        it pleases me (35) to inscribe on this sacred tree cheerful songs to reveal
                         things that are destined. Rejoice above all, you inhabitants of the woods,
                         You, my people, rejoice: the whole flock may roam while its guardian is
                         untroubled, and the shepherd may not wish to close the manger at night with
@@ -90,40 +90,39 @@
                         removed, nourishing Themis returns at last to the earth (45) and blessed
                         ages follow the youth who won the case for his maternal Juliae. While the
                         god himself rules over the peoples, wicked Bellona will surrender her hands
-                        bound behind her back and, disarmed, she will turn her mad bites against
-                        her own innards, and she will wage with herself the civil wars (50) that she
+                        bound behind her back and, disarmed, she will turn her mad bites against her
+                        own innards, and she will wage with herself the civil wars (50) that she
                         spread over the whole world. Now Rome will not mourn any Philippi and will
                         march as a captive at the head of no triumphs. All wars will be brought
                         under a Tartarean prison; they will plunge their heads in shadows and fear
                         the light. Shining peace will appear, shining not only in her face, (55)
-                        such as she often was, who was free from open war and far from the
-                        conquered foe, yet when arms were on the march routed public discord with
-                        her silent sword: Clemency ordered every defect of counterfeit peace to
-                        withdraw and pounded to pieces those mad swords. (60) No funereal procession
-                        of a senate in chains will exhaust the work of the executioners, and an
-                        unfortunate senate house will not count few senators because the jail is
-                        full of them. There will be a full peace that, unknowing of the drawn sword, will
-                        bring back to Latium another reign of Saturn, (65) another reign of Numa,
-                        who first taught the work of peace to the ranks rejoicing in slaughter and
-                        still eager for Romulus’ camp and, when he had silenced the weapons, ordered
-                        horns to sound among sacred rights, not wars. Now the consul will not
-                        purchase the appearance of spurious honor (70) nor silently receive useless
-                        fasces or a meaningless seat of office; but once the laws have been returned
-                        every right will be present, and a better god will restore the tradition and
-                        previous appearance of the forum, and sweep away the ruined age. Let each
-                        nation rejoice, whether it inhabits the region lying to the deepest south
-                        (75) or the highest north, whether it lies to the east or to the west or
-                        boils under the middle of the sky. Do you see how the twentieth night now
-                        shines in the clear sky and brings forth a comet beaming with peaceful
-                        light? How clearly the star shines without blemish? (80) Can it be that its
-                        light does not spatter either pole with blood-red fire, as it usually does,
-                        and spark with fiery blood? But once it was not this way, when Caesar was
-                        taken away and it announced deadly arms for our poor citizens. Certainly, a
-                        god himself will remove the unshaken weight (85) of Roman burden with his
-                        strong arms in such a way that the noise of a world handed over will not
-                        thunder with a sound and Rome will not think that her dead are rightly
-                        deified except when the rising ruler looks back on those who have set
-                        before.”</quote></p>
+                        such as she often was, who was free from open war and far from the conquered
+                        foe, yet when arms were on the march routed public discord with her silent
+                        sword: Clemency ordered every defect of counterfeit peace to withdraw and
+                        pounded to pieces those mad swords. (60) No funereal procession of a senate
+                        in chains will exhaust the work of the executioners, and an unfortunate
+                        senate house will not count few senators because the jail is full of them.
+                        There will be a full peace that, unknowing of the drawn sword, will bring
+                        back to Latium another reign of Saturn, (65) another reign of Numa, who
+                        first taught the work of peace to the ranks rejoicing in slaughter and still
+                        eager for Romulus’ camp and, when he had silenced the weapons, ordered horns
+                        to sound among sacred rights, not wars. Now the consul will not purchase the
+                        appearance of spurious honor (70) nor silently receive useless fasces or a
+                        meaningless seat of office; but once the laws have been returned every right
+                        will be present, and a better god will restore the tradition and previous
+                        appearance of the forum, and sweep away the ruined age. Let each nation
+                        rejoice, whether it inhabits the region lying to the deepest south (75) or
+                        the highest north, whether it lies to the east or to the west or boils under
+                        the middle of the sky. Do you see how the twentieth night now shines in the
+                        clear sky and brings forth a comet beaming with peaceful light? How clearly
+                        the star shines without blemish? (80) Can it be that its light does not
+                        spatter either pole with blood-red fire, as it usually does, and spark with
+                        fiery blood? But once it was not this way, when Caesar was taken away and it
+                        announced deadly arms for our poor citizens. Certainly, a god himself will
+                        remove the unshaken weight (85) of Roman burden with his strong arms in such
+                        a way that the noise of a world handed over will not thunder with a sound
+                        and Rome will not think that her dead are rightly deified except when the
+                        rising ruler looks back on those who have set before.”</quote></p>
                </sp>
                <sp who="#Corydon">
                   <speaker>C.</speaker>
@@ -287,6 +286,42 @@
                </sp>
                <p>Barely had they finished, when old Thyrsis said, "It's a tie! And so live in
                   harmony, (100) for good looks, song, love, and age unite you.</p>
+            </div>
+            <div type="textpart" n="3" xml:id="poemtrans3">
+               <head>Poem 3. [Iollas, Lycidas]</head>
+               <list type="speakers">
+                  <item xml:id="Iollas">Iollas</item>
+                  <item xml:id="Lycidas">Lycidas</item>
+               </list>
+               <sp who="#Iollas">
+                  <speaker>I.</speaker>
+                  <p>Lycidas, by any chance have you see my heifer in this valley? She usually meets
+                     with your bulls, and now the search has taken nearly two hours. She hasn't been
+                     found, and (5) I haven't hesitated to ruin my legs by slicing them to pieces on
+                     these hard thorns and brambles. I haven't accomplished anything after so much
+                     bloodshed.</p>
+               </sp>
+               <sp who="#Lycidas">
+                  <speaker>L.</speaker>
+                  <p>I haven't been paying enough attention: I don't have the time. I burn, Iollas.
+                     I burn uncontrollably: that ungrateful Phyllis has left her Lycidas, and after
+                     all of my gifts she loves young Mopsus.</p>
+               </sp>
+               <sp who="#Iollas">
+                  <speaker>I.</speaker>
+                  <p>(10) Woman! More shifting than the winds! That's your Phyllis. As I recall,
+                     whenever you were away by yourself, she used to swear that even honey seemed
+                     bitter to her without you.</p>
+               </sp>
+               <sp who="#Lycidas">
+                  <speaker>L.</speaker>
+                  <p>If you have the time, I'll launch into more detailed complaints, Iollas. Make
+                     for those willows and turn under the elms on the left. (15) When it's hot in the
+                     meadows, my bull likes to rest there. He stretches out in the cool shade and
+                     regurgitates the grass he ate in the morning.</p>
+               </sp>
+
+
             </div>
          </div>
       </body>
