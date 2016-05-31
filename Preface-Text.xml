@@ -382,7 +382,7 @@
                <head>IV.</head>
                <p>Secunda familia, quae V vocantur, paulo plus viginti codices continet, quorum
                   sedecim in meam editionem delegi. atque hi sunt:</p>
-               <p><ref target="#α">Codex Ambrosianus O 74 sup.</ref>, chartaceus, 0,212 X 0,145, saeculo XV exaratus, habet
+               <p xml:id="CodAmbrosianusO74">Codex Ambrosianus O 74 sup., chartaceus, 0,212 X 0,145, saeculo XV exaratus, habet
                   folia 183 ut viceni quini versus sint in paginis singulis. continentur eo poematia
                   minora quae olim Vergilio tribuebantur, Claudiani Alexandrini epigrammata, Orestis
                   fabula, Calpurnii XI eclogae (ff. 112–133), Ioviani Pontani Parthenopaeus et duae
@@ -391,7 +391,7 @@
                   laudem, carmen de ortu atque obitu hermaphroditi. codicis scripturas in Schenklii
                   usum enotavit A. Ceriani, deinde ipse totum codicem contuli a. 1908 iterumque
                   inspexi a. 1909.</p>
-               <p>Codex Ambrosianus I 26 sup., chartaceus, 0,214 X 0,158, saeculo XV scriptus,
+               <p xml:id="CodAmbrosianusI26">Codex Ambrosianus I 26 sup., chartaceus, 0,214 X 0,158, saeculo XV scriptus,
                   constat foliis 61 et singulae paginae vicenos versus habent. continet Claudii
                   Claudiani de raptu Proserpinae libros (ff. 1–30), carmina de cantu avium et sono
                   quadrupedum (ff. 32–33), Calpurnii et Nemesiani bucolica uni Calpurnio tributa
@@ -403,11 +403,11 @@
                <p>Secuntur sex codices Vaticani, scilicet Vaticani 3152 et 2110, Urbinas 353,
                   Palatinus 1652, Reginensis 1759, Ottobonianus 1466, quos ipse contuli a. 1908,
                   denuo inspexi anno sequenti.</p>
-               <p>Codex Vaticanus 3152, chartaceus, 0,215 X 0,147, saeculo XV scriptus, constat
+               <p xml:id="CodVat3152">Codex Vaticanus 3152, chartaceus, 0,215 X 0,147, saeculo XV scriptus, constat
                   foliis 81, quorum 18 b, 26–30, 51 a, 81 b vacant. in singulis paginis insunt
                   triceni singuli versus. continet Calpurnii undecim eclogas (ff. 1–18 a), secuntur
                   varia Cypriani, Lactantii, Firmiani, Ausoni carmina.</p>
-               <p>Codex Vaticanus 2110, membranaceus, 0,284 X 0,216, saeculo decimo quinto sub
+               <p xml:id="CodVat2110">Codex Vaticanus 2110, membranaceus, 0,284 X 0,216, saeculo decimo quinto sub
                   Nicolao quinto Pontifice max. elegantissime scriptus, constat 128 foliis. singulae
                   paginae habent quadragenos vel quadragenos singulos vel quadragenos ternos versus.
                   continentur eo Aristotelis Magnorum moralium interpretatio latina (ff. 1–56),
@@ -415,7 +415,7 @@
                   Calpurnii undecim eclogae (ff. 67 b–80), Sancti Ioannis Crysostomi de dignitate
                   sacerdotali dialogus (ff. 81–120 a), excerptum ex vita Ioannis Crysostomi (ff. 120
                   b–128).</p>
-               <p>Codex Vaticanus Urbinas 353, membranaceus, 0,387 X 0,247, elegantissime scriptus
+               <p xml:id="CodVatUrbinas353">Codex Vaticanus Urbinas 353, membranaceus, 0,387 X 0,247, elegantissime scriptus
                   saec. XV, constat 309 foliis et in singulis paginis viceni noveni versus insunt.
                   hoc codice, cuius speciem externam C. Curcio (poet. lat. min. II 1 p. VI sqq.)
                   accurate descripsit, una cum multis variorum carminibus, quae hic referre non est
@@ -424,39 +424,39 @@
                      Urbinat, duce invictiss. romanae ecclesi. dictat. transcripsit</quote>. et
                   paulo infra: <quote xml:lang="la">quo principe decedente utinam et ego de medio tunc sublatus
                      quiescerem ab instanti temporum calamitate.</quote></p>
-               <p>Codex Vaticanus Palatinus 1652, membranaceus, 0,267 X 0,159, saeculo decimo quinto
+               <p xml:id="CodVatPalatinus1652">Codex Vaticanus Palatinus 1652, membranaceus, 0,267 X 0,159, saeculo decimo quinto
                   nitidissime exaratus, constat foliis scriptis 129 et singulae paginae habent
                   tricenos septenos versus. continet Tibullum (ff. 1–28 a), Catullum (ff. 28 b–60a),
                   Calpurnii XI eclogas (ff. 60 a–74 b), Propertium (ff. 74 b–129). In calce operis
                   haec scripta sunt (cfr. Sabbadini l.l): <quote xml:lang="la">a M' petro montopolitano die XXI
                      februarii 1460</quote>. secuntur duo hexametri scripti in mortem Iannocti
                   Manetti.</p>
-               <p>Codex Vaticanus Reginensis 1759, olim bibliothecae S. Silvestri, membranaceus,
+               <p xml:id="CodVatReginensis1759">Codex Vaticanus Reginensis 1759, olim bibliothecae S. Silvestri, membranaceus,
                   0,198 X 0,123, continet solum Calpurnii XI eclogas. constat foliis scriptis 22 ut
                   singulae paginae habeant vicenos quinos versus. liber saeculo decimo quinto
                   exaratus est.</p>
-               <p>Codex Vaticanus Ottobonianus 1466, olim Altaempsianus, chartaceus, 0,198 X 0,132,
+               <p xml:id="CodVatOttobonianus1466">Codex Vaticanus Ottobonianus 1466, olim Altaempsianus, chartaceus, 0,198 X 0,132,
                   saeculo XV scriptus, constat foliis 51 et singulae paginae habent vicenos
                   quaternos versus. continet Calpurnii eclogas XI (ff. 1–24 a); secuntur varia
                   carmina.</p>
                <p>Praeter Gaddianum, <ref target="#CodexGaddianusLat">de quo diximus</ref>, Florentiae alii quinque codices servantur, quos
                   ipse a. 1908 contuli iterumque a. 1909 excussi. Hi sunt:</p>
-               <p>Codex Laurentianus plut. 37,14, membranaceus, 0,323 X 0,195, saeculo XV
+               <p xml:id="CodLaurPlut37.14">Codex Laurentianus plut. 37,14, membranaceus, 0,323 X 0,195, saeculo XV
                   elegantissime exaratus, constat foliis scriptis 224. singulae paginae tricenos
                   quinos versus habent. eo continentur Sili Italici Punica, Calpurnii eclogae XI
                   (ff. 177 b–193 b), Hesiodi Opera et Dies ex interpr. lat. N. Vallae, Claudiani de
                   raptu Proserpinae libri.</p>
-               <p>Codex Laurentianus bibl. Aed. 203, olim bibliothecae Capituli S. M. de Fiore,
+               <p xml:id="CodLaurBiblAed203">Codex Laurentianus bibl. Aed. 203, olim bibliothecae Capituli S. M. de Fiore,
                   chartaceus, 0,223 X 0,155 saeculo XV exaratus, constat foliis scriptis 188 et in
                   singulis paginis viceni quini versus insunt. continet Calpurnii XI eclogas (ff.
                   140–161) una cum Vergilii, Statii, Claudiani, Maximiani aliorumque veterum
                   poetarum carminibus. in fine sic scriptum est: <quote xml:lang="la">Georgii Ant. Vespuccii
                      liber</quote>.</p>
-               <p>Codex Riccardianus 724, olim L IIII 10, membranaceus, 0,203 X 0,136, saeculo
+               <p xml:id="CodRiccardianus724">Codex Riccardianus 724, olim L IIII 10, membranaceus, 0,203 X 0,136, saeculo
                   decimo quinto scriptus constat foliis 29 et singulae paginae habent versus vicenos
                   binos. continet Calpurnii eclogas undecim (ff. 1–25 a), quas excipiunt nonnulli
                   versus aliorum.</p>
-               <p>Codex Riccardianus 636, olim L IIII 14, membranaceus, 0,225 X 0,150, saeculo XV
+               <p xml:id="CodRiccardianus636">Codex Riccardianus 636, olim L IIII 14, membranaceus, 0,225 X 0,150, saeculo XV
                   scriptus, constat foliis 126 ut singulae paginae vicenos senos versus habeant. diu
                   miratus sum quod Schenkl rettulit hunc codicem 363 signatum esse, praesertim cum
                   vir doctus, qui bibliothecae Riccardianae praefectus est, me certiorem fecisset
@@ -471,13 +471,13 @@
                   versibus vel inter lineas vel in margine praebent ut non semper variae manus inter
                   se distingui possint. sed haec hactenus, cum de Angelii adnotationibus <ref target="#AngeliusLat">alio loco</ref>
                   disputare mihi proposuerim.</p>
-               <p>Codex Riccardianus 974, chartaceus, 0,208 X 0,142, saeculo decimo quinto scriptus,
+               <p xml:id="CodRiccardianus974">Codex Riccardianus 974, chartaceus, 0,208 X 0,142, saeculo decimo quinto scriptus,
                   constat foliis 74 et cum aliis opusculis variorum continet Calpurnii tantum
                   eclogam secundam (ff. 3–5), sub titulo eclogae primae. codicem editores priores
                   plane ignorabant.</p>
                <p>Tres alios codices adhibui scilicet Gothanum 55 et Wratislavienses Rehdigeranos I
                   4,10 et 11, sed ipse non inspexi.</p>
-               <p>De codice Gothano sic Wernsdorf rettulit: <quote xml:lang="la">«in membrana scriptus, octonis,
+               <p xml:id="CodGothanus55">De codice Gothano sic Wernsdorf rettulit: <quote xml:lang="la">«in membrana scriptus, octonis,
                      qui post Virgilii Bucolica Georgica et Aeneidem habet Calpurnii eclogas septem,
                      nitide scriptus, recens tamen et vix ante saeculum XV exaratus, praeterea
                      mutilus aut ex mutilo codice descriptus, quandoquidem septima ecloga in versu
@@ -485,7 +485,7 @@
                      haec subscripsit: <quote xml:lang="la">Finis: haec quae de Calphurnio
                      inveniuntur</quote>»</quote> codicem in Wernsdorfii usum contulit I. G.
                   Meusel</p>
-               <p>De codicibus Rehdigeranis sic Glaeser loquitur: «codex Rehdigeranus secundus (id
+               <p xml:id="CodRehdigerani">De codicibus Rehdigeranis sic Glaeser loquitur: <quote xml:lang="la">codex Rehdigeranus secundus (id
                   est I 4, 11) ex Bibliotheca quae in hac urbe (id est Vratislaviae) exstat,
                   Rehdigerana depromptus, chartaceus, forma quadrata, saeculo XV neglegenter
                   scriptus, foliorum 115. omnes XI eclogae Calpurnio adscriptae sunt: exstant eae
@@ -494,13 +494,13 @@
                   priore. hic illic librarius, ubi persona mutatur hoc signum (") ad marginem
                   posuit: singulae paginae viginti sex versus continent. quamquam multa sunt
                   vitiosa, quae hic liber habet, tamen bonas scripturas ei non plane deesse
-                  affirmare possum: ipse eum contuli». «codex Rehdigeranus prior (id est I 4,10) ex
+                  affirmare possum: ipse eum contuli</quote>. <quote xml:lang="la">codex Rehdigeranus prior (id est I 4,10) ex
                   bibliotheca, quae in hac urbe est, Rehdigerana mihi ad utendum concessus;
                   chartac.—membr. mixt. forma quadrata, saec. XV nitide scriptus, constat foliis
                   130. continet omnes undecim eclogas Calpurnio assignatas: exstant eae fol.
                   3.1–27.1. tituli et personarum signa rubro colore sunt picta. singulae paginae
                   viginti vel duos vel tres versus exhibent. praeterea in eo multa Virgilii et
-                  aliorum (etiam recentiorum) carmina minora scripta sunt. ipse eum contuli».</p>
+                  aliorum (etiam recentiorum) carmina minora scripta sunt. ipse eum contuli</quote>.</p>
                <p>Horum omnium codicum lectiones accuratissime in apparatu critico enotavi, sed hic
                   atque illic subtiliora quaedam omisi, praesertim scripturas ineptissimas quibus
                   nonnulli libri scatent: nonnumquam etiam codicis Vindobonensis 305, qui eiusdam
@@ -646,16 +646,16 @@
             </div>
             <div type="section" n="5">
                <head>V.</head>
-               <p>Tertiae familiae unus testis nobis est codex Parisinus 8049, cuius speciem
+               <p xml:id="CodPar8049">Tertiae familiae unus testis nobis est codex Parisinus 8049, cuius speciem
                   exteriorem F. Buecheler (in edit. Petronii, Berolini 1862 p. XX sq.) sic
-                  descripsit <quote xml:lang="la">« membranaceus, quaternaria forma ex tribus partibus
+                  descripsit <quote xml:lang="la">membranaceus, quaternaria forma ex tribus partibus
                      conglutinatus: I prolegomena de satira et Persius, II extremi saeculi XI ut
                      Keilius, extremi saeculi XII ut Froehnerus ait, Ciceronis de divinatione libri
                      secundi finis, in folio 17 verso <quote xml:lang="la">Marci Tullii de divinacione liber IIᵘˢ
                         explicit. Petronii arbitri satirarum liber incipit</quote>, in folio 25
                      recto <quote xml:lang="la">explicit Petronius. incipit egologa Calpurnii (nondum solis equos
                         I 1—quicquid id est silvestre etc. IIII 12)</quote>, III saeculi XII Senecae
-                     proverbia »</quote> de hoc codice vel de eius simillimo Poggius noster anno
+                     proverbia</quote> de hoc codice vel de eius simillimo Poggius noster anno
                   1423 ad Niccolum (Epist. I 91) haec scripsit: <quote xml:lang="la">mittas ad me oro Bucolicam
                      Calpurnii et particulam Petronii, quas misi tibi ex Britannia</quote> (Cfr
                   Sabbadini l.l. p. 83 n. 52). hunc codicem primus omnium adhibuit Pithoeus, deinde

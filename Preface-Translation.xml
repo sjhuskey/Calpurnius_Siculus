@@ -1805,7 +1805,7 @@
                   corrections that cannot be attributed to Angeli, but doubtlessly descend from some
                   manuscript of the first family. Perhaps some corrector copied those, too, from the
                   Codex Germanicus.</p>
-               <p>Regarding Boccaccio's manuscript, truly the things that can be said are few and
+               <p xml:id="Boccaccio">Regarding Boccaccio's manuscript, truly the things that can be said are few and
                   uncertain. For although the Codex Harleianus, according to its subscription, was
                   collated with the Codex Germanicus, Boccaccio's manuscript, and many others, for
                   the most part the readings that Angelius did not note in the Codex Riccardianus
@@ -1816,7 +1816,7 @@
                   same things that I said about the Codex Germanicus apply. Finally, I think we
                   should not overlook that in one place (Nemes. 4.70 <quote xml:lang="la">quo</quote> Boccaccio's
                   manuscript alone, out of all of the manuscripts, displays the true reading.</p>
-               <div type="subsection">
+               <div type="subsection" xml:id="Excerpta">
                   <head>Excerpts: Exc. Par. and Exc. Bon.</head>
                   <p>Now I must discuss the excerpts. Two manuscripts in Paris (referred to together as <ref target="#ExcPar" rend="bold">Exc. Par.</ref>), namely Thuaneus
                      7647 (= <ref target="#ExcParPrior" rend="bold">Exc. Par. Prior</ref>), end of the 12th century, and Nostradamensis 17903 (= <ref target="ExcParAlter" rend="bold">Exc. Par. Alter</ref>), 13th century, (cf.
