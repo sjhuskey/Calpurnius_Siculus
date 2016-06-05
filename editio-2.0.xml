@@ -14,7 +14,7 @@
                 <editor>Hugh Cayless</editor>
             </titleStmt>
             <editionStmt>
-                <edition>Digital edition, expanded and with commentary</edition>
+                <edition>Semantically encoded edition</edition>
                 <respStmt>
                     <resp>New annotations and encoding by</resp>
                     <name>Samuel J. Huskey</name>
@@ -34,7 +34,7 @@
                 <biblScope unit="vol">1</biblScope>
             </seriesStmt>
             <sourceDesc xml:id="sources">
-                <biblStruct xml:id="Giarratano 1910" n="Giarratano 1910">
+                <biblStruct xml:id="Giarratano1910" n="Giarratano 1910">
                     <monogr>
                         <title level="m">Calpurnii et Nemesiani Bucolica</title>
                         <editor ref="http://viaf.org/viaf/79016214">
