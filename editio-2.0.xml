@@ -50,8 +50,8 @@
         </fileDesc>
     </teiHeader>
     <text>
-        <front>
-            <div type="preface" xml:lang="la">
+        <front xml:id="front">
+            <div type="introduction" xml:lang="la">
                 <div type="section" n="1">
                     <head>I.</head>
                     <p>Septem eclogae Calpurnii et quattuor Nemesiani iisdem codicibus continentur,
@@ -4500,7 +4500,7 @@
                             <app>
                                 <lem>publica</lem>
                                 <rdg wit="#N2">puplica</rdg>
-                                <rdg source="GHermann #Haupt1854 #Baehr.">iubila</rdg>
+                                <rdg source="#Hermann #Haupt1854 #Baehr.">iubila</rdg>
                                 <rdg source="#Leo" xml:id="rdg1.57Leo">vulnera</rdg>
                                 <note target="#rdg1.57Leo"><ref target="#Leo">Leo (Zeitschr. f. d.
                                         oesterr. Gymn. XXX p. 616<ptr target="https://books.google.com/books?id=vABMAAAAYAAJ&amp;pg=PA616#v=onepage&amp;q&amp;f=false"/>)</ref></note>
