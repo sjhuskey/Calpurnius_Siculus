@@ -3687,38 +3687,38 @@
                         <speaker>
                             <app>
                                 <lem wit="#G #P #A #φ" source="#Ulit. #Wernsd. #GlaeserSqq">C.</lem>
-                                <rdg wit="#N #π #χ" source="#p" ana="#k6"/>
-                                <rdg wit="#ε #β #γ #μ #ρ" source="#eddAnteGlaeser" ana="#k1">O.</rdg>
+                                <rdg wit="#N #π #χ" source="#p" ana="subtractive"/>
+                                <rdg wit="#ε #β #γ #μ #ρ" source="#eddAnteGlaeser" ana="lexical">O.</rdg>
                             </app>
                         </speaker>
                         <l n="1">
-                            <app>
+                            <app ana="orthographical">
                                 <lem xml:id="lem1.1nondum">Nondum</lem>
                                 <rdgGrp type="anteCorr">
-                                    <rdg wit="#G1" varSeq="1" xml:id="rdg1.1nundum" ana="#k5">nundum</rdg>
+                                    <rdg wit="#G1" varSeq="1" xml:id="rdg1.1nundum">nundum</rdg>
                                     <rdg wit="#G1" varSeq="2" copyOf="#lem1.1nondum"/>
                                 </rdgGrp>
                                 <rdg wit="#P" copyOf="#rdg1.1nundum"/>
                             </app> Solis equos <app>
                                 <lem wit="#N" source="#Heins. #Schenkl">declinis</lem>
-                                <rdg wit="#G #V" source="#edd." ana="#k1">declivis</rdg>
-                                <rdg wit="#P" source="#p" ana="#k1">declivus</rdg>
-                                <rdg wit="#μ" ana="#k1 #k3">declives</rdg>
+                                <rdg wit="#G #V" source="#edd." ana="lexical">declivis</rdg>
+                                <rdg wit="#P" source="#p" ana="lexical">declivus</rdg>
+                                <rdg wit="#μ" ana="lexical morphological">declives</rdg>
                             </app> mitigat aestas,</l>
                         <l n="2">
-                            <app>
+                            <app ana="lexical">
                                 <lem>quamvis</lem>
-                                <rdg wit="#φ #π #η #θ #r" ana="#k1">quatinus</rdg>
-                            </app> et madidis incumbant <app>
+                                <rdg wit="#φ #π #η #θ #r">quatinus</rdg>
+                            </app> et madidis incumbant <app ana="error">
                                 <lem>praela</lem>
-                                <rdg wit="#P" ana="#k1">praeda</rdg>
+                                <rdg wit="#P">praeda</rdg>
                             </app> racemis</l>
                         <app type="lineOmission">
-                            <lem><l n="3">et spument rauco ferventia <app>
+                            <lem><l n="3">et spument rauco ferventia <app ana="error">
                                         <lem>musta</lem>
-                                        <rdg wit="#P" ana="#k1 #k2">iniusta</rdg>
+                                        <rdg wit="#P">iniusta</rdg>
                                     </app> susurro.</l></lem>
-                            <rdg wit="#κ #χ" ana="#k6"/>
+                            <rdg wit="#κ #χ" ana="subtractive"/>
                         </app>
                         <l n="4"><!-- Need to figure out what to do with witnesses that vary regarding who is speaking. <app>
                         <lem/>
@@ -3727,42 +3727,42 @@
                         <witDetail wit="#V" target="#lem1.4.C">V plerique, edd. fere omnes ante <ref
                                 target="#Glaeser">Glaeser</ref></witDetail>
                     </app> -->cernis
-                            ut ecce pater quas tradidit, <app ana="#k5">
+                            ut ecce pater quas tradidit, <app ana="orthographical">
                                 <lem source="#Heins. #Maehly #Baehr. #Schenkl" type="#emendation">Ornyte</lem>
                                 <rdg wit="#N #G #V" source="#edd.">ornite</rdg>
                                 <rdg wit="#P">ornyce</rdg>
                                 <rdg wit="#s">ornithe</rdg>
                             </app>, <app>
                                 <lem wit="#ε #χ #λ #β #ρ #α #η #γ">vaccae</lem>
-                                <rdg wit="#N #ν #φ #π #κ #μ #r" source="#p">vacce</rdg>
-                                <rdg wit="#G">bacce</rdg>
-                                <rdg wit="#δ">vaccas</rdg>
+                                <rdg wit="#N #ν #φ #π #κ #μ #r" source="#p" ana="orthographical">vacce</rdg>
+                                <rdg wit="#G" ana="orthographical">bacce</rdg>
+                                <rdg wit="#δ" ana="syntactic morphological">vaccas</rdg>
                             </app></l>
                         <l n="5"><app>
                                 <lem wit="#P #V" source="#edd.">molle sub</lem>
-                                <rdg wit="#N #G #A #H" source="#Glaeser #Keene"> molliter</rdg>
+                                <rdg wit="#N #G #A #H" source="#Glaeser #Keene" ana="syntactic"> molliter</rdg>
                                 <note><ref target="#Jacoby">Jacoby</ref> defendit (p. 1290 <ref target="https://books.google.de/books?id=q5blAAAAMAAJ&amp;hl=de&amp;pg=PA128#v=onepage&amp;q&amp;f=false">Wochenschrift für Klassische Philologie</ref>)</note>
-                                <rdg source="#Schenkl2">molle per</rdg>
+                                <rdg source="#Schenkl2" ana="lexical">molle per</rdg>
                             </app>
                             <app>
                                 <lem>hirsuta</lem>
-                                <rdg wit="#P">yrsuta</rdg>
-                                <rdg source="#Schenkl2">hirsutam</rdg>
+                                <rdg wit="#P" ana="orthographical">yrsuta</rdg>
+                                <rdg source="#Schenkl2" ana="morphological">hirsutam</rdg>
                             </app> latus <app>
                                 <lem>explicuere</lem>
-                                <rdg wit="#ε #γ #μ #λ1 #δ #e">explicare</rdg>
+                                <rdg wit="#ε #γ #μ #λ1 #δ #e" ana="morphological">explicare</rdg>
                             </app>
                             <app>
                                 <lem>genista</lem>
-                                <rdg wit="#λ1 #δ">genestra</rdg>
-                                <rdg wit="#ε #γ #μ #λ2 #χ2 #e" source="#Beck">genesta</rdg>
-                                <rdg source="#Schenkl2">genistam</rdg>
+                                <rdg wit="#λ1 #δ" ana="orthographical">genestra</rdg>
+                                <rdg wit="#ε #γ #μ #λ2 #χ2 #e" source="#Beck" ana="orthographical">genesta</rdg>
+                                <rdg source="#Schenkl2" ana="morphological">genistam</rdg>
                             </app>?</l>
-                        <l n="6">nos quoque vicinis cur non <app>
+                        <l n="6">nos quoque vicinis cur non <app ana="orthographical">
                                 <lem>succedimus</lem>
                                 <rdg wit="#G">subcedimus</rdg>
                             </app>
-                            <app>
+                            <app ana="lexical">
                                 <lem>umbris</lem>
                                 <rdg source="#nonnulliTitium">ulmis</rdg>
                             </app>?</l>
@@ -3770,7 +3770,7 @@
                     </sp>
                     <sp who="#Ornytus">
                         <speaker>
-                            <app>
+                            <app ana="subtractive">
                                 <lem xml:id="lem1.7.O">O.</lem>
                                 <rdgGrp type="corrOmission">
                                     <rdg wit="#N" varSeq="1"/>
@@ -3778,56 +3778,56 @@
                                 </rdgGrp>
                             </app>
                         </speaker>
-                        <l n="8">Hoc potius, frater <app>
+                        <l n="8">Hoc potius, frater <app ana="orthographical">
                                 <lem wit="#χ #ε #δ #ρ2" source="#edd.">Corydon</lem>
                                 <rdg wit="#N #G #β #ν #κ #λ #γ #μ #π #ρ1 #φ #α #η #r" source="#Barth">coridon</rdg>
                                 <rdg wit="#P">corridon</rdg>
-                            </app>, <app type="addMargin">
+                            </app>, <app ana="morphological" type="addMargin">
                                 <lem>nemus</lem>
                                 <rdg wit="#G1"><add place="margin">nemora</add></rdg>
-                            </app>, <app type="transposition">
+                            </app>, <app type="transposition" ana="ordinal">
                                 <lem wit="#N #G" source="#GlaeserSqq" xml:id="l8a1lem1" exclude="l9a1rdg1">antra</lem>
                                 <rdg wit="#P #V" source="#eddAnteGlaeser" xml:id="l8a1rdg1" exclude="l9a1lem1">ista</rdg>
                             </app> petamus</l>
-                        <l n="9"><app type="transposition">
+                        <l n="9"><app type="transposition" ana="ordinal">
                                 <lem wit="#N #G" source="#GlaeserSqq" xml:id="l9a1lem1" exclude="#l8a1rdg1">ista</lem>
                                 <rdg wit="#P #V" source="#eddAnteGlaeser" xml:id="l9a1rdg1" exclude="l8a1lem1">antra</rdg>
-                            </app> patris Fauni, <app>
+                            </app> patris Fauni, <app ana="orthographical">
                                 <lem>graciles</lem>
                                 <rdg wit="#V">gracilis </rdg>
                                 <note>edd. vett. accusativos eiusmodi fere semper in <hi rend="italic">is</hi>
                                     exhibent</note>
                             </app> ubi pinea <app>
                                 <lem wit="#G #A #P #λ2" source="#GlaeserSqq">denset</lem>
-                                <rdg wit="#N">densent</rdg>
-                                <rdg wit="#V" source="#eddAnteGlaeser">densat</rdg>
+                                <rdg wit="#N" ana="morphological">densent</rdg>
+                                <rdg wit="#V" source="#eddAnteGlaeser" ana="morphological syntactic">densat</rdg>
                             </app></l>
-                        <l n="10">silva comas <app>
+                        <l n="10">silva comas <app ana="lexical" type="conjecture">
                                 <lem>rapidoque</lem>
                                 <rdg source="#Baehr1870">rabidoque </rdg>
                                 <note>(lect. lat. p. 35 <ptr target="https://books.google.com/books?id=a6FMAAAAcAAJ&amp;pg=PT38#v=onepage&amp;q&amp;f=false"/>)</note>
                             </app>
-                            <app>
+                            <app ana="orthographical">
                                 <lem>caput</lem>
                                 <rdg wit="#G">capud</rdg>
                             </app> levat obvia soli,</l>
                         <l n="11"><app>
                                 <lem>bullantes</lem>
-                                <rdg wit="#ε #δ #e #d2">bullentes</rdg>
-                                <rdg wit="#η #ν #φ #ρ2 #r #s">bullantis</rdg>
-                                <rdg source="#Heins.">palantes</rdg>
+                                <rdg wit="#ε #δ #e #d2" ana="lexical">bullentes</rdg>
+                                <rdg wit="#η #ν #φ #ρ2 #r #s" ana="orthographical">bullantis</rdg>
+                                <rdg source="#Heins." ana="lexical" type="#conjecture">palantes</rdg>
                             </app>
-                            <app>
+                            <app ana="lexical">
                                 <lem>ubi</lem>
                                 <rdg wit="#G"><add place="margin">ut</add></rdg>
                             </app> fagus aquas radice sub ipsa</l>
-                        <l n="12"><app>
+                        <l n="12"><app ana="error">
                                 <lem xml:id="lem1.12protegit">protegit</lem>
                                 <rdgGrp type="anteCorr">
                                     <rdg wit="#G" varSeq="1">protegis</rdg>
                                     <rdg wit="#G" varSeq="2" copyOf="#lem1.12protegit"/>
                                 </rdgGrp>
-                            </app> et ramis <app>
+                            </app> et ramis <app ana="morphological">
                                 <lem>errantibus</lem>
                                 <rdg wit="#G">errantes</rdg>
                             </app> implicat umbras.</l>
@@ -3835,19 +3835,19 @@
                     <milestone n="6" unit="page"/>
                     <sp who="#Corydon">
                         <speaker>C.</speaker>
-                        <l n="13">Quo me cumque <app>
+                        <l n="13">Quo me cumque <app ana="lexical syntactic">
                                 <lem>vocas</lem>
                                 <rdg wit="#P" source="#p">vacas</rdg>
-                            </app>, <app>
+                            </app>, <app ana="syntactic">
                                 <lem>sequor</lem>
                                 <rdg wit="#N" source="#Glaeser #Keene">sequar</rdg>
-                            </app>, <app>
+                            </app>, <app ana="orthographical">
                                 <lem>Ornyte</lem>
                                 <rdg wit="#ω">ornite</rdg>
                                 <!-- This siglum refers to all codices, which presumably includes things labeled elsewhere as either wit or source. Which attribute should it have? -->
                                 <rdg wit="#N" type="inRas"><add place="inline">or.</add></rdg>
                                 <!-- For a reading in ras. -->
-                            </app>; nam mea <app>
+                            </app>; nam mea <app ana="orthographical">
                                 <lem wit="#N #G #A #P #π #ε #χ2" source="#edd." xml:id="lem1.13Leuce">Leuce</lem>
                                 <rdg wit="#κ #α #χ1">leute</rdg>
                                 <rdg wit="#φ #η #ρ #ν #θ #r #s">lene</rdg>
@@ -3860,14 +3860,14 @@
                             </app>,</l>
                         <l n="14">dum negat amplexus <app>
                                 <lem>nocturnaque</lem>
-                                <rdg wit="#G"> noturnaque </rdg>
-                                <rdg wit="#N2" type="inRas"><add place="inline">nocturna</add>que</rdg>
+                                <rdg wit="#G" ana="orthographical">noturnaque</rdg>
+                                <rdg wit="#N2" type="inRas" ana="additive"><add place="inline">nocturna</add>que</rdg>
                                 <!-- Handling a reading that has been written in or on top of an erasure. -->
                             </app> gaudia nobis,</l>
-                        <l n="15"><app>
+                        <l n="15"><app ana="lexical">
                                 <lem>pervia</lem>
                                 <rdg wit="#P">previa</rdg>
-                            </app> cornigeri fecit sacraria <app>
+                            </app> cornigeri fecit sacraria <app ana="orthographical">
                                 <lem>Fauni</lem>
                                 <rdg wit="#P">fanni</rdg>
                             </app>.</l>
@@ -3880,8 +3880,8 @@
                         <note>praeter <ref target="#Baehr.">Baehr.</ref> et <ref target="#Schenkl"
                                 >Schenkl</ref></note>
                     </app> -->
-                        <app type="lineOmission">
-                            <lem><l n="16" xml:id="line1.16">prome igitur <app>
+                        <app ana="subtractive" type="lineOmission">
+                            <lem><l n="16" xml:id="line1.16">prome igitur <app ana="orthographical">
                                     <lem>calamos</lem>
                                     <rdg wit="#G">chalamos</rdg>
                                 </app> et si qua recondita servas;</l></lem>
@@ -3890,38 +3890,37 @@
                         </app>
                         <l n="17">nec tibi defuerit <app>
                                 <lem>mea</lem>
-                                <rdg wit="#ρ"/>
-                                <rdg wit="#A"><add place="margin">mea</add></rdg>
-                                <rdg wit="#ν #φ #η #θ #r #s" source="#o #n #Burm. #Beck">nova</rdg>
+                                <rdg wit="#ρ" ana="subtractive"/>
+                                <rdg wit="#A" ana="additive"><add place="margin">mea</add></rdg>
+                                <rdg wit="#ν #φ #η #θ #r #s" source="#o #n #Burm. #Beck" ana="lexical">nova</rdg>
                             </app> fistula, quam mihi nuper</l>
-                        <l n="18"><app>
+                        <l n="18"><app ana="lexical">
                                 <lem>matura</lem>
                                 <rdg wit="#P" source="#p #Kempfer">natura</rdg>
                             </app>
                             <app>
                                 <lem>docilis</lem>
-                                <rdg wit="#N">docili<del rend="erasure">s</del></rdg>
+                                <rdg wit="#N" ana="subtractive">docili<del rend="erasure">s</del></rdg>
                                 <!-- Handling deletion of a letter that is still legible -->
-                                <rdgGrp type="conjectures">
+                                <rdgGrp type="conjecture">
                                     <!-- Handling a previous editor's uncertainty in his commentary. -->
                                     <rdg source="#Beck">docili</rdg>
                                     <rdg source="#Beck">docilem</rdg>
                                 </rdgGrp>
-                            </app> compegit <app>
+                            </app> compegit <app ana="orthographical">
                                 <lem wit="#G #ν #φ #λ #ρ #μ1">arundine</lem>
                                 <rdg wit="#N #α #β #δ #η #μ2 #π #χ #ε #γ #κ">harundine</rdg>
                             </app>
-                            <app>
-                                <lem wit="#N #G #A #H #P" source="#Baehr.">Ladon</lem>
-                                <!-- How to encode "Ladas" as Schenkl's conjecture, which he prints in his apparatus? Will this work? -->
-                                <note><ref target="#Schenkl">Schenkl</ref>, qui proposuit <hi rend="italic">Ladas</hi></note>
+                            <app ana="orthographical">
+                                <lem wit="#N #G #A #H #P" source="#Baehr. #Schenkl" xml:id="lem1.18Ladon">Ladon</lem>
+                                <note target="#lem1.18Ladon"><ref target="#Schenkl">Schenkl</ref>, qui proposuit <hi rend="italic">Ladas</hi></note>
                                 <rdg wit="#ν #φ #χ #γ #μ #δ #η #θ #r #s">Lydon</rdg>
                                 <rdg wit="#κ #π #β #ρ1">Lidon</rdg>
                                 <rdg wit="#α #λ #b" source="#n">Ligdon</rdg>
                                 <rdg wit="#ε #ρ2" source="#edd.">Lygdon</rdg>
                                 <rdg source="#Wilamowitz" xml:id="rdg1.18Lacon">Lacon</rdg>
-                                <note target="#rdg1.18Lacon"> (ind. lect. aest. Gott. 1884 p.
-                                    6)</note>
+                                <note target="#rdg1.18Lacon">(<ref target="http://hdl.handle.net/2027/nnc2.ark:/13960/t8jd66k2f?urlappend=%3Bseq=11">ind. lect. aest. Gott. 1884 p.
+                                    6</ref>)</note>
                             </app>.</l>
                     </sp>
                     <sp who="#Ornytus">
@@ -3929,23 +3928,25 @@
                             <app>
                                 <lem wit="#P #π #κ #χ #λ #α" source="#Baehr. #Schenkl">O.</lem>
                                 <!-- There has to be a better way to indicate that people have disagreement about which speakers are speaking -->
-                                <rdg source="#rellCoddEdd"/>
-                                <rdg wit="#d">C.</rdg>
+                                <rdg source="#rellCoddEdd" ana="subtractive"/>
+                                <rdg wit="#d" ana="lexical">C.</rdg>
                             </app>
                         </speaker>
-                        <l n="19"><app>
+                        <l n="19"><app ana="lexical syntactic" type="conjecture">
                                 <lem>Et</lem>
                                 <rdg source="#Maehly">en</rdg>
                             </app> iam <app>
-                                <lem>captatae</lem>
-                                <rdg wit="#G">captata</rdg>
-                                <rdg wit="#G"><add place="margin">captate</add></rdg>
+                                <lem xml:id="lem1.19captatae">captatae</lem>
+                                <rdgGrp type="anteCorr">
+                                    <rdg wit="#G" varSeq="1" ana="morphological subtractive">captata</rdg>
+                                    <rdg wit="#G" varSeq="2" ana="orthographical"><add place="margin">captate</add></rdg>
+                                </rdgGrp>
                             </app>
-                            <app>
+                            <app ana="subtractive">
                                 <lem>pariter</lem>
                                 <rdg wit="#P" source="#p"/>
                             </app>
-                            <app>
+                            <app ana="orthographical">
                                 <lem>successimus</lem>
                                 <rdg wit="#G">subcessimus</rdg>
                             </app> umbrae.</l>
@@ -3956,63 +3957,65 @@
                         <rdg wit="#ν #φ #δ #η #r #s" source="#o #n #Ulit. #Burm. #Wernsd. #Beck"
                                 ><speaker>C.</speaker></rdg>
                     </app> -->sed
-                            quaenam <app>
+                            quaenam <app ana="morphological">
                                 <lem>sacra</lem>
                                 <rdg wit="#G #δ">sacro</rdg>
                             </app>
                             <app>
                                 <lem wit="#P #V #N2" source="#edd." xml:id="lem1.20descripta">descripta</lem>
-                                <rdg wit="#G" source="#Jacoby">depicta</rdg>
+                                <rdg wit="#G" source="#Jacoby" ana="lexical" xml:id="rdg1.20depicta">depicta</rdg>
                                 <rdgGrp type="mutation">
-                                    <rdg wit="#N" varSeq="1">dipicta</rdg>
-                                    <rdg wit="#N1" varSeq="2">depicta</rdg>
+                                    <rdg wit="#N" varSeq="1" ana="lexical">dipicta</rdg>
+                                    <rdg wit="#N1" varSeq="2" copyOf="#rdg1.20depicta" ana="lexical"/>
                                     <!-- Display as dipicta N (mut. in depicta N1) -->
                                 </rdgGrp>
                                 <witDetail wit="#N2" target="#lem1.20descripta">in mg.</witDetail>
                             </app>
-                            <app>
+                            <app ana="subtractive">
                                 <lem>est</lem>
                                 <rdg wit="#e #u"/>
                             </app> pagina fago,</l>
-                        <l n="21">quam modo nescio <app>
+                        <l n="21">quam modo nescio <app ana="lexical syntactic">
                                 <lem>quis</lem>
                                 <rdg wit="#N">qui</rdg>
                             </app> properanti falce notavit?</l>
-                        <l n="22"><app>
-                                <lem source="#r #s #o #n #d #Ulit. #Burm. #Wernsd. #Beck #Glaeser" ana="#emendation"/>
-                                <rdg wit="#ε #γ" source="#edd.">C.</rdg>
+                        <l n="22"><app type="emendation">
+                                <lem source="#r #s #o #n #d #Ulit. #Burm. #Wernsd. #Beck #Glaeser"/>
+                                <rdg wit="#ε #γ" source="#edd." ana="additive">C.</rdg>
                                 <!-- This isn't really very helpful, since "edd." has so many exceptions. -->
                             </app>
-                            <app>
+                            <app ana="morphological">
                                 <lem>aspicis</lem>
                                 <rdg wit="#ε">aspicit</rdg>
-                            </app> ut <anchor xml:id="intquot1"/>virides etiam <app>
+                            </app> ut <anchor xml:id="intquot1"/>virides etiam <app ana="lexical">
                                 <lem>nunc</lem>
                                 <rdg source="#Vienn.">tunc</rdg>
                             </app>
-                            <app>
+                            <app ana="orthographical">
                                 <lem>littera</lem>
                                 <rdg wit="#N #P">litera</rdg>
                             </app> rimas</l>
                         <l n="23">
-                            <app>
+                            <app ana="orthographical">
                                 <lem>servet</lem>
                                 <rdg wit="#N" xml:id="rdg1.23csorvet">c<add place="inline">so</add>rvet</rdg>
                                 <witDetail wit="#N" target="#rdg1.23csorvet">(o et pars. sup. litt.
                                     s in ras.)</witDetail>
-                            </app> et <app>
+                            </app> et <app ana="lexical">
                                 <lem>arenti</lem>
                                 <rdg wit="#N">arena</rdg>
                             </app> nondum <app>
-                                <lem>se laxet</lem>
-                                <rdg wit="#N"><add hand="#N1">se</add> laxet</rdg>
-                                <rdg wit="#d">se laxat</rdg>
-                                <!-- Handling a conjecture? -->
-                                <rdg source="#Schenkl" xml:id="rdg1.23laxetur">laxetur</rdg>
+                                <lem xml:id="lem1.23se-laxet">se laxet</lem>
+                                <rdgGrp type="anteCorr">
+                                    <rdg wit="#N" varSeq="1" ana="subtractive">laxet</rdg>
+                                    <rdg wit="#N1" varSeq="2" copyOf="#lem1.23se-laxet"/>
+                                </rdgGrp>
+                                <rdg wit="#d" ana="syntactic">se laxat</rdg>
+                                <rdg source="#Schenkl" xml:id="rdg1.23laxetur" type="conjecture">laxetur</rdg>
                                 <note target="#rdg1.23laxetur">olim</note>
                                 <!-- A good argument for adding <srcDetail> to the TEI. -->
                             </app>
-                            <app>
+                            <app ana="orthographical">
                                 <lem>hiatu</lem>
                                 <rdg wit="#N #λ">hyatu</rdg>
                             </app>?</l>
@@ -4021,24 +4024,27 @@
                         <speaker>
                             <app>
                                 <lem wit="#P #α #β #κ #χ #λ #ρ #μ #π #δ" source="#p #Glaeser #Keene #Baehr. #Schenkl">C.</lem>
-                                <rdg wit="#G">§</rdg>
-                                <rdg wit="#N #ε #ν #φ #γ #η" source="#edd."/>
+                                <rdg wit="#G" ana="lexical">§</rdg>
+                                <rdg wit="#N #ε #ν #φ #γ #η" source="#edd." ana="subtractive"/>
                             </app>
                         </speaker>
                         <l n="24">
-                            <app>
+                            <app ana="orthographical">
                                 <lem>Ornyte</lem>
                                 <rdg wit="#ω">ornite</rdg>
                             </app>, fer <app>
                                 <lem wit="#P #ρ2 #ε #κ #χ #λ #β #α #ν #γ #π #η #δ" source="#edd." xml:id="lem1.24propius">propius</lem>
-                                <rdg wit="#G #φ #μ #ρ1 #θ" source="#i2 #h #Baehr." xml:id="rdg1.24propius">proprius</rdg>
-                                <rdg wit="#N" varSeq="1" sameAs="#rdg1.24propius">prop<del resp="#N1">r</del>us</rdg>
-                                <witDetail wit="#N" target="#rdg1.24propius"><hi rend="italic">r</hi> alt. exp. m1</witDetail>
+                                <rdg wit="#G #φ #μ #ρ1 #θ" source="#i2 #h #Baehr." xml:id="rdg1.24proprius" ana="lexical">proprius</rdg>
+                                <rdgGrp type="anteCorr">
+                                    <rdg wit="#N" varSeq="1" sameAs="#rdg1.24proprius" ana="lexical"/>
+                                    <rdg wit="#N1" varSeq="2" sameAs="#lem1.24propius"/>
+                                </rdgGrp>
+                                <witDetail wit="#N" target="#rdg1.24proprius"><hi rend="italic">r</hi> alt. exp. m1</witDetail>
                             </app>
-                            <app>
+                            <app ana="lexical">
                                 <lem>tua</lem>
                                 <rdg wit="#d">tu</rdg>
-                            </app> lumina: tu potes <app>
+                            </app> lumina: tu potes <app ana="morphological">
                                 <lem>alto</lem>
                                 <rdg wit="#N #G">altos</rdg>
                             </app></l>
@@ -4049,35 +4055,35 @@
                                     coll. <ref target="#intquot1">virides</ref> v. 22, Verg. Ecl. V
                                     13, Naso II, 63 sq.)</note>
                                 <rdgGrp type="anteCorr">
-                                    <rdg wit="#N" varSeq="1">coice</rdg>
+                                    <rdg wit="#N" varSeq="1" ana="error">coice</rdg>
                                     <rdg wit="#N2" varSeq="2" copyOf="#lem1.25cortice" xml:id="rdg1.25coice"/>
                                 </rdgGrp>
                                 <witDetail wit="#N2" target="#rdg1.25coice"><hi rend="italic">rt</hi> in ras. m2</witDetail>
-                                <rdg wit="#G #A" source="#Schenkl">codice</rdg>
+                                <rdg wit="#G #A" source="#Schenkl" ana="lexical">codice</rdg>
                             </app>
-                            <app>
+                            <app ana="lexical">
                                 <lem>descriptos</lem>
                                 <rdg wit="#G">destrictos</rdg>
                             </app>
                             <app>
                                 <lem>
-                                    <app>
+                                    <app ana="error">
                                         <lem>citius</lem>
                                         <rdg wit="#P">sycios</rdg>
                                     </app>
                                     <app>
                                         <lem xml:id="lem1.25percurrere">percurrere</lem>
                                         <rdgGrp type="anteCorr">
-                                            <rdg wit="#N" varSeq="1">percurere</rdg>
+                                            <rdg wit="#N" varSeq="1" ana="orthographical">percurere</rdg>
                                             <rdg wit="#N2" varSeq="2" copyOf="#lem1.25percurrere"/>
                                         </rdgGrp>
                                     </app> versus </lem>
-                                <rdg source="#Barth">percurrere certius orsus</rdg>
+                                <rdg source="#Barth" ana="ordinal lexical" type="conjecture">percurrere certius orsus</rdg>
                             </app>;</l>
                         <l n="26"><!-- Another speaker variant that needs fixing.<app>
                         <lem/>
                         <rdg wit="#π"><speaker>O.</speaker></rdg>
-                    </app> --><app>
+                    </app> --><app ana="additive">
                                 <lem xml:id="lem1.26nam">nam</lem>
                                 <rdgGrp type="anteCorr">
                                     <rdg wit="#G" varSeq="1">namque</rdg>
@@ -4090,124 +4096,128 @@
                         <speaker>
                             <app>
                                 <rdg wit="#G #P #φ #ε #μ #κ #χ #ρ2 #ν #γ #α #β #η #δ" source="#edd.">O.</rdg>
-                                <rdg wit="#λ #π #ρ1"/>
-                                <rdg wit="#N">C.</rdg>
+                                <rdg wit="#λ #π #ρ1" ana="subtractive"/>
+                                <rdg wit="#N" ana="lexical">C.</rdg>
                             </app>
                         </speaker>
                         <l n="28">Non pastor, non <app>
-                                <lem>haec</lem>
-                                <rdg wit="#N #P #G #λ" source="#GlaeserSqq">haec</rdg>
-                                <rdg wit="#V" source="#eddAnteGlaeser">hoc</rdg>
+                                <lem wit="#N #P #G #λ" source="#GlaeserSqq">haec</lem>
+                                <rdg wit="#V" source="#eddAnteGlaeser" ana="morphological">hoc</rdg>
                             </app>
                             <app>
                                 <lem wit="#P #V" source="#edd.">triviali</lem>
-                                <rdg wit="#N #G" xml:id="rdg1.28tibivili">tibi vili</rdg>
-                                <rdg source="#o">rivali</rdg>
+                                <rdg wit="#N #G" xml:id="rdg1.28tibivili" ana="lexical">tibi vili</rdg>
+                                <rdg source="#o" ana="lexical">rivali</rdg>
                                 <witDetail wit="#N" target="#rdg1.28tibivili">in quo litt. evanidas
                                     rest. m2</witDetail>
                             </app> more viator,</l>
-                        <l n="29">sed deus ipse canit: <app>
+                        <l n="29">sed deus ipse canit: <app ana="orthographical">
                                 <lem>nihil armentale</lem>
                                 <rdg wit="#N" xml:id="rdg1.29nichil">nichil armentale</rdg>
                                 <witDetail wit="#N">in quo litt. evan. rest. <ref target="#N2">N2</ref></witDetail>
                             </app>
-                            <app>
+                            <app ana="morphological" type="conjecture">
                                 <lem>resultat</lem>
-                                <rdg source="#Burm. #Heins. #Glaeser #Keene">resultant</rdg>
-                                <note>codex quidam Burmanni</note>
+                                <rdg source="#Burm. #Heins. #Glaeser #Keene" xml:id="rdg1.29resultant">resultant</rdg>
+                                <note target="#rdg1.29resultant">codex quidam Burmanni</note>
                             </app>,</l>
-                        <l n="30">
-                            <app>
-                                <lem><app>
+                        <app>
+                            <lem>
+                                <l n="30">
+                                    <app ana="lexical">
                                         <lem wit="#N #P #κ #χ #β #ν #φ #λ #π #ρ #r #s" source="#o #n #Guid. #Beck #GlaeserSqq">nec</lem>
                                         <rdg wit="#A #ε #α #γ #μ #η #δ" source="#eddAnteGlaeser">non</rdg>
-                                    </app> montana sacros <app>
+                                    </app> montana sacros 
+                                    <app>
                                         <lem>distinguunt</lem>
-                                        <rdg wit="#N #P #ρ #γ #κ #μ #ε #π #φ #χ #δ">distingunt</rdg>
-                                        <rdg wit="#β #s">destingunt</rdg>
-                                        <rdg wit="#λ #η">distinguit</rdg>
-                                        <rdg source="#Heins.">destringunt</rdg>
+                                        <rdg wit="#N #P #ρ #γ #κ #μ #ε #π #φ #χ #δ" ana="orthographical">distingunt</rdg>
+                                        <rdg wit="#β #s" ana="orthographical">destingunt</rdg>
+                                        <rdg wit="#λ #η" ana="morphological">distinguit</rdg>
+                                        <rdg source="#Heins." ana="lexical" type="conjecture">destringunt</rdg>
                                     </app>
                                     <app>
                                         <lem>iubila</lem>
-                                        <rdg wit="#P" source="#p">iubilia</rdg>
-                                        <rdg wit="#δ">nubila</rdg>
-                                        <rdg source="#Heins.">sibila</rdg>
-                                    </app> versus.</lem>
-                                <rdg wit="#G"/>
-                            </app>
-                        </l>
+                                        <rdg wit="#P" source="#p" ana="orthographical">iubilia</rdg>
+                                        <rdg wit="#δ" ana="lexical">nubila</rdg>
+                                        <rdg source="#Heins." ana="lexical" type="conjecture">sibila</rdg>
+                                    </app> versus.
+                                </l>
+                            </lem>
+                            <rdg wit="#G" ana="subtractive"/>
+                        </app>
                     </sp>
                     <sp who="#Corydon">
                         <speaker>
                             <app>
                                 <lem xml:id="food" wit="#G #P #ε #χ #φ #π #α #κ #ν #β #η #δ #ρ #γ" source="#edd.">C.</lem>
-                                <rdg wit="#N">O.</rdg>
-                                <rdg wit="#λ #μ"/>
+                                <rdg wit="#N" ana="lexical">O.</rdg>
+                                <rdg wit="#λ #μ" ana="subtractive"/>
                             </app>
                         </speaker>
-                        <l n="31" xml:id="line1.31">
-                            <app>
-                                <lem>Mira refers; sed rumpe moras <app>
+                        <app ana="ordinal">
+                            <lem>
+                                <l n="31" xml:id="line1.31">Mira refers; sed rumpe moras 
+                                    <app ana="morphological">
                                         <lem>oculoque</lem>
                                         <rdg wit="#N">oculosque</rdg>
                                     </app>
-                                    <app>
+                                    <app ana="lexical">
                                         <lem>sequaci</lem>
                                         <rdg wit="#N"><add place="margin">sagaci</add></rdg>
                                     </app>
-                                </lem>
                                 <!-- Not sure if the following is right. The note refers to the entire line, which has been transposed, but corrected by a later hand. I think it would be up to the editor to decide if this is worth encoding so that users can see how the witness had it.  -->
-                                <note target="#line1.31">31 post v. 32 positus est in <ref target="#N">N</ref> (corr. m2 v.31 in mg. post v. 30
+                                </l>
+                            </lem>
+                            <note target="#line1.31">31 post v. 32 positus est in <ref target="#N">N</ref> (corr. m2 v.31 in mg. post v. 30
                                     adscripto)</note>
-                            </app>
-                        </l>
+                        </app>
                         <l n="32">quam primum nobis divinum <app>
                                 <lem>perlege</lem>
-                                <rdg source="#Gudius">praelege</rdg>
+                                <rdg source="#Gudius" ana="lexical" type="conjecture">praelege</rdg>
                             </app> carmen.</l>
                     </sp>
                     <sp who="#Ornytus">
                         <speaker>
                             <app>
                                 <lem wit="#P #α #β #π #κ #ν #ρ #ε #χ #γ #φ #δ #η" source="#edd.">O.</lem>
-                                <rdg wit="#N #λ #μ"/>
-                                <rdg wit="#G">C.</rdg>
+                                <rdg wit="#N #λ #μ" ana="subtractive"/>
+                                <rdg wit="#G" ana="lexical">C.</rdg>
                             </app>
                         </speaker>
                         <l n="33">'Qui iuga, qui silvas <app>
                                 <lem>tueor</lem>
-                                <rdg wit="#N" xml:id="rdg1.33tueie">tueie</rdg>
+                                <rdg wit="#N" xml:id="rdg1.33tueie" ana="error">tueie</rdg>
                                 <note target="#rdg1.33tueie">ut videtur</note>
-                                <rdg wit="#s">tutor</rdg>
+                                <rdg wit="#s" ana="lexical">tutor</rdg>
                             </app>, satus aethere Faunus,</l>
                         <l n="34">haec populis ventura cano: iuvat arbore sacra</l>
-                        <l n="35">laeta <app>
+                        <l n="35">laeta <app ana="orthographical">
                                 <lem xml:id="lem1.35patefactis">patefactis</lem>
                                 <rdgGrp type="anteCorr">
                                     <rdg wit="#N" varSeq="1">patefatis</rdg>
                                     <rdg wit="#N2" varSeq="2" copyOf="#lem1.35patefactis"/>
                                 </rdgGrp>
-                            </app> incidere carmina <app>
-                                <lem>fatis</lem>
-                                <rdg source=" #Ulit. #Heins. #Kempfer #Wernsd. #Beck #GlaeserSqq">fatis</rdg>
+                            </app> incidere carmina <app ana="lexical">
+                                <lem source=" #Ulit. #Heins. #Kempfer #Wernsd. #Beck #GlaeserSqq">fatis</lem>
                                 <rdg wit="#ω" source="#eddAnteWernsd">fagis</rdg>
                             </app>.</l>
-                        <l n="36">vos o praecipue nemorum <app>
-                                <lem>gaudete</lem>
-                                <!-- Rendering "cogaudete (co exp.) N" -->
-                                <rdg wit="#N" type="corrDeletion"><del hand="#N1">co</del>gaudete</rdg>
+                        <l n="36">vos o praecipue nemorum <app ana="additive">
+                                <lem xml:id="lem1.36gaudete">gaudete</lem>
+                                <rdgGrp type="anteCorr">
+                                    <rdg wit="#N" varSeq="1">cogaudete</rdg>
+                                    <rdg wit="#N1" varSeq="2" copyOf="#lem1.36gaudete"/>
+                                </rdgGrp>
                             </app> coloni,</l>
                         <l n="37">vos populi gaudete mei: licet omne vagetur</l>
-                        <l n="38">securo custode <app>
+                        <l n="38">securo custode <app ana="subtractive">
                                 <lem>pecus</lem>
                                 <rdg wit="#P"/>
                             </app>
-                            <app>
+                            <app ana="orthographical">
                                 <lem>nocturnaque</lem>
                                 <rdg wit="#G">noturnaque</rdg>
                             </app> pastor</l>
-                        <l n="39">claudere <app>
+                        <l n="39">claudere <app ana="orthographical">
                                 <lem>fraxinea</lem>
                                 <rdg wit="#P">frasinea</rdg>
                                 <rdg wit="#δ">fraginea</rdg>
@@ -4216,20 +4226,20 @@
                             </app>
                             <app>
                                 <lem>nolit</lem>
-                                <rdg wit="#λ">voluit</rdg>
-                                <rdg wit="#δ">noluit</rdg>
+                                <rdg wit="#λ" ana="lexical morphological">voluit</rdg>
+                                <rdg wit="#δ" ana="morphological">noluit</rdg>
                             </app>
-                            <app>
+                            <app ana="orthographical">
                                 <lem>praesaepia</lem>
                                 <rdg wit="#G">praesepia</rdg>
                             </app> crate,</l>
-                        <l n="40">non tamen <app>
+                        <l n="40">non tamen <app ana="subtractive">
                                 <lem xml:id="lem1.40insidias">insidias</lem>
                                 <rdgGrp type="anteCorr">
                                     <rdg wit="#N" varSeq="1">insidia</rdg>
                                     <rdg wit="#N2" varSeq="2" copyOf="#lem1.40insidias"/>
                                 </rdgGrp>
-                            </app> praedator <app>
+                            </app> praedator <app ana="orthographical">
                                 <lem xml:id="lem1.40ovilibus">ovilibus</lem>
                                 <rdgGrp type="anteCorr">
                                     <rdg wit="#N" varSeq="1">ovillibus</rdg>
@@ -4239,11 +4249,11 @@
                         <l n="41">
                             <app>
                                 <lem>afferet</lem>
-                                <rdg wit="#P">afferret</rdg>
-                                <rdg wit="#β">adferret</rdg>
-                                <rdg wit="#χ1 #γ #u">affert</rdg>
-                                <rdg wit="#ε">afferunt</rdg>
-                            </app> aut laxis <app>
+                                <rdg wit="#P" ana="morphological syntactic">afferret</rdg>
+                                <rdg wit="#β" ana="morphological syntactic">adferret</rdg>
+                                <rdg wit="#χ1 #γ #u" ana="morphological syntactic">affert</rdg>
+                                <rdg wit="#ε" ana="morphological syntactic">afferunt</rdg>
+                            </app> aut laxis <app ana="error">
                                 <lem xml:id="lem1.41abiget">abiget</lem>
                                 <rdgGrp>
                                     <rdg wit="#N" varSeq="1" xml:id="rdg1.41atabiget">atabiget</rdg>
@@ -4251,30 +4261,32 @@
                                 </rdgGrp>
                                 <witDetail wit="#N" target="#rdg1.41atabiget">vel <hi rend="italic">arab.</hi></witDetail>
                             </app> iumenta capistris.</l>
-                        <l n="42">
-                            <app>
-                                <lem xml:id="lem1.42aurea">aurea <app>
-                                        <lem>secura</lem>
-                                        <rdg source="#Burm.">sincera</rdg>
-                                        <rdg source="#Friesemann">Saturni</rdg>
-                                    </app>
+                        <app ana="subtractive" type="lineOmission">
+                            <lem xml:id="lem1.42">
+                                <l n="42">aurea 
                                     <app>
+                                        <lem>secura</lem>
+                                        <rdg source="#Burm." ana="lexical" type="conjecture">sincera</rdg>
+                                        <rdg source="#Friesemann" ana="lexical" type="conjecture">Saturni</rdg>
+                                    </app> 
+                                    <app ana="lexical">
                                         <lem>cum</lem>
                                         <rdg wit="#N2">tum</rdg>
                                     </app>
-                                    <app>
+                                    <app ana="lexical">
                                         <lem>pace</lem>
                                         <rdg wit="#P">pate</rdg>
-                                    </app> renascitur aetas</lem>
-                                <rdg wit="#N #G" xml:id="rdg1.42"/>
+                                    </app> renascitur aetas</l>
+                            </lem>
+                            <rdg wit="#N #G" xml:id="rdg1.42"/>
                                 <witDetail wit="#N" target="#rdg1.42">in quo add. <ref target="#N2">N2</ref>in mg.</witDetail>
                             </app>
-                        </l>
-                        <l n="43">et <app>
+                        <l n="43">et <app ana="lexical">
                                 <lem>redit</lem>
                                 <rdg wit="#P">reddit</rdg>
                             </app> ad terras <app>
-                                <lem><app>
+                                <lem>
+                                    <app ana="subtractive">
                                         <lem xml:id="lem1.43tandem">tandem</lem>
                                         <rdgGrp type="corrOmission">
                                             <rdg wit="#G" varSeq="1"/>
@@ -4283,18 +4295,21 @@
                                         <witDetail wit="#G" target="#rdg1.43tandem">supra
                                             lin.</witDetail>
                                     </app> squalore</lem>
-                                <rdg wit="#P" xml:id="rdg1.43tadasqulore">tādāsqulore</rdg>
-                                <witDetail wit="#P" target="#rdg1.43tadasqulore"><hi rend="italic">s</hi>ex <hi rend="italic">d</hi></witDetail>
+                                <rdg wit="#P" xml:id="rdg1.43tadasqulore" ana="orthographical">tādāsqulore</rdg>
+                                <witDetail wit="#P" target="#rdg1.43tadasqulore"><hi rend="italic">s</hi> ex <hi rend="italic">d</hi></witDetail>
                             </app> situque</l>
-                        <l n="44">alma <app>
+                        
+                        <!-- Start Here -->
+                        
+                        <l n="44">alma <app ana="orthographical">
                                 <lem>Themis</lem>
                                 <rdg wit="#G">temis</rdg>
                                 <rdg wit="#P">thenis</rdg>
-                            </app> posito iuvenemque beata <app>
+                            </app> posito iuvenemque beata <app ana="morphological syntactic" type="conjecture">
                                 <lem>sequuntur</lem>
                                 <rdg source="#Kempfer">sequentur</rdg>
                             </app></l>
-                        <l n="45">saecula, <app>
+                        <l n="45">saecula, <app ana="orthographical">
                                 <lem xml:id="lem1.45maternis">maternis</lem>
                                 <rdgGrp type="anteCorr">
                                     <rdg wit="#N" varSeq="1">maturnis</rdg>
@@ -4303,69 +4318,64 @@
                             </app>
                             <app>
                                 <lem>causam</lem>
-                                <!-- Handling "curnam (n exp.)". Should there be @rend or something to indicate expunction? -->
-                                <rdg wit="#μ">cur<del rend="expunction">n</del>am</rdg>
-                                <rdg wit="#d">curam</rdg>
-                                <rdg source="#Burm. #Beck ">caussas</rdg>
+                                <rdg wit="#μ" xml:id="rdg1.45curnam" ana="lexical">curnam</rdg>
+                                <witDetail wit="#μ" target="#rdg1.45curnam">(<hi rend="italic">n</hi> exp.)</witDetail>
+                                <rdg wit="#d" ana="lexical">curam</rdg>
+                                <rdg source="#Burm. #Beck" ana="morphological" type="conjecture">caussas</rdg>
                             </app> qui <app>
                                 <lem wit="#N #P #GlaeserSqq">vicit</lem>
-                                <rdg wit="#G">vīcit</rdg>
-                                <rdg wit="#d">ludit</rdg>
-                                <rdg wit="#V" source="#eddAnteGlaeser">lusit</rdg>
-                                <rdg wit="#μ">visit</rdg>
-                                <rdg wit="#γ"/>
+                                <rdg wit="#G" ana="morphological">vīcit</rdg>
+                                <rdg wit="#d" ana="lexical">ludit</rdg>
+                                <rdg wit="#V" source="#eddAnteGlaeser" ana="lexical">lusit</rdg>
+                                <rdg wit="#μ" ana="lexical">visit</rdg>
+                                <rdg wit="#γ" ana="subtractive"/>
                             </app>
                             <app>
                                 <lem wit="#N #P #G #V #r #e #u #b #d #s" source="#g #i2 #l2 #Baehr. #Schenkl">Iulis</lem>
-                                <rdg wit="#μ">iullis</rdg>
-                                <rdg wit="#γ"/>
-                                <rdg wit="#A" source="#edd.">in ulnis</rdg>
+                                <rdg wit="#μ" ana="orthographical">iullis</rdg>
+                                <rdg wit="#γ" ana="subtractive"/>
+                                <rdg wit="#A" source="#edd." ana="lexical syntactic">in ulnis</rdg>
                             </app>.</l>
-                        <l n="46">dum <app>
+                        <l n="46">dum <app ana="morphological syntactic">
                                 <lem>populos</lem>
                                 <rdg wit="#s">populus</rdg>
                             </app>
-                            <app>
+                            <app ana="lexical">
                                 <lem xml:id="lem1.46deus">deus</lem>
                                 <rdgGrp type="anteCorr">
                                     <rdg wit="#G" varSeq="1">reget</rdg>
                                     <rdg wit="#G" varSeq="2" copyOf="#lem1.46deus"/>
                                 </rdgGrp>
-                            </app> ipse reget, <app>
+                            </app> ipse reget, <app ana="error">
                                 <lem xml:id="lem1.46dabit">dabit</lem>
                                 <rdgGrp type="anteCorr">
                                     <rdg wit="#P" varSeq="1">dapit</rdg>
                                     <rdg wit="#P" varSeq="2" copyOf="#lem1.46dabit"/>
                                 </rdgGrp>
                             </app> impia <app>
-                                <lem wit="#A #ν #φ #γ #δ" source="#edd." xml:id="lem1.46vinctas">vinctas</lem>
+                                <lem wit="#A #ν #φ #γ #δ" source="#Guid. #edd." xml:id="lem1.46vinctas">vinctas</lem>
                                 <note target="#lem1.46vinctas">probavit <ref target="#Ramorino">F.
                                         Ramorino</ref></note>
-                                <rdg wit="#N #G #P #β #ρ #π #α #κ #λ #μ #χ #s" source="#n #o #Barth #Glaeser #Baehr. #Keene">victas</rdg>
-                                <rdg wit="#ε #u #e #l2 #i2 #g">iunctas</rdg>
-                                <rdgGrp type="edCorr">
-                                    <!-- Not a correction, though Giarratano says it is. Just an editor printing one thing in the text, another in his notes. -->
-                                    <rdg wit="#b" varSeq="1">iunctas</rdg>
-                                    <rdg source="#Guid." varSeq="2" copyOf="#lem1.46vinctas"/>
-                                </rdgGrp>
-                                <rdg source="#Schenkl" xml:id="rdg1.46victa">victa</rdg>
+                                <rdg wit="#N #G #P #β #ρ #π #α #κ #λ #μ #χ #s" source="#n #o #Barth #Glaeser #Baehr. #Keene" ana="lexical">victas</rdg>
+                                <rdg wit="#ε #u #e #b" source="#l2 #i2 #g" ana="lexical">iunctas</rdg>
+                                <rdg source="#Schenkl" xml:id="rdg1.46victa" ana="lexical morphological syntactic" type="conjecture">victa</rdg>
                                 <note target="#rdg1.46victa">olim</note>
                             </app></l>
                         <l n="47">
-                            <app>
+                            <app ana="orthographical">
                                 <lem>post tergum</lem>
-                                <rdg wit="#P">postergum</rdg>
+                                <rdg wit="#P" ana="orthographical">postergum</rdg>
                             </app> Bellona manus spoliataque telis</l>
                         <l n="48">in sua <app>
                                 <lem>vesanos</lem>
-                                <rdg wit="#N">vesano</rdg>
-                                <rdg wit="#δ">vexanos</rdg>
-                                <rdg wit="#φ">vessanos</rdg>
+                                <rdg wit="#N" ana="morphological syntactic">vesano</rdg>
+                                <rdg wit="#δ" ana="orthographical">vexanos</rdg>
+                                <rdg wit="#φ" ana="orthographical">vessanos</rdg>
                             </app>
                             <app>
                                 <lem>torquebit</lem>
                                 <rdg wit="#θ">torquebat</rdg>
-                            </app> viscera <app>
+                            </app> viscera <app ana="syntactic morphological">
                                 <lem xml:id="lem1.48morsus">morsus</lem>
                                 <rdgGrp type="anteCorr">
                                     <rdg wit="#N" varSeq="1">morsis</rdg>
@@ -4376,44 +4386,45 @@
                                 <lem>quae</lem>
                                 <rdgGrp type="mutation">
                                     <!-- To render quaque G (que del. m1). -->
-                                    <rdg wit="#G" varSeq="1">quaque</rdg>
-                                    <rdg wit="#G1" varSeq="2" xml:id="rdg1.49qua">qua</rdg>
+                                    <rdg wit="#G" varSeq="1" ana="lexical syntactic">quaque</rdg>
+                                    <rdg wit="#G1" varSeq="2" xml:id="rdg1.49qua" ana="lexical syntactic">qua</rdg>
                                 </rdgGrp>
-                                <witDetail wit="#G1" target="#rdg1.49qua"><hi rend="italic">que</hi>
-                                    del <ref target="#G1">G1</ref></witDetail>
+                                <witDetail wit="#G1" target="#rdg1.49qua">(<hi rend="italic">que</hi>
+                                    del. <ref target="#G1">G1</ref>)</witDetail>
                             </app> toto civilia distulit orbe,</l>
-                        <l n="50">secum bella geret: nullos iam Roma <app>
+                        <l n="50">secum bella geret: nullos iam Roma <app ana="orthographical">
                                 <lem>Philippos</lem>
                                 <rdg wit="#N #G">philipos</rdg>
                             </app></l>
-                        <l n="51">
-                            <app type="lineOmission">
+                       <app type="lineOmission">
                                 <lem>
-                                    <app>
-                                        <lem>deflebit</lem>
-                                        <rdg wit="#P">defiebit</rdg>
-                                    </app>, <app>
+                                    <l n="51">
+                                        <app>
+                                            <lem>deflebit</lem>
+                                            <rdg wit="#P" ana="orthographical">defiebit</rdg>
+                                        </app>, <app>
                                         <lem>nullos ducet</lem>
-                                        <rdgGrp type="conjectures">
-                                            <rdg source="#Heins.">nullosque sui</rdg>
-                                            <rdg source="#Heins.">nullosque ducis</rdg>
-                                            <rdg source="#Heins.">nullosque ducum</rdg>
+                                        <rdgGrp type="conjecture">
+                                            <rdg source="#Heins." ana="additive syntactic lexical">nullosque sui</rdg>
+                                            <rdg source="#Heins." ana="additive syntactic lexical">nullosque ducis</rdg>
+                                            <rdg source="#Heins." ana="additive syntactic lexical">nullosque ducum</rdg>
                                         </rdgGrp>
-                                    </app> captiva <app>
+                                    </app> captiva <app ana="orthographical">
                                         <lem>triumphos</lem>
                                         <rdg wit="#P">triumpos</rdg>
-                                    </app>; </lem>
-                                <rdg wit="#V #r #e #d #s" xml:id="rdg1.51om"/>
+                                    </app>; 
+                        </l>
+                                    </lem>
+                                <rdg wit="#V #r #e #d #s" xml:id="rdg1.51om" ana="subtractive"/>
                                 <witDetail wit="#V" target="#rdg1.51om">add. <ref target="#A">A</ref></witDetail>
                             </app>
-                        </l>
                         <l n="52">omnia Tartareo <app>
                                 <lem>subigentur</lem>
-                                <rdg wit="#ν #φ #ρ #η #θ #r #s">subdentur</rdg>
-                                <rdg wit="#P">subiguntur</rdg>
-                                <rdg source="#Ulit.">claudentur</rdg>
+                                <rdg wit="#ν #φ #ρ #η #θ #r #s" ana="lexical">subdentur</rdg>
+                                <rdg wit="#P" ana="morphological">subiguntur</rdg>
+                                <rdg source="#Ulit." ana="lexical" type="conjecture">claudentur</rdg>
                             </app>
-                            <app>
+                            <app ana="error">
                                 <lem xml:id="lem1.52carcere">carcere</lem>
                                 <rdgGrp type="anteCorr">
                                     <rdg wit="#G" varSeq="1" xml:id="rdg1.52cargicarcere">cargicarcere</rdg>
@@ -4428,219 +4439,226 @@
                         <l n="53">
                             <app>
                                 <lem wit="#G">inmergentque</lem>
-                                <rdg wit="#N #V">immergentque</rdg>
-                                <rdg wit="#μ">immergerentque</rdg>
-                                <rdg wit="#P">inverguntque</rdg>
+                                <rdg wit="#N #V" ana="orthographical">immergentque</rdg>
+                                <rdg wit="#μ" ana="orthographical">immergerentque</rdg>
+                                <rdg wit="#P" ana="lexical">inverguntque</rdg>
                             </app>
-                            <app>
+                            <app ana="orthographical">
                                 <lem>caput</lem>
                                 <rdg wit="#G #P">capud</rdg>
                             </app>
                             <app>
                                 <lem xml:id="lem1.53tenebris">tenebris</lem>
                                 <rdgGrp type="anteCorr">
-                                    <rdg wit="#G" varSeq="1">teneris</rdg>
+                                    <rdg wit="#G" varSeq="1" ana="subtractive">teneris</rdg>
                                     <rdg wit="#G" varSeq="2" copyOf="#lem1.53tenebris"/>
                                 </rdgGrp>
                             </app> lucemque timebunt.</l>
                         <l n="54">candida Pax aderit, <app>
                                 <lem>nec</lem>
-                                <rdg source="#Kempfer">non</rdg>
+                                <rdg source="#Kempfer" ana="lexical" type="conjecture">non</rdg>
                             </app> solum candida <app>
                                 <lem>vultu</lem>
-                                <rdg wit="#P">ultu</rdg>
-                                <rdg wit="#Dempster" xml:id="rdg1.54cultu">cultu</rdg>
+                                <rdg wit="#P" ana="orthographical">ultu</rdg>
+                                <rdg wit="#Dempster" xml:id="rdg1.54cultu" ana="lexical" type="conjecture">cultu</rdg>
                                 <note target="#rdg1.54cultu"><ref target="#Dempster">Dempster (De
                                         Etruria Regali III.86 <ptr target="https://books.google.com/books?id=tQJdAAAAcAAJ&amp;pg=PA448#v=onepage&amp;q&amp;f=false"/>)</ref></note>
                             </app>,</l>
-                        <l n="55">
-                            <app type="lineOmission">
+                        <app type="lineOmission">
                                 <lem>
-                                    <app>
-                                        <lem>qualis</lem>
-                                        <rdgGrp type="conjectures">
-                                            <rdg source="#Burm.">quali</rdg>
-                                            <rdg source="#Burm.">qualis</rdg>
-                                        </rdgGrp>
-                                    </app> saepe fuit, <app>
-                                        <lem>quae</lem>
-                                        <rdg source="#Beck">quum</rdg>
-                                        <rdg source="#Baehr.">ceu</rdg>
-                                        <rdg source="#Barth #Heins. #Burm. #Wernsd.">quam</rdg>
-                                    </app> libera <app>
-                                        <lem>Marte</lem>
-                                        <rdg wit="#β">matre</rdg>
-                                    </app>
-                                    <app>
-                                        <lem wit="#N2 #P #V" source="#edd.">professo</lem>
-                                        <rdg wit="#N #G #A #H #μ #b" source="#i #g #l2" xml:id="rdg1.55profuso">profuso</rdg>
-                                        <rdg wit="#u">profusso</rdg>
-                                        <witDetail wit="#N" target="rdg1.55profuso">corr. <ref target="#N2">N2</ref></witDetail>
-                                    </app>,</lem>
-                                <rdg wit="#λ"/>
-                            </app>
-                        </l>
+                                    <l n="55">
+                                        <app>
+                                            <lem xml:id="lem1.55qualis">qualis</lem>
+                                            <rdgGrp type="conjecture">
+                                                <rdg source="#Burm.">quali</rdg>
+                                                <rdg source="#Burm." copyOf="lem1.55qualis"/>
+                                            </rdgGrp>
+                                        </app> saepe fuit, 
+                                        <app type="conjecture">
+                                            <lem>quae</lem>
+                                            <rdg source="#Beck" ana="lexical syntactic">quum</rdg>
+                                            <rdg source="#Baehr." ana="lexical syntactic">ceu</rdg>
+                                            <rdg source="#Barth #Heins. #Burm. #Wernsd." ana="morphological">quam</rdg>
+                                        </app> libera 
+                                        <app>
+                                            <lem>Marte</lem>
+                                            <rdg wit="#β">matre</rdg>
+                                        </app>
+                                        <app>
+                                            <lem wit="#N2 #P #V" source="#edd.">professo</lem>
+                                            <rdg wit="#N #G #A #H #μ #b" source="#i #g #l2" xml:id="rdg1.55profuso" ana="lexical">profuso</rdg>
+                                            <rdg wit="#u" ana="lexical">profusso</rdg>
+                                            <witDetail wit="#N" target="rdg1.55profuso">corr. <ref target="#N2">N2</ref></witDetail>
+                                        </app>,
+                                    </l>
+                                </lem>
+                            <rdg wit="#λ" ana="subtractive"/>
+                        </app>
                         <l n="56">
-                            <app>
+                            <app type="conjecture">
                                 <lem>quae</lem>
-                                <rdg source="#Beck">quum</rdg>
-                                <rdg source="#Barth #Heins. #Kempfer #Hartel #Schenkl1">quam</rdg>
-                                <rdg source="#Burm.">et</rdg>
-                            </app> domito procul hoste, <app>
+                                <rdg source="#Beck" ana="lexical syntactic">quum</rdg>
+                                <rdg source="#Barth #Heins. #Kempfer #Hartel #Schenkl1" ana="morphological">quam</rdg>
+                                <rdg source="#Burm." ana="lexical syntactic">et</rdg>
+                            </app> domito procul hoste, <app ana="lexical syntactic" type="conjecture">
                                 <lem>tamen</lem>
                                 <rdg source="#Maehly">palam</rdg>
                             </app>
                             <app>
                                 <lem wit="#P #γ #ρ">grassantibus</lem>
                                 <note>edd.</note>
-                                <rdg wit="#N">grasantibus</rdg>
-                                <rdg wit="#G #V #r #e #d">crassantibus</rdg>
-                                <rdg source="#Heins. #Maehly">cessantibus</rdg>
+                                <rdg wit="#N" ana="orthographical">grasantibus</rdg>
+                                <rdg wit="#G #V #r #e #d" ana="lexical">crassantibus</rdg>
+                                <rdg source="#Heins. #Maehly" ana="lexical" type="conjecture">cessantibus</rdg>
                             </app> armis</l>
                         <l n="57" xml:id="line1.57">
                             <app>
                                 <lem>publica</lem>
-                                <rdg wit="#N2">puplica</rdg>
-                                <rdg source="#Hermann #Haupt1854 #Baehr.">iubila</rdg>
-                                <rdg source="#Leo" xml:id="rdg1.57Leo">vulnera</rdg>
+                                <rdg wit="#N2" ana="orthographical">puplica</rdg>
+                                <rdg source="#Hermann #Haupt1854 #Baehr." ana="lexical" type="conjecture">iubila</rdg>
+                                <rdg source="#Leo" xml:id="rdg1.57Leo" ana="lexical" type="conjecture">vulnera</rdg>
                                 <note target="#rdg1.57Leo"><ref target="#Leo">Leo (Zeitschr. f. d.
                                         oesterr. Gymn. XXX p. 616<ptr target="https://books.google.com/books?id=vABMAAAAYAAJ&amp;pg=PA616#v=onepage&amp;q&amp;f=false"/>)</ref></note>
-                                <rdg source="#Schenkl2">fulmina</rdg>
+                                <rdg source="#Schenkl2" ana="lexical" type="conjecture">fulmina</rdg>
                             </app>
-                            <app>
+                            <app ana="lexical">
                                 <lem>diffudit</lem>
                                 <rdg wit="#φ #ρ1 #ν #η #θ #r" source="#Ulit.">diffugit</rdg>
-                                <rdg source="#Schenkl1" xml:id="rdg1.57diffindit">diffindit</rdg>
+                                <rdg source="#Schenkl1" xml:id="rdg1.57diffindit" type="conjecture">diffindit</rdg>
                                 <note target="#rdg1.57diffindit">C. Schenkl per serm.</note>
-                                <rdg wit="#Maehly">confodit</rdg>
+                                <rdg wit="#Maehly" type="conjecture">confodit</rdg>
                             </app>
                             <app>
                                 <lem xml:id="lem1.57tacito">tacito</lem>
                                 <rdgGrp type="anteCorr">
-                                    <rdg wit="#P" varSeq="1">tacita</rdg>
+                                    <rdg wit="#P" varSeq="1" ana="morphological">tacita</rdg>
                                     <rdg wit="#P2" varSeq="2" copyOf="#lem1.57tacito"/>
                                 </rdgGrp>
-                                <rdgGrp type="conjectures">
-                                    <rdg source="#Beck">tacito</rdg>
-                                    <rdg source="#Beck">tacite</rdg>
+                                <rdgGrp type="conjecture">
+                                    <rdg source="#Beck" copyOf="#lem1.57tacito"/>
+                                    <rdg source="#Beck" ana="syntactic">tacite</rdg>
                                 </rdgGrp>
                             </app>
-                            <app>
+                            <app type="conjecture">
                                 <lem>discordia</lem>
-                                <rdg source="#Beck #Leo">Discordia</rdg>
-                                <rdg wit="#Maehly">praecordia</rdg>
+                                <rdg source="#Beck #Leo" ana="orthographical">Discordia</rdg>
+                                <rdg wit="#Maehly" ana="lexical">praecordia</rdg>
                             </app><app><note target="#line1.57">totum locum nondum correctum esse <ref target="#Ramorino">F. Ramorino</ref> iure suspicatur</note></app>
                             ferro:</l>
                         <l n="58">omne procul vitium simulatae cedere pacis</l>
-                        <l n="59">iussit et <app>
+                        <l n="59">iussit et <app ana="morphological">
                                 <lem>insanos</lem>
                                 <rdg source="#g">insano</rdg>
                             </app>
-                            <app>
+                            <app ana="lexical">
                                 <lem>Clementia</lem>
-                                <rdg wit="#π #φ #ρ1 #β #δ #θ #r #s" source="#o #n #i1 #Guid. #Vienn.">dementia</rdg>
+                                <rdg wit="#π #φ #ρ1 #β #δ #θ #r #s" source="#o #n #i1 #Guid. #Vienn." ana="lexical">dementia</rdg>
                             </app>
                             <app>
                                 <lem wit="#N #G #P #H #χ #μ #γ1 #κ #π #α #β" source="#Barth #GlaeserSqq">contudit</lem>
-                                <rdg wit="#ε #γ2 #η #ν #φ #ρ" source="#eddAnteGlaeser">condidit</rdg>
-                                <rdg wit="#λ">contulit</rdg>
-                                <rdg wit="#δ">contundit</rdg>
-                                <rdg wit="#δ"><add place="margin">concedit</add></rdg>
-                                <rdg wit="#N3"><add place="margin">truderit</add></rdg>
+                                <rdg wit="#ε #γ2 #η #ν #φ #ρ" source="#eddAnteGlaeser" ana="lexical">condidit</rdg>
+                                <rdg wit="#λ" ana="orthographical">contulit</rdg>
+                                <rdgGrp type="MSVariants">
+                                    <rdg wit="#δ" ana="morphological">contundit</rdg>
+                                    <rdg wit="#δ" ana="lexical"><add place="margin">concedit</add></rdg>
+                                </rdgGrp>
+                                <rdg wit="#N3" ana="lexical"><add place="margin">truderit</add></rdg><!-- Conjecture? -->
                             </app> enses.</l>
-                        <l n="60">nulla <app>
+                        <l n="60">nulla <app ana="orthographical">
                                 <lem>catenati</lem>
                                 <rdg wit="#P #γ #ν #η #δ #r #s" source="#i1 #p #n #o">cathenati</rdg>
                             </app> feralis pompa <app>
                                 <lem xml:id="lem1.60senatus">senatus</lem>
                                 <rdgGrp type="anteCorr">
-                                    <rdg wit="#N" varSeq="1">senatis</rdg>
+                                    <rdg wit="#N" varSeq="1" ana="morphological">senatis</rdg>
                                     <rdg wit="#N1" varSeq="2" copyOf="#lem1.60senatus"/>
                                 </rdgGrp>
-                                <rdg source="#Schenkl" xml:id="rdg1.60senati">senati</rdg>
+                                <rdg source="#Schenkl" xml:id="rdg1.60senati" ana="morphological" type="conjecture">senati</rdg>
                                 <note target="#rdg1.60senati"><ref target="#Schenkl">Schenkl</ref>
                                     olim</note>
                             </app></l>
                         <l n="61">carnificum <app>
                                 <lem wit="#χ #φ #γ #μ #λ2 #α #β #ν #κ #ρ #η #ε" source="#edd." xml:id="lem1.61lassabit">lassabit</lem>
-                                <rdg wit="#G #P #π #λ1">laxabit</rdg>
+                                <rdg wit="#G #P #π #λ1" ana="lexical">laxabit</rdg>
                                 <rdgGrp type="anteCorr">
-                                    <rdg wit="#N" varSeq="1">lassabis</rdg>
+                                    <rdg wit="#N" varSeq="1" ana="morphological">lassabis</rdg>
                                     <rdg wit="#N2" varSeq="2" copyOf="#lem1.61lassabit"/>
                                 </rdgGrp>
-                                <rdg wit="#δ">laxabat</rdg>
+                                <rdg wit="#δ" ana="lexical">laxabat</rdg>
                             </app> opus, nec carcere <app>
                                 <lem>pleno</lem>
-                                <rdg wit="#θ">plenos</rdg>
+                                <rdg wit="#θ" ana="morphological">plenos</rdg>
                             </app></l>
                         <l n="62">infelix raros <app>
                                 <lem xml:id="lem1.62numerabit">numerabit</lem>
                                 <rdgGrp type="anteCorr">
-                                    <rdg wit="#G" varSeq="1">numeravit</rdg>
+                                    <rdg wit="#G" varSeq="1" ana="morphological">numeravit</rdg>
                                     <rdg wit="#G1" varSeq="2" copyOf="#lem1.62numerabit"/>
                                 </rdgGrp>
                             </app> curia patres.</l>
                         <l n="63">plena quies aderit, <app>
                                 <lem>quae</lem>
-                                <rdg wit="#G">quam</rdg>
-                                <rdg wit="#G"><add place="margin">que</add></rdg>
+                                <rdgGrp type="MSVariants">
+                                    <rdg wit="#G" ana="morphological">quam</rdg>
+                                    <rdg wit="#G"><add place="margin" ana="orthographical">que</add></rdg>
+                                </rdgGrp>
                             </app>
-                            <app>
+                            <app ana="orthographical">
                                 <lem>stricti</lem>
-                                <rdg wit="#G">stripti</rdg>
+                                <rdg wit="#G">stripti</rdg><!-- Good example -->
                             </app> nescia ferri</l>
                         <l n="64">altera Saturni <app>
                                 <lem wit="#N" source="#GlaeserSqq" xml:id="lem1.64referet">referet</lem>
                                 <rdgGrp type="corrMargin">
-                                    <rdg wit="#G" varSeq="1">referent</rdg>
+                                    <rdg wit="#G" varSeq="1" ana="morphological">referent</rdg>
                                     <rdg wit="#G1" varSeq="2"><add place="margin" copyOf="lem1.64referet"/></rdg>
                                 </rdgGrp>
-                                <rdg wit="#P #V" source="#eddAnteGlaeser">revocet</rdg>
+                                <rdg wit="#P #V" source="#eddAnteGlaeser" ana="lexical">revocet</rdg>
                             </app>
                             <app>
                                 <lem wit="#δ2 #β #γ #φ #π #κ #χ #ν #ρ #η #λ" source="#edd." xml:id="lem1.64latialia">Latialia</lem>
                                 <rdgGrp type="anteCorr">
-                                    <rdg wit="#G" varSeq="1">latia</rdg>
+                                    <rdg wit="#G" varSeq="1" ana="subtractive">latia</rdg>
                                     <rdg wit="#G1" varSeq="2" copyOf="#lem1.64latialia"/>
                                 </rdgGrp>
-                                <rdg wit="#N #P #δ1 #α">lacialia</rdg>
-                                <rdg wit="#ε #μ #e">latralia</rdg>
+                                <rdg wit="#N #P #δ1 #α" ana="orthographical">lacialia</rdg>
+                                <rdg wit="#ε #μ #e" ana="orthographical">latralia</rdg>
                             </app> regna,</l>
                         <l n="65">altera regna Numae, <app>
                                 <lem>qui</lem>
-                                <rdg wit="#θ">qua</rdg>
+                                <rdg wit="#θ" ana="morphological">qua</rdg>
                             </app>
                             <app>
                                 <lem>primus</lem>
-                                <rdg wit="#u">primum</rdg>
-                            </app> ovantia <app>
+                                <rdg wit="#u" ana="morphological">primum</rdg>
+                            </app> ovantia <app ana="orthographical">
                                 <lem>caede</lem>
                                 <rdg wit="#G #ε #π #φ #μ #β #κ">cede</rdg>
                             </app></l>
-                        <l n="66">agmina, Romuleis et adhuc <app>
+                        <l n="66">agmina, Romuleis et adhuc <app ana="lexical">
                                 <lem>ardentia</lem>
                                 <rdg wit="#λ">cedentia</rdg>
                             </app> castris,</l>
                         <l n="67">pacis opus <app>
                                 <lem>docuit</lem>
-                                <rdg wit="#μ">detulit</rdg>
-                                <rdg wit="#π">decuit</rdg>
+                                <rdg wit="#μ" ana="lexical">detulit</rdg>
+                                <rdg wit="#π" ana="lexical">decuit</rdg>
                             </app> iussitque silentibus armis</l>
                         <l n="68"><app>
                                 <!-- Handling "68. inter-inter NPVedd., intra-inter H1, intra-intra GAH2." -->
                                 <lem xml:id="l1a" wit="#N #P #V" exclude="#r2a #r2b">inter</lem>
-                                <rdg xml:id="r1a" wit="#H1" exclude="#l2 #r2b">intra</rdg>
-                                <rdg xml:id="r1b" wit="#G #A" exclude="#l2 #r2a">intra</rdg>
+                                <rdg xml:id="r1a" wit="#H1" exclude="#l2 #r2b" ana="lexical ordinal">intra</rdg>
+                                <rdg xml:id="r1b" wit="#G #A" exclude="#l2 #r2a" ana="lexical ordinal">intra</rdg>
                             </app> sacra tubas, non <app>
                                 <lem xml:id="l2a" wit="#N #P #V" exclude="#r1a #r2a">inter</lem>
-                                <rdg xml:id="r2a" wit="#H1" exclude="#l1 #r1b">inter</rdg>
-                                <rdg xml:id="r2b" wit="#G #A #H2" exclude="#l1 #r1a">intra</rdg>
+                                <rdg xml:id="r2a" wit="#H1" exclude="#l1 #r1b" ana="ordinal">inter</rdg>
+                                <rdg xml:id="r2b" wit="#G #A #H2" exclude="#l1 #r1a" ana="ordinal">intra</rdg>
                             </app> bella, sonare.</l>
                         <l n="69">iam nec adumbrati faciem mercatus honoris</l>
-                        <l n="70">nec <app>
+                        <l n="70">nec <app ana="lexical" type="conjecture">
                                 <lem>vacuos</lem>
                                 <rdg source="#Burm.">vanos</rdg>
-                            </app> tacitus <app>
+                            </app> tacitus <app ana="orthographical"> <!-- Good example -->
                                 <lem xml:id="lem1.70fasces">fasces</lem>
                                 <rdg wit="#P">fases</rdg>
                                 <rdgGrp type="anteCorr">
@@ -4650,92 +4668,92 @@
                             </app>
                             <app>
                                 <lem>et inane</lem>
-                                <rdg wit="#κ #μ #ν #η #δ #β #φ #π1 #θ #r #s">etiamne</rdg>
-                                <rdg wit="#λ">etiamve</rdg>
-                                <rdg wit="#d">nec inane</rdg>
+                                <rdg wit="#κ #μ #ν #η #δ #β #φ #π1 #θ #r #s" ana="lexical syntactic">etiamne</rdg>
+                                <rdg wit="#λ" ana="lexical syntactic">etiamve</rdg>
+                                <rdg wit="#d" ana="lexical">nec inane</rdg>
                             </app> tribunal</l>
-                        <l n="71">accipiet consul; sed legibus omne <app>
+                        <l n="71">accipiet consul; sed legibus omne <app ana="orthographical">
                                 <lem>reductis</lem>
                                 <rdg wit="#G">redutus</rdg>
                             </app></l>
-                        <l n="72">ius aderit moremque fori <app>
+                        <l n="72">ius aderit moremque fori <app ana="lexical" type="conjecture">
                                 <lem>vultumque priorem</lem>
                                 <rdg source="#Barth1624">legemque priorem</rdg>
                                 <note>(<ref target="#Barth1624">Barth</ref>Adv. 44,15 <ptr target="https://books.google.com/books?id=-DVOAAAAYAAJ&amp;lpg=RA4-PT766&amp;ots=v5kIDI84YC&amp;dq=Adversariorvm%20commentariorvm%20libri%20LX&amp;pg=RA4-PT412#v=onepage&amp;q=Adversariorvm%20commentariorvm%20libri%20LX&amp;f=false"/>)</note>
                             </app></l>
                         <l n="73">reddet et afflictum melior deus <app>
                                 <lem>auferet</lem>
-                                <rdg wit="#N2 #P #η1">afferet</rdg>
-                                <rdg source="#Mueller">asseret</rdg>
+                                <rdg wit="#N2 #P #η1" ana="lexical">afferet</rdg>
+                                <rdg source="#Mueller" ana="lexical" type="conjecture">asseret</rdg>
                                 <note><ref target="#Mueller">L. Mueller</ref> (Berl. phil. Woch V.
                                     p.1071 <ptr target="http://hdl.handle.net/2027/uiug.30112023962282?urlappend=%3Bseq=674"/></note>
                             </app> aevum.</l>
                         <l n="74">
-                            <app>
+                            <app ana="lexical">
                                 <lem>exsultet</lem>
                                 <rdg wit="#G">exustet</rdg>
                             </app>
-                            <app>
+                            <app ana="orthographical">
                                 <lem>quaecumque</lem>
                                 <rdg wit="#G">quacumque</rdg>
                             </app>
-                            <app>
+                            <app ana="orthographical">
                                 <lem>Notum</lem>
                                 <rdg wit="#P #μ #ν #κ #β #δ2 #γ #χ1 #π1 #ε #θ #u" source="#g #i2 #l2">nothum</rdg>
                             </app>
-                            <app>
+                            <app ana="orthographical">
                                 <lem>gens</lem>
                                 <rdg wit="#N">gen'</rdg>
                             </app>
                             <app>
                                 <lem>ima</lem>
-                                <rdg wit="#G">yma</rdg>
-                                <rdg wit="#N">in tua</rdg>
+                                <rdg wit="#G" ana="orthographical">yma</rdg>
+                                <rdg wit="#N" ana="lexical syntactic">in tua</rdg>
                             </app>
-                            <app>
+                            <app ana="orthographical">
                                 <lem>iacentem</lem>
                                 <rdg wit="#P">giacentem</rdg>
                             </app>
                         </l>
                         <l n="75">
                             <app>
-                                <lem source="#Baehr. #Schenkl" ana="#emendation">erectumve</lem>
-                                <rdg wit="#P">ereptumque</rdg>
-                                <rdg wit="#N #G #V #H" source="#edd.">erectumque</rdg>
-                                <rdg wit="#Heins. #Kempfer">evectumque</rdg>
-                            </app> colit <app>
+                                <lem source="#Baehr. #Schenkl" type="emendation">erectumve</lem>
+                                <rdg wit="#P" ana="lexical">ereptumque</rdg>
+                                <rdg wit="#N #G #V #H" source="#edd." ana="syntactic">erectumque</rdg>
+                                <rdg wit="#Heins. #Kempfer" ana="lexical" type="conjecture">evectumque</rdg>
+                            </app> colit <app ana="orthographical">
                                 <lem>Boream</lem>
                                 <rdg wit="#θ" source="#Beck">borean</rdg>
-                            </app>, <app>
+                            </app>, <app ana="orthographical">
                                 <lem>quaecumque</lem>
                                 <rdg wit="#G">quacumuque</rdg>
                             </app> vel ortu</l>
-                        <l n="76">vel <app>
+                        <l n="76">vel <app ana="lexical" type="conjecture">
                                 <lem>patet</lem>
-                                <rdg source="#Postgate #Schenkl2 ">tepet</rdg>
+                                <rdg source="#Postgate #Schenkl2">tepet</rdg>
                                 <note><ref target="#Postgate">Postgate (Class. Rev. 1901
                                         p.213)</ref></note>
-                            </app> occasu <app>
+                            </app> occasu <app ana="syntactic" type="conjecture">
                                 <lem>mediove</lem>
                                 <rdg source="#Kempfer">medioque</rdg>
                             </app> sub aethere <app>
                                 <lem wit="#G #P #A" source="#edd.">fervit</lem>
-                                <rdg wit="#N #V #r #e #u #d #s #b" source="#g #i2 #l2 #o #n #Ulit. #Martell. #h #Gryph.">servit</rdg>
-                                <rdg source="#Tit. #Barth #Kempfer">fervet</rdg>
+                                <rdg wit="#N #V #r #e #u #d #s #b" source="#g #i2 #l2 #o #n #Ulit. #Martell. #h #Gryph." ana="lexical">servit</rdg>
+                                <rdg source="#Tit. #Barth #Kempfer" ana="morphological" type="conjecture">fervet</rdg>
                             </app>.</l>
-                        <l n="77">cernitis ut puro nox iam <app>
+                        <l n="77">cernitis ut puro nox iam <app ana="orthographical">
                                 <lem wit="#N #P #r" source="#Kempfer #Wernsd. #Beck #GlaeserSqq">vicesima</lem>
                                 <rdg wit="#φ">vicessima</rdg>
                                 <rdg wit="#G #V #P" source="#eddAnteGlaeser">vigesima</rdg>
                             </app> caelo</l>
-                        <l n="78"><app>
+                        <l n="78"><app ana="morphological">
                                 <lem xml:id="lem1.78fulgeat">fulgeat</lem>
                                 <rdgGrp type="anteCorr">
                                     <rdg wit="#N" varSeq="1">fulget</rdg>
                                     <rdg wit="#N1" varSeq="2" copyOf="#lem1.78fulgeat"/>
                                 </rdgGrp>
                             </app>
-                            <app>
+                            <app ana="morphological syntactic">
                                 <lem wit="#N #G #Beck #GlaeserSqq">et placida radiantem</lem>
                                 <rdg wit="#P">et placidam radiantem</rdg>
                                 <rdg wit="#π #χ1 #μ #λ #κ #ρ1">et placidam radianti</rdg>
@@ -4746,51 +4764,51 @@
                                 <rdg wit="#δ">ac placidam radienti</rdg>
                                 <rdg source="#p #h #Ulit.">ut placida radiantem</rdg>
                                 <rdg wit="#coddTitii">ut placida radiatem</rdg>
-                            </app> luce <app>
+                            </app> luce <app ana="orthographical">
                                 <lem>cometem</lem>
                                 <rdg wit="#G">comethem</rdg>
                                 <rdg wit="#ν #η #r #s" source="#o #n #Beck">cometen</rdg>
                             </app></l>
-                        <l n="79"><app>
+                        <l n="79"><app ana="morphological">
                                 <lem>proferat</lem>
                                 <rdg wit="#N">profferet</rdg>
                             </app>? ut liquidum <app>
-                                <lem source="#Ulit. #Baehr. #Schenkl" ana="#emendation">niteat</lem>
-                                <rdg wit="#N #G #β #κ #π #ρ1 #λ1">mutat</rdg>
-                                <rdg wit="#P #δ" source="#p #t #h #Kempfer #Burm.">mittat</rdg>
-                                <rdg wit="#μ">micat</rdg>
-                                <rdg wit="#θ #ν #α #η #r #s" source="#o #n #l2 #i2 #Guid. #Wernsd. #Beck #Glaeser #Keene">nutet</rdg>
-                                <rdg wit="#ε #χ #γ #ρ2 #λ2 #d #e #u #b" source="#i1 #l1 #Tig. #Vienn.">nutat</rdg>
-                                <rdg wit="#φ">mutet</rdg>
-                                <rdg source="#Leo">micet ac</rdg>
-                                <rdg source="#Barth">nictat</rdg>
+                                <lem source="#Ulit. #Baehr. #Schenkl" type="emendation">niteat</lem>
+                                <rdg wit="#N #G #β #κ #π #ρ1 #λ1" ana="lexical">mutat</rdg>
+                                <rdg wit="#P #δ" source="#p #t #h #Kempfer #Burm." ana="lexical">mittat</rdg>
+                                <rdg wit="#μ" ana="lexical">micat</rdg>
+                                <rdg wit="#θ #ν #α #η #r #s" source="#o #n #l2 #i2 #Guid. #Wernsd. #Beck #Glaeser #Keene" ana="lexical">nutet</rdg>
+                                <rdg wit="#ε #χ #γ #ρ2 #λ2 #d #e #u #b" source="#i1 #l1 #Tig. #Vienn." ana="lexical">nutat</rdg>
+                                <rdg wit="#φ" ana="lexical">mutet</rdg>
+                                <rdg source="#Leo" ana="lexical" type="conjecture">micet ac</rdg>
+                                <rdg source="#Barth" ana="lexical" type="conjecture">nictat</rdg>
                             </app> sine vulnere <app>
                                 <lem>sidus</lem>
-                                <rdg source="#Burm.">sidere</rdg>
-                                <rdg wit="#P" source="#Glaeser #Baehr. #Keene">sidus plenus</rdg>
-                                <rdg source="#Burm.">lumen</rdg>
+                                <rdg source="#Burm." ana="morphological">sidere</rdg>
+                                <rdg wit="#P" source="#Glaeser #Baehr. #Keene" ana="lexical syntactic">plenus</rdg>
+                                <rdg source="#Burm." ana="lexical" type="conjecture">lumen</rdg>
                             </app>?</l>
                         <l n="80">
                             <app>
                                 <lem wit="#G #ε #γ #ρ" source="#edd." xml:id="lem1.80numquid">numquid</lem>
                                 <witDetail wit="#ρ" target="#lem1.80numquid">in ras.</witDetail>
                                 <rdgGrp type="anteCorr">
-                                    <rdg wit="#N" varSeq="1">dumquid</rdg>
+                                    <rdg wit="#N" varSeq="1" ana="orthographical">dumquid</rdg>
                                     <rdg wit="#N2" varSeq="2" copyOf="#lem1.80numquid"/>
                                 </rdgGrp>
-                                <rdg wit="#P #κ #β #λ #μ #π #δ #Barth">non quod</rdg>
-                                <rdg wit="#α">non</rdg>
-                                <rdg wit="#η #φ #ν #r #s" source="#o #n #i1 #l1 #p #t #h #Guid. #Tit. #Vienn. #Kempfer">non per</rdg>
-                                <rdg wit="#χ">non quae</rdg>
-                                <rdgGrp type="conjectures">
-                                    <rdg source="#Burm.">non quoque</rdg>
-                                    <rdg source="#Burm.">nunc nec</rdg>
+                                <rdg wit="#P #κ #β #λ #μ #π #δ #Barth" ana="lexical syntactic">non quod</rdg>
+                                <rdg wit="#α" ana="lexical">non</rdg>
+                                <rdg wit="#η #φ #ν #r #s" source="#o #n #i1 #l1 #p #t #h #Guid. #Tit. #Vienn. #Kempfer" ana="lexical syntactic">non per</rdg>
+                                <rdg wit="#χ" ana="lexical syntactic">non quae</rdg>
+                                <rdgGrp type="conjecture">
+                                    <rdg source="#Burm." ana="lexical syntactic">non quoque</rdg>
+                                    <rdg source="#Burm." ana="lexical syntactic">nunc nec</rdg>
                                 </rdgGrp>
                             </app>
-                            <app>
+                            <app ana="lexical">
                                 <lem>utrumque</lem>
                                 <rdg wit="#d2">utrimque</rdg>
-                            </app> polum, <app>
+                            </app> polum, <app ana="lexical syntactic" type="conjecture">
                                 <lem>sicut</lem>
                                 <rdg source="#Barth #Kempfer #Heins." xml:id="rdg1.80seseut">sese
                                     ut</rdg>
@@ -4798,82 +4816,83 @@
                                     olim</note>
                             </app> solet, igne <app>
                                 <lem>cruento</lem>
-                                <rdg wit="#V #r #e #s" xml:id="rdg1.80cremato">cremato</rdg>
+                                <rdg wit="#V #r #e #s" xml:id="rdg1.80cremato" ana="lexical">cremato</rdg>
                                 <witDetail wit="#V" target="rdg1.80cremato">corr. <ref target="#A">A</ref></witDetail>
-                                <rdg source="#Barth">comato</rdg>
+                                <rdg source="#Barth" ana="lexical" type="conjecture">comato</rdg>
                             </app></l>
                         <l n="81">
                             <app>
-                                <lem><app>
+                                <lem><app ana="lexical" type="conjecture">
                                         <lem>spargit</lem>
                                         <rdg source="#Heins.">pergit</rdg>
-                                    </app> et ardenti <app>
+                                    </app> et ardenti <app ana="orthographical">
                                         <lem>scintillat</lem>
                                         <rdg wit="#δ #γ #ε2 #e #u #b" source="#d2">sintillat</rdg>
                                         <rdg wit="#μ">sintilla</rdg>
                                     </app> sanguine</lem>
-                                <rdg source="#Nodell" xml:id="rdg1.81spargitur">spargitur ardenti
+                                <rdg source="#Nodell" xml:id="rdg1.81spargitur" ana="lexical syntactic" type="conjecture">spargitur ardenti
                                     scintillans lumine</rdg>
                                 <note target="#rdg1.81spargitur">Not. crit. p. 86</note>
                             </app> lampas?</l>
                         <l n="82">
-                            <app>
+                            <app ana="lexical">
                                 <lem>at</lem>
                                 <rdg wit="#ν #φ #η #π #θ #r #s">et</rdg>
-                            </app> quondam <app>
+                            </app> quondam <app ana="error">
                                 <lem xml:id="lem1.82nontalis">non talis</lem>
                                 <rdgGrp type="anteCorr">
                                     <rdg wit="#P" varSeq="1">natalis</rdg>
                                     <rdg wit="#P1" varSeq="2" copyOf="#lem1.82nontalis"/>
                                 </rdgGrp>
-                            </app> erat, cum Caesare <app>
+                            </app> erat, cum Caesare <app ana="morphological">
                                 <lem>rapto</lem>
                                 <rdg wit="#θ">raptum</rdg>
                             </app></l>
                         <l n="83">
-                            <app>
+                            <app ana="orthographical">
                                 <lem>indixit</lem>
                                 <rdg source="#l1">induxit</rdg>
-                            </app> miseris <app>
+                            </app> miseris <app ana="orthographical">
                                 <lem>fatalia</lem>
                                 <rdg source="#d1">fatalis</rdg>
                             </app> civibus arma.</l>
                         <l n="84">
                             <app>
-                                <lem xml:id="lem1.84scilicet">scilicet <app>
+                                <lem xml:id="lem1.84scilicet">scilicet 
+                                    <app>
                                         <lem>ipse</lem>
-                                        <rdg wit="#P" xml:id="rdg1.84ipse">ipse</rdg>
-                                        <witDetail wit="#P" target="#rdg1.84ipse"><hi rend="italic">ille</hi>suprascr. <ref target="#P1">P1</ref></witDetail>
+                                        <rdg wit="#P1" xml:id="rdg1.84ille" ana="lexical">ille</rdg>
+                                        <note target="#rdg1.84ille">(suprascr.)</note>
                                     </app> deus</lem>
                                 <rdgGrp type="anteCorr">
-                                    <rdg wit="#N" varSeq="1">scilicet sedis</rdg>
+                                    <rdg wit="#N" varSeq="1" ana="lexical">scilicet sedis</rdg>
                                     <rdg wit="#N2" varSeq="2" copyOf="#lem1.84scilicet"/>
                                 </rdgGrp>
-                                <rdg source="#Glaeser #Mueller" xml:id="rdg1.84scilicet">scilicet
+                                <rdg source="#Glaeser #Mueller" xml:id="rdg1.84scilicet" ana="lexical" type="conjecture">scilicet
                                     sed Deus</rdg>
                                 <note target="#rdg1.84scilicet"><ref target="#Mueller">Mueller</ref> (l. l. p. 1071) <ptr target="http://hdl.handle.net/2027/uiug.30112023962282?urlappend=%3Bseq=674"/></note>
-                            </app> Romanae pondera <app>
+                            </app> Romanae pondera <app ana="orthographical">
                                 <lem>molis</lem>
                                 <rdg wit="#μ #b">mollis</rdg>
                             </app></l>
                         <l n="85">fortibus <app>
                                 <lem>excipiet</lem>
-                                <rdg wit="#P">excipient</rdg>
-                                <rdg wit="#G">accipiet</rdg>
-                                <rdg wit="#N2">excuciet</rdg>
+                                <rdg wit="#P" ana="morphological">excipient</rdg>
+                                <rdg wit="#G" ana="lexical">accipiet</rdg>
+                                <rdg wit="#N2" ana="lexical">excuciet</rdg>
                             </app> sic inconcussa lacertis,</l>
                         <l n="86">
-                            <app>
+                            <app ana="orthographical">
                                 <lem xml:id="lem1.86ut">ut</lem>
                                 <rdgGrp type="anteCorr">
                                     <rdg wit="#N" varSeq="1">uti</rdg>
                                     <rdg wit="#N2" varSeq="2" copyOf="#lem1.86ut"/>
                                 </rdgGrp>
-                            </app> neque <app>
+                            </app> neque <app ana="lexical">
                                 <lem>translati</lem>
                                 <rdg wit="#A" source="#i1 #p #h #Ulit. #Vienn. #Kempfer #Barth">tralati</rdg>
                             </app>
-                            <app>
+                            <app ana="morphological syntactic">
                                 <lem>sonitu</lem>
                                 <rdg wit="#s" source="#n #o">sonitus</rdg>
                             </app> fragor intonet orbis</l>
@@ -4882,7 +4901,7 @@
                                     <app>
                                         <lem wit="#P #φ #κ #χ #ν #ρ #η" source="#edd.">ex
                                             meritis</lem>
-                                        <rdg wit="#N #G" source="#Ellis" xml:id="rdg1.87ameritis">a
+                                        <rdg wit="#N #G" source="#Ellis" xml:id="rdg1.87ameritis" ana="lexical">a
                                             meritis</rdg>
                                         <note target="#rdg1.87ameritis"><ref target="#Ellis"><choice>
                                                   <sic>G</sic>
@@ -4893,81 +4912,79 @@
                                                 <corr resp="#SJH">90</corr>
                                             </choice>)</note>
                                         <witDetail wit="#N" target="#rdg1.87ameritis">corr. <ref target="#N2">N2</ref></witDetail>
-                                        <rdg source="#Schenkl">a! meritis</rdg>
-                                        <rdg wit="#A #α #β #ε #λ #μ #e #u #d" source="#Guid.">et
+                                        <rdg source="#Schenkl" ana="lexical" type="conjecture">a! meritis</rdg>
+                                        <rdg wit="#A #α #β #ε #λ #μ #e #u #d" source="#Guid." ana="lexical">et
                                             meritis</rdg>
-                                        <rdg source="#Leo" xml:id="rdg1.87Leo">ut meritis</rdg>
+                                        <rdg source="#Leo" xml:id="rdg1.87Leo" ana="lexical" type="conjecture">ut meritis</rdg>
                                         <note target="#rdg1.87Leo"><ref target="#Leo">Leo</ref>(l.
                                             l. p. 616)</note>
-                                        <rdg source="#Burm. #Mueller" xml:id="rdg1.87Mueller">emeritos</rdg>
+                                        <rdg source="#Burm. #Mueller" xml:id="rdg1.87Mueller" ana="lexical" type="conjecture">emeritos</rdg>
                                         <note target="#rdg1.87Mueller"><ref target="#Mueller">L.
                                                 Mueller</ref> (l. l. p. 1071)</note>
-                                        <rdg wit="#δ" source="#Barth #Glaeser">emeritis</rdg>
-                                        <rdg source="#Gronovius1755 #Haupt1874" xml:id="rdg1.87GronovHaupt">emeriti</rdg>
+                                        <rdg wit="#δ" source="#Barth #Glaeser" ana="lexical">emeritis</rdg>
+                                        <rdg source="#Gronovius1755 #Haupt1874" xml:id="rdg1.87GronovHaupt" ana="lexical syntactic" type="conjecture">emeriti</rdg>
                                         <note target="#rdg1.87GronovHaupt"><ref target="#Gronovius1755">Gronov.</ref>(Obss. III 13), <ref target="#Haupt1874">Haupt</ref> (Hermes VIII p.
                                             251 <ptr target="https://books.google.de/books?id=QVYLAAAAMAAJ&amp;hl=de&amp;pg=PA251#v=onepage&amp;q&amp;f=false"/>)</note>
                                     </app>
-                                    <app>
+                                    <app ana="morphological" type="conjecture">
                                         <lem>defunctos</lem>
                                         <rdg source="#Burm. #Mueller">defuncti</rdg>
-                                    </app> Roma <app>
+                                    </app> Roma <app ana="lexical syntactic" type="conjecture">
                                         <lem>penates</lem>
                                         <rdg source="#Gronovius1755 #Haupt1854 #Mueller">parentis</rdg>
                                     </app></lem>
                                 <rdg wit="#γ"/>
                             </app></l>
                         <l n="88">
-                            <app>
+                            <app ana="lexical" type="conjecture">
                                 <lem>censeat</lem>
                                 <rdg source="#Barth #Gronovius1755 #Burm. #Mueller">sentiat</rdg>
                             </app>, <app>
                                 <lem>occasus</lem>
-                                <rdg wit="#P">ocasus</rdg>
-                                <rdg source="#Kempfer">occasum</rdg>
+                                <rdg wit="#P" ana="orthographical">ocasus</rdg>
+                                <rdg source="#Kempfer" ana="morphological" type="conjecture">occasum</rdg>
                             </app>
-                            <app>
+                            <app type="conjecture">
                                 <lem>nisi cum</lem>
-                                <rdg source="#Burm.">nisi iam</rdg>
-                                <rdg source="#Gronovius1755">gnati quam</rdg>
+                                <rdg source="#Burm." ana="lexical">nisi iam</rdg>
+                                <rdg source="#Gronovius1755" ana="lexical syntactic">gnati quam</rdg>
                             </app>
                             <app>
                                 <lem>respexerit</lem>
-                                <rdg wit="#G">resperserit</rdg>
-                                <rdg source="#Gronovius1755">aspexerit</rdg>
-                                <rdg source="#Haupt1854">suspexerit</rdg>
-                                <rdg source="#Leo">despexerit</rdg>
+                                <rdg wit="#G" ana="orthographical">resperserit</rdg>
+                                <rdg source="#Gronovius1755" ana="lexical" type="conjecture">aspexerit</rdg>
+                                <rdg source="#Haupt1854" ana="lexical" type="conjecture">suspexerit</rdg>
+                                <rdg source="#Leo" ana="lexical" type="conjecture">despexerit</rdg>
                             </app> ortus'.</l>
                     </sp>
                     <sp who="#Corydon">
                         <speaker>
-                            <app>
+                            <app ana="subtractive">
                                 <lem>C.</lem>
                                 <rdg wit=" #G #μ #π"/>
                             </app>
                         </speaker>
                         <l n="89">
-                            <app>
+                            <app ana="orthographical">
                                 <lem>Ornyte</lem>
                                 <rdg wit="#ω">Ornite</rdg>
                             </app>, iam dudum <app>
                                 <lem>velut</lem>
-                                <rdg wit="#G">velud</rdg>
-                                <rdg wit="#P ">velit</rdg>
+                                <rdg wit="#G" ana="orthographical">velud</rdg>
+                                <rdg wit="#P" ana="lexical">velit</rdg>
                             </app> ipso numine <app>
-                                <lem>plenum</lem>
-                                <rdg wit="#N #G #P #ρ2" source="#t #Barth #Burm. #Kempfer #Beck #Baehr. #Schenkl">plenum</rdg>
-                                <rdg wit="#V" source="#edd.">plenus</rdg>
+                                <lem wit="#N #G #P #ρ2" source="#t #Barth #Burm. #Kempfer #Beck #Baehr. #Schenkl">plenum</lem>
+                                <rdg wit="#V" source="#edd." ana="morphological">plenus</rdg>
                             </app></l>
                         <l n="90">me <app>
-                                <lem>quatit</lem>
-                                <rdg wit="#P #V" source="#edd.">quatit</rdg>
-                                <rdg wit="#N">querit</rdg>
-                                <rdg wit="#G">petit</rdg>
-                                <rdg source="#Baehr.">ferit</rdg>
-                            </app> et <app>
+                                <lem wit="#P #V" source="#edd.">quatit</lem>
+                                <rdg wit="#N" ana="lexical">querit</rdg>
+                                <rdg wit="#G" ana="lexical">petit</rdg>
+                                <rdg source="#Baehr." ana="lexical" type="conjecture">ferit</rdg>
+                            </app> et <app ana="orthographical">
                                 <lem>mixtus</lem>
                                 <rdg wit="#G">mistus</rdg>
-                            </app> subit inter gaudia <app>
+                            </app> subit inter gaudia <app ana="lexical">
                                 <lem>terror</lem>
                                 <rdg wit="#κ #χ">tremor</rdg>
                             </app>.</l>
@@ -4977,14 +4994,14 @@
                     </app> -->sed
                             bona <app>
                                 <lem>facundi</lem>
-                                <rdg wit="#ε #γ #e #u #b" source="#i #p #l #g #o #n #Barth">foecundi</rdg>
-                                <rdg wit="#μ #ρ2">fecundi</rdg>
-                                <rdg wit="#δ">secundi</rdg>
+                                <rdg wit="#ε #γ #e #u #b" source="#i #p #l #g #o #n #Barth" ana="lexical">foecundi</rdg>
+                                <rdg wit="#μ #ρ2" ana="lexical">fecundi</rdg>
+                                <rdg wit="#δ" ana="lexical">secundi</rdg>
                             </app>
-                            <app>
+                            <app ana="morphological">
                                 <lem>veneremur</lem>
                                 <rdg wit="#θ">veneramur</rdg>
-                            </app> numina <app>
+                            </app> numina <app ana="lexical">
                                 <lem>Fauni</lem>
                                 <rdg source="#Heraldus" xml:id="rdg1.91Heraldus">Bacchi</rdg>
                                 <note target="#rdg1.91Heraldus"><ref target="#Heraldus">Heraldus</ref> (Adv. I c. 2 <ptr target="https://books.google.com/books?id=0DmP31YuSXkC&amp;lpg=PA51&amp;ots=v42WYr2v8h&amp;dq=Desiderii%20Heraldi%20Adversariorvm&amp;pg=PA62#v=onepage&amp;q=Desiderii%20Heraldi%20Adversariorvm&amp;f=false"/>)</note>
@@ -4992,25 +5009,25 @@
                     </sp>
                     <sp who="#Ornytus">
                         <speaker>
-                            <app>
+                            <app ana="subtractive">
                                 <lem>O.</lem>
                                 <rdg wit="#ω #r #d #s" source="#o #n"/>
                             </app>
                         </speaker>
-                        <l n="92">Carmina, quae <app>
+                        <l n="92">Carmina, quae <app ana="lexical">
                                 <lem>nobis</lem>
                                 <rdg wit="#b">vobis</rdg>
                             </app> deus obtulit <app>
                                 <lem>ipse</lem>
-                                <rdg wit="#N">ipsa</rdg>
-                                <rdg wit="#G"/>
+                                <rdg wit="#N" ana="morphological">ipsa</rdg>
+                                <rdg wit="#G" ana="subtractive"/>
                             </app>
                             <app>
                                 <lem>canenda</lem>
-                                <rdg source="#i1">calenda</rdg>
-                                <rdg source="#l1">colenda</rdg>
+                                <rdg source="#i1" ana="lexical">calenda</rdg>
+                                <rdg source="#l1" ana="lexical">colenda</rdg>
                             </app>,</l>
-                        <l n="93"><app>
+                        <l n="93"><app ana="lexical" type="conjecture">
                                 <lem>dicamus</lem>
                                 <rdg source="#Barth1624" xml:id="rdg1.93Barth">discamus</rdg>
                                 <note target="#rdg1.93Barth">34,8</note>
@@ -5018,22 +5035,22 @@
                             </app>
                             <app>
                                 <lem>teretique</lem>
-                                <rdg wit="#N">territique</rdg>
-                                <rdg wit="#ρ1" source="#Wernsd.">teretisque</rdg>
+                                <rdg wit="#N" ana="orthographical">territique</rdg>
+                                <rdg wit="#ρ1" source="#Wernsd." ana="morphological">teretisque</rdg>
                             </app>
-                            <app>
+                            <app ana="morphological" type="conjecture">
                                 <lem>sonum modulemur avena</lem>
                                 <rdg source="#Wernsd.">sono modulemur avenae</rdg>
                             </app>:</l>
-                        <l n="94"><app>
+                        <l n="94"><app ana="orthographical">
                                 <lem>forsitan</lem>
                                 <rdg wit="#N">forsitā</rdg>
                             </app>
-                            <app>
+                            <app ana="orthographical">
                                 <lem>Augustas</lem>
                                 <rdg wit="#N  #π #γ #ρ1 #λ1">angustas</rdg>
                                 <rdg wit="#μ">agustas</rdg>
-                            </app> feret haec <app>
+                            </app> feret haec <app ana="orthographical">
                                 <lem>Meliboeus</lem>
                                 <rdg wit="#ν #ε2 #ρ2">meliboeus</rdg>
                                 <rdg wit="#G #P #λ #π #δ1 #γ #ρ1 #α #β">melibeus</rdg>
@@ -5045,19 +5062,22 @@
                                 <rdg wit="#κ">maelibaeus</rdg>
                                 <rdg wit="#μ">me libens</rdg>
                             </app>
-                            <app>
+                            <app ana="lexical">
                                 <lem>ad</lem>
                                 <rdg wit="#P">hoc</rdg>
                             </app>
                             <app>
                                 <lem>aures</lem>
-                                <rdg wit="#P #Ulit.">auras</rdg>
-                                <rdg wit="#ν #φ #ρ2 #θ #r #s" source="#i1 #o #n">auris</rdg>
-                                <rdg wit="#ε">aras</rdg>
-                                <rdg wit="#π">auraes</rdg>
+                                <rdg wit="#P #Ulit." ana="lexical">auras</rdg>
+                                <rdg wit="#ν #φ #ρ2 #θ #r #s" source="#i1 #o #n" ana="morphological">auris</rdg>
+                                <rdg wit="#ε" ana="lexical">aras</rdg>
+                                <rdg wit="#π" ana="orthographical">auraes</rdg>
                             </app>.</l>
                     </sp>
                 </div>
+                
+                <!-- Poem 2 -->
+                
                 <div type="textpart" n="2" xml:id="poem2">
                     <head>Poem 2. [Idas, Astacus, Thyrsis]</head>
                     <list type="speakers">
@@ -5107,7 +5127,7 @@
                             <rdg source="#Martell.">neque</rdg>
                         </app> impar</l>
                     <l n="4">voce sonans. <app>
-                            <lem source="#GlaeserSqq" ana="#emendation">hi cum terras</lem>
+                            <lem source="#GlaeserSqq" type="emendation">hi cum terras</lem>
                             <!-- Silvia: This is a good example of an apparatus entry that shows wild divergence among witnesses and sources. Giarratano has printed a conjecture by Glaeser in his main text. -->
                             <rdg wit="#N #G">hy cum terras</rdg>
                             <rdg wit="#P" xml:id="rdgP2.11.4">hīc</rdg>
@@ -5516,9 +5536,9 @@
                                 <!--ρ (corr. A) r.-->
                                 <witDetail wit="#ρ" target="rdg2.13.32">(corr. <ref target="#A">A</ref>)</witDetail>
                             </app> comas <app>
-                                <lem source="#deRooy #Beck #Haupt1854 #Keene #Baehr. #Schenkl #Leo" ana="#emendation">pallenti</lem>
+                                <lem source="#deRooy #Beck #Haupt1854 #Keene #Baehr. #Schenkl #Leo" type="emendation">pallenti</lem>
                                 <rdg wit="#ω #edd.">parienti</rdg>
-                                <rdgGrp type="conjectures">
+                                <rdgGrp type="conjecture">
                                     <rdg source="#Heins.">ridenti</rdg>
                                     <rdg source="#Heins.">varianti</rdg>
                                     <rdg source="#Heins.">vernanti</rdg>
@@ -5741,7 +5761,7 @@
                                 <lem>ne</lem>
                                 <rdg wit="#δ #s" source="#o #n #Kempfer #Voss">nec</rdg>
                             </app> depulsa <app>
-                                <lem source="#Scaliger #Voss #Beck #Baehr. #Schenkl #Keene" ana="#emendation">vagas</lem>
+                                <lem source="#Scaliger #Voss #Beck #Baehr. #Schenkl #Keene" type="emendation">vagas</lem>
                                 <rdg wit="#ω" source="#edd.">vagos</rdg>
                             </app> quaerat <app>
                                 <lem>fetura</lem>
@@ -5755,7 +5775,7 @@
                                 <rdg wit="#N #G" source="#Baehr. #Schenkl">at</rdg>
                                 <rdg wit="#P #V" source="#edd.">et</rdg>
                             </app> mihi cum <app>
-                                <lem source="#Burm. #Beck #Baehr. #Schenkl" ana="#emendation">vulsis</lem>
+                                <lem source="#Burm. #Beck #Baehr. #Schenkl" type="emendation">vulsis</lem>
                                 <rdg source="#Burm.">furvis</rdg>
                                 <rdg wit="#ω" source="#edd.">fulvis</rdg>
                             </app> radicibus <app>
@@ -5804,7 +5824,7 @@
                                 <note><ref target="#Gronovius1755">Gronov.</ref> (Obss. III 13)</note>
                             </app> nemus dicamque: 'sub arbore numen</l>
                         <l n="55"><app>
-                                <lem source="#Giarratano" ana="#emendation">incolit</lem>
+                                <lem source="#Giarratano" type="emendation">incolit</lem>
                                 <!-- Silvia: This is a good example of a place that has a lot of variants and conjectures, none of which are acceptable to Giarratano, who has printed his own conjecture. -->
                                 <rdgGrp>
                                     <rdg wit="#ω" source="#edd.">hoc erit</rdg>
@@ -5853,7 +5873,7 @@
                                 <rdg wit="#λ">sili</rdg>
                                 <rdg wit="#μ #γ #α #δ #ρ2 #u #b" source="#d2 #l2 #i2 #Tit.">similis</rdg>
                                 <rdg source="#Vienn.">solidi</rdg>
-                                <rdgGrp type="conjectures">
+                                <rdgGrp type="conjecture">
                                     <rdg source="#Gronovius1755">solus</rdg>
                                     <rdg source="#Gronovius1755">similis</rdg>
                                 </rdgGrp>
@@ -6317,7 +6337,7 @@
                             </app></l>
                         <l n="89">admiror totiens. etenim sic flore iuventae</l>
                         <l n="90"><app>
-                                <lem source="#Heins. #Kempfer #Ulit. #BeckSqq" ana="#emendation">induimur</lem>
+                                <lem source="#Heins. #Kempfer #Ulit. #BeckSqq" type="emendation">induimur</lem>
                                 <rdg wit="#ω" source="#eddAnteBeck">induimus</rdg>
                             </app>
                             <app>
@@ -6447,12 +6467,12 @@
                                 <lem>i procul</lem>
                                 <rdg wit="#P">hic procul</rdg>
                             </app>, <app>
-                                <lem source="#Haupt1854 #Keene #Schenkl" ana="#emendation">i</lem>
+                                <lem source="#Haupt1854 #Keene #Schenkl" type="emendation">i</lem>
                                 <rdg wit="#N">y</rdg>
                                 <rdg wit="#P">et</rdg>
                                 <rdg wit="#G #V" source="#edd.">o</rdg>
                             </app>, Doryla, <app>
-                                <lem source="#Haupt1854 #Keene #Schenkl" ana="#emendation">plenumque</lem>
+                                <lem source="#Haupt1854 #Keene #Schenkl" type="emendation">plenumque</lem>
                                 <rdg wit="#ω" source="#edd.">primumque</rdg>
                                 <rdg source="#Baehr.">rivumque</rdg>
                                 <rdg>pronumque</rdg>
@@ -6579,7 +6599,7 @@
                                 <rdg wit="#γ #ε #δ #ρ1 #e">tuscis</rdg>
                             </app></l>
                         <l n="5">iam dudum <app>
-                                <lem source="#Heins. #Baehr. #Schenkl" ana="#emendation">nullus</lem>
+                                <lem source="#Heins. #Baehr. #Schenkl" type="emendation">nullus</lem>
                                 <rdg wit="#ω #r #e #s #d2" source="#u #p #h #t #Barth #Ulit. #Burm. #Glaeser #Keene" xml:id="rdg3.5nullis">nullis</rdg>
                                 <rdg wit="#edd.">et nullis</rdg>
                                 <rdgGrp type="corrMarg">
@@ -6813,7 +6833,7 @@
                                             tribus punctis expleto</witDetail>
                                     </app> intervenit amori</lem>
                                 <rdg source="#nonnulliTitium">vestrum deus intervertit amorem</rdg>
-                                <rdgGrp type="conjectures">
+                                <rdgGrp type="conjecture">
                                     <rdg source="#Ulit.">vestros deus intervertit amores</rdg>
                                     <rdg source="#Ulit.">vestro dolus intervenit amori</rdg>
                                 </rdgGrp>
@@ -6843,7 +6863,7 @@
                                 <rdg wit="#β">yola es</rdg>
                             </app>)</l>
                         <l n="25"><app>
-                                <lem source="#edd." ana="#emendation">Callirhoen</lem>
+                                <lem source="#edd." type="emendation">Callirhoen</lem>
                                 <rdg wit="#N">calliore</rdg>
                                 <rdg wit="#G">calyore</rdg>
                                 <rdg wit="#P #φ #α #η #θ #r #s #d1" source="#p #Barth #Glaeser #Keene">calliroen</rdg>
@@ -6967,7 +6987,7 @@
                                 <rdg wit="#V" source="#edd.">vagetur</rdg>
                             </app>,</l>
                         <l n="34"><app>
-                                <lem source="#Baehr. #Schenkl" ana="#emendation">a!</lem>
+                                <lem source="#Baehr. #Schenkl" type="emendation">a!</lem>
                                 <rdg wit="#N #ν #α #λ #ρ #π #β" source="#edd.">ah</rdg>
                                 <rdg wit="#G">hac</rdg>
                                 <rdg wit="#P #μ #φ #γ #κ #χ #ε #u #e #b">ha</rdg>
@@ -7175,7 +7195,7 @@
                                 <lem>te sine</lem>
                                 <rdg wit="#P">desine</rdg>
                             </app>, <app>
-                                <lem source="#edd." ana="#emendation">vae</lem>
+                                <lem source="#edd." type="emendation">vae</lem>
                                 <rdg wit="#N #G #P #V #r #e #u #b #i #l2 #g">ve</rdg>
                                 <rdg wit="#δ #d2">veh</rdg>
                                 <rdg wit="#α">vē</rdg>
@@ -7362,7 +7382,7 @@
                                         <rdg wit="#V #H2" source="#edd. #antep #Wernsd. #Beck" xml:id="rdg3.69nulla1" exclude="#lem3.69lacte #rdg3.69lacte #rdg3.69lactisb">nulla</rdg>
                                         <rdg wit="#H1" source="#Glaeser" xml:id="rdg3.69nulla2" exclude="lem3.69lacte #rdg3.69lactisa #rdg3.69lactisb">nulla</rdg>
                                         <rdg wit="#d" source="#Burm." xml:id="rdg3.69nullo" exclude="#lem3.69lacte #rdg3.69lactisa #rdg3.69lacte">nullo</rdg>
-                                        <rdgGrp type="conjectures" xml:id="rdgGrpBurmCon">
+                                        <rdgGrp type="conjecture" xml:id="rdgGrpBurmCon">
                                             <!-- Handling first part of the string of Burmann's conjectures: "Burm. coniecit: et molli, puro, mundo vel aut multo t. c. lacte". Using @exclude to pair conjectures with each other. -->
                                             <rdg source="#Burm." xml:id="Burmcon1a" exclude="#rdg3.69lactisa #rdg3.69lacte #rdg3.69lactisb">molli</rdg>
                                             <rdg source="#Burm." xml:id="Burmcon2a" exclude="#rdg3.69lactisa #rdg3.69lacte #rdg3.69lactisb">puro</rdg>
@@ -7373,7 +7393,7 @@
                                         <rdg wit="#V #H2" source="#edd. #antep #Wernsd. #Beck" xml:id="rdg3.69lactisa" exclude="#lem3.69nullo #rdg3.69nulla2 #rdg3.69nullo">lactis</rdg>
                                         <rdg wit="#H1" source="#Glaeser" xml:id="rdg3.69lacte" exclude="#lem3.69nullo #rdg3.69nulla1 #rdg3.69nullo">lacte</rdg>
                                         <rdg wit="#d" source="#Burm." xml:id="rdg3.69lactisb" exclude="#lem3.69nullo #rdg3.69nulla1 #rdg3.69nulla2">lactis</rdg>
-                                        <rdgGrp type="conjectures">
+                                        <rdgGrp type="conjecture">
                                             <!-- Handling second part of the string of Burmann's conjectures: "[Burm. coniecit: … vel nullo t. c. fisco, vel nulla t. c. cista, corbe, vel texta" -->
                                             <rdg source="#Burm." xml:id="Burmcon1b" exclude="#rdg3.69nulla1 #rdg3.69nulla2 #rdg3.69nullo">fisco</rdg>
                                             <rdg source="#Burm." xml:id="Burmcon2b" exclude="#lem3.69lacte #rdg3.69lacte #rdg3.69lactisb">cista</rdg>
@@ -7399,7 +7419,7 @@
                                 <rdg source="#coddTitii">verbere</rdg>
                             </app> torto,</l>
                         <l n="72"><app>
-                                <lem source="#Giarratano" ana="#emendation">sic licet</lem>
+                                <lem source="#Giarratano" type="emendation">sic licet</lem>
                                 <rdg wit="#ω" source="#edd." xml:id="rdg3.72scilicet">scilicet</rdg>
                                 <note target="#rdg3.72scilicet">def. <ref target="#Ellis">Ellis</ref> (l. l. p. 90)</note>
                                 <rdg wit="#κ #χ">silicet</rdg>
@@ -7554,7 +7574,7 @@
                                     legumina pane</rdg>
                                 <rdg wit="#d2">cocto pensare legumine pane</rdg>
                                 <rdg wit="#δ">cocto pensare lingumine-panem</rdg>
-                                <rdgGrp type="conjectures">
+                                <rdgGrp type="conjecture">
                                     <rdg source="#Burm.">cocto pensare legumina pane</rdg>
                                     <rdg source="#Burm.">coctum pensare legumine panem</rdg>
                                     <rdg source="#Burm.">cocto pensare legumine panem</rdg>
@@ -7642,7 +7662,7 @@
                                 <!-- "Scriver" is "Scriverius". It's a reference to Scriverius' commentary on Martial (perhaps XII.20?) -->
                                 <rdg wit="#P #V" source="#edd.">amat</rdg>
                             </app>, <app>
-                                <lem source="#Burm. #Scriverius #Glaeser #Baehr. #Keene #Schenkl" xml:id="lem3.9lycidan" ana="#emendation">Lycidan</lem>
+                                <lem source="#Burm. #Scriverius #Glaeser #Baehr. #Keene #Schenkl" xml:id="lem3.9lycidan" type="emendation">Lycidan</lem>
                                 <!-- probavit H. Cocchia -->
                                 <rdg wit="#γ #φ #ε #ν" source="#edd." xml:id="rdg3.91lycidas">Lycidas</rdg>
                                 <note target="rdg3.91lycidas">def. <ref target="#Ellis">Ellis</ref>
@@ -7712,7 +7732,7 @@
                                         <rdg wit="#d">ora</rdg>
                                         <rdg source="#Kempfer">aram</rdg>
                                     </app></lem>
-                                <rdgGrp type="conjectures">
+                                <rdgGrp type="conjecture">
                                     <rdg source="#Ulit.">vi cina sepe sub aram</rdg>
                                     <rdg source="#Ulit.">vicinae sepibus arae</rdg>
                                 </rdgGrp>
@@ -7997,7 +8017,7 @@
                                 <rdg source="#Barth1624" xml:id="rdg4.18Barth-vicena" exclude="#lem4.18admovet #rdg4.18amonet #rdg4.18Gronov-admonet #rdg4.18admonet">vicena</rdg>
                                 <note target="#rdg4.18Barth-vicena">Adv. XII 10</note>
                                 <rdg source="#Burm. #t" copyOf="#rdg4.18Barth-vicena" xml:id="rdg4.18Burm-vicena" exclude="#rdg4.18amonet #rdg4.18admonet #rdg4.18Gronov-admonet #rdg4.18amovet"/>
-                                <rdgGrp type="conjectures">
+                                <rdgGrp type="conjecture">
                                     <rdg source="#Heins." xml:id="rdg4.18Heins1" exclude="#rdg4.18amonet #rdg4.18admonet #rdg4.18Gronov-admonet #rdg4.18amovet">bis dena</rdg>
                                     <rdg source="#Heins." xml:id="rdg4.18Heins2" exclude="#lem4.18admovet #rdg4.18amonet #rdg4.18admonet #rdg4.18Gronov-admonet">bis dena</rdg>
                                 </rdgGrp>
@@ -8031,7 +8051,7 @@
                                 <rdg wit="#V" source="#eddAnteBeck">nunc cohibes</rdg>
                                 <rdg source="#Tit.">tunc cohibes</rdg>
                                 <rdg source="#Heins.">tun' coges</rdg>
-                                <rdgGrp type="conjectures">
+                                <rdgGrp type="conjecture">
                                     <rdg source="Burm.">non cohibes</rdg>
                                     <rdg source="Burm.">vix una prohibes</rdg>
                                 </rdgGrp>
@@ -8267,7 +8287,7 @@
                                 <rdg wit="#N">impelere</rdg>
                             </app>
                             <app>
-                                <lem source="#UlitSqq" ana="#emendation">Baetis</lem>
+                                <lem source="#UlitSqq" type="emendation">Baetis</lem>
                                 <rdg wit="#G" source="#i2">Bethis</rdg>
                                 <rdg wit="#N">beris</rdg>
                                 <rdg wit="#A #H" source="#i1 #l1 #Vienn. #Tig." xml:id="rdg4.42bethys">bethys</rdg>
@@ -8294,7 +8314,7 @@
                                         <witDetail wit="#N" target="#rdg4.43villis"><hi rend="italic">l</hi> alt. exp.</witDetail>
                                     </app> in orbe iacerem,</l>
                                 <l n="44"><app>
-                                        <lem source="#Baehr. #Schenkl" ana="#emendation">a</lem>
+                                        <lem source="#Baehr. #Schenkl" type="emendation">a</lem>
                                         <rdg wit="#N #G #ν #λ #α #η #δ" source="#edd.">ah</rdg>
                                         <rdg wit="#κ #ρ #γ #μ #φ #ε #π #χ #u #e #b #d2">ha</rdg>
                                     </app> dolor! et pecudes <app>
@@ -8524,7 +8544,7 @@
                                 <rdg wit="#N #G">quoque</rdg>
                             </app> primus in istis</l>
                         <l n="63">montibus <app>
-                                <lem source="#i2Sqq" ana="#emendation">Hyblaea</lem>
+                                <lem source="#i2Sqq" type="emendation">Hyblaea</lem>
                                 <rdg wit="#N #G #κ #β #α #λ #δ">hiblea</rdg>
                                 <rdg wit="#ν #ρ #η #ε #γ #χ #φ #r #e #u #b #s" source="#o #n #i2 #l2 #g #p" xml:id="rdg4.63hyblea">hyblea</rdg>
                                 <witDetail wit="#ρ" target="#rdg4.63hyblea">in ras.</witDetail>
@@ -8655,7 +8675,7 @@
                                 <lem>scimus enim</lem>
                                 <rdg wit="#ν #φ #η #θ #r">dicimus en</rdg>
                             </app>, <app>
-                                <lem source="#ViennSqq" ana="#emendation">quam</lem>
+                                <lem source="#ViennSqq" type="emendation">quam</lem>
                                 <rdg wit="#ω #r #u #e #b #d #s" source="#i #l #o #n #Modius">quia</rdg>
                             </app> te non <app>
                                 <lem>aspernetur</lem>
@@ -8718,7 +8738,7 @@
                                 <rdg source="#CSchenkl">canoros</rdg>
                             </app></l>
                         <l n="77"><app>
-                                <lem source="#Leo #Schenkl" xml:id="lem4.77exprime" ana="#emendation">exprime</lem>
+                                <lem source="#Leo #Schenkl" xml:id="lem4.77exprime" type="emendation">exprime</lem>
                                 <note target="#lem4.77exprime"><ref target="#Leo">Leo</ref> (l. l.
                                     p. 617 <ptr target="https://books.google.com/books?id=vABMAAAAYAAJ&amp;pg=PA617#v=onepage&amp;q&amp;f=false"/>)</note>
                                 <rdg wit="#N #G" source="#Glaeser #Baehr. #Keene">et preme</rdg>
@@ -8761,14 +8781,14 @@
                                         <rdg wit="#d">serviat</rdg>
                                     </app> ore.</l>
                                 <l n="80"><app>
-                                        <lem source="#Barth #Beck #Baehr. #Schenkl" xml:id="lem4.80ducite" ana="#emendation">ducite</lem>
+                                        <lem source="#Barth #Beck #Baehr. #Schenkl" xml:id="lem4.80ducite" type="emendation">ducite</lem>
                                         <rdg wit="#G #V" source="#edd." xml:id="rdg4.80dicite">dicite</rdg>
                                         <rdgGrp type="anteCorr">
                                             <rdg wit="#N" varSeq="1" xml:id="rdg4.80vdicite">vdicite</rdg>
                                             <rdg wit="#N" varSeq="2" copyOf="#rdg4.80dicite"/>
                                         </rdgGrp>
                                         <witDetail wit="#N" target="rdg4.80vdicite"><hi rend="italic">v</hi> del.</witDetail>
-                                        <rdgGrp type="conjectures">
+                                        <rdgGrp type="conjecture">
                                             <rdg source="#Friesemann" xml:id="rdg4.80ducite-Friesemann" copyOf="#lem4.80ducite" exclude="#rdg4.80redicite"/>
                                             <rdg source="#Friesemann" xml:id="rdg4.80dicite-Friesemann" copyOf="#rdg4.80dicite" exclude="lem4.80reducite"/>
                                         </rdgGrp>
@@ -8907,7 +8927,7 @@
                                     <rdg wit="#N #G #α #ρ #π #η #κ #χ #β #μ #γ #r #u #e" source="#n #p #i1 #Baehr.">Iupiter</rdg>
                                 </app> ipse tuetur:</l>
                             <l n="90">in quibus Augustos <app>
-                                    <lem source="#Barth #Ulit. #Heins. #Burm. #Haupt1854 #Schenkl2" ana="#emendation">visurae</lem>
+                                    <lem source="#Barth #Ulit. #Heins. #Burm. #Haupt1854 #Schenkl2" type="emendation">visurae</lem>
                                     <rdg wit="#N #G #ρ2" source="#edd." xml:id="rdg4.90visuraque">visuraque</rdg>
                                     <witDetail wit="#N" target="#rdg4.90visuraque">(in quo litt.
                                         evanidas restit. <ref target="#N2">N2</ref>)</witDetail>
@@ -8934,7 +8954,7 @@
                                 <app>
                                     <lem wit="#N" xml:id="lem4.91vicinaque">vicinaque</lem>
                                     <witDetail wit="#lem4.91vicinaque">(litt. evan. rest. <ref target="#N2">N2</ref>)</witDetail>
-                                    <rdgGrp type="conjectures">
+                                    <rdgGrp type="conjecture">
                                         <rdg source="#Barth">divinaque</rdg>
                                         <rdg source="#Barth">et civica</rdg>
                                         <rdg source="#Barth">unitaque</rdg>
@@ -8942,7 +8962,7 @@
                                     </rdgGrp>
                                     <rdg source="#Swarth" xml:id="rdg4.91vitisequa">vitisequa</rdg>
                                     <note target="#rdg4.91vitisequa">(Anal. III 6 <ptr target="https://books.google.com/books?id=8JFMAAAAcAAJ&amp;pg=PA118#v=onepage&amp;q&amp;f=false"/>)</note>
-                                    <rdgGrp type="conjectures">
+                                    <rdgGrp type="conjecture">
                                         <rdg source="#Ulit.">erycinaque</rdg>
                                         <rdg source="#Ulit." copyOf="#lem91vicinaque"/>
                                     </rdgGrp>
@@ -8973,14 +8993,14 @@
                                     <rdg wit="#s" xml:id="rdg4.93tam">tam</rdg>
                                     <rdg source="#Glaeser" xml:id="rdg4.93tam-Glaeser" copyOf="#rdg4.93tam" exclude="#rdg4.93esse #rdg4.93ipse #rdg4.93ipsi #rdg4.93isse-Glaeser #lem4.94abes #rdg4.94habes #rdg4.94abis #rdg4.94cibis #rdg4.94aves #rdg4.94ades #rdg4.94ovas #rdg4.94agis #rdg4.94ades-Gudius #rdg4.94habes-Gudius"/>
                                 </app> proximus, <anchor xml:id="C4.93GlaeserNote"/><app>
-                                    <lem source="#Leo" xml:id="lem4.93ecce" ana="#emendation">ecce</lem>
+                                    <lem source="#Leo" xml:id="lem4.93ecce" type="emendation">ecce</lem>
                                     <rdg wit="#N #G" source="#Baehr." xml:id="rdg4.93esse">esse</rdg>
                                     <rdg wit="#V" source="#edd." xml:id="rdg4.93ipse">ipse</rdg>
                                     <rdg source="#Heins." xml:id="rdg4.93ipsi">ipsi</rdg>
                                     <rdg source="#Glaeser" xml:id="rdg4.93isse-Glaeser" exclude="#rdg4.93tam #rdg4.93tam-Glaeser #lem 4.94abes #rdg4.94habes #rdg4.94abis #rdg4.94cibis #rdg4.94ades #rdg4.94ovas #rdg4.94agis #rdg4.94ades-Gudius #rdg4.94habes-Gudius">isse</rdg>
                                 </app>,</l>
                             <l n="94">Caesar, <app>
-                                    <lem wit="#H #ρ" source="#Ulit. #h #t #WernsdSqq" xml:id="lem.94abes">abes</lem>
+                                    <lem wit="#H #ρ" source="#Ulit. #h #t #WernsdSqq" xml:id="lem4.94abes">abes</lem>
                                     <witDetail wit="#ρ" target="#lem4.94abes">in mg.</witDetail>
                                     <!-- ρ (in mg.) -->
                                     <note target="#lem4.94abes">probavit <ref target="#Leo">Leo</ref></note>
@@ -8991,11 +9011,11 @@
                                     <rdg source="#Burm." xml:id="rdg4.94ades">ades</rdg>
                                     <rdg source="#Baehr." xml:id="rdg4.94ovas">ovas</rdg>
                                     <rdg source="#Heins." xml:id="rdg4.94agis">agis</rdg>
-                                    <rdgGrp type="conjectures">
+                                    <rdgGrp type="conjecture">
                                         <rdg source="#Gudius" copyOf="#rdg4.94ades" xml:id="rdg4.94ades-Gudius"/>
                                         <rdg source="#Gudius" copyOf="#rdg4.94habes" xml:id="rdg4.94habes-Gudius"/>
                                     </rdgGrp>
-                                    <rdg source="#Glaeser" xml:id="rdg4.94abes-Glaeser" copyOf="#lem.94abes" exclude="#lem4.93iam #rdg4.93tam #rdg4.93esse #rdg4.93ipse #rdg4.93ipse #rdg4.93ipsi #rdg4.93isse-Glaeser"/>
+                                    <rdg source="#Glaeser" xml:id="rdg4.94abes-Glaeser" copyOf="#lem5.94abes" exclude="#lem4.93iam #rdg4.93tam #rdg4.93esse #rdg4.93ipse #rdg4.93ipse #rdg4.93ipsi #rdg4.93isse-Glaeser"/>
                                 </app><app><note target="#C4.93GlaeserNote"><hi rend="italic">isse</hi>-94 <hi rend="italic">aves</hi> vel <hi rend="italic">tam-ecce-</hi>94 <hi rend="italic">abes</hi>
                                     <ref target="#Glaeser">Glaeser</ref></note></app>, <app>
                                     <lem>posito</lem>
@@ -9105,7 +9125,7 @@
                                     <rdg wit="#δ"/>
                                 </app> deus expulit euros'.</l>
                             <l n="101">nec mora; <app>
-                                    <lem source="#Heins. #Haupt1854 #Baehr. #Schenkl" ana="#emendation">Parrhasiae</lem>
+                                    <lem source="#Heins. #Haupt1854 #Baehr. #Schenkl" type="emendation">Parrhasiae</lem>
                                     <rdg wit="#N #μ">pharsalie</rdg>
                                     <rdg wit="#G #π #ρ1">farsalie</rdg>
                                     <rdg wit="#A #λ #κ #δ #α #β #ε #γ #χ" source="#edd.">pharsaliae</rdg>
@@ -9258,7 +9278,7 @@
                                     <lem>odore</lem>
                                     <rdg wit="#d">honore</rdg>
                                     <rdg source="#Ulit. #Haupt1854" xml:id="rdg4.111odora">odora</rdg>
-                                    <rdgGrp type="conjectures">
+                                    <rdgGrp type="conjecture">
                                         <rdg source="#Heins." copyOf="#rdg4.111odora"/>
                                         <rdg source="#Heins.">honora</rdg>
                                     </rdgGrp>
@@ -9340,7 +9360,7 @@
                         <speaker>C.</speaker>
                         <lg type="strophe" n="11" xml:id="C4strophe11">
                             <l n="132">Numine Caesareo securior ipse <app>
-                                    <lem source="#Ulit. #h #p #t #Beck #Baehr. #Schenkl" ana="#emendation">Lycaeus</lem>
+                                    <lem source="#Ulit. #h #p #t #Beck #Baehr. #Schenkl" type="emendation">Lycaeus</lem>
                                     <rdg wit="#N">lieus</rdg>
                                     <rdg wit="#G">lyeus</rdg>
                                     <rdg wit="#κ #η">liaeo</rdg>
@@ -9511,7 +9531,7 @@
                                             </rdgGrp>
                                         </app>
                                         <app>
-                                            <lem source="#Burm. #GlaeserSqq" ana="#emendation">paganica</lem>
+                                            <lem source="#Burm. #GlaeserSqq" type="emendation">paganica</lem>
                                             <rdg wit="#N">paganida</rdg>
                                             <rdg wit="#G">placanda</rdg>
                                         </app> turba magistro,</lem>
@@ -9525,7 +9545,7 @@
                                             </rdgGrp>
                                             <witDetail wit="#π" target="#rdg4.125π">in
                                                 mg.</witDetail>
-                                            <rdgGrp type="conjectures">
+                                            <rdgGrp type="conjecture">
                                                 <rdg source="#Modius #Dempster" copyOf="#rdg4.125satiata"/>
                                                 <rdg source="#Modius #Dempster">saturata</rdg>
                                             </rdgGrp>
@@ -9534,7 +9554,7 @@
                                             <rdg source="#Ulit. #h #p #t #Tig." copyOf="#rdg4.125signata"/>
                                             <rdg source="#Tit.">sagnata</rdg>
                                             <rdg wit="#δ">sagmata</rdg>
-                                            <rdgGrp type="conjectures">
+                                            <rdgGrp type="conjecture">
                                                 <rdg source="#Heins.">Sicana</rdg>
                                                 <rdg source="#Heins.">pagana</rdg>
                                                 <rdg source="#Heins.">satiata</rdg>
@@ -9590,7 +9610,7 @@
                                     <rdg wit="#δ #ε #β #ρ2 #e #u" source="#i1 #Vienn.">licet</rdg>
                                     <rdg source="#eddAnteGlaeser">licet hic</rdg>
                                 </app> et cantare <app>
-                                    <lem source="#GlaeserSqq" ana="#emendation">choreis</lem>
+                                    <lem source="#GlaeserSqq" type="emendation">choreis</lem>
                                     <rdg wit="#N">coreis</rdg>
                                     <rdg wit="#G">corchis</rdg>
                                     <rdg wit="#ν #κ #β #γ #ε #η #λ #ρ2" source="#eddAnteGlaeser">choreas</rdg>
@@ -9717,7 +9737,7 @@
                                     <rdg wit="#s" source="#o #n">vivas et tunc precor</rdg>
                                     <rdg source="#Vienn. #Tig.">vivas atque et hunc precor</rdg>
                                     <rdg wit="#d" source="#Modius">aeternum hunc te precor</rdg>
-                                    <rdgGrp type="conjectures">
+                                    <rdgGrp type="conjecture">
                                         <rdg source="#Tit.">vivas atque hunc precor</rdg>
                                         <rdg source="#Tit.">venias atque hunc precor</rdg>
                                     </rdgGrp>
@@ -9752,7 +9772,7 @@
                                     <rdg wit="#u #b">caeptamque</rdg>
                                     <rdg source="#Hoeufft #Beck" xml:id="rdg4.146certamque">certamque</rdg>
                                     <note target="#rdg4.146certamque"><ref target="#Hoeufft">Hoeufft</ref> (peric. poet. et crit. III p. 330 <ptr target="https://books.google.com/books?id=Xv9hAAAAcAAJ&amp;dq=Hoeufft%20peric&amp;pg=PA330#v=onepage&amp;q=Hoeufft%20peric&amp;f=false"/></note>
-                                    <rdgGrp type="conjectures">
+                                    <rdgGrp type="conjecture">
                                         <rdg source="#Heins.">spretamque</rdg>
                                         <rdg source="#Heins.">cassamque</rdg>
                                     </rdgGrp>
@@ -9885,7 +9905,7 @@
                                 <rdg wit="#d2">ey mihi</rdg>
                             </app>
                             <app>
-                                <lem source="#Glaeser #Baehr. #Schenkl1" ana="#emendation">quae tereti</lem>
+                                <lem source="#Glaeser #Baehr. #Schenkl1" type="emendation">quae tereti</lem>
                                 <rdgGrp type="MSVariants">
                                     <rdg wit="#N">que teriti</rdg>
                                     <rdg wit="#N2">que tereti</rdg>
@@ -9952,7 +9972,7 @@
                                         <lem wit="#N #G #d #ExcPar #d" source="#n #o #Barth #Baehr. #Schenkl">dicit</lem>
                                         <rdg wit="#V" source="#edd.">dixit</rdg>
                                     </app>: '<app>
-                                        <lem source="#Heins. #BurmSqq" ana="#emendation">ovilia</lem>
+                                        <lem source="#Heins. #BurmSqq" type="emendation">ovilia</lem>
                                         <rdg wit="#ω" source="#eddAnteBurm">vilia</rdg>
                                     </app>
                                     <app>
@@ -9963,7 +9983,7 @@
                                         <lem/>
                                         <rdg wit="#φ #ν #η #ρ2 #r #s" source="#n #o">A.</rdg>
                                     </app><app>
-                                        <lem source="#n #o #Beck #GlaeserSqq" ana="#emendation">at tu, si qua
+                                        <lem source="#n #o #Beck #GlaeserSqq" type="emendation">at tu, si qua
                                             tamen</lem>
                                         <rdg wit="#N #G #π #λ #φ #κ #χ #ν #β #η #θ #r #s">et tu si
                                             qua tamen</rdg>
@@ -10016,7 +10036,7 @@
                                 <witDetail wit="#G" target="#rdg4.162ostenditque">(<hi rend="italic">t</hi> alt. e corr.)</witDetail>
                             </app>
                             <app>
-                                <lem source="#Heins. #Beck #Baehr. #Schenkl" ana="#emendation">deis</lem>
+                                <lem source="#Heins. #Beck #Baehr. #Schenkl" type="emendation">deis</lem>
                                 <rdg wit="#ω" source="#edd.">deos</rdg>
                             </app> et 'spreto' dixit '<app>
                                 <lem>ovili</lem>
@@ -10035,7 +10055,7 @@
                             </app>
                             <app>
                                 <lem>cantabimus</lem>
-                                <rdgGrp type="conjectures">
+                                <rdgGrp type="conjecture">
                                     <rdg source="#Heins.">cantabitis</rdg>
                                     <rdg source="#Heins." xml:id="rdg4.163cantabiset">cantabis
                                         et</rdg>
@@ -10182,7 +10202,7 @@
                   <rdg wit="#ε #e">mirabant</rdg>
                </app>
                <app>
-                  <lem source="#GlaeserSqq" ana="#emendation">ilice</lem>
+                  <lem source="#GlaeserSqq" type="emendation">ilice</lem>
                   <rdg wit="#N">illice</rdg>
                   <rdg wit="#G">ylice</rdg>
                   <rdg wit="#V" source="#eddAnteGlaeser">arbore</rdg>
@@ -10409,12 +10429,12 @@
                         <note target="#rdg5.19totus"><hi rend="italic">totus-saltus</hi> Hoeufft
                            (per. poet. et crit. III 331) Beck Jacoby</note>
                      </app> vernanti <app>
-                        <lem source="#Burm. #Baehr. #Schenkl" ana="#emendation">germine</lem>
+                        <lem source="#Burm. #Baehr. #Schenkl" type="emendation">germine</lem>
                         <rdg wit="#ω" source="#edd.">gramine</rdg>
                         <rdg wit="#μ">gramina</rdg>
                      </app>
                   </lem>
-                  <rdgGrp type="conjectures">
+                  <rdgGrp type="conjecture">
                      <rdg source="#Heins.">tunc etiam <del>lato</del>
                         <del>exorto</del> toto vernatrix gramine</rdg>
                      <rdg source="#Heins.">tunc etiam vernante toro, tunc gramine</rdg>
@@ -10522,7 +10542,7 @@
                         <rdg wit="#ε #e">at</rdg>
                         <rdg wit="#λ #ρ1" source="#eddAnteGlaeser">atque</rdg>
                      </app> etiam </lem>
-                  <rdgGrp type="conjectures">
+                  <rdgGrp type="conjecture">
                      <rdg source="#Burm." copyOf="#lem5.28hac_etiam"/>
                      <rdg source="#Burm.">ante tamen</rdg>
                   </rdgGrp>
@@ -10608,17 +10628,17 @@
             </app>
             <app type="lineOmission">
                <lem><l n="34" xml:id="line5.34"><app>
-                        <lem source="#Housman1902" xml:id="lem5.34" ana="#emendation">in tenebris</lem>
+                        <lem source="#Housman1902" xml:id="lem5.34" type="emendation">in tenebris</lem>
                         <note target="#lem5.34">probat <ref target="#Leo">F. Leo</ref></note>
                         <rdg wit="#ω" source="#edd.">implebis</rdg>
                         <rdg source="#Haupt1854 #Keene">implebit</rdg>
                         <rdg source="#Burm.">in fiscis</rdg>
-                        <rdgGrp type="conjectures">
+                        <rdgGrp type="conjecture">
                            <rdg source="#Ulit." xml:id="rdg5.34inde_premes">inde premes</rdg>
                            <rdg source="#Ulit." xml:id="rdfg5.34nocte_premes">nocte premes</rdg>
                         </rdgGrp>
                         <rdg source="#Glaeser">hinc plebi et</rdg>
-                        <rdgGrp type="conjectures">
+                        <rdgGrp type="conjecture">
                            <rdg source="#Heins.">ampla tibi</rdg>
                            <rdg source="#Heins.">imbre tibi</rdg>
                         </rdgGrp>
@@ -10939,7 +10959,7 @@
                   <rdg wit="#N #G #V" source="#eddFereOmnes">esculus</rdg>
                </app> umbras.</l>
             <l n="60">verum ubi <app>
-                  <lem source="#Heins. #Haupt1854 #Schenkl #Lucas" ana="#emendation">declini</lem>
+                  <lem source="#Heins. #Haupt1854 #Schenkl #Lucas" type="emendation">declini</lem>
                   <rdg wit="#N #G" xml:id="rdg5.60declivis">declivis</rdg>
                   <witDetail wit="#N" target="#rdg5.60declivis">(in quo <hi rend="italic">declivi</hi>
                      <ref target="#N2">N²</ref>)</witDetail>
@@ -10962,7 +10982,7 @@
                   <!-- terra Schenkl olim. -->
                </app> tepescere sole</l>
             <l n="61"><app>
-                  <lem source="#Glaeser #CSchenkl #Leo" ana="#emendation">incipietque</lem>
+                  <lem source="#Glaeser #CSchenkl #Leo" type="emendation">incipietque</lem>
                   <rdg wit="#ω" source="#edd.">incipiet</rdg>
                   <rdg source="#Hartel">incipit esse</rdg>
                   <rdg source="#Maehly">incipient</rdg>
@@ -11029,7 +11049,7 @@
                   <rdg source="#Burm.">hinc</rdg>
                </app>
                <app>
-                  <lem source="#Glaeser #Schenkl" xml:id="lem5.65tremulo_queribunda" ana="#emendation">tremulo <app>
+                  <lem source="#Glaeser #Schenkl" xml:id="lem5.65tremulo_queribunda" type="emendation">tremulo <app>
                         <lem>queribunda</lem>
                         <rdg source="#Glaeser #Baehr." xml:id="rdg5.65gemibunda">gemibunda</rdg>
                      </app></lem>
@@ -11046,7 +11066,7 @@
                      volebat etiam <hi rend="italic">ac denses</hi> vel <hi rend="italic">atque
                         premas tremebunda</hi>)</note>
                   <!-- Beck (qui volebat etiam denses vel atque premas tremebunda) -->
-                  <rdgGrp type="conjectures">
+                  <rdgGrp type="conjecture">
                      <rdg source="#Heins.">tremuli preme munda</rdg>
                      <rdg source="#Heins.">et tremuli premere uda</rdg>
                   </rdgGrp>
@@ -11054,7 +11074,7 @@
                   <rdg wit="#s">te ferto tremebunda</rdg>
                </app>
                <app>
-                  <lem source="#Glaeser #Baehr. #Schenkl" ana="#emendation">fritinniat ore</lem>
+                  <lem source="#Glaeser #Baehr. #Schenkl" type="emendation">fritinniat ore</lem>
                   <rdg wit="#N #G" xml:id="rdg5.65fruniat_ore">fruniat ore</rdg>
                   <witDetail wit="#N" target="#rdg5.65fruniat_ore">(in quo <add place="margin" hand="#N2">coagulat lacte</add></witDetail>
                   <!-- N  (in quo coagulat lacte m2 in mg.) -->
@@ -11295,7 +11315,7 @@
                   <rdg source="#Barth">ne</rdg>
                </app> Brutia desit</l>
             <l n="81"><app>
-                  <lem source="#Baehr. #Schenkl" ana="#emendation">pix tibi</lem>
+                  <lem source="#Baehr. #Schenkl" type="emendation">pix tibi</lem>
                   <rdg wit="#N #G">pia tibi</rdg>
                   <rdg wit="#N2 #V" source="#edd.">dura tibi</rdg>
                   <rdg source="#Jacoby">pix sed</rdg>
@@ -11349,7 +11369,7 @@
                   <rdg wit="#N #G #δ #ν1">rara</rdg>
                   <rdg wit="#ε">rase</rdg>
                   <rdg wit="#e">rasae</rdg>
-                  <rdgGrp type="conjectures">
+                  <rdgGrp type="conjecture">
                      <rdg source="#Schenkl">scabra</rdg>
                      <rdg source="#Schenkl">cruda</rdg>
                   </rdgGrp>
@@ -11377,7 +11397,7 @@
                   <rdg wit="#β #ε #λ #ρ #μ #γ #α #δ" source="#eddAnteGlaeser">melle</rdg>
                   <rdg wit="#φ #π #κ #χ #ν #η #θ #r">molle</rdg>
                   <rdg source="#Heins.">amellis</rdg>
-                  <rdgGrp type="conjectures">
+                  <rdgGrp type="conjecture">
                      <rdg source="#Ulit." xml:id="rdg5.82in_olla">in olla</rdg>
                      <rdg source="#Ulit.">in uno</rdg>
                      <rdg source="#Ulit.">in illo</rdg>
@@ -11611,7 +11631,7 @@
             <app type="lineTransposition" xml:id="app_5.104-105" exclude="#app_5.104-105_tr">
                <lem><l n="104" xml:id="line5.104"><app>
                         <lem><app>
-                              <lem source="#GlaeserSqq" ana="#emendation">hac</lem>
+                              <lem source="#GlaeserSqq" type="emendation">hac</lem>
                               <rdg wit="#N #G">hoc</rdg>
                               <rdg wit="#A" source="#Barth">hic</rdg>
                               <rdg wit="#V" source="#eddAnteGlaeser">sic</rdg>
@@ -11660,7 +11680,7 @@
                   <rdg wit="#N #V">succos</rdg>
                   <rdg source="#Heins.">sulcos</rdg>
                </app> adhibere novos: <app>
-                  <lem source="#Giarratano" ana="#emendation">cum torrida</lem>
+                  <lem source="#Giarratano" type="emendation">cum torrida</lem>
                   <rdg wit="#N #G #V" source="#edd.">ne torrida</rdg>
                   <rdg wit="#H #ε #γ #ρ2 #u #e #b #d2" source="#l2 #i2">neu torrida</rdg>
                   <rdg source="#Haupt1854">dum torrida</rdg>
@@ -11775,7 +11795,7 @@
                   <rdg wit="#N">plene</rdg>
                </app> vitale medullae.</l>
             <l n="116">praecipue gelidum <app>
-                  <lem source="#GlaeserSqq" ana="#emendation">stipula cum</lem>
+                  <lem source="#GlaeserSqq" type="emendation">stipula cum</lem>
                   <rdg wit="#N #G">stipule cum</rdg>
                   <rdg wit="#V" source="#eddAnteGlaeser">stipulis et</rdg>
                </app> fronde caduca</l>
@@ -11896,7 +11916,7 @@
                         interpunxerunt.</note>
                   </app>
                   <app>
-                     <lem source="#Heins. #Mueller" xml:id="lem6.4Lacaenae" ana="#emendation">Lacaenae</lem>
+                     <lem source="#Heins. #Mueller" xml:id="lem6.4Lacaenae" type="emendation">Lacaenae</lem>
                      <!-- Lacaenae (vel Laconem Heins.) Heins. L. Mueller (l. l. p. 1072) -->
                      <note target="#lem6.4Lacaenae">L. Mueller (l. l. p. 1072)</note>
                      <rdg source="#Heins.">Laconem</rdg>
@@ -12251,7 +12271,7 @@
                      <rdg wit="#δ">veni licet</rdg>
                      <rdg source="#i1 #l1 #p #Vienn. #Barth">veniat vel</rdg>
                      <rdg source="#Ulit.">veniat velit</rdg>
-                     <rdgGrp type="conjectures">
+                     <rdgGrp type="conjecture">
                         <rdg source="#Heins.">veniat vel hic</rdg>
                         <rdg source="#Heins.">veniatque vel</rdg>
                      </rdgGrp>
@@ -12285,7 +12305,7 @@
                   <app>
                      <lem>stillantes</lem>
                      <rdg wit="#N #δ">stilantes</rdg>
-                     <rdgGrp type="conjectures">
+                     <rdgGrp type="conjecture">
                         <rdg source="#Heins.">titubantes</rdg>
                         <rdg source="#Heins.">strigantes</rdg>
                      </rdgGrp>
@@ -12404,7 +12424,7 @@
                         </app></rdg>
                      <!-- pr(a)edam nactus (naptus φ) V edd. ante Glaeser -->
                      <rdg source="#Barth">praedem nactus</rdg>
-                     <rdgGrp type="conjectures">
+                     <rdgGrp type="conjecture">
                         <rdg source="#Burm.">praedam nactus</rdg>
                         <rdg source="#Burm.">praeda mactus</rdg>
                      </rdgGrp>
@@ -12419,7 +12439,7 @@
                   </app></l>
                <l n="31">quam tibi certanti <app>
                      <lem>partem</lem>
-                     <rdgGrp type="conjectures">
+                     <rdgGrp type="conjecture">
                         <rdg source="#Heins.">palmam</rdg>
                         <rdg source="#Heins.">spartam</rdg>
                      </rdgGrp>
@@ -12540,7 +12560,7 @@
                      <rdg wit="#G">latialis</rdg>
                   </app> cingula bullas?</l>
                <l n="42">cornua <app>
-                     <lem source="#Leo" ana="#emendation">summa (vides?)</lem>
+                     <lem source="#Leo" type="emendation">summa (vides?)</lem>
                      <rdg wit="#ω" source="#edd.">subtiles</rdg>
                      <rdg source="#Heins. #Haupt1854 #Schenkl">sutilibus</rdg>
                      <rdg source="#Jacoby" xml:id="rdg6.42subsilles">subsilles</rdg>
@@ -12587,7 +12607,7 @@
                      <rdg wit="#N">lima</rdg>
                   </app>,</l>
                <l n="46"><app>
-                     <lem source="#Baehr." ana="#emendation">hunc, sicutque vides, pignus, Mnasylle</lem>
+                     <lem source="#Baehr." type="emendation">hunc, sicutque vides, pignus, Mnasylle</lem>
                      <rdg wit="#N" xml:id="rdg6.46hunc-etc">hunc <add place="above">ego</add>
                            si<del>ƈ</del> cumque vides Mnasille</rdg>
                      <witDetail wit="#N" target="#rdg6.46hunc-etcN"><hi rend="italic">ego</hi>
@@ -12721,11 +12741,11 @@
                      <rdg wit="#G">capud</rdg>
                   </app>, sine pondere <app>
                      <lem>cervix</lem>
-                     <rdgGrp type="conjectures">
+                     <rdgGrp type="conjecture">
                         <rdg source="#Ulit.">curvum</rdg>
                         <rdg source="#Ulit.">cernuum</rdg>
                      </rdgGrp>
-                     <rdgGrp type="conjectures">
+                     <rdgGrp type="conjecture">
                         <rdg source="#Heins.">pernix</rdg>
                         <rdg source="#Heins.">venter</rdg>
                      </rdgGrp>
@@ -12981,7 +13001,7 @@
                      <!-- N (corr. m1) -->
                   </app>:</l>
                <l n="74"><app>
-                     <lem source="#n #Baehr. #Schenkl" ana="#emendation">Astyle</lem>
+                     <lem source="#n #Baehr. #Schenkl" type="emendation">Astyle</lem>
                      <rdg wit="#ω" source="#edd.">Astile</rdg>
                      <rdg wit="#ν #η #φ #r #s">hastile</rdg>
                   </app>, tu <app>
@@ -13190,7 +13210,7 @@
                            <lem>adesset</lem>
                            <rdg source="#Ulit.">abesset</rdg>
                         </app></lem>
-                     <rdgGrp type="conjectures">
+                     <rdgGrp type="conjecture">
                         <rdg source="#Burm.">modo nunc Mnasyllus abesset</rdg>
                         <rdg source="#Burm.">modo non Mnasyllus adesset</rdg>
                      </rdgGrp>
@@ -13408,7 +13428,7 @@
                   <app>
                      <lem wit="#G #λ #δ" source="#edd.">corymbo</lem>
                      <rdg wit="#N #V #r #e #u">corimbo</rdg>
-                     <rdgGrp type="conjectures">
+                     <rdgGrp type="conjecture">
                         <rdg source="#Wernsd.">cicuta</rdg>
                         <rdg source="#Wernsd.">canali</rdg>
                      </rdgGrp>
@@ -13462,7 +13482,7 @@
                            <rdg wit="#γ">proemia</rdg>
                            <rdg wit="#λ #θ">prelia</rdg>
                         </app> dives</lem>
-                     <rdgGrp type="conjectures">
+                     <rdgGrp type="conjecture">
                         <rdg source="#Heins.">invitis Stimicon ut praemia divis</rdg>
                         <rdg source="#Heins.">invictus Stimicon et praemia silvis</rdg>
                         <!-- vel tantum <hi rend="#italic">silvis</hi> pro <hi rend="#italic">dites</hi> -->
@@ -13549,7 +13569,7 @@
                      <rdg source="#Modius">probe</rdg>
                   </app> despectantia culmen;</l>
                <l n="25"><app>
-                     <lem source="#Schraeder #Haupt1854 #Baehr. #Schenkl" xml:id="lem7.25emensique" ana="#emendation">emensique</lem>
+                     <lem source="#Schraeder #Haupt1854 #Baehr. #Schenkl" xml:id="lem7.25emensique" type="emendation">emensique</lem>
                      <note target="#lem7.25emensique"><ref target="#Schraeder">Schraeder</ref> (apud
                            <ref target="#Brantsma">Brantsmam</ref> in spec. obss. p. 15, Franequerae
                         1762)</note>
@@ -13694,7 +13714,7 @@
                      <!-- Deal with this!!! -->
                      <rdg source="#Barth">tum senior mihi dum lateri qui</rdg>
                      <rdg source="#Burm.">quum mihi qui senior lateri tum</rdg>
-                     <rdgGrp type="conjectures">
+                     <rdgGrp type="conjecture">
                         <rdg source="#Ulit.">tum mihi tum senior lateri quis</rdg>
                         <rdg source="#Ulit.">tum mihi dum senior lateri quis</rdg>
                      </rdgGrp>
@@ -13724,7 +13744,7 @@
                   </app> tantas <app>
                      <lem>miraris</lem>
                      <rdg wit="#ν #κ #π #λ #φ #μ #χ #δ #η #θ #β #r">mireris</rdg>
-                     <rdgGrp type="conjectures">
+                     <rdgGrp type="conjecture">
                         <rdg source="#Burm.">mirarer</rdg>
                         <rdg source="#Burm.">non mirer</rdg>
                         <rdg source="#Burm.">te mirer</rdg>
@@ -13843,7 +13863,7 @@
                      <rdg wit="#η">in rotolum</rdg>
                      <rdg wit="#φ">hirotulum</rdg>
                      <rdg wit="#μ">in rictulum</rdg>
-                     <rdgGrp type="conjectures">
+                     <rdgGrp type="conjecture">
                         <rdg source="#Lipsius">in rotulam</rdg>
                         <rdg source="#Lipsius">in ruplum</rdg>
                      </rdgGrp>
@@ -13860,7 +13880,7 @@
                      <rdg source="#Barth #Burm.">quo</rdg>
                      <rdg wit="#γ"/>
                   </app> lubricus <app>
-                     <lem source="#Salmasius1620 #BurmSqq" ana="#emendation">axe</lem>
+                     <lem source="#Salmasius1620 #BurmSqq" type="emendation">axe</lem>
                      <rdg wit="#N #G #λ #ε #π #α #β #γ #μ #δ #ρ2" source="#eddAnteBurm">axem</rdg>
                      <rdg wit="#κ #χ #ν #φ #η #θ #ρ1 #r">assem</rdg>
                      <rdg source="#p #Barth #Ulit. #h">axis</rdg>
@@ -13965,7 +13985,7 @@
                      <rdg wit="#ρ1">victimam</rdg>
                      <rdg wit="#ν #η #ρ2 #θ #r #s">nycticanam</rdg>
                      <rdg wit="#d #c">ast ursam in</rdg>
-                     <rdgGrp type="conjectures">
+                     <rdgGrp type="conjecture">
                         <rdg source="#Ulit.">et canam</rdg>
                         <rdg source="#Ulit.">Mantichoram et</rdg>
                      </rdgGrp>
@@ -14087,7 +14107,7 @@
                      <rdg wit="#δ #η #ν #φ #ρ #r #s" source="#n #o">pascitur</rdg>
                   </app>
                   <app>
-                     <lem source="#n #o #Barth #Baehr. #Schenkl" ana="#emendation">amne</lem>
+                     <lem source="#n #o #Barth #Baehr. #Schenkl" type="emendation">amne</lem>
                      <rdg wit="#N">anne</rdg>
                      <rdg wit="#G">anē</rdg>
                      <rdg wit="#ε #μ #φ">anni</rdg>
@@ -14096,14 +14116,14 @@
                <l n="68">qui sata riparum <app>
                      <lem wit="#N #G #A" source="#GlaeserSqq">vernantibus</lem>
                      <rdg wit="#V" source="#eddAnteGlaeser">venientibus</rdg>
-                     <rdgGrp type="conjectures">
+                     <rdgGrp type="conjecture">
                         <rdg source="#Heins.">vernantibus</rdg>
                         <rdg source="#Heins.">refluentibus</rdg>
                      </rdgGrp>
                      <!-- vernantibus vel refluentibus Heins. -->
                   </app> irrigat undis.</l>
                <l n="69"><app>
-                     <lem source="#Baehr. #Schenkl" ana="#emendation">a!</lem>
+                     <lem source="#Baehr. #Schenkl" type="emendation">a!</lem>
                      <rdg wit="#N #G #ν #λ #α #φ" source="#edd.">ah</rdg>
                      <rdg wit="#V #e #u #b" source="#i1">ha</rdg>
                   </app>
@@ -14115,7 +14135,7 @@
                      <rdg wit="#α">quotiens trepidi</rdg>
                   </app>
                   <app>
-                     <lem source="#Haupt1854 #Schenkl" ana="#emendation">sola discedentis</lem>
+                     <lem source="#Haupt1854 #Schenkl" type="emendation">sola discedentis</lem>
                      <rdg wit="#N" xml:id="rdg7.69sol_discedentis">sol discedentis</rdg>
                      <note target="#rdg7.69sol_discedentis">(<hi rend="italic">nos</hi> supra <hi rend="italic">sol</hi>
                         <ref target="#N2">N²</ref>)--></note>
@@ -14133,7 +14153,7 @@
                      <rdg source="#Maehly">vidimus in praeceps</rdg>
                      <rdg source="#Haupt1854 #Schenkl">vidimus inverti</rdg>
                      <rdg wit="#π2" source="#o">vidimus in pratis</rdg>
-                     <rdgGrp type="conjectures">
+                     <rdgGrp type="conjecture">
                         <rdg source="#Burm.">vidimus absorptas</rdg>
                         <rdg source="#Burm.">vidimus immersas</rdg>
                      </rdgGrp>
@@ -14152,7 +14172,7 @@
                      <rdg wit="#G">ferat</rdg>
                      <rdg wit="#d #s">foras</rdg>
                   </app>; <app>
-                     <lem source="#Baehr. #Schenkl" ana="#emendation">et in isdem</lem>
+                     <lem source="#Baehr. #Schenkl" type="emendation">et in isdem</lem>
                      <rdg wit="#N">in hisdem</rdg>
                      <rdg wit="#G">in hysdem</rdg>
                      <rdg wit="#ρ1">in iisdem</rdg>
@@ -14220,7 +14240,7 @@
                      <rdg source="#Baehr.">pronos</rdg>
                   </app></l>
                <l n="75">indulgente deo <app>
-                     <lem source="#Barth #BurmSqq" ana="#emendation">demittere</lem>
+                     <lem source="#Barth #BurmSqq" type="emendation">demittere</lem>
                      <rdg wit="#N #V" source="#eddAnteBurm">dimittere</rdg>
                      <rdg wit="#G">dimictere</rdg>
                      <rdg wit="#α">dimittite</rdg>
@@ -14250,7 +14270,7 @@
                   </app>
                   <app>
                      <lem>vultumque habitumque</lem>
-                     <rdgGrp type="conjectures">
+                     <rdgGrp type="conjecture">
                         <rdg source="#Haupt1854">vultus habitusque</rdg>
                         <rdg source="#Haupt1854">habitum vultumque</rdg>
                      </rdgGrp>
@@ -14325,7 +14345,7 @@
                      <lem>Apollinis</lem>
                      <rdg wit="#N">apolonis</rdg>
                   </app> esse <app>
-                     <lem source="#Leo" xml:id="lem7.84putato" ana="#emendation">putato</lem>
+                     <lem source="#Leo" xml:id="lem7.84putato" type="emendation">putato</lem>
                      <note target="#lem7.84putato">(<ref target="https://books.google.com/books?id=vABMAAAAYAAJ&amp;pg=PA620#v=onepage&amp;q&amp;f=false">l. l. p. 620</ref>)</note>
                      <rdg wit="#N #G #V #r #s" source="#n #o #Glaeser #Schenkl">putatur</rdg>
                      <rdg wit="#A #H #γ #ε" source="#edd.">putavi</rdg>

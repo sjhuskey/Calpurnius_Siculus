@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-    <interpretation type="Kaster">
+        <interpGrp type="Kaster">
         <interp xml:id="k1">
             Lexical: a reading that differs from the accepted reading by offering an entirely different lexeme.
         </interp>
@@ -21,4 +21,9 @@
         <interp xml:id="k7">
             Additive: an interpolation, i.e., some text judged by the editor to have entered the tradition through the mistaken or deliberate copying of auxiliary material (e.g., glosses, marginalia, etc.)
         </interp>
-    </interpretation>
+    </interpGrp>
+<list>
+    <head>Types</head>
+    <item>emendation</item>
+    <item>conjecture</item>
+</list>
