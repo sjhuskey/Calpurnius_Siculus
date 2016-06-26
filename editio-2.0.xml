@@ -3821,7 +3821,7 @@
                                 <lem>ubi</lem>
                                 <rdg wit="#G"><add place="margin">ut</add></rdg>
                             </app> fagus aquas radice sub ipsa</l>
-                        <l n="12"><app ana="error">
+                        <l n="12"><app ana="morphological">
                                 <lem xml:id="lem1.12protegit">protegit</lem>
                                 <rdgGrp type="anteCorr">
                                     <rdg wit="#G" varSeq="1">protegis</rdg>
