@@ -3786,12 +3786,12 @@
                                 <lem>nemus</lem>
                                 <rdg wit="#G1"><add place="margin">nemora</add></rdg>
                             </app>, <app type="transposition" ana="#ordinal">
-                                <lem wit="#N #G" source="#GlaeserSqq" xml:id="l8a1lem1" exclude="l9a1rdg1">antra</lem>
-                                <rdg wit="#P #V" source="#eddAnteGlaeser" xml:id="l8a1rdg1" exclude="l9a1lem1">ista</rdg>
+                                <lem wit="#N #G" source="#GlaeserSqq" xml:id="l8a1lem1" require="#l9a1lem1">antra</lem>
+                                <rdg wit="#P #V" source="#eddAnteGlaeser" xml:id="l8a1rdg1" require="#l9a1rdg1">ista</rdg>
                             </app> petamus</l>
                         <l n="9"><app type="transposition" ana="#ordinal">
-                                <lem wit="#N #G" source="#GlaeserSqq" xml:id="l9a1lem1" exclude="#l8a1rdg1">ista</lem>
-                                <rdg wit="#P #V" source="#eddAnteGlaeser" xml:id="l9a1rdg1" exclude="l8a1lem1">antra</rdg>
+                                <lem wit="#N #G" source="#GlaeserSqq" xml:id="l9a1lem1" require="#l8a1lem1">ista</lem>
+                                <rdg wit="#P #V" source="#eddAnteGlaeser" xml:id="l9a1rdg1" require="#l8a1rdg1">antra</rdg>
                             </app> patris Fauni, <app ana="#orthographical">
                                 <lem>graciles</lem>
                                 <rdg wit="#V">gracilis </rdg>
