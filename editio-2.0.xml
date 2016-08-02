@@ -36,7 +36,9 @@
                     <monogr>
                         <title level="m">Calpurnii et Nemesiani Bucolica</title>
                         <editor ref="http://viaf.org/viaf/79016214">
-                            <forename>Caesar</forename><surname>Giarratano</surname></editor>
+                            <forename>Caesar</forename>
+                            <surname>Giarratano</surname>
+                        </editor>
                         <imprint>
                             <pubPlace>Naples</pubPlace>
                             <publisher>Detken et Rocholl</publisher>
@@ -1340,7 +1342,8 @@
             <div type="bibliography">
                 <list>
                     <head>Manuscripts</head>
-                    <item><listWit>
+                    <item>
+                        <listWit>
                             <head>First family</head>
                             <witness xml:id="N" n="N"
                                 corresp="#CodexNeapolitanusLat #CodexNeapolitanusTrans">Codex
@@ -1393,8 +1396,10 @@
                                     </physDesc>
                                     <history>
                                         <origin>
-                                            <origDate notAfter="1500" notBefore="1400">XV</origDate>
-                                            <note>saec. XV ineunte scriptus</note>
+                                            <origDate notAfter="1500" notBefore="1400"
+                                                xml:id="witGdate">XV</origDate>
+                                            <note target="#witGdate">saec. XV ineunte
+                                                scriptus</note>
                                         </origin>
                                     </history>
                                 </msDesc>
@@ -1902,12 +1907,14 @@
                 </list>
                 <!-- A list of incunabula, i.e., early editions that might reproduce a single manuscript -->
                 <listBibl type="Witness">
-                    <head>Incunabula</head>
+                    <head>Early Editions</head>
                     <biblStruct xmlns="http://www.tei-c.org/ns/1.0" type="book" xml:id="r" n="r"
                         corresp="http://zotero.org/groups/542622/items/4HH3IVEM">
                         <monogr>
                             <title level="m">[Bucolica]</title>
-                            <editor><name>Anonymous</name></editor>
+                            <editor>
+                                <name>Anonymous</name>
+                            </editor>
                             <imprint>
                                 <pubPlace>Rome</pubPlace>
                                 <publisher>Schweynheim and Pannartz</publisher>
@@ -1919,7 +1926,9 @@
                         corresp="http://zotero.org/groups/542622/items/HJEKZCCV">
                         <monogr>
                             <title level="m">[Bucolica]</title>
-                            <editor><name>Anonymous</name></editor>
+                            <editor>
+                                <name>Anonymous</name>
+                            </editor>
                             <imprint>
                                 <pubPlace>Venice</pubPlace>
                                 <publisher>Ausonius and Giradinus</publisher>
@@ -1932,14 +1941,18 @@
                             n="d¹" corresp="http://zotero.org/groups/542622/items/3M528XCJ">
                             <monogr>
                                 <title level="m">[Bucolica]</title>
-                                <author><forename>Titus</forename><surname>Calpurnius
-                                        Siculus</surname></author>
-                                <editor><name>Anonymous</name></editor>
+                                <author>
+                                    <forename>Titus</forename>
+                                    <surname>Calpurnius Siculus</surname>
+                                </author>
+                                <editor>
+                                    <name>Anonymous</name>
+                                </editor>
                                 <imprint>
                                     <pubPlace>Daventer</pubPlace>
-                                    <publisher>Paffraet, Richard, 1477-1511</publisher>
+                                    <publisher>Paffraet, Richard</publisher>
                                     <date>1488</date>
-                                    <note type="url"
+                                    <note target="#d1" type="url"
                                         >http://gateway.proquest.com/openurl?url_ver=Z39.88-2004&amp;res_dat=xri:eurobo:&amp;rft_dat=xri:eurobo:rec:ned-kbn-all-00001955-001</note>
                                 </imprint>
                             </monogr>
@@ -1948,12 +1961,14 @@
                             n="d²" corresp="http://zotero.org/groups/542622/items/8UKTTQ6Z">
                             <monogr>
                                 <title level="m">Titi Calphurnii Siculi Bucolicum carmen</title>
-                                <editor><name>Anonymous</name></editor>
+                                <editor>
+                                    <name>Anonymous</name>
+                                </editor>
                                 <imprint>
                                     <pubPlace>Daventer</pubPlace>
                                     <publisher>Jacobus de Breda</publisher>
                                     <date>1491</date>
-                                    <note type="url"
+                                    <note target="#d2" type="url"
                                         >http://daten.digitale-sammlungen.de/~db/0008/bsb00080128/images/</note>
                                 </imprint>
                             </monogr>
@@ -1963,12 +1978,14 @@
                         corresp="http://zotero.org/groups/542622/items/3AU7SFI3">
                         <monogr>
                             <title level="m">[Bucolica]</title>
-                            <editor><name>Anonymous</name></editor>
+                            <editor>
+                                <name>Anonymous</name>
+                            </editor>
                             <imprint>
                                 <pubPlace>Parma</pubPlace>
                                 <publisher>Angelius Ugoletus</publisher>
                                 <date>1492</date>
-                                <note type="url"
+                                <note target="#u" type="url"
                                     >http://gateway.proquest.com/openurl?url_ver=Z39.88-2004&amp;res_dat=xri:eurobo:&amp;rft_dat=xri:eurobo:rec:ned-kbn-all-00001955-001%20http://gateway.proquest.com/openurl?url_ver=Z39.88-2004&amp;res_dat=xri:eurobo:&amp;rft_dat=xri:eurobo:thumbnails:ned-kbn-all-00002095-001%20http://daten.digitale-sammlungen.de/~db/0008/bsb00080128/images/</note>
                             </imprint>
                         </monogr>
@@ -1978,14 +1995,18 @@
                         <monogr>
                             <title level="m">Buccolica canozi poete Titi calphurnii Siculi underin
                                 Aeglogis iucunditer derantata</title>
-                            <editor><name>Anonymous</name></editor>
-                            <author><forename>Titus</forename><surname>Calpurnius
-                                Siculus</surname></author>
+                            <editor>
+                                <name>Anonymous</name>
+                            </editor>
+                            <author>
+                                <forename>Titus</forename>
+                                <surname>Calpurnius Siculus</surname>
+                            </author>
                             <imprint>
                                 <pubPlace>Cologne</pubPlace>
                                 <publisher>Heinrich Quentel</publisher>
                                 <date>1505</date>
-                                <note type="url"
+                                <note target="#c" type="url"
                                     >http://digitale.bibliothek.uni-halle.de/id/1000626</note>
                             </imprint>
                         </monogr>
@@ -1994,7 +2015,9 @@
                         n="Nordh." corresp="http://zotero.org/groups/542622/items/UAZU56E4">
                         <monogr>
                             <title level="m">[Bucolica]</title>
-                            <editor><name>Anonymous</name></editor>
+                            <editor>
+                                <name>Anonymous</name>
+                            </editor>
                             <imprint>
                                 <pubPlace>Nordheim</pubPlace>
                                 <publisher>s. n.</publisher>
@@ -2007,13 +2030,15 @@
                         <monogr>
                             <title level="m">Buccolica, cum adnotatione Ascensiana, jam diligentius
                                 recognita</title>
-                            <editor xml:id="Ascensius"><forename>Josse</forename><surname>Badius
-                                    ("Ascensius")</surname></editor>
+                            <editor xml:id="Ascensius">
+                                <forename>Josse</forename>
+                                <surname>Badius ("Ascensius")</surname>
+                            </editor>
                             <imprint>
                                 <pubPlace>Paris</pubPlace>
                                 <publisher>In vico Maturinorum a Durando Gerlerio</publisher>
                                 <date>1503</date>
-                                <note type="url"
+                                <note target="#s" type="url"
                                     >http://gallica.bnf.fr/ark:/12148/bpt6k841539v</note>
                             </imprint>
                         </monogr>
@@ -2023,16 +2048,23 @@
                         <monogr>
                             <title level="m">Calpurnii &amp; Nemesiani poetarum Buccolicum carmen
                                 una cum commentariis Diomedis Guidalotti Bononiensis</title>
-                            <author><forename>Titus
-                                Calpurnius</forename><surname>Siculus</surname></author>
-                            <author><forename>Marcus Aurelius
-                                    Olympius</forename><surname>Nemesianus</surname></author>
-                            <editor><forename>Diomede</forename><surname>Guidalotti</surname></editor>
+                            <author>
+                                <forename>Titus Calpurnius</forename>
+                                <surname>Siculus</surname>
+                            </author>
+                            <author>
+                                <forename>Marcus Aurelius Olympius</forename>
+                                <surname>Nemesianus</surname>
+                            </author>
+                            <editor>
+                                <forename>Diomede</forename>
+                                <surname>Guidalotti</surname>
+                            </editor>
                             <imprint>
                                 <pubPlace>Bologna</pubPlace>
                                 <publisher>Caligula Bazalerius</publisher>
                                 <date>1504</date>
-                                <note type="url"
+                                <note target="#m" type="url"
                                     >https://books.google.com/books?id=B1RrV7ciP6gC&amp;dq=Guidalotti&amp;pg=PT3#v=onepage&amp;q=Guidalotti&amp;f=false</note>
                             </imprint>
                         </monogr>
@@ -2042,12 +2074,15 @@
                 <listBibl type="Source">
                     <head>Modern Editions</head>
                     <listBibl type="Consensus" xml:id="i" n="i">
+                        <!-- Should a consensus siglum be an xml:id on a <listBibl> containing the items, or a separate siglum listed elsewhere? -->
                         <biblStruct xmlns="http://www.tei-c.org/ns/1.0" type="book" xml:id="i1"
                             n="i¹" corresp="http://zotero.org/groups/542622/items/PU7NWNA7">
                             <monogr>
                                 <title level="m">[Bucolica]</title>
-                                <editor><forename>Benedictus Philologus
-                                        ("Ricardinus")</forename><surname>Florentinus</surname></editor>
+                                <editor>
+                                    <forename>Benedictus Philologus ("Ricardinus")</forename>
+                                    <surname>Florentinus</surname>
+                                </editor>
                                 <imprint>
                                     <pubPlace>Florence</pubPlace>
                                     <publisher>Philippi de Giunta</publisher>
@@ -2062,18 +2097,27 @@
                                     Calphurnii Siculi Bucolica. Nuper à situ, &amp; squallore
                                     vindicata, nouisque commentarijs exposita opera, ac studio
                                     Roberti Titii Burgensis. ..</title>
-                                <author><forename>Marcus Aurelius
-                                        Olympius</forename><surname>Nemesianus</surname></author>
-                                <author><forename>Ugolino</forename><surname>Martelli</surname></author>
-                                <editor xml:id="Tit." n="Tit."
-                                        ><forename>Roberto</forename><surname>Titi</surname></editor>
-                                <author><forename>Titus
-                                        Calpurnius</forename><surname>Siculus</surname></author>
+                                <author>
+                                    <forename>Marcus Aurelius Olympius</forename>
+                                    <surname>Nemesianus</surname>
+                                </author>
+                                <author>
+                                    <forename>Ugolino</forename>
+                                    <surname>Martelli</surname>
+                                </author>
+                                <editor xml:id="Tit." n="Tit.">
+                                    <forename>Roberto</forename>
+                                    <surname>Titi</surname>
+                                </editor>
+                                <author>
+                                    <forename>Titus Calpurnius</forename>
+                                    <surname>Siculus</surname>
+                                </author>
                                 <imprint>
                                     <pubPlace>Florence</pubPlace>
                                     <publisher>apud Philippum Iunctam</publisher>
                                     <date>1590</date>
-                                    <note type="url"
+                                    <note target="#i2" type="url"
                                         >https://books.google.com/books?id=9SEvnoZgKe4C&amp;pg=PR1#v=onepage&amp;q&amp;f=false</note>
                                 </imprint>
                             </monogr>
@@ -2084,12 +2128,14 @@
                             n="l¹" corresp="http://zotero.org/groups/542622/items/RD6GJ6HB">
                             <monogr>
                                 <title level="m">[Bucolica]</title>
-                                <editor><name>Anonymous</name></editor>
+                                <editor>
+                                    <name>Anonymous</name>
+                                </editor>
                                 <imprint>
                                     <pubPlace>Venice</pubPlace>
                                     <publisher>Aldus Manutius</publisher>
                                     <date>1518</date>
-                                    <note type="url"
+                                    <note target="#l1" type="url"
                                         >http://gateway.proquest.com/openurl?url_ver=Z39.88-2004&amp;res_dat=xri:eurobo:&amp;rft_dat=xri:eurobo:rec:ita-bnc-ald-00000030-001</note>
                                 </imprint>
                             </monogr>
@@ -2105,12 +2151,15 @@
                                     Cardinalis uenatio.</title>
                                 <title type="short">Hoc volumine continentur Poetae tres egregii
                                     primum in lucem editi</title>
-                                <editor><forename>Georgius</forename><surname>Logus</surname></editor>
+                                <editor>
+                                    <forename>Georgius</forename>
+                                    <surname>Logus</surname>
+                                </editor>
                                 <imprint>
                                     <pubPlace>Venice</pubPlace>
                                     <publisher>Aldus Manutius</publisher>
                                     <date>1534</date>
-                                    <note type="url"
+                                    <note target="#l2" type="url"
                                         >https://books.google.com/books?id=EYg6AAAAcAAJ&amp;pg=PA1#v=onepage&amp;q&amp;f=false</note>
                                 </imprint>
                             </monogr>
@@ -2120,7 +2169,9 @@
                         n="Vienn." corresp="http://zotero.org/groups/542622/items/75J7MMCR">
                         <monogr>
                             <title level="m">[Bucolica]</title>
-                            <editor><name>Anonymous</name></editor>
+                            <editor>
+                                <name>Anonymous</name>
+                            </editor>
                             <imprint>
                                 <pubPlace>Vienna</pubPlace>
                                 <publisher>s. n.</publisher>
@@ -2134,17 +2185,23 @@
                             <title level="m">Ludi literarii: magistris vultis auditoribus vestris,
                                 bene loquendi amussim egregiam tradere : adeste queso</title>
                             <title type="short">Ludi literarii</title>
-                            <author><forename>Titus
-                                Calpurnius</forename><surname>Siculus</surname></author>
-                            <author><forename>Marcus Aurelius
-                                    Olympius</forename><surname>Nemesianus</surname></author>
-                            <editor><forename>Johann
-                                    Alexander</forename><surname>Brassicanus</surname></editor>
+                            <author>
+                                <forename>Titus Calpurnius</forename>
+                                <surname>Siculus</surname>
+                            </author>
+                            <author>
+                                <forename>Marcus Aurelius Olympius</forename>
+                                <surname>Nemesianus</surname>
+                            </author>
+                            <editor>
+                                <forename>Johann Alexander</forename>
+                                <surname>Brassicanus</surname>
+                            </editor>
                             <imprint>
                                 <pubPlace>Hagenau/Strasburg</pubPlace>
                                 <publisher>Knobloch</publisher>
                                 <date>1519</date>
-                                <note type="url"
+                                <note target="#n" type="url"
                                     >https://books.google.com/books?id=n8JSAAAAcAAJ&amp;pg=PA1#v=onepage&amp;q&amp;f=false</note>
                             </imprint>
                         </monogr>
@@ -2158,12 +2215,15 @@
                                 Aurelii Olympii Nemesiani Cynegeticon lib. I; Eiusdem carmen
                                 bucolicum; T. Calphurnii Siculi Bucolica, Augusta Videlicorum,
                                 1534</title>
-                            <editor><forename>Georgius</forename><surname>Logus</surname></editor>
+                            <editor>
+                                <forename>Georgius</forename>
+                                <surname>Logus</surname>
+                            </editor>
                             <imprint>
                                 <pubPlace>Augsbourg</pubPlace>
                                 <publisher>Henricus Steyner</publisher>
                                 <date>1534</date>
-                                <note type="url"
+                                <note target="#g" type="url"
                                     >http://daten.digitale-sammlungen.de/~db/0003/bsb00038602/images/</note>
                             </imprint>
                         </monogr>
@@ -2173,13 +2233,15 @@
                         <monogr>
                             <title level="m">Titi Calphurnii Siculi et Aurelii Nemesiani
                                 eclogae</title>
-                            <editor><name>Anonymous</name></editor>
+                            <editor>
+                                <name>Anonymous</name>
+                            </editor>
                             <imprint>
                                 <pubPlace>Zurich</pubPlace>
                                 <publisher>Christoph Froschauer</publisher>
                                 <date>1537</date>
                                 <note type="accessed">2016-05-24T15:57:49Z</note>
-                                <note type="url"
+                                <note target="#Tig." type="url"
                                     >http://reader.digitale-sammlungen.de/resolve/display/bsb11088503.html</note>
                             </imprint>
                         </monogr>
@@ -2191,20 +2253,34 @@
                                 liber acephalus. Marci-Aurelii Olympii Nemesiani Cynegeticon liber
                                 I. Ejusdem carmen bucolicum Titi Calphurnii Siculi Bucolica. Adriani
                                 Cardinalis venatio</title>
-                            <author><forename>Gratius</forename><surname>Faliscus</surname></author>
-                            <author><forename>Publius
-                                Ovidius</forename><surname>Naso</surname></author>
-                            <author><forename>Marcus Aurelius
-                                    Olympius</forename><surname>Nemesianus</surname></author>
-                            <author><forename>Titus
-                                Calpurnius</forename><surname>Siculus</surname></author>
-                            <author><forename>Adriano</forename><surname>Castellesi</surname></author>
-                            <editor><name>Anonymous</name></editor>
+                            <author>
+                                <forename>Gratius</forename>
+                                <surname>Faliscus</surname>
+                            </author>
+                            <author>
+                                <forename>Publius Ovidius</forename>
+                                <surname>Naso</surname>
+                            </author>
+                            <author>
+                                <forename>Marcus Aurelius Olympius</forename>
+                                <surname>Nemesianus</surname>
+                            </author>
+                            <author>
+                                <forename>Titus Calpurnius</forename>
+                                <surname>Siculus</surname>
+                            </author>
+                            <author>
+                                <forename>Adriano</forename>
+                                <surname>Castellesi</surname>
+                            </author>
+                            <editor>
+                                <name>Anonymous</name>
+                            </editor>
                             <imprint>
                                 <pubPlace>Lyon</pubPlace>
                                 <publisher>Sebastian Gryphius</publisher>
                                 <date>1537</date>
-                                <note type="url"
+                                <note target="#Gryph." type="url"
                                     >https://books.google.com/books?id=JpJXAAAAcAAJ&amp;pg=PA1#v=onepage&amp;q&amp;f=false</note>
                             </imprint>
                         </monogr>
@@ -2221,7 +2297,9 @@
                             <title type="short">En habes lector Bucolicorum autores XXXVIII.
                                 quotquot vivelicet à Vergilij aetate ad nostra usqz tempora...
                                 nancisci in praesentia licuit</title>
-                            <editor><name>Anonymous</name></editor>
+                            <editor>
+                                <name>Anonymous</name>
+                            </editor>
                             <imprint>
                                 <pubPlace>Basel</pubPlace>
                                 <publisher>Johannes Oporinus</publisher>
@@ -2233,11 +2311,13 @@
                         corresp="http://zotero.org/groups/542622/items/28VQ2B67">
                         <monogr>
                             <title level="m">Epigrammata et poematia vetera</title>
-                            <editor><name>Anonymous</name></editor>
+                            <editor>
+                                <name>Anonymous</name>
+                            </editor>
                             <imprint>
                                 <pubPlace>Paris</pubPlace>
                                 <date>1590</date>
-                                <note type="url"
+                                <note target="#p" type="url"
                                     >https://books.google.com/books?id=F_E6AAAAcAAJ&amp;pg=PR6#v=onepage&amp;q&amp;f=false</note>
                             </imprint>
                         </monogr>
@@ -2250,11 +2330,13 @@
                                 seriem temporum, et quinque libri distinctum, in quo continentur
                                 omnia ipsorum opera seu fragmenta quae reperiuntur, cui praefixa est
                                 unius cujusque poetae vita</title>
-                            <editor><name>Anonymous</name></editor>
+                            <editor>
+                                <name>Anonymous</name>
+                            </editor>
                             <imprint>
                                 <publisher>Samuel Crispinus</publisher>
                                 <date>1611</date>
-                                <note type="url"
+                                <note target="#edAurel" type="url"
                                     >https://books.google.com/books?id=Q-EPAAAAQAAJ&amp;dq=Corpus%20omnium%20veterum%20poetarum%20latinorum%201611&amp;pg=PA497#v=onepage&amp;q=Corpus%20omnium%20veterum%20poetarum%20latinorum%201611&amp;f=false</note>
                             </imprint>
                         </monogr>
@@ -2265,14 +2347,25 @@
                             <title level="m">Venatici Et Bvcolici Poetae Latini, Gratius,
                                 Nemesianus, Calpurnius, In Germania hactenus non editi, nunc
                                 Commentariis luculentis explanati.</title>
-                            <author><name>Grattius</name></author>
-                            <author><forename>Titus
-                                Vestricius</forename><surname>Spurinna</surname></author>
-                            <author><forename>Marcus Aurelius
-                                    Olympius</forename><surname>Nemesianus</surname></author>
-                            <author><forename>Titus
-                                Calpurnius</forename><surname>Siculus</surname></author>
-                            <editor><forename>Kaspar von</forename><surname>Barth</surname></editor>
+                            <author>
+                                <name>Grattius</name>
+                            </author>
+                            <author>
+                                <forename>Titus Vestricius</forename>
+                                <surname>Spurinna</surname>
+                            </author>
+                            <author>
+                                <forename>Marcus Aurelius Olympius</forename>
+                                <surname>Nemesianus</surname>
+                            </author>
+                            <author>
+                                <forename>Titus Calpurnius</forename>
+                                <surname>Siculus</surname>
+                            </author>
+                            <editor>
+                                <forename>Kaspar von</forename>
+                                <surname>Barth</surname>
+                            </editor>
                             <imprint>
                                 <pubPlace>Hanau</pubPlace>
                                 <publisher>In Bibliopolio Willieriano</publisher>
@@ -2285,14 +2378,16 @@
                         <monogr>
                             <title level="m">Venatio Novantiqua Celsissimo Arausionis Principi
                                 Guilhelmo Dictata.</title>
-                            <editor><forename>Jan
-                                    van</forename><surname>Vliet</surname><addName>Janus
-                                    Ulitius</addName></editor>
+                            <editor>
+                                <forename>Jan van</forename>
+                                <surname>Vliet</surname>
+                                <addName>Janus Ulitius</addName>
+                            </editor>
                             <imprint>
                                 <pubPlace>Leiden</pubPlace>
                                 <publisher>ex Officina Elzeviriana</publisher>
                                 <date>1645</date>
-                                <note type="url"
+                                <note target="#Ulit." type="url"
                                     >https://books.google.com/books?id=Yb09AAAAcAAJ&amp;pg=PP1#v=onepage&amp;q&amp;f=false</note>
                             </imprint>
                         </monogr>
@@ -2302,13 +2397,15 @@
                         <monogr>
                             <title level="m">Poetae latini rei venaticae scriptores et bucolici
                                 antiqui</title>
-                            <editor><name>Anonymous</name></editor>
+                            <editor>
+                                <name>Anonymous</name>
+                            </editor>
                             <imprint>
                                 <pubPlace>Lugduni Batavorum et Hagae Comitum</pubPlace>
                                 <publisher>Apud Johannem Arnoldum Langerak P. Gosse et J. Naeulme:
                                     Rutg. Christoph Alerts, J. Vander Kloot</publisher>
                                 <date>1728</date>
-                                <note type="url"
+                                <note target="#h" type="url"
                                     >https://books.google.com/books?id=nJVAAAAAcAAJ&amp;pg=PP9#v=onepage&amp;q&amp;f=false</note>
                             </imprint>
                         </monogr>
@@ -2322,12 +2419,15 @@
                                 Serenus Samonicus De Medicina, Vindicianus Sive Marcellus De
                                 Medicina. Q. Rhemnius Fannius Palaemon De Ponderibus &amp; Mensuris,
                                 Et Sulpiciae Satyra</title>
-                            <editor><forename>Pieter</forename><surname>Burman</surname></editor>
+                            <editor>
+                                <forename>Pieter</forename>
+                                <surname>Burman</surname>
+                            </editor>
                             <imprint>
                                 <pubPlace>Leiden</pubPlace>
                                 <publisher>Conrad Wishoff Et Daniel Goedval</publisher>
                                 <date>1731</date>
-                                <note type="url"
+                                <note target="#Burm." type="url"
                                     >https://books.google.com/books?id=uKZAAAAAcAAJ&amp;pg=PP9#v=onepage&amp;q&amp;f=false</note>
                             </imprint>
                         </monogr>
@@ -2340,14 +2440,19 @@
                                 Titii, Martelli, Vlitii et Petri Burmanni integris</title>
                             <title type="short">M. Aurelii Olympii Nemesiani Eclogae IV et T.
                                 Calpurnii Siculi Eclogae VII ad Nemesianum Carthaginiensem</title>
-                            <author><forename>Marcus Aurelius
-                                    Olympius</forename><surname>Nemesianus</surname></author>
-                            <editor><forename>Pieter</forename><surname>Burman</surname></editor>
+                            <author>
+                                <forename>Marcus Aurelius Olympius</forename>
+                                <surname>Nemesianus</surname>
+                            </author>
+                            <editor>
+                                <forename>Pieter</forename>
+                                <surname>Burman</surname>
+                            </editor>
                             <imprint>
                                 <pubPlace>Jelgava, Latvia</pubPlace>
                                 <publisher>Jacob Friederich Hinzius</publisher>
                                 <date>1774</date>
-                                <note type="url"
+                                <note target="#t" type="url"
                                     >https://books.google.com/books?id=eNUpAAAAYAAJ&amp;pg=PP11#v=onepage&amp;q&amp;f=false</note>
                             </imprint>
                         </monogr>
@@ -2360,13 +2465,15 @@
                                 Avcvpio Et Piscatv Carmina Et Fragmenta : In Fine Additvm Est
                                 Olympii Nemesiani Carmen De Lavdibvs Hercvlis</title>
                             <title type="short">Poetae Latini Minores</title>
-                            <editor><forename>Johann
-                                    Christian</forename><surname>Wernsdorf</surname></editor>
+                            <editor>
+                                <forename>Johann Christian</forename>
+                                <surname>Wernsdorf</surname>
+                            </editor>
                             <imprint>
                                 <pubPlace>Altenburg</pubPlace>
                                 <publisher>Richter</publisher>
                                 <date>1780</date>
-                                <note type="url"
+                                <note target="#Wernsd." type="url"
                                     >https://books.google.com/books?id=A8w9AAAAcAAJ&amp;pg=PR1#v=onepage&amp;q&amp;f=false</note>
                             </imprint>
                         </monogr>
@@ -2375,15 +2482,19 @@
                         n="Beck" corresp="http://zotero.org/groups/542622/items/3MPBKF2T">
                         <monogr>
                             <title level="m">T. Calpurnii Siculi Eclogae XI</title>
-                            <author><forename>Titus
-                                Calpurnius</forename><surname>Siculus</surname></author>
-                            <editor><forename>Christian
-                                Daniel</forename><surname>Beck</surname></editor>
+                            <author>
+                                <forename>Titus Calpurnius</forename>
+                                <surname>Siculus</surname>
+                            </author>
+                            <editor>
+                                <forename>Christian Daniel</forename>
+                                <surname>Beck</surname>
+                            </editor>
                             <imprint>
                                 <pubPlace>Leipzig</pubPlace>
                                 <publisher>In Libraria Weidmannia</publisher>
                                 <date>1803</date>
-                                <note type="url"
+                                <note target="#Beck" type="url"
                                     >https://books.google.com/books?id=w6QBAAAAYAAJ&amp;pg=PR2#v=onepage&amp;q&amp;f=false</note>
                             </imprint>
                         </monogr>
@@ -2394,12 +2505,15 @@
                             <title level="m">T. Calpurnii Siculi Eclogae: ad optimos codices et
                                 editiones</title>
                             <title type="short">T. Calpurnii Siculi Eclogae</title>
-                            <editor><forename>C. E.</forename><surname>Glaeser</surname></editor>
+                            <editor>
+                                <forename>C. E.</forename>
+                                <surname>Glaeser</surname>
+                            </editor>
                             <imprint>
                                 <pubPlace>Göttingen</pubPlace>
                                 <publisher>Sumptibus Dieterichianis</publisher>
                                 <date>1842</date>
-                                <note type="url"
+                                <note target="#Glaeser" type="url"
                                     >https://books.google.com/books?id=4sdEAAAAIAAJ&amp;pg=PP5#v=onepage&amp;q&amp;f=false</note>
                             </imprint>
                         </monogr>
@@ -2408,12 +2522,15 @@
                         n="Baehr." corresp="http://zotero.org/groups/542622/items/E9ZPSHX4">
                         <monogr>
                             <title level="m">Poetae latini minores</title>
-                            <editor><forename>Emil</forename><surname>Baehrens</surname></editor>
+                            <editor>
+                                <forename>Emil</forename>
+                                <surname>Baehrens</surname>
+                            </editor>
                             <imprint>
                                 <pubPlace>Leipzig</pubPlace>
                                 <publisher>in aedibus B. G. Teubneri</publisher>
                                 <date>1881</date>
-                                <note type="url"
+                                <note target="#Baehr." type="url"
                                     >https://books.google.com/books?id=CjUOAAAAYAAJ&amp;pg=PA1#v=onepage&amp;q&amp;f=false</note>
                             </imprint>
                         </monogr>
@@ -2424,11 +2541,16 @@
                             corresp="http://zotero.org/groups/542622/items/APRCIUZW">
                             <monogr>
                                 <title level="m">Calpurnii et Nemesiani Bucolica</title>
-                                <editor><forename>Henricus</forename><surname>Schenkl</surname></editor>
+                                <editor>
+                                    <forename>Henricus</forename>
+                                    <surname>Schenkl</surname>
+                                </editor>
                                 <imprint>
                                     <pubPlace>Leipzig</pubPlace>
                                     <publisher>Freytag Pragae Tempsky</publisher>
                                     <date>1885</date>
+                                    <note target="#Schenkl1" type="url"
+                                        >https://books.google.com/books?id=kuVGAQAAIAAJ&amp;pg=PR1#v=onepage&amp;q&amp;f=false</note>
                                 </imprint>
                             </monogr>
                         </biblStruct>
@@ -2438,15 +2560,20 @@
                             <monogr>
                                 <title level="m">Corpus poetarvm latinorvm a se aliisqve denvo
                                     recognitorvm et brevi lectionvum varietate instructorvm</title>
-                                <editor><forename>Henricus</forename><surname>Schenkl</surname></editor>
-                                <editor><forename>John
-                                        Percival</forename><surname>Postgate</surname></editor>
+                                <editor>
+                                    <forename>Henricus</forename>
+                                    <surname>Schenkl</surname>
+                                </editor>
+                                <editor>
+                                    <forename>John Percival</forename>
+                                    <surname>Postgate</surname>
+                                </editor>
                                 <imprint>
                                     <pubPlace>London</pubPlace>
                                     <publisher>G. Bell et Filiorum</publisher>
                                     <date>1905</date>
                                     <note type="accessed">2016-05-25T16:12:42Z</note>
-                                    <note type="url"
+                                    <note target="#Schenkl2" type="url"
                                         >https://archive.org/stream/corpuspoetaruml01postgoog#page/n7/mode/2up</note>
                                 </imprint>
                             </monogr>
@@ -2457,10 +2584,14 @@
                         <monogr>
                             <title level="m">The Eclogues of Calpurnius Siculus and M. Aurelius
                                 Olympius Nemesianus</title>
-                            <author><forename>Titus</forename><surname>Calpurnius
-                                Siculus</surname></author>
-                            <editor><forename>Charles
-                                Haines</forename><surname>Keene</surname></editor>
+                            <author>
+                                <forename>Titus</forename>
+                                <surname>Calpurnius Siculus</surname>
+                            </author>
+                            <editor>
+                                <forename>Charles Haines</forename>
+                                <surname>Keene</surname>
+                            </editor>
                             <respStmt>
                                 <resp>contributor</resp>
                                 <persName/>
@@ -2470,7 +2601,7 @@
                                 <publisher>London, Bell</publisher>
                                 <date>1887</date>
                                 <note type="accessed">2016-05-25T15:48:40Z</note>
-                                <note type="url"
+                                <note target="#Keene" type="url"
                                     >http://archive.org/details/ecloguesofcalpur00calpuoft</note>
                             </imprint>
                         </monogr>
@@ -2479,7 +2610,10 @@
                         n="Giarratano" corresp="http://zotero.org/groups/542622/items/E54CKCWZ">
                         <monogr>
                             <title level="m">Giarratano</title>
-                            <editor><forename>Caesar</forename><surname>Giarratano</surname></editor>
+                            <editor>
+                                <forename>Caesar</forename>
+                                <surname>Giarratano</surname>
+                            </editor>
                             <imprint>
                                 <pubPlace>Naples</pubPlace>
                                 <publisher>Detken et Rocholl</publisher>
@@ -2496,18 +2630,29 @@
                         <monogr>
                             <title level="m">Ioannis Argoli ad Libros Duos de Ludis Circensibus
                                 Onuphrii Panvinii Notae</title>
-                            <author><forename>Onofrio</forename><surname>Panvinio</surname></author>
-                            <author><forename>Giovanni</forename><surname>Argoli</surname></author>
-                            <author><forename>Joachim
-                                Johann</forename><surname>Mader</surname></author>
-                            <author><forename>Niccolò</forename><surname>Pinelli</surname></author>
+                            <author>
+                                <forename>Onofrio</forename>
+                                <surname>Panvinio</surname>
+                            </author>
+                            <author>
+                                <forename>Giovanni</forename>
+                                <surname>Argoli</surname>
+                            </author>
+                            <author>
+                                <forename>Joachim Johann</forename>
+                                <surname>Mader</surname>
+                            </author>
+                            <author>
+                                <forename>Niccolò</forename>
+                                <surname>Pinelli</surname>
+                            </author>
                             <imprint>
                                 <pubPlace>Paravii</pubPlace>
                                 <biblScope unit="volume">Onuphrii Panvinii Veronensis de Ludis
                                     Circensibus Libri II, De Triumphis Liber Unus</biblScope>
                                 <publisher>Typis Petri Marie Frambotti Bibliop.</publisher>
                                 <date>1681</date>
-                                <note type="url"
+                                <note target="#Argol." type="url"
                                     >https://books.google.com/books?id=50ZYAAAAcAAJ&amp;lpg=PA95&amp;ots=HX_fI-rrGz&amp;dq=De%20Ludis%20Circensibus%20argoli&amp;pg=RA4-PR43#v=onepage&amp;q&amp;f=false</note>
                             </imprint>
                         </monogr>
@@ -2516,23 +2661,28 @@
                         n="Baehr. 1870" corresp="http://zotero.org/groups/542622/items/JJKDU5G5">
                         <monogr>
                             <title level="m">Lectiones Latinae</title>
-                            <author><forename>Emil</forename><surname>Baehrens</surname></author>
+                            <author>
+                                <forename>Emil</forename>
+                                <surname>Baehrens</surname>
+                            </author>
                             <imprint>
                                 <pubPlace>Bonn</pubPlace>
                                 <publisher>Carolus Georgus</publisher>
                                 <date>1870</date>
+                                <note target="#Baehr1870" type="url"
+                                    >https://books.google.com/books?id=a6FMAAAAcAAJ&amp;pg=PT4#v=onepage&amp;q&amp;f=false</note>
                             </imprint>
                         </monogr>
-                        <note>Siglum: BaehrLL N: Baehr. 1870</note>
-                        <note type="tags"><note type="tag">Monograph</note><note type="tag"
-                                >Secondary Source</note></note>
                     </biblStruct>
                     <biblStruct xmlns="http://www.tei-c.org/ns/1.0" type="journalArticle"
                         xml:id="Baehrens1872" n="Baehr. 1872"
                         corresp="http://zotero.org/groups/542622/items/XC62W2XH">
                         <analytic>
                             <title level="a">Zu Calpurnius</title>
-                            <author><forename>Emil</forename><surname>Baehrens</surname></author>
+                            <author>
+                                <forename>Emil</forename>
+                                <surname>Baehrens</surname>
+                            </author>
                         </analytic>
                         <monogr>
                             <title level="j">Rheinisches Museum für Philologie</title>
@@ -2540,7 +2690,7 @@
                                 <biblScope unit="volume">27</biblScope>
                                 <biblScope unit="page">186</biblScope>
                                 <date>1872</date>
-                                <note type="url"
+                                <note target="#Baehrens1872" type="url"
                                     >http://www.rhm.uni-koeln.de/027/M-Baehrens2.pdf</note>
                             </imprint>
                         </monogr>
@@ -2553,13 +2703,16 @@
                                 octies centvm, avctorvm, plvs centvm qvinqvaginta millibvs</title>
                             <title type="short">Casp. Barthii Adversariorvm commentariorvm libri
                                 LX</title>
-                            <author><forename>Kaspar von</forename><surname>Barth</surname></author>
+                            <author>
+                                <forename>Kaspar von</forename>
+                                <surname>Barth</surname>
+                            </author>
                             <imprint>
                                 <pubPlace>Frankfurt</pubPlace>
                                 <publisher>Typis Wechelianis, apud Danielem &amp; Davidem Aubrios,
                                     &amp; Clementem Schleichium</publisher>
                                 <date>1624</date>
-                                <note type="url"
+                                <note target="#Barth1624" type="url"
                                     >https://books.google.com/books?id=-DVOAAAAYAAJ&amp;lpg=RA4-PT766&amp;ots=v5kIDI84YC&amp;dq=Adversariorvm%20commentariorvm%20libri%20LX&amp;pg=PP1#v=onepage&amp;q=Adversariorvm%20commentariorvm%20libri%20LX&amp;f=false</note>
                             </imprint>
                         </monogr>
@@ -2578,20 +2731,35 @@
                                 praegloriosissimi, Quae extant, Caspar Barthius ope septemdecim
                                 manuscriptorum exemplarium restituit, commentario multo
                                 locupletiore, ..., ita illustravit</title>
-                            <author><forename>Claudius</forename><surname>Claudianus</surname></author>
-                            <author><forename>Abraham</forename><surname>Aubry</surname></author>
-                            <author><forename>Josè Maria Fonseca
-                                    de</forename><surname>Evora</surname></author>
-                            <author><forename>Kaspar :
-                                von</forename><surname>Barth</surname></author>
-                            <author><forename>Ruggero</forename><surname>Bonghi</surname></author>
-                            <author><forename>Antonino
-                                D.</forename><surname>Diana</surname></author>
+                            <author>
+                                <forename>Claudius</forename>
+                                <surname>Claudianus</surname>
+                            </author>
+                            <author>
+                                <forename>Abraham</forename>
+                                <surname>Aubry</surname>
+                            </author>
+                            <author>
+                                <forename>Josè Maria Fonseca de</forename>
+                                <surname>Evora</surname>
+                            </author>
+                            <author>
+                                <forename>Kaspar : von</forename>
+                                <surname>Barth</surname>
+                            </author>
+                            <author>
+                                <forename>Ruggero</forename>
+                                <surname>Bonghi</surname>
+                            </author>
+                            <author>
+                                <forename>Antonino D.</forename>
+                                <surname>Diana</surname>
+                            </author>
                             <imprint>
                                 <pubPlace>Frankfurt</pubPlace>
                                 <publisher>apud Joannem Naumannum bibliop. Hamburgensem</publisher>
                                 <date>1650</date>
-                                <note type="url"
+                                <note target="#Barth1650" type="url"
                                     >https://books.google.com/books?id=rCKBqXCArqIC&amp;lpg=PA1014-IA10&amp;ots=0ZdoKRfwgS&amp;dq=Principium%2C%20heroumque%20poetae%20praegloriosissimi%2C%20quae%20exstant&amp;pg=PP13#v=onepage&amp;q&amp;f=false</note>
                             </imprint>
                         </monogr>
@@ -2601,12 +2769,15 @@
                         <monogr>
                             <title level="m">De Luce animalium libri III, admirandis historiis
                                 rationibusque novis referti</title>
-                            <author><forename>Thomas</forename><surname>Bartholin</surname></author>
+                            <author>
+                                <forename>Thomas</forename>
+                                <surname>Bartholin</surname>
+                            </author>
                             <imprint>
                                 <pubPlace>Lugdunum Batavorum</pubPlace>
                                 <publisher>Ex officina F. Hackii</publisher>
                                 <date>1647</date>
-                                <note type="url"
+                                <note target="#Bartolinus" type="url"
                                     >https://books.google.com/books?id=R-f-lEMwFq0C&amp;pg=PR4#v=onepage&amp;q&amp;f=false</note>
                             </imprint>
                         </monogr>
@@ -2616,7 +2787,10 @@
                         corresp="http://zotero.org/groups/542622/items/CJTWNIG8">
                         <analytic>
                             <title level="a">Philologische Thesen</title>
-                            <author><forename>Theodor</forename><surname>Bergk</surname></author>
+                            <author>
+                                <forename>Theodor</forename>
+                                <surname>Bergk</surname>
+                            </author>
                         </analytic>
                         <monogr>
                             <title level="j">Rheinisches Museum für Philologie</title>
@@ -2624,7 +2798,8 @@
                                 <biblScope unit="volume">20</biblScope>
                                 <biblScope unit="page">288-292</biblScope>
                                 <date>1865</date>
-                                <note type="url">http://www.rhm.uni-koeln.de/020/M-Bergk.pdf</note>
+                                <note target="#Bergk" type="url"
+                                    >http://www.rhm.uni-koeln.de/020/M-Bergk.pdf</note>
                             </imprint>
                         </monogr>
                     </biblStruct>
@@ -2632,7 +2807,10 @@
                         n="Brantsma" corresp="http://zotero.org/groups/542622/items/SBBPP7FK">
                         <monogr>
                             <title level="m">Specimen Observationum</title>
-                            <author><forename>Pieter</forename><surname>Brantsma</surname></author>
+                            <author>
+                                <forename>Pieter</forename>
+                                <surname>Brantsma</surname>
+                            </author>
                             <imprint>
                                 <pubPlace>Franequerae</pubPlace>
                                 <date>1772</date>
@@ -2646,14 +2824,20 @@
                                 Liberalium</title>
                             <title type="short">Lampas sive Fax artium liberalium hoc est Thesaurus
                                 criticus...</title>
-                            <author><forename>Janus</forename><surname>Gruterus</surname></author>
-                            <author><forename>Jean</forename><surname>Brodeau</surname></author>
+                            <author>
+                                <forename>Janus</forename>
+                                <surname>Gruterus</surname>
+                            </author>
+                            <author>
+                                <forename>Jean</forename>
+                                <surname>Brodeau</surname>
+                            </author>
                             <imprint>
                                 <pubPlace>Frankfurt</pubPlace>
                                 <publisher>e Collegio Paltheniano, Sumptibus Ionae Rhodii
                                     Bibliopola</publisher>
                                 <date>1604</date>
-                                <note type="url"
+                                <note target="#Brodaeus" type="url"
                                     >https://books.google.com/books?id=09rnSvLQZ20C&amp;pg=PA5#v=onepage&amp;q&amp;f=false</note>
                             </imprint>
                         </monogr>
@@ -2663,7 +2847,10 @@
                         corresp="http://zotero.org/groups/542622/items/GNMJXCF3">
                         <analytic>
                             <title level="a">Zur höfische Poesie unter Nero</title>
-                            <author><forename>Franz</forename><surname>Buecheler</surname></author>
+                            <author>
+                                <forename>Franz</forename>
+                                <surname>Buecheler</surname>
+                            </author>
                         </analytic>
                         <monogr>
                             <title level="j">Rheinisches Museum für Philologie</title>
@@ -2671,7 +2858,7 @@
                                 <biblScope unit="volume">26</biblScope>
                                 <biblScope unit="page">235-40</biblScope>
                                 <date>1871</date>
-                                <note type="url"
+                                <note target="#Buecheler" type="url"
                                     >http://www.rhm.uni-koeln.de/026/Buecheler1.pdf</note>
                             </imprint>
                         </monogr>
@@ -2681,7 +2868,10 @@
                         corresp="http://zotero.org/groups/542622/items/AWSAFNG2">
                         <analytic>
                             <title level="a">Grammatica et epigraphica</title>
-                            <author><forename>Franz</forename><surname>Buecheler</surname></author>
+                            <author>
+                                <forename>Franz</forename>
+                                <surname>Buecheler</surname>
+                            </author>
                         </analytic>
                         <monogr>
                             <title level="j">Glotta: Zeitschrift für griechische und lateinische
@@ -2691,7 +2881,7 @@
                                 <biblScope unit="page">1-9</biblScope>
                                 <date>1907</date>
                                 <note type="accessed">2016-05-25T16:58:09Z</note>
-                                <note type="url"
+                                <note target="#Buecheler1907" type="url"
                                     >https://archive.org/stream/glottazeitschri00kretgoog#page/n6/mode/2up</note>
                             </imprint>
                         </monogr>
@@ -2703,13 +2893,15 @@
                                 sive Catalecta poetarum Latinorum in VI. libros digesta</title>
                             <title type="short">Anthologia veterum Latinorum epigrammatum et
                                 poematum</title>
-                            <author><forename>Petrus</forename><surname>Burmannus
-                                Secundus</surname></author>
+                            <author>
+                                <forename>Petrus</forename>
+                                <surname>Burmannus Secundus</surname>
+                            </author>
                             <imprint>
                                 <pubPlace>Amstelodami</pubPlace>
                                 <publisher>ex officina Schouteniana</publisher>
                                 <date>1759</date>
-                                <note type="url"
+                                <note target="#Burman1759" type="url"
                                     >https://books.google.com/books?id=wik_AAAAcAAJ&amp;lpg=PR74&amp;ots=zH-Fkh4dG5&amp;dq=anthologia%20veterum%20latinorum&amp;pg=PR1#v=onepage&amp;q=anthologia%20veterum%20latinorum&amp;f=false</note>
                             </imprint>
                         </monogr>
@@ -2718,7 +2910,10 @@
                         corresp="http://zotero.org/groups/542622/items/J3UWRER9">
                         <monogr>
                             <title level="m">Emendationum et Observationum Libri duo 1.2</title>
-                            <author><forename>Louis</forename><surname>Carrion</surname></author>
+                            <author>
+                                <forename>Louis</forename>
+                                <surname>Carrion</surname>
+                            </author>
                             <imprint>
                                 <publisher>Lutetiae Beysius</publisher>
                                 <date>1583</date>
@@ -2730,12 +2925,16 @@
                         <monogr>
                             <title level="m">Der Eklogendichter T. Calpurnius Siculus und seine
                                 Vorbilder</title>
-                            <author><forename>Franz</forename><surname>Chytil</surname></author>
+                            <author>
+                                <forename>Franz</forename>
+                                <surname>Chytil</surname>
+                            </author>
                             <imprint>
                                 <pubPlace>Znaim</pubPlace>
                                 <publisher>Druck der k. k. Buchdruckerei des M. G. Lenk</publisher>
                                 <date>1894</date>
-                                <note type="url">http://hdl.handle.net/2027/uc1.c071004696</note>
+                                <note target="#Chytil" type="url"
+                                    >http://hdl.handle.net/2027/uc1.c071004696</note>
                             </imprint>
                         </monogr>
                     </biblStruct>
@@ -2743,13 +2942,19 @@
                         n="Dempster" corresp="http://zotero.org/groups/542622/items/H34RIUZM">
                         <monogr>
                             <title level="m">De Etruria regali libri VII</title>
-                            <author><forename>Thomas</forename><surname>Dempster</surname></author>
-                            <author><forename>Filippo</forename><surname>Buonarroti</surname></author>
+                            <author>
+                                <forename>Thomas</forename>
+                                <surname>Dempster</surname>
+                            </author>
+                            <author>
+                                <forename>Filippo</forename>
+                                <surname>Buonarroti</surname>
+                            </author>
                             <imprint>
                                 <pubPlace>Florence</pubPlace>
                                 <publisher>apud J.C. Tartinium et Sanctem Franchium</publisher>
                                 <date>1723</date>
-                                <note type="url"
+                                <note target="#Dempster" type="url"
                                     >https://books.google.com/books?id=tQJdAAAAcAAJ&amp;pg=PR8#v=onepage&amp;q&amp;f=false</note>
                             </imprint>
                         </monogr>
@@ -2758,12 +2963,15 @@
                         n="de Rooy" corresp="http://zotero.org/groups/542622/items/CE435EPM">
                         <monogr>
                             <title level="m">Spicilegia critica</title>
-                            <author><forename>Antonius</forename><surname>de Rooy</surname></author>
+                            <author>
+                                <forename>Antonius</forename>
+                                <surname>de Rooy</surname>
+                            </author>
                             <imprint>
                                 <pubPlace>Dordracum</pubPlace>
                                 <publisher>Petrus van Braam</publisher>
                                 <date>1771</date>
-                                <note type="url"
+                                <note target="#deRooy" type="url"
                                     >https://books.google.com/books?id=m10VAAAAQAAJ&amp;pg=PA101#v=onepage&amp;q&amp;f=false</note>
                             </imprint>
                         </monogr>
@@ -2775,7 +2983,10 @@
                             <title level="a">Review of "Calpurnii et Nemesiani Bucoloca recensuit
                                 Henricus Schenkl, Lipsiae, G. Freytag, Pragae, F. Tempsky,
                                 1885</title>
-                            <author><forename>Robinson</forename><surname>Ellis</surname></author>
+                            <author>
+                                <forename>Robinson</forename>
+                                <surname>Ellis</surname>
+                            </author>
                         </analytic>
                         <monogr>
                             <title level="j">American Journal of Philology</title>
@@ -2783,7 +2994,7 @@
                                 <biblScope unit="volume">7</biblScope>
                                 <biblScope unit="page">88-91</biblScope>
                                 <date>1886</date>
-                                <note type="url"
+                                <note target="#Ellis" type="url"
                                     >https://books.google.com/books?id=tl4bu49MEyIC&amp;dq=editions%3AkJBBtxu-RskC&amp;pg=PA88#v=onepage&amp;q&amp;f=false</note>
                             </imprint>
                         </monogr>
@@ -2797,13 +3008,16 @@
                                 secundus, complectens adagia</title>
                             <title type="short">Desiderii Erasmi Roterodami opera omnia emendatiora
                                 et auctiora ...</title>
-                            <author><forename>Desiderius</forename><surname>Erasmus</surname></author>
+                            <author>
+                                <forename>Desiderius</forename>
+                                <surname>Erasmus</surname>
+                            </author>
                             <imprint>
                                 <pubPlace>Lugdunum Batavorum</pubPlace>
                                 <biblScope unit="volume">Collectanea Adagiorum Veterum</biblScope>
                                 <publisher>curá &amp; impensis Petri Lander Aa</publisher>
                                 <date>1703</date>
-                                <note type="url"
+                                <note target="#Erasmus" type="url"
                                     >https://books.google.ca/books?id=rZJd0x6VPqIC&amp;pg=PP5#v=onepage&amp;q&amp;f=false</note>
                             </imprint>
                         </monogr>
@@ -2812,13 +3026,15 @@
                         n="Fabricius" corresp="http://zotero.org/groups/542622/items/5T62FXBZ">
                         <monogr>
                             <title level="m">Bibliotheca Latina, tomus III</title>
-                            <author><forename>Johann
-                                Albert</forename><surname>Fabricius</surname></author>
+                            <author>
+                                <forename>Johann Albert</forename>
+                                <surname>Fabricius</surname>
+                            </author>
                             <imprint>
                                 <pubPlace>Lipsiae</pubPlace>
                                 <publisher>apud Weidmanni Heredes et Reichium</publisher>
                                 <date>1774</date>
-                                <note type="url"
+                                <note target="#Fabricius" type="url"
                                     >https://books.google.com/books?id=r7bwmNY6a9sC&amp;pg=PP7#v=onepage&amp;q&amp;f=false</note>
                             </imprint>
                         </monogr>
@@ -2827,21 +3043,30 @@
                         n="Forbiger" corresp="http://zotero.org/groups/542622/items/6UBRXE4W">
                         <monogr>
                             <title level="m">P. Virgilii Maronis Opera</title>
-                            <author><forename>Albert</forename><surname>Forbiger</surname></author>
+                            <author>
+                                <forename>Albert</forename>
+                                <surname>Forbiger</surname>
+                            </author>
                             <imprint>
                                 <pubPlace>Lipsiae</pubPlace>
                                 <publisher>I. C. Hinrichs</publisher>
                                 <date>1845</date>
-                                <note type="url"
+                                <note target="#Forbiger" type="url"
                                     >https://books.google.com/books?id=feBCAQAAMAAJ&amp;dq=Albert%20Forbiger&amp;pg=PR1#v=onepage&amp;q=Albert%20Forbiger&amp;f=false</note>
                             </imprint>
                         </monogr>
                     </biblStruct>
+
+                    <!-- Start here with adding @target to <note> -->
+
                     <biblStruct xmlns="http://www.tei-c.org/ns/1.0" type="book" xml:id="Friesemann"
                         n="Friesemann" corresp="http://zotero.org/groups/542622/items/P67PSSCX">
                         <monogr>
                             <title level="m">Collectanea critica</title>
-                            <author><forename>Hendrik</forename><surname>Friesemann</surname></author>
+                            <author>
+                                <forename>Hendrik</forename>
+                                <surname>Friesemann</surname>
+                            </author>
                             <imprint>
                                 <pubPlace>Amsterdam</pubPlace>
                                 <publisher>Apud Petrum den Hengst</publisher>
@@ -2855,8 +3080,10 @@
                         n="Fritzsche" corresp="http://zotero.org/groups/542622/items/U34RXGQ9">
                         <monogr>
                             <title level="m">De Eclogis Calpurnianis</title>
-                            <author><forename>Franz
-                                Volkmar</forename><surname>Fritzsche</surname></author>
+                            <author>
+                                <forename>Franz Volkmar</forename>
+                                <surname>Fritzsche</surname>
+                            </author>
                             <imprint>
                                 <pubPlace>Schwerin</pubPlace>
                                 <publisher>Baerensprungschen Hofbuchdruckerei</publisher>
@@ -2869,8 +3096,10 @@
                         <monogr>
                             <title level="m">De poetarum Græcorum bucolicorum imprimis Theocriti
                                 carminibus in eclogis a Vergilio adumbratis. Particula 1</title>
-                            <author><forename>Gustavus
-                                Adolphus</forename><surname>Gebauer</surname></author>
+                            <author>
+                                <forename>Gustavus Adolphus</forename>
+                                <surname>Gebauer</surname>
+                            </author>
                             <imprint>
                                 <pubPlace>Lipsiae</pubPlace>
                                 <publisher>Hermann Mendelssohn</publisher>
@@ -2884,7 +3113,10 @@
                         n="Gebhard" corresp="http://zotero.org/groups/542622/items/QCTVIB3X">
                         <monogr>
                             <title level="m">Crepundiorum seu iuvenilium curarum libri tres</title>
-                            <author><forename>Janus</forename><surname>Gebhard</surname></author>
+                            <author>
+                                <forename>Janus</forename>
+                                <surname>Gebhard</surname>
+                            </author>
                             <imprint>
                                 <pubPlace>Hanoviae</pubPlace>
                                 <publisher>Wechelianis, apud Haeredes Ioannis Aubrii</publisher>
@@ -2900,8 +3132,10 @@
                         <monogr>
                             <title level="m">In Papinii Statii Silvarum Libros V. Diatribe ad Th.
                                 Graswinckelium</title>
-                            <author><forename>Johannes
-                                    Fredericus</forename><surname>Gronovius</surname></author>
+                            <author>
+                                <forename>Johannes Fredericus</forename>
+                                <surname>Gronovius</surname>
+                            </author>
                             <imprint>
                                 <pubPlace>Hagae-Comitis</pubPlace>
                                 <publisher>Ex officina Theodori Maire</publisher>
@@ -2917,8 +3151,10 @@
                         <monogr>
                             <title level="m">Observationes: libri IV.</title>
                             <title type="short">Observationes</title>
-                            <author><forename>Johannes
-                                    Fredericus</forename><surname>Gronovius</surname></author>
+                            <author>
+                                <forename>Johannes Fredericus</forename>
+                                <surname>Gronovius</surname>
+                            </author>
                             <imprint>
                                 <pubPlace>Leipzig</pubPlace>
                                 <publisher>Iohannes Fridericus Iahn</publisher>
@@ -2933,10 +3169,18 @@
                         corresp="http://zotero.org/groups/542622/items/PMUBEEDR">
                         <analytic>
                             <title level="a">Zu Calpurnius</title>
-                            <author><forename>Edmund</forename><surname>Hauler</surname></author>
-                            <author><forename>Hans Friedrich August
-                                    von</forename><surname>Arnim</surname></author>
-                            <author><forename>Hans</forename><surname>Lucas</surname></author>
+                            <author>
+                                <forename>Edmund</forename>
+                                <surname>Hauler</surname>
+                            </author>
+                            <author>
+                                <forename>Hans Friedrich August von</forename>
+                                <surname>Arnim</surname>
+                            </author>
+                            <author>
+                                <forename>Hans</forename>
+                                <surname>Lucas</surname>
+                            </author>
                         </analytic>
                         <monogr>
                             <title level="j">Wiener Studien</title>
@@ -2953,7 +3197,10 @@
                         n="Haupt 1854" corresp="http://zotero.org/groups/542622/items/GMXQDG54">
                         <monogr>
                             <title level="m">De carminibus bucolicis Calpurnii et Nemesiani</title>
-                            <author><forename>Moriz</forename><surname>Haupt</surname></author>
+                            <author>
+                                <forename>Moriz</forename>
+                                <surname>Haupt</surname>
+                            </author>
                             <imprint>
                                 <pubPlace>Berlin</pubPlace>
                                 <publisher>Typis Academicis</publisher>
@@ -2966,7 +3213,10 @@
                         corresp="http://zotero.org/groups/542622/items/VCF6357S">
                         <analytic>
                             <title level="a">Coniectanea</title>
-                            <author><forename>Moriz</forename><surname>Haupt</surname></author>
+                            <author>
+                                <forename>Moriz</forename>
+                                <surname>Haupt</surname>
+                            </author>
                         </analytic>
                         <monogr>
                             <title level="j">Hermes: Zeitschrift für klassische Philologie</title>
@@ -2983,7 +3233,10 @@
                         n="Heins. in Her." corresp="http://zotero.org/groups/542622/items/3CMV3XKB">
                         <monogr>
                             <title level="m">Notae in Heroidas P. Ovidii Nasonis</title>
-                            <author><forename>Nicolaas</forename><surname>Heinsius</surname></author>
+                            <author>
+                                <forename>Nicolaas</forename>
+                                <surname>Heinsius</surname>
+                            </author>
                             <imprint>
                                 <pubPlace>s. l.</pubPlace>
                                 <publisher>s. n.</publisher>
@@ -2998,7 +3251,10 @@
                         corresp="http://zotero.org/groups/542622/items/A7VK4KUV">
                         <monogr>
                             <title level="m">Claudii Claudiani Opera</title>
-                            <author><forename>Nicolaas</forename><surname>Heinsius</surname></author>
+                            <author>
+                                <forename>Nicolaas</forename>
+                                <surname>Heinsius</surname>
+                            </author>
                             <imprint>
                                 <pubPlace>Amsterdam</pubPlace>
                                 <publisher>ex officina Elzeviriana</publisher>
@@ -3012,7 +3268,10 @@
                         n="Heraldus" corresp="http://zotero.org/groups/542622/items/VKUMP52G">
                         <monogr>
                             <title level="m">Adversariorum Libri Duo</title>
-                            <author><forename>Didier</forename><surname>Hérauld</surname></author>
+                            <author>
+                                <forename>Didier</forename>
+                                <surname>Hérauld</surname>
+                            </author>
                             <imprint>
                                 <pubPlace>Paris</pubPlace>
                                 <publisher>Apud Ieremiam Perier</publisher>
@@ -3026,7 +3285,10 @@
                         n="G. Hermann" corresp="http://zotero.org/groups/542622/items/82FI6R7S">
                         <monogr>
                             <title level="m">Bionis et Moschi Carmina</title>
-                            <author><forename>Gottfried</forename><surname>Hermann</surname></author>
+                            <author>
+                                <forename>Gottfried</forename>
+                                <surname>Hermann</surname>
+                            </author>
                             <imprint>
                                 <pubPlace>Lipsiae</pubPlace>
                                 <publisher>Apud Weidmannos</publisher>
@@ -3038,8 +3300,10 @@
                         n="Hoeufft" corresp="http://zotero.org/groups/542622/items/TS383MS6">
                         <monogr>
                             <title level="m">Pericula poëtica</title>
-                            <author><forename>Jacob
-                                Hendrik</forename><surname>Hoeufft</surname></author>
+                            <author>
+                                <forename>Jacob Hendrik</forename>
+                                <surname>Hoeufft</surname>
+                            </author>
                             <imprint>
                                 <date>1783</date>
                                 <note type="url"
@@ -3052,8 +3316,10 @@
                         corresp="http://zotero.org/groups/542622/items/PHU72CMR">
                         <analytic>
                             <title level="a">Virgil and Calpurnius</title>
-                            <author><forename>A. E. (Alfred
-                                    Edward)</forename><surname>Housman</surname></author>
+                            <author>
+                                <forename>A. E. (Alfred Edward)</forename>
+                                <surname>Housman</surname>
+                            </author>
                         </analytic>
                         <monogr>
                             <title level="j">The Classical Review</title>
@@ -3071,9 +3337,14 @@
                         n="Housman 1903" corresp="http://zotero.org/groups/542622/items/UWA33398">
                         <monogr>
                             <title level="m">M. Manilii Astronomicon, Liber Primus</title>
-                            <author><forename>Marcus</forename><surname>Manilius</surname></author>
-                            <editor xml:id="Housman"><forename>A. E. (Aflred
-                                    Edward)</forename><surname>Housman</surname></editor>
+                            <author>
+                                <forename>Marcus</forename>
+                                <surname>Manilius</surname>
+                            </author>
+                            <editor xml:id="Housman">
+                                <forename>A. E. (Aflred Edward)</forename>
+                                <surname>Housman</surname>
+                            </editor>
                             <imprint>
                                 <pubPlace>London</pubPlace>
                                 <publisher>Apvd Grant Richards</publisher>
@@ -3087,8 +3358,10 @@
                         n="Iustius" corresp="http://zotero.org/groups/542622/items/68I7WWEB">
                         <monogr>
                             <title level="m">Specimen Observationum Criticarum</title>
-                            <author><forename>Petrus
-                                Paulus</forename><surname>Justus</surname></author>
+                            <author>
+                                <forename>Petrus Paulus</forename>
+                                <surname>Justus</surname>
+                            </author>
                             <imprint>
                                 <pubPlace>Viennae</pubPlace>
                                 <publisher>Typis Ioannis Thomae de Trattnern</publisher>
@@ -3105,7 +3378,10 @@
                             <title level="a">Review of "Calpurnii et Nemesiani Bucolica recensuit
                                 Henricus Schenkl, Lipsiae, G. Freytag, Pragae, F. Tempsky,
                                 1885</title>
-                            <author><forename>Karl</forename><surname>Jacoby</surname></author>
+                            <author>
+                                <forename>Karl</forename>
+                                <surname>Jacoby</surname>
+                            </author>
                         </analytic>
                         <monogr>
                             <title level="j">Wochenschrift für klassiche Philologie</title>
@@ -3122,10 +3398,18 @@
                         n="Kannegieter" corresp="http://zotero.org/groups/542622/items/ZQ42GP43">
                         <monogr>
                             <title level="m">Flavii Aviani Fabulae</title>
-                            <author><forename>Kaspar von</forename><surname>Barth</surname></author>
-                            <author><forename>Isaac
-                                Nicolaus</forename><surname>Nevelet</surname></author>
-                            <author><forename>Hendrik</forename><surname>Cannegieter</surname></author>
+                            <author>
+                                <forename>Kaspar von</forename>
+                                <surname>Barth</surname>
+                            </author>
+                            <author>
+                                <forename>Isaac Nicolaus</forename>
+                                <surname>Nevelet</surname>
+                            </author>
+                            <author>
+                                <forename>Hendrik</forename>
+                                <surname>Cannegieter</surname>
+                            </author>
                             <imprint>
                                 <pubPlace>Amstelodami</pubPlace>
                                 <publisher>apud Martinum Schagen</publisher>
@@ -3139,8 +3423,14 @@
                         n="Lachmann" corresp="http://zotero.org/groups/542622/items/PQX9UGEP">
                         <monogr>
                             <title level="m">Karl Lachmanns Briefe an Moriz Haupt</title>
-                            <author><forename>Karl</forename><surname>Lachmann</surname></author>
-                            <author><forename>Johannes</forename><surname>Vahlen</surname></author>
+                            <author>
+                                <forename>Karl</forename>
+                                <surname>Lachmann</surname>
+                            </author>
+                            <author>
+                                <forename>Johannes</forename>
+                                <surname>Vahlen</surname>
+                            </author>
                             <imprint>
                                 <pubPlace>Berlin</pubPlace>
                                 <publisher>Druck und Verlag von Georg Reimer</publisher>
@@ -3157,7 +3447,10 @@
                             <title level="a">Review of "Calpurni et Nemesiani bucolica, recensuit
                                 Henricus Schenkl. Lipsiae (A. Freitag) et Pragae (F. Tempsky) 1885.
                                 LXXII, 130 SS. 8.</title>
-                            <author><forename>F.</forename><surname>Leo</surname></author>
+                            <author>
+                                <forename>F.</forename>
+                                <surname>Leo</surname>
+                            </author>
                         </analytic>
                         <monogr>
                             <title level="j">Zeitschrift für die österreichischen Gymnasien</title>
@@ -3175,8 +3468,10 @@
                         <monogr>
                             <title level="m">Der Oedipus Coloneus des Sophocles Anhang enthaltend
                                 Beiträge zu Calpurnius und Nemesianus</title>
-                            <author><forename>Jacob
-                                Achilles</forename><surname>Mähly</surname></author>
+                            <author>
+                                <forename>Jacob Achilles</forename>
+                                <surname>Mähly</surname>
+                            </author>
                             <imprint>
                                 <pubPlace>Basel</pubPlace>
                                 <publisher>Hugo Richter</publisher>
@@ -3190,7 +3485,10 @@
                         n="Magnus" corresp="http://zotero.org/groups/542622/items/E82MTWJN">
                         <monogr>
                             <title level="m">Review of Baehrens</title>
-                            <author><forename>Hugo</forename><surname>Magnus</surname></author>
+                            <author>
+                                <forename>Hugo</forename>
+                                <surname>Magnus</surname>
+                            </author>
                             <imprint>
                                 <publisher>S. Calvary and Company</publisher>
                                 <date>1881</date>
@@ -3208,7 +3506,10 @@
                                 Plinius, Calpurnius, nonnullis Propertius, Ovidius, Lucanus,
                                 Varlerius Maximus, Statius, alii, supplentur, emendantur,
                                 illustrantur, notantur</title>
-                            <author><forename>Franciscus</forename><surname>Modius</surname></author>
+                            <author>
+                                <forename>Franciscus</forename>
+                                <surname>Modius</surname>
+                            </author>
                             <imprint>
                                 <pubPlace>Frankfurt</pubPlace>
                                 <publisher>Apud heredes Andreae Wecheli</publisher>
@@ -3224,13 +3525,16 @@
                         <analytic>
                             <title level="a">Review of "Calpurnii et Nemesiani Bucolica recensuit
                                 Henricus Schenkl, Lipsiae, G. Freytag, Pragae, F. Tempsky,
-                                1885</title>
-                            <author><forename>Lucian</forename><surname>Müller</surname></author>
+                                1885"</title>
+                            <author>
+                                <forename>Lucian</forename>
+                                <surname>Müller</surname>
+                            </author>
                         </analytic>
                         <monogr>
                             <title level="j">Berliner philologische Wochenschrift</title>
                             <imprint>
-                                <biblScope unit="volume">V.</biblScope>
+                                <biblScope unit="volume">5</biblScope>
                                 <biblScope unit="page">1065-1073</biblScope>
                                 <date>1885</date>
                                 <note type="url"
@@ -3246,8 +3550,14 @@
                                 Catonis Disticha curante Jo. Ad. Nodell, qui notas criticas in
                                 scriptores aliquot veteres adjecit</title>
                             <title type="short">Flavii Aviani Fabulae ad ms. cd. collatae</title>
-                            <author><forename>Flavius</forename><surname>Avianus</surname></author>
-                            <author><forename>Jan Adam</forename><surname>Nodell</surname></author>
+                            <author>
+                                <forename>Flavius</forename>
+                                <surname>Avianus</surname>
+                            </author>
+                            <author>
+                                <forename>Jan Adam</forename>
+                                <surname>Nodell</surname>
+                            </author>
                             <imprint>
                                 <pubPlace>Amsterdam</pubPlace>
                                 <publisher>apud Petrum den Hengst</publisher>
@@ -3262,8 +3572,10 @@
                         corresp="http://zotero.org/groups/542622/items/T9VQVNDS">
                         <analytic>
                             <title level="a">Some Suggestions on Calpurnius Siculus</title>
-                            <author><forename>John
-                                Percival</forename><surname>Postgate</surname></author>
+                            <author>
+                                <forename>John Percival</forename>
+                                <surname>Postgate</surname>
+                            </author>
                         </analytic>
                         <monogr>
                             <title level="j">The Classical Review</title>
@@ -3282,14 +3594,38 @@
                         corresp="http://zotero.org/groups/542622/items/AB53IWBU">
                         <monogr>
                             <title level="m">Historiae Augustae Scriptores VI</title>
-                            <author><forename>Aelius</forename><surname>Spartianus</surname></author>
-                            <author><forename>Claude</forename><surname>Saumaise</surname></author>
-                            <author><forename>Trebellius</forename><surname>Pollio</surname></author>
-                            <author><forename>Isaac</forename><surname>Casaubon</surname></author>
-                            <author><forename>Vulcatius</forename><surname>Gallicanus</surname></author>
-                            <author><forename>Julius</forename><surname>Capitolinus</surname></author>
-                            <author><forename>Aelius</forename><surname>Lampridius</surname></author>
-                            <author><forename>Flavius</forename><surname>Vopiscus</surname></author>
+                            <author>
+                                <forename>Aelius</forename>
+                                <surname>Spartianus</surname>
+                            </author>
+                            <author>
+                                <forename>Claude</forename>
+                                <surname>Saumaise</surname>
+                            </author>
+                            <author>
+                                <forename>Trebellius</forename>
+                                <surname>Pollio</surname>
+                            </author>
+                            <author>
+                                <forename>Isaac</forename>
+                                <surname>Casaubon</surname>
+                            </author>
+                            <author>
+                                <forename>Vulcatius</forename>
+                                <surname>Gallicanus</surname>
+                            </author>
+                            <author>
+                                <forename>Julius</forename>
+                                <surname>Capitolinus</surname>
+                            </author>
+                            <author>
+                                <forename>Aelius</forename>
+                                <surname>Lampridius</surname>
+                            </author>
+                            <author>
+                                <forename>Flavius</forename>
+                                <surname>Vopiscus</surname>
+                            </author>
                             <imprint>
                                 <pubPlace>Paris</pubPlace>
                                 <date>1620</date>
@@ -3303,7 +3639,10 @@
                         corresp="http://zotero.org/groups/542622/items/GJSMKPRI">
                         <monogr>
                             <title level="m">Epistolarum liber primus</title>
-                            <author><forename>Claude</forename><surname>Saumaise</surname></author>
+                            <author>
+                                <forename>Claude</forename>
+                                <surname>Saumaise</surname>
+                            </author>
                             <imprint>
                                 <pubPlace>Lugduni Batavorum</pubPlace>
                                 <publisher>Ex typographoa Adriani Wyngaerden</publisher>
@@ -3320,8 +3659,10 @@
                                 inter quarta academiae secularia summis in philosophia ornamentis ac
                                 privilegiis honoris cavsa augebit ordo philosophorum Rostochiensis
                                 indicantur ... Praemissae sunt Quaestiones Philologicae.</title>
-                            <author><forename>Gustav
-                                Cristoph</forename><surname>Sarpe</surname></author>
+                            <author>
+                                <forename>Gustav Cristoph</forename>
+                                <surname>Sarpe</surname>
+                            </author>
                             <imprint>
                                 <pubPlace>Rostochii</pubPlace>
                                 <publisher>Adler</publisher>
@@ -3340,7 +3681,10 @@
                             <title type="short">Illustrissimi viri Ezechielis Spanhemii
                                 Dissertationum de praestantia et usu numismatum antiquorum
                                 ...</title>
-                            <author><forename>Ezechiel</forename><surname>Spanheim</surname></author>
+                            <author>
+                                <forename>Ezechiel</forename>
+                                <surname>Spanheim</surname>
+                            </author>
                             <imprint>
                                 <pubPlace>London</pubPlace>
                                 <publisher>impensis Richard Smith, [et] prostant</publisher>
@@ -3356,7 +3700,10 @@
                             <title level="m">Analectorum libri III, in quibus innumera Auctorum, qua
                                 Graecorum qua Latinorum, loca emendantur, dilucidantur,
                                 illustrantur, notantur</title>
-                            <author><forename>Eustachius</forename><surname>Swartius</surname></author>
+                            <author>
+                                <forename>Eustachius</forename>
+                                <surname>Swartius</surname>
+                            </author>
                             <imprint>
                                 <pubPlace>Lugdunum Batavorum</pubPlace>
                                 <publisher>Apud Ludovicum Elzevirius</publisher>
@@ -3371,8 +3718,10 @@
                         <monogr>
                             <title level="m">Observationum Criticarum in Scriptores Nonnullos
                                 Latinos libellus prior</title>
-                            <author><forename>Carl Ludwig
-                                P.</forename><surname>Tross</surname></author>
+                            <author>
+                                <forename>Carl Ludwig P.</forename>
+                                <surname>Tross</surname>
+                            </author>
                             <imprint>
                                 <pubPlace>Hommone</pubPlace>
                                 <publisher>sumptibus auctoris</publisher>
@@ -3386,9 +3735,13 @@
                         n="Voss" corresp="http://zotero.org/groups/542622/items/I4NM4S7C">
                         <monogr>
                             <title level="m">Des Publius Virgilius Maro Ländliche Gedichte</title>
-                            <author><name>Virgil</name></author>
-                            <author><forename>Johann
-                                Heinrich</forename><surname>Voss</surname></author>
+                            <author>
+                                <name>Virgil</name>
+                            </author>
+                            <author>
+                                <forename>Johann Heinrich</forename>
+                                <surname>Voss</surname>
+                            </author>
                             <imprint>
                                 <pubPlace>Altona</pubPlace>
                                 <publisher>Johann Friedrich Hammerich</publisher>
@@ -3403,7 +3756,10 @@
                         <monogr>
                             <title level="m">Silva critica sive in auctores sacros profanosque
                                 commentarius philologus</title>
-                            <author><forename>Gilbert</forename><surname>Wakefield</surname></author>
+                            <author>
+                                <forename>Gilbert</forename>
+                                <surname>Wakefield</surname>
+                            </author>
                             <imprint>
                                 <pubPlace>Cantabrigiae</pubPlace>
                                 <publisher>Typis academicis excudebat J. Archdeacon, ubi veneunt
@@ -3417,8 +3773,10 @@
                         n="Wilamowitz" corresp="http://zotero.org/groups/542622/items/S2QGZ9FN">
                         <monogr>
                             <title level="m">Coniectanea</title>
-                            <author><forename>Ulrich
-                                    von</forename><surname>Wilamowitz-Moellendorff</surname></author>
+                            <author>
+                                <forename>Ulrich von</forename>
+                                <surname>Wilamowitz-Moellendorff</surname>
+                            </author>
                             <imprint>
                                 <pubPlace>Göttingen</pubPlace>
                                 <publisher>Dieterich'sche Druckerei</publisher>
@@ -3429,7 +3787,7 @@
                         </monogr>
                     </biblStruct>
                 </listBibl>
-                <list>
+                <list xml:id="bibliography-scholars">
                     <head>Scholars Cited by Name</head>
                     <item xml:id="Bruce" n="Bruce">
                         <persName>
@@ -3442,85 +3800,101 @@
                         <persName ref="http://viaf.org/viaf/57385669">
                             <forename>Conrad</forename>
                             <surname>Bursian</surname>
-                        </persName>. <ref target="#Haupt1854">Haupt</ref> says that he used
-                        Bursian's collation of a manuscript in Naples.</item>
+                        </persName>
+                        <ref target="#Haupt1854">Haupt</ref>
+                        <note>Haupt says that he used Bursian's collation of a manuscript in
+                            Naples.</note>
+                    </item>
                     <item xml:id="DOrville" n="D'Orville">
                         <persName ref="http://viaf.org/viaf/24945908">
                             <forename>Jacques-Philippe</forename>
                             <surname>d'Orville</surname>
                         </persName>
-                        <ref target="#Burm.">(1731)</ref>
+                        <ref target="#Burm.">Burman 1731</ref>
                     </item>
                     <item xml:id="Casaub." n="Casaub.">
                         <persName ref="http://viaf.org/viaf/56620173">
                             <forename>Isaac</forename>
                             <surname>Casaubon</surname>
                         </persName>
-                        <ref target="#Burm.">(1731)</ref>
+                        <ref target="#Burm.">Burman 1731</ref>
                     </item>
                     <item xml:id="Fruterius" n="Fruterius">
                         <persName ref="http://viaf.org/viaf/35271168">
                             <forename>Lucas</forename>
                             <surname>Fruterius</surname>
-                        </persName>, <ref target="#Barth">Barth</ref> cites content from the third
-                        book of Fruterius' "Coniect. Verisim.", which is no longer extant.</item>
-                    <item xml:id="Hartel"><persName instant="false"
-                                ><forename>G.</forename><surname>Hartel</surname></persName>,
-                        unpublished opinions in <ref target="#Schenkl">H. Schenkl's
-                        edition</ref></item>
+                        </persName>
+                        <ref target="#Barth">Barth 1613</ref>
+                        <note>Barth cites content from the third book of Fruterius' "Coniect.
+                            Verisim.", which is no longer extant.</note>
+                    </item>
+                    <item xml:id="Hartel">
+                        <persName>
+                            <forename>G.</forename>
+                            <surname>Hartel</surname>
+                        </persName>
+                        <ref target="#Schenkl">H. Schenkl</ref>
+                        <note>Schenkl cites Hartel's unpublished opinions.</note>
+                    </item>
                     <item xml:id="Gudius" n="Gudius">
                         <persName ref="http://viaf.org/viaf/59865177">
                             <forename>Marquard</forename>
                             <surname>Gude</surname>
                         </persName>
-                        <ref target="#Burm.">(1731)</ref>
+                        <ref target="#Burm.">Burman 1731</ref>
                     </item>
                     <item xml:id="Guid." n="Guid.">
                         <persName ref="http://viaf.org/viaf/121992734">
                             <forename>Diomedes</forename>
                             <surname>Guidalotti</surname>
-                        </persName>, commentary in <ref target="#b">b (1504)</ref>; notes in <ref
-                            target="#h">h (1728)</ref>
+                        </persName>
+                        <ref target="#b">b (1504)</ref>
+                        <ref target="#h">h (1728)</ref>
+                        <note>Commentary in b, notes in h.</note>
                     </item>
                     <item xml:id="Haverkamp" n="Haverkamp">
                         <persName>
                             <forename>Siwart</forename>
                             <surname>Haverkamp</surname>
                         </persName>
-                        <ref target="#h">(1728)</ref>
+                        <ref target="#h">h (1728)</ref>
                     </item>
                     <item xml:id="Heins." n="Heins.">
                         <persName ref="http://viaf.org/viaf/24651364">
                             <forename>Nicolaas</forename>
                             <surname>Heinsius</surname>
                         </persName>
+                        <ref target="#Burm.">Burman 1731</ref>
                     </item>
                     <item xml:id="HousmanPerLitt" n="Housman per litt.">
-                        <persName ref="http://viaf.org/viaf/49249069" corresp="#Housman"
-                            instant="false"><forename>A.
-                            E.</forename><surname>Housman</surname></persName>, personal
-                        communication with Giarratano. </item>
+                        <persName ref="http://viaf.org/viaf/49249069" corresp="#Housman">
+                            <forename>A. E.</forename>
+                            <surname>Housman</surname>
+                        </persName>
+                        <note>Personal communication with Giarratano.</note>
+                    </item>
                     <item xml:id="Johnson">
                         <persName>
                             <forename>Th.</forename>
                             <surname>Johnson</surname>
                         </persName>
-                        <ref target="#h">(1728)</ref>
+                        <ref target="#h">h (1728)</ref>
                     </item>
                     <item xml:id="Kempfer" n="Kempfer">
                         <persName ref="http://viaf.org/viaf/22520653">
                             <forename>Gerard</forename>
                             <surname>Kempher</surname>
                         </persName>
-                        <ref target="#h">(1728)</ref></item>
+                        <ref target="#h">h (1728)</ref>
+                    </item>
                     <item xml:id="Lipsius" n="Lipsius">
                         <persName ref="http://viaf.org/viaf/51706656">
                             <forename>Justus</forename>
                             <surname>Lipsius</surname>
                         </persName>
-                        <ref target="#Burm.">(1731)</ref>
+                        <ref target="#Burm.">Burman 1731</ref>
                     </item>
-                    <item xml:id="Martell.">
+                    <item xml:id="Martell." n="Martell.">
                         <persName ref="http://viaf.org/viaf/1088">
                             <forename>Ugolino</forename>
                             <surname>Martelli</surname>
@@ -3532,53 +3906,67 @@
                             <forename>Frans van</forename>
                             <surname>Oudendorp</surname>
                         </persName>
-                        <ref target="#Burman1759">(Burman 1759)</ref></item>
+                        <ref target="#Burman1759">Burman 1759</ref>
+                    </item>
                     <item xml:id="Ramorino" n="Ramorino">
                         <persName ref="http://viaf.org/viaf/14441806">
                             <forename>Felice</forename>
                             <surname>Ramorino</surname>
-                        </persName>, cited directly by Giarratano. </item>
+                        </persName>
+                        <note>Personal communication with Giarratano</note>
+                    </item>
                     <item xml:id="Scaliger" n="Scaliger">
                         <persName ref="http://viaf.org/viaf/29540435">
                             <forename>Joseph-Juste</forename>
                             <surname>Scaliger</surname>
                         </persName>
-                        <ref target="#Burm.">(1731)</ref>
+                        <ref target="#Burm.">Burman 1731</ref>
                     </item>
-                    <item xml:id="CSchenkl" n="C. Schenkl"
-                                ><persName><forename>Karl</forename><surname>Schenkl</surname></persName>,
-                        whose unpublished opinions <ref target="#Schenkl">H. Schenkl</ref> cites in
-                        his editions.</item>
+                    <item xml:id="CSchenkl" n="C. Schenkl">
+                        <persName>
+                            <forename>Karl</forename>
+                            <surname>Schenkl</surname>
+                        </persName>
+                        <ref target="#Schenkl">H. Schenkl</ref>
+                        <note>Unpublished opinions cited in Schenkl's editions.</note>
+                    </item>
                     <item xml:id="Scriverius" n="Scriver.">
                         <persName ref="https://viaf.org/viaf/121894458/">
                             <forename>Pieter</forename>
                             <surname>Schrijver</surname>
                             <addName>Scriverius</addName>
                         </persName>
-                        <ref target="#Burm.">(1731)</ref>
+                        <ref target="#Burm.">Burman 1731</ref>
                     </item>
-                    <item><persName xml:id="Schraeder" n="Schraeder">Schraeder</persName>, cited by
-                            <ref target="#Branstma">Brantsma</ref></item>
+                    <item xml:id="Schraeder" n="Schraeder">
+                        <persName>
+                            <forename>?</forename>
+                            <surname>Schraeder</surname>
+                        </persName>
+                        <ref target="#Branstma">Brantsma</ref></item>
                     <item xml:id="Tortell." n="Tortell.">
                         <persName>
                             <forename>Giovanni</forename>
                             <surname>Tortelli</surname>
                         </persName>
-                        <ref target="#Guid.">(1504)</ref></item>
+                        <ref target="#Guid.">Guidalotti 1504</ref>
+                    </item>
                     <item xml:id="Vigilius" n="Victor Vigilius" sameAs="#Barth">
-                        <persName>
+                        <persName ref="http://viaf.org/viaf/15563174">
                             <forename>Victor</forename>
                             <surname>Vigilius</surname>
-                        </persName>, pseudonym used by <ref target="#Barth">Kaspar von Barth</ref>
-                        in his notes to suggest conjectures that he is not prepared to print in his
-                        text.</item>
+                        </persName>
+                        <ref target="#Barth">Barth 1613</ref>
+                        <note>Pseudonym used by Kaspar von Barth in his notes to suggest conjectures
+                            that he is not prepared to print in his text.</note>
+                    </item>
                     <item xml:id="Wolf" n="Wolf">
                         <persName ref="http://viaf.org/viaf/32037036/">
                             <forename>Johann</forename>
                             <forename>Christoph</forename>
                             <surname>Wolf</surname>
                         </persName>
-                        <ref target="#Burm.">(1731)</ref>
+                        <ref target="#Burm.">Burman 1731</ref>
                     </item>
                 </list>
                 <list>
@@ -3626,7 +4014,7 @@
                                 unless referenced specifically elsewhere in an entry in the
                                 apparatus.</item>
                             <item xml:id="eddAnteBurm">edd. ante Burm.: All editions published
-                                before <ref target="#Burm.">Burmann's</ref> edition, unless
+                                before <ref target="#Burm.">Burman's</ref> edition, unless
                                 referenced specifically elsewhere in an entry in the
                                 apparatus.</item>
                             <item xml:id="BurmSqq" n="Burm. sqq">Burm. sqq.: <ref target="#Burm."
@@ -3740,9 +4128,9 @@
                             </app></l>
                         <l n="5"><app>
                                 <lem wit="#P #V" source="#edd.">molle sub</lem>
-                                <rdg wit="#N #G #A #H" source="#Glaeser #Keene" ana="#syntactic"> molliter</rdg>
-                                <note><ref target="#Jacoby">Jacoby</ref> defendit (p. 1290 <ref target="https://books.google.de/books?id=q5blAAAAMAAJ&amp;hl=de&amp;pg=PA128#v=onepage&amp;q&amp;f=false">Wochenschrift für Klassische Philologie</ref>)</note>
+                                <rdg wit="#N #G #A #H" source="#Glaeser #Keene" ana="#syntactic" xml:id="rdg1.5molliter">molliter</rdg>
                                 <rdg source="#Schenkl2" ana="#lexical">molle per</rdg>
+                            <note target="#rdg1.5molliter"><ref target="#Jacoby">Jacoby</ref> defendit (p. 1290 <ref target="https://books.google.de/books?id=q5blAAAAMAAJ&amp;hl=de&amp;pg=PA128#v=onepage&amp;q&amp;f=false">Wochenschrift für Klassische Philologie III, 1886</ref>)</note>
                             </app>
                             <app>
                                 <lem>hirsuta</lem>
@@ -3804,7 +4192,7 @@
                             </app></l>
                         <l n="10">silva comas <app ana="#lexical" type="conjecture">
                                 <lem>rapidoque</lem>
-                                <rdg source="#Baehr1870">rabidoque </rdg>
+                                <rdg source="#Baehr1870">rabidoque</rdg>
                                 <note>(lect. lat. p. 35 <ptr target="https://books.google.com/books?id=a6FMAAAAcAAJ&amp;pg=PT38#v=onepage&amp;q&amp;f=false"/>)</note>
                             </app>
                             <app ana="#orthographical">
@@ -5870,101 +6258,102 @@
                                 <lem>contemne</lem>
                                 <rdg wit="#N #G #P #ρ #α">contempne</rdg>
                             </app> casas et pastoralia tecta:</l>
-                        
-                        <!-- Start here -->
-                        
                         <l n="61">rusticus <app>
                                 <lem>est</lem>
-                                <rdg wit="#λ">es</rdg>
-                                <rdg wit="#π"/>
-                            </app>, fateor, sed non <app>
+                                <rdg wit="#λ" ana="#morphological">es</rdg>
+                                <rdg wit="#π" ana="#subtractive"/>
+                            </app>, fateor, sed non <app ana="#lexical">
                                 <lem>et</lem>
-                                <rdg wit="#V" source="#edd.">est</rdg>
-                                <note>praeter <ref target="#Heins.">Heins.</ref>
-                                    <note target="#GlaeserSqq">Glaeser sqq.</note></note>
+                                <rdg wit="#V" source="#edd." xml:id="rdg2.61est">est</rdg>
+                                <note target="#rdg2.61est">praeter <ref target="#Heins.">Heins.</ref>
+                                    <ref target="#GlaeserSqq">Glaeser sqq.</ref></note>
                                 <rdg wit="#λ">es</rdg>
-                                <rdg wit="#α">est et</rdg>
-                            </app> barbarus <app>
+                                <rdg wit="#α" ana="#additive">est et</rdg>
+                            </app> barbarus <app ana="#orthographical">
                                 <lem>Idas</lem>
                                 <rdg wit="#G">ydas</rdg>
                             </app>.</l>
-                        <l n="62">saepe vaporato mihi <app>
+                        <l n="62">saepe vaporato mihi <app ana="#orthographical">
                                 <lem>caespite</lem>
                                 <rdg wit="#ω">cespite</rdg>
                             </app> palpitat agnus,</l>
-                        <l n="63"><app>
-                                <lem>saepe cadit festis <app>
+                        <app type="lineOmission" ana="#subtractive #additive">
+                            <lem>
+                                <l n="63">saepe cadit festis <app ana="#lexical" type="conjecture">
                                         <lem>devota</lem>
                                         <rdg wit="#Gryph.">devecta</rdg>
                                     </app>
-                                    <app>
+                                    <app ana="#orthographical">
                                         <lem wit="#P #ζ2 #p" source="#h #Martell. #Kempfer #Baehr. #Schenkl">Parilibus</lem>
                                         <rdg wit="#G #N">paliribus</rdg>
                                         <rdg wit="#V" source="#edd.">palilibus</rdg>
-                                    </app> agna.</lem>
-                                <rdg wit="#ε #e #d #c #Nordh.">perfundens aras divorum sanguine
-                                    largo</rdg>
-                            </app></l>
+                                    </app> agna.
+                                </l>
+                            </lem>
+                            <rdg wit="#ε #e #d #c #Nordh." xml:id="rdg2.62line"/>
+                            <note target="#rdg2.62line">versum om. et in his edd. pro eo scriptum est: <quote>perfundens aras divorum sanguine largo</quote></note>
+                        </app>
                     </sp>
                     <sp who="#Astacus">
                         <speaker>A.</speaker>
-                        <l n="64">Nos quoque pomiferi Laribus consuevimus <app>
+                        <l n="64">Nos quoque pomiferi Laribus consuevimus 
+                            <app ana="#orthographical">
                                 <lem wit="#λ #ν #η #γ #ε #φ">horti</lem>
                                 <rdgGrp>
                                     <rdg wit="#N #G #P #κ #ρ #π #μ #β #δ #χ" xml:id="rdg2.15.63">orti</rdg>
-                                    <rdgGrp type="subvariant">
+                                    <rdgGrp type="anteCorr">
                                         <rdg wit="#α" varSeq="1">ortis</rdg>
                                         <rdg wit="#α" varSeq="2" copyOf="#rdg2.15.63"/>
                                     </rdgGrp>
                                 </rdgGrp>
-                            </app></l>
-                        <l n="65"><app>
+                            </app>
+                        </l>
+                        <l n="65"><app ana="#orthographical">
                                 <lem>mittere</lem>
                                 <rdg wit="#G">mictere</rdg>
-                            </app> primitias <app>
+                            </app> primitias <app ana="#subtractive">
                                 <lem xml:id="lem2.15.65">et</lem>
                                 <rdgGrp type="corrMarg">
-                                    <rdg wit="#N" hand="#N1" varSeq="1"/>
-                                    <rdg wit="#N" hand="#N2" varSeq="2"><add place="margin" copyOf="#lem2.15.65"/></rdg>
+                                    <rdg wit="#N" varSeq="1"/>
+                                    <rdg wit="#N2" varSeq="2"><add place="margin" copyOf="#lem2.15.65"/></rdg>
                                 </rdgGrp>
                             </app>
                             <app>
                                 <lem wit="#N #G #P #A" source="#edd.">figere</lem>
-                                <rdg wit="#V #r #s" source="#o #n #i1 #l1 #Guid. #Vienn.">fundere</rdg>
-                                <rdg wit="#ε #e">fraude</rdg>
-                                <rdg wit="#d #Nordh.">farrea</rdg>
-                                <rdg wit="#coddTitii" source="#Tig. #Modius #Ulit. #h #p #t #Casaub. #Martell. #Burm. #Wernsd. #Beck #Glaeser #Keene">fingere</rdg>
+                                <rdg wit="#V #r #s" source="#o #n #i1 #l1 #Guid. #Vienn." ana="#lexical">fundere</rdg>
+                                <rdg wit="#ε #e" ana="#lexical #syntactic">fraude</rdg>
+                                <rdg wit="#d #Nordh." ana="#lexical #syntactic">farrea</rdg>
+                                <rdg wit="#coddTitii" source="#Tig. #Modius #Ulit. #h #p #t #Casaub. #Martell. #Burm. #Wernsd. #Beck #Glaeser #Keene" ana="#lexical">fingere</rdg>
                             </app> liba Priapo,</l>
                         <l n="66"><app>
                                 <lem>rorantesque favos</lem>
-                                <rdg wit="#V">rorantes fagos</rdg>
-                                <rdg wit="#α">rorantesque</rdg>
-                                <rdg wit="#φ #ν #ρ1 #η #ζ #r" source="#i1">rorantis</rdg>
-                                <rdg wit="#α #φ2 #ρ2 #ζ #r #u #e #b" source="#i #l #Vienn.">favos</rdg>
-                                <rdg wit="#s #n" source="#o">rorantisque favos</rdg>
-                                <rdg wit="#d #Nordh.">portantesque favos</rdg>
-                            </app> damus <app>
+                                <rdg wit="#V #r #u #e #b" source="#i #l #Vienn." ana="#subtractive #lexical">rorantes fagos</rdg>
+                                <rdg wit="#φ #ν #ρ1 #η #ζ #r" source="#i1" ana="#subtractive #lexical">rorantis fagos</rdg>
+                                <rdg wit="#φ2 #ρ2 #ζ" ana="#subtractive">rorantes favos</rdg>
+                                <rdg wit="#s #n" source="#o" ana="#orthographical">rorantisque favos</rdg>
+                                <rdg wit="#d #Nordh." ana="#lexical">portantesque favos</rdg>
+                            </app> damus <app ana="#lexical">
                                 <lem>et</lem>
                                 <rdg wit="#d #Nordh.">atque</rdg>
                             </app>
-                            <app>
+                            <app ana="#lexical">
                                 <lem>liquentia</lem>
                                 <rdg wit="#ρ2">rorantia</rdg>
                             </app> mella;</l>
-                        <l n="67"><app>
+                        <l n="67"><app ana="#lexical">
                                 <lem>nec</lem>
                                 <rdg wit="#μ">ne</rdg>
                             </app>
                             <app>
                                 <lem wit="#N #G #P #λ2" source="#edd.">sunt</lem>
-                                <rdg wit="#A #γ #μ #ε #α #δ #λ1 #u #e #b #d2" source="#o #n #i #l2 #Barth #Nordh. #Wernsd. #Beck #Keene ">fore</rdg>
-                                <rdg wit="#π #χ #β #ν #φ #ρ #κ #η #ζ #θ #r" source="#h #Ulit.">fere</rdg>
-                                <rdg wit="#s" source="#p #Modius #Kempfer">fero</rdg>
-                                <rdg source="#Heins.">fors</rdg>
-                                <rdg source="#Burm.">fert</rdg>
-                                <rdg source="#Glaeser">stant</rdg>
+                                <rdg wit="#A #γ #μ #ε #α #δ #λ1 #u #e #b #d2" source="#o #n #i #l2 #Barth #Nordh. #Wernsd. #Beck #Keene" ana="#morphological #syntactic">fore</rdg>
+                                <rdg wit="#π #χ #β #ν #φ #ρ #κ #η #ζ #θ #r" source="#h #Ulit." ana="#lexical">fere</rdg>
+                                <rdg wit="#s" source="#p #Modius #Kempfer" ana="#lexical #syntactic">fero</rdg>
+                                <rdg source="#Heins." ana="#lexical #syntactic" type="conjecture">fors</rdg>
+                                <rdg source="#Burm." ana="#lexical" type="conjecture">fert</rdg>
+                                <rdg source="#Glaeser" ana="#lexical" type="conjecture">stant</rdg>
                             </app>
-                            <app>
+                            <app ana="#lexical">
                                 <lem>grata</lem>
                                 <rdg wit="#κ #λ #ρ2">cara</rdg>
                             </app> minus, quam si caper imbuat aras.</l>
@@ -5973,76 +6362,83 @@
                         <speaker>I.</speaker>
                         <l n="68">Mille sub uberibus <app>
                                 <lem wit="#N #G #P #H #χ #β" source="#edd.">balantes</lem>
-                                <rdg wit="#ρ1 #π #θ #l1" source="#Vienn. #p #h #Ulit.">palantes</rdg>
-                                <rdg wit="#ν #φ #η #ρ2 #r" source="#i1">palantis</rdg>
-                                <rdgGrp type="subvariants">
-                                    <rdg wit="#α"><add place="inline" hand="#α1" xml:id="rdg2.15.67">pallantes</add></rdg>
-                                    <rdg wit="#κ" copyOf="#rdg2.15.67"/>
-                                </rdgGrp>
-                                <rdg wit="#ε #λ #γ #e #d">pallentes</rdg>
-                                <rdg wit="#μ">patentes</rdg>
-                                <rdg wit="#δ">palentes</rdg>
-                                <rdg wit="#ζ">balantis</rdg>
-                                <rdg wit="#u #b">ballantes</rdg>
-                                <rdg wit="#s">pallantis</rdg>
-                            </app> pascimus <app>
+                                <rdg wit="#ρ1 #π #θ #l1" source="#Vienn. #p #h #Ulit." ana="#lexical">palantes</rdg>
+                                <rdg wit="#ν #φ #η #ρ2 #r" source="#i1" ana="#lexical">palantis</rdg>
+                                <rdg wit="#α #κ" xml:id="rdg2.68pallantes" ana="#lexical">pallantes</rdg>
+                                <witDetail wit="#α" target="#rdg2.68pallantes">(in ras.)</witDetail>
+                                <rdg wit="#ε #λ #γ #e #d" ana="#lexical">pallentes</rdg>
+                                <rdg wit="#μ" ana="#lexical">patentes</rdg>
+                                <rdg wit="#δ" ana="#lexical">palentes</rdg>
+                                <rdg wit="#ζ" ana="#orthographical">balantis</rdg>
+                                <rdg wit="#u #b" ana="#orthographical">ballantes</rdg>
+                                <rdg wit="#s" ana="#lexical">pallantis</rdg>
+                            </app> pascimus <app ana="#morphological">
                                 <lem>agnas</lem>
                                 <rdg wit="#G">agnos</rdg>
                             </app>,</l>
-                        <l n="69">totque Tarentinae <app>
+                        <l n="69">totque Tarentinae <app ana="#morphological #syntactic">
                                 <lem>praestant</lem>
                                 <rdg wit="#i2">praestent</rdg>
-                            </app> mihi <app>
+                            </app> mihi <app ana="#morphological #syntactic" type="conjecture">
                                 <lem>uellera</lem>
                                 <rdg source="#Vienn. #p #Kempfer">vellere</rdg>
                             </app> matres;</l>
-                        <l n="70">per totum niveus premitur mihi caseus <app>
+                        <l n="70">per totum niveus premitur mihi caseus <app ana="#orthographical">
                                 <lem xml:id="lem2.15.70">annum</lem>
-                                <!-- G (corr. m1) -->
                                 <rdgGrp type="anteCorr">
-                                    <rdg wit="#G" hand="#G1" varSeq="1">annus</rdg>
-                                    <rdg wit="#G" hand="#G1" varSeq="2" copyOf="#lem2.15.70"/>
+                                    <rdg wit="#G" varSeq="1">annus</rdg>
+                                    <rdg wit="#G1" varSeq="2" copyOf="#lem2.15.70"/>
                                 </rdgGrp>
                             </app>:</l>
                         <l n="71"><app>
                                 <lem>si venias</lem>
-                                <rdg wit="#α #β #χ #γ #δ #ε #λ #κ #ρ #η #ν #θ #ζ #r #u #e #b #d2" source="#i #l2">si venies</rdg>
-                                <rdg wit="#μ">invenies</rdg>
-                            </app>, <app>
+                                <rdg wit="#α #β #χ #γ #δ #ε #λ #κ #ρ #η #ν #θ #ζ #r #u #e #b #d2" source="#i #l2" ana="#morphological #syntactic">si venies</rdg>
+                                <rdg wit="#μ" ana="#lexical">invenies</rdg>
+                            </app>, <app ana="#orthographical">
                                 <lem>Crocale</lem>
                                 <rdg wit="#G">crochale</rdg>
-                            </app>, totus <app>
+                            </app>, <app>
+                                <lem xml:id="lem2.71totus" exclude="#rdg2.71hornum">totus</lem>
+                                <rdg source="#Burm." exclude="#lem2.71annus #rdg2.71ornus #rdg2.71ortus #rdg2.71hortus #rdg2.71hornus" xml:id="rdg2.71totum" ana="#morphological" type="conjecture">totum</rdg>
+                                <rdg source="#Burm." exclude="#lem2.71annus #rdg2.71ornus #rdg2.71ortus #rdg2.71hortus #rdg2.71hornum" xml:id="rdg2.71foetus" ana="#lexical" type="conjecture">foetus</rdg>
+                            </app> <app ana="#lexical">
                                 <lem>tibi</lem>
                                 <rdg wit="#ε #e #u #b" source="#i #l2 #Gryph. #Tig. #P">mihi</rdg>
                             </app>
-                            <app>
+                            <app ana="#morphological #syntactic">
                                 <lem>serviet</lem>
                                 <rdg wit="#P">serviat</rdg>
                             </app>
+                            
+                            <!-- Start labeling variants here -->
+                            
+                            
                             <app>
-                                <lem>annus</lem>
-                                <rdg wit="#φ #ν #θ #ζ #r">ornus</rdg>
-                                <rdg wit="#s">ortus</rdg>
-                                <rdg source="#n #o">hortus</rdg>
-                                <rdg source="#coddTitii #l1 #i1 #p #h #t #Vienn. #Scaliger #Guid. #Barth #Ulit. #Wernsd. #Beck #Glaeser #Keene">hornus</rdg>
-                                <!-- codd. -->
-                                <note><q>totum-hornum</q> vel <q>foetus-hornus</q>
+                                <lem xml:id="lem2.71annus">annus</lem>
+                                <rdg wit="#φ #ν #θ #ζ #r" xml:id="rdg2.71ornus">ornus</rdg>
+                                <rdg wit="#s" xml:id="rdg2.71ortus">ortus</rdg>
+                                <rdg source="#n #o" xml:id="rdg2.71hortus">hortus</rdg>
+                                <rdg source="#coddTitii #l1 #i1 #p #h #t #Vienn. #Scaliger #Guid. #Barth #Ulit. #Wernsd. #Beck #Glaeser #Keene" xml:id="rdg2.71hornus">hornus</rdg>
+                                <rdg source="#Burm." exclude="#lem2.71totus #rdg2.71foetus" xml:id="rdg2.71hornum" ana="#lexical" type="conjecture">hornum</rdg>
+                                <rdg source="#Burm." exclude="#lem2.71totus #rdg2.71totum" ana="#lexical" type="conjecture" copyOf="#rdg2.71hornus"/>
+                                <note target="#rdg2.71hornum"><q>totum-hornum</q> vel <q>foetus-hornus</q>
                                     <ref target="#Burm.">Burm.</ref></note>
                             </app>.</l>
                     </sp>
                     <sp who="#Astacus">
                         <speaker>A.</speaker>
-                        <l n="72"><app>
-                                <lem xml:id="lem2.16.72">Qui numerare velit, quam multa sub arbore
-                                    nostra</lem>
-                                <!-- φ (add. m2) -->
-                                <rdgGrp type="corrLineOm">
-                                    <rdg wit="#φ" varSeq="1"/>
-                                    <rdg wit="#φ" varSeq="2"><add hand="#φ2" copyOf="#lem2.16.72"/></rdg>
-                                </rdgGrp>
-                            </app></l>
-                        <l n="73"><app>
-                                <lem xml:id="lem2.16.73">poma legam, <app>
+                        <app>
+                            <lem xml:id="lem2.16.72">
+                                <l n="72">Qui numerare velit, quam multa sub arbore nostra</l>
+                            </lem>
+                            <rdgGrp type="corrLineOm">
+                                <rdg wit="#φ" varSeq="1"/>
+                                <rdg wit="#φ2" varSeq="2"><add copyOf="#lem2.16.72"/></rdg>
+                            </rdgGrp>
+                            </app>
+                        <app>
+                            <lem xml:id="lem2.16.73">
+                                <l n="73">poma legam, <app>
                                         <lem wit="#G #H" source="#Baehr. #Schenkl">tenues
                                             citius</lem>
                                         <rdg wit="#P">tenues cuius</rdg>
@@ -6058,15 +6454,16 @@
                                         <rdg wit="#N #G #P #φ #κ #π #χ #γ #μ #ν #α2 #η #δ #θ #r" source="#i1 #l1 #Vienn. #Guid. #Ulit. #p #h #Glaeser #Baehr. #Keene">arenas</rdg>
                                         <rdg wit="#ε #λ #α1" source="#edd.">aristas</rdg>
                                         <rdg source="#Burm.">avenas</rdg>
-                                    </app>.</lem>
-                                <!-- φ (add. m2) -->
+                                    </app>.</l>
+                            </lem>
                                 <rdgGrp type="corrLineOm">
                                     <rdg wit="#φ" varSeq="1"/>
                                     <rdg wit="#φ2" varSeq="2"><add copyOf="#lem2.16.73"/></rdg>
                                 </rdgGrp>
-                            </app></l>
-                        <l n="74"><app>
-                                <lem xml:id="lem2.16.74">semper <app>
+                            </app>
+                        <app>
+                            <lem xml:id="lem2.16.74">
+                                <l n="74">semper <app>
                                         <lem wit="#N">holus</lem>
                                         <rdg wit="#G #P #V">olus</rdg>
                                     </app>
@@ -6075,22 +6472,22 @@
                                         <rdg wit="#P">metitur</rdg>
                                     </app>, nec <app>
                                         <lem xml:id="lem2.16.74bruma">bruma</lem>
-                                        <!-- N(corr. m2) -->
                                         <rdgGrp type="correction">
-                                            <rdg wit="#N" hand="#N1" varSeq="1">pbruma</rdg>
-                                            <rdg wit="#N" hand="#N2" varSeq="2" copyOf="#lem2.16.74bruma"/>
+                                            <rdg wit="#N" varSeq="1">pbruma</rdg>
+                                            <rdg wit="#N2" varSeq="2" copyOf="#lem2.16.74bruma"/>
                                         </rdgGrp>
                                         <rdg wit="#P">prima</rdg>
-                                    </app> nec impedit aestas:</lem>
-                                <!-- φ (add. m2) -->
+                                    </app> nec impedit aestas:</l>
+                                </lem>
                                 <rdgGrp type="corrLineOm">
                                     <rdg wit="#φ" varSeq="1"/>
                                     <rdg wit="#φ2" varSeq="2"><add copyOf="#lem2.16.74"/></rdg>
                                 </rdgGrp>
                                 <rdg wit="#δ"/>
-                            </app></l>
+                            </app>
                         <app>
-                          <lem xml:id="lem2.16.75"><l n="75">si <app>
+                          <lem xml:id="lem2.16.75">
+                              <l n="75">si <app>
                                     <lem>venias</lem>
                                     <rdg wit="#ε #π #λ #α #γ #η #δ #θ #β #ζ #u #e #b #d2" source="#i2 #l2 #g">venies</rdg>
                                 </app>, Crocale, <app>
@@ -6105,7 +6502,9 @@
                                     <lem wit="#ε #β #γ #φ #η #ν #λ" source="#edd.">hortus</lem>
                                     <rdg wit="#N #G #P #κ #ρ #α #χ #μ #π #δ #b">ortus</rdg>
                                     <rdg wit="#H">annus</rdg>
-                                </app></l></lem>
+                                </app>
+                              </l>
+                          </lem>
                           <!-- φ (add. m2) -->
                           <rdgGrp type="corrLineOm">
                               <rdg wit="#φ" varSeq="1"/>
