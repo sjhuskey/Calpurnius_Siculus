@@ -1346,7 +1346,8 @@
                         <listWit>
                             <head>First family</head>
                             <witness xml:id="N" n="N"
-                                corresp="#CodexNeapolitanusLat #CodexNeapolitanusTrans">Codex
+                                corresp="#CodexNeapolitanusLat #CodexNeapolitanusTrans">
+                                Codex
                                 Neapolitanus V A 8 <!-- Use @corresp here to link to a record in the DLL catalog of manuscripts? -->
                                 <msDesc>
                                     <msIdentifier>
@@ -1375,6 +1376,7 @@
                                             <origDate notAfter="1500" notBefore="1400">XV</origDate>
                                         </origin>
                                     </history>
+                                    
                                 </msDesc>
                             </witness>
                             <witness xml:id="G" n="G"
@@ -1434,7 +1436,7 @@
                                 </msDesc>
                             </witness>
                             <witness xml:id="β" n="β"
-                                corresp="#CodAmbrosianusI26 #CodAmbrosianusI26Trans">Codex
+                                corresp="#CodAmbrosianusI26 #CodAmbrosianusI26Trans"><idno type="siglum">β</idno>Codex
                                 Ambrosianus I.26 sup. <msDesc>
                                     <msIdentifier>
                                         <settlement>Milan</settlement>
@@ -1905,722 +1907,220 @@
                         </listWit>
                     </item>
                 </list>
-                <!-- A list of incunabula, i.e., early editions that might reproduce a single manuscript -->
-                <listBibl type="Witness">
+               
+                <!-- Witnesses: Early editions -->
+                
+                <listWit xml:id="early-editions">
                     <head>Early Editions</head>
-                    <biblStruct xmlns="http://www.tei-c.org/ns/1.0" type="book" xml:id="r" n="r"
-                        corresp="http://zotero.org/groups/542622/items/4HH3IVEM">
-                        <monogr>
-                            <title level="m">[Bucolica]</title>
-                            <editor>
-                                <name>Anonymous</name>
-                            </editor>
-                            <imprint>
-                                <pubPlace>Rome</pubPlace>
-                                <publisher>Schweynheim and Pannartz</publisher>
-                                <date>1471</date>
-                            </imprint>
-                        </monogr>
-                    </biblStruct>
-                    <biblStruct xmlns="http://www.tei-c.org/ns/1.0" type="book" xml:id="e" n="e"
-                        corresp="http://zotero.org/groups/542622/items/HJEKZCCV">
-                        <monogr>
-                            <title level="m">[Bucolica]</title>
-                            <editor>
-                                <name>Anonymous</name>
-                            </editor>
-                            <imprint>
-                                <pubPlace>Venice</pubPlace>
-                                <publisher>Ausonius and Giradinus</publisher>
-                                <date>1472</date>
-                            </imprint>
-                        </monogr>
-                    </biblStruct>
-                    <listBibl xml:id="d" n="d" type="Consensus">
-                        <biblStruct xmlns="http://www.tei-c.org/ns/1.0" type="book" xml:id="d1"
-                            n="d¹" corresp="http://zotero.org/groups/542622/items/3M528XCJ">
-                            <monogr>
-                                <title level="m">[Bucolica]</title>
-                                <author>
-                                    <forename>Titus</forename>
-                                    <surname>Calpurnius Siculus</surname>
-                                </author>
-                                <editor>
-                                    <name>Anonymous</name>
-                                </editor>
-                                <imprint>
-                                    <pubPlace>Daventer</pubPlace>
-                                    <publisher>Paffraet, Richard</publisher>
-                                    <date>1488</date>
-                                    <note target="#d1" type="url"
-                                        >http://gateway.proquest.com/openurl?url_ver=Z39.88-2004&amp;res_dat=xri:eurobo:&amp;rft_dat=xri:eurobo:rec:ned-kbn-all-00001955-001</note>
-                                </imprint>
-                            </monogr>
-                        </biblStruct>
-                        <biblStruct xmlns="http://www.tei-c.org/ns/1.0" type="book" xml:id="d2"
-                            n="d²" corresp="http://zotero.org/groups/542622/items/8UKTTQ6Z">
-                            <monogr>
-                                <title level="m">Titi Calphurnii Siculi Bucolicum carmen</title>
-                                <editor>
-                                    <name>Anonymous</name>
-                                </editor>
-                                <imprint>
-                                    <pubPlace>Daventer</pubPlace>
-                                    <publisher>Jacobus de Breda</publisher>
-                                    <date>1491</date>
-                                    <note target="#d2" type="url"
-                                        >http://daten.digitale-sammlungen.de/~db/0008/bsb00080128/images/</note>
-                                </imprint>
-                            </monogr>
-                        </biblStruct>
-                    </listBibl>
-                    <biblStruct xmlns="http://www.tei-c.org/ns/1.0" type="book" xml:id="u" n="u"
-                        corresp="http://zotero.org/groups/542622/items/3AU7SFI3">
-                        <monogr>
-                            <title level="m">[Bucolica]</title>
-                            <editor>
-                                <name>Anonymous</name>
-                            </editor>
-                            <imprint>
-                                <pubPlace>Parma</pubPlace>
-                                <publisher>Angelius Ugoletus</publisher>
-                                <date>1492</date>
-                                <note target="#u" type="url"
-                                    >http://gateway.proquest.com/openurl?url_ver=Z39.88-2004&amp;res_dat=xri:eurobo:&amp;rft_dat=xri:eurobo:rec:ned-kbn-all-00001955-001%20http://gateway.proquest.com/openurl?url_ver=Z39.88-2004&amp;res_dat=xri:eurobo:&amp;rft_dat=xri:eurobo:thumbnails:ned-kbn-all-00002095-001%20http://daten.digitale-sammlungen.de/~db/0008/bsb00080128/images/</note>
-                            </imprint>
-                        </monogr>
-                    </biblStruct>
-                    <biblStruct xmlns="http://www.tei-c.org/ns/1.0" type="book" xml:id="c" n="c"
-                        corresp="http://zotero.org/groups/542622/items/UJDPXRD8">
-                        <monogr>
-                            <title level="m">Buccolica canozi poete Titi calphurnii Siculi underin
-                                Aeglogis iucunditer derantata</title>
-                            <editor>
-                                <name>Anonymous</name>
-                            </editor>
-                            <author>
-                                <forename>Titus</forename>
-                                <surname>Calpurnius Siculus</surname>
-                            </author>
-                            <imprint>
-                                <pubPlace>Cologne</pubPlace>
-                                <publisher>Heinrich Quentel</publisher>
-                                <date>1505</date>
-                                <note target="#c" type="url"
-                                    >http://digitale.bibliothek.uni-halle.de/id/1000626</note>
-                            </imprint>
-                        </monogr>
-                    </biblStruct>
-                    <biblStruct xmlns="http://www.tei-c.org/ns/1.0" type="book" xml:id="Nordh."
-                        n="Nordh." corresp="http://zotero.org/groups/542622/items/UAZU56E4">
-                        <monogr>
-                            <title level="m">[Bucolica]</title>
-                            <editor>
-                                <name>Anonymous</name>
-                            </editor>
-                            <imprint>
-                                <pubPlace>Nordheim</pubPlace>
-                                <publisher>s. n.</publisher>
-                                <date>s. d.</date>
-                            </imprint>
-                        </monogr>
-                    </biblStruct>
-                    <biblStruct xmlns="http://www.tei-c.org/ns/1.0" type="book" xml:id="s" n="s"
-                        corresp="http://zotero.org/groups/542622/items/TXA4M9HA">
-                        <monogr>
-                            <title level="m">Buccolica, cum adnotatione Ascensiana, jam diligentius
-                                recognita</title>
-                            <editor xml:id="Ascensius">
-                                <forename>Josse</forename>
-                                <surname>Badius ("Ascensius")</surname>
-                            </editor>
-                            <imprint>
-                                <pubPlace>Paris</pubPlace>
-                                <publisher>In vico Maturinorum a Durando Gerlerio</publisher>
-                                <date>1503</date>
-                                <note target="#s" type="url"
-                                    >http://gallica.bnf.fr/ark:/12148/bpt6k841539v</note>
-                            </imprint>
-                        </monogr>
-                    </biblStruct>
-                    <biblStruct xmlns="http://www.tei-c.org/ns/1.0" type="book" xml:id="b" n="b"
-                        corresp="http://zotero.org/groups/542622/items/9WZW3IKD">
-                        <monogr>
-                            <title level="m">Calpurnii &amp; Nemesiani poetarum Buccolicum carmen
-                                una cum commentariis Diomedis Guidalotti Bononiensis</title>
-                            <author>
-                                <forename>Titus Calpurnius</forename>
-                                <surname>Siculus</surname>
-                            </author>
-                            <author>
-                                <forename>Marcus Aurelius Olympius</forename>
-                                <surname>Nemesianus</surname>
-                            </author>
-                            <editor>
-                                <forename>Diomede</forename>
-                                <surname>Guidalotti</surname>
-                            </editor>
-                            <imprint>
-                                <pubPlace>Bologna</pubPlace>
-                                <publisher>Caligula Bazalerius</publisher>
-                                <date>1504</date>
-                                <note target="#m" type="url"
-                                    >https://books.google.com/books?id=B1RrV7ciP6gC&amp;dq=Guidalotti&amp;pg=PT3#v=onepage&amp;q=Guidalotti&amp;f=false</note>
-                            </imprint>
-                        </monogr>
-                    </biblStruct>
-                </listBibl>
-                <!-- A list of "modern" editions of Calpurnius Siculus (and Nemesianus) -->
-                <listBibl type="Source">
+                    <witness xml:id="r">
+                        <abbr type="siglum">r</abbr> = <bibl><editor><name>Anonymous</name></editor>.
+                            <title>editio Romana</title>, <pubPlace>[Romae]</pubPlace>:
+                            <publisher>Schweynheim et Pannartz</publisher>, <date>1471</date></bibl>. </witness>
+                    <witness xml:id="e"><abbr type="siglum">e</abbr> = <bibl><editor><name>Anonymous</name>.
+                    </editor><title>editio Veneta</title>, <pubPlace>[Venetiis]</pubPlace>:
+                        <publisher>Ausonius et Giradinus</publisher>,
+                        <date>1472</date></bibl>.</witness>
+                    <listWit xml:id="d">
+                        <head><abbr type="siglum">d</abbr> = utriusque edit. Daventr. consensus</head>
+                        <witness xml:id="d1"><abbr type="siglum">d<hi rend="super">1</hi></abbr> =
+                            <bibl><editor>Anonymous</editor>. <title>editio Daventriensis prior</title>,
+                                <pubPlace>[Daventriae]</pubPlace>: <publisher>apud R. Paffraet</publisher>,
+                                <date>1488</date></bibl>. URL: <ptr
+                                    target="http://gateway.proquest.com/openurl?url_ver=Z39.88-2004&amp;res_dat=xri:eurobo:&amp;rft_dat=xri:eurobo:rec:ned-kbn-all-00001955-001"
+                                />.</witness>
+                        <witness xml:id="d2">
+                            <abbr type="siglum">d<hi rend="super">2</hi></abbr> =
+                            <bibl><editor>Anonymous</editor>. <title>editio Daventriensis
+                                posterior</title>
+                                <pubPlace>[Daventriae]</pubPlace>: <publisher>apud J. de Breda</publisher>,
+                                <date>1491</date></bibl>. URL: <ptr
+                                    target="http://daten.digitale-sammlungen.de/~db/0008/bsb00080128/images/"/>.
+                        </witness>
+                    </listWit>
+                    <witness xml:id="u"><abbr type="siglum">u</abbr> = <bibl><editor>Anonymous</editor>.
+                        <title>editio Ang. Ugoleti</title>
+                        <pubPlace>Parmae</pubPlace>: <publisher>Angelus Ugoletus</publisher>,
+                        <date>1492</date></bibl></witness>
+                    <witness xml:id="c"><abbr type="siglum">c</abbr> = <bibl><editor>Anonymous</editor>.
+                        <title>editio Coloniensis (Buccolica canori poetae Titi Calphurnii Siculi
+                            undecim Aeglogis iucunditer decantata)</title>. <pubPlace>Coloniae</pubPlace>:
+                        <publisher>[Henricus Quintell]</publisher>, <date>1505</date>(?)</bibl>. URL:
+                        <ptr
+                            target="http://digitale.bibliothek.uni-halle.de/vd16/content/titleinfo/1000626"
+                        /></witness>
+                    <witness xml:id="Nordh."><abbr type="siglum">Nordh.</abbr> = <bibl><editor/>. <title>ed.
+                        Nordheimensis</title>, <pubPlace>[Nordheim]</pubPlace>:
+                        <publisher>s.n.</publisher>, <date>s.d.</date></bibl></witness>
+                    <witness xml:id="s"><abbr type="siglum">s</abbr> = <bibl><title>editio
+                        Ascensiana</title> = <editor>Badius, Josse (“Ascensius”)</editor>.
+                        <title>Buccolica, Cum Adnotatione Ascensiana</title>. <pubPlace>Parhisiis, in
+                            vico Maturinorum</pubPlace>: <publisher>a Durando Gerlerio</publisher>,
+                        <date>1503</date></bibl>. UTRL: <ptr
+                            target="http://gallica.bnf.fr/ark:/12148/bpt6k841539v"/>.</witness>
+                    <witness xml:id="b"><abbr type="siglum">b</abbr> = <bibl><title>editio
+                        Bononiensis</title> = <editor>Guidalottus Bononiensis, Diomedes</editor>.
+                        <title>Calpurnii et Nemesiani Poetarum Buccolicum Carmen</title>.
+                        <pubPlace>Bononiae</pubPlace>: <publisher>per Caligulam Bazalerium</publisher>,
+                        <date>1504</date></bibl>. URL: <ptr
+                            target="https://books.google.com/books?id=B1RrV7ciP6gC&amp;dq=Guidalotti&amp;pg=PT3#v=onepage&amp;q=Guidalotti&amp;f=false"
+                        /></witness>
+                </listWit>
+                
+                <!-- Sources -->
+                
+                <listBibl xml:id="modern-editions">
                     <head>Modern Editions</head>
-                    <listBibl type="Consensus" xml:id="i" n="i">
-                        <!-- Should a consensus siglum be an xml:id on a <listBibl> containing the items, or a separate siglum listed elsewhere? -->
-                        <biblStruct xmlns="http://www.tei-c.org/ns/1.0" type="book" xml:id="i1"
-                            n="i¹" corresp="http://zotero.org/groups/542622/items/PU7NWNA7">
-                            <monogr>
-                                <title level="m">[Bucolica]</title>
-                                <editor>
-                                    <forename>Benedictus Philologus ("Ricardinus")</forename>
-                                    <surname>Florentinus</surname>
-                                </editor>
-                                <imprint>
-                                    <pubPlace>Florence</pubPlace>
-                                    <publisher>Philippi de Giunta</publisher>
-                                    <date>1504</date>
-                                </imprint>
-                            </monogr>
-                        </biblStruct>
-                        <biblStruct xmlns="http://www.tei-c.org/ns/1.0" type="book" xml:id="i2"
-                            n="i²" corresp="http://zotero.org/groups/542622/items/2Q78J4HG">
-                            <monogr>
-                                <title level="m">M. Aurelii Olympii Nemesiani Carthaginiensis. T.
-                                    Calphurnii Siculi Bucolica. Nuper à situ, &amp; squallore
-                                    vindicata, nouisque commentarijs exposita opera, ac studio
-                                    Roberti Titii Burgensis. ..</title>
-                                <author>
-                                    <forename>Marcus Aurelius Olympius</forename>
-                                    <surname>Nemesianus</surname>
-                                </author>
-                                <author>
-                                    <forename>Ugolino</forename>
-                                    <surname>Martelli</surname>
-                                </author>
-                                <editor xml:id="Tit." n="Tit.">
-                                    <forename>Roberto</forename>
-                                    <surname>Titi</surname>
-                                </editor>
-                                <author>
-                                    <forename>Titus Calpurnius</forename>
-                                    <surname>Siculus</surname>
-                                </author>
-                                <imprint>
-                                    <pubPlace>Florence</pubPlace>
-                                    <publisher>apud Philippum Iunctam</publisher>
-                                    <date>1590</date>
-                                    <note target="#i2" type="url"
-                                        >https://books.google.com/books?id=9SEvnoZgKe4C&amp;pg=PR1#v=onepage&amp;q&amp;f=false</note>
-                                </imprint>
-                            </monogr>
-                        </biblStruct>
+                    <listBibl xml:id="i">
+                        <head><abbr type="siglum">i</abbr> = utriusque ed. Florent. consensus</head>
+                        <bibl xml:id="i1"><abbr type="siglum">i<hi rend="super">1</hi></abbr> =
+                            <editor>Anonymous</editor>. <title>editio Florentina prior</title>.
+                            <pubPlace>Florentiae</pubPlace>: <publisher>Philippi de Giunta</publisher>,
+                            <date>1504</date>. URL: <ptr
+                                target="https://books.google.com/books?id=LVJmAAAAcAAJ&amp;dq=Eclogae.%20Vergilii.%20Calphurnii.%20Nemesiani.%20Francisci.&amp;pg=PP7#v=onepage&amp;q&amp;f=false"
+                            /></bibl>
+                        <bibl xml:id="i2"><abbr type="siglum">i<hi rend="super">2</hi></abbr> =
+                            <editor>Anonymous</editor>. <title>editio Florentina posterior</title> =
+                            Titius, Robertus. <title>M. Aurelii Olympii Nemesiani Carthaginiensis, T.
+                                Calphurnii Siculi Bucolica</title>. <pubPlace>Florentiae</pubPlace>:
+                            <publisher>apud Philippum Iunctam</publisher>, <date>1590</date>. URL: <ptr
+                                target="https://books.google.com/books?id=9SEvnoZgKe4C&amp;pg=PR1#v=onepage&amp;q&amp;f=false"
+                            /></bibl>
                     </listBibl>
-                    <listBibl type="Consensus" xml:id="l" n="l">
-                        <biblStruct xmlns="http://www.tei-c.org/ns/1.0" type="book" xml:id="l1"
-                            n="l¹" corresp="http://zotero.org/groups/542622/items/RD6GJ6HB">
-                            <monogr>
-                                <title level="m">[Bucolica]</title>
-                                <editor>
-                                    <name>Anonymous</name>
-                                </editor>
-                                <imprint>
-                                    <pubPlace>Venice</pubPlace>
-                                    <publisher>Aldus Manutius</publisher>
-                                    <date>1518</date>
-                                    <note target="#l1" type="url"
-                                        >http://gateway.proquest.com/openurl?url_ver=Z39.88-2004&amp;res_dat=xri:eurobo:&amp;rft_dat=xri:eurobo:rec:ita-bnc-ald-00000030-001</note>
-                                </imprint>
-                            </monogr>
-                        </biblStruct>
-                        <biblStruct xmlns="http://www.tei-c.org/ns/1.0" type="book" xml:id="l2"
-                            n="l²" corresp="http://zotero.org/groups/542622/items/FPU5S7HZ">
-                            <monogr>
-                                <title level="m">Hoc volumine continentur Poetae tres egregii primum
-                                    in lucem editi: Gratii qui Augusto Principe floruit, de
-                                    venatione lib. I.: P. Ouidii Nasonis Halieuticon liber
-                                    acephalus. M. Aurelii Olympii Nemesiani Cynegeticon Lib. I.
-                                    Eiusdem carmen bucolicum. I. Calphurnii Siculi Bucolica. Adriani
-                                    Cardinalis uenatio.</title>
-                                <title type="short">Hoc volumine continentur Poetae tres egregii
-                                    primum in lucem editi</title>
-                                <editor>
-                                    <forename>Georgius</forename>
-                                    <surname>Logus</surname>
-                                </editor>
-                                <imprint>
-                                    <pubPlace>Venice</pubPlace>
-                                    <publisher>Aldus Manutius</publisher>
-                                    <date>1534</date>
-                                    <note target="#l2" type="url"
-                                        >https://books.google.com/books?id=EYg6AAAAcAAJ&amp;pg=PA1#v=onepage&amp;q&amp;f=false</note>
-                                </imprint>
-                            </monogr>
-                        </biblStruct>
+                    <listBibl xml:id="l">
+                        <head><abbr type="siglum">l</abbr> = utriusque ed. Ald. consensus</head>
+                        <bibl xml:id="l1"><abbr type="siglum">l<hi rend="super">1</hi></abbr> =
+                            <editor>Anonymous</editor>. <title>editio Aldina prior</title>.
+                            <pubPlace>Venetiis</pubPlace>: <publisher>in aedibus Aldi, et Andreae
+                                Soceri</publisher>
+                            <date>1518</date>. URL: <ptr
+                                target="http://gateway.proquest.com/openurl?url_ver=Z39.88-2004&amp;res_dat=xri:eurobo:&amp;rft_dat=xri:eurobo:rec:ita-bnc-ald-00000030-001"
+                            /></bibl>
+                        <bibl xml:id="l2"><abbr type="siglum">l<hi rend="super">2</hi></abbr> =
+                            <editor>Anonymous</editor>. <title>editio Aldina posterior</title>.
+                            <pubPlace>Venetiis</pubPlace>: <publisher>in aedibus heredum Aldi Manutii, et
+                                Andreae Soceri</publisher>, <date>1519</date>. URL: <ptr
+                                    target="https://books.google.com/books?id=EYg6AAAAcAAJ&amp;pg=PA1#v=onepage&amp;q&amp;f=false"
+                                /></bibl>
                     </listBibl>
-                    <biblStruct xmlns="http://www.tei-c.org/ns/1.0" type="book" xml:id="Vienn."
-                        n="Vienn." corresp="http://zotero.org/groups/542622/items/75J7MMCR">
-                        <monogr>
-                            <title level="m">[Bucolica]</title>
-                            <editor>
-                                <name>Anonymous</name>
-                            </editor>
-                            <imprint>
-                                <pubPlace>Vienna</pubPlace>
-                                <publisher>s. n.</publisher>
-                                <date>1519</date>
-                            </imprint>
-                        </monogr>
-                    </biblStruct>
-                    <biblStruct xmlns="http://www.tei-c.org/ns/1.0" type="book" xml:id="n" n="n"
-                        corresp="http://zotero.org/groups/542622/items/SJU46XB8">
-                        <monogr>
-                            <title level="m">Ludi literarii: magistris vultis auditoribus vestris,
-                                bene loquendi amussim egregiam tradere : adeste queso</title>
-                            <title type="short">Ludi literarii</title>
-                            <author>
-                                <forename>Titus Calpurnius</forename>
-                                <surname>Siculus</surname>
-                            </author>
-                            <author>
-                                <forename>Marcus Aurelius Olympius</forename>
-                                <surname>Nemesianus</surname>
-                            </author>
-                            <editor>
-                                <forename>Johann Alexander</forename>
-                                <surname>Brassicanus</surname>
-                            </editor>
-                            <imprint>
-                                <pubPlace>Hagenau/Strasburg</pubPlace>
-                                <publisher>Knobloch</publisher>
-                                <date>1519</date>
-                                <note target="#n" type="url"
-                                    >https://books.google.com/books?id=n8JSAAAAcAAJ&amp;pg=PA1#v=onepage&amp;q&amp;f=false</note>
-                            </imprint>
-                        </monogr>
-                    </biblStruct>
-                    <biblStruct xmlns="http://www.tei-c.org/ns/1.0" type="book" xml:id="g" n="g"
-                        corresp="http://zotero.org/groups/542622/items/B3F372PN">
-                        <monogr>
-                            <title level="m">Hoc volumine continentur, poetae tres egregii nunc
-                                primum in lucem editi, Gratii, qui Augusto principe floruit, de
-                                venatione lib. I; P. Ovidii Nasonis Halieuticon liber acephalus; M.
-                                Aurelii Olympii Nemesiani Cynegeticon lib. I; Eiusdem carmen
-                                bucolicum; T. Calphurnii Siculi Bucolica, Augusta Videlicorum,
-                                1534</title>
-                            <editor>
-                                <forename>Georgius</forename>
-                                <surname>Logus</surname>
-                            </editor>
-                            <imprint>
-                                <pubPlace>Augsbourg</pubPlace>
-                                <publisher>Henricus Steyner</publisher>
-                                <date>1534</date>
-                                <note target="#g" type="url"
-                                    >http://daten.digitale-sammlungen.de/~db/0003/bsb00038602/images/</note>
-                            </imprint>
-                        </monogr>
-                    </biblStruct>
-                    <biblStruct xmlns="http://www.tei-c.org/ns/1.0" type="book" xml:id="Tig."
-                        n="Tig." corresp="http://zotero.org/groups/542622/items/HECJTAAZ">
-                        <monogr>
-                            <title level="m">Titi Calphurnii Siculi et Aurelii Nemesiani
-                                eclogae</title>
-                            <editor>
-                                <name>Anonymous</name>
-                            </editor>
-                            <imprint>
-                                <pubPlace>Zurich</pubPlace>
-                                <publisher>Christoph Froschauer</publisher>
-                                <date>1537</date>
-                                <note type="accessed">2016-05-24T15:57:49Z</note>
-                                <note target="#Tig." type="url"
-                                    >http://reader.digitale-sammlungen.de/resolve/display/bsb11088503.html</note>
-                            </imprint>
-                        </monogr>
-                    </biblStruct>
-                    <biblStruct xmlns="http://www.tei-c.org/ns/1.0" type="book" xml:id="Gryph."
-                        n="Gryph." corresp="http://zotero.org/groups/542622/items/MCQFKNST">
-                        <monogr>
-                            <title level="m">De venatione liber I. Publii Ovidii Nasonis Halieuticon
-                                liber acephalus. Marci-Aurelii Olympii Nemesiani Cynegeticon liber
-                                I. Ejusdem carmen bucolicum Titi Calphurnii Siculi Bucolica. Adriani
-                                Cardinalis venatio</title>
-                            <author>
-                                <forename>Gratius</forename>
-                                <surname>Faliscus</surname>
-                            </author>
-                            <author>
-                                <forename>Publius Ovidius</forename>
-                                <surname>Naso</surname>
-                            </author>
-                            <author>
-                                <forename>Marcus Aurelius Olympius</forename>
-                                <surname>Nemesianus</surname>
-                            </author>
-                            <author>
-                                <forename>Titus Calpurnius</forename>
-                                <surname>Siculus</surname>
-                            </author>
-                            <author>
-                                <forename>Adriano</forename>
-                                <surname>Castellesi</surname>
-                            </author>
-                            <editor>
-                                <name>Anonymous</name>
-                            </editor>
-                            <imprint>
-                                <pubPlace>Lyon</pubPlace>
-                                <publisher>Sebastian Gryphius</publisher>
-                                <date>1537</date>
-                                <note target="#Gryph." type="url"
-                                    >https://books.google.com/books?id=JpJXAAAAcAAJ&amp;pg=PA1#v=onepage&amp;q&amp;f=false</note>
-                            </imprint>
-                        </monogr>
-                    </biblStruct>
-                    <biblStruct xmlns="http://www.tei-c.org/ns/1.0" type="book" xml:id="o" n="o"
-                        corresp="http://zotero.org/groups/542622/items/2U79AVVD">
-                        <monogr>
-                            <title level="m">En habes lector Bucolicorum autores XXXVIII. quotquot
-                                uidelicet à Vergilij aetate ad nostra usq; tempora, eo poematis
-                                genere usos, fedulo inquirentes nancisci in praesentia licuit :
-                                Farrago quidem Eclogarum CLVI. mira cum elegantia tum uarietate
-                                referta, nuncq; primum in studioforum iuuenum gratium atq; usum
-                                collecta.</title>
-                            <title type="short">En habes lector Bucolicorum autores XXXVIII.
-                                quotquot vivelicet à Vergilij aetate ad nostra usqz tempora...
-                                nancisci in praesentia licuit</title>
-                            <editor>
-                                <name>Anonymous</name>
-                            </editor>
-                            <imprint>
-                                <pubPlace>Basel</pubPlace>
-                                <publisher>Johannes Oporinus</publisher>
-                                <date>1546</date>
-                            </imprint>
-                        </monogr>
-                    </biblStruct>
-                    <biblStruct xmlns="http://www.tei-c.org/ns/1.0" type="book" xml:id="p" n="p"
-                        corresp="http://zotero.org/groups/542622/items/28VQ2B67">
-                        <monogr>
-                            <title level="m">Epigrammata et poematia vetera</title>
-                            <editor>
-                                <name>Anonymous</name>
-                            </editor>
-                            <imprint>
-                                <pubPlace>Paris</pubPlace>
-                                <date>1590</date>
-                                <note target="#p" type="url"
-                                    >https://books.google.com/books?id=F_E6AAAAcAAJ&amp;pg=PR6#v=onepage&amp;q&amp;f=false</note>
-                            </imprint>
-                        </monogr>
-                    </biblStruct>
-                    <biblStruct xmlns="http://www.tei-c.org/ns/1.0" type="book" xml:id="edAurel"
-                        n="Editio Aureliana"
-                        corresp="http://zotero.org/groups/542622/items/J7P8QRN6">
-                        <monogr>
-                            <title level="m">Corpus omnium veterum poetarum latinorum secundum
-                                seriem temporum, et quinque libri distinctum, in quo continentur
-                                omnia ipsorum opera seu fragmenta quae reperiuntur, cui praefixa est
-                                unius cujusque poetae vita</title>
-                            <editor>
-                                <name>Anonymous</name>
-                            </editor>
-                            <imprint>
-                                <publisher>Samuel Crispinus</publisher>
-                                <date>1611</date>
-                                <note target="#edAurel" type="url"
-                                    >https://books.google.com/books?id=Q-EPAAAAQAAJ&amp;dq=Corpus%20omnium%20veterum%20poetarum%20latinorum%201611&amp;pg=PA497#v=onepage&amp;q=Corpus%20omnium%20veterum%20poetarum%20latinorum%201611&amp;f=false</note>
-                            </imprint>
-                        </monogr>
-                    </biblStruct>
-                    <biblStruct xmlns="http://www.tei-c.org/ns/1.0" type="book" xml:id="Barth"
-                        n="Barth" corresp="http://zotero.org/groups/542622/items/D9DQCXFQ">
-                        <monogr>
-                            <title level="m">Venatici Et Bvcolici Poetae Latini, Gratius,
-                                Nemesianus, Calpurnius, In Germania hactenus non editi, nunc
-                                Commentariis luculentis explanati.</title>
-                            <author>
-                                <name>Grattius</name>
-                            </author>
-                            <author>
-                                <forename>Titus Vestricius</forename>
-                                <surname>Spurinna</surname>
-                            </author>
-                            <author>
-                                <forename>Marcus Aurelius Olympius</forename>
-                                <surname>Nemesianus</surname>
-                            </author>
-                            <author>
-                                <forename>Titus Calpurnius</forename>
-                                <surname>Siculus</surname>
-                            </author>
-                            <editor>
-                                <forename>Kaspar von</forename>
-                                <surname>Barth</surname>
-                            </editor>
-                            <imprint>
-                                <pubPlace>Hanau</pubPlace>
-                                <publisher>In Bibliopolio Willieriano</publisher>
-                                <date>1613</date>
-                            </imprint>
-                        </monogr>
-                    </biblStruct>
-                    <biblStruct xmlns="http://www.tei-c.org/ns/1.0" type="book" xml:id="Ulit."
-                        n="Ulit." corresp="http://zotero.org/groups/542622/items/F2TD4IIB">
-                        <monogr>
-                            <title level="m">Venatio Novantiqua Celsissimo Arausionis Principi
-                                Guilhelmo Dictata.</title>
-                            <editor>
-                                <forename>Jan van</forename>
-                                <surname>Vliet</surname>
-                                <addName>Janus Ulitius</addName>
-                            </editor>
-                            <imprint>
-                                <pubPlace>Leiden</pubPlace>
-                                <publisher>ex Officina Elzeviriana</publisher>
-                                <date>1645</date>
-                                <note target="#Ulit." type="url"
-                                    >https://books.google.com/books?id=Yb09AAAAcAAJ&amp;pg=PP1#v=onepage&amp;q&amp;f=false</note>
-                            </imprint>
-                        </monogr>
-                    </biblStruct>
-                    <biblStruct xmlns="http://www.tei-c.org/ns/1.0" type="book" xml:id="h" n="h"
-                        corresp="http://zotero.org/groups/542622/items/5FP3HQQ7">
-                        <monogr>
-                            <title level="m">Poetae latini rei venaticae scriptores et bucolici
-                                antiqui</title>
-                            <editor>
-                                <name>Anonymous</name>
-                            </editor>
-                            <imprint>
-                                <pubPlace>Lugduni Batavorum et Hagae Comitum</pubPlace>
-                                <publisher>Apud Johannem Arnoldum Langerak P. Gosse et J. Naeulme:
-                                    Rutg. Christoph Alerts, J. Vander Kloot</publisher>
-                                <date>1728</date>
-                                <note target="#h" type="url"
-                                    >https://books.google.com/books?id=nJVAAAAAcAAJ&amp;pg=PP9#v=onepage&amp;q&amp;f=false</note>
-                            </imprint>
-                        </monogr>
-                    </biblStruct>
-                    <biblStruct xmlns="http://www.tei-c.org/ns/1.0" type="book" xml:id="Burm."
-                        n="Burm." corresp="http://zotero.org/groups/542622/items/HZKUF8VA">
-                        <monogr>
-                            <title level="m">Poetae Latini Minores Sive Gratii Falisci Cynegeticon,
-                                M. Aurelii Olympii Nemesiani Cynegeticon, Et Ejusdem Eclogae IV. T.
-                                Calpurnii Siculi Eclogae VII. Claudii Rutilii Numatiani Iter, Q.
-                                Serenus Samonicus De Medicina, Vindicianus Sive Marcellus De
-                                Medicina. Q. Rhemnius Fannius Palaemon De Ponderibus &amp; Mensuris,
-                                Et Sulpiciae Satyra</title>
-                            <editor>
-                                <forename>Pieter</forename>
-                                <surname>Burman</surname>
-                            </editor>
-                            <imprint>
-                                <pubPlace>Leiden</pubPlace>
-                                <publisher>Conrad Wishoff Et Daniel Goedval</publisher>
-                                <date>1731</date>
-                                <note target="#Burm." type="url"
-                                    >https://books.google.com/books?id=uKZAAAAAcAAJ&amp;pg=PP9#v=onepage&amp;q&amp;f=false</note>
-                            </imprint>
-                        </monogr>
-                    </biblStruct>
-                    <biblStruct xmlns="http://www.tei-c.org/ns/1.0" type="book" xml:id="t" n="t"
-                        corresp="http://zotero.org/groups/542622/items/I67TD6R4">
-                        <monogr>
-                            <title level="m">M. Aurelii Olympii Nemesiani Eclogae IV et T. Calpurnii
-                                Siculi Eclogae VII ad Nemesianum Carthaginiensem: cum notis selectis
-                                Titii, Martelli, Vlitii et Petri Burmanni integris</title>
-                            <title type="short">M. Aurelii Olympii Nemesiani Eclogae IV et T.
-                                Calpurnii Siculi Eclogae VII ad Nemesianum Carthaginiensem</title>
-                            <author>
-                                <forename>Marcus Aurelius Olympius</forename>
-                                <surname>Nemesianus</surname>
-                            </author>
-                            <editor>
-                                <forename>Pieter</forename>
-                                <surname>Burman</surname>
-                            </editor>
-                            <imprint>
-                                <pubPlace>Jelgava, Latvia</pubPlace>
-                                <publisher>Jacob Friederich Hinzius</publisher>
-                                <date>1774</date>
-                                <note target="#t" type="url"
-                                    >https://books.google.com/books?id=eNUpAAAAYAAJ&amp;pg=PP11#v=onepage&amp;q&amp;f=false</note>
-                            </imprint>
-                        </monogr>
-                    </biblStruct>
-                    <biblStruct xmlns="http://www.tei-c.org/ns/1.0" type="book" xml:id="Wernsd."
-                        n="Wernsd." corresp="http://zotero.org/groups/542622/items/KMTPXVSE">
-                        <monogr>
-                            <title level="m">Poetae Latini Minores: Complectens Gratii Falisci, M.
-                                Avr. Olympii Nemesiani, D. Magni Avsonii Aliorvmqve De Venatione
-                                Avcvpio Et Piscatv Carmina Et Fragmenta : In Fine Additvm Est
-                                Olympii Nemesiani Carmen De Lavdibvs Hercvlis</title>
-                            <title type="short">Poetae Latini Minores</title>
-                            <editor>
-                                <forename>Johann Christian</forename>
-                                <surname>Wernsdorf</surname>
-                            </editor>
-                            <imprint>
-                                <pubPlace>Altenburg</pubPlace>
-                                <publisher>Richter</publisher>
-                                <date>1780</date>
-                                <note target="#Wernsd." type="url"
-                                    >https://books.google.com/books?id=A8w9AAAAcAAJ&amp;pg=PR1#v=onepage&amp;q&amp;f=false</note>
-                            </imprint>
-                        </monogr>
-                    </biblStruct>
-                    <biblStruct xmlns="http://www.tei-c.org/ns/1.0" type="book" xml:id="Beck"
-                        n="Beck" corresp="http://zotero.org/groups/542622/items/3MPBKF2T">
-                        <monogr>
-                            <title level="m">T. Calpurnii Siculi Eclogae XI</title>
-                            <author>
-                                <forename>Titus Calpurnius</forename>
-                                <surname>Siculus</surname>
-                            </author>
-                            <editor>
-                                <forename>Christian Daniel</forename>
-                                <surname>Beck</surname>
-                            </editor>
-                            <imprint>
-                                <pubPlace>Leipzig</pubPlace>
-                                <publisher>In Libraria Weidmannia</publisher>
-                                <date>1803</date>
-                                <note target="#Beck" type="url"
-                                    >https://books.google.com/books?id=w6QBAAAAYAAJ&amp;pg=PR2#v=onepage&amp;q&amp;f=false</note>
-                            </imprint>
-                        </monogr>
-                    </biblStruct>
-                    <biblStruct xmlns="http://www.tei-c.org/ns/1.0" type="book" xml:id="Glaeser"
-                        n="Glaeser" corresp="http://zotero.org/groups/542622/items/94W257SX">
-                        <monogr>
-                            <title level="m">T. Calpurnii Siculi Eclogae: ad optimos codices et
-                                editiones</title>
-                            <title type="short">T. Calpurnii Siculi Eclogae</title>
-                            <editor>
-                                <forename>C. E.</forename>
-                                <surname>Glaeser</surname>
-                            </editor>
-                            <imprint>
-                                <pubPlace>Göttingen</pubPlace>
-                                <publisher>Sumptibus Dieterichianis</publisher>
-                                <date>1842</date>
-                                <note target="#Glaeser" type="url"
-                                    >https://books.google.com/books?id=4sdEAAAAIAAJ&amp;pg=PP5#v=onepage&amp;q&amp;f=false</note>
-                            </imprint>
-                        </monogr>
-                    </biblStruct>
-                    <biblStruct xmlns="http://www.tei-c.org/ns/1.0" type="book" xml:id="Baehr."
-                        n="Baehr." corresp="http://zotero.org/groups/542622/items/E9ZPSHX4">
-                        <monogr>
-                            <title level="m">Poetae latini minores</title>
-                            <editor>
-                                <forename>Emil</forename>
-                                <surname>Baehrens</surname>
-                            </editor>
-                            <imprint>
-                                <pubPlace>Leipzig</pubPlace>
-                                <publisher>in aedibus B. G. Teubneri</publisher>
-                                <date>1881</date>
-                                <note target="#Baehr." type="url"
-                                    >https://books.google.com/books?id=CjUOAAAAYAAJ&amp;pg=PA1#v=onepage&amp;q&amp;f=false</note>
-                            </imprint>
-                        </monogr>
-                    </biblStruct>
-                    <listBibl type="Consensus" xml:id="Schenkl" n="Schenkl">
-                        <biblStruct xmlns="http://www.tei-c.org/ns/1.0" type="book"
-                            xml:id="Schenkl1" n="Schenkl¹"
-                            corresp="http://zotero.org/groups/542622/items/APRCIUZW">
-                            <monogr>
-                                <title level="m">Calpurnii et Nemesiani Bucolica</title>
-                                <editor>
-                                    <forename>Henricus</forename>
-                                    <surname>Schenkl</surname>
-                                </editor>
-                                <imprint>
-                                    <pubPlace>Leipzig</pubPlace>
-                                    <publisher>Freytag Pragae Tempsky</publisher>
-                                    <date>1885</date>
-                                    <note target="#Schenkl1" type="url"
-                                        >https://books.google.com/books?id=kuVGAQAAIAAJ&amp;pg=PR1#v=onepage&amp;q&amp;f=false</note>
-                                </imprint>
-                            </monogr>
-                        </biblStruct>
-                        <biblStruct xmlns="http://www.tei-c.org/ns/1.0" type="book"
-                            xml:id="Schenkl2" n="Schenkl²"
-                            corresp="http://zotero.org/groups/542622/items/JPBH497X">
-                            <monogr>
-                                <title level="m">Corpus poetarvm latinorvm a se aliisqve denvo
-                                    recognitorvm et brevi lectionvum varietate instructorvm</title>
-                                <editor>
-                                    <forename>Henricus</forename>
-                                    <surname>Schenkl</surname>
-                                </editor>
-                                <editor>
-                                    <forename>John Percival</forename>
-                                    <surname>Postgate</surname>
-                                </editor>
-                                <imprint>
-                                    <pubPlace>London</pubPlace>
-                                    <publisher>G. Bell et Filiorum</publisher>
-                                    <date>1905</date>
-                                    <note type="accessed">2016-05-25T16:12:42Z</note>
-                                    <note target="#Schenkl2" type="url"
-                                        >https://archive.org/stream/corpuspoetaruml01postgoog#page/n7/mode/2up</note>
-                                </imprint>
-                            </monogr>
-                        </biblStruct>
+                    <bibl xml:id="n"><abbr type="siglum">n</abbr> = <editor>Brassicanus, Johannes
+                        Alexander</editor>. <title>editio Brassicani</title>. <pubPlace>Argentorati
+                            (Strasbourg)</pubPlace>: <publisher>Iohannis Knoblochus</publisher>,
+                        <date>1519</date>. URL: <ptr
+                            target="https://books.google.com/books?id=n8JSAAAAcAAJ&amp;pg=PA1#v=onepage&amp;q&amp;f=false"
+                        />.</bibl>
+                    <bibl xml:id="Vienn."><abbr type="siglum">Vienn.</abbr> = <editor>Anonymous</editor>.
+                        <title>ed. Viennensis</title>. <pubPlace>s.l.</pubPlace>, <date>s.d.</date></bibl>
+                    <bibl xml:id="g"><abbr type="siglum">g</abbr> = <editor>Logus, Georgius</editor>.
+                        <title>editio Augustana</title>. <pubPlace>Augustae Vindelicorum</pubPlace>:
+                        <publisher>in officina Henrici Steyner</publisher>), <date>1534</date>. URL: <ptr
+                            target="http://daten.digitale-sammlungen.de/~db/0003/bsb00038602/images/"/></bibl>
+                    <bibl xml:id="Tig."><abbr type="siglum">Tig.</abbr> = <editor>Anonymous</editor>.
+                        <title>editio Tigurina</title>
+                        <pubPlace>Tiguri</pubPlace>: <pubPlace>apud Christophorum Froschouerum</pubPlace>,
+                        <date>1537</date>. URL: <ptr
+                            target="http://reader.digitale-sammlungen.de/resolve/display/bsb11088503.html"
+                        />.</bibl>
+                    <bibl xml:id="Gryph."><abbr type="siglum">Gryph.</abbr> = <editor>Anonymous</editor>.
+                        <title>editio Gryph.</title>
+                        <pubPlace>Lugduni</pubPlace>: <publisher>apud Seb. Gyrphium</publisher>,
+                        <date>1537</date>. URL: <ptr
+                            target="https://books.google.com/books?id=JpJXAAAAcAAJ&amp;pg=PA1#v=onepage&amp;q&amp;f=false"
+                        />.</bibl>
+                    <bibl xml:id="o"><abbr type="siglum">o</abbr> = <editor>Anonymous</editor>. <title>ed.
+                        Oporiniana</title>
+                        <pubPlace>Basileae</pubPlace>: <publisher>Johannes Oporinus</publisher>,
+                        <date>1546</date>.URL: <ptr
+                            target="https://books.google.com/books?id=cKqCwvkRiTgC&amp;pg=PP5#v=onepage&amp;q&amp;f=false"
+                        /></bibl>
+                    <bibl xml:id="p"><abbr type="siglum">p</abbr> = <title>ed. Pithoeana</title> =
+                        <editor>Pithoeus, Petrus</editor>. <title>Epigrammata et poematia vetera</title>.
+                        <pubPlace>Parisiis</pubPlace>: <publisher>Dionysius Duvallius</publisher>,
+                        <date>1590</date>. URL: <ptr
+                            target="https://books.google.com/books?id=F_E6AAAAcAAJ&amp;pg=PR6#v=onepage&amp;q&amp;f=false"
+                        /></bibl>
+                    <bibl xml:id="edAurel"><abbr type="siglum">Aurel.</abbr> = <editor>Anonymous</editor>. <title>Corpus
+                        omnium veterum poetarum latinorum (Volumen Secundum)</title>. <pubPlace>Aureliae
+                            Allobrogum</pubPlace>: <publisher>Samuel Crispinus</publisher>, <date>1611</date>.
+                        URL: <ptr
+                            target="https://books.google.com/books?id=Q-EPAAAAQAAJ&amp;pg=PP5#v=onepage&amp;q&amp;f=false"
+                        /></bibl>
+                    <bibl xml:id="Barth"><abbr type="siglum">Barth</abbr> = <title>ed. Barthii</title> =
+                        <editor>Barthius, Casparus</editor>. <title>Venatici et Bucolici Poetae Latini:
+                            Gratius, Nemesianus, Calpurnius</title>. <pubPlace>Hanoviae</pubPlace>:
+                        <publisher>In Bibliopolio Willieriano</publisher>, <date>1613</date>. URL: <ptr
+                            target="https://books.google.com/books?id=SEVXAAAAcAAJ&amp;dq=Venatici%20Et%20Bvcolici%20Poetae%20Latini&amp;pg=PP7#v=onepage&amp;q&amp;f=false"
+                        /></bibl>
+                    <bibl xml:id="Ulit."><abbr type="siglum">Ulit.</abbr> = <title>ed. Ulitii</title> =
+                        <editor>Ulitius, Ianus</editor>. <title>Venatio Novantiqua</title>.
+                        <pubPlace>Leidae</pubPlace>: <publisher>Ex Officina Elzeveriana</publisher>,
+                        <date>1645</date>. URL: <ptr
+                            target="https://books.google.com/books?id=Yb09AAAAcAAJ&amp;pg=PR4#v=onepage&amp;q&amp;f=false"
+                        /></bibl>
+                    <bibl xml:id="h"><abbr type="siglum">h</abbr> = ed. Haverkampi et Brucii = <editor>Anonymous</editor>.
+                        <title>Poetae Latini Rei Venaticae Scriptores et Bucolici Antiqui</title>.
+                        <pubPlace>Lugduni Batavorum et Hagae Comitum</pubPlace>: apud Johannem Arnoldum
+                        Langerak, P. Gosse, et J. Neaulme; Rutg. Christoph. Alberts, J. Vander Kloot,
+                        <date>1728</date>. URL: <ptr
+                            target="https://books.google.com/books?id=nJVAAAAAcAAJ&amp;pg=PP9#v=onepage&amp;q&amp;f=false"
+                        /></bibl>
+                    <bibl xml:id="Burm."><abbr type="siglum">Burm.</abbr> = <title>editio Burmanni</title> =
+                        <editor>Burmannus, Petrus (Pieter Burman)</editor>. <title>Poetae Latini Minores,
+                            Tom. I</title>. <pubPlace>Leidae</pubPlace>: <publisher>apud Conradum Wishoff et
+                                Danielem Goedval</publisher>, <date>1731</date>. URL: <ptr
+                                    target="https://books.google.com/books?id=uKZAAAAAcAAJ&amp;pg=PP9#v=onepage&amp;q&amp;f=false"
+                                /></bibl>
+                    <bibl xml:id="t"><abbr type="siglum">t</abbr> = <title>ed. Mitaviensis</title> =
+                        <editor>Anonymous</editor>. <title>M. Aurelii Olympii Nemesiani Eclogae IV et T.
+                            Calpurnii Siculi Eclogae VII ad Nemesianum Carthaginiensem, cum notis selectis
+                            Titii, Martelli, Ulitii, et Petri Burmanni integris.</title>
+                        <pubPlace>Mitaviae</pubPlace>: <publisher>apud Jacob. Frider. Hinzium</publisher>,
+                        <date>1774</date>. URL: <ptr
+                            target="https://books.google.com/books?id=eNUpAAAAYAAJ&amp;pg=PP11#v=onepage&amp;q&amp;f=false"
+                        />.</bibl>
+                    <bibl xml:id="Wernsd."><abbr type="siglum">Wernsd.</abbr> = <title>ed. Wernsdorfii</title> =
+                        <editor>Wernsdorf, Iohannes Christianus.</editor>
+                        <title>Poetae Latini Minores, Tomus Primus</title>. <pubPlace>Altenburgi</pubPlace>:
+                        <pubPlace>ex officina Richteria</pubPlace>, <date>1780</date>. URL: <ptr
+                            target="https://books.google.com/books?id=A8w9AAAAcAAJ&amp;pg=PR1#v=onepage&amp;q&amp;f=false"
+                        /></bibl>
+                    <bibl xml:id="Beck"><abbr type="siglum">Beck</abbr> = <editor>Beck, Christian Daniel</editor>.
+                        <title>T. Calpurnii Siculi Eclogae XI</title>. <pubPlace>Lipsiae</pubPlace>:
+                        <publisher>in libraria Weidmannia</publisher>, <date>1803</date>. URL: <ptr
+                            target="https://books.google.com/books?id=w6QBAAAAYAAJ&amp;pg=PR2#v=onepage&amp;q&amp;f=false"
+                        /></bibl>
+                    <bibl xml:id="Glaeser"><abbr type="siglum">Glaeser</abbr> = <editor>Glaeser, C. E.</editor>
+                        <title>T. Calpurnii Siculi Eclogae</title>. <pubPlace>Gottingae</pubPlace>:
+                        <publisher>sumptibus Dieterichianis</publisher>, <date>1842</date>. URL: <ptr
+                            target="https://books.google.com/books?id=4sdEAAAAIAAJ&amp;pg=PP5#v=onepage&amp;q&amp;f=false"
+                        /></bibl>
+                    <bibl xml:id="Baehr."><abbr type="siglum">Baehr.</abbr> = ed. Baehrensii = <editor>Baehrens,
+                        Aemilius</editor>. <title>Poetae Latini Minores, Volumen III</title>.
+                        <pubPlace>Lipsiae</pubPlace>: <publisher>in aedibus B. G. Teubneri</publisher>,
+                        1881. URL: <ptr
+                            target="https://books.google.com/books?id=CjUOAAAAYAAJ&amp;pg=PA1#v=onepage&amp;q&amp;f=false"
+                        /></bibl>
+                    <listBibl xml:id="Schenkl">
+                        <head>utriusque edition. Schenkl. consensus</head>
+                        <bibl xml:id="Schenkl1"><abbr type="siglum">Schenkl<hi rend="super">1</hi></abbr> =
+                            <editor>Schenkl, Henricus</editor>. <title>Calpurnii et Nemesiani
+                                Bucolica</title>. <pubPlace>Lipsiae</pubPlace>: sumptus fecit G. Freytag,
+                            <date>1885</date>. URL <ptr
+                                target="https://books.google.com/books?id=kuVGAQAAIAAJ&amp;pg=PR1#v=onepage&amp;q&amp;f=false"
+                            /></bibl>
+                        <bibl xml:id="Schenkl2"><abbr type="siglum">Schenkl<hi rend="super">2</hi></abbr> =
+                            <editor>Schenkl, Henricus</editor>. <title>T. Calpurni Siculi Bucolica</title>
+                            in <ref target="Postgate1905">Postgate 1905</ref>: 197–205. URL: <ptr
+                                target="https://books.google.com/books?id=_DMOAAAAYAAJ&amp;dq=postgate%20corpus%20poetarum%20latinorum&amp;pg=RA1-PA194#v=onepage&amp;q&amp;f=false"
+                            /></bibl>
                     </listBibl>
-                    <biblStruct xmlns="http://www.tei-c.org/ns/1.0" type="book" xml:id="Keene"
-                        n="Keene" corresp="http://zotero.org/groups/542622/items/7838XXVC">
-                        <monogr>
-                            <title level="m">The Eclogues of Calpurnius Siculus and M. Aurelius
-                                Olympius Nemesianus</title>
-                            <author>
-                                <forename>Titus</forename>
-                                <surname>Calpurnius Siculus</surname>
-                            </author>
-                            <editor>
-                                <forename>Charles Haines</forename>
-                                <surname>Keene</surname>
-                            </editor>
-                            <respStmt>
-                                <resp>contributor</resp>
-                                <persName/>
-                            </respStmt>
-                            <imprint>
-                                <pubPlace>London</pubPlace>
-                                <publisher>London, Bell</publisher>
-                                <date>1887</date>
-                                <note type="accessed">2016-05-25T15:48:40Z</note>
-                                <note target="#Keene" type="url"
-                                    >http://archive.org/details/ecloguesofcalpur00calpuoft</note>
-                            </imprint>
-                        </monogr>
-                    </biblStruct>
-                    <biblStruct xmlns="http://www.tei-c.org/ns/1.0" type="book" xml:id="Giarratano"
-                        n="Giarratano" corresp="http://zotero.org/groups/542622/items/E54CKCWZ">
-                        <monogr>
-                            <title level="m">Giarratano</title>
-                            <editor>
-                                <forename>Caesar</forename>
-                                <surname>Giarratano</surname>
-                            </editor>
-                            <imprint>
-                                <pubPlace>Naples</pubPlace>
-                                <publisher>Detken et Rocholl</publisher>
-                                <date>1910</date>
-                            </imprint>
-                        </monogr>
-                    </biblStruct>
+                    <bibl xml:id="Keene"><abbr type="siglum">Keene</abbr> = <editor>Keene, Charles Haines</editor>.
+                        <title>The Eclogues of Calpurnius Siculus and M. Aurelius Olympius
+                            Nemesianus</title>. <pubPlace>London</pubPlace>: <publisher>Bell</publisher>,
+                        1887. URL: <ptr target="https://archive.org/details/ecloguesofcalpur00calpuoft"
+                        /></bibl>
+                    <bibl xml:id="Giarratano"><abbr type="siglum">Giarratano</abbr> = <editor>Giarratano, Caesar</editor>.
+                        <title>Calpurnii et Nemesiani Bucolica</title>. <pubPlace>Neapoli</pubPlace>: apud
+                        Detken et Rocholl, <date>1910</date>.</bibl>
                 </listBibl>
                 <!-- Secondary sources, i.e, articles, commentaries, books, etc. -->
                 <listBibl type="Secondary_Sources">
