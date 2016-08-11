@@ -562,18 +562,17 @@
                 </div>
                 <div type="section" n="4">
                     <head>IV. The Second Family: V</head>
-                    <p>The second family, called V, includes a little more than twenty manuscripts, of
-                        which I have selected sixteen for my edition. They are as follows:</p>
+                    <p>The second family, called V, includes a little more than twenty manuscripts,
+                        of which I have selected sixteen for my edition. They are as follows:</p>
                     <list>
                         <head>Manuscripts in the Biblioteca Ambrosiana (Milan)</head>
-                        <item><ref target="#α" rend="bold">α</ref> = Codex
-                            Ambrosianus O 74 sup., fifteenth century. A. Ceriani noted the readings of this manuscript for
-                            Schenkl, then I collated the entire manuscript in 1908, and I inspected it
-                            again in 1909.</item>
-                        <item><ref target="β" rend="bold">β</ref> = Codex
-                            Ambrosianus I 26 sup., fifteenth century.
-                            In 1909 I was the first to collate this manuscript, which was entirely unknown
-                            to previous editors.</item>
+                        <item><ref target="#α" rend="bold">α</ref> = Codex Ambrosianus O 74 sup.,
+                            fifteenth century. A. Ceriani noted the readings of this manuscript for
+                            Schenkl, then I collated the entire manuscript in 1908, and I inspected
+                            it again in 1909.</item>
+                        <item><ref target="β" rend="bold">β</ref> = Codex Ambrosianus I 26 sup.,
+                            fifteenth century. In 1909 I was the first to collate this manuscript,
+                            which was entirely unknown to previous editors.</item>
                     </list>
                     <p>Then there are six Vatican manuscripts—namely Vaticanus 3152 and 2110,
                         Urbinas 353, Palatinus 1652, Reginensis 1759, Ottobonianus 1466—that I
@@ -2108,6 +2107,9 @@
                     </div>
                 </div>
             </div>
+
+            <!-- Begin Bibliography -->
+
             <div type="bibliography">
                 <list>
                     <head>Manuscripts</head>
@@ -2154,11 +2156,11 @@
                                                 See <ref target="Ndesc-firsthand">above</ref> for a
                                                 detailed description of this hand's
                                                 activity.</handNote>
-                                            <handNote xml:id="N2"><label>N<hi rend="superscript">2</hi>:
-                                                  The manuscript was corrected again around the same
-                                                  time, but here and there the second hand cannot
-                                                  easily be distinguished from the first. See <ref
-                                                  target="Ndesc-secondhand">above</ref> for a
+                                            <handNote xml:id="N2"><label>N<hi rend="superscript"
+                                                  >2</hi>: The manuscript was corrected again around
+                                                  the same time, but here and there the second hand
+                                                  cannot easily be distinguished from the first. See
+                                                  <ref target="Ndesc-secondhand">above</ref> for a
                                                   detailed description of this hand's
                                                   activity.</label></handNote>
                                             <handNote xml:id="N3"><label>N<hi rend="superscript"
@@ -2256,16 +2258,16 @@
                                         </objectDesc>
                                         <handDesc hands="2">
                                             <handNote xml:id="G1"><abbr type="siglum">G<hi
-                                                  rend="superscript">1</hi></abbr>: The copyist himself
-                                                added almost all of the corrections either by
-                                                removing scribal errors in the verses or adding
+                                                  rend="superscript">1</hi></abbr>: The copyist
+                                                himself added almost all of the corrections either
+                                                by removing scribal errors in the verses or adding
                                                 variant readings to the margin. See <ref
                                                   target="Gdesc-hand">above</ref> for a more
                                                 detailed description of this hand's
                                                 activity.</handNote>
                                             <handNote xml:id="G2"><abbr type="siglum">G<hi
-                                                  rend="superscript">2</hi></abbr>: Some corrections seem
-                                                to have been made by another hand.</handNote>
+                                                  rend="superscript">2</hi></abbr>: Some corrections
+                                                seem to have been made by another hand.</handNote>
                                         </handDesc>
                                     </physDesc>
                                     <history>
@@ -2279,6 +2281,7 @@
                             </witness>
                         </listWit>
                     </item>
+                    <!-- End First Family -->
                     <item>
                         <listWit xml:id="V" n="V">
                             <head>Second family</head>
@@ -2311,9 +2314,9 @@
                                                 verses to a page.</p>
                                         </objectDesc>
                                         <handDesc hands="2">
-                                            <handNote xml:id="α1"><abbr>α<hi rend="superscript"
+                                            <handNote xml:id="α1"><abbr type="siglum">α<hi rend="superscript"
                                                   >1</hi></abbr></handNote>
-                                            <handNote xml:id="α2"><abbr>α<hi rend="superscript"
+                                            <handNote xml:id="α2"><abbr type="siglum">α<hi rend="superscript"
                                                   >2</hi></abbr></handNote>
                                         </handDesc>
                                     </physDesc>
@@ -2357,18 +2360,22 @@
                                                 per page.</p>
                                         </objectDesc>
                                         <handDesc hands="2">
-                                            <handNote xml:id="β1"><abbr type="siglum">β<hi rend="superscript">1</hi></abbr></handNote>
-                                            <handNote xml:id="β2"><abbr type="siglum">β<hi rend="superscript">2</hi></abbr></handNote>
+                                            <handNote xml:id="β1"><abbr type="siglum">β<hi
+                                                  rend="superscript">1</hi></abbr></handNote>
+                                            <handNote xml:id="β2"><abbr type="siglum">β<hi
+                                                  rend="superscript">2</hi></abbr></handNote>
                                         </handDesc>
                                     </physDesc>
                                     <history>
                                         <origin>
-                                            <p>Written in the <origDate notAfter="1500" notBefore="1400">fifteenth century</origDate></p>
+                                            <p>Written in the <origDate notAfter="1500"
+                                                  notBefore="1400">fifteenth century</origDate></p>
                                         </origin>
                                     </history>
                                 </msDesc>
                             </witness>
-                            <witness xml:id="δ"><abbr type="siglum">δ</abbr> = Codex Vratislaviensis Rehdigeranus 1.4.11 <msDesc>
+                            <witness xml:id="δ"><abbr type="siglum">δ</abbr> = Codex Vratislaviensis
+                                Rehdigeranus 1.4.11 <msDesc>
                                     <msIdentifier>
                                         <settlement>Vratislavia</settlement>
                                         <repository>Bibliotheca Vratislavia</repository>
@@ -2379,8 +2386,10 @@
                                             <supportDesc material="paper"/>
                                         </objectDesc>
                                         <handDesc hands="2">
-                                            <handNote xml:id="δ1"><abbr type="siglum">δ<hi rend="superscript">1</hi></abbr></handNote>
-                                            <handNote xml:id="δ2"><abbr>δ<hi rend="superscript">2</hi></abbr></handNote>
+                                            <handNote xml:id="δ1"><abbr type="siglum">δ<hi
+                                                  rend="superscript">1</hi></abbr></handNote>
+                                            <handNote xml:id="δ2"><abbr type="siglum">δ<hi rend="superscript"
+                                                  >2</hi></abbr></handNote>
                                         </handDesc>
                                     </physDesc>
                                     <history>
@@ -2390,8 +2399,7 @@
                                     </history>
                                 </msDesc>
                             </witness>
-                            <witness xml:id="γ"><abbr type="siglum">γ</abbr> = Codex
-                                Vaticanus 3152 <msDesc>
+                            <witness xml:id="γ"><abbr type="siglum">γ</abbr> = Codex Vaticanus 3152 <msDesc>
                                     <msIdentifier>
                                         <settlement>Vatican City</settlement>
                                         <repository>Bibliotheca Apostolica Vaticana</repository>
@@ -2402,8 +2410,10 @@
                                             <supportDesc material="paper"/>
                                         </objectDesc>
                                         <handDesc hands="2">
-                                            <handNote xml:id="γ1"><abbr>γ<hi rend="superscript">1</hi></abbr></handNote>
-                                            <handNote xml:id="γ2"><abbr>γ<hi rend="superscript">2</hi></abbr></handNote>
+                                            <handNote xml:id="γ1"><abbr type="siglum">γ<hi rend="superscript"
+                                                  >1</hi></abbr></handNote>
+                                            <handNote xml:id="γ2"><abbr type="siglum">γ<hi rend="superscript"
+                                                  >2</hi></abbr></handNote>
                                         </handDesc>
                                     </physDesc>
                                     <history>
@@ -2413,8 +2423,7 @@
                                     </history>
                                 </msDesc>
                             </witness>
-                            <witness xml:id="λ"><abbr>λ</abbr> = Codex
-                                Laurentianus bibl. Aed. 203 <msDesc>
+                            <witness xml:id="λ"><abbr type="siglum">λ</abbr> = Codex Laurentianus bibl. Aed. 203 <msDesc>
                                     <msIdentifier>
                                         <settlement>Florence</settlement>
                                         <repository>Biblioteca Laurenziana</repository>
@@ -2425,8 +2434,10 @@
                                             <supportDesc material="paper"/>
                                         </objectDesc>
                                         <handDesc hands="2">
-                                            <handNote xml:id="λ1"><abbr>λ<hi rend="superscript">1</hi></abbr></handNote>
-                                            <handNote xml:id="λ2"><abbr>λ<hi rend="superscript">2</hi></abbr></handNote>
+                                            <handNote xml:id="λ1"><abbr type="siglum">λ<hi rend="superscript"
+                                                  >1</hi></abbr></handNote>
+                                            <handNote xml:id="λ2"><abbr type="siglum">λ<hi rend="superscript"
+                                                  >2</hi></abbr></handNote>
                                         </handDesc>
                                     </physDesc>
                                     <history>
@@ -2438,8 +2449,7 @@
                                     </history>
                                 </msDesc>
                             </witness>
-                            <witness xml:id="ε"><abbr>ε</abbr> = Codex Vaticanus
-                                Urbinas 353. <msDesc>
+                            <witness xml:id="ε"><abbr type="siglum">ε</abbr> = Codex Vaticanus Urbinas 353. <msDesc>
                                     <msIdentifier>
                                         <settlement>Vatican City</settlement>
                                         <repository>Bibliotheca Apostolica Vaticana</repository>
@@ -2450,8 +2460,10 @@
                                             <supportDesc material="parch"/>
                                         </objectDesc>
                                         <handDesc hands="2">
-                                            <handNote xml:id="ε1"><abbr>ε<hi rend="superscript">1</hi></abbr></handNote>
-                                            <handNote xml:id="ε2"><abbr>ε<hi rend="superscript">2</hi></abbr></handNote>
+                                            <handNote xml:id="ε1"><abbr type="siglum">ε<hi rend="superscript"
+                                                  >1</hi></abbr></handNote>
+                                            <handNote xml:id="ε2"><abbr type="siglum">ε<hi rend="superscript"
+                                                  >2</hi></abbr></handNote>
                                         </handDesc>
                                     </physDesc>
                                     <history>
@@ -2461,8 +2473,7 @@
                                     </history>
                                 </msDesc>
                             </witness>
-                            <witness xml:id="μ"><abbr>μ</abbr> = Codex
-                                Vaticanus 2110 <msDesc>
+                            <witness xml:id="μ"><abbr type="siglum">μ</abbr> = Codex Vaticanus 2110 <msDesc>
                                     <msIdentifier>
                                         <settlement>Vatican City</settlement>
                                         <repository>Bibliotheca Apostolica Vaticana</repository>
@@ -2473,8 +2484,10 @@
                                             <supportDesc material="parch"/>
                                         </objectDesc>
                                         <handDesc hands="2">
-                                            <handNote xml:id="μ1"><abbr>μ<hi rend="superscript">1</hi></abbr></handNote>
-                                            <handNote xml:id="μ2"><abbr>μ<hi rend="superscript">2</hi></abbr></handNote>
+                                            <handNote xml:id="μ1"><abbr type="siglum">μ<hi rend="superscript"
+                                                  >1</hi></abbr></handNote>
+                                            <handNote xml:id="μ2"><abbr type="siglum">μ<hi rend="superscript"
+                                                  >2</hi></abbr></handNote>
                                         </handDesc>
                                     </physDesc>
                                     <history>
@@ -2484,8 +2497,7 @@
                                     </history>
                                 </msDesc>
                             </witness>
-                            <witness xml:id="κ"><abbr>κ</abbr> = Codex
-                                Riccardianus 724 <msDesc>
+                            <witness xml:id="κ"><abbr type="siglum">κ</abbr> = Codex Riccardianus 724 <msDesc>
                                     <msIdentifier>
                                         <settlement>Florence</settlement>
                                         <repository>Biblioteca Riccardiana</repository>
@@ -2499,8 +2511,10 @@
                                             <supportDesc material="parch"/>
                                         </objectDesc>
                                         <handDesc hands="2">
-                                            <handNote xml:id="κ1"><abbr>κ<hi rend="superscript">1</hi></abbr></handNote>
-                                            <handNote xml:id="κ2"><abbr>κ<hi rend="superscript">2</hi></abbr></handNote>
+                                            <handNote xml:id="κ1"><abbr type="siglum">κ<hi rend="superscript"
+                                                  >1</hi></abbr></handNote>
+                                            <handNote xml:id="κ2"><abbr type="siglum">κ<hi rend="superscript"
+                                                  >2</hi></abbr></handNote>
                                         </handDesc>
                                     </physDesc>
                                     <history>
@@ -2510,8 +2524,7 @@
                                     </history>
                                 </msDesc>
                             </witness>
-                            <witness xml:id="φ"><abbr>φ</abbr> = Codex
-                                Vaticanus Ottobonianus 1466 <msDesc>
+                            <witness xml:id="φ"><abbr type="siglum">φ</abbr> = Codex Vaticanus Ottobonianus 1466 <msDesc>
                                     <msIdentifier>
                                         <settlement>Vatican City</settlement>
                                         <repository>Bibliotheca Apostolica Vaticana</repository>
@@ -2525,8 +2538,10 @@
                                             <supportDesc material="paper"/>
                                         </objectDesc>
                                         <handDesc hands="2">
-                                            <handNote xml:id="φ1"><abbr>φ<hi rend="superscript">1</hi></abbr></handNote>
-                                            <handNote xml:id="φ2"><abbr>φ<hi rend="superscript">2</hi></abbr></handNote>
+                                            <handNote xml:id="φ1"><abbr type="siglum">φ<hi rend="superscript"
+                                                  >1</hi></abbr></handNote>
+                                            <handNote xml:id="φ2"><abbr type="siglum">φ<hi rend="superscript"
+                                                  >2</hi></abbr></handNote>
                                         </handDesc>
                                     </physDesc>
                                     <history>
@@ -2536,8 +2551,7 @@
                                     </history>
                                 </msDesc>
                             </witness>
-                            <witness xml:id="χ"><abbr>χ</abbr> = Codex
-                                Vaticanus Reginensis 1759 <msDesc>
+                            <witness xml:id="χ"><abbr type="siglum">χ</abbr> = Codex Vaticanus Reginensis 1759 <msDesc>
                                     <msIdentifier>
                                         <settlement>Vatican City</settlement>
                                         <repository>Bibliotheca Apostolica Vaticana</repository>
@@ -2548,8 +2562,10 @@
                                             <supportDesc material="parch"/>
                                         </objectDesc>
                                         <handDesc hands="2">
-                                            <handNote xml:id="χ1"><abbr>χ<hi rend="superscript">1</hi></abbr></handNote>
-                                            <handNote xml:id="χ2"><abbr>χ<hi rend="superscript">2</hi></abbr></handNote>
+                                            <handNote xml:id="χ1"><abbr type="siglum">χ<hi rend="superscript"
+                                                  >1</hi></abbr></handNote>
+                                            <handNote xml:id="χ2"><abbr type="siglum">χ<hi rend="superscript"
+                                                  >2</hi></abbr></handNote>
                                         </handDesc>
                                     </physDesc>
                                     <history>
@@ -2561,8 +2577,7 @@
                                     </history>
                                 </msDesc>
                             </witness>
-                            <witness xml:id="ν"><abbr>ν</abbr> = Codex
-                                Laurentianus pl. 37.14 <msDesc>
+                            <witness xml:id="ν"><abbr type="siglum">ν</abbr> = Codex Laurentianus pl. 37.14 <msDesc>
                                     <msIdentifier>
                                         <settlement>Florence</settlement>
                                         <repository>Biblioteca Laurenziana</repository>
@@ -2573,8 +2588,10 @@
                                             <supportDesc material="parch"/>
                                         </objectDesc>
                                         <handDesc hands="2">
-                                            <handNote xml:id="ν1"><abbr>ν<hi rend="superscript">1</hi></abbr></handNote>
-                                            <handNote xml:id="ν2"><abbr>ν<hi rend="superscript">2</hi></abbr></handNote>
+                                            <handNote xml:id="ν1"><abbr type="siglum">ν<hi rend="superscript"
+                                                  >1</hi></abbr></handNote>
+                                            <handNote xml:id="ν2"><abbr type="siglum">ν<hi rend="superscript"
+                                                  >2</hi></abbr></handNote>
                                         </handDesc>
                                     </physDesc>
                                     <history>
@@ -2584,8 +2601,7 @@
                                     </history>
                                 </msDesc>
                             </witness>
-                            <witness xml:id="π"><abbr>π</abbr> = Codex
-                                Vaticanus Palatinus 1652 <msDesc>
+                            <witness xml:id="π"><abbr type="siglum">π</abbr> = Codex Vaticanus Palatinus 1652 <msDesc>
                                     <msIdentifier>
                                         <settlement>Vatican City</settlement>
                                         <repository>Bibliotheca Apostolica Vaticana</repository>
@@ -2596,8 +2612,10 @@
                                             <supportDesc material="parch"/>
                                         </objectDesc>
                                         <handDesc hands="2">
-                                            <handNote xml:id="π1"><abbr>π<hi rend="superscript">1</hi></abbr></handNote>
-                                            <handNote xml:id="π2"><abbr>π<hi rend="superscript">2</hi></abbr></handNote>
+                                            <handNote xml:id="π1"><abbr type="siglum">π<hi rend="superscript"
+                                                  >1</hi></abbr></handNote>
+                                            <handNote xml:id="π2"><abbr type="siglum">π<hi rend="superscript"
+                                                  >2</hi></abbr></handNote>
                                         </handDesc>
                                     </physDesc>
                                     <history>
@@ -2607,7 +2625,7 @@
                                     </history>
                                 </msDesc>
                             </witness>
-                            <witness xml:id="η"><abbr>η</abbr> = Codex Vratislaviensis Rehdigeranus 1.4.10<msDesc>
+                            <witness xml:id="η"><abbr type="siglum">η</abbr> = Codex Vratislaviensis Rehdigeranus 1.4.10<msDesc>
                                     <msIdentifier>
                                         <settlement>Vratislavia</settlement>
                                         <repository>Bibliotheca Rehdigeranus</repository>
@@ -2618,8 +2636,10 @@
                                             <supportDesc material="mixed"/>
                                         </objectDesc>
                                         <handDesc hands="2">
-                                            <handNote xml:id="η1"><abbr>η<hi rend="superscript">1</hi></abbr></handNote>
-                                            <handNote xml:id="η2"><abbr>η<hi rend="superscript">2</hi></abbr></handNote>
+                                            <handNote xml:id="η1"><abbr type="siglum">η<hi rend="superscript"
+                                                  >1</hi></abbr></handNote>
+                                            <handNote xml:id="η2"><abbr type="siglum">η<hi rend="superscript"
+                                                  >2</hi></abbr></handNote>
                                         </handDesc>
                                     </physDesc>
                                     <history>
@@ -2629,8 +2649,7 @@
                                     </history>
                                 </msDesc>
                             </witness>
-                            <witness xml:id="ρ"><abbr>ρ</abbr> = Codex
-                                Riccardianus 636 <msDesc>
+                            <witness xml:id="ρ"><abbr type="siglum">ρ</abbr> = Codex Riccardianus 636 <msDesc>
                                     <msIdentifier>
                                         <settlement>Florence</settlement>
                                         <repository>Biblioteca Riccardiana</repository>
@@ -2644,12 +2663,16 @@
                                             <supportDesc material="parch"/>
                                         </objectDesc>
                                         <handDesc hands="2">
-                                            <handNote xml:id="ρ1"><abbr>ρ<hi rend="superscript">1</hi></abbr></handNote>
-                                            <handNote xml:id="ρ2"><abbr>ρ<hi rend="superscript">2</hi></abbr>: Various hands that are
-                                                indistinguishable from each other.</handNote><!-- Note that this should probably be changed to "recc" -->
+                                            <handNote xml:id="ρ1"><abbr type="siglum">ρ<hi rend="superscript"
+                                                  >1</hi></abbr></handNote>
+                                            <handNote xml:id="ρ2"><abbr type="siglum">ρ<hi rend="superscript"
+                                                  >2</hi></abbr>: Various hands that are
+                                                indistinguishable from each other.</handNote>
+                                            <!-- Note that this should probably be changed to "recc" -->
                                             <handNote sameAs="#A">The hand of Niccolò Angeli,
-                                                recording variants from the lost Codex
-                                                Germanicus (see <hi rend="bold"><ref target="#A">A</ref></hi> below).</handNote>
+                                                recording variants from the lost Codex Germanicus
+                                                (see <hi rend="bold"><ref target="#A">A</ref></hi>
+                                                below).</handNote>
                                         </handDesc>
                                     </physDesc>
                                     <history>
@@ -2659,7 +2682,7 @@
                                     </history>
                                 </msDesc>
                             </witness>
-                            <witness xml:id="θ"><abbr>θ</abbr> = Codex Gothanus 55 <msDesc>
+                            <witness xml:id="θ"><abbr type="siglum">θ</abbr> = Codex Gothanus 55 <msDesc>
                                     <msIdentifier>
                                         <settlement>Gotha</settlement>
                                         <repository>Forschungsbibliothek</repository>
@@ -2677,8 +2700,7 @@
                                     </history>
                                 </msDesc>
                             </witness>
-                            <witness xml:id="ζ"><abbr>ζ</abbr> = Codex
-                                Riccardianus 974 <msDesc>
+                            <witness xml:id="ζ"><abbr type="siglum">ζ</abbr> = Codex Riccardianus 974 <msDesc>
                                     <msIdentifier>
                                         <settlement>Florence</settlement>
                                         <repository>Biblioteca Riccardiana</repository>
@@ -2689,8 +2711,10 @@
                                             <supportDesc material="paper"/>
                                         </objectDesc>
                                         <handDesc>
-                                            <handNote xml:id="ζ1"><abbr>ζ<hi rend="superscript">1</hi></abbr></handNote>
-                                            <handNote xml:id="ζ2"><abbr>ζ<hi rend="superscript">2</hi></abbr></handNote>
+                                            <handNote xml:id="ζ1"><abbr type="siglum">ζ<hi rend="superscript"
+                                                  >1</hi></abbr></handNote>
+                                            <handNote xml:id="ζ2"><abbr type="siglum">ζ<hi rend="superscript"
+                                                  >2</hi></abbr></handNote>
                                         </handDesc>
                                     </physDesc>
                                     <history>
@@ -2701,12 +2725,12 @@
                                 </msDesc>
                             </witness>
                         </listWit>
+                        <!-- End Second Family -->
                     </item>
                     <item>
                         <listWit>
                             <head>Third family</head>
-                            <witness xml:id="P"><abbr>P</abbr> = Codex
-                                Parisinus 8049 <msDesc>
+                            <witness xml:id="P"><abbr type="siglum">P</abbr> = Codex Parisinus 8049 <msDesc>
                                     <msIdentifier>
                                         <settlement>Paris</settlement>
                                         <repository>Bibliothèque Nationale</repository>
@@ -2717,8 +2741,10 @@
                                             <supportDesc material="parch"/>
                                         </objectDesc>
                                         <handDesc>
-                                            <handNote xml:id="P1"><abbr>P<hi rend="superscript">1</hi></abbr></handNote>
-                                            <handNote xml:id="P2"><abbr>P<hi rend="superscript">2</hi></abbr></handNote>
+                                            <handNote xml:id="P1"><abbr type="siglum">P<hi rend="superscript"
+                                                  >1</hi></abbr></handNote>
+                                            <handNote xml:id="P2"><abbr type="siglum">P<hi rend="superscript"
+                                                  >2</hi></abbr></handNote>
                                         </handDesc>
                                     </physDesc>
                                     <history>
@@ -2732,15 +2758,14 @@
                         </listWit>
                     </item>
                     <item>
-                        
-                        <!-- Continue updating sigla and hands here -->
                         <listWit>
                             <head>Other codices</head>
-                            <witness xml:id="A" n="A" corresp="#ρ #AngeliusLat #AngeliTrans">cod.
-                                Germanicus Th. Ugoleti, cuius scripturas in mg. <ref target="#ρ"
-                                    >cod. Riccard. 636</ref> N. Angelius enotavit.</witness>
-                            <witness xml:id="H" n="H">cod. Harleiani 2578 lectiones, quae ad
-                                Boccaccii codicem ve ad cod. Th. Ugoleti redire videntur <msDesc>
+                            <witness xml:id="A" corresp="#ρ"><abbr type="siglum">A</abbr> = cod. Germanicus Th.
+                                Ugoleti = Marginalia copied into <ref target="#ρ">cod. Riccard.
+                                    636</ref> by N. Angelius (Niccolò Angeli).</witness>
+                            <witness xml:id="H"><abbr type="siglum">H</abbr> = Readings in cod. Harleiani 2578
+                                that appear to go back to the manuscript of Boccaccio or Th.
+                                Ugoletus (Taddeo Ugoleto)<msDesc>
                                     <msIdentifier>
                                         <settlement>London</settlement>
                                         <repository>British Library</repository>
@@ -2751,8 +2776,8 @@
                                     </msIdentifier>
                                     <physDesc>
                                         <handDesc hands="2">
-                                            <handNote xml:id="H1" n="H¹"/>
-                                            <handNote xml:id="H2" n="H²"/>
+                                            <handNote xml:id="H1"><abbr type="siglum">H<hi rend="superscript">1</hi></abbr></handNote>
+                                            <handNote xml:id="H2"><abbr type="siglum">H<hi rend="superscript">2</hi></abbr></handNote>
                                         </handDesc>
                                     </physDesc>
                                 </msDesc>
@@ -2762,12 +2787,10 @@
                     <item>
                         <listWit>
                             <head>Excerpts</head>
-                            <witness xml:id="ExcPar" n="Exc. Par."
-                                corresp="#ExcerptaLat #ExcerptaTrans">Combination of Exc. Par. Prior
-                                and Exc. Par. Alter</witness>
+                            <witness xml:id="ExcPar"><abbr type="siglum">Exc. Par.</abbr> = Combination of Exc. Par. Prior
+                                and Exc. Par. Alter (below)</witness>
                             <listWit>
-                                <witness xml:id="ExcParPrior" n="Exc. Par. Prior"
-                                    corresp="#ExcerptaLat #ExcerptaTrans">
+                                <witness xml:id="ExcParPrior"><abbr type="siglum">Exc. Par. Prior</abbr> = Thuaneus 7647
                                     <msDesc>
                                         <msIdentifier>
                                             <settlement>Paris</settlement>
@@ -2776,8 +2799,7 @@
                                         </msIdentifier>
                                     </msDesc>
                                 </witness>
-                                <witness xml:id="ExcParAlter" n="Exc. Par. Alter"
-                                    corresp="#ExcerptaLat #ExcerptaTrans">
+                                <witness xml:id="ExcParAlter"><abbr type="siglum">Exc. Par. Alter</abbr> = Nostradamensis 17903
                                     <msDesc>
                                         <msIdentifier>
                                             <settlement>Paris</settlement>
@@ -2787,8 +2809,7 @@
                                     </msDesc>
                                 </witness>
                             </listWit>
-                            <witness xml:id="ExcBon" n="Exc. Bon."
-                                corresp="#ExcerptaLat #ExcerptaTrans">
+                            <witness xml:id="ExcBon"><abbr type="siglum">Exc. Bon.</abbr> = 52 Busta II, n. 1
                                 <msDesc>
                                     <msIdentifier>
                                         <settlement>Bologna</settlement>
@@ -2802,7 +2823,7 @@
                     </item>
                     <item>
                         <listWit>
-                            <witness xml:id="ω" n="ω">codicum omnium consensus</witness>
+                            <witness xml:id="ω" n="ω"><abbr type="siglum">ω</abbr> = Consensus of all of the manuscripts</witness>
                         </listWit>
                     </item>
                 </list>
