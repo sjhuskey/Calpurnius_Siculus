@@ -3151,626 +3151,641 @@
                             Bucolica</title>. <pubPlace>Neapoli</pubPlace>: apud Detken et Rocholl,
                             <date>1910</date>.</bibl>
                 </listBibl>
-                
+
                 <!-- Secondary sources, i.e, articles, commentaries, books, etc. -->
-                
+
                 <listBibl type="Secondary_Sources">
                     <head>Secondary Sources</head>
-                    <bibl xml:id="Baehr1870"><abbr type="siglum">Baehr. 1870</abbr> = <editor>Baehrens,
-                  Emil</editor>. <title>Lectiones Latinae</title>. <pubPlace>Bonn</pubPlace>:
-                  <publisher>Carolus Georgus</publisher>, <date>1870</date>. <ptr
-                  target="https://books.google.com/books?id=a6FMAAAAcAAJ&amp;pg=PT4#v=onepage&amp;q&amp;f=false"
-               />.</bibl>
+                    <bibl xml:id="Baehr1870"><abbr type="siglum">Baehr. 1870</abbr> =
+                            <editor>Baehrens, Emil</editor>. <title>Lectiones Latinae</title>.
+                            <pubPlace>Bonn</pubPlace>: <publisher>Carolus Georgus</publisher>,
+                            <date>1870</date>. <ptr
+                            target="https://books.google.com/books?id=a6FMAAAAcAAJ&amp;pg=PT4#v=onepage&amp;q&amp;f=false"
+                        />.</bibl>
 
-            <bibl xml:id="Baehrens1872"><abbr type="siglum">Baehrens 1872</abbr> = <author>Baehrens,
-                  Emil</author> "<title level="a">Zu Calpurnius</title>." <title level="j"
-                  >Rheinisches Museum für Philologie</title>
-               <biblScope unit="volume">27</biblScope> (<date>1872</date>): <biblScope unit="page"
-                  >186</biblScope>. URL: <ptr
-                  target="http://www.rhm.uni-koeln.de/027/M-Baehrens2.pdf"/></bibl>
+                    <bibl xml:id="Baehrens1872"><abbr type="siglum">Baehrens 1872</abbr> =
+                            <author>Baehrens, Emil</author> "<title level="a">Zu
+                        Calpurnius</title>." <title level="j">Rheinisches Museum für
+                            Philologie</title>
+                        <biblScope unit="volume">27</biblScope> (<date>1872</date>): <biblScope
+                            unit="page">186</biblScope>. URL: <ptr
+                            target="http://www.rhm.uni-koeln.de/027/M-Baehrens2.pdf"/></bibl>
 
-            <bibl xml:id="Barth1624"><abbr type="siglum">Barth 1624</abbr> = <author>Barth, Kaspar
-                  von</author>. <title>Adversariorum Commentariorum Libri LX</title>.
-                  <pubPlace>Francofurti</pubPlace>: <publisher>Typis Wechelianis, apud Danielem
-                  &amp; Davidem Aubrios, &amp; Clementem Schleichium</publisher>, <date>1624</date>.
-               URL: <ptr
-                  target="https://books.google.com/books?id=-DVOAAAAYAAJ&amp;pg=PA65#v=onepage&amp;q&amp;f=false"
-               />.</bibl>
+                    <bibl xml:id="Barth1624"><abbr type="siglum">Barth 1624</abbr> = <author>Barth,
+                            Kaspar von</author>. <title>Adversariorum Commentariorum Libri
+                            LX</title>. <pubPlace>Francofurti</pubPlace>: <publisher>Typis
+                            Wechelianis, apud Danielem &amp; Davidem Aubrios, &amp; Clementem
+                            Schleichium</publisher>, <date>1624</date>. URL: <ptr
+                            target="https://books.google.com/books?id=-DVOAAAAYAAJ&amp;pg=PA65#v=onepage&amp;q&amp;f=false"
+                        />.</bibl>
 
-            <bibl xml:id="Barth1650"><abbr type="siglum">Barth 1650</abbr> = <editor>Barth, Kaspar von</editor>.
-                  <title>Cl. Claudiani, Principum, Heroumque Poetae Praegloriosissimi, Quae
-                  Extant</title>
-               <pubPlace>Francofurti</pubPlace>: <publisher>apud Joannem Naumannum bibliop.
-                  Hamburgensem</publisher>, <date>1650</date>. URL: <ptr
-                  target="https://books.google.com/books?id=rCKBqXCArqIC&amp;pg=PP13#v=onepage&amp;q&amp;f=false"
-               />. </bibl>
+                    <bibl xml:id="Barth1650"><abbr type="siglum">Barth 1650</abbr> = <editor>Barth,
+                            Kaspar von</editor>. <title>Cl. Claudiani, Principum, Heroumque Poetae
+                            Praegloriosissimi, Quae Extant</title>
+                        <pubPlace>Francofurti</pubPlace>: <publisher>apud Joannem Naumannum bibliop.
+                            Hamburgensem</publisher>, <date>1650</date>. URL: <ptr
+                            target="https://books.google.com/books?id=rCKBqXCArqIC&amp;pg=PP13#v=onepage&amp;q&amp;f=false"
+                        />. </bibl>
 
-            <bibl xml:id="Bartholinus"><abbr type="siglum">Bartholinus</abbr> = <author>Bartholinus,
-                  Thomas</author>. <title>De Luce animalium libri III</title>. <pubPlace>Lugdunum
-                  Batavorum</pubPlace>: <publisher>Ex officina F. Hackii</publisher>,
-                  <date>1647</date>. URL: <ptr
-                  target="https://books.google.com/books?id=R-f-lEMwFq0C&amp;pg=PR4#v=onepage&amp;q&amp;f=false"
-               />.</bibl>
+                    <bibl xml:id="Bartholinus"><abbr type="siglum">Bartholinus</abbr> =
+                            <author>Bartholinus, Thomas</author>. <title>De Luce animalium libri
+                            III</title>. <pubPlace>Lugdunum Batavorum</pubPlace>: <publisher>Ex
+                            officina F. Hackii</publisher>, <date>1647</date>. URL: <ptr
+                            target="https://books.google.com/books?id=R-f-lEMwFq0C&amp;pg=PR4#v=onepage&amp;q&amp;f=false"
+                        />.</bibl>
 
-            <bibl xml:id="Bergk"><abbr type="siglum">Bergk</abbr> = <author>Bergk, Theodor</author>. "<title
-                  level="a">Philologische Thesen</title>." <title level="j">Rheinisches Museum für
-                  Philologie</title>
-               <biblScope unit="volume">20</biblScope> (<date>1865</date>): <biblScope unit="page"
-                  >288–92</biblScope>. URL: <ptr
-                  target="http://www.rhm.uni-koeln.de/020/M-Bergk.pdf"/></bibl>
+                    <bibl xml:id="Bergk"><abbr type="siglum">Bergk</abbr> = <author>Bergk,
+                            Theodor</author>. "<title level="a">Philologische Thesen</title>."
+                            <title level="j">Rheinisches Museum für Philologie</title>
+                        <biblScope unit="volume">20</biblScope> (<date>1865</date>): <biblScope
+                            unit="page">288–92</biblScope>. URL: <ptr
+                            target="http://www.rhm.uni-koeln.de/020/M-Bergk.pdf"/></bibl>
 
-            <bibl xml:id="Brantsma"><abbr type="siglum">Brantsma</abbr> = <author>Brantsma, Pieter</author>.
-                  <title>Specimen Observationum</title>. <pubPlace>Franequerae</pubPlace>:
-                  <publisher>s.n.</publisher>, <date>1772</date>.</bibl>
+                    <bibl xml:id="Brantsma"><abbr type="siglum">Brantsma</abbr> = <author>Brantsma,
+                            Pieter</author>. <title>Specimen Observationum</title>.
+                            <pubPlace>Franequerae</pubPlace>: <publisher>s.n.</publisher>,
+                            <date>1772</date>.</bibl>
 
-            <bibl xml:id="Buecheler1907"><abbr type="siglum">Buecheler 1907</abbr> = <author>Buecheler,
-                  Franz</author>. "<title level="a">Grammatica et Epigraphica</title>." <title
-                  level="j">Glotta</title>
-               <biblScope unit="volume">1</biblScope> (<date>1907</date>): <biblScope unit="page"
-                  >1–9</biblScope>. URL: <ptr
-                  target="https://archive.org/details/glottazeitschri00kretgoog"/>.</bibl>
+                    <bibl xml:id="Buecheler1907"><abbr type="siglum">Buecheler 1907</abbr> =
+                            <author>Buecheler, Franz</author>. "<title level="a">Grammatica et
+                            Epigraphica</title>." <title level="j">Glotta</title>
+                        <biblScope unit="volume">1</biblScope> (<date>1907</date>): <biblScope
+                            unit="page">1–9</biblScope>. URL: <ptr
+                            target="https://archive.org/details/glottazeitschri00kretgoog"/>.</bibl>
 
-            <bibl xml:id="Buecheler1871"><abbr type="siglum">Buecheler 1871</abbr> = <author>Buecheler,
-                  Franz</author>. "<title level="a">Zur Höfische Poesie Unter Nero</title>." <title
-                  level="j">Rheinisches Museum für Philologie</title>
-               <biblScope>26</biblScope> (<date>1871</date>): <biblScope unit="page"
-                  >235–40</biblScope>. URL: <ptr
-                  target="http://www.rhm.uni-koeln.de/026/Buecheler1.pdf"/>.</bibl>
+                    <bibl xml:id="Buecheler1871"><abbr type="siglum">Buecheler 1871</abbr> =
+                            <author>Buecheler, Franz</author>. "<title level="a">Zur Höfische Poesie
+                            Unter Nero</title>." <title level="j">Rheinisches Museum für
+                            Philologie</title>
+                        <biblScope>26</biblScope> (<date>1871</date>): <biblScope unit="page"
+                            >235–40</biblScope>. URL: <ptr
+                            target="http://www.rhm.uni-koeln.de/026/Buecheler1.pdf"/>.</bibl>
 
-            <bibl xml:id="Burman1759"><abbr type="siglum">Burm. 1759</abbr> = <editor>Burmannus, Petrus</editor>.
-                  <title>Anthologia Veterum Latinorum Epigrammatum et Poematum: sive Catalecta
-                  Poetarum Latinorum in VI Libros Digesta</title>. <pubPlace>Amstelodami</pubPlace>:
-                  <publisher>ex officina Schouteniana</publisher>, <date>1759</date>. URL: <ptr
-                  target="https://books.google.com/books?id=wik_AAAAcAAJ&amp;pg=PR1#v=onepage&amp;q&amp;f=false"
-               />.</bibl>
+                    <bibl xml:id="Burman1759"><abbr type="siglum">Burm. 1759</abbr> =
+                            <editor>Burmannus, Petrus</editor>. <title>Anthologia Veterum Latinorum
+                            Epigrammatum et Poematum: sive Catalecta Poetarum Latinorum in VI Libros
+                            Digesta</title>. <pubPlace>Amstelodami</pubPlace>: <publisher>ex
+                            officina Schouteniana</publisher>, <date>1759</date>. URL: <ptr
+                            target="https://books.google.com/books?id=wik_AAAAcAAJ&amp;pg=PR1#v=onepage&amp;q&amp;f=false"
+                        />.</bibl>
 
-            <bibl xml:id="Kannegieter"><abbr type="siglum">Kannegieter</abbr> = <editor>Cannegieter,
-                  Hendrik</editor>. <title>Flavii Aviani Fabulae</title>.
-                  <pubPlace>Amstelodami</pubPlace>: <publisher>apud Martinum Schagen</publisher>,
-                  <date>1731</date>. URL: <ptr
-                  target="https://books.google.com/books?id=95tHAAAAYAAJ&amp;pg=PR1#v=onepage&amp;q&amp;f=false"
-               /></bibl>
+                    <bibl xml:id="Kannegieter"><abbr type="siglum">Kannegieter</abbr> =
+                            <editor>Cannegieter, Hendrik</editor>. <title>Flavii Aviani
+                            Fabulae</title>. <pubPlace>Amstelodami</pubPlace>: <publisher>apud
+                            Martinum Schagen</publisher>, <date>1731</date>. URL: <ptr
+                            target="https://books.google.com/books?id=95tHAAAAYAAJ&amp;pg=PR1#v=onepage&amp;q&amp;f=false"
+                        /></bibl>
 
-            <bibl xml:id="Carrio"><abbr type="siglum">Carrio</abbr> = <author>Carrion, Louis</author>.
-                  <title>Emendationum et Observationum Libri duo 1.2</title>.
-                  <pubPlace>Lutetiae</pubPlace>: <publisher>Beysius</publisher>,
-               <date>1583</date>.</bibl>
+                    <bibl xml:id="Carrio"><abbr type="siglum">Carrio</abbr> = <author>Carrion,
+                            Louis</author>. <title>Emendationum et Observationum Libri duo
+                            1.2</title>. <pubPlace>Lutetiae</pubPlace>:
+                            <publisher>Beysius</publisher>, <date>1583</date>.</bibl>
 
-            <bibl xml:id="Chytil"><abbr type="siglum">Chytil</abbr> = <author>Chytil, Franz</author>. "<title
-                  level="a">Der Eklogendichter T. Calpurnius Siculus und seine Vorbilder</title>."
-                  <title level="j">Jahresbericht des k. k. Gymnasiums in Znaim</title>
-               <date>1893–94</date>: <biblScope unit="page">3–24</biblScope>. URL: <ptr
-                  target="http://hdl.handle.net/2027/uc1.c071004696"/>.</bibl>
+                    <bibl xml:id="Chytil"><abbr type="siglum">Chytil</abbr> = <author>Chytil,
+                            Franz</author>. "<title level="a">Der Eklogendichter T. Calpurnius
+                            Siculus und seine Vorbilder</title>." <title level="j">Jahresbericht des
+                            k. k. Gymnasiums in Znaim</title>
+                        <date>1893–94</date>: <biblScope unit="page">3–24</biblScope>. URL: <ptr
+                            target="http://hdl.handle.net/2027/uc1.c071004696"/>.</bibl>
 
-            <bibl xml:id="Dempster"><abbr type="siglum">Dempster</abbr> = <author>Dempster, Thomas</author>.
-                  <title>De Etruria regali libri VII</title>. <pubPlace>Florentiae</pubPlace>:
-                  <publisher>apud J.C. Tartinium et Sanctem Franchium</publisher>,
-               <date>1723</date>. URL: <ptr
-                  target="https://books.google.com/books?id=tQJdAAAAcAAJ&amp;pg=PR8#v=onepage&amp;q&amp;f=false"
-               />.</bibl>
+                    <bibl xml:id="Dempster"><abbr type="siglum">Dempster</abbr> = <author>Dempster,
+                            Thomas</author>. <title>De Etruria regali libri VII</title>.
+                            <pubPlace>Florentiae</pubPlace>: <publisher>apud J.C. Tartinium et
+                            Sanctem Franchium</publisher>, <date>1723</date>. URL: <ptr
+                            target="https://books.google.com/books?id=tQJdAAAAcAAJ&amp;pg=PR8#v=onepage&amp;q&amp;f=false"
+                        />.</bibl>
 
-            <bibl xml:id="deRooy"><abbr type="siglum">de Rooy</abbr> = <author>de Rooy, Antonius</author>.
-                  <title>Spicilegia Critica</title>. <pubPlace>Dordraci</pubPlace>: <publisher>typis
-                  Petri van Braam</publisher>, <date>1771</date>. URL: <ptr
-                  target="https://books.google.com/books?id=m10VAAAAQAAJ&amp;pg=PA101#v=onepage&amp;q&amp;f=false"
-               />.</bibl>
+                    <bibl xml:id="deRooy"><abbr type="siglum">de Rooy</abbr> = <author>de Rooy,
+                            Antonius</author>. <title>Spicilegia Critica</title>.
+                            <pubPlace>Dordraci</pubPlace>: <publisher>typis Petri van
+                            Braam</publisher>, <date>1771</date>. URL: <ptr
+                            target="https://books.google.com/books?id=m10VAAAAQAAJ&amp;pg=PA101#v=onepage&amp;q&amp;f=false"
+                        />.</bibl>
 
-            <bibl xml:id="Ellis"><abbr type="siglum">Ellis</abbr> = <author>Ellis, Robinson</author>. <title
-                  level="a">Review of 'Calpurnii et Nemesiani Bucoloca Recensuit Henricus Schenkl,
-                  Lipsiae, G. Freytag, Pragae, F. Tempsky, 1885'</title>
-               <title level="j">American Journal of Philology</title>
-               <biblScope unit="volume">7</biblScope> (<date>1886</date>): <biblScope unit="page"
-                  >88–91</biblScope>. URL: <ptr
-                  target="https://books.google.com/books?id=tl4bu49MEyIC&amp;dq=editions%3AkJBBtxu-RskC&amp;pg=PA88#v=onepage&amp;q&amp;f=false"
-               />.</bibl>
+                    <bibl xml:id="Ellis"><abbr type="siglum">Ellis</abbr> = <author>Ellis,
+                            Robinson</author>. <title level="a">Review of 'Calpurnii et Nemesiani
+                            Bucoloca Recensuit Henricus Schenkl, Lipsiae, G. Freytag, Pragae, F.
+                            Tempsky, 1885'</title>
+                        <title level="j">American Journal of Philology</title>
+                        <biblScope unit="volume">7</biblScope> (<date>1886</date>): <biblScope
+                            unit="page">88–91</biblScope>. URL: <ptr
+                            target="https://books.google.com/books?id=tl4bu49MEyIC&amp;dq=editions%3AkJBBtxu-RskC&amp;pg=PA88#v=onepage&amp;q&amp;f=false"
+                        />.</bibl>
 
-            <bibl xml:id="Erasmus"><abbr type="siglum">Erasmus</abbr> = <author>Erasmus, Desiderius</author>.
-                  <title>Opera Omnia Emendatiora et Auctiora, Tomus Secundus: Complectens
-                  Adagia</title>. <pubPlace>Lugdunum Batavorum</pubPlace>: <publisher>cura et
-                  impensis Petri Lander Aa</publisher>, <date>1703</date>. <ptr
-                  target="https://books.google.ca/books?id=rZJd0x6VPqIC&amp;pg=PP5#v=onepage&amp;q&amp;f=false"
-               />.</bibl>
+                    <bibl xml:id="Erasmus"><abbr type="siglum">Erasmus</abbr> = <author>Erasmus,
+                            Desiderius</author>. <title>Opera Omnia Emendatiora et Auctiora, Tomus
+                            Secundus: Complectens Adagia</title>. <pubPlace>Lugdunum
+                            Batavorum</pubPlace>: <publisher>cura et impensis Petri Lander
+                            Aa</publisher>, <date>1703</date>. <ptr
+                            target="https://books.google.ca/books?id=rZJd0x6VPqIC&amp;pg=PP5#v=onepage&amp;q&amp;f=false"
+                        />.</bibl>
 
-            <bibl xml:id="Fabricius"><abbr type="siglum">Fabricius</abbr> = <author>Fabricius, Johann
-                  Albert</author>. <title>Bibliotheca Latina, Tomus III</title>.
-                  <pubPlace>Lipsiae</pubPlace>: <publisher>apud Weidmanni Heredes et
-                  Reichium</publisher>, <date>1774</date>. <ptr
-                  target="https://books.google.com/books?id=r7bwmNY6a9sC&amp;pg=PP7#v=onepage&amp;q&amp;f=false"
-               />.</bibl>
+                    <bibl xml:id="Fabricius"><abbr type="siglum">Fabricius</abbr> =
+                            <author>Fabricius, Johann Albert</author>. <title>Bibliotheca Latina,
+                            Tomus III</title>. <pubPlace>Lipsiae</pubPlace>: <publisher>apud
+                            Weidmanni Heredes et Reichium</publisher>, <date>1774</date>. <ptr
+                            target="https://books.google.com/books?id=r7bwmNY6a9sC&amp;pg=PP7#v=onepage&amp;q&amp;f=false"
+                        />.</bibl>
 
-            <bibl xml:id="Forbiger"><abbr type="siglum">Forbiger</abbr> = <editor>Forbiger, Albert</editor>.
-                  <title>P. Virgilii Maronis Opera</title>. <pubPlace>Lipsiae</pubPlace>:
-                  <publisher>I. C. Hinrichs</publisher>, <date>1845</date>. URL: <ptr
-                      target="https://books.google.com/books?id=feBCAQAAMAAJ&amp;pg=PR1#v=onepage&amp;q&amp;f=false"
-               />.</bibl>
+                    <bibl xml:id="Forbiger"><abbr type="siglum">Forbiger</abbr> = <editor>Forbiger,
+                            Albert</editor>. <title>P. Virgilii Maronis Opera</title>.
+                            <pubPlace>Lipsiae</pubPlace>: <publisher>I. C. Hinrichs</publisher>,
+                            <date>1845</date>. URL: <ptr
+                            target="https://books.google.com/books?id=feBCAQAAMAAJ&amp;pg=PR1#v=onepage&amp;q&amp;f=false"
+                        />.</bibl>
 
-            <bibl xml:id="Friesemann"><abbr type="siglum">Friesemann</abbr> = <author>Friesemann,
-               Hendrik</author>. <title>Collectanea critica</title>.
-                  <pubPlace>Amstelodami</pubPlace>: <publisher>apud Petrum den Hengst</publisher>,
-                  <date>1786</date>. URL: <ptr
-                  target="https://books.google.com/books?id=hu5WAAAAcAAJ&amp;pg=PP5#v=onepage&amp;q&amp;f=false"
-               />.</bibl>
+                    <bibl xml:id="Friesemann"><abbr type="siglum">Friesemann</abbr> =
+                            <author>Friesemann, Hendrik</author>. <title>Collectanea
+                        critica</title>. <pubPlace>Amstelodami</pubPlace>: <publisher>apud Petrum
+                            den Hengst</publisher>, <date>1786</date>. URL: <ptr
+                            target="https://books.google.com/books?id=hu5WAAAAcAAJ&amp;pg=PP5#v=onepage&amp;q&amp;f=false"
+                        />.</bibl>
 
-            <bibl xml:id="Fritzsche"><abbr type="siglum">Fritzsche</abbr> = <author>Fritzsche, Franz
-                  Volkmar</author>. "<title level="a">De Eclogis Calpurnianis</title>." <title
-                  level="j">Jahresbericht der grossherzoglichen Gymnasium Fridericianum zu
-                  Schwerin</title>. (<date>1903</date>): <biblScope unit="page">3–19</biblScope>.
-               URL: <ptr target="https://archive.org/details/deeclogiscalpur00fritgoog"/>.</bibl>
+                    <bibl xml:id="Fritzsche"><abbr type="siglum">Fritzsche</abbr> =
+                            <author>Fritzsche, Franz Volkmar</author>. "<title level="a">De Eclogis
+                            Calpurnianis</title>." <title level="j">Jahresbericht der
+                            grossherzoglichen Gymnasium Fridericianum zu Schwerin</title>.
+                            (<date>1903</date>): <biblScope unit="page">3–19</biblScope>. URL: <ptr
+                            target="https://archive.org/details/deeclogiscalpur00fritgoog"/>.</bibl>
 
-            <bibl xml:id="Gebauer"><abbr type="siglum">Gebauer</abbr> = <editor>Gebauer, Gustavus
-                  Adolphus</editor>. <title>De poetarum Græcorum bucolicorum imprimis Theocriti
-                  carminibus in eclogis a Vergilio adumbratis. Particula 1</title>.
-                  <pubPlace>Lipsiae</pubPlace>: <publisher>Hermann Mendelssohn</publisher>,
-                  <date>1860</date>. URL: <ptr
-                      target="https://books.google.com/books?id=4YMCAAAAQAAJ&amp;pg=PR1#v=onepage&amp;q&amp;f=false"
-               />.</bibl>
+                    <bibl xml:id="Gebauer"><abbr type="siglum">Gebauer</abbr> = <editor>Gebauer,
+                            Gustavus Adolphus</editor>. <title>De poetarum Græcorum bucolicorum
+                            imprimis Theocriti carminibus in eclogis a Vergilio adumbratis.
+                            Particula 1</title>. <pubPlace>Lipsiae</pubPlace>: <publisher>Hermann
+                            Mendelssohn</publisher>, <date>1860</date>. URL: <ptr
+                            target="https://books.google.com/books?id=4YMCAAAAQAAJ&amp;pg=PR1#v=onepage&amp;q&amp;f=false"
+                        />.</bibl>
 
-            <bibl xml:id="Gebhard"><abbr type="siglum">Gebhard</abbr> = <author>Gebhard, Janus</author>.
-                  <title>Crepundiorum, seu Iuvenilium Curarum Libri Tres</title>.
-                  <pubPlace>Hanoviae</pubPlace>: <publisher>Wechelianis, apud Haeredes Ioannis
-                  Aubrii</publisher>, <date>1615</date>. URL: <ptr
-                  target="https://books.google.de/books?id=DfuKD9LRUGsC&amp;hl=de&amp;pg=PA97#v=onepage&amp;q&amp;f=false"
-               />.</bibl>
+                    <bibl xml:id="Gebhard"><abbr type="siglum">Gebhard</abbr> = <author>Gebhard,
+                            Janus</author>. <title>Crepundiorum, seu Iuvenilium Curarum Libri
+                            Tres</title>. <pubPlace>Hanoviae</pubPlace>: <publisher>Wechelianis,
+                            apud Haeredes Ioannis Aubrii</publisher>, <date>1615</date>. URL: <ptr
+                            target="https://books.google.de/books?id=DfuKD9LRUGsC&amp;hl=de&amp;pg=PA97#v=onepage&amp;q&amp;f=false"
+                        />.</bibl>
 
-            <bibl xml:id="Gronovius1637"><abbr type="siglum">Gronov. 1637</abbr> = <author>Gronovius, Johannes
-                  Fredericus</author>. <title>In Papinii Statii Silvarum Libros V. Diatribe ad Th.
-                  Graswinckelium</title>. <pubPlace>Hagae-Comitis</pubPlace>: <publisher>ex officina
-                  Theodori Maire</publisher>, <date>1637</date>. <ptr
-                      target="https://books.google.com/books?id=zBk-AAAAcAAJ&amp;pg=PP7#v=onepage&amp;q&amp;f=false"
-               />.</bibl>
+                    <bibl xml:id="Gronovius1637"><abbr type="siglum">Gronov. 1637</abbr> =
+                            <author>Gronovius, Johannes Fredericus</author>. <title>In Papinii
+                            Statii Silvarum Libros V. Diatribe ad Th. Graswinckelium</title>.
+                            <pubPlace>Hagae-Comitis</pubPlace>: <publisher>ex officina Theodori
+                            Maire</publisher>, <date>1637</date>. <ptr
+                            target="https://books.google.com/books?id=zBk-AAAAcAAJ&amp;pg=PP7#v=onepage&amp;q&amp;f=false"
+                        />.</bibl>
 
-            <bibl xml:id="Gronovius1755"><abbr type="siglum">Gronov. 1755</abbr> = <author>Gronovius, Johannes
-                  Fredericus</author>. <title>Observationes: Libri IV.</title>
-               <pubPlace>Lipsiae</pubPlace>: <publisher>Iohannes Fridericus Iahn</publisher>,
-                  <date>1755</date>. <ptr
-                  target="https://books.google.com/books?id=9n5MAAAAcAAJ&amp;pg=PP7#v=onepage&amp;q&amp;f=false"
-               />.</bibl>
+                    <bibl xml:id="Gronovius1755"><abbr type="siglum">Gronov. 1755</abbr> =
+                            <author>Gronovius, Johannes Fredericus</author>. <title>Observationes:
+                            Libri IV.</title>
+                        <pubPlace>Lipsiae</pubPlace>: <publisher>Iohannes Fridericus
+                            Iahn</publisher>, <date>1755</date>. <ptr
+                            target="https://books.google.com/books?id=9n5MAAAAcAAJ&amp;pg=PP7#v=onepage&amp;q&amp;f=false"
+                        />.</bibl>
 
-            <bibl xml:id="Lucas"><abbr type="siglum">Lucas</abbr> = <author>Lucas, Hans</author>. "<title
-                  level="a">Zu Calpurnius</title>." <title level="j">Wiener Studien</title>
-               <biblScope unit="volume">22</biblScope> (<date>1901</date>): <biblScope unit="page"
-                  >139–40</biblScope>. URL: <ptr
-                  target="https://books.google.com/books?id=gbmMVZEcoGMC&amp;pg=PA139#v=onepage&amp;q&amp;f=false"
-               />.</bibl>
+                    <bibl xml:id="Lucas"><abbr type="siglum">Lucas</abbr> = <author>Lucas,
+                            Hans</author>. "<title level="a">Zu Calpurnius</title>." <title
+                            level="j">Wiener Studien</title>
+                        <biblScope unit="volume">22</biblScope> (<date>1901</date>): <biblScope
+                            unit="page">139–40</biblScope>. URL: <ptr
+                            target="https://books.google.com/books?id=gbmMVZEcoGMC&amp;pg=PA139#v=onepage&amp;q&amp;f=false"
+                        />.</bibl>
 
-            <bibl xml:id="Haupt1854"><abbr type="siglum">Haupt 1854</abbr>. <author>Haupt, Moriz</author>.
-               <title>De Carminibus Bucolicis Calpurnii et Nemesiani</title>.
-               <pubPlace>Berolini</pubPlace>: <publisher>Typis Academicis</publisher>,
-               <date>1854</date>. URL: <ptr
-                  target="https://books.google.com/books?id=8SwUAAAAQAAJ&amp;pg=PP5#v=onepage&amp;q&amp;f=false"
-               />.</bibl>
-            
-            <bibl xml:id="Haupt1874"><abbr type="siglum">Haupt 1874</abbr>
-               <author>Haupt, Moriz</author>. "<title level="a">Coniectanea</title>." <title
-                  level="j">Hermes</title>
-               <biblScope unit="volume">8</biblScope> (<date>1874</date>): <biblScope unit="page"
-                  >177–83, 241–56</biblScope>. URL: <ptr
-                  target="https://archive.org/stream/hermeswies08wies"/>.</bibl>
-            
-            <bibl xml:id="Heins1661"><abbr type="siglum">Heins. in <hi rend="italic">Her</hi>.</abbr>. <author>Heinsius, Nicolaus</author>.
-               <title>Notae in Heroidas P. Ovidii Nasonis</title>. <pubPlace>s.l.</pubPlace>:
-               <publisher>s.n.</publisher>
-               <date>1661</date>. URL: <ptr
-                  target="https://books.google.com/books?id=uuYJ9S-mr2QC&amp;pg=PP5#v=onepage&amp;q&amp;f=false"
-               />.</bibl>
-            
-            <bibl xml:id="Heins1665"><abbr type="siglum">Heins. ad Claud.</abbr> = <editor>Heinsius,
-                  Nicolaus</editor>. <title>Claudii Claudiani Opera</title>.
-                  <pubPlace>Amstelodami</pubPlace>: <publisher>ex officina Elzeviriana</publisher>,
-                  <date>1665</date>. URL: <ptr
-                     target="https://books.google.com/books?id=t9c95zugnIMC&amp;pg=PP5#v=onepage&amp;q&amp;f=false"
-               />.</bibl>
-            
-            <bibl xml:id="Heraldus"><abbr type="siglum">Heraldus</abbr> = <author>Heraldus, Desiderius</author>.
-                  <title>Adversariorum Libri Duo</title>. <pubPlace>Parisiis</pubPlace>:
-                  <publisher>apud Ieremiam Perier</publisher>, <date>1599</date>. URL: <ptr
-                     target="https://books.google.com/books?id=0DmP31YuSXkC&amp;pg=PP7#v=onepage&amp;q&amp;f=false"
-               />.</bibl>
-            
-            <bibl xml:id="Hermann"><abbr type="siglum">G. Hermann</abbr> = <editor>Hermannus, Godofredus</editor>.
-                  <title>Bionis et Moschi Carmina</title>. <pubPlace>Lipsiae</pubPlace>:
-                  <publisher>apud Weidmannos</publisher>, <date>1849</date>. URL: <ptr
-                  target="http://hdl.handle.net/2027/hvd.hxjp5t"/>.</bibl>
-            
-            <bibl xml:id="Hoeufft"><abbr type="siglum">Hoeufft</abbr>, <author>Hoeufft, Jacob Hendrik</author>.
-                  <title>Pericula poëtica</title>. <pubPlace>s.l.</pubPlace>:
-                  <publisher>s.n.</publisher>, <date>1783</date>. URL: <ptr
-                     target="https://books.google.com/books?id=Xv9hAAAAcAAJ&amp;pg=PP7#v=onepage&amp;q&amp;f=false"
-               />.</bibl>
-            
-            <bibl xml:id="Housman1902"><abbr type="siglum">Housman 1902</abbr>
-               <author>Housman, A. E.</author>. "<title level="a">Virgil and Calpurnius</title>."
-                  <title level="j">Classical Review</title>
-               <biblScope unit="volume">16.5</biblScope> (<date>1902</date>): <biblScope unit="page"
-                  >281–82</biblScope>. URL: <ptr target="http://www.jstor.org/stable/695474"
-               /></bibl>
-            
-            <bibl xml:id="Houseman1903"><abbr type="siglum">Housman 1903</abbr> = <editor>Housman, A.E.</editor>
-               <title>M. Manilii Astronomicon, Liber Primus</title>. <pubPlace>Londinii</pubPlace>:
-                  <publisher>apud Grant Richards</publisher>, <date>1903</date>.
-               <ptr target="https://books.google.com/books?id=78dEAQAAIAAJ&amp;pg=PR3#v=onepage&amp;q&amp;f=false"/>.</bibl>
-            
-            <bibl xml:id="Jacoby"><abbr type="siglum">Jacoby</abbr> = <author>Jacoby, Karl</author>. <title
-                  level="a">Review of 'Calpurnii et Nemesiani Bucolica recensuit Henricus Schenkl,
-                  Lipsiae, G. Freytag, Pragae, F. Tempsky, 1885'</title>. <title level="j"
-                  >Wochenschrift für klassiche Philologie</title>
-               <biblScope unit="volume">3</biblScope> (<date>1886</date>): <biblScope unit="page"
-                  >1287–94</biblScope>. URL: <ptr
-                  target="https://books.google.de/books?id=q5blAAAAMAAJ&amp;hl=de&amp;pg=RA7-PA41#v=onepage&amp;q&amp;f=false"
-               />.</bibl>
-            
-            <bibl xml:id="Iustus"><abbr type="siglum">Iustus</abbr> = Iustus, Petrus Paulus. <title>Specimen
-                  Observationum Criticarum</title>. <pubPlace>Viennae</pubPlace>: <publisher>Typis
-                  Ioannis Thomae de Trattnern</publisher>, <date>1765</date>. <ptr
-                  target="https://books.google.com/books?id=TdBWAAAAcAAJ&amp;pg=PP7#v=onepage&amp;q&amp;f=false"
-               />.</bibl>
+                    <bibl xml:id="Haupt1854"><abbr type="siglum">Haupt 1854</abbr>. <author>Haupt,
+                            Moriz</author>. <title>De Carminibus Bucolicis Calpurnii et
+                            Nemesiani</title>. <pubPlace>Berolini</pubPlace>: <publisher>Typis
+                            Academicis</publisher>, <date>1854</date>. URL: <ptr
+                            target="https://books.google.com/books?id=8SwUAAAAQAAJ&amp;pg=PP5#v=onepage&amp;q&amp;f=false"
+                        />.</bibl>
 
-            <bibl xml:id="Leo"><abbr type="siglum">Leo</abbr> = Leo, F. <title level="a">Review of 'Calpurni et
-                  Nemesiani bucolica, recensuit Henricus Schenkl. Lipsiae (A. Freitag) et Pragae (F.
-                  Tempsky) 1885. LXXII, 130 SS. 8'</title>. <title level="j">Zeitschrift für die
-                  österreichischen Gymnasien</title>
-               <biblScope unit="volume">36</biblScope> (<date>1885</date>): <biblScope unit="page"
-                  >611–21</biblScope>.</bibl>
+                    <bibl xml:id="Haupt1874"><abbr type="siglum">Haupt 1874</abbr>
+                        <author>Haupt, Moriz</author>. "<title level="a">Coniectanea</title>."
+                            <title level="j">Hermes</title>
+                        <biblScope unit="volume">8</biblScope> (<date>1874</date>): <biblScope
+                            unit="page">177–83, 241–56</biblScope>. URL: <ptr
+                            target="https://archive.org/stream/hermeswies08wies"/>.</bibl>
 
-            <bibl xml:id="Maehly"><abbr type="siglum">Maehly</abbr> = <author>Mähly, Jacob Achilles</author>.
-                  <title>Der Oedipus Coloneus des Sophocles Anhang enthaltend Beiträge zu Calpurnius
-                  und Nemesianus</title>. <pubPlace>Basel</pubPlace>: <publisher>Hugo
-                  Richter</publisher>, <date>1868</date>. URL: <ptr
-                     target="https://books.google.com/books?id=ejldAAAAcAAJ&amp;pg=PR1#v=onepage&amp;q&amp;f=false"
-               />.</bibl>
+                    <bibl xml:id="Heins1661"><abbr type="siglum">Heins. in <hi rend="italic"
+                                >Her</hi>.</abbr>. <author>Heinsius, Nicolaus</author>. <title>Notae
+                            in Heroidas P. Ovidii Nasonis</title>. <pubPlace>s.l.</pubPlace>:
+                            <publisher>s.n.</publisher>
+                        <date>1661</date>. URL: <ptr
+                            target="https://books.google.com/books?id=uuYJ9S-mr2QC&amp;pg=PP5#v=onepage&amp;q&amp;f=false"
+                        />.</bibl>
 
-            <bibl xml:id="Magnus"><abbr type="siglum">Magnus</abbr> = <author>Magnus, Hugo</author>. <title
-                  level="a">Review of 'Poetae Latini Minores rec. et em. Aemilius Baehrens. Vol.
-                  III. Lipsiae. B.G. Teubner 1881'</title>. <title level="j">Philologische
-                  Wochenschrift</title>
-               <biblScope unit="volume">2.26</biblScope> (<date>1882</date>): <biblScope unit="page"
-                  >810–13</biblScope>. URL: <ptr
-                  target="https://books.google.com/books?id=8eoOoQ-uLHMC&amp;pg=PA809#v=onepage&amp;q&amp;f=false"
-               />.</bibl>
+                    <bibl xml:id="Heins1665"><abbr type="siglum">Heins. ad Claud.</abbr> =
+                            <editor>Heinsius, Nicolaus</editor>. <title>Claudii Claudiani
+                            Opera</title>. <pubPlace>Amstelodami</pubPlace>: <publisher>ex officina
+                            Elzeviriana</publisher>, <date>1665</date>. URL: <ptr
+                            target="https://books.google.com/books?id=t9c95zugnIMC&amp;pg=PP5#v=onepage&amp;q&amp;f=false"
+                        />.</bibl>
 
-            <bibl xml:id="Modius"><abbr type="siglum">Modius</abbr> = <author>Modius, Franciscus</author>.
-                  <title>Novantiquae lectiones</title>. <pubPlace>Froncofurti</pubPlace>:
-                  <publisher>apud heredes Andreae Wecheli</publisher>, <date>1584</date>. URL: <ptr
-                  target="https://books.google.com/books?id=AzROAAAAcAAJ&amp;pg=PP5#v=onepage&amp;q&amp;f=false"
-               />.</bibl>
-            
-            <bibl xml:id="Mueller"><abbr type="siglum">Mueller</abbr> = <author>Müller, Lucian</author>. <title
-                  level="a">Review of 'Calpurnii et Nemesiani Bucolica Recensuit Henricus Schenkl,
-                  Lipsiae, G. Freytag, Pragae, F. Tempsky, 1885'</title>. <title level="j">Berliner
-                  Philologische Wochenschrift</title>
-               <biblScope unit="volume">5</biblScope> (<date>1885</date>): <biblScope unit="page"
-                  >1065–73</biblScope>. URL: <ptr
-                  target="https://books.google.com/books?id=eNUpAAAAYAAJ&amp;pg=PP11#v=onepage&amp;q&amp;f=false."
-               /></bibl>
-            
-            <bibl xml:id="Nodell"><abbr type="siglum">Nodell</abbr> = <editor>Nodell, Jan Adam</editor>.
-                  <title>Flavii Aviani Fabulae ad MS. CD. Collatae.</title>.
-                  <pubPlace>Amstelodami</pubPlace>: <publisher>apud Petrum den Hengst</publisher>,
-                  <date>1787</date>. <ptr
-                     target="https://books.google.com/books?id=dYdYAAAAcAAJ&amp;pg=PP7#v=onepage&amp;q&amp;f=false"
-               />.</bibl>
-            
-            <bibl xml:id="Postgate"><abbr type="siglum">Postgate</abbr> = <author>Postgate, John
-               Percival</author>. "<title level="a">Some Suggestions on Calpurnius Siculus</title>."
-                  <title level="j">The Classical Review</title>
-               <biblScope unit="volume">15.4</biblScope> (<date>1901</date>): <biblScope unit="page"
-                  >213–14</biblScope>. URL: <ptr target="http://www.jstor.org/stable/694806"
-               />.</bibl>
+                    <bibl xml:id="Heraldus"><abbr type="siglum">Heraldus</abbr> = <author>Heraldus,
+                            Desiderius</author>. <title>Adversariorum Libri Duo</title>.
+                            <pubPlace>Parisiis</pubPlace>: <publisher>apud Ieremiam
+                            Perier</publisher>, <date>1599</date>. URL: <ptr
+                            target="https://books.google.com/books?id=0DmP31YuSXkC&amp;pg=PP7#v=onepage&amp;q&amp;f=false"
+                        />.</bibl>
 
-            <bibl xml:id="Salmasius1620"><abbr type="siglum">Salmasius 1620</abbr> = <editor>Salmasius,
-                  Claudius</editor>. <title>Historiae Augustae Scriptores VI</title>.
-                  <pubPlace>Parisiis</pubPlace>: <publisher>s.n.</publisher>, <date>1620</date>.
-                  <ptr
-                     target="https://books.google.com/books?id=HmlUAAAAcAAJ&amp;pg=PP9#v=onepage&amp;q&amp;f=false"
-               />.</bibl>
-            
-            <bibl xml:id="Salmasius1656"><abbr type="siglum">Salmasius 1656</abbr> = <author>Salmasius,
-                  Claudius</author>. <title>Epistolarum Liber Primus</title>. <pubPlace>Lugduni
-                  Batavorum</pubPlace>: <publisher>Ex typographoa Adriani Wyngaerden</publisher>,
-                  <date>1656</date>. <ptr
-                     target="https://books.google.com/books?id=0zRv3_Ym5R4C&amp;pg=PP5#v=onepage&amp;q&amp;f=false"
-               />.</bibl>
-            
-            <bibl xml:id="Sarpe"><abbr type="siglum">Sarpe</abbr> = <author>Sarpe, Gustav Cristoph</author>.
-                  <title>Quaestiones Philologicae</title>. <pubPlace>Rostochii</pubPlace>:
-                  <publisher>litteris Adlerianis</publisher>, <date>1819</date>. URL: <ptr
-                  target="http://reader.digitale-sammlungen.de/resolve/display/bsb10972357.html"
-               />.</bibl>
-            
-            <bibl xml:id="Spanheim"><abbr type="siglum">Spanheim</abbr> = <author>Spanheim, Ezechiel</author>.
-                  <title>Dissertationes De Praestantia et Usu Numismatum Antiquorum</title>.
-               Londini: impensis Richard Smith, <date>1717</date>. URL: <ptr
-                  target="https://books.google.com/books?id=PxIL9N4gwK4C&amp;pg=PP9#v=onepage&amp;q&amp;f=false"
-               />.</bibl>
+                    <bibl xml:id="Hermann"><abbr type="siglum">G. Hermann</abbr> =
+                            <editor>Hermannus, Godofredus</editor>. <title>Bionis et Moschi
+                            Carmina</title>. <pubPlace>Lipsiae</pubPlace>: <publisher>apud
+                            Weidmannos</publisher>, <date>1849</date>. URL: <ptr
+                            target="http://hdl.handle.net/2027/hvd.hxjp5t"/>.</bibl>
 
-            <bibl xml:id="Swartius"><abbr type="siglum">Swartius</abbr> = <editor>Swartius, Eustachius</editor>.
-                  <title>Analectorum Libri III</title>.
-                  <pubPlace>Lugdunum Batavorum</pubPlace>: <publisher>apud Ludovicum
-                  Elzevirium</publisher>, <date>1616</date>. URL: <ptr
-                  target="https://books.google.com/books?id=8JFMAAAAcAAJ&amp;pg=PP5#v=onepage&amp;q&amp;f=false"
-               />.</bibl>
+                    <bibl xml:id="Hoeufft"><abbr type="siglum">Hoeufft</abbr>, <author>Hoeufft,
+                            Jacob Hendrik</author>. <title>Pericula poëtica</title>.
+                            <pubPlace>s.l.</pubPlace>: <publisher>s.n.</publisher>,
+                            <date>1783</date>. URL: <ptr
+                            target="https://books.google.com/books?id=Xv9hAAAAcAAJ&amp;pg=PP7#v=onepage&amp;q&amp;f=false"
+                        />.</bibl>
 
-            <bibl xml:id="Tross"><abbr type="siglum">Tross</abbr> = <author>Tross, Ludovicus</author>.
-                  <title>Observationum Criticarum in Scriptores Nonnullos Latinos Libellus
-                  Prior</title>. <pubPlace>Hammone</pubPlace>: <publisher>sumptibus
-                  auctoris</publisher>, <date>1828</date>. URL: <ptr
-                     target="https://books.google.com/books?id=ao8CAAAAQAAJ&amp;pg=PR1#v=onepage&amp;q&amp;f=false"
-               />.</bibl>
-            
-            <bibl xml:id="Voss"><abbr type="siglum">Voss</abbr> = <editor>Voss, Johann Heinrich</editor>.
-                  <title>Des Publius Virgilius Maro Ländliche Gedichte</title>.
-                  <pubPlace>Altona</pubPlace>: <publisher>Johann Friedrich Hammerich</publisher>,
-                  <date>1797</date>. URL: <ptr
-                     target="https://books.google.com/books?id=Q2YGAAAAQAAJ&amp;pg=PP8#v=onepage&amp;q&amp;f=falsee"
-               />.</bibl>
+                    <bibl xml:id="Housman1902"><abbr type="siglum">Housman 1902</abbr>
+                        <author>Housman, A. E.</author>. "<title level="a">Virgil and
+                            Calpurnius</title>." <title level="j">Classical Review</title>
+                        <biblScope unit="volume">16.5</biblScope> (<date>1902</date>): <biblScope
+                            unit="page">281–82</biblScope>. URL: <ptr
+                            target="http://www.jstor.org/stable/695474"/></bibl>
 
-            <bibl xml:id="Wakefield"><abbr type="siglum">Wakefield</abbr> = <author>Wakefield, Gilbert</author>.
-                  <title>Silva Critica, Sive in Auctores Sacros Profanosque Commentarius
-                  Philologus</title>. <pubPlace>Cantabrigiae</pubPlace>: <publisher>typis academicis
-                  excudebat J. Archdeacon, ubi veneunt apud J. &amp; J. Merrill</publisher>
-               <date>1789</date>.</bibl>
-            
-            <bibl xml:id="Wilamowitz"><abbr type="siglum">Wilamowitz</abbr> = <author>Wilamowitz-Moellendorff,
-                  Ulrich von</author>. <title>Coniectanea</title>. <pubPlace>Göttingen</pubPlace>:
-                  <publisher>Dieterich'sche Druckerei</publisher>, <date>1884</date>. URL: <ptr
-                  target="http://hdl.handle.net/2027/nnc2.ark:/13960/t8jd66k2f"/>.</bibl>
+                    <bibl xml:id="Houseman1903"><abbr type="siglum">Housman 1903</abbr> =
+                            <editor>Housman, A.E.</editor>
+                        <title>M. Manilii Astronomicon, Liber Primus</title>.
+                            <pubPlace>Londinii</pubPlace>: <publisher>apud Grant
+                            Richards</publisher>, <date>1903</date>. <ptr
+                            target="https://books.google.com/books?id=78dEAQAAIAAJ&amp;pg=PR3#v=onepage&amp;q&amp;f=false"
+                        />.</bibl>
+
+                    <bibl xml:id="Jacoby"><abbr type="siglum">Jacoby</abbr> = <author>Jacoby,
+                            Karl</author>. <title level="a">Review of 'Calpurnii et Nemesiani
+                            Bucolica recensuit Henricus Schenkl, Lipsiae, G. Freytag, Pragae, F.
+                            Tempsky, 1885'</title>. <title level="j">Wochenschrift für klassiche
+                            Philologie</title>
+                        <biblScope unit="volume">3</biblScope> (<date>1886</date>): <biblScope
+                            unit="page">1287–94</biblScope>. URL: <ptr
+                            target="https://books.google.de/books?id=q5blAAAAMAAJ&amp;hl=de&amp;pg=RA7-PA41#v=onepage&amp;q&amp;f=false"
+                        />.</bibl>
+
+                    <bibl xml:id="Iustus"><abbr type="siglum">Iustus</abbr> = Iustus, Petrus Paulus.
+                            <title>Specimen Observationum Criticarum</title>.
+                            <pubPlace>Viennae</pubPlace>: <publisher>Typis Ioannis Thomae de
+                            Trattnern</publisher>, <date>1765</date>. <ptr
+                            target="https://books.google.com/books?id=TdBWAAAAcAAJ&amp;pg=PP7#v=onepage&amp;q&amp;f=false"
+                        />.</bibl>
+
+                    <bibl xml:id="Leo"><abbr type="siglum">Leo</abbr> = Leo, F. <title level="a"
+                            >Review of 'Calpurni et Nemesiani bucolica, recensuit Henricus Schenkl.
+                            Lipsiae (A. Freitag) et Pragae (F. Tempsky) 1885. LXXII, 130 SS.
+                            8'</title>. <title level="j">Zeitschrift für die österreichischen
+                            Gymnasien</title>
+                        <biblScope unit="volume">36</biblScope> (<date>1885</date>): <biblScope
+                            unit="page">611–21</biblScope>.</bibl>
+
+                    <bibl xml:id="Maehly"><abbr type="siglum">Maehly</abbr> = <author>Mähly, Jacob
+                            Achilles</author>. <title>Der Oedipus Coloneus des Sophocles Anhang
+                            enthaltend Beiträge zu Calpurnius und Nemesianus</title>.
+                            <pubPlace>Basel</pubPlace>: <publisher>Hugo Richter</publisher>,
+                            <date>1868</date>. URL: <ptr
+                            target="https://books.google.com/books?id=ejldAAAAcAAJ&amp;pg=PR1#v=onepage&amp;q&amp;f=false"
+                        />.</bibl>
+
+                    <bibl xml:id="Magnus"><abbr type="siglum">Magnus</abbr> = <author>Magnus,
+                            Hugo</author>. <title level="a">Review of 'Poetae Latini Minores rec. et
+                            em. Aemilius Baehrens. Vol. III. Lipsiae. B.G. Teubner 1881'</title>.
+                            <title level="j">Philologische Wochenschrift</title>
+                        <biblScope unit="volume">2.26</biblScope> (<date>1882</date>): <biblScope
+                            unit="page">810–13</biblScope>. URL: <ptr
+                            target="https://books.google.com/books?id=8eoOoQ-uLHMC&amp;pg=PA809#v=onepage&amp;q&amp;f=false"
+                        />.</bibl>
+
+                    <bibl xml:id="Modius"><abbr type="siglum">Modius</abbr> = <author>Modius,
+                            Franciscus</author>. <title>Novantiquae lectiones</title>.
+                            <pubPlace>Froncofurti</pubPlace>: <publisher>apud heredes Andreae
+                            Wecheli</publisher>, <date>1584</date>. URL: <ptr
+                            target="https://books.google.com/books?id=AzROAAAAcAAJ&amp;pg=PP5#v=onepage&amp;q&amp;f=false"
+                        />.</bibl>
+
+                    <bibl xml:id="Mueller"><abbr type="siglum">Mueller</abbr> = <author>Müller,
+                            Lucian</author>. <title level="a">Review of 'Calpurnii et Nemesiani
+                            Bucolica Recensuit Henricus Schenkl, Lipsiae, G. Freytag, Pragae, F.
+                            Tempsky, 1885'</title>. <title level="j">Berliner Philologische
+                            Wochenschrift</title>
+                        <biblScope unit="volume">5</biblScope> (<date>1885</date>): <biblScope
+                            unit="page">1065–73</biblScope>. URL: <ptr
+                            target="https://books.google.com/books?id=eNUpAAAAYAAJ&amp;pg=PP11#v=onepage&amp;q&amp;f=false."
+                        /></bibl>
+
+                    <bibl xml:id="Nodell"><abbr type="siglum">Nodell</abbr> = <editor>Nodell, Jan
+                            Adam</editor>. <title>Flavii Aviani Fabulae ad MS. CD.
+                        Collatae.</title>. <pubPlace>Amstelodami</pubPlace>: <publisher>apud Petrum
+                            den Hengst</publisher>, <date>1787</date>. <ptr
+                            target="https://books.google.com/books?id=dYdYAAAAcAAJ&amp;pg=PP7#v=onepage&amp;q&amp;f=false"
+                        />.</bibl>
+
+                    <bibl xml:id="Postgate"><abbr type="siglum">Postgate</abbr> = <author>Postgate,
+                            John Percival</author>. "<title level="a">Some Suggestions on Calpurnius
+                            Siculus</title>." <title level="j">The Classical Review</title>
+                        <biblScope unit="volume">15.4</biblScope> (<date>1901</date>): <biblScope
+                            unit="page">213–14</biblScope>. URL: <ptr
+                            target="http://www.jstor.org/stable/694806"/>.</bibl>
+
+                    <bibl xml:id="Salmasius1620"><abbr type="siglum">Salmasius 1620</abbr> =
+                            <editor>Salmasius, Claudius</editor>. <title>Historiae Augustae
+                            Scriptores VI</title>. <pubPlace>Parisiis</pubPlace>:
+                            <publisher>s.n.</publisher>, <date>1620</date>. <ptr
+                            target="https://books.google.com/books?id=HmlUAAAAcAAJ&amp;pg=PP9#v=onepage&amp;q&amp;f=false"
+                        />.</bibl>
+
+                    <bibl xml:id="Salmasius1656"><abbr type="siglum">Salmasius 1656</abbr> =
+                            <author>Salmasius, Claudius</author>. <title>Epistolarum Liber
+                            Primus</title>. <pubPlace>Lugduni Batavorum</pubPlace>: <publisher>Ex
+                            typographoa Adriani Wyngaerden</publisher>, <date>1656</date>. <ptr
+                            target="https://books.google.com/books?id=0zRv3_Ym5R4C&amp;pg=PP5#v=onepage&amp;q&amp;f=false"
+                        />.</bibl>
+
+                    <bibl xml:id="Sarpe"><abbr type="siglum">Sarpe</abbr> = <author>Sarpe, Gustav
+                            Cristoph</author>. <title>Quaestiones Philologicae</title>.
+                            <pubPlace>Rostochii</pubPlace>: <publisher>litteris
+                            Adlerianis</publisher>, <date>1819</date>. URL: <ptr
+                            target="http://reader.digitale-sammlungen.de/resolve/display/bsb10972357.html"
+                        />.</bibl>
+
+                    <bibl xml:id="Spanheim"><abbr type="siglum">Spanheim</abbr> = <author>Spanheim,
+                            Ezechiel</author>. <title>Dissertationes De Praestantia et Usu
+                            Numismatum Antiquorum</title>. Londini: impensis Richard Smith,
+                            <date>1717</date>. URL: <ptr
+                            target="https://books.google.com/books?id=PxIL9N4gwK4C&amp;pg=PP9#v=onepage&amp;q&amp;f=false"
+                        />.</bibl>
+
+                    <bibl xml:id="Swartius"><abbr type="siglum">Swartius</abbr> = <editor>Swartius,
+                            Eustachius</editor>. <title>Analectorum Libri III</title>.
+                            <pubPlace>Lugdunum Batavorum</pubPlace>: <publisher>apud Ludovicum
+                            Elzevirium</publisher>, <date>1616</date>. URL: <ptr
+                            target="https://books.google.com/books?id=8JFMAAAAcAAJ&amp;pg=PP5#v=onepage&amp;q&amp;f=false"
+                        />.</bibl>
+
+                    <bibl xml:id="Tross"><abbr type="siglum">Tross</abbr> = <author>Tross,
+                            Ludovicus</author>. <title>Observationum Criticarum in Scriptores
+                            Nonnullos Latinos Libellus Prior</title>. <pubPlace>Hammone</pubPlace>:
+                            <publisher>sumptibus auctoris</publisher>, <date>1828</date>. URL: <ptr
+                            target="https://books.google.com/books?id=ao8CAAAAQAAJ&amp;pg=PR1#v=onepage&amp;q&amp;f=false"
+                        />.</bibl>
+
+                    <bibl xml:id="Voss"><abbr type="siglum">Voss</abbr> = <editor>Voss, Johann
+                            Heinrich</editor>. <title>Des Publius Virgilius Maro Ländliche
+                            Gedichte</title>. <pubPlace>Altona</pubPlace>: <publisher>Johann
+                            Friedrich Hammerich</publisher>, <date>1797</date>. URL: <ptr
+                            target="https://books.google.com/books?id=Q2YGAAAAQAAJ&amp;pg=PP8#v=onepage&amp;q&amp;f=falsee"
+                        />.</bibl>
+
+                    <bibl xml:id="Wakefield"><abbr type="siglum">Wakefield</abbr> =
+                            <author>Wakefield, Gilbert</author>. <title>Silva Critica, Sive in
+                            Auctores Sacros Profanosque Commentarius Philologus</title>.
+                            <pubPlace>Cantabrigiae</pubPlace>: <publisher>typis academicis excudebat
+                            J. Archdeacon, ubi veneunt apud J. &amp; J. Merrill</publisher>
+                        <date>1789</date>.</bibl>
+
+                    <bibl xml:id="Wilamowitz"><abbr type="siglum">Wilamowitz</abbr> =
+                            <author>Wilamowitz-Moellendorff, Ulrich von</author>.
+                            <title>Coniectanea</title>. <pubPlace>Göttingen</pubPlace>:
+                            <publisher>Dieterich'sche Druckerei</publisher>, <date>1884</date>. URL:
+                            <ptr target="http://hdl.handle.net/2027/nnc2.ark:/13960/t8jd66k2f"
+                        />.</bibl>
                 </listBibl>
-                
+
                 <!-- List of Scholars -->
-                
+
                 <listPerson xml:id="bibliography-scholars">
                     <head>Scholars Cited by Name</head>
-                    
+
                     <person xml:id="Argol.">
                         <persName ref="http://viaf.org/viaf/34563690">
-                            <abbr type="siglum">Argol.</abbr> = 
-                            <forename>Giovanni</forename>
+                            <abbr type="siglum">Argol.</abbr> = <forename>Giovanni</forename>
                             <surname>Argoli</surname>
                         </persName>
-                        <note>Notes published in <bibl><author>Onuphrii Panvinii</author>, <title>De Ludis Circensibus,
-                            Libri II</title>. <pubPlace>Patavii</pubPlace>: <publisher>Typis Petri Marie
-                                Frambotti Bibliop.</publisher>, <date>1681</date>. URL: <ptr
+                        <note>Notes published in <bibl><author>Onuphrii Panvinii</author>, <title>De
+                                    Ludis Circensibus, Libri II</title>.
+                                    <pubPlace>Patavii</pubPlace>: <publisher>Typis Petri Marie
+                                    Frambotti Bibliop.</publisher>, <date>1681</date>. URL: <ptr
                                     target="https://books.google.com/books?id=50ZYAAAAcAAJ&amp;pg=PR6#v=onepage&amp;q&amp;f=false"
                                 /></bibl></note>
                     </person>
-                    
+
                     <person xml:id="Ascensius">
                         <persName ref="http://viaf.org/viaf/44352439">
-                            <abbr>Ascensius</abbr> = 
-                            <forename>Josse</forename>
+                            <abbr>Ascensius</abbr> = <forename>Josse</forename>
                             <surname>Badius</surname>
                             <addName>Ascensius</addName>
                         </persName>
                         <note>Editor of <ref target="#s" rend="bold">s</ref>.</note>
                     </person>
-                    
+
                     <person xml:id="Brodaeus">
                         <persName ref="http://viaf.org/viaf/3531680">
-                            <abbr type="siglum">Brodaeus</abbr> = 
-                            <forename>Jean</forename>
+                            <abbr type="siglum">Brodaeus</abbr> = <forename>Jean</forename>
                             <surname>Brodeau</surname>
                         </persName>
-                        <note>Notes on Calpurnius cited in <bibl><author>Gruterus, Janus</author>. <title>Lampas, sive Fax Artium
-                            Liberalium, Tomus Quartus</title>. <pubPlace>Francofurti</pubPlace>:
-                            <publisher>e Collegio Paltheniano, Sumptibus Ionae Rhodii
-                                Bibliopola</publisher>
-                            <date>1604</date>. URL: <ptr
-                                target="https://books.google.com/books?id=09rnSvLQZ20C&amp;pg=PA5#v=onepage&amp;q&amp;f=false"
-                            /></bibl></note>
+                        <note>Notes on Calpurnius cited in <bibl><author>Gruterus, Janus</author>.
+                                    <title>Lampas, sive Fax Artium Liberalium, Tomus
+                                Quartus</title>. <pubPlace>Francofurti</pubPlace>: <publisher>e
+                                    Collegio Paltheniano, Sumptibus Ionae Rhodii
+                                    Bibliopola</publisher>
+                                <date>1604</date>. URL: <ptr
+                                    target="https://books.google.com/books?id=09rnSvLQZ20C&amp;pg=PA5#v=onepage&amp;q&amp;f=false"
+                                /></bibl></note>
                     </person>
-                    
+
                     <person xml:id="Bursian">
                         <persName ref="http://viaf.org/viaf/57385669">
-                            <abbr>Bursian</abbr> = 
-                            <forename>Conrad</forename>
+                            <abbr>Bursian</abbr> = <forename>Conrad</forename>
                             <surname>Bursian</surname>
                         </persName>
                         <note target="#Haupt1854">Haupt</note>
-                        <note><ref target="#Haupt1854">Haupt</ref> notes that he used Bursian's collation of a manuscript in Naples.</note>
+                        <note><ref target="#Haupt1854">Haupt</ref> notes that he used Bursian's
+                            collation of a manuscript in Naples.</note>
                     </person>
-                    
+
                     <person xml:id="DOrville">
                         <persName ref="http://viaf.org/viaf/24945908">
-                            <abbr>D'Orville</abbr> = 
-                            <forename>Jacques-Philippe</forename>
+                            <abbr>D'Orville</abbr> = <forename>Jacques-Philippe</forename>
                             <surname>d'Orville</surname>
                         </persName>
                         <note>Cited in <ref target="#Burman1731">Burman 1731</ref></note>
                     </person>
-                    
+
                     <person xml:id="Casaub.">
                         <persName ref="http://viaf.org/viaf/56620173">
-                            <abbr>Casaub.</abbr> = 
-                            <forename>Isaac</forename>
+                            <abbr>Casaub.</abbr> = <forename>Isaac</forename>
                             <surname>Casaubon</surname>
                         </persName>
                         <note>Cited in <ref target="#Burman1731">Burman 1731</ref></note>
                     </person>
-                    
+
                     <person xml:id="Fruterius">
                         <persName ref="http://viaf.org/viaf/35271168">
-                            <abbr>Fruterius</abbr> = 
-                            <forename>Lucas</forename>
+                            <abbr>Fruterius</abbr> = <forename>Lucas</forename>
                             <surname>Fruterius</surname>
                         </persName>
                         <note target="#Barth1613">Barth 1613</note>
-                        <note><ref target="#Barth1613">Barth 1613</ref> cites content from the third book of Fruterius' "Coniect. Verisim.",
-                            which is no longer extant.</note>
+                        <note><ref target="#Barth1613">Barth 1613</ref> cites content from the third
+                            book of Fruterius' "Coniect. Verisim.", which is no longer
+                            extant.</note>
                     </person>
-                    
+
                     <person xml:id="Hartel">
                         <persName>
-                            <abbr>Hartel</abbr> = 
-                            <forename>G.</forename>
+                            <abbr>Hartel</abbr> = <forename>G.</forename>
                             <surname>Hartel</surname>
                         </persName>
-                        <note><ref target="#Schenkl">Schenkl</ref> cites Hartel's unpublished opinions.</note>
+                        <note><ref target="#Schenkl">Schenkl</ref> cites Hartel's unpublished
+                            opinions.</note>
                     </person>
-                    
+
                     <person xml:id="Gudius">
                         <persName ref="http://viaf.org/viaf/59865177">
-                            <abbr>Gudius</abbr> = 
-                            <forename>Marquard</forename>
+                            <abbr>Gudius</abbr> = <forename>Marquard</forename>
                             <surname>Gude</surname>
                         </persName>
                         <note>Cited in <ref target="#Burm1731">Burman 1731</ref>.</note>
                     </person>
-                    
+
                     <person xml:id="Guid.">
                         <persName ref="http://viaf.org/viaf/121992734">
-                            <abbr>Guid.</abbr> = 
-                            <forename>Diomedes</forename>
+                            <abbr>Guid.</abbr> = <forename>Diomedes</forename>
                             <surname>Guidalotti</surname>
                         </persName>
-                        <note>Commentary in <ref target="#b">b</ref>, notes in <ref target="#h">h</ref>.</note>
+                        <note>Commentary in <ref target="#b">b</ref>, notes in <ref target="#h"
+                                >h</ref>.</note>
                     </person>
-                    
+
                     <person xml:id="Heins.">
                         <persName ref="http://viaf.org/viaf/24651364">
-                            <abbr>Heins.</abbr> = 
-                            <forename>Nicolaus</forename>
+                            <abbr>Heins.</abbr> = <forename>Nicolaus</forename>
                             <surname>Heinsius</surname>
                         </persName>
                         <note>Cited in <ref target="#Burm1731">Burman 1731</ref>.</note>
                     </person>
-                    
+
                     <person xml:id="HousmanPerLitt" n="Housman per litt.">
                         <persName ref="http://viaf.org/viaf/49249069">
-                            <abbr>Housman per litt.</abbr> = 
-                            <forename>A. E.</forename>
+                            <abbr>Housman per litt.</abbr> = <forename>A. E.</forename>
                             <surname>Housman</surname>
                         </persName>
                         <note>Housman's personal communication with Giarratano.</note>
                     </person>
-                    
+
                     <person xml:id="Kempfer">
                         <persName ref="http://viaf.org/viaf/22520653">
-                            <abbr>Kempfer</abbr> = 
-                            <forename>Gerard</forename>
+                            <abbr>Kempfer</abbr> = <forename>Gerard</forename>
                             <surname>Kempher</surname>
                         </persName>
                         <note>Cited in <ref target="#h" rend="bold">h</ref></note>
                     </person>
-                    
+
                     <person xml:id="Lachmann">
                         <persName ref="http://viaf.org/viaf/64025742">
-                            <abbr>Lachmann</abbr> = 
-                            <forename>Karl</forename>
+                            <abbr>Lachmann</abbr> = <forename>Karl</forename>
                             <surname>Lachmann</surname>
                         </persName>
-                        <note>In <bibl><editor>Johannes Vahlen</editor>, <title>Karl Lachmanns Briefe an
-                            Moriz Haupt</title>. <pubPlace>Berlin</pubPlace>: <publisher>Druck und
-                                Verlag von Georg Reimer</publisher>, <date>1892</date>. URL: <ptr
+                        <note>In <bibl><editor>Johannes Vahlen</editor>, <title>Karl Lachmanns
+                                    Briefe an Moriz Haupt</title>. <pubPlace>Berlin</pubPlace>:
+                                    <publisher>Druck und Verlag von Georg Reimer</publisher>,
+                                    <date>1892</date>. URL: <ptr
                                     target="https://books.google.com/books?id=e5gOAQAAMAAJ&amp;dq=lachmann%20placido%20quin&amp;pg=PR1#v=onepage&amp;q=lachmann%20placido%20quin&amp;f=false"
                                 />.</bibl></note>
                     </person>
-                    
+
                     <person xml:id="Lipsius">
                         <persName ref="http://viaf.org/viaf/51706656">
-                            <abbr>Lipsius</abbr> = 
-                            <forename>Justus</forename>
+                            <abbr>Lipsius</abbr> = <forename>Justus</forename>
                             <surname>Lipsius</surname>
                         </persName>
                         <note>Cited in <ref target="#Burm1731">Burman 1731</ref>.</note>
                     </person>
-                    
+
                     <person xml:id="Martell.">
                         <persName ref="http://viaf.org/viaf/1088">
-                            <abbr>Martell.</abbr> = 
-                            <forename>Ugolino</forename>
+                            <abbr>Martell.</abbr> = <forename>Ugolino</forename>
                             <surname>Martelli</surname>
                         </persName>
                         <note>Cited in <ref target="#h" rend="bold">h</ref></note>
                     </person>
-                    
+
                     <person xml:id="Oudendorp">
                         <persName ref="http://viaf.org/viaf/37257920">
-                            <abbr>Oudendorp</abbr> = 
-                            <forename>Frans van</forename>
+                            <abbr>Oudendorp</abbr> = <forename>Frans van</forename>
                             <surname>Oudendorp</surname>
                         </persName>
                         <note>Cited in <ref target="#Burman1759">Burman 1759</ref></note>
                     </person>
-                    
+
                     <person xml:id="Ramorino">
                         <persName ref="http://viaf.org/viaf/14441806">
-                            <abbr>Ramorino</abbr> = 
-                            <forename>Felice</forename>
+                            <abbr>Ramorino</abbr> = <forename>Felice</forename>
                             <surname>Ramorino</surname>
                         </persName>
                         <note>Ramorino's personal communication with Giarratano</note>
                     </person>
-                    
+
                     <person xml:id="Scaliger">
                         <persName ref="http://viaf.org/viaf/29540435">
-                            <abbr>Scaliger</abbr> = 
-                            <forename>Joseph-Juste</forename>
+                            <abbr>Scaliger</abbr> = <forename>Joseph-Juste</forename>
                             <surname>Scaliger</surname>
                         </persName>
                         <note>Cited in <ref target="#Burm1731">Burman 1731</ref>.</note>
                     </person>
-                    
+
                     <person xml:id="CSchenkl">
                         <persName ref="http://viaf.org/viaf/12523146">
-                            <abbr>C. Schenkl</abbr> = 
-                            <forename>Karl</forename>
+                            <abbr>C. Schenkl</abbr> = <forename>Karl</forename>
                             <surname>Schenkl</surname>
                         </persName>
-                        <note>Unpublished opinions cited in <ref target="#Schenkl">Schenkl's</ref> editions.</note>
+                        <note>Unpublished opinions cited in <ref target="#Schenkl">Schenkl's</ref>
+                            editions.</note>
                     </person>
-                    
+
                     <person xml:id="Scriverius">
                         <persName ref="https://viaf.org/viaf/121894458/">
-                            <abbr>Scriver.</abbr> = 
-                            <forename>Pieter</forename>
+                            <abbr>Scriver.</abbr> = <forename>Pieter</forename>
                             <surname>Schrijver</surname>
                             <addName>Scriverius</addName>
                         </persName>
                         <note>Cited in <ref target="#Burm1731">Burman 1731</ref>.</note>
                     </person>
-                    
+
                     <person xml:id="Schraeder">
                         <persName>
-                            <abbr>Schraeder</abbr> = 
-                            <forename>?</forename>
+                            <abbr>Schraeder</abbr> = <forename>?</forename>
                             <surname>Schraeder</surname>
                         </persName>
                         <note>Scholar cited by <ref target="#Brantsma">Brantsma</ref></note>
                     </person>
-                    
+
                     <person xml:id="Tit.">
                         <persName ref="http://viaf.org/viaf/74961015">
-                            <abbr>Tit.</abbr> = 
-                            <forename>Robertus</forename>
+                            <abbr>Tit.</abbr> = <forename>Robertus</forename>
                             <surname>Titius</surname>
                         </persName>
-                        <note>Editor of <ref target="i2">i<hi rend="super">2</hi></ref>; notes in <ref target="#h" rend="bold">h</ref>.</note>
+                        <note>Editor of <ref target="i2">i<hi rend="super">2</hi></ref>; notes in
+                                <ref target="#h" rend="bold">h</ref>.</note>
                     </person>
-                    
+
                     <person xml:id="Tortell.">
                         <persName ref="http://viaf.org/viaf/307181319">
-                            <abbr>Tortell.</abbr> = 
-                            <forename>Giovanni</forename>
+                            <abbr>Tortell.</abbr> = <forename>Giovanni</forename>
                             <surname>Tortelli</surname>
                         </persName>
                         <note>Cited in <ref target="#Guid.">Guidalotti 1504</ref>.</note>
                     </person>
-                    
+
                     <person xml:id="Vigilius">
                         <persName ref="http://viaf.org/viaf/15563174">
-                            <abbr>Victor Vigilius</abbr> = 
-                            <forename>Victor</forename>
+                            <abbr>Victor Vigilius</abbr> = <forename>Victor</forename>
                             <surname>Vigilius</surname>
                         </persName>
                         <note target="#Barth1613">Barth 1613</note>
-                        <note>Pseudonym used by Kaspar von Barth in his notes to suggest conjectures that he
-                            is not prepared to print in his text.</note>
+                        <note>Pseudonym used by Kaspar von Barth in his notes to suggest conjectures
+                            that he is not prepared to print in his text.</note>
                     </person>
-                    
+
                     <person xml:id="Wolf">
                         <persName ref="http://viaf.org/viaf/32037036/">
-                            <abbr>Wolf</abbr> = 
-                            <forename>Johann</forename>
+                            <abbr>Wolf</abbr> = <forename>Johann</forename>
                             <forename>Christoph</forename>
                             <surname>Wolf</surname>
                         </persName>
