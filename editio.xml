@@ -2009,9 +2009,9 @@
             <!-- Begin Bibliography -->
 
             <div type="bibliography">
-                <list>
+                
                     <head>Manuscripts</head>
-                    <item>
+                    
                         <listWit xml:id="mss-first-family">
                             <head>First family</head>
                             <witness xml:id="N"><abbr type="siglum">N</abbr> = Codex Neapolitanus V
@@ -2049,20 +2049,20 @@
                                                 stand out.</p>
                                         </objectDesc>
                                         <handDesc hands="3">
-                                            <handNote xml:id="N1"><label>N<hi rend="superscript"
-                                                  >1</hi></label> belongs to the original copyist.
+                                            <handNote xml:id="N1"><abbr>N<hi rend="superscript"
+                                                  >1</hi></abbr> belongs to the original copyist.
                                                 See <ref target="Ndesc-firsthand">above</ref> for a
                                                 detailed description of this hand's
                                                 activity.</handNote>
-                                            <handNote xml:id="N2"><label>N<hi rend="superscript"
+                                            <handNote xml:id="N2"><abbr>N<hi rend="superscript"
                                                   >2</hi>: The manuscript was corrected again around
                                                   the same time, but here and there the second hand
                                                   cannot easily be distinguished from the first. See
                                                   <ref target="Ndesc-secondhand">above</ref> for a
                                                   detailed description of this hand's
-                                                  activity.</label></handNote>
-                                            <handNote xml:id="N3"><label>N<hi rend="superscript"
-                                                  >3</hi></label>: a third hand's emendations can be
+                                                  activity.</abbr></handNote>
+                                            <handNote xml:id="N3"><abbr>N<hi rend="superscript"
+                                                  >3</hi></abbr>: a third hand's emendations can be
                                                 discerned in only a few places. See <ref
                                                   target="Ndesc-thirdhand">above</ref> for a more
                                                 detailed description of this hand's
@@ -2178,9 +2178,9 @@
                                 </msDesc>
                             </witness>
                         </listWit>
-                    </item>
+                    
                     <!-- End First Family -->
-                    <item>
+                    
                         <listWit xml:id="V" n="V">
                             <head>Second family</head>
                             <witness xml:id="α"><abbr type="siglum">α</abbr> = Codex Ambrosianus
@@ -2795,8 +2795,8 @@
                             </witness>
                         </listWit>
                         <!-- End Second Family -->
-                    </item>
-                    <item>
+                    
+                    
                         <listWit>
                             <head>Third family</head>
                             <witness xml:id="P"><abbr type="siglum">P</abbr> = Codex Parisinus 8049 <msDesc>
@@ -2840,8 +2840,8 @@
                                 </msDesc>
                             </witness>
                         </listWit>
-                    </item>
-                    <item>
+                    
+                    
                         <listWit>
                             <head>Other codices</head>
                             <witness xml:id="A" corresp="#ρ"><abbr type="siglum">A</abbr> = cod.
@@ -2870,8 +2870,8 @@
                                 </msDesc>
                             </witness>
                         </listWit>
-                    </item>
-                    <item>
+                    
+                    
                         <listWit>
                             <head>Excerpts</head>
                             <witness xml:id="ExcPar"><abbr type="siglum">Exc. Par.</abbr> =
@@ -2907,14 +2907,14 @@
                                 </msDesc>
                             </witness>
                         </listWit>
-                    </item>
+                    
                     <item>
                         <listWit>
                             <witness xml:id="ω" n="ω"><abbr type="siglum">ω</abbr> = Consensus of
                                 all of the manuscripts</witness>
                         </listWit>
                     </item>
-                </list>
+                
 
                 <!-- Witnesses: Early editions -->
 
