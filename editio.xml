@@ -2099,69 +2099,62 @@
                                         <idno>plut. 90, 12 inf.</idno>
                                     </msIdentifier>
                                     <msContents>
-                                        <p>It contains the twelve eclogues of Francesco Petrarch
-                                            (ff. 1–44), the <bibl><title>Culex</title></bibl> of
-                                            Vergilius Maro, the <bibl><title>Dirae</title></bibl> of
-                                            Vergilius Maro (ff. 52–55), and Calpurnius and
-                                            Nemesianus (ff. 55–74). A very brief, unattributed
-                                            eclogue follows with the interlocutors Daphnis, Tityrus,
-                                            Mopsus, and Meliboeus.</p>
+                                        <p>It contains the twelve eclogues of Francesco Petrarch (ff.
+                                            1–44), the <bibl><title>Culex</title></bibl> of Vergilius
+                                            Maro, the <bibl><title>Dirae</title></bibl> of Vergilius Maro
+                                            (ff. 52–55), and Calpurnius and Nemesianus (ff. 55–74). A
+                                            very brief, unattributed eclogue follows with the
+                                            interlocutors Daphnis, Tityrus, Mopsus, and Meliboeus.</p>
+                                        <p>The following inscription has been added to the eclogues
+                                            of Calpurnius: <quote xml:lang="la">Egloge Calfurnii ad
+                                                nemesianum cartaginiensem.</quote> (<quote>The Eclogues
+                                                    of Calfurnius to Nemesianus of Carthage</quote>).
+                                            Nemesianus follows Calpurnius with the following title
+                                            prefixed: <quote xml:lang="la">Aureliani nemesiani
+                                                cartaginiensis egloghe incipiunt</quote> (<quote>Here
+                                                    begin the eclogues of Aurelianus Nemesianus of
+                                                    Carthage</quote>). At the end of each eclogue there
+                                            appears an <hi rend="italic">explicit</hi> with the number
+                                            of each eclogue, but Calpurnius' sixth eclogue lacks a
+                                            subscription, and the following is written at the end of
+                                            the seventh: <quote xml:lang="la">explicit sexta egloga
+                                                Calphurnii</quote> (<quote>Here ends the sixth eclogue
+                                                    of Calphurnius</quote>). This is explained by the fact
+                                            that the seventh eclogue follows the sixth without any
+                                            break, with the result that only six eclogues are
+                                            attributed to Calpurnius in this manuscript. But in the
+                                            margin, where the sixth eclogue ought to end, the copyist
+                                            has added the following: <quote xml:lang="la">aliqui
+                                                volunt dicere quod ista sit alia et diversa egloga ubi
+                                                incipit "lentus," aliqui dicunt quod est una
+                                                etc.</quote> (<quote>Some wish to say that the eclogue
+                                                    that begins <hi rend="italic">lentus</hi> is a
+                                                    completely different eclogue; others say that it is the
+                                                    same, etc.</quote>).</p>
                                     </msContents>
                                     <physDesc>
                                         <objectDesc>
                                             <p>Paper: 294 X 225 mm.: 74 leaves. Individual pages
-                                                generally have 29 verses, but some vary, with the
-                                                shorter ones having 26 and the longer ones haveing
-                                                32 verses.</p>
-                                            <p>The following inscription has been added to the
-                                                eclogues of Calpurnius: <quote xml:lang="la">Egloge
-                                                  Calfurnii ad nemesianum cartaginiensem.</quote>
-                                                  (<quote>The Eclogues of Calfurnius to Nemesianus
-                                                  of Carthage</quote>). Nemesianus follows
-                                                Calpurnius with the following title prefixed: <quote
-                                                  xml:lang="la">Aureliani nemesiani cartaginiensis
-                                                  egloghe incipiunt</quote> (<quote>Here begin the
-                                                  eclogues of Aurelianus Nemesianus of
-                                                  Carthage</quote>). At the end of each eclogue
-                                                there appears an <hi rend="italic">explicit</hi>
-                                                with the number of each eclogue, but Calpurnius'
-                                                sixth eclogue lacks a subscription, and the
-                                                following is written at the end of the seventh:
-                                                  <quote xml:lang="la">explicit sexta egloga
-                                                  Calphurnii</quote> (<quote>Here ends the sixth
-                                                  eclogue of Calphurnius</quote>). This is explained
-                                                by the fact that the seventh eclogue follows the
-                                                sixth without any break, with the result that only
-                                                six eclogues are attributed to Calpurnius in this
-                                                manuscript. But in the margin, where the sixth
-                                                eclogue ought to end, the copyist has added the
-                                                following: <quote xml:lang="la">aliqui volunt dicere
-                                                  quod ista sit alia et diversa egloga ubi incipit
-                                                  "lentus," aliqui dicunt quod est una etc.</quote>
-                                                  (<quote>Some wish to say that the eclogue that
-                                                  begins <hi rend="italic">lentus</hi> is a
-                                                  completely different eclogue; others say that it
-                                                  is the same, etc.</quote>)</p>
+                                                generally have 29 verses, but some vary, with the shorter
+                                                ones having 26 and the longer ones haveing 32 verses.</p>
                                         </objectDesc>
                                         <handDesc hands="2">
                                             <handNote xml:id="G1"><abbr type="siglum">G<hi
-                                                  rend="superscript">1</hi></abbr>: The copyist
-                                                himself added almost all of the corrections either
-                                                by removing scribal errors in the verses or adding
-                                                variant readings to the margin. See <ref
-                                                  target="Gdesc-hand">above</ref> for a more
-                                                detailed description of this hand's
-                                                activity.</handNote>
+                                                rend="superscript">1</hi></abbr>: The copyist
+                                                himself added almost all of the corrections either by
+                                                removing scribal errors in the verses or adding variant
+                                                readings to the margin. See <ref target="Gdesc-hand"
+                                                    >above</ref> for a more detailed description of this
+                                                hand's activity.</handNote>
                                             <handNote xml:id="G2"><abbr type="siglum">G<hi
-                                                  rend="superscript">2</hi></abbr>: Some corrections
+                                                rend="superscript">2</hi></abbr>: Some corrections
                                                 seem to have been made by another hand.</handNote>
                                         </handDesc>
                                     </physDesc>
                                     <history>
                                         <origin>
-                                            <p>Written at the <origDate notAfter="1500"
-                                                  notBefore="1400">beginning of the fifteenth
-                                                  century</origDate>.</p>
+                                            <p>Written at the <origDate notAfter="1500" notBefore="1400"
+                                                >beginning of the fifteenth century</origDate>.</p>
                                         </origin>
                                     </history>
                                 </msDesc>
