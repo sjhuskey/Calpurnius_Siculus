@@ -2903,19 +2903,21 @@
                     <head>Early Editions</head>
                     <witness xml:id="r">
                         <abbr type="siglum">r</abbr> =
-                            <bibl><editor><name>Anonymous</name></editor>. <title>editio
-                                Romana</title>, <pubPlace>[Romae]</pubPlace>: <publisher>Schweynheim
-                                et Pannartz</publisher>, <date>1471</date></bibl>. </witness>
+                        <bibl><editor><name>Anonymous</name></editor>. <title>editio
+                            Romana</title>. <pubPlace>[Romae]</pubPlace>:
+                            <publisher>Schweynheim et Pannartz</publisher>,
+                            <date>1471</date></bibl>.</witness>
                     <witness xml:id="e"><abbr type="siglum">e</abbr> =
-                                    <bibl><editor><name>Anonymous</name>. </editor><title>editio
-                                Veneta</title>, <pubPlace>[Venetiis]</pubPlace>: <publisher>Ausonius
-                                et Giradinus</publisher>, <date>1472</date></bibl>.</witness>
+                        <bibl><editor><name>Anonymous</name>.
+                        </editor><title>editio Veneta</title>.
+                            <pubPlace>[Venetiis]</pubPlace>: <publisher>Ausonius et
+                                Giradinus</publisher>, <date>1472</date></bibl>.</witness>
                     <listWit xml:id="d">
                         <head><abbr type="siglum">d</abbr> = utriusque edit. Daventr.
                             consensus</head>
                         <witness xml:id="d1"><abbr type="siglum">d<hi rend="super">1</hi></abbr> =
                                     <bibl><editor>Anonymous</editor>. <title>editio Daventriensis
-                                    prior</title>, <pubPlace>[Daventriae]</pubPlace>:
+                                    prior</title>. <pubPlace>[Daventriae]</pubPlace>:
                                     <publisher>apud R. Paffraet</publisher>,
                                 <date>1488</date></bibl>. URL: <ptr
                                 target="http://gateway.proquest.com/openurl?url_ver=Z39.88-2004&amp;res_dat=xri:eurobo:&amp;rft_dat=xri:eurobo:rec:ned-kbn-all-00001955-001"
@@ -2923,41 +2925,45 @@
                         <witness xml:id="d2">
                             <abbr type="siglum">d<hi rend="super">2</hi></abbr> =
                                     <bibl><editor>Anonymous</editor>. <title>editio Daventriensis
-                                    posterior</title>
+                                    posterior</title>.
                                 <pubPlace>[Daventriae]</pubPlace>: <publisher>apud J. de
                                     Breda</publisher>, <date>1491</date></bibl>. URL: <ptr
                                 target="http://daten.digitale-sammlungen.de/~db/0008/bsb00080128/images/"
                             />. </witness>
                     </listWit>
                     <witness xml:id="u"><abbr type="siglum">u</abbr> =
-                                <bibl><editor>Anonymous</editor>. <title>editio Ang. Ugoleti</title>
-                            <pubPlace>Parmae</pubPlace>: <publisher>Angelus Ugoletus</publisher>,
-                                <date>1492</date></bibl></witness>
+                        <bibl><editor>Anonymous</editor>. <title>editio Ang.
+                            Ugoleti</title>. <pubPlace>Parmae</pubPlace>:
+                            <publisher>Angelus Ugoletus</publisher>,
+                            <date>1492</date></bibl>.</witness>
                     <witness xml:id="c"><abbr type="siglum">c</abbr> =
-                                <bibl><editor>Anonymous</editor>. <title>editio Coloniensis
-                                (Buccolica canori poetae Titi Calphurnii Siculi undecim Aeglogis
-                                iucunditer decantata)</title>. <pubPlace>Coloniae</pubPlace>:
-                                <publisher>[Henricus Quintell]</publisher>,
-                            <date>1505</date>(?)</bibl>. URL: <ptr
-                            target="http://digitale.bibliothek.uni-halle.de/vd16/content/titleinfo/1000626"
-                        /></witness>
-                    <witness xml:id="Nordh."><abbr type="siglum">Nordh.</abbr> = <bibl><editor/>.
-                                <title>ed. Nordheimensis</title>, <pubPlace>[Nordheim]</pubPlace>:
-                                <publisher>s.n.</publisher>, <date>s.d.</date></bibl></witness>
+                        <bibl><editor>Anonymous</editor>. <title>editio Coloniensis
+                            (Buccolica canori poetae Titi Calphurnii Siculi undecim
+                            Aeglogis iucunditer decantata)</title>.
+                            <pubPlace>Coloniae</pubPlace>: <publisher>[Henricus
+                                Quintell]</publisher>, <date>1505(?)</date></bibl>. URL: <ptr
+                                    target="http://digitale.bibliothek.uni-halle.de/vd16/content/titleinfo/1000626"
+                                />.</witness>
+                    <witness xml:id="Nordh."><abbr type="siglum">Nordh.</abbr> =
+                        <bibl><editor/>. <title>ed. Nordheimensis</title>.
+                            <pubPlace>[Nordheim]</pubPlace>: <publisher>s.n.</publisher>,
+                            <date>s.d.</date></bibl>.</witness>
                     <witness xml:id="s"><abbr type="siglum">s</abbr> = <bibl><title>editio
-                                Ascensiana</title> = <editor>Badius, Josse (“Ascensius”)</editor>.
-                                <title>Buccolica, Cum Adnotatione Ascensiana</title>.
-                                <pubPlace>Parhisiis, in vico Maturinorum</pubPlace>: <publisher>a
-                                Durando Gerlerio</publisher>, <date>1503</date></bibl>. UTRL: <ptr
-                            target="http://gallica.bnf.fr/ark:/12148/bpt6k841539v"/>.</witness>
+                        Ascensiana</title> = <editor>Badius, Josse
+                            (“Ascensius”)</editor>. <title>Buccolica, cum adnotatione
+                                Ascensiana</title>. <pubPlace>Parhisiis, in vico
+                                    Maturinorum</pubPlace>: <publisher>a Durando
+                                        Gerlerio</publisher>, <date>1503</date></bibl>. URL: <ptr
+                                            target="http://gallica.bnf.fr/ark:/12148/bpt6k841539v"
+                                        />.</witness>
                     <witness xml:id="b"><abbr type="siglum">b</abbr> = <bibl><title>editio
-                                Bononiensis</title> = <editor>Guidalottus Bononiensis,
-                                Diomedes</editor>. <title>Calpurnii et Nemesiani Poetarum Buccolicum
-                                Carmen</title>. <pubPlace>Bononiae</pubPlace>: <publisher>per
-                                Caligulam Bazalerium</publisher>, <date>1504</date></bibl>. URL:
-                            <ptr
-                            target="https://books.google.com/books?id=B1RrV7ciP6gC&amp;dq=Guidalotti&amp;pg=PT3#v=onepage&amp;q=Guidalotti&amp;f=false"
-                        /></witness>
+                        Bononiensis</title> = <editor>Guidalottus Bononiensis,
+                            Diomedes</editor>. <title>Calpurnii et Nemesiani Poetarum
+                                Buccolicum Carmen</title>. <pubPlace>Bononiae</pubPlace>:
+                        <publisher>per Caligulam Bazalerium</publisher>,
+                        <date>1504</date></bibl>. URL: <ptr
+                            target="https://books.google.com/books?id=B1RrV7ciP6gC&amp;pg=PT3#v=onepage&amp;q&amp;f=false"
+                        />.</witness>
                 </listWit>
 
                 <!-- Sources -->
@@ -2970,7 +2976,7 @@
                                 <editor>Anonymous</editor>. <title>editio Florentina prior</title>.
                                 <pubPlace>Florentiae</pubPlace>: <publisher>Philippi de
                                 Giunta</publisher>, <date>1504</date>. URL: <ptr
-                                target="https://books.google.com/books?id=LVJmAAAAcAAJ&amp;dq=Eclogae.%20Vergilii.%20Calphurnii.%20Nemesiani.%20Francisci.&amp;pg=PP7#v=onepage&amp;q&amp;f=false"
+                                    target="https://books.google.com/books?id=LVJmAAAAcAAJ&amp;pg=PP7#v=onepage&amp;q&amp;f=false"
                             /></bibl>
                         <bibl xml:id="i2"><abbr type="siglum">i<hi rend="super">2</hi></abbr> =
                                 <editor>Anonymous</editor>. <title>editio Florentina
@@ -3048,7 +3054,7 @@
                             et Bucolici Poetae Latini: Gratius, Nemesianus, Calpurnius</title>.
                             <pubPlace>Hanoviae</pubPlace>: <publisher>In Bibliopolio
                             Willieriano</publisher>, <date>1613</date>. URL: <ptr
-                            target="https://books.google.com/books?id=SEVXAAAAcAAJ&amp;dq=Venatici%20Et%20Bvcolici%20Poetae%20Latini&amp;pg=PP7#v=onepage&amp;q&amp;f=false"
+                                target="https://books.google.com/books?id=SEVXAAAAcAAJ&amp;pg=PP7#v=onepage&amp;q&amp;f=false"
                         /></bibl>
                     <bibl xml:id="Ulit."><abbr type="siglum">Ulit.</abbr> = <title>ed.
                             Ulitii</title> = <editor>Ulitius, Ianus</editor>. <title>Venatio
@@ -3119,7 +3125,7 @@
                                 >2</hi></abbr> = <editor>Schenkl, Henricus</editor>. <title>T.
                                 Calpurni Siculi Bucolica</title> in <ref target="Postgate1905"
                                 >Postgate 1905</ref>: 197–205. URL: <ptr
-                                target="https://books.google.com/books?id=_DMOAAAAYAAJ&amp;dq=postgate%20corpus%20poetarum%20latinorum&amp;pg=RA1-PA194#v=onepage&amp;q&amp;f=false"
+                                    target="https://books.google.com/books?id=_DMOAAAAYAAJ&amp;pg=RA1-PA194#v=onepage&amp;q&amp;f=false"
                             /></bibl>
                     </listBibl>
                     <bibl xml:id="Keene"><abbr type="siglum">Keene</abbr> = <editor>Keene, Charles
@@ -3250,7 +3256,7 @@
                         <title level="j">American Journal of Philology</title>
                         <biblScope unit="volume">7</biblScope> (<date>1886</date>): <biblScope
                             unit="page">88–91</biblScope>. URL: <ptr
-                            target="https://books.google.com/books?id=tl4bu49MEyIC&amp;dq=editions%3AkJBBtxu-RskC&amp;pg=PA88#v=onepage&amp;q&amp;f=false"
+                                target="https://books.google.com/books?id=tl4bu49MEyIC&amp;pg=PA88#v=onepage&amp;q&amp;f=false"
                         />.</bibl>
 
                     <bibl xml:id="Erasmus"><abbr type="siglum">Erasmus</abbr> = <author>Erasmus,
