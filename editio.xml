@@ -2014,8 +2014,8 @@
                     
                         <listWit xml:id="mss-first-family">
                             <head>First family</head>
-                            <witness xml:id="N"><abbr type="siglum">N</abbr> = Codex Neapolitanus V
-                                A 8 <msDesc>
+                            <witness xml:id="N"><abbr type="siglum">N</abbr> = Codex Neapolitanus V A
+                                8 <msDesc>
                                     <msIdentifier>
                                         <settlement>Naples</settlement>
                                         <repository>Biblioteca Nazionale di Napoli</repository>
@@ -2026,78 +2026,67 @@
                                     </msIdentifier>
                                     <msContents>
                                         <p>1–36ʳ contain Cato's <bibl><title>De
-                                                Agricultura</title></bibl>; 20–101ʳ, Varro's
-                                                  <bibl><title>De Re Rustica</title></bibl>;
-                                            101ʳ–115ᵛ, the <bibl><title>Bucolica</title></bibl> of
-                                            Calpurnius and Nemesianus. The individual poems lack
-                                            titles, but they are separated from each other by brief
-                                            spaces. The following subscription appears at the end of
-                                            the whole work: <quote xml:lang="la">Aureliani Nemesiani
-                                                Cartag&#773; bucol&#8217; explicit: Deo gratias
-                                                amen</quote>. Finally, another more recent hand, as
-                                                <ref target="#Bursian">Bursian</ref> and <ref
-                                                target="#Schenkl">Schenkl</ref> recognized, wrote
-                                                <quote xml:lang="la">Calpurnii eclogae</quote> and
-                                                <quote xml:lang="la">Nemesiani eclogae</quote>. The
-                                            remaining leaves are blank.</p>
+                                            Agricultura</title></bibl>; 20–101ʳ, Varro's
+                                            <bibl><title>De Re Rustica</title></bibl>; 101ʳ–115ᵛ,
+                                            the <bibl><title>Bucolica</title></bibl> of Calpurnius and
+                                            Nemesianus.</p>
+                                        <p>The individual poems lack titles, but they are separated from
+                                            each other by brief spaces. The following subscription
+                                            appears at the end of the whole work: <quote xml:lang="la"
+                                                >Aureliani Nemesiani Cartag&#773; bucol&#8217; explicit:
+                                                Deo gratias amen</quote>. Finally, another more recent
+                                            hand, as <ref target="#Bursian">Bursian</ref> and <ref
+                                                target="#Schenkl">Schenkl</ref> recognized, wrote <quote
+                                                    xml:lang="la">Calpurnii eclogae</quote> and <quote
+                                                        xml:lang="la">Nemesiani eclogae</quote>. The remaining
+                                            leaves are blank.</p>
                                     </msContents>
                                     <physDesc>
                                         <objectDesc>
-                                            <p> Parchment: 261 X 160 mm.: 116 leaves: 38 verses per
+                                            <p>Parchment: 261 X 160 mm.: 116 leaves: 38 verses per
                                                 page.</p>
-                                            <p>With respect to correcting hands, two in particular
-                                                stand out.</p>
+                                            <p>With respect to correcting hands, two in particular stand
+                                                out:</p>
                                         </objectDesc>
                                         <handDesc hands="3">
                                             <handNote xml:id="N1"><abbr>N<hi rend="superscript"
-                                                  >1</hi></abbr> belongs to the original copyist.
-                                                See <ref target="Ndesc-firsthand">above</ref> for a
-                                                detailed description of this hand's
-                                                activity.</handNote>
+                                                >1</hi></abbr> belongs to the original copyist. See
+                                                <ref target="Ndesc-firsthand">above</ref> for a
+                                                detailed description of this hand's activity.</handNote>
                                             <handNote xml:id="N2"><abbr>N<hi rend="superscript"
-                                                >2</hi></abbr>: The manuscript was corrected again around
-                                                  the same time, but here and there the second hand
-                                                  cannot easily be distinguished from the first. See
-                                                  <ref target="Ndesc-secondhand">above</ref> for a
-                                                  detailed description of this hand's
-                                                  activity.</handNote>
+                                                >2</hi></abbr>: The manuscript was corrected again
+                                                around the same time, but here and there the second hand
+                                                cannot easily be distinguished from the first.</handNote>
                                             <handNote xml:id="N3"><abbr>N<hi rend="superscript"
-                                                  >3</hi></abbr>: a third hand's emendations can be
-                                                discerned in only a few places. See <ref
-                                                  target="Ndesc-thirdhand">above</ref> for a more
-                                                detailed description of this hand's
-                                                activity.</handNote>
+                                                >3</hi></abbr>: a third hand's emendations can be
+                                                discerned in only a few places.</handNote>
                                         </handDesc>
                                     </physDesc>
                                     <history>
                                         <origin>
-                                            <p>The manuscript was written at about the beginning of
-                                                the <origDate notAfter="1500" notBefore="1400"
-                                                  >fifteenth century</origDate></p>
+                                            <p>The manuscript was written at about the beginning of the
+                                                <origDate notAfter="1500" notBefore="1400">fifteenth
+                                                    century</origDate>.</p>
                                         </origin>
                                         <provenance>
-                                            <p>We know nothing about the origin and provenance of
-                                                this manuscript except what is understood from the
-                                                following passages written on the last leaf: <quote
-                                                  xml:lang="la">Joannes Antonius Perillus patric.
-                                                  neap. ac iuvenis apprime litteratus Jacobum
-                                                  Perillum hoc libro donavit MDCVII, Klis
-                                                  Juniis</quote> ("Joannes Antonius Perillus, a
-                                                nobleman of Naples and most learned gentleman, gave
-                                                this book to Jacob Perillus in 1667 on the first of
-                                                June"), and a little below, <quote xml:lang="la"
-                                                  >Antonii Seripandi ex Jacobi Perilli amici opt.
-                                                  munere</quote> ("This book belongs to Antonius
-                                                Seripandus, received as a gift from his best friend
-                                                Jacob Perillus"). Later it was brought to the
-                                                library of San Giovanni a Carbonara, and from there
-                                                it came to the greatest library in Naples, formerly
-                                                known as the <orgName xml:id="preface-borbonica"
-                                                  >Reale biblioteca borbonica</orgName>
-                                                <note target="#preface-borbonica" resp="#sjh">now
-                                                  the <orgName ref="http://www.bnnonline.it"
-                                                  >Biblioteca nazionale Vittorio Emanuele
-                                                  III</orgName></note>. </p>
+                                            <p>We know nothing about the origin and provenance of this
+                                                manuscript except what is understood from the following
+                                                passages written on the last leaf: <quote xml:lang="la"
+                                                    >Joannes Antonius Perillus patric. neap. ac iuvenis
+                                                    apprime litteratus Jacobum Perillum hoc libro donavit
+                                                    MDCVII, Klis Juniis</quote> ("Joannes Antonius
+                                                Perillus, a nobleman of Naples and most learned gentleman,
+                                                gave this book to Jacob Perillus in 1667 on the first of
+                                                June"), and a little below, <quote xml:lang="la">Antonii
+                                                    Seripandi ex Jacobi Perilli amici opt. munere</quote>
+                                                ("This book belongs to Antonius Seripandus, received as a
+                                                gift from his best friend Jacob Perillus"). Later it was
+                                                brought to the library of San Giovanni a Carbonara, and
+                                                from there it came to the greatest library in Naples,
+                                                formerly known as the <orgName>Reale biblioteca
+                                                    borbonica</orgName>, (now the <orgName
+                                                        ref="http://www.bnnonline.it">Biblioteca nazionale
+                                                        Vittorio Emanuele III</orgName>).</p>
                                         </provenance>
                                     </history>
                                 </msDesc>
@@ -2908,12 +2897,11 @@
                             </witness>
                         </listWit>
                     
-                    <item>
                         <listWit>
                             <witness xml:id="ω" n="ω"><abbr type="siglum">ω</abbr> = Consensus of
                                 all of the manuscripts</witness>
                         </listWit>
-                    </item>
+                    
                 
 
                 <!-- Witnesses: Early editions -->
