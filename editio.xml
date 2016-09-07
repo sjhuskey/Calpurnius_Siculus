@@ -452,7 +452,7 @@
                         proof, reflect on these other examples. First of all, in following places
                         the second hand of manuscript N substituted the interpolations that mar the
                         manuscripts in V for the genuine readings of the archetype: Calp. 2.8 <quote
-                            xml:lang="la">vindicet</quote>* (I have indicated all correct reading
+                            xml:lang="la">vindicet</quote>* (I have indicated all correct readings
                         with an asterisk) N G, <quote xml:lang="la">vendicet</quote> N²V; 2.9 <quote
                             xml:lang="la">thyrsi</quote>*, <quote xml:lang="la">tyrsi</quote> G,
                             <quote xml:lang="la">tirsi</quote> N, <quote xml:lang="la">tirso</quote>
@@ -615,7 +615,7 @@
                             speak has never been designated with the number 363. I would not say any
                             more about this unless <bibl><author>Teuffel-Schwabe</author>
                                     (<title>Geschichte der römischen Literatur</title> 5th edition,
-                                p. 748<ptr
+                                p. 748 <ptr
                                     target="https://books.google.com/books?id=EoArAAAAYAAJ&amp;pg=PA748#v=onepage&amp;q&amp;f=false"
                                 /></bibl>, <bibl><author>Schanz</author> (<title>Geschichte der
                                     römischen Literatur</title> II.2, second edition, p. 74 <ptr
@@ -2049,15 +2049,15 @@
                                                 out:</p>
                                         </objectDesc>
                                         <handDesc hands="3">
-                                            <handNote xml:id="N1"><abbr>N<hi rend="superscript"
+                                            <handNote xml:id="N1"><abbr type="siglum">N<hi rend="super"
                                                 >1</hi></abbr> belongs to the original copyist. See
                                                 <ref target="Ndesc-firsthand">above</ref> for a
                                                 detailed description of this hand's activity.</handNote>
-                                            <handNote xml:id="N2"><abbr>N<hi rend="superscript"
+                                            <handNote xml:id="N2"><abbr type="siglum">N<hi rend="super"
                                                 >2</hi></abbr>: The manuscript was corrected again
                                                 around the same time, but here and there the second hand
                                                 cannot easily be distinguished from the first.</handNote>
-                                            <handNote xml:id="N3"><abbr>N<hi rend="superscript"
+                                            <handNote xml:id="N3"><abbr type="siglum">N<hi rend="super"
                                                 >3</hi></abbr>: a third hand's emendations can be
                                                 discerned in only a few places.</handNote>
                                         </handDesc>
@@ -2140,14 +2140,14 @@
                                         </objectDesc>
                                         <handDesc hands="2">
                                             <handNote xml:id="G1"><abbr type="siglum">G<hi
-                                                rend="superscript">1</hi></abbr>: The copyist
+                                                rend="super">1</hi></abbr>: The copyist
                                                 himself added almost all of the corrections either by
                                                 removing scribal errors in the verses or adding variant
                                                 readings to the margin. See <ref target="Gdesc-hand"
                                                     >above</ref> for a more detailed description of this
                                                 hand's activity.</handNote>
                                             <handNote xml:id="G2"><abbr type="siglum">G<hi
-                                                rend="superscript">2</hi></abbr>: Some corrections
+                                                rend="super">2</hi></abbr>: Some corrections
                                                 seem to have been made by another hand.</handNote>
                                         </handDesc>
                                     </physDesc>
@@ -2195,9 +2195,9 @@
                                         </objectDesc>
                                         <handDesc hands="2">
                                             <handNote xml:id="α1"><abbr type="siglum">α<hi
-                                                  rend="superscript">1</hi></abbr></handNote>
+                                                  rend="super">1</hi></abbr></handNote>
                                             <handNote xml:id="α2"><abbr type="siglum">α<hi
-                                                  rend="superscript">2</hi></abbr></handNote>
+                                                  rend="super">2</hi></abbr></handNote>
                                         </handDesc>
                                     </physDesc>
                                     <history>
@@ -2241,9 +2241,9 @@
                                         </objectDesc>
                                         <handDesc hands="2">
                                             <handNote xml:id="β1"><abbr type="siglum">β<hi
-                                                  rend="superscript">1</hi></abbr></handNote>
+                                                  rend="super">1</hi></abbr></handNote>
                                             <handNote xml:id="β2"><abbr type="siglum">β<hi
-                                                  rend="superscript">2</hi></abbr></handNote>
+                                                  rend="super">2</hi></abbr></handNote>
                                         </handDesc>
                                     </physDesc>
                                     <history>
@@ -2275,9 +2275,9 @@
                                         </objectDesc>
                                         <handDesc hands="2">
                                             <handNote xml:id="δ1"><abbr type="siglum">δ<hi
-                                                  rend="superscript">1</hi></abbr></handNote>
+                                                  rend="super">1</hi></abbr></handNote>
                                             <handNote xml:id="δ2"><abbr type="siglum">δ<hi
-                                                  rend="superscript">2</hi></abbr></handNote>
+                                                  rend="super">2</hi></abbr></handNote>
                                         </handDesc>
                                     </physDesc>
                                     <history>
@@ -2307,9 +2307,9 @@
                                         </objectDesc>
                                         <handDesc hands="2">
                                             <handNote xml:id="γ1"><abbr type="siglum">γ<hi
-                                                  rend="superscript">1</hi></abbr></handNote>
+                                                  rend="super">1</hi></abbr></handNote>
                                             <handNote xml:id="γ2"><abbr type="siglum">γ<hi
-                                                  rend="superscript">2</hi></abbr></handNote>
+                                                  rend="super">2</hi></abbr></handNote>
                                         </handDesc>
                                     </physDesc>
                                     <history>
@@ -2342,9 +2342,9 @@
                                         </objectDesc>
                                         <handDesc hands="2">
                                             <handNote xml:id="λ1"><abbr type="siglum">λ<hi
-                                                  rend="superscript">1</hi></abbr></handNote>
+                                                  rend="super">1</hi></abbr></handNote>
                                             <handNote xml:id="λ2"><abbr type="siglum">λ<hi
-                                                  rend="superscript">2</hi></abbr></handNote>
+                                                  rend="super">2</hi></abbr></handNote>
                                         </handDesc>
                                     </physDesc>
                                     <history>
@@ -2396,9 +2396,9 @@
                                         </objectDesc>
                                         <handDesc hands="2">
                                             <handNote xml:id="ε1"><abbr type="siglum">ε<hi
-                                                  rend="superscript">1</hi></abbr></handNote>
+                                                  rend="super">1</hi></abbr></handNote>
                                             <handNote xml:id="ε2"><abbr type="siglum">ε<hi
-                                                  rend="superscript">2</hi></abbr></handNote>
+                                                  rend="super">2</hi></abbr></handNote>
                                         </handDesc>
                                     </physDesc>
                                     <history>
@@ -2437,9 +2437,9 @@
                                         </objectDesc>
                                         <handDesc hands="2">
                                             <handNote xml:id="μ1"><abbr type="siglum">μ<hi
-                                                  rend="superscript">1</hi></abbr></handNote>
+                                                  rend="super">1</hi></abbr></handNote>
                                             <handNote xml:id="μ2"><abbr type="siglum">μ<hi
-                                                  rend="superscript">2</hi></abbr></handNote>
+                                                  rend="super">2</hi></abbr></handNote>
                                         </handDesc>
                                     </physDesc>
                                     <history>
@@ -2473,9 +2473,9 @@
                                         </objectDesc>
                                         <handDesc hands="2">
                                             <handNote xml:id="κ1"><abbr type="siglum">κ<hi
-                                                  rend="superscript">1</hi></abbr></handNote>
+                                                  rend="super">1</hi></abbr></handNote>
                                             <handNote xml:id="κ2"><abbr type="siglum">κ<hi
-                                                  rend="superscript">2</hi></abbr></handNote>
+                                                  rend="super">2</hi></abbr></handNote>
                                         </handDesc>
                                     </physDesc>
                                     <history>
@@ -2508,9 +2508,9 @@
                                         </objectDesc>
                                         <handDesc hands="2">
                                             <handNote xml:id="φ1"><abbr type="siglum">φ<hi
-                                                  rend="superscript">1</hi></abbr></handNote>
+                                                  rend="super">1</hi></abbr></handNote>
                                             <handNote xml:id="φ2"><abbr type="siglum">φ<hi
-                                                  rend="superscript">2</hi></abbr></handNote>
+                                                  rend="super">2</hi></abbr></handNote>
                                         </handDesc>
                                     </physDesc>
                                     <history>
@@ -2540,9 +2540,9 @@
                                         </objectDesc>
                                         <handDesc hands="2">
                                             <handNote xml:id="χ1"><abbr type="siglum">χ<hi
-                                                  rend="superscript">1</hi></abbr></handNote>
+                                                  rend="super">1</hi></abbr></handNote>
                                             <handNote xml:id="χ2"><abbr type="siglum">χ<hi
-                                                  rend="superscript">2</hi></abbr></handNote>
+                                                  rend="super">2</hi></abbr></handNote>
                                         </handDesc>
                                     </physDesc>
                                     <history>
@@ -2579,9 +2579,9 @@
                                         </objectDesc>
                                         <handDesc hands="2">
                                             <handNote xml:id="ν1"><abbr type="siglum">ν<hi
-                                                  rend="superscript">1</hi></abbr></handNote>
+                                                  rend="super">1</hi></abbr></handNote>
                                             <handNote xml:id="ν2"><abbr type="siglum">ν<hi
-                                                  rend="superscript">2</hi></abbr></handNote>
+                                                  rend="super">2</hi></abbr></handNote>
                                         </handDesc>
                                     </physDesc>
                                     <history>
@@ -2619,9 +2619,9 @@
                                         </objectDesc>
                                         <handDesc hands="2">
                                             <handNote xml:id="π1"><abbr type="siglum">π<hi
-                                                  rend="superscript">1</hi></abbr></handNote>
+                                                  rend="super">1</hi></abbr></handNote>
                                             <handNote xml:id="π2"><abbr type="siglum">π<hi
-                                                  rend="superscript">2</hi></abbr></handNote>
+                                                  rend="super">2</hi></abbr></handNote>
                                         </handDesc>
                                     </physDesc>
                                     <history>
@@ -2655,9 +2655,9 @@
                                         </objectDesc>
                                         <handDesc hands="2">
                                             <handNote xml:id="η1"><abbr type="siglum">η<hi
-                                                  rend="superscript">1</hi></abbr></handNote>
+                                                  rend="super">1</hi></abbr></handNote>
                                             <handNote xml:id="η2"><abbr type="siglum">η<hi
-                                                  rend="superscript">2</hi></abbr></handNote>
+                                                  rend="super">2</hi></abbr></handNote>
                                         </handDesc>
                                     </physDesc>
                                     <history>
@@ -2692,9 +2692,9 @@
                                         </objectDesc>
                                         <handDesc hands="2">
                                             <handNote xml:id="ρ1"><abbr type="siglum">ρ<hi
-                                                  rend="superscript">1</hi></abbr></handNote>
+                                                  rend="super">1</hi></abbr></handNote>
                                             <handNote xml:id="ρ2"><abbr type="siglum">ρ<hi
-                                                  rend="superscript">2</hi></abbr>: Various hands
+                                                  rend="super">2</hi></abbr>: Various hands
                                                 that are indistinguishable from each
                                                 other.</handNote>
                                             <!-- Note that this should probably be changed to "recc" -->
@@ -2762,9 +2762,9 @@
                                         </objectDesc>
                                         <handDesc>
                                             <handNote xml:id="ζ1"><abbr type="siglum">ζ<hi
-                                                  rend="superscript">1</hi></abbr></handNote>
+                                                  rend="super">1</hi></abbr></handNote>
                                             <handNote xml:id="ζ2"><abbr type="siglum">ζ<hi
-                                                  rend="superscript">2</hi></abbr></handNote>
+                                                  rend="super">2</hi></abbr></handNote>
                                         </handDesc>
                                     </physDesc>
                                     <history>
@@ -2808,9 +2808,9 @@
                                         </objectDesc>
                                         <handDesc>
                                             <handNote xml:id="P1"><abbr type="siglum">P<hi
-                                                  rend="superscript">1</hi></abbr></handNote>
+                                                  rend="super">1</hi></abbr></handNote>
                                             <handNote xml:id="P2"><abbr type="siglum">P<hi
-                                                  rend="superscript">2</hi></abbr></handNote>
+                                                  rend="super">2</hi></abbr></handNote>
                                         </handDesc>
                                     </physDesc>
                                     <history>
@@ -2844,9 +2844,9 @@
                                     <physDesc>
                                         <handDesc hands="2">
                                             <handNote xml:id="H1"><abbr type="siglum">H<hi
-                                                  rend="superscript">1</hi></abbr></handNote>
+                                                  rend="super">1</hi></abbr></handNote>
                                             <handNote xml:id="H2"><abbr type="siglum">H<hi
-                                                  rend="superscript">2</hi></abbr></handNote>
+                                                  rend="super">2</hi></abbr></handNote>
                                         </handDesc>
                                     </physDesc>
                                 </msDesc>
@@ -2912,25 +2912,26 @@
                         </editor><title>editio Veneta</title>.
                             <pubPlace>[Venetiis]</pubPlace>: <publisher>Ausonius et
                                 Giradinus</publisher>, <date>1472</date></bibl>.</witness>
-                    <listWit xml:id="d">
-                        <head><abbr type="siglum">d</abbr> = utriusque edit. Daventr.
-                            consensus</head>
-                        <witness xml:id="d1"><abbr type="siglum">d<hi rend="super">1</hi></abbr> =
-                                    <bibl><editor>Anonymous</editor>. <title>editio Daventriensis
-                                    prior</title>. <pubPlace>[Daventriae]</pubPlace>:
-                                    <publisher>apud R. Paffraet</publisher>,
-                                <date>1488</date></bibl>. URL: <ptr
-                                target="http://gateway.proquest.com/openurl?url_ver=Z39.88-2004&amp;res_dat=xri:eurobo:&amp;rft_dat=xri:eurobo:rec:ned-kbn-all-00001955-001"
-                            />.</witness>
-                        <witness xml:id="d2">
-                            <abbr type="siglum">d<hi rend="super">2</hi></abbr> =
-                                    <bibl><editor>Anonymous</editor>. <title>editio Daventriensis
-                                    posterior</title>.
-                                <pubPlace>[Daventriae]</pubPlace>: <publisher>apud J. de
-                                    Breda</publisher>, <date>1491</date></bibl>. URL: <ptr
-                                target="http://daten.digitale-sammlungen.de/~db/0008/bsb00080128/images/"
+                  <witness xml:id="d"><abbr type="siglum">d</abbr> = utriusque edit. Daventr.
+                    consensus
+                    <listWit>
+                      <witness xml:id="d1"><abbr type="siglum">d<hi rend="super">1</hi></abbr> =
+                        <bibl><editor>Anonymous</editor>. <title>editio Daventriensis
+                          prior</title>. <pubPlace>[Daventriae]</pubPlace>:
+                          <publisher>apud R. Paffraet</publisher>,
+                          <date>1488</date></bibl>. URL: <ptr
+                            target="http://gateway.proquest.com/openurl?url_ver=Z39.88-2004&amp;res_dat=xri:eurobo:&amp;rft_dat=xri:eurobo:rec:ned-kbn-all-00001955-001"
+                          />.</witness>
+                      <witness xml:id="d2">
+                        <abbr type="siglum">d<hi rend="super">2</hi></abbr> =
+                        <bibl><editor>Anonymous</editor>. <title>editio Daventriensis
+                          posterior</title>.
+                          <pubPlace>[Daventriae]</pubPlace>: <publisher>apud J. de
+                            Breda</publisher>, <date>1491</date></bibl>. URL: <ptr
+                              target="http://daten.digitale-sammlungen.de/~db/0008/bsb00080128/images/"
                             />. </witness>
                     </listWit>
+                  </witness>
                     <witness xml:id="u"><abbr type="siglum">u</abbr> =
                         <bibl><editor>Anonymous</editor>. <title>editio Ang.
                             Ugoleti</title>. <pubPlace>Parmae</pubPlace>:
@@ -6822,7 +6823,7 @@
                             </app>
                             <app>
                                 <lem>Mopsum</lem>
-                                <rdg wit="#P">op<hi rend="superscript">sū</hi></rdg>
+                                <rdg wit="#P">op<hi rend="super">sū</hi></rdg>
                             </app>.</l>
                     </sp>
                     <sp who="#Iollas">
@@ -10768,7 +10769,7 @@
                               <rdg wit="#α">spumant</rdg>
                            </app> tibi <app>
                               <lem>mulctra</lem>
-                              <rdg wit="#N2 #G # #μ #π">multra</rdg>
+                              <rdg wit="#N2 #G #μ #π">multra</rdg>
                               <rdg wit="#β">mulcra</rdg>
                            </app>
                         </lem>
@@ -13470,7 +13471,7 @@
                      <lem>fuit</lem>
                      <rdg source="#Heins.">ruit</rdg>
                      <rdg source="#Maehly" xml:id="rdg7.2fugit">fugit</rdg>
-                     <note target="#rdg7.2fugit">(qui et <hi rend="#italic">lux</hi> pro <hi rend="#italic">nox</hi> corr.)</note>
+                     <note target="#rdg7.2fugit">(qui et <hi rend="italic">lux</hi> pro <hi rend="italic">nox</hi> corr.)</note>
                      <rdg source="#Baehr.">subit</rdg>
                   </app>, <app>
                      <lem>ut</lem>
@@ -13641,7 +13642,7 @@
                      <rdgGrp type="conjecture">
                         <rdg source="#Heins.">invitis Stimicon ut praemia divis</rdg>
                         <rdg source="#Heins.">invictus Stimicon et praemia silvis</rdg>
-                        <!-- vel tantum <hi rend="#italic">silvis</hi> pro <hi rend="#italic">dites</hi> -->
+                        <!-- vel tantum <hi rend="italic">silvis</hi> pro <hi rend="italic">dites</hi> -->
                      </rdgGrp>
                   </app></l>
                <l n="14">auferat, accepto <app>
