@@ -2003,8 +2003,8 @@
                     
                         <listWit xml:id="mss-first-family">
                             <head>First family</head>
-                            <witness xml:id="N"><abbr type="siglum">N</abbr> = Codex Neapolitanus V A
-                                8 <msDesc>
+                            <witness xml:id="N"><abbr type="siglum">N</abbr> = <title>Codex Neapolitanus V A
+                                8</title> <msDesc>
                                     <msIdentifier>
                                         <settlement>Naples</settlement>
                                         <repository>Biblioteca Nazionale di Napoli</repository>
@@ -2040,7 +2040,7 @@
                                         <handDesc hands="3">
                                             <handNote xml:id="N1"><abbr type="siglum">N<hi rend="super"
                                                 >1</hi></abbr> belongs to the original copyist. See
-                                                <ref target="Ndesc-firsthand">above</ref> for a
+                                                <ref target="#Ndesc-firsthand">above</ref> for a
                                                 detailed description of this hand's activity.</handNote>
                                             <handNote xml:id="N2"><abbr type="siglum">N<hi rend="super"
                                                 >2</hi></abbr>: The manuscript was corrected again
@@ -2080,8 +2080,8 @@
                                     </history>
                                 </msDesc>
                             </witness>
-                            <witness xml:id="G"><abbr type="siglum">G</abbr> = Codex Gaddianus pl.
-                                90, 12 inf. <msDesc>
+                            <witness xml:id="G"><abbr type="siglum">G</abbr> = <title>Codex Gaddianus pl.
+                                90, 12 inf.</title> <msDesc>
                                     <msIdentifier>
                                         <settlement>Florence</settlement>
                                         <repository>Biblioteca Medicea Laurenziana</repository>
@@ -2154,8 +2154,8 @@
                     
                         <listWit xml:id="V" n="V">
                             <head>Second family</head>
-                            <witness xml:id="α"><abbr type="siglum">α</abbr> = Codex Ambrosianus
-                                O.74 sup. <msDesc>
+                            <witness xml:id="α"><abbr type="siglum">α</abbr> = <title>Codex Ambrosianus
+                                O.74 sup.</title> <msDesc>
                                     <msIdentifier>
                                         <settlement>Milan</settlement>
                                         <repository>Biblioteca Ambrosiana</repository>
@@ -2197,8 +2197,8 @@
                                     </history>
                                 </msDesc>
                             </witness>
-                            <witness xml:id="β"><abbr type="siglum">β</abbr>Codex Ambrosianus I.26
-                                sup. <msDesc>
+                            <witness xml:id="β"><abbr type="siglum">β</abbr> = <title>Codex Ambrosianus I.26
+                                sup.</title> <msDesc>
                                     <msIdentifier>
                                         <settlement>Milan</settlement>
                                         <repository>Biblioteca Ambrosiana</repository>
@@ -2243,8 +2243,8 @@
                                     </history>
                                 </msDesc>
                             </witness>
-                            <witness xml:id="δ"><abbr type="siglum">δ</abbr> = Codex Vratislaviensis
-                                Rehdigeranus 1.4.11 <msDesc>
+                            <witness xml:id="δ"><abbr type="siglum">δ</abbr> = <title>Codex Vratislaviensis
+                                Rehdigeranus 1.4.11</title> <msDesc>
                                     <msIdentifier>
                                         <settlement>Vratislavia</settlement>
                                         <repository>Bibliotheca Vratislavia</repository>
@@ -2277,7 +2277,7 @@
                                     </history>
                                 </msDesc>
                             </witness>
-                            <witness xml:id="γ"><abbr type="siglum">γ</abbr> = Codex Vaticanus 3152 <msDesc>
+                            <witness xml:id="γ"><abbr type="siglum">γ</abbr> = <title>Codex Vaticanus 3152</title> <msDesc>
                                     <msIdentifier>
                                         <settlement>Vatican City</settlement>
                                         <repository>Bibliotheca Apostolica Vaticana</repository>
@@ -2309,8 +2309,8 @@
                                     </history>
                                 </msDesc>
                             </witness>
-                            <witness xml:id="λ"><abbr type="siglum">λ</abbr> = Codex Laurentianus
-                                bibl. Aed. 203 <msDesc>
+                            <witness xml:id="λ"><abbr type="siglum">λ</abbr> = <title>Codex Laurentianus
+                                bibl. Aed. 203</title> <msDesc>
                                     <msIdentifier>
                                         <settlement>Florence</settlement>
                                         <repository>Biblioteca Laurenziana</repository>
@@ -2346,8 +2346,8 @@
                                     </history>
                                 </msDesc>
                             </witness>
-                            <witness xml:id="ε"><abbr type="siglum">ε</abbr> = Codex Vaticanus
-                                Urbinas 353. <msDesc>
+                            <witness xml:id="ε"><abbr type="siglum">ε</abbr> = <title>Codex Vaticanus
+                                Urbinas 353.</title> <msDesc>
                                     <msIdentifier>
                                         <settlement>Vatican City</settlement>
                                         <repository>Bibliotheca Apostolica Vaticana</repository>
@@ -2399,7 +2399,7 @@
                                     </history>
                                 </msDesc>
                             </witness>
-                            <witness xml:id="μ"><abbr type="siglum">μ</abbr> = Codex Vaticanus 2110 <msDesc>
+                            <witness xml:id="μ"><abbr type="siglum">μ</abbr> = <title>Codex Vaticanus 2110</title> <msDesc>
                                     <msIdentifier>
                                         <settlement>Vatican City</settlement>
                                         <repository>Bibliotheca Apostolica Vaticana</repository>
@@ -2440,8 +2440,8 @@
                                     </history>
                                 </msDesc>
                             </witness>
-                            <witness xml:id="κ"><abbr type="siglum">κ</abbr> = Codex Riccardianus
-                                724 <msDesc>
+                            <witness xml:id="κ"><abbr type="siglum">κ</abbr> = <title>Codex Riccardianus
+                                724</title> <msDesc>
                                     <msIdentifier>
                                         <settlement>Florence</settlement>
                                         <repository>Biblioteca Riccardiana</repository>
@@ -2476,8 +2476,8 @@
                                     </history>
                                 </msDesc>
                             </witness>
-                            <witness xml:id="φ"><abbr type="siglum">φ</abbr> = Codex Vaticanus
-                                Ottobonianus 1466 <msDesc>
+                            <witness xml:id="φ"><abbr type="siglum">φ</abbr> = <title>Codex Vaticanus
+                                Ottobonianus 1466</title> <msDesc>
                                     <msIdentifier>
                                         <settlement>Vatican City</settlement>
                                         <repository>Bibliotheca Apostolica Vaticana</repository>
@@ -2512,8 +2512,8 @@
                                     </history>
                                 </msDesc>
                             </witness>
-                            <witness xml:id="χ"><abbr type="siglum">χ</abbr> = Codex Vaticanus
-                                Reginensis 1759 <msDesc>
+                            <witness xml:id="χ"><abbr type="siglum">χ</abbr> = <title>Codex Vaticanus
+                                Reginensis 1759</title> <msDesc>
                                     <msIdentifier>
                                         <settlement>Vatican City</settlement>
                                         <repository>Bibliotheca Apostolica Vaticana</repository>
@@ -2544,8 +2544,8 @@
                                     </history>
                                 </msDesc>
                             </witness>
-                            <witness xml:id="ν"><abbr type="siglum">ν</abbr> = Codex Laurentianus
-                                pl. 37.14 <msDesc>
+                            <witness xml:id="ν"><abbr type="siglum">ν</abbr> = <title>Codex Laurentianus
+                                pl. 37.14</title> <msDesc>
                                     <msIdentifier>
                                         <settlement>Florence</settlement>
                                         <repository>Biblioteca Laurenziana</repository>
@@ -2582,8 +2582,8 @@
                                     </history>
                                 </msDesc>
                             </witness>
-                            <witness xml:id="π"><abbr type="siglum">π</abbr> = Codex Vaticanus
-                                Palatinus 1652 <msDesc>
+                            <witness xml:id="π"><abbr type="siglum">π</abbr> = <title>Codex Vaticanus
+                                Palatinus 1652</title> <msDesc>
                                     <msIdentifier>
                                         <settlement>Vatican City</settlement>
                                         <repository>Bibliotheca Apostolica Vaticana</repository>
@@ -2622,8 +2622,9 @@
                                     </history>
                                 </msDesc>
                             </witness>
-                            <witness xml:id="η"><abbr type="siglum">η</abbr> = Codex Vratislaviensis
-                                Rehdigeranus 1.4.10<msDesc>
+                            <witness xml:id="η"><abbr type="siglum">η</abbr> = <title>Codex Vratislaviensis
+                                Rehdigeranus 1.4.10</title>
+                              <msDesc>
                                     <msIdentifier>
                                         <settlement>Vratislavia</settlement>
                                         <repository>Bibliotheca Rehdigeranus</repository>
@@ -2657,8 +2658,8 @@
                                     </history>
                                 </msDesc>
                             </witness>
-                            <witness xml:id="ρ"><abbr type="siglum">ρ</abbr> = Codex Riccardianus
-                                636 <msDesc>
+                            <witness xml:id="ρ"><abbr type="siglum">ρ</abbr> = <title>Codex Riccardianus
+                                636</title> <msDesc>
                                     <msIdentifier>
                                         <settlement>Florence</settlement>
                                         <repository>Biblioteca Riccardiana</repository>
@@ -2701,7 +2702,7 @@
                                     </history>
                                 </msDesc>
                             </witness>
-                            <witness xml:id="θ"><abbr type="siglum">θ</abbr> = Codex Gothanus 55 <msDesc>
+                            <witness xml:id="θ"><abbr type="siglum">θ</abbr> = <title>Codex Gothanus 55</title> <msDesc>
                                     <msIdentifier>
                                         <settlement>Gotha</settlement>
                                         <repository>Forschungsbibliothek</repository>
@@ -2732,8 +2733,8 @@
                                     </history>
                                 </msDesc>
                             </witness>
-                            <witness xml:id="ζ"><abbr type="siglum">ζ</abbr> = Codex Riccardianus
-                                974 <msDesc>
+                            <witness xml:id="ζ"><abbr type="siglum">ζ</abbr> = <title>Codex Riccardianus
+                                974</title> <msDesc>
                                     <msIdentifier>
                                         <settlement>Florence</settlement>
                                         <repository>Biblioteca Riccardiana</repository>
@@ -2770,7 +2771,7 @@
                     
                         <listWit>
                             <head>Third family</head>
-                            <witness xml:id="P"><abbr type="siglum">P</abbr> = Codex Parisinus 8049 <msDesc>
+                            <witness xml:id="P"><abbr type="siglum">P</abbr> = <title>Codex Parisinus 8049</title> <msDesc>
                                     <msIdentifier>
                                         <settlement>Paris</settlement>
                                         <repository>Bibliothèque Nationale</repository>
@@ -2815,13 +2816,14 @@
                     
                         <listWit>
                             <head>Other codices</head>
-                            <witness xml:id="A" corresp="#ρ"><abbr type="siglum">A</abbr> = cod.
-                                Germanicus Th. Ugoleti = Marginalia copied into <ref target="#ρ"
+                            <witness xml:id="A" corresp="#ρ"><abbr type="siglum">A</abbr> = <title>cod.
+                                Germanicus Th. Ugoleti</title> = Marginalia copied into <ref target="#ρ"
                                     >cod. Riccard. 636</ref> by N. Angelius (Niccolò
                                 Angeli).</witness>
-                            <witness xml:id="H"><abbr type="siglum">H</abbr> = Readings in cod.
+                            <witness xml:id="H"><abbr type="siglum">H</abbr> = <title>Readings in cod.
                                 Harleiani 2578 that appear to go back to the manuscript of Boccaccio
-                                or Th. Ugoletus (Taddeo Ugoleto)<msDesc>
+                                or Th. Ugoletus (Taddeo Ugoleto)</title>
+                              <msDesc>
                                     <msIdentifier>
                                         <settlement>London</settlement>
                                         <repository>British Library</repository>
@@ -2846,10 +2848,10 @@
                         <listWit>
                             <head>Excerpts</head>
                             <witness xml:id="ExcPar"><abbr type="siglum">Exc. Par.</abbr> =
-                                Combination of Exc. Par. Prior and Exc. Par. Alter (below)</witness>
+                                <title>Combination of Exc. Par. Prior and Exc. Par. Alter (below)</title></witness>
                             <listWit>
                                 <witness xml:id="ExcParPrior"><abbr type="siglum">Exc. Par.
-                                        Prior</abbr> = Thuaneus 7647 <msDesc>
+                                        Prior</abbr> = <title>Thuaneus 7647</title> <msDesc>
                                         <msIdentifier>
                                             <settlement>Paris</settlement>
                                             <repository>Bibliothèque Nationale</repository>
@@ -2858,7 +2860,7 @@
                                     </msDesc>
                                 </witness>
                                 <witness xml:id="ExcParAlter"><abbr type="siglum">Exc. Par.
-                                        Alter</abbr> = Nostradamensis 17903 <msDesc>
+                                        Alter</abbr> = <title>Nostradamensis 17903</title> <msDesc>
                                         <msIdentifier>
                                             <settlement>Paris</settlement>
                                             <repository>Bibliothèque Nationale</repository>
@@ -2867,8 +2869,8 @@
                                     </msDesc>
                                 </witness>
                             </listWit>
-                            <witness xml:id="ExcBon"><abbr type="siglum">Exc. Bon.</abbr> = 52 Busta
-                                II, n. 1 <msDesc>
+                            <witness xml:id="ExcBon"><abbr type="siglum">Exc. Bon.</abbr> = <title>52 Busta
+                                II, n. 1</title> <msDesc>
                                     <msIdentifier>
                                         <settlement>Bologna</settlement>
                                         <repository>R. Biblioteca Universitaria di
@@ -2880,8 +2882,8 @@
                         </listWit>
                     
                         <listWit>
-                            <witness xml:id="ω" n="ω"><abbr type="siglum">ω</abbr> = Consensus of
-                                all of the manuscripts</witness>
+                            <witness xml:id="ω" n="ω"><abbr type="siglum">ω</abbr> = <title>Consensus of
+                                all of the manuscripts</title></witness>
                         </listWit>
                     
                 
@@ -5294,8 +5296,8 @@
                         <item xml:id="Astacus">Astacus</item>
                         <item xml:id="Thyrsis">Thrysis</item>
                     </list>
-                    <app><witDetail wit="#P">hic loquitur poeta</witDetail></app>
-                    <l n="1"><app ana="#orthographical">
+                    <l n="1"><app><note>hic loquitur poeta <ref target="#P">P</ref></note></app>
+                      <app ana="#orthographical">
                             <lem>Intactam</lem>
                             <rdg wit="#P">ntantam</rdg>
                         </app>
@@ -5375,7 +5377,7 @@
                             <lem wit="#N #G" source="#Glaeser #Keene #Schenkl">umbras</lem>
                             <rdg wit="#P #V" source="#edd." xml:id="rdg2.5ulmos">ulmos</rdg>
                             <note target="#rdg2.5ulmos">probavit <ref target="#Jacoby">Jacoby</ref> (Woch. f. kl. Phil.
-                                III p. 1291)<ptr target="https://books.google.de/books?id=q5blAAAAMAAJ&amp;hl=de&amp;pg=RA8-PA41#v=onepage&amp;q&amp;f=false"/></note>
+                                III p. 1291) <ptr target="https://books.google.de/books?id=q5blAAAAMAAJ&amp;hl=de&amp;pg=RA8-PA41#v=onepage&amp;q&amp;f=false"/></note>
                         </app></l>
                     <l n="6">conveniunt dulcique simul <app ana="#orthographical">
                             <lem xml:id="lem2.11.6">contendere</lem>
@@ -5574,10 +5576,9 @@
                                     <rdg wit="#κ #χ #π #μ #β">dicit</rdg>
                                 </app></l></lem>
                     </app>
-                    <app><witDetail wit="#s" target="#l2.22">hic versus post v. 23 invenitur in
-                        s.</witDetail></app>
-                    <app><witDetail wit="#ExcPar" target="#l2.22">23 satis-24 victus exstant in Exc. Par.</witDetail></app>
-                    <l n="23" xml:id="l2.23">'irrita sint moneo: satis <app ana="#morphological">
+                    <l n="23" xml:id="l2.23"><app>
+                      <note target="#l2.22">23 satis-24 victus exstant in <ref target="#ExcPar">Exc. Par.</ref></note>
+                    </app>'irrita sint moneo: satis <app ana="#morphological">
                             <lem wit="#V #ExcPar" source="#edd.">hoc</lem>
                             <rdg wit="#N #G #H2">hic</rdg>
                             <rdg wit="#P">hac</rdg>
@@ -5591,7 +5592,8 @@
                             <rdg wit="#d1" ana="#syntactic #morphological">habere</rdg>
                         </app>,</l>
                     <app xml:id="app-rdg-s-l2.22" exclude="#app-lem-l2.22" ana="#ordinal">
-                        <rdg wit="#s"><l copyOf="#l2.22"/></rdg>
+                      <rdg><l copyOf="#l2.22"/></rdg>
+                      <wit>hic versus post v. 23 invenitur in <ref target="#s">s</ref>.</wit>
                     </app>
                     <l n="24">si laudem victor, si <app>
                             <lem>fert</lem>
@@ -7035,7 +7037,7 @@
                             </app>
                             <app>
                                 <lem wit="#N #G #P #ρ" source="#Heins. #BeckSqq" xml:id="lem324solatu">sola (tu</lem>
-                                <witDetail wit="ρ">in ras.</witDetail>
+                                <witDetail wit="#ρ">in ras.</witDetail>
                                 <rdg wit="#V #r #u #e #b #d2 #s" source="#o #n #l2 #i2 #Ulit.">tu
                                     solus</rdg>
                                 <rdg source="#eddAnteBeck">solus tu</rdg>
@@ -7893,7 +7895,7 @@
                             </app>,</l>
                         <l n="93"><app>
                                 <lem wit="#N #G #P #α #λ #κ #φ #ρ" source="#edd. #Guid." xml:id="lem3.93perfer">perfer et exora modulato</lem>
-                                <witDetail wit="ρ">in ras.</witDetail>
+                                <witDetail wit="#ρ">in ras.</witDetail>
                                 <rdg wit="#γ #μ #ε #e">perfer et ore tuo modulator</rdg>
                                 <rdg wit="#A #u #b" source="#Martell." xml:id="rdg3.93modulabor">perfer et ore tuo modulabor</rdg>
                                 <witDetail wit="#A" target="#rdg3.93modulabor">ex <hi rend="italic">modulator</hi></witDetail>
@@ -9709,7 +9711,7 @@
                                     <rdg wit="#θ">psalsat</rdg>
                                     <rdg wit="#ρ1">sallat</rdg>
                                     <rdg wit="#ρ2" xml:id="rdg4.124plaudat">plaudat</rdg>
-                                    <witDetail wit="ρ2" target="#rdg4.124plaudat">in mg.</witDetail>
+                                    <witDetail wit="#ρ2" target="#rdg4.124plaudat">in mg.</witDetail>
                                     <rdg wit="#π" xml:id="rdg4.124saltat">saltat</rdg>
                                     <witDetail wit="#π" target="#rdg4.124saltat">in mg.</witDetail>
                                 </app>
@@ -11580,7 +11582,7 @@
                   <rdg source="#Burm1731">hinc liquido</rdg>
                </app> liquido <app>
                   <lem wit="#N #G #ε #δ #λ #ρ2 #α #π #γ #μ #e #u #b" source="#i2 #l2 #n #o #Modius #Baehr. #Keene #Schenkl" xml:id="lem5.81picis">picis</lem>
-                  <witDetail wit="ρ2" target="#lem5.81picis">(in mg.)</witDetail>
+                  <witDetail wit="#ρ2" target="#lem5.81picis">(in mg.)</witDetail>
                   <!-- ρ2 (in mg.) -->
                   <rdg wit="#H #η #θ #ν #φ" source="#edd.">simul</rdg>
                   <rdg wit="#β">pacis</rdg>
@@ -13114,7 +13116,7 @@
                   <ref target="#φ">φ</ref>
                   <ref target="#η">η</ref>
                   <ref target="#θ">θ</ref>
-                  <ref target="ρ1">ρ¹</ref>
+                  <ref target="#ρ1">ρ¹</ref>
                   <ref target="#r">r</ref></note></app>
             </sp>
             <sp who="Mnasyllus">
