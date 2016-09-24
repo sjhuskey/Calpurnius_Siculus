@@ -4177,11 +4177,17 @@
                                 <lem>quis</lem>
                                 <rdg wit="#N">qui</rdg>
                             </app> properanti falce notavit?</l>
-                        <l n="22"><app type="emendation">
-                                <lem source="#r #s #o #n #d #Ulit. #Burm1731 #Wernsd. #Beck #Glaeser"/>
-                                <rdg wit="#ε #γ" source="#edd." ana="#additive">C.</rdg>
-                                <!-- This isn't really very helpful, since "edd." has so many exceptions. -->
-                            </app>
+                      
+                        <app type="emendation">
+                            <lem source="#r #s #o #n #d #Ulit. #Burm1731 #Wernsd. #Beck #Glaeser"/>
+                            <rdg wit="#ε #γ" source="#edd." ana="#additive">
+                              <sp>
+                                <speaker>C.</speaker>
+                              </sp>
+                            </rdg>
+                            <!-- This isn't really very helpful, since "edd." has so many exceptions. -->
+                        </app>
+                        <l n="22">
                             <app ana="#morphological">
                                 <lem>aspicis</lem>
                                 <rdg wit="#ε">aspicit</rdg>
@@ -10505,17 +10511,19 @@
                         <rdg source="#Burm1731">pabula</rdg>
                      </app> campo, </l>
                </lem>
-                <rdg wit="#N #G">
-                  <l copyOf="#line5.7"/>
-                  <l copyOf="#line5.6"/>
-                  <l copyOf="#line5.8"/>
-                </rdg>
-               <rdg source="#Maehly">
+              <rdg>
+                <l copyOf="#line5.7"/>
+                <l copyOf="#line5.6"/>
+                <l copyOf="#line5.8"/>
+               </rdg>
+              <wit>7, 6, 8 colloc. <ref target="#N">N</ref> (in quo corr. <ref target="#N2">m2</ref>) <ref target="#G">G</ref>;</wit>
+               <rdg>
                  <l copyOf="#line5.7"/>
                  <l copyOf="#line5.8"/>
                  <l copyOf="#line5.6"/>
                </rdg>
-              <note target="#lem5.6-8">7, 6, 8 colloc. <ref target="#N">N</ref> (in quo corr. <ref target="#N2">m2</ref>) G; 7, 8, 6 <ref target="#Maehly">Maehly</ref></note>
+              <wit>7, 8, 6 <ref target="#Maehly">Maehly</ref></wit>
+              
             </app>
             <l n="9"><app>
                   <lem>hos</lem>
