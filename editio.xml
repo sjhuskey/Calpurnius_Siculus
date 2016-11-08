@@ -3893,7 +3893,7 @@
                             <app ana="#orthographical">
                                 <lem xml:id="lem1.1nondum">Nondum</lem>
                                 <rdgGrp type="anteCorr">
-                                    <rdg wit="#G1" varSeq="1" xml:id="rdg1.1nundum">nundum</rdg>
+                                    <rdg wit="#G" varSeq="1" xml:id="rdg1.1nundum">nundum</rdg>
                                     <rdg wit="#G1" varSeq="2" copyOf="#lem1.1nondum"/>
                                 </rdgGrp>
                                 <rdg wit="#P" copyOf="#rdg1.1nundum"/>
@@ -4234,8 +4234,8 @@
                                 <lem wit="#P #ρ2 #ε #κ #χ #λ #β #α #ν #γ #π #η #δ" source="#edd." xml:id="lem1.24propius">propius</lem>
                                 <rdg wit="#G #φ #μ #ρ1 #θ" source="#i2 #h #Baehr." xml:id="rdg1.24proprius" ana="#lexical">proprius</rdg>
                                 <rdgGrp type="anteCorr">
-                                    <rdg wit="#N" varSeq="1" sameAs="#rdg1.24proprius" ana="#lexical"/>
-                                    <rdg wit="#N1" varSeq="2" sameAs="#lem1.24propius"/>
+                                    <rdg wit="#N" varSeq="1" copyOf="#rdg1.24proprius" ana="#lexical"/>
+                                    <rdg wit="#N1" varSeq="2" copyOf="#lem1.24propius"/>
                                 </rdgGrp>
                                 <witDetail wit="#N" target="#rdg1.24proprius"><hi rend="italic">r</hi> alt. exp. m1</witDetail>
                             </app>
@@ -5555,7 +5555,7 @@
                                     <lem>pignora</lem>
                                     <rdg wit="#P">pignor</rdg>
                                     <rdg wit="#α #μ">pignera</rdg>
-                                </app>' <app ana="##morphological">
+                                </app>' <app ana="#morphological">
                                     <lem>dixit</lem>
                                     <rdg wit="#κ #χ #π #μ #β">dicit</rdg>
                                 </app></l></lem>
