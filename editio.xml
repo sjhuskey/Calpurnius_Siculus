@@ -32,9 +32,11 @@
                 <biblScope unit="vol">1</biblScope>
             </seriesStmt>
             <sourceDesc xml:id="sources">
-                <bibl xml:id="Giarratano1910" n="Giarratano 1910"><title level="m">Calpurnii et Nemesiani Bucolica</title>, 
-                  <editor ref="http://viaf.org/viaf/79016214"><forename>Caesar</forename><surname>Giarratano</surname></editor>,
-                  <pubPlace>Naples</pubPlace>, <publisher>Detken et Rocholl</publisher>, <date>1910</date></bibl>
+                <bibl xml:id="Giarratano1910" n="Giarratano 1910"><title level="m">Calpurnii et
+                        Nemesiani Bucolica</title>, <editor ref="http://viaf.org/viaf/79016214"
+                            ><forename>Caesar</forename><surname>Giarratano</surname></editor>,
+                        <pubPlace>Naples</pubPlace>, <publisher>Detken et Rocholl</publisher>,
+                        <date>1910</date></bibl>
             </sourceDesc>
         </fileDesc>
     </teiHeader>
@@ -1998,895 +2000,892 @@
             <!-- Begin Bibliography -->
 
             <div type="bibliography">
-                
-                    <head>Manuscripts</head>
-                    
-                        <listWit xml:id="mss-first-family">
-                            <head>First family</head>
-                            <witness xml:id="N"><abbr type="siglum">N</abbr> = <title>Codex Neapolitanus V A
-                                8</title> <msDesc>
-                                    <msIdentifier>
-                                        <settlement>Naples</settlement>
-                                        <repository>Biblioteca Nazionale di Napoli</repository>
-                                        <idno>V A 8</idno>
-                                        <altIdentifier>
-                                            <idno>380</idno>
-                                        </altIdentifier>
-                                    </msIdentifier>
-                                    <msContents>
-                                        <p>1–36ʳ contain Cato's <bibl><title>De
-                                            Agricultura</title></bibl>; 20–101ʳ, Varro's
-                                            <bibl><title>De Re Rustica</title></bibl>; 101ʳ–115ᵛ,
-                                            the <bibl><title>Bucolica</title></bibl> of Calpurnius and
-                                            Nemesianus.</p>
-                                        <p>The individual poems lack titles, but they are separated from
-                                            each other by brief spaces. The following subscription
-                                            appears at the end of the whole work: <quote xml:lang="la"
-                                                >Aureliani Nemesiani Cartag&#773; bucol&#8217; explicit:
-                                                Deo gratias amen</quote>. Finally, another more recent
-                                            hand, as <ref target="#Bursian">Bursian</ref> and <ref
-                                                target="#Schenkl">Schenkl</ref> recognized, wrote <quote
-                                                    xml:lang="la">Calpurnii eclogae</quote> and <quote
-                                                        xml:lang="la">Nemesiani eclogae</quote>. The remaining
-                                            leaves are blank.</p>
-                                    </msContents>
-                                    <physDesc>
-                                        <objectDesc>
-                                            <p>Parchment: 261 X 160 mm.: 116 leaves: 38 verses per
-                                                page.</p>
-                                            <p>With respect to correcting hands, two in particular stand
-                                                out:</p>
-                                        </objectDesc>
-                                        <handDesc hands="3">
-                                            <handNote xml:id="N1"><abbr type="siglum">N<hi rend="super"
+
+                <head>Manuscripts</head>
+
+                <listWit xml:id="mss-first-family">
+                    <head>First family</head>
+                    <witness xml:id="N"><abbr type="siglum">N</abbr> = <title>Codex Neapolitanus V A
+                            8</title>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Naples</settlement>
+                                <repository>Biblioteca Nazionale di Napoli</repository>
+                                <idno>V A 8</idno>
+                                <altIdentifier>
+                                    <idno>380</idno>
+                                </altIdentifier>
+                            </msIdentifier>
+                            <msContents>
+                                <p>1–36ʳ contain Cato's <bibl><title>De Agricultura</title></bibl>;
+                                    20–101ʳ, Varro's <bibl><title>De Re Rustica</title></bibl>;
+                                    101ʳ–115ᵛ, the <bibl><title>Bucolica</title></bibl> of
+                                    Calpurnius and Nemesianus.</p>
+                                <p>The individual poems lack titles, but they are separated from
+                                    each other by brief spaces. The following subscription appears
+                                    at the end of the whole work: <quote xml:lang="la">Aureliani
+                                        Nemesiani Cartag&#773; bucol&#8217; explicit: Deo gratias
+                                        amen</quote>. Finally, another more recent hand, as <ref
+                                        target="#Bursian">Bursian</ref> and <ref target="#Schenkl"
+                                        >Schenkl</ref> recognized, wrote <quote xml:lang="la"
+                                        >Calpurnii eclogae</quote> and <quote xml:lang="la"
+                                        >Nemesiani eclogae</quote>. The remaining leaves are
+                                    blank.</p>
+                            </msContents>
+                            <physDesc>
+                                <objectDesc>
+                                    <p>Parchment: 261 X 160 mm.: 116 leaves: 38 verses per page.</p>
+                                    <p>With respect to correcting hands, two in particular stand
+                                        out:</p>
+                                </objectDesc>
+                                <handDesc hands="3">
+                                    <handNote xml:id="N1"><abbr type="siglum">N<hi rend="super"
                                                 >1</hi></abbr> belongs to the original copyist. See
-                                                <ref target="#Ndesc-firsthand">above</ref> for a
-                                                detailed description of this hand's activity.</handNote>
-                                            <handNote xml:id="N2"><abbr type="siglum">N<hi rend="super"
+                                            <ref target="#Ndesc-firsthand">above</ref> for a
+                                        detailed description of this hand's activity.</handNote>
+                                    <handNote xml:id="N2"><abbr type="siglum">N<hi rend="super"
                                                 >2</hi></abbr>: The manuscript was corrected again
-                                                around the same time, but here and there the second hand
-                                                cannot easily be distinguished from the first.</handNote>
-                                            <handNote xml:id="N3"><abbr type="siglum">N<hi rend="super"
+                                        around the same time, but here and there the second hand
+                                        cannot easily be distinguished from the first.</handNote>
+                                    <handNote xml:id="N3"><abbr type="siglum">N<hi rend="super"
                                                 >3</hi></abbr>: a third hand's emendations can be
-                                                discerned in only a few places.</handNote>
-                                        </handDesc>
-                                    </physDesc>
-                                    <history>
-                                        <origin>
-                                            <p>The manuscript was written at about the beginning of the
-                                                <origDate notAfter="1500" notBefore="1400">fifteenth
-                                                    century</origDate>.</p>
-                                        </origin>
-                                        <provenance>
-                                            <p>We know nothing about the origin and provenance of this
-                                                manuscript except what is understood from the following
-                                                passages written on the last leaf: <quote xml:lang="la"
-                                                    >Joannes Antonius Perillus patric. neap. ac iuvenis
-                                                    apprime litteratus Jacobum Perillum hoc libro donavit
-                                                    MDCVII, Klis Juniis</quote> ("Joannes Antonius
-                                                Perillus, a nobleman of Naples and most learned gentleman,
-                                                gave this book to Jacob Perillus in 1667 on the first of
-                                                June"), and a little below, <quote xml:lang="la">Antonii
-                                                    Seripandi ex Jacobi Perilli amici opt. munere</quote>
-                                                ("This book belongs to Antonius Seripandus, received as a
-                                                gift from his best friend Jacob Perillus"). Later it was
-                                                brought to the library of San Giovanni a Carbonara, and
-                                                from there it came to the greatest library in Naples,
-                                                formerly known as the <orgName>Reale biblioteca
-                                                    borbonica</orgName>, (now the <orgName
-                                                        ref="http://www.bnnonline.it">Biblioteca nazionale
-                                                        Vittorio Emanuele III</orgName>).</p>
-                                        </provenance>
-                                    </history>
-                                </msDesc>
-                            </witness>
-                            <witness xml:id="G"><abbr type="siglum">G</abbr> = <title>Codex Gaddianus pl.
-                                90, 12 inf.</title> <msDesc>
-                                    <msIdentifier>
-                                        <settlement>Florence</settlement>
-                                        <repository>Biblioteca Medicea Laurenziana</repository>
-                                        <idno>plut. 90, 12 inf.</idno>
-                                    </msIdentifier>
-                                    <msContents>
-                                        <p>It contains the twelve eclogues of Francesco Petrarch (ff.
-                                            1–44), the <bibl><title>Culex</title></bibl> of Vergilius
-                                            Maro, the <bibl><title>Dirae</title></bibl> of Vergilius Maro
-                                            (ff. 52–55), and Calpurnius and Nemesianus (ff. 55–74). A
-                                            very brief, unattributed eclogue follows with the
-                                            interlocutors Daphnis, Tityrus, Mopsus, and Meliboeus.</p>
-                                        <p>The following inscription has been added to the eclogues
-                                            of Calpurnius: <quote xml:lang="la">Egloge Calfurnii ad
-                                                nemesianum cartaginiensem.</quote> (<quote>The Eclogues
-                                                    of Calfurnius to Nemesianus of Carthage</quote>).
-                                            Nemesianus follows Calpurnius with the following title
-                                            prefixed: <quote xml:lang="la">Aureliani nemesiani
-                                                cartaginiensis egloghe incipiunt</quote> (<quote>Here
-                                                    begin the eclogues of Aurelianus Nemesianus of
-                                                    Carthage</quote>). At the end of each eclogue there
-                                            appears an <hi rend="italic">explicit</hi> with the number
-                                            of each eclogue, but Calpurnius' sixth eclogue lacks a
-                                            subscription, and the following is written at the end of
-                                            the seventh: <quote xml:lang="la">explicit sexta egloga
-                                                Calphurnii</quote> (<quote>Here ends the sixth eclogue
-                                                    of Calphurnius</quote>). This is explained by the fact
-                                            that the seventh eclogue follows the sixth without any
-                                            break, with the result that only six eclogues are
-                                            attributed to Calpurnius in this manuscript. But in the
-                                            margin, where the sixth eclogue ought to end, the copyist
-                                            has added the following: <quote xml:lang="la">aliqui
-                                                volunt dicere quod ista sit alia et diversa egloga ubi
-                                                incipit "lentus," aliqui dicunt quod est una
-                                                etc.</quote> (<quote>Some wish to say that the eclogue
-                                                    that begins <hi rend="italic">lentus</hi> is a
-                                                    completely different eclogue; others say that it is the
-                                                    same, etc.</quote>).</p>
-                                    </msContents>
-                                    <physDesc>
-                                        <objectDesc>
-                                            <p>Paper: 294 X 225 mm.: 74 leaves. Individual pages
-                                                generally have 29 verses, but some vary, with the shorter
-                                                ones having 26 and the longer ones haveing 32 verses.</p>
-                                        </objectDesc>
-                                        <handDesc hands="2">
-                                            <handNote xml:id="G1"><abbr type="siglum">G<hi
-                                                rend="super">1</hi></abbr>: The copyist
-                                                himself added almost all of the corrections either by
-                                                removing scribal errors in the verses or adding variant
-                                                readings to the margin. See <ref target="Gdesc-hand"
-                                                    >above</ref> for a more detailed description of this
-                                                hand's activity.</handNote>
-                                            <handNote xml:id="G2"><abbr type="siglum">G<hi
-                                                rend="super">2</hi></abbr>: Some corrections
-                                                seem to have been made by another hand.</handNote>
-                                        </handDesc>
-                                    </physDesc>
-                                    <history>
-                                        <origin>
-                                            <p>Written at the <origDate notAfter="1500" notBefore="1400"
-                                                >beginning of the fifteenth century</origDate>.</p>
-                                        </origin>
-                                    </history>
-                                </msDesc>
-                            </witness>
-                        </listWit>
-                    
-                    <!-- End First Family -->
-                    
-                        <listWit xml:id="V" n="V">
-                            <head>Second family</head>
-                            <witness xml:id="α"><abbr type="siglum">α</abbr> = <title>Codex Ambrosianus
-                                O.74 sup.</title> <msDesc>
-                                    <msIdentifier>
-                                        <settlement>Milan</settlement>
-                                        <repository>Biblioteca Ambrosiana</repository>
-                                        <idno>O 74 sup.</idno>
-                                    </msIdentifier>
-                                    <msContents>
-                                        <p>Contained in it are minor poems that were once attributed
-                                            to Vergil, the epigrams of Claudianus Alexandrinus
-                                            (Claudian), the <bibl><title>Orestis
-                                                fabula</title></bibl>, eleven eclogues of Calpurnius
-                                            (ff. 112–133), the
-                                                <bibl><title>Parthenopaeus</title></bibl> and two
-                                            elegies of Giovanni Pontano, an elegy by Antonio
-                                            Beccadelli to Johannes Lamola of Bologna, Janus
-                                            Pannonius' <bibl><title>Epithalamium in Salomonem
-                                                  Sacratum et Liberam Guarinam, a poem
-                                                  <bibl><title>In Venetae urbis
+                                        discerned in only a few places.</handNote>
+                                </handDesc>
+                            </physDesc>
+                            <history>
+                                <origin>
+                                    <p>The manuscript was written at about the beginning of the
+                                            <origDate notAfter="1500" notBefore="1400">fifteenth
+                                            century</origDate>.</p>
+                                </origin>
+                                <provenance>
+                                    <p>We know nothing about the origin and provenance of this
+                                        manuscript except what is understood from the following
+                                        passages written on the last leaf: <quote xml:lang="la"
+                                            >Joannes Antonius Perillus patric. neap. ac iuvenis
+                                            apprime litteratus Jacobum Perillum hoc libro donavit
+                                            MDCVII, Klis Juniis</quote> ("Joannes Antonius Perillus,
+                                        a nobleman of Naples and most learned gentleman, gave this
+                                        book to Jacob Perillus in 1667 on the first of June"), and a
+                                        little below, <quote xml:lang="la">Antonii Seripandi ex
+                                            Jacobi Perilli amici opt. munere</quote> ("This book
+                                        belongs to Antonius Seripandus, received as a gift from his
+                                        best friend Jacob Perillus"). Later it was brought to the
+                                        library of San Giovanni a Carbonara, and from there it came
+                                        to the greatest library in Naples, formerly known as the
+                                            <orgName>Reale biblioteca borbonica</orgName>, (now the
+                                            <orgName ref="http://www.bnnonline.it">Biblioteca
+                                            nazionale Vittorio Emanuele III</orgName>).</p>
+                                </provenance>
+                            </history>
+                        </msDesc>
+                    </witness>
+                    <witness xml:id="G"><abbr type="siglum">G</abbr> = <title>Codex Gaddianus pl.
+                            90, 12 inf.</title>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Florence</settlement>
+                                <repository>Biblioteca Medicea Laurenziana</repository>
+                                <idno>plut. 90, 12 inf.</idno>
+                            </msIdentifier>
+                            <msContents>
+                                <p>It contains the twelve eclogues of Francesco Petrarch (ff. 1–44),
+                                    the <bibl><title>Culex</title></bibl> of Vergilius Maro, the
+                                            <bibl><title>Dirae</title></bibl> of Vergilius Maro (ff.
+                                    52–55), and Calpurnius and Nemesianus (ff. 55–74). A very brief,
+                                    unattributed eclogue follows with the interlocutors Daphnis,
+                                    Tityrus, Mopsus, and Meliboeus.</p>
+                                <p>The following inscription has been added to the eclogues of
+                                    Calpurnius: <quote xml:lang="la">Egloge Calfurnii ad nemesianum
+                                        cartaginiensem.</quote> (<quote>The Eclogues of Calfurnius
+                                        to Nemesianus of Carthage</quote>). Nemesianus follows
+                                    Calpurnius with the following title prefixed: <quote
+                                        xml:lang="la">Aureliani nemesiani cartaginiensis egloghe
+                                        incipiunt</quote> (<quote>Here begin the eclogues of
+                                        Aurelianus Nemesianus of Carthage</quote>). At the end of
+                                    each eclogue there appears an <hi rend="italic">explicit</hi>
+                                    with the number of each eclogue, but Calpurnius' sixth eclogue
+                                    lacks a subscription, and the following is written at the end of
+                                    the seventh: <quote xml:lang="la">explicit sexta egloga
+                                        Calphurnii</quote> (<quote>Here ends the sixth eclogue of
+                                        Calphurnius</quote>). This is explained by the fact that the
+                                    seventh eclogue follows the sixth without any break, with the
+                                    result that only six eclogues are attributed to Calpurnius in
+                                    this manuscript. But in the margin, where the sixth eclogue
+                                    ought to end, the copyist has added the following: <quote
+                                        xml:lang="la">aliqui volunt dicere quod ista sit alia et
+                                        diversa egloga ubi incipit "lentus," aliqui dicunt quod est
+                                        una etc.</quote> (<quote>Some wish to say that the eclogue
+                                        that begins <hi rend="italic">lentus</hi> is a completely
+                                        different eclogue; others say that it is the same,
+                                        etc.</quote>).</p>
+                            </msContents>
+                            <physDesc>
+                                <objectDesc>
+                                    <p>Paper: 294 X 225 mm.: 74 leaves. Individual pages generally
+                                        have 29 verses, but some vary, with the shorter ones having
+                                        26 and the longer ones haveing 32 verses.</p>
+                                </objectDesc>
+                                <handDesc hands="2">
+                                    <handNote xml:id="G1"><abbr type="siglum">G<hi rend="super"
+                                                >1</hi></abbr>: The copyist himself added almost all
+                                        of the corrections either by removing scribal errors in the
+                                        verses or adding variant readings to the margin. See <ref
+                                            target="Gdesc-hand">above</ref> for a more detailed
+                                        description of this hand's activity.</handNote>
+                                    <handNote xml:id="G2"><abbr type="siglum">G<hi rend="super"
+                                                >2</hi></abbr>: Some corrections seem to have been
+                                        made by another hand.</handNote>
+                                </handDesc>
+                            </physDesc>
+                            <history>
+                                <origin>
+                                    <p>Written at the <origDate notAfter="1500" notBefore="1400"
+                                            >beginning of the fifteenth century</origDate>.</p>
+                                </origin>
+                            </history>
+                        </msDesc>
+                    </witness>
+                </listWit>
+
+                <!-- End First Family -->
+
+                <listWit xml:id="V" n="V">
+                    <head>Second family</head>
+                    <witness xml:id="α"><abbr type="siglum">α</abbr> = <title>Codex Ambrosianus O.74
+                            sup.</title>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Milan</settlement>
+                                <repository>Biblioteca Ambrosiana</repository>
+                                <idno>O 74 sup.</idno>
+                            </msIdentifier>
+                            <msContents>
+                                <p>Contained in it are minor poems that were once attributed to
+                                    Vergil, the epigrams of Claudianus Alexandrinus (Claudian), the
+                                            <bibl><title>Orestis fabula</title></bibl>, eleven
+                                    eclogues of Calpurnius (ff. 112–133), the
+                                            <bibl><title>Parthenopaeus</title></bibl> and two
+                                    elegies of Giovanni Pontano, an elegy by Antonio Beccadelli to
+                                    Johannes Lamola of Bologna, Janus Pannonius'
+                                            <bibl><title>Epithalamium in Salomonem Sacratum et
+                                            Liberam Guarinam, a poem <bibl><title>In Venetae urbis
                                                   laudem</title></bibl>, and a poem <bibl><title>De
                                                   ortu atque obitu Hermaphroditi</title></bibl>
-                                                </title></bibl>.</p>
-                                    </msContents>
-                                    <physDesc>
-                                        <objectDesc>
-                                            <p>Paper: 212 X 145 mm. : 183 leaves : 25 verses to a
-                                                page.</p>
-                                        </objectDesc>
-                                        <handDesc hands="2">
-                                            <handNote xml:id="α1"><abbr type="siglum">α<hi
-                                                  rend="super">1</hi></abbr></handNote>
-                                            <handNote xml:id="α2"><abbr type="siglum">α<hi
-                                                  rend="super">2</hi></abbr></handNote>
-                                        </handDesc>
-                                    </physDesc>
-                                    <history>
-                                        <origin>
-                                            <p>Written in the <origDate notAfter="1500"
-                                                  notBefore="1400">fifteenth century</origDate>.</p>
-                                        </origin>
-                                    </history>
-                                </msDesc>
-                            </witness>
-                            <witness xml:id="β"><abbr type="siglum">β</abbr> = <title>Codex Ambrosianus I.26
-                                sup.</title> <msDesc>
-                                    <msIdentifier>
-                                        <settlement>Milan</settlement>
-                                        <repository>Biblioteca Ambrosiana</repository>
-                                        <idno>I 26 sup.</idno>
-                                    </msIdentifier>
-                                    <msContents>
-                                        <p>It contains <bibl><author>Claudius Claudianus
-                                                  (Claudian)</author>
-                                                <title>De raptu Proserpinae</title></bibl> (ff.
-                                            1–30), the poems <bibl><title>De cantu avium et sono
-                                                  quadrupedum</title> (ff. 32–33)</bibl>, the
-                                                  <bibl><title>Bucolica</title></bibl> of Calpurnius
-                                            and Nemesianus attributed to Calpurnius alone (ff.
-                                            35–61). Folios 31 and 34 are blank. At the end I read
-                                            the following subscription: <quote xml:lang="la">die 4
-                                                augusti 1463 ego petrus feliciter peregi</quote>
-                                                (<quote>On August 4, 1463, I, Peter, finished
-                                                this</quote>; cf. <bibl xml:id="Sabbadini"
-                                                  ><author>R. Sabbadini</author>, <title>Le scoperte
-                                                  dei codici latini e greci ne' secoli XIV e
-                                                  XV</title>, p. 16 n. 82 <ptr
-                                                  target="https://archive.org/stream/lescopertedeicod01sabbuoft"
-                                                /></bibl>).</p>
-                                    </msContents>
-                                    <physDesc>
-                                        <objectDesc>
-                                            <p>Paper: 0.214 X 0.158 mm. : 61 leaves : 20 verses per
-                                                page.</p>
-                                        </objectDesc>
-                                        <handDesc hands="2">
-                                            <handNote xml:id="β1"><abbr type="siglum">β<hi
-                                                  rend="super">1</hi></abbr></handNote>
-                                            <handNote xml:id="β2"><abbr type="siglum">β<hi
-                                                  rend="super">2</hi></abbr></handNote>
-                                        </handDesc>
-                                    </physDesc>
-                                    <history>
-                                        <origin>
-                                            <p>Written in the <origDate notAfter="1500"
-                                                  notBefore="1400">fifteenth century</origDate></p>
-                                        </origin>
-                                    </history>
-                                </msDesc>
-                            </witness>
-                            <witness xml:id="δ"><abbr type="siglum">δ</abbr> = <title>Codex Vratislaviensis
-                                Rehdigeranus 1.4.11</title> <msDesc>
-                                    <msIdentifier>
-                                        <settlement>Vratislavia</settlement>
-                                        <repository>Bibliotheca Vratislavia</repository>
-                                        <idno>Rehdigeranus 1. 4. 11</idno>
-                                    </msIdentifier>
-                                    <msContents>
-                                        <p>All eleven poems are ascribed to Calpurnius. They are
-                                            preserved on leaves 3ʳ–22ʳ. Aside from one inscription
-                                            at the beginning, no other is found in this book, and no
-                                            indication of characters, with the exception of the
-                                            recto of the third leaf. Here, the copyist put this sign
-                                            (") in the margin when the character changes.</p>
-                                    </msContents>
-                                    <physDesc>
-                                        <objectDesc>
-                                            <p>Quarto : 115 leaves : 26 verses per page.</p>
-                                        </objectDesc>
-                                        <handDesc hands="2">
-                                            <handNote xml:id="δ1"><abbr type="siglum">δ<hi
-                                                  rend="super">1</hi></abbr></handNote>
-                                            <handNote xml:id="δ2"><abbr type="siglum">δ<hi
-                                                  rend="super">2</hi></abbr></handNote>
-                                        </handDesc>
-                                    </physDesc>
-                                    <history>
-                                        <origin>
-                                            <p>Written carelessly in the <origDate notAfter="1500"
-                                                  notBefore="1400">fifteenth century</origDate>.</p>
-                                        </origin>
-                                    </history>
-                                </msDesc>
-                            </witness>
-                            <witness xml:id="γ"><abbr type="siglum">γ</abbr> = <title>Codex Vaticanus 3152</title> <msDesc>
-                                    <msIdentifier>
-                                        <settlement>Vatican City</settlement>
-                                        <repository>Bibliotheca Apostolica Vaticana</repository>
-                                        <idno>Vaticanus 3152</idno>
-                                    </msIdentifier>
-                                    <msContents>
-                                        <p>It contains Calpurnius' eleven eclogues (1–18ʳ), followed
-                                            by various poems by Cyprian, Lactantius, Firmianus, and
-                                            Ausonius.</p>
-                                    </msContents>
-                                    <physDesc>
-                                        <objectDesc>
-                                            <p><material>Paper</material> : 215 X 147 mm. : . It
-                                                consists of 81 leaves, of which 18ᵛ, 26–30, 51ʳ, 81ᵛ
-                                                are blank. There are 31 verses on each page</p>
-                                        </objectDesc>
-                                        <handDesc hands="2">
-                                            <handNote xml:id="γ1"><abbr type="siglum">γ<hi
-                                                  rend="super">1</hi></abbr></handNote>
-                                            <handNote xml:id="γ2"><abbr type="siglum">γ<hi
-                                                  rend="super">2</hi></abbr></handNote>
-                                        </handDesc>
-                                    </physDesc>
-                                    <history>
-                                        <origin>
-                                            <p>Written in the <origDate notAfter="1500"
-                                                  notBefore="1400">fifteenth century</origDate>.</p>
-                                        </origin>
-                                    </history>
-                                </msDesc>
-                            </witness>
-                            <witness xml:id="λ"><abbr type="siglum">λ</abbr> = <title>Codex Laurentianus
-                                bibl. Aed. 203</title> <msDesc>
-                                    <msIdentifier>
-                                        <settlement>Florence</settlement>
-                                        <repository>Biblioteca Laurenziana</repository>
-                                        <idno>bibl. Aed. 203</idno>
-                                    </msIdentifier>
-                                    <msContents>
-                                        <p>Contains the eleven eclogues of Calpurnius (ff. 140–161),
-                                            along with the poems of Vergil, Statius, Caudian,
-                                            Maximian and other ancient poets. At the end it is
-                                            inscribed as follows: <quote xml:lang="la">Georgii Ant.
-                                                Vespuccii liber</quote> (<quote>This book belongs to
-                                                Giorgio Antonio Vespucci</quote>)</p>
-                                    </msContents>
-                                    <physDesc>
-                                        <objectDesc>
-                                            <p><material>Paper</material> : 223 X 155 mm. : 188
-                                                written leaves : 25 verses per page.</p>
-                                        </objectDesc>
-                                        <handDesc hands="2">
-                                            <handNote xml:id="λ1"><abbr type="siglum">λ<hi
-                                                  rend="super">1</hi></abbr></handNote>
-                                            <handNote xml:id="λ2"><abbr type="siglum">λ<hi
-                                                  rend="super">2</hi></abbr></handNote>
-                                        </handDesc>
-                                    </physDesc>
-                                    <history>
-                                        <origin>
-                                            <p>Copied in the <origDate notAfter="1500"
-                                                  notBefore="1400">fifteenth century</origDate>.</p>
-                                        </origin>
-                                        <provenance><p>Formerly in the Cathedral of Santa Maria del
-                                                Fiore.</p></provenance>
-                                    </history>
-                                </msDesc>
-                            </witness>
-                            <witness xml:id="ε"><abbr type="siglum">ε</abbr> = <title>Codex Vaticanus
-                                Urbinas 353.</title> <msDesc>
-                                    <msIdentifier>
-                                        <settlement>Vatican City</settlement>
-                                        <repository>Bibliotheca Apostolica Vaticana</repository>
-                                        <idno>Urbinas 353</idno>
-                                    </msIdentifier>
-                                    <msContents>
-                                        <p>The eleven eclogues of Calpurnius are contained on leaves
-                                            95ʳ–113ᵛ of this manuscript, along with many poems by
-                                            various authors that it is not necessary to report here.
-                                            The following subscription appears at the end of this
-                                            work: <quote xml:lang="la">Federicus De Veteranis
-                                                Urbinas sub divo Federico Urbinat, duce invictiss.
-                                                romanae ecclesi. dictat. transcripsit</quote>
-                                                (<quote>Federico Veterano of Urbino, in service to
-                                                Federico di Montefeltro, Duke of Urbino, Commander
-                                                of the most indomitable Roman Church, copied this
-                                                manuscript</quote>). And a little below that: <quote
-                                                xml:lang="la">quo principe decedente utinam et ego
-                                                de medio tunc sublatus quiescerem ab instanti
-                                                temporum calamitate.</quote> (<quote>When that
-                                                prince dies, may I, too, be taken from your midst
-                                                and find rest from the approaching times of
-                                                disaster</quote>).</p>
-                                    </msContents>
-                                    <physDesc>
-                                        <objectDesc>
-                                            <p><material>Parchment</material> : 387 X 247 mm. : 309
-                                                leaves : 29 verses per page.</p>
-                                            <p><bibl xml:id="Curcio"><author>Gaetano Curcio</author>
-                                                  (<title>Poeti Latini Minori</title> vol. 2, pt. 1,
-                                                  p. VI ff.) <ptr
-                                                  target="https://archive.org/details/poetilatinimino03curcgoog"
-                                                  /></bibl> has meticulously described the outer
-                                                appearance of this manuscript.</p>
-                                        </objectDesc>
-                                        <handDesc hands="2">
-                                            <handNote xml:id="ε1"><abbr type="siglum">ε<hi
-                                                  rend="super">1</hi></abbr></handNote>
-                                            <handNote xml:id="ε2"><abbr type="siglum">ε<hi
-                                                  rend="super">2</hi></abbr></handNote>
-                                        </handDesc>
-                                    </physDesc>
-                                    <history>
-                                        <origin>
-                                            <p>Most handsomely written in the <origDate
-                                                  notAfter="1500" notBefore="1400">fifteenth
-                                                  century</origDate>.</p>
-                                        </origin>
-                                    </history>
-                                </msDesc>
-                            </witness>
-                            <witness xml:id="μ"><abbr type="siglum">μ</abbr> = <title>Codex Vaticanus 2110</title> <msDesc>
-                                    <msIdentifier>
-                                        <settlement>Vatican City</settlement>
-                                        <repository>Bibliotheca Apostolica Vaticana</repository>
-                                        <idno>Vaticanus 2110</idno>
-                                    </msIdentifier>
-                                    <msContents>
-                                        <p>Contents: a Latin translation of
-                                                  <bibl><author>Aristotle's</author>
-                                                <title>Magna Moralia</title> (ff. 1–56)</bibl>,
-                                                  <bibl><author>Cicero's</author>
-                                                <title>Topica</title> (ff. 57–65ʳ)</bibl>,
-                                                  <bibl><author>Boethius'</author>
-                                                <title>In Ciceronis Topica</title> (ff.
-                                                65ʳ–67ᵛ)</bibl>, Calpurnius' eleven eclogues (ff.
-                                            67ᵛ–80), <bibl><author>St. John Chysostom's</author>
-                                                <title>De dignitate sacerdotali dialogus</title>
-                                                (ff. 81–120ʳ)</bibl>, and an excerpt from the life
-                                            of St. John Crysostom (ff. 120ᵛ–128).</p>
-                                    </msContents>
-                                    <physDesc>
-                                        <objectDesc>
-                                            <p><material>Parchment</material> : 284 X 216 mm. : 128
-                                                leaves. Each page has 40, 41, or 43 verses.</p>
-                                        </objectDesc>
-                                        <handDesc hands="2">
-                                            <handNote xml:id="μ1"><abbr type="siglum">μ<hi
-                                                  rend="super">1</hi></abbr></handNote>
-                                            <handNote xml:id="μ2"><abbr type="siglum">μ<hi
-                                                  rend="super">2</hi></abbr></handNote>
-                                        </handDesc>
-                                    </physDesc>
-                                    <history>
-                                        <origin>
-                                            <p>Most handsomely written in the <origDate
-                                                  notAfter="1500" notBefore="1400">fifteenth
-                                                  century</origDate> under Pope Nicholas V.</p>
-                                        </origin>
-                                    </history>
-                                </msDesc>
-                            </witness>
-                            <witness xml:id="κ"><abbr type="siglum">κ</abbr> = <title>Codex Riccardianus
-                                724</title> <msDesc>
-                                    <msIdentifier>
-                                        <settlement>Florence</settlement>
-                                        <repository>Biblioteca Riccardiana</repository>
-                                        <idno>724</idno>
-                                        <altIdentifier>
-                                            <idno>L IIII 10</idno>
-                                        </altIdentifier>
-                                    </msIdentifier>
-                                    <msContents>
-                                        <p>Contains the eleven eclogues of Calpurnius (ff. 1–25ʳ),
-                                            which some removed as the verses of other writers.</p>
-                                    </msContents>
-                                    <physDesc>
-                                        <objectDesc>
-                                            <p><material>Parchment</material> : 203 X 136 mm. :
-                                                written in the fourteenth century. It has 29 leaves
-                                                with twenty-two verses to a page.</p>
-                                        </objectDesc>
-                                        <handDesc hands="2">
-                                            <handNote xml:id="κ1"><abbr type="siglum">κ<hi
-                                                  rend="super">1</hi></abbr></handNote>
-                                            <handNote xml:id="κ2"><abbr type="siglum">κ<hi
-                                                  rend="super">2</hi></abbr></handNote>
-                                        </handDesc>
-                                    </physDesc>
-                                    <history>
-                                        <origin>
-                                            <p>Written in the <origDate notAfter="1500"
-                                                  notBefore="1400">fourteenth
-                                                century</origDate>.</p>
-                                        </origin>
-                                    </history>
-                                </msDesc>
-                            </witness>
-                            <witness xml:id="φ"><abbr type="siglum">φ</abbr> = <title>Codex Vaticanus
-                                Ottobonianus 1466</title> <msDesc>
-                                    <msIdentifier>
-                                        <settlement>Vatican City</settlement>
-                                        <repository>Bibliotheca Apostolica Vaticana</repository>
-                                        <idno>Ottobonianus 1466</idno>
-                                        <altIdentifier>
-                                            <idno>Altaempsianus</idno>
-                                        </altIdentifier>
-                                    </msIdentifier>
-                                    <msContents>
-                                        <p>Contains the eleven eclogues of Calpurnius (ff. 1–24ʳ);
-                                            various poems follow.</p>
-                                    </msContents>
-                                    <physDesc>
-                                        <objectDesc>
-                                            <p><material>Paper</material> : 198 X 132 mm. : 51
-                                                leaves : 24 verses per page.</p>
-                                        </objectDesc>
-                                        <handDesc hands="2">
-                                            <handNote xml:id="φ1"><abbr type="siglum">φ<hi
-                                                  rend="super">1</hi></abbr></handNote>
-                                            <handNote xml:id="φ2"><abbr type="siglum">φ<hi
-                                                  rend="super">2</hi></abbr></handNote>
-                                        </handDesc>
-                                    </physDesc>
-                                    <history>
-                                        <origin>
-                                            <p>Written in the <origDate notAfter="1500"
-                                                  notBefore="1400">fifteenth century</origDate>.</p>
-                                        </origin>
-                                        <provenance><p>Formerly in the collection of the Dukes of
-                                                the Altaemps and Galesi.</p></provenance>
-                                    </history>
-                                </msDesc>
-                            </witness>
-                            <witness xml:id="χ"><abbr type="siglum">χ</abbr> = <title>Codex Vaticanus
-                                Reginensis 1759</title> <msDesc>
-                                    <msIdentifier>
-                                        <settlement>Vatican City</settlement>
-                                        <repository>Bibliotheca Apostolica Vaticana</repository>
-                                        <idno>Reginensis 1759</idno>
-                                    </msIdentifier>
-                                    <msContents>
-                                        <p>Contains only the eleven eclogues of Calpurnius.</p>
-                                    </msContents>
-                                    <physDesc>
-                                        <objectDesc>
-                                            <p><material>Parchment</material>, 198 X 123 mm : 22
-                                                leaves : 25 verses per page.</p>
-                                        </objectDesc>
-                                        <handDesc hands="2">
-                                            <handNote xml:id="χ1"><abbr type="siglum">χ<hi
-                                                  rend="super">1</hi></abbr></handNote>
-                                            <handNote xml:id="χ2"><abbr type="siglum">χ<hi
-                                                  rend="super">2</hi></abbr></handNote>
-                                        </handDesc>
-                                    </physDesc>
-                                    <history>
-                                        <origin>
-                                            <p>The book was written in the <origDate notAfter="1500"
-                                                  notBefore="1400">fifteenth century</origDate>.</p>
-                                        </origin>
-                                        <provenance><p>Formerly in the library of the Convento di
-                                                San Silvestro al Quirinale.</p></provenance>
-                                    </history>
-                                </msDesc>
-                            </witness>
-                            <witness xml:id="ν"><abbr type="siglum">ν</abbr> = <title>Codex Laurentianus
-                                pl. 37.14</title> <msDesc>
-                                    <msIdentifier>
-                                        <settlement>Florence</settlement>
-                                        <repository>Biblioteca Laurenziana</repository>
-                                        <idno>plut. 37.14</idno>
-                                    </msIdentifier>
-                                    <msContents>
-                                        <p><bibl><author>Silius Italicus</author>
-                                                <title>Punica</title></bibl>,
-                                                  <bibl><author>Calpurnius</author>
-                                                <title>Eclogae XI</title> (ff. 177ᵛ–193ᵛ)</bibl>,
-                                                  <bibl><author>Hesiod</author>
-                                                <title>Opera et Dies</title> in a Latin translation
-                                                by N. Valla</bibl>, <bibl><author>Claudian</author>
-                                                <title>De raptu Proserpinae</title></bibl></p>
-                                    </msContents>
-                                    <physDesc>
-                                        <objectDesc>
-                                            <p><material>Parchment</material> : 323 X 195 mm. : 224
-                                                written leaves : 35 verses per page.</p>
-                                        </objectDesc>
-                                        <handDesc hands="2">
-                                            <handNote xml:id="ν1"><abbr type="siglum">ν<hi
-                                                  rend="super">1</hi></abbr></handNote>
-                                            <handNote xml:id="ν2"><abbr type="siglum">ν<hi
-                                                  rend="super">2</hi></abbr></handNote>
-                                        </handDesc>
-                                    </physDesc>
-                                    <history>
-                                        <origin>
-                                            <p>Most handsomely written in the <origDate
-                                                  notAfter="1500" notBefore="1400">fifteenth
-                                                  century</origDate>.</p>
-                                        </origin>
-                                    </history>
-                                </msDesc>
-                            </witness>
-                            <witness xml:id="π"><abbr type="siglum">π</abbr> = <title>Codex Vaticanus
-                                Palatinus 1652</title> <msDesc>
-                                    <msIdentifier>
-                                        <settlement>Vatican City</settlement>
-                                        <repository>Bibliotheca Apostolica Vaticana</repository>
-                                        <idno>1652</idno>
-                                    </msIdentifier>
-                                    <msContents>
-                                        <p>It contains Tibullus (ff. 1–28ʳ), Catullus (ff. 28ᵛ–60ʳ),
-                                            Calpurnius' eleven eclogues (ff. 60ʳ–74ᵛ), Propertius
-                                            (ff. 74ᵛ–129). The following is written at the end of
-                                            the work (cfr. <ref target="#Sabbadini"
-                                            >Sabbadini</ref>): <quote xml:lang="la">a M' petro
-                                                montopolitano die XXI februarii 1460</quote>
-                                                (<quote>By the hand of master Petrus Montopolitanus
-                                                on February 21, 1460</quote>). That is followed by
-                                            two hexameters written on the death of Giannozzo
-                                            Manetti.</p>
-                                    </msContents>
-                                    <physDesc>
-                                        <objectDesc>
-                                            <p><material>Parchment</material> : 267 X 159 mm. : 129
-                                                written leaves : 37 verses per page.</p>
-                                        </objectDesc>
-                                        <handDesc hands="2">
-                                            <handNote xml:id="π1"><abbr type="siglum">π<hi
-                                                  rend="super">1</hi></abbr></handNote>
-                                            <handNote xml:id="π2"><abbr type="siglum">π<hi
-                                                  rend="super">2</hi></abbr></handNote>
-                                        </handDesc>
-                                    </physDesc>
-                                    <history>
-                                        <origin>
-                                            <p>Copied most beautifully in the <origDate
-                                                  notAfter="1500" notBefore="1400">fifteenth
-                                                  century</origDate>.</p>
-                                        </origin>
-                                    </history>
-                                </msDesc>
-                            </witness>
-                            <witness xml:id="η"><abbr type="siglum">η</abbr> = <title>Codex Vratislaviensis
-                                Rehdigeranus 1.4.10</title>
-                              <msDesc>
-                                    <msIdentifier>
-                                        <settlement>Vratislavia</settlement>
-                                        <repository>Bibliotheca Rehdigeranus</repository>
-                                        <idno>1.4.10</idno>
-                                    </msIdentifier>
-                                    <msContents>
-                                        <p>Contains all eleven eclogues assigned to Calpurnius. They
-                                            appear on leave 3ʳ–27ʳ. Additionally, many of the minor
-                                            poems of Vergil and other others (some more recent) are
-                                            written in it.</p>
-                                    </msContents>
-                                    <physDesc>
-                                        <objectDesc>
-                                            <p><material>Paper and parchment</material> : quarto :
-                                                130 leaves : 22 or 23 verses per page.</p>
-                                            <p>Titles and signs for characters are decorated with
-                                                red ink.</p>
-                                        </objectDesc>
-                                        <handDesc hands="2">
-                                            <handNote xml:id="η1"><abbr type="siglum">η<hi
-                                                  rend="super">1</hi></abbr></handNote>
-                                            <handNote xml:id="η2"><abbr type="siglum">η<hi
-                                                  rend="super">2</hi></abbr></handNote>
-                                        </handDesc>
-                                    </physDesc>
-                                    <history>
-                                        <origin>
-                                            <p>Beautifully written in the <origDate notAfter="1500"
-                                                  notBefore="1400">fifteenth century</origDate>.</p>
-                                        </origin>
-                                    </history>
-                                </msDesc>
-                            </witness>
-                            <witness xml:id="ρ"><abbr type="siglum">ρ</abbr> = <title>Codex Riccardianus
-                                636</title> <msDesc>
-                                    <msIdentifier>
-                                        <settlement>Florence</settlement>
-                                        <repository>Biblioteca Riccardiana</repository>
-                                        <idno>636</idno>
-                                        <altIdentifier>
-                                            <idno>L IIII 14</idno>
-                                        </altIdentifier>
-                                    </msIdentifier>
-                                    <msContents>
-                                        <p>The eleven eclogues of Calpurnius are contained in this
-                                            manuscript (ff. 25–45), along with other minor works of
-                                            various authors that are not worth mentioning here,
-                                            since the poems of Calpurnius, as Schenkl knew, were
-                                            formerly separated from the rest.</p>
-                                    </msContents>
-                                    <physDesc>
-                                        <objectDesc>
-                                            <p><material>Parchment</material> : 225 X 150 mm. : 126
-                                                leaves : 26 verses per page.</p>
-                                        </objectDesc>
-                                        <handDesc hands="2">
-                                            <handNote xml:id="ρ1"><abbr type="siglum">ρ<hi
-                                                  rend="super">1</hi></abbr></handNote>
-                                            <handNote xml:id="ρ2"><abbr type="siglum">ρ<hi
-                                                  rend="super">2</hi></abbr>: Various hands
-                                                that are indistinguishable from each
-                                                other.</handNote>
-                                            <!-- Note that this should probably be changed to "recc" -->
-                                            <handNote sameAs="#A">The hand of Niccolò Angeli,
-                                                recording variants from the lost Codex Germanicus
-                                                (see <hi rend="bold"><ref target="#A">A</ref></hi>
-                                                below).</handNote>
-                                        </handDesc>
-                                    </physDesc>
-                                    <history>
-                                        <origin>
-                                            <p>Written in the <origDate notAfter="1500"
-                                                  notBefore="1400">fifteenth century</origDate>.</p>
-                                        </origin>
-                                    </history>
-                                </msDesc>
-                            </witness>
-                            <witness xml:id="θ"><abbr type="siglum">θ</abbr> = <title>Codex Gothanus 55</title> <msDesc>
-                                    <msIdentifier>
-                                        <settlement>Gotha</settlement>
-                                        <repository>Forschungsbibliothek</repository>
-                                        <idno>55</idno>
-                                    </msIdentifier>
-                                    <msContents>
-                                        <p>After Vergil's <bibl><title>Bucolics</title></bibl>,
-                                                  <bibl><title>Georgics</title></bibl>, and
-                                                  <bibl><title>Aeneid</title></bibl>, it has the
-                                            seven eclogues of Calpurnius. After an empty space on
-                                            the last part of the page, the copyist has written the
-                                            following subscription: <quote xml:lang="la">Finis: haec
-                                                quae de Calphurnio inveniuntur</quote> (<quote>The
-                                                end. These are the poems that were composed by
-                                                Calpurnius</quote>).</p>
-                                    </msContents>
-                                    <physDesc>
-                                        <objectDesc>
-                                            <p><material>Parchment</material> : octavo: damaged, or
-                                                copied from a damaged manuscript, since the seventh
-                                                eclogue ends at verse 65.</p>
-                                        </objectDesc>
-                                    </physDesc>
-                                    <history>
-                                        <origin>
-                                            <origDate notAfter="1500" notBefore="1400">XV</origDate>
-                                        </origin>
-                                    </history>
-                                </msDesc>
-                            </witness>
-                            <witness xml:id="ζ"><abbr type="siglum">ζ</abbr> = <title>Codex Riccardianus
-                                974</title> <msDesc>
-                                    <msIdentifier>
-                                        <settlement>Florence</settlement>
-                                        <repository>Biblioteca Riccardiana</repository>
-                                        <idno>974</idno>
-                                    </msIdentifier>
-                                    <msContents>
-                                        <p>Among other minor works of various authors, it contains
-                                            only the second eclogue by Calpurnius (ff. 3–5), and
-                                            that under the title of the first eclogue.</p>
-                                    </msContents>
-                                    <physDesc>
-                                        <objectDesc>
-                                            <p><material>Paper</material> : 208 X 142 mm. : 74
-                                                leaves.</p>
-                                        </objectDesc>
-                                        <handDesc>
-                                            <handNote xml:id="ζ1"><abbr type="siglum">ζ<hi
-                                                  rend="super">1</hi></abbr></handNote>
-                                            <handNote xml:id="ζ2"><abbr type="siglum">ζ<hi
-                                                  rend="super">2</hi></abbr></handNote>
-                                        </handDesc>
-                                    </physDesc>
-                                    <history>
-                                        <origin>
-                                            <p>Written in the <origDate notAfter="1500"
-                                                  notBefore="1400">fifteenth century</origDate>.</p>
-                                        </origin>
-                                    </history>
-                                </msDesc>
-                            </witness>
-                        </listWit>
-                        <!-- End Second Family -->
-                    
-                    
-                        <listWit>
-                            <head>Third family</head>
-                            <witness xml:id="P"><abbr type="siglum">P</abbr> = <title>Codex Parisinus 8049</title> <msDesc>
-                                    <msIdentifier>
-                                        <settlement>Paris</settlement>
-                                        <repository>Bibliothèque Nationale</repository>
-                                        <idno>8049</idno>
-                                    </msIdentifier>
-                                    <msContents>
-                                        <p>Bound in three parts: I. Introduction on Satire, Perseus;
-                                            II. end of the 11th century, according to Kelius, end of
-                                            the 12th century, according to Froehnerus, the end of
-                                            the second book of the <bibl><title>De
-                                                  Divinatione</title> by
-                                                <author>Cicero</author></bibl>. On the verso of leaf
-                                            17: <quote xml:lang="la">Marci Tullii de divinacione
-                                                liber IIᵘˢ explicit. Petronii arbitri satirarum
-                                                liber incipit</quote>. On the recto of leaf 25:
-                                                <quote xml:lang="la">explicit Petronius. incipit
-                                                egologa Calpurnii (nondum solis equos I 1—quicquid
-                                                id est silvestre etc. IIII 12)</quote>. III. 12th
-                                            century. Seneca's proverbs.</p>
-                                    </msContents>
-                                    <physDesc>
-                                        <objectDesc>
-                                            <p>Parchment : quarto</p>
-                                        </objectDesc>
-                                        <handDesc>
-                                            <handNote xml:id="P1"><abbr type="siglum">P<hi
-                                                  rend="super">1</hi></abbr></handNote>
-                                            <handNote xml:id="P2"><abbr type="siglum">P<hi
-                                                  rend="super">2</hi></abbr></handNote>
-                                        </handDesc>
-                                    </physDesc>
-                                    <history>
-                                        <origin>
-                                            <origDate notAfter="1200" notBefore="1000"
-                                                >XI–XII</origDate>
-                                        </origin>
-                                    </history>
-                                </msDesc>
-                            </witness>
-                        </listWit>
-                    
-                    
-                        <listWit>
-                            <head>Other codices</head>
-                            <witness xml:id="A" corresp="#ρ"><abbr type="siglum">A</abbr> = <title>cod.
-                                Germanicus Th. Ugoleti</title> = Marginalia copied into <ref target="#ρ"
-                                    >cod. Riccard. 636</ref> by N. Angelius (Niccolò
-                                Angeli).</witness>
-                            <witness xml:id="H"><abbr type="siglum">H</abbr> = <title>Readings in cod.
-                                Harleiani 2578 that appear to go back to the manuscript of Boccaccio
-                                or Th. Ugoletus (Taddeo Ugoleto)</title>
-                              <msDesc>
-                                    <msIdentifier>
-                                        <settlement>London</settlement>
-                                        <repository>British Library</repository>
-                                        <idno>2578</idno>
-                                        <altIdentifier>
-                                            <idno>Codex Harleianus</idno>
-                                        </altIdentifier>
-                                    </msIdentifier>
-                                    <physDesc>
-                                        <handDesc hands="2">
-                                            <handNote xml:id="H1"><abbr type="siglum">H<hi
-                                                  rend="super">1</hi></abbr></handNote>
-                                            <handNote xml:id="H2"><abbr type="siglum">H<hi
-                                                  rend="super">2</hi></abbr></handNote>
-                                        </handDesc>
-                                    </physDesc>
-                                </msDesc>
-                            </witness>
-                        </listWit>
-                    
-                    
-                        <listWit>
-                            <head>Excerpts</head>
-                            <witness xml:id="ExcPar"><abbr type="siglum">Exc. Par.</abbr> =
-                                <title>Combination of Exc. Par. Prior and Exc. Par. Alter (below)</title></witness>
-                            <listWit>
-                                <witness xml:id="ExcParPrior"><abbr type="siglum">Exc. Par.
-                                        Prior</abbr> = <title>Thuaneus 7647</title> <msDesc>
-                                        <msIdentifier>
-                                            <settlement>Paris</settlement>
-                                            <repository>Bibliothèque Nationale</repository>
-                                            <idno>Thuaneus 7647</idno>
-                                        </msIdentifier>
-                                    </msDesc>
-                                </witness>
-                                <witness xml:id="ExcParAlter"><abbr type="siglum">Exc. Par.
-                                        Alter</abbr> = <title>Nostradamensis 17903</title> <msDesc>
-                                        <msIdentifier>
-                                            <settlement>Paris</settlement>
-                                            <repository>Bibliothèque Nationale</repository>
-                                            <idno>Nostradamensis 17903</idno>
-                                        </msIdentifier>
-                                    </msDesc>
-                                </witness>
-                            </listWit>
-                            <witness xml:id="ExcBon"><abbr type="siglum">Exc. Bon.</abbr> = <title>52 Busta
-                                II, n. 1</title> <msDesc>
-                                    <msIdentifier>
-                                        <settlement>Bologna</settlement>
-                                        <repository>R. Biblioteca Universitaria di
-                                            Bologna</repository>
-                                        <idno>52 Busta II, n. 1</idno>
-                                    </msIdentifier>
-                                </msDesc>
-                            </witness>
-                        </listWit>
-                    
-                        <listWit>
-                            <witness xml:id="ω" n="ω"><abbr type="siglum">ω</abbr> = <title>Consensus of
-                                all of the manuscripts</title></witness>
-                        </listWit>
-                    
-                
+                                        </title></bibl>.</p>
+                            </msContents>
+                            <physDesc>
+                                <objectDesc>
+                                    <p>Paper: 212 X 145 mm. : 183 leaves : 25 verses to a page.</p>
+                                </objectDesc>
+                                <handDesc hands="2">
+                                    <handNote xml:id="α1"><abbr type="siglum">α<hi rend="super"
+                                                >1</hi></abbr></handNote>
+                                    <handNote xml:id="α2"><abbr type="siglum">α<hi rend="super"
+                                                >2</hi></abbr></handNote>
+                                </handDesc>
+                            </physDesc>
+                            <history>
+                                <origin>
+                                    <p>Written in the <origDate notAfter="1500" notBefore="1400"
+                                            >fifteenth century</origDate>.</p>
+                                </origin>
+                            </history>
+                        </msDesc>
+                    </witness>
+                    <witness xml:id="β"><abbr type="siglum">β</abbr> = <title>Codex Ambrosianus I.26
+                            sup.</title>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Milan</settlement>
+                                <repository>Biblioteca Ambrosiana</repository>
+                                <idno>I 26 sup.</idno>
+                            </msIdentifier>
+                            <msContents>
+                                <p>It contains <bibl><author>Claudius Claudianus (Claudian)</author>
+                                        <title>De raptu Proserpinae</title></bibl> (ff. 1–30), the
+                                    poems <bibl><title>De cantu avium et sono quadrupedum</title>
+                                        (ff. 32–33)</bibl>, the <bibl><title>Bucolica</title></bibl>
+                                    of Calpurnius and Nemesianus attributed to Calpurnius alone (ff.
+                                    35–61). Folios 31 and 34 are blank. At the end I read the
+                                    following subscription: <quote xml:lang="la">die 4 augusti 1463
+                                        ego petrus feliciter peregi</quote> (<quote>On August 4,
+                                        1463, I, Peter, finished this</quote>; cf. <bibl
+                                        xml:id="Sabbadini"><author>R. Sabbadini</author>, <title>Le
+                                            scoperte dei codici latini e greci ne' secoli XIV e
+                                            XV</title>, p. 16 n. 82 <ptr
+                                            target="https://archive.org/stream/lescopertedeicod01sabbuoft"
+                                        /></bibl>).</p>
+                            </msContents>
+                            <physDesc>
+                                <objectDesc>
+                                    <p>Paper: 0.214 X 0.158 mm. : 61 leaves : 20 verses per
+                                        page.</p>
+                                </objectDesc>
+                                <handDesc hands="2">
+                                    <handNote xml:id="β1"><abbr type="siglum">β<hi rend="super"
+                                                >1</hi></abbr></handNote>
+                                    <handNote xml:id="β2"><abbr type="siglum">β<hi rend="super"
+                                                >2</hi></abbr></handNote>
+                                </handDesc>
+                            </physDesc>
+                            <history>
+                                <origin>
+                                    <p>Written in the <origDate notAfter="1500" notBefore="1400"
+                                            >fifteenth century</origDate></p>
+                                </origin>
+                            </history>
+                        </msDesc>
+                    </witness>
+                    <witness xml:id="δ"><abbr type="siglum">δ</abbr> = <title>Codex Vratislaviensis
+                            Rehdigeranus 1.4.11</title>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Vratislavia</settlement>
+                                <repository>Bibliotheca Vratislavia</repository>
+                                <idno>Rehdigeranus 1. 4. 11</idno>
+                            </msIdentifier>
+                            <msContents>
+                                <p>All eleven poems are ascribed to Calpurnius. They are preserved
+                                    on leaves 3ʳ–22ʳ. Aside from one inscription at the beginning,
+                                    no other is found in this book, and no indication of characters,
+                                    with the exception of the recto of the third leaf. Here, the
+                                    copyist put this sign (") in the margin when the character
+                                    changes.</p>
+                            </msContents>
+                            <physDesc>
+                                <objectDesc>
+                                    <p>Quarto : 115 leaves : 26 verses per page.</p>
+                                </objectDesc>
+                                <handDesc hands="2">
+                                    <handNote xml:id="δ1"><abbr type="siglum">δ<hi rend="super"
+                                                >1</hi></abbr></handNote>
+                                    <handNote xml:id="δ2"><abbr type="siglum">δ<hi rend="super"
+                                                >2</hi></abbr></handNote>
+                                </handDesc>
+                            </physDesc>
+                            <history>
+                                <origin>
+                                    <p>Written carelessly in the <origDate notAfter="1500"
+                                            notBefore="1400">fifteenth century</origDate>.</p>
+                                </origin>
+                            </history>
+                        </msDesc>
+                    </witness>
+                    <witness xml:id="γ"><abbr type="siglum">γ</abbr> = <title>Codex Vaticanus
+                            3152</title>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Vatican City</settlement>
+                                <repository>Bibliotheca Apostolica Vaticana</repository>
+                                <idno>Vaticanus 3152</idno>
+                            </msIdentifier>
+                            <msContents>
+                                <p>It contains Calpurnius' eleven eclogues (1–18ʳ), followed by
+                                    various poems by Cyprian, Lactantius, Firmianus, and
+                                    Ausonius.</p>
+                            </msContents>
+                            <physDesc>
+                                <objectDesc>
+                                    <p><material>Paper</material> : 215 X 147 mm. : . It consists of
+                                        81 leaves, of which 18ᵛ, 26–30, 51ʳ, 81ᵛ are blank. There
+                                        are 31 verses on each page</p>
+                                </objectDesc>
+                                <handDesc hands="2">
+                                    <handNote xml:id="γ1"><abbr type="siglum">γ<hi rend="super"
+                                                >1</hi></abbr></handNote>
+                                    <handNote xml:id="γ2"><abbr type="siglum">γ<hi rend="super"
+                                                >2</hi></abbr></handNote>
+                                </handDesc>
+                            </physDesc>
+                            <history>
+                                <origin>
+                                    <p>Written in the <origDate notAfter="1500" notBefore="1400"
+                                            >fifteenth century</origDate>.</p>
+                                </origin>
+                            </history>
+                        </msDesc>
+                    </witness>
+                    <witness xml:id="λ"><abbr type="siglum">λ</abbr> = <title>Codex Laurentianus
+                            bibl. Aed. 203</title>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Florence</settlement>
+                                <repository>Biblioteca Laurenziana</repository>
+                                <idno>bibl. Aed. 203</idno>
+                            </msIdentifier>
+                            <msContents>
+                                <p>Contains the eleven eclogues of Calpurnius (ff. 140–161), along
+                                    with the poems of Vergil, Statius, Caudian, Maximian and other
+                                    ancient poets. At the end it is inscribed as follows: <quote
+                                        xml:lang="la">Georgii Ant. Vespuccii liber</quote>
+                                        (<quote>This book belongs to Giorgio Antonio
+                                        Vespucci</quote>)</p>
+                            </msContents>
+                            <physDesc>
+                                <objectDesc>
+                                    <p><material>Paper</material> : 223 X 155 mm. : 188 written
+                                        leaves : 25 verses per page.</p>
+                                </objectDesc>
+                                <handDesc hands="2">
+                                    <handNote xml:id="λ1"><abbr type="siglum">λ<hi rend="super"
+                                                >1</hi></abbr></handNote>
+                                    <handNote xml:id="λ2"><abbr type="siglum">λ<hi rend="super"
+                                                >2</hi></abbr></handNote>
+                                </handDesc>
+                            </physDesc>
+                            <history>
+                                <origin>
+                                    <p>Copied in the <origDate notAfter="1500" notBefore="1400"
+                                            >fifteenth century</origDate>.</p>
+                                </origin>
+                                <provenance><p>Formerly in the Cathedral of Santa Maria del
+                                        Fiore.</p></provenance>
+                            </history>
+                        </msDesc>
+                    </witness>
+                    <witness xml:id="ε"><abbr type="siglum">ε</abbr> = <title>Codex Vaticanus
+                            Urbinas 353.</title>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Vatican City</settlement>
+                                <repository>Bibliotheca Apostolica Vaticana</repository>
+                                <idno>Urbinas 353</idno>
+                            </msIdentifier>
+                            <msContents>
+                                <p>The eleven eclogues of Calpurnius are contained on leaves
+                                    95ʳ–113ᵛ of this manuscript, along with many poems by various
+                                    authors that it is not necessary to report here. The following
+                                    subscription appears at the end of this work: <quote
+                                        xml:lang="la">Federicus De Veteranis Urbinas sub divo
+                                        Federico Urbinat, duce invictiss. romanae ecclesi. dictat.
+                                        transcripsit</quote> (<quote>Federico Veterano of Urbino, in
+                                        service to Federico di Montefeltro, Duke of Urbino,
+                                        Commander of the most indomitable Roman Church, copied this
+                                        manuscript</quote>). And a little below that: <quote
+                                        xml:lang="la">quo principe decedente utinam et ego de medio
+                                        tunc sublatus quiescerem ab instanti temporum
+                                        calamitate.</quote> (<quote>When that prince dies, may I,
+                                        too, be taken from your midst and find rest from the
+                                        approaching times of disaster</quote>).</p>
+                            </msContents>
+                            <physDesc>
+                                <objectDesc>
+                                    <p><material>Parchment</material> : 387 X 247 mm. : 309 leaves :
+                                        29 verses per page.</p>
+                                    <p><bibl xml:id="Curcio"><author>Gaetano Curcio</author>
+                                                (<title>Poeti Latini Minori</title> vol. 2, pt. 1,
+                                            p. VI ff.) <ptr
+                                                target="https://archive.org/details/poetilatinimino03curcgoog"
+                                            /></bibl> has meticulously described the outer
+                                        appearance of this manuscript.</p>
+                                </objectDesc>
+                                <handDesc hands="2">
+                                    <handNote xml:id="ε1"><abbr type="siglum">ε<hi rend="super"
+                                                >1</hi></abbr></handNote>
+                                    <handNote xml:id="ε2"><abbr type="siglum">ε<hi rend="super"
+                                                >2</hi></abbr></handNote>
+                                </handDesc>
+                            </physDesc>
+                            <history>
+                                <origin>
+                                    <p>Most handsomely written in the <origDate notAfter="1500"
+                                            notBefore="1400">fifteenth century</origDate>.</p>
+                                </origin>
+                            </history>
+                        </msDesc>
+                    </witness>
+                    <witness xml:id="μ"><abbr type="siglum">μ</abbr> = <title>Codex Vaticanus
+                            2110</title>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Vatican City</settlement>
+                                <repository>Bibliotheca Apostolica Vaticana</repository>
+                                <idno>Vaticanus 2110</idno>
+                            </msIdentifier>
+                            <msContents>
+                                <p>Contents: a Latin translation of
+                                            <bibl><author>Aristotle's</author>
+                                        <title>Magna Moralia</title> (ff. 1–56)</bibl>,
+                                            <bibl><author>Cicero's</author>
+                                        <title>Topica</title> (ff. 57–65ʳ)</bibl>,
+                                            <bibl><author>Boethius'</author>
+                                        <title>In Ciceronis Topica</title> (ff. 65ʳ–67ᵛ)</bibl>,
+                                    Calpurnius' eleven eclogues (ff. 67ᵛ–80), <bibl><author>St. John
+                                            Chysostom's</author>
+                                        <title>De dignitate sacerdotali dialogus</title> (ff.
+                                        81–120ʳ)</bibl>, and an excerpt from the life of St. John
+                                    Crysostom (ff. 120ᵛ–128).</p>
+                            </msContents>
+                            <physDesc>
+                                <objectDesc>
+                                    <p><material>Parchment</material> : 284 X 216 mm. : 128 leaves.
+                                        Each page has 40, 41, or 43 verses.</p>
+                                </objectDesc>
+                                <handDesc hands="2">
+                                    <handNote xml:id="μ1"><abbr type="siglum">μ<hi rend="super"
+                                                >1</hi></abbr></handNote>
+                                    <handNote xml:id="μ2"><abbr type="siglum">μ<hi rend="super"
+                                                >2</hi></abbr></handNote>
+                                </handDesc>
+                            </physDesc>
+                            <history>
+                                <origin>
+                                    <p>Most handsomely written in the <origDate notAfter="1500"
+                                            notBefore="1400">fifteenth century</origDate> under Pope
+                                        Nicholas V.</p>
+                                </origin>
+                            </history>
+                        </msDesc>
+                    </witness>
+                    <witness xml:id="κ"><abbr type="siglum">κ</abbr> = <title>Codex Riccardianus
+                            724</title>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Florence</settlement>
+                                <repository>Biblioteca Riccardiana</repository>
+                                <idno>724</idno>
+                                <altIdentifier>
+                                    <idno>L IIII 10</idno>
+                                </altIdentifier>
+                            </msIdentifier>
+                            <msContents>
+                                <p>Contains the eleven eclogues of Calpurnius (ff. 1–25ʳ), which
+                                    some removed as the verses of other writers.</p>
+                            </msContents>
+                            <physDesc>
+                                <objectDesc>
+                                    <p><material>Parchment</material> : 203 X 136 mm. : written in
+                                        the fourteenth century. It has 29 leaves with twenty-two
+                                        verses to a page.</p>
+                                </objectDesc>
+                                <handDesc hands="2">
+                                    <handNote xml:id="κ1"><abbr type="siglum">κ<hi rend="super"
+                                                >1</hi></abbr></handNote>
+                                    <handNote xml:id="κ2"><abbr type="siglum">κ<hi rend="super"
+                                                >2</hi></abbr></handNote>
+                                </handDesc>
+                            </physDesc>
+                            <history>
+                                <origin>
+                                    <p>Written in the <origDate notAfter="1500" notBefore="1400"
+                                            >fourteenth century</origDate>.</p>
+                                </origin>
+                            </history>
+                        </msDesc>
+                    </witness>
+                    <witness xml:id="φ"><abbr type="siglum">φ</abbr> = <title>Codex Vaticanus
+                            Ottobonianus 1466</title>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Vatican City</settlement>
+                                <repository>Bibliotheca Apostolica Vaticana</repository>
+                                <idno>Ottobonianus 1466</idno>
+                                <altIdentifier>
+                                    <idno>Altaempsianus</idno>
+                                </altIdentifier>
+                            </msIdentifier>
+                            <msContents>
+                                <p>Contains the eleven eclogues of Calpurnius (ff. 1–24ʳ); various
+                                    poems follow.</p>
+                            </msContents>
+                            <physDesc>
+                                <objectDesc>
+                                    <p><material>Paper</material> : 198 X 132 mm. : 51 leaves : 24
+                                        verses per page.</p>
+                                </objectDesc>
+                                <handDesc hands="2">
+                                    <handNote xml:id="φ1"><abbr type="siglum">φ<hi rend="super"
+                                                >1</hi></abbr></handNote>
+                                    <handNote xml:id="φ2"><abbr type="siglum">φ<hi rend="super"
+                                                >2</hi></abbr></handNote>
+                                </handDesc>
+                            </physDesc>
+                            <history>
+                                <origin>
+                                    <p>Written in the <origDate notAfter="1500" notBefore="1400"
+                                            >fifteenth century</origDate>.</p>
+                                </origin>
+                                <provenance><p>Formerly in the collection of the Dukes of the
+                                        Altaemps and Galesi.</p></provenance>
+                            </history>
+                        </msDesc>
+                    </witness>
+                    <witness xml:id="χ"><abbr type="siglum">χ</abbr> = <title>Codex Vaticanus
+                            Reginensis 1759</title>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Vatican City</settlement>
+                                <repository>Bibliotheca Apostolica Vaticana</repository>
+                                <idno>Reginensis 1759</idno>
+                            </msIdentifier>
+                            <msContents>
+                                <p>Contains only the eleven eclogues of Calpurnius.</p>
+                            </msContents>
+                            <physDesc>
+                                <objectDesc>
+                                    <p><material>Parchment</material>, 198 X 123 mm : 22 leaves : 25
+                                        verses per page.</p>
+                                </objectDesc>
+                                <handDesc hands="2">
+                                    <handNote xml:id="χ1"><abbr type="siglum">χ<hi rend="super"
+                                                >1</hi></abbr></handNote>
+                                    <handNote xml:id="χ2"><abbr type="siglum">χ<hi rend="super"
+                                                >2</hi></abbr></handNote>
+                                </handDesc>
+                            </physDesc>
+                            <history>
+                                <origin>
+                                    <p>The book was written in the <origDate notAfter="1500"
+                                            notBefore="1400">fifteenth century</origDate>.</p>
+                                </origin>
+                                <provenance><p>Formerly in the library of the Convento di San
+                                        Silvestro al Quirinale.</p></provenance>
+                            </history>
+                        </msDesc>
+                    </witness>
+                    <witness xml:id="ν"><abbr type="siglum">ν</abbr> = <title>Codex Laurentianus pl.
+                            37.14</title>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Florence</settlement>
+                                <repository>Biblioteca Laurenziana</repository>
+                                <idno>plut. 37.14</idno>
+                            </msIdentifier>
+                            <msContents>
+                                <p><bibl><author>Silius Italicus</author>
+                                        <title>Punica</title></bibl>,
+                                            <bibl><author>Calpurnius</author>
+                                        <title>Eclogae XI</title> (ff. 177ᵛ–193ᵛ)</bibl>,
+                                            <bibl><author>Hesiod</author>
+                                        <title>Opera et Dies</title> in a Latin translation by N.
+                                        Valla</bibl>, <bibl><author>Claudian</author>
+                                        <title>De raptu Proserpinae</title></bibl></p>
+                            </msContents>
+                            <physDesc>
+                                <objectDesc>
+                                    <p><material>Parchment</material> : 323 X 195 mm. : 224 written
+                                        leaves : 35 verses per page.</p>
+                                </objectDesc>
+                                <handDesc hands="2">
+                                    <handNote xml:id="ν1"><abbr type="siglum">ν<hi rend="super"
+                                                >1</hi></abbr></handNote>
+                                    <handNote xml:id="ν2"><abbr type="siglum">ν<hi rend="super"
+                                                >2</hi></abbr></handNote>
+                                </handDesc>
+                            </physDesc>
+                            <history>
+                                <origin>
+                                    <p>Most handsomely written in the <origDate notAfter="1500"
+                                            notBefore="1400">fifteenth century</origDate>.</p>
+                                </origin>
+                            </history>
+                        </msDesc>
+                    </witness>
+                    <witness xml:id="π"><abbr type="siglum">π</abbr> = <title>Codex Vaticanus
+                            Palatinus 1652</title>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Vatican City</settlement>
+                                <repository>Bibliotheca Apostolica Vaticana</repository>
+                                <idno>1652</idno>
+                            </msIdentifier>
+                            <msContents>
+                                <p>It contains Tibullus (ff. 1–28ʳ), Catullus (ff. 28ᵛ–60ʳ),
+                                    Calpurnius' eleven eclogues (ff. 60ʳ–74ᵛ), Propertius (ff.
+                                    74ᵛ–129). The following is written at the end of the work (cfr.
+                                        <ref target="#Sabbadini">Sabbadini</ref>): <quote
+                                        xml:lang="la">a M' petro montopolitano die XXI februarii
+                                        1460</quote> (<quote>By the hand of master Petrus
+                                        Montopolitanus on February 21, 1460</quote>). That is
+                                    followed by two hexameters written on the death of Giannozzo
+                                    Manetti.</p>
+                            </msContents>
+                            <physDesc>
+                                <objectDesc>
+                                    <p><material>Parchment</material> : 267 X 159 mm. : 129 written
+                                        leaves : 37 verses per page.</p>
+                                </objectDesc>
+                                <handDesc hands="2">
+                                    <handNote xml:id="π1"><abbr type="siglum">π<hi rend="super"
+                                                >1</hi></abbr></handNote>
+                                    <handNote xml:id="π2"><abbr type="siglum">π<hi rend="super"
+                                                >2</hi></abbr></handNote>
+                                </handDesc>
+                            </physDesc>
+                            <history>
+                                <origin>
+                                    <p>Copied most beautifully in the <origDate notAfter="1500"
+                                            notBefore="1400">fifteenth century</origDate>.</p>
+                                </origin>
+                            </history>
+                        </msDesc>
+                    </witness>
+                    <witness xml:id="η"><abbr type="siglum">η</abbr> = <title>Codex Vratislaviensis
+                            Rehdigeranus 1.4.10</title>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Vratislavia</settlement>
+                                <repository>Bibliotheca Rehdigeranus</repository>
+                                <idno>1.4.10</idno>
+                            </msIdentifier>
+                            <msContents>
+                                <p>Contains all eleven eclogues assigned to Calpurnius. They appear
+                                    on leave 3ʳ–27ʳ. Additionally, many of the minor poems of Vergil
+                                    and other others (some more recent) are written in it.</p>
+                            </msContents>
+                            <physDesc>
+                                <objectDesc>
+                                    <p><material>Paper and parchment</material> : quarto : 130
+                                        leaves : 22 or 23 verses per page.</p>
+                                    <p>Titles and signs for characters are decorated with red
+                                        ink.</p>
+                                </objectDesc>
+                                <handDesc hands="2">
+                                    <handNote xml:id="η1"><abbr type="siglum">η<hi rend="super"
+                                                >1</hi></abbr></handNote>
+                                    <handNote xml:id="η2"><abbr type="siglum">η<hi rend="super"
+                                                >2</hi></abbr></handNote>
+                                </handDesc>
+                            </physDesc>
+                            <history>
+                                <origin>
+                                    <p>Beautifully written in the <origDate notAfter="1500"
+                                            notBefore="1400">fifteenth century</origDate>.</p>
+                                </origin>
+                            </history>
+                        </msDesc>
+                    </witness>
+                    <witness xml:id="ρ"><abbr type="siglum">ρ</abbr> = <title>Codex Riccardianus
+                            636</title>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Florence</settlement>
+                                <repository>Biblioteca Riccardiana</repository>
+                                <idno>636</idno>
+                                <altIdentifier>
+                                    <idno>L IIII 14</idno>
+                                </altIdentifier>
+                            </msIdentifier>
+                            <msContents>
+                                <p>The eleven eclogues of Calpurnius are contained in this
+                                    manuscript (ff. 25–45), along with other minor works of various
+                                    authors that are not worth mentioning here, since the poems of
+                                    Calpurnius, as Schenkl knew, were formerly separated from the
+                                    rest.</p>
+                            </msContents>
+                            <physDesc>
+                                <objectDesc>
+                                    <p><material>Parchment</material> : 225 X 150 mm. : 126 leaves :
+                                        26 verses per page.</p>
+                                </objectDesc>
+                                <handDesc hands="2">
+                                    <handNote xml:id="ρ1"><abbr type="siglum">ρ<hi rend="super"
+                                                >1</hi></abbr></handNote>
+                                    <handNote xml:id="ρ2"><abbr type="siglum">ρ<hi rend="super"
+                                                >2</hi></abbr>: Various hands that are
+                                        indistinguishable from each other.</handNote>
+                                    <!-- Note that this should probably be changed to "recc" -->
+                                    <handNote sameAs="#A">The hand of Niccolò Angeli, recording
+                                        variants from the lost Codex Germanicus (see <hi rend="bold"
+                                                ><ref target="#A">A</ref></hi> below).</handNote>
+                                </handDesc>
+                            </physDesc>
+                            <history>
+                                <origin>
+                                    <p>Written in the <origDate notAfter="1500" notBefore="1400"
+                                            >fifteenth century</origDate>.</p>
+                                </origin>
+                            </history>
+                        </msDesc>
+                    </witness>
+                    <witness xml:id="θ"><abbr type="siglum">θ</abbr> = <title>Codex Gothanus
+                            55</title>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Gotha</settlement>
+                                <repository>Forschungsbibliothek</repository>
+                                <idno>55</idno>
+                            </msIdentifier>
+                            <msContents>
+                                <p>After Vergil's <bibl><title>Bucolics</title></bibl>,
+                                            <bibl><title>Georgics</title></bibl>, and
+                                            <bibl><title>Aeneid</title></bibl>, it has the seven
+                                    eclogues of Calpurnius. After an empty space on the last part of
+                                    the page, the copyist has written the following subscription:
+                                        <quote xml:lang="la">Finis: haec quae de Calphurnio
+                                        inveniuntur</quote> (<quote>The end. These are the poems
+                                        that were composed by Calpurnius</quote>).</p>
+                            </msContents>
+                            <physDesc>
+                                <objectDesc>
+                                    <p><material>Parchment</material> : octavo: damaged, or copied
+                                        from a damaged manuscript, since the seventh eclogue ends at
+                                        verse 65.</p>
+                                </objectDesc>
+                            </physDesc>
+                            <history>
+                                <origin>
+                                    <origDate notAfter="1500" notBefore="1400">XV</origDate>
+                                </origin>
+                            </history>
+                        </msDesc>
+                    </witness>
+                    <witness xml:id="ζ"><abbr type="siglum">ζ</abbr> = <title>Codex Riccardianus
+                            974</title>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Florence</settlement>
+                                <repository>Biblioteca Riccardiana</repository>
+                                <idno>974</idno>
+                            </msIdentifier>
+                            <msContents>
+                                <p>Among other minor works of various authors, it contains only the
+                                    second eclogue by Calpurnius (ff. 3–5), and that under the title
+                                    of the first eclogue.</p>
+                            </msContents>
+                            <physDesc>
+                                <objectDesc>
+                                    <p><material>Paper</material> : 208 X 142 mm. : 74 leaves.</p>
+                                </objectDesc>
+                                <handDesc>
+                                    <handNote xml:id="ζ1"><abbr type="siglum">ζ<hi rend="super"
+                                                >1</hi></abbr></handNote>
+                                    <handNote xml:id="ζ2"><abbr type="siglum">ζ<hi rend="super"
+                                                >2</hi></abbr></handNote>
+                                </handDesc>
+                            </physDesc>
+                            <history>
+                                <origin>
+                                    <p>Written in the <origDate notAfter="1500" notBefore="1400"
+                                            >fifteenth century</origDate>.</p>
+                                </origin>
+                            </history>
+                        </msDesc>
+                    </witness>
+                </listWit>
+                <!-- End Second Family -->
+
+
+                <listWit>
+                    <head>Third family</head>
+                    <witness xml:id="P"><abbr type="siglum">P</abbr> = <title>Codex Parisinus
+                            8049</title>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Paris</settlement>
+                                <repository>Bibliothèque Nationale</repository>
+                                <idno>8049</idno>
+                            </msIdentifier>
+                            <msContents>
+                                <p>Bound in three parts: I. Introduction on Satire, Perseus; II. end
+                                    of the 11th century, according to Kelius, end of the 12th
+                                    century, according to Froehnerus, the end of the second book of
+                                    the <bibl><title>De Divinatione</title> by
+                                            <author>Cicero</author></bibl>. On the verso of leaf 17:
+                                        <quote xml:lang="la">Marci Tullii de divinacione liber IIᵘˢ
+                                        explicit. Petronii arbitri satirarum liber incipit</quote>.
+                                    On the recto of leaf 25: <quote xml:lang="la">explicit
+                                        Petronius. incipit egologa Calpurnii (nondum solis equos I
+                                        1—quicquid id est silvestre etc. IIII 12)</quote>. III. 12th
+                                    century. Seneca's proverbs.</p>
+                            </msContents>
+                            <physDesc>
+                                <objectDesc>
+                                    <p>Parchment : quarto</p>
+                                </objectDesc>
+                                <handDesc>
+                                    <handNote xml:id="P1"><abbr type="siglum">P<hi rend="super"
+                                                >1</hi></abbr></handNote>
+                                    <handNote xml:id="P2"><abbr type="siglum">P<hi rend="super"
+                                                >2</hi></abbr></handNote>
+                                </handDesc>
+                            </physDesc>
+                            <history>
+                                <origin>
+                                    <origDate notAfter="1200" notBefore="1000">XI–XII</origDate>
+                                </origin>
+                            </history>
+                        </msDesc>
+                    </witness>
+                </listWit>
+
+
+                <listWit>
+                    <head>Other codices</head>
+                    <witness xml:id="A" corresp="#ρ"><abbr type="siglum">A</abbr> = <title>cod.
+                            Germanicus Th. Ugoleti</title> = Marginalia copied into <ref target="#ρ"
+                            >cod. Riccard. 636</ref> by N. Angelius (Niccolò Angeli).</witness>
+                    <witness xml:id="H"><abbr type="siglum">H</abbr> = <title>Readings in cod.
+                            Harleiani 2578 that appear to go back to the manuscript of Boccaccio or
+                            Th. Ugoletus (Taddeo Ugoleto)</title>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>London</settlement>
+                                <repository>British Library</repository>
+                                <idno>2578</idno>
+                                <altIdentifier>
+                                    <idno>Codex Harleianus</idno>
+                                </altIdentifier>
+                            </msIdentifier>
+                            <physDesc>
+                                <handDesc hands="2">
+                                    <handNote xml:id="H1"><abbr type="siglum">H<hi rend="super"
+                                                >1</hi></abbr></handNote>
+                                    <handNote xml:id="H2"><abbr type="siglum">H<hi rend="super"
+                                                >2</hi></abbr></handNote>
+                                </handDesc>
+                            </physDesc>
+                        </msDesc>
+                    </witness>
+                </listWit>
+
+
+                <listWit>
+                    <head>Excerpts</head>
+                    <witness xml:id="ExcPar"><abbr type="siglum">Exc. Par.</abbr> =
+                            <title>Combination of Exc. Par. Prior and Exc. Par. Alter
+                            (below)</title></witness>
+                    <listWit>
+                        <witness xml:id="ExcParPrior"><abbr type="siglum">Exc. Par. Prior</abbr> =
+                                <title>Thuaneus 7647</title>
+                            <msDesc>
+                                <msIdentifier>
+                                    <settlement>Paris</settlement>
+                                    <repository>Bibliothèque Nationale</repository>
+                                    <idno>Thuaneus 7647</idno>
+                                </msIdentifier>
+                            </msDesc>
+                        </witness>
+                        <witness xml:id="ExcParAlter"><abbr type="siglum">Exc. Par. Alter</abbr> =
+                                <title>Nostradamensis 17903</title>
+                            <msDesc>
+                                <msIdentifier>
+                                    <settlement>Paris</settlement>
+                                    <repository>Bibliothèque Nationale</repository>
+                                    <idno>Nostradamensis 17903</idno>
+                                </msIdentifier>
+                            </msDesc>
+                        </witness>
+                    </listWit>
+                    <witness xml:id="ExcBon"><abbr type="siglum">Exc. Bon.</abbr> = <title>52 Busta
+                            II, n. 1</title>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Bologna</settlement>
+                                <repository>R. Biblioteca Universitaria di Bologna</repository>
+                                <idno>52 Busta II, n. 1</idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                </listWit>
+
+                <listWit>
+                    <witness xml:id="ω" n="ω"><abbr type="siglum">ω</abbr> = <title>Consensus of all
+                            of the manuscripts</title></witness>
+                </listWit>
+
+
 
                 <!-- Witnesses: Early editions -->
 
@@ -2894,66 +2893,59 @@
                     <head>Early Editions</head>
                     <witness xml:id="r">
                         <abbr type="siglum">r</abbr> =
-                        <bibl><editor><name>Anonymous</name></editor>. <title>editio
-                            Romana</title>. <pubPlace>[Romae]</pubPlace>:
-                            <publisher>Schweynheim et Pannartz</publisher>,
-                            <date>1471</date></bibl>.</witness>
+                            <bibl><editor><name>Anonymous</name></editor>. <title>editio
+                                Romana</title>. <pubPlace>[Romae]</pubPlace>: <publisher>Schweynheim
+                                et Pannartz</publisher>, <date>1471</date></bibl>.</witness>
                     <witness xml:id="e"><abbr type="siglum">e</abbr> =
-                        <bibl><editor><name>Anonymous</name>.
-                        </editor><title>editio Veneta</title>.
-                            <pubPlace>[Venetiis]</pubPlace>: <publisher>Ausonius et
-                                Giradinus</publisher>, <date>1472</date></bibl>.</witness>
-                  <witness xml:id="d"><abbr type="siglum">d</abbr> = utriusque edit. Daventr.
-                    consensus
-                    <listWit>
-                      <witness xml:id="d1"><abbr type="siglum">d<hi rend="super">1</hi></abbr> =
-                        <bibl><editor>Anonymous</editor>. <title>editio Daventriensis
-                          prior</title>. <pubPlace>[Daventriae]</pubPlace>:
-                          <publisher>apud R. Paffraet</publisher>,
-                          <date>1488</date></bibl>. URL: <ptr
-                            target="http://gateway.proquest.com/openurl?url_ver=Z39.88-2004&amp;res_dat=xri:eurobo:&amp;rft_dat=xri:eurobo:rec:ned-kbn-all-00001955-001"
-                          />.</witness>
-                      <witness xml:id="d2">
-                        <abbr type="siglum">d<hi rend="super">2</hi></abbr> =
-                        <bibl><editor>Anonymous</editor>. <title>editio Daventriensis
-                          posterior</title>.
-                          <pubPlace>[Daventriae]</pubPlace>: <publisher>apud J. de
-                            Breda</publisher>, <date>1491</date></bibl>. URL: <ptr
-                              target="http://daten.digitale-sammlungen.de/~db/0008/bsb00080128/images/"
-                            />. </witness>
-                    </listWit>
-                  </witness>
-                    <witness xml:id="u"><abbr type="siglum">u</abbr> =
-                        <bibl><editor>Anonymous</editor>. <title>editio Ang.
-                            Ugoleti</title>. <pubPlace>Parmae</pubPlace>:
-                            <publisher>Angelus Ugoletus</publisher>,
-                            <date>1492</date></bibl>.</witness>
-                    <witness xml:id="c"><abbr type="siglum">c</abbr> =
-                        <bibl><editor>Anonymous</editor>. <title>editio Coloniensis
-                            (Buccolica canori poetae Titi Calphurnii Siculi undecim
-                            Aeglogis iucunditer decantata)</title>.
-                            <pubPlace>Coloniae</pubPlace>: <publisher>[Henricus
-                                Quintell]</publisher>, <date>1505(?)</date></bibl>. URL: <ptr
-                                    target="http://digitale.bibliothek.uni-halle.de/vd16/content/titleinfo/1000626"
+                                    <bibl><editor><name>Anonymous</name>. </editor><title>editio
+                                Veneta</title>. <pubPlace>[Venetiis]</pubPlace>: <publisher>Ausonius
+                                et Giradinus</publisher>, <date>1472</date></bibl>.</witness>
+                    <witness xml:id="d"><abbr type="siglum">d</abbr> = utriusque edit. Daventr.
+                        consensus <listWit>
+                            <witness xml:id="d1"><abbr type="siglum">d<hi rend="super">1</hi></abbr>
+                                = <bibl><editor>Anonymous</editor>. <title>editio Daventriensis
+                                        prior</title>. <pubPlace>[Daventriae]</pubPlace>:
+                                        <publisher>apud R. Paffraet</publisher>,
+                                    <date>1488</date></bibl>. URL: <ptr
+                                    target="http://gateway.proquest.com/openurl?url_ver=Z39.88-2004&amp;res_dat=xri:eurobo:&amp;rft_dat=xri:eurobo:rec:ned-kbn-all-00001955-001"
                                 />.</witness>
-                    <witness xml:id="Nordh."><abbr type="siglum">Nordh.</abbr> =
-                        <bibl><editor/>. <title>ed. Nordheimensis</title>.
-                            <pubPlace>[Nordheim]</pubPlace>: <publisher>s.n.</publisher>,
-                            <date>s.d.</date></bibl>.</witness>
+                            <witness xml:id="d2">
+                                <abbr type="siglum">d<hi rend="super">2</hi></abbr> =
+                                        <bibl><editor>Anonymous</editor>. <title>editio
+                                        Daventriensis posterior</title>.
+                                        <pubPlace>[Daventriae]</pubPlace>: <publisher>apud J. de
+                                        Breda</publisher>, <date>1491</date></bibl>. URL: <ptr
+                                    target="http://daten.digitale-sammlungen.de/~db/0008/bsb00080128/images/"
+                                />. </witness>
+                        </listWit>
+                    </witness>
+                    <witness xml:id="u"><abbr type="siglum">u</abbr> =
+                                <bibl><editor>Anonymous</editor>. <title>editio Ang.
+                            Ugoleti</title>. <pubPlace>Parmae</pubPlace>: <publisher>Angelus
+                                Ugoletus</publisher>, <date>1492</date></bibl>.</witness>
+                    <witness xml:id="c"><abbr type="siglum">c</abbr> =
+                                <bibl><editor>Anonymous</editor>. <title>editio Coloniensis
+                                (Buccolica canori poetae Titi Calphurnii Siculi undecim Aeglogis
+                                iucunditer decantata)</title>. <pubPlace>Coloniae</pubPlace>:
+                                <publisher>[Henricus Quintell]</publisher>,
+                            <date>1505(?)</date></bibl>. URL: <ptr
+                            target="http://digitale.bibliothek.uni-halle.de/vd16/content/titleinfo/1000626"
+                        />.</witness>
+                    <witness xml:id="Nordh."><abbr type="siglum">Nordh.</abbr> = <bibl><editor/>.
+                                <title>ed. Nordheimensis</title>. <pubPlace>[Nordheim]</pubPlace>:
+                                <publisher>s.n.</publisher>, <date>s.d.</date></bibl>.</witness>
                     <witness xml:id="s"><abbr type="siglum">s</abbr> = <bibl><title>editio
-                        Ascensiana</title> = <editor>Badius, Josse
-                            (“Ascensius”)</editor>. <title>Buccolica, cum adnotatione
-                                Ascensiana</title>. <pubPlace>Parhisiis, in vico
-                                    Maturinorum</pubPlace>: <publisher>a Durando
-                                        Gerlerio</publisher>, <date>1503</date></bibl>. URL: <ptr
-                                            target="http://gallica.bnf.fr/ark:/12148/bpt6k841539v"
-                                        />.</witness>
+                                Ascensiana</title> = <editor>Badius, Josse (“Ascensius”)</editor>.
+                                <title>Buccolica, cum adnotatione Ascensiana</title>.
+                                <pubPlace>Parhisiis, in vico Maturinorum</pubPlace>: <publisher>a
+                                Durando Gerlerio</publisher>, <date>1503</date></bibl>. URL: <ptr
+                            target="http://gallica.bnf.fr/ark:/12148/bpt6k841539v"/>.</witness>
                     <witness xml:id="b"><abbr type="siglum">b</abbr> = <bibl><title>editio
-                        Bononiensis</title> = <editor>Guidalottus Bononiensis,
-                            Diomedes</editor>. <title>Calpurnii et Nemesiani Poetarum
-                                Buccolicum Carmen</title>. <pubPlace>Bononiae</pubPlace>:
-                        <publisher>per Caligulam Bazalerium</publisher>,
-                        <date>1504</date></bibl>. URL: <ptr
+                                Bononiensis</title> = <editor>Guidalottus Bononiensis,
+                                Diomedes</editor>. <title>Calpurnii et Nemesiani Poetarum Buccolicum
+                                Carmen</title>. <pubPlace>Bononiae</pubPlace>: <publisher>per
+                                Caligulam Bazalerium</publisher>, <date>1504</date></bibl>. URL:
+                            <ptr
                             target="https://books.google.com/books?id=B1RrV7ciP6gC&amp;pg=PT3#v=onepage&amp;q&amp;f=false"
                         />.</witness>
                 </listWit>
@@ -2968,7 +2960,7 @@
                                 <editor>Anonymous</editor>. <title>editio Florentina prior</title>.
                                 <pubPlace>Florentiae</pubPlace>: <publisher>Philippi de
                                 Giunta</publisher>, <date>1504</date>. URL: <ptr
-                                    target="https://books.google.com/books?id=LVJmAAAAcAAJ&amp;pg=PP7#v=onepage&amp;q&amp;f=false"
+                                target="https://books.google.com/books?id=LVJmAAAAcAAJ&amp;pg=PP7#v=onepage&amp;q&amp;f=false"
                             /></bibl>
                         <bibl xml:id="i2"><abbr type="siglum">i<hi rend="super">2</hi></abbr> =
                                 <editor>Anonymous</editor>. <title>editio Florentina
@@ -3046,7 +3038,7 @@
                             et Bucolici Poetae Latini: Gratius, Nemesianus, Calpurnius</title>.
                             <pubPlace>Hanoviae</pubPlace>: <publisher>In Bibliopolio
                             Willieriano</publisher>, <date>1613</date>. URL: <ptr
-                                target="https://books.google.com/books?id=SEVXAAAAcAAJ&amp;pg=PP7#v=onepage&amp;q&amp;f=false"
+                            target="https://books.google.com/books?id=SEVXAAAAcAAJ&amp;pg=PP7#v=onepage&amp;q&amp;f=false"
                         /></bibl>
                     <bibl xml:id="Ulit."><abbr type="siglum">Ulit.</abbr> = <title>ed.
                             Ulitii</title> = <editor>Ulitius, Ianus</editor>. <title>Venatio
@@ -3117,7 +3109,7 @@
                                 >2</hi></abbr> = <editor>Schenkl, Henricus</editor>. <title>T.
                                 Calpurni Siculi Bucolica</title> in <ref target="Postgate1905"
                                 >Postgate 1905</ref>: 197–205. URL: <ptr
-                                    target="https://books.google.com/books?id=_DMOAAAAYAAJ&amp;pg=RA1-PA194#v=onepage&amp;q&amp;f=false"
+                                target="https://books.google.com/books?id=_DMOAAAAYAAJ&amp;pg=RA1-PA194#v=onepage&amp;q&amp;f=false"
                             /></bibl>
                     </listBibl>
                     <bibl xml:id="Keene"><abbr type="siglum">Keene</abbr> = <editor>Keene, Charles
@@ -3248,7 +3240,7 @@
                         <title level="j">American Journal of Philology</title>
                         <biblScope unit="volume">7</biblScope> (<date>1886</date>): <biblScope
                             unit="page">88–91</biblScope>. URL: <ptr
-                                target="https://books.google.com/books?id=tl4bu49MEyIC&amp;pg=PA88#v=onepage&amp;q&amp;f=false"
+                            target="https://books.google.com/books?id=tl4bu49MEyIC&amp;pg=PA88#v=onepage&amp;q&amp;f=false"
                         />.</bibl>
 
                     <bibl xml:id="Erasmus"><abbr type="siglum">Erasmus</abbr> = <author>Erasmus,
@@ -3581,7 +3573,8 @@
 
                     <person xml:id="DOrville">
                         <persName ref="http://viaf.org/viaf/24945908">
-                            <abbr type="siglum">D'Orville</abbr> = <forename>Jacques-Philippe</forename>
+                            <abbr type="siglum">D'Orville</abbr> =
+                                <forename>Jacques-Philippe</forename>
                             <surname>d'Orville</surname>
                         </persName>
                         <note>Cited in <ref target="#Burman1731">Burman 1731</ref></note>
@@ -3885,12 +3878,11 @@
                         </label>
                         <l n="1">
                             <app ana="#orthographical">
-                                <lem xml:id="lem1.1nondum">Nondum</lem>
-                                <rdgGrp type="anteCorr">
-                                    <rdg wit="#G" varSeq="1" xml:id="rdg1.1nundum">nundum</rdg>
-                                    <rdg wit="#G1" varSeq="2" copyOf="#lem1.1nondum"/>
-                                </rdgGrp>
-                                <rdg wit="#P" copyOf="#rdg1.1nundum"/>
+                                <lem xml:id="lem1.1nondum">Nondum</lem>                                
+                                    <rdg wit="#G #P" xml:id="rdg1.1nundum">nundum</rdg>
+                                    <rdg wit="#G1" xml:id="rdg1.1nondum" copyOf="#lem1.1nondum"/>
+                                <witDetail wit="#G" corresp="rdg1.1nondum" target="rdg1.1nundum" type="correction-original"/>
+                                <witDetail wit="#G1" corresp="rdg1.1nundum" target="rdg1.1nondum" type="correction-altered"/>
                             </app> Solis equos <app>
                                 <lem wit="#N" source="#Heins. #Schenkl">declinis</lem>
                                 <rdg wit="#G #V" source="#edd." ana="#lexical">declivis</rdg>
@@ -3906,19 +3898,22 @@
                                 <rdg wit="#P">praeda</rdg>
                             </app> racemis</l>
                         <app type="lineOmission">
-                            <lem><l n="3">et spument rauco ferventia <app ana="#error">
+                            <lem>
+                                <l n="3">et spument rauco ferventia <app>
                                         <lem>musta</lem>
                                         <rdg wit="#P">iniusta</rdg>
-                                    </app> susurro.</l></lem>
+                                    </app> susurro.
+                                </l>
+                            </lem>
                             <rdg wit="#κ #χ" ana="#subtractive"/>
                         </app>
-                        <l n="4"><!-- Need to figure out what to do with witnesses that vary regarding who is speaking. <app>
+                    <app>
                         <lem/>
                         <rdg wit="#V" xml:id="lem1.4.C">
                             <label type="speaker">C.</label></rdg>
-                        <witDetail wit="#V" target="#lem1.4.C">V plerique, edd. fere omnes ante <ref
-                                target="#Glaeser">Glaeser</ref></witDetail>
-                    </app> -->cernis
+                        <witDetail wit="#V" target="#lem1.4.C">V plerique, edd. fere omnes ante <ref target="#Glaeser">Glaeser</ref></witDetail>
+                    </app>
+                        <l n="4">cernis
                             ut ecce pater quas tradidit, <app ana="#orthographical">
                                 <lem source="#Heins. #Maehly #Baehr. #Schenkl" type="#emendation">Ornyte</lem>
                                 <rdg wit="#N #G #V" source="#edd.">ornite</rdg>
@@ -4021,7 +4016,10 @@
                             </app> fagus aquas radice sub ipsa</l>
                         <l n="12"><app ana="#morphological">
                                 <lem xml:id="lem1.12protegit">protegit</lem>
-                                <rdgGrp type="anteCorr">
+                                
+                            <!-- Start here -->
+                            
+                            <rdgGrp type="anteCorr">
                                     <rdg wit="#G" varSeq="1">protegis</rdg>
                                     <rdg wit="#G" varSeq="2" copyOf="#lem1.12protegit"/>
                                 </rdgGrp>
