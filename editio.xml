@@ -41,6 +41,9 @@
         </fileDesc>
     </teiHeader>
     <text>
+        <!-- Things to decide:
+            1. Parentheses in <witDetail>? Or will those be inserted automatically? -->
+
         <front xml:id="front">
             <div type="introduction" xml:lang="en">
                 <div type="section" n="1">
@@ -4420,15 +4423,9 @@
                             <rdg wit="#N" xml:id="rdg1.40-insidia">insidia</rdg>
                             <witDetail wit="#N" target="#rdg1.40-insidia" type="correction-original">corr. <ref target="#N2">N<hi rend="superscript">2</hi></ref></witDetail>
                         </app> praedator <app ana="#orthographical">
-                                <lem xml:id="lem1.40ovilibus">ovilibus</lem>
-                                
-                            <!-- Start here, after discussing with Hugh -->
-                            
-                            
-                            <rdgGrp type="anteCorr">
-                                    <rdg wit="#N" varSeq="1">ovillibus</rdg>
-                                    <rdg wit="#N1" varSeq="2" copyOf="#lem1.40ovilibus"/>
-                                </rdgGrp>
+                            <lem xml:id="lem1.40ovilibus">ovilibus</lem>
+                            <rdg wit="#N" xml:id="rdg1.40-ovillibus">ovillibus</rdg>
+                            <witDetail wit="#N" target="#rdg1.40-ovillibus" type="correction-original">corr. <ref target="#N1">N<hi rend="superscript">1</hi></ref></witDetail>
                             </app> ullas</l>
                         <l n="41">
                             <app>
@@ -4439,11 +4436,8 @@
                                 <rdg wit="#ε" ana="#morphological #syntactic">afferunt</rdg>
                             </app> aut laxis <app ana="#error">
                                 <lem xml:id="lem1.41abiget">abiget</lem>
-                                <rdgGrp>
-                                    <rdg wit="#N" varSeq="1" xml:id="rdg1.41atabiget">atabiget</rdg>
-                                    <rdg wit="#N2" varSeq="2" copyOf="#lem1.41abiget"/>
-                                </rdgGrp>
-                                <witDetail wit="#N" target="#rdg1.41atabiget">vel <hi rend="italic">arab.</hi></witDetail>
+                                <rdg wit="#N" xml:id="rdg1.41atabiget">atabiget</rdg>
+                                <witDetail wit="#N" target="#rdg1.41atabiget">vel <hi rend="italic">arabiget</hi>, corr. <ref target="#N2">N<hi rend="superscript">2</hi></ref></witDetail>
                             </app> iumenta capistris.</l>
                         <app ana="#subtractive" type="lineOmission">
                             <lem xml:id="lem1.42">
@@ -4468,16 +4462,11 @@
                         <l n="43">et <app ana="#lexical">
                                 <lem>redit</lem>
                                 <rdg wit="#P">reddit</rdg>
-                            </app> ad terras <app>
+                            </app> ad terras <app><!-- Good example of a nested <app> 2016-11-10 -->
                                 <lem>
                                     <app ana="#subtractive">
                                         <lem xml:id="lem1.43tandem">tandem</lem>
-                                        <rdgGrp type="corrOmission">
-                                            <rdg wit="#G" varSeq="1"/>
-                                            <rdg wit="#G" varSeq="2" copyOf="#lem1.43tandem" xml:id="rdg1.43tandem"/>
-                                        </rdgGrp>
-                                        <witDetail wit="#G" target="#rdg1.43tandem">supra
-                                            lin.</witDetail>
+                                        <rdg wit="#G"><add place="above" copyOf="#lem1.43tandem"/></rdg>
                                     </app> squalore</lem>
                                 <rdg wit="#P" xml:id="rdg1.43tadasqulore" ana="#orthographical">tādāsqulore</rdg>
                                 <witDetail wit="#P" target="#rdg1.43tadasqulore"><hi rend="italic">s</hi> ex <hi rend="italic">d</hi></witDetail>
@@ -4492,15 +4481,13 @@
                             </app></l>
                         <l n="45">saecula, <app ana="#orthographical">
                                 <lem xml:id="lem1.45maternis">maternis</lem>
-                                <rdgGrp type="anteCorr">
-                                    <rdg wit="#N" varSeq="1">maturnis</rdg>
-                                    <rdg wit="#N2" varSeq="2" copyOf="#lem1.45maternis"/>
-                                </rdgGrp>
+                                <rdg wit="#N" xml:id="rdg1.45-maturnis">maturnis</rdg>
+                                <witDetail wit="#N" target="#rdg1.45-maturnis" type="correction-original"/>
                             </app>
                             <app>
                                 <lem>causam</lem>
                                 <rdg wit="#μ" xml:id="rdg1.45curnam" ana="#lexical">curnam</rdg>
-                                <witDetail wit="#μ" target="#rdg1.45curnam">(<hi rend="italic">n</hi> exp.)</witDetail>
+                                <witDetail wit="#μ" target="#rdg1.45curnam"><hi rend="italic">n</hi> exp.</witDetail>
                                 <rdg wit="#d" ana="#lexical">curam</rdg>
                                 <rdg source="#Burm1731 #Beck" ana="#morphological" type="conjecture">caussas</rdg>
                             </app> qui <app>
@@ -4525,16 +4512,12 @@
                             </app>
                             <app ana="#lexical">
                                 <lem xml:id="lem1.46deus">deus</lem>
-                                <rdgGrp type="anteCorr">
-                                    <rdg wit="#G" varSeq="1">reget</rdg>
-                                    <rdg wit="#G" varSeq="2" copyOf="#lem1.46deus"/>
-                                </rdgGrp>
+                                <rdg wit="#G" xml:id="rdg1.46-reget">reget</rdg>
+                                <witDetail wit="#G" target="#rdg1.46-reget" type="correction-original"/>
                             </app> ipse reget, <app ana="#orthographical">
                                 <lem xml:id="lem1.46dabit">dabit</lem>
-                                <rdgGrp type="anteCorr">
-                                    <rdg wit="#P" varSeq="1">dapit</rdg>
-                                    <rdg wit="#P" varSeq="2" copyOf="#lem1.46dabit"/>
-                                </rdgGrp>
+                                <rdg wit="#P" xml:id="rdg1.46-dapit">dapit</rdg>
+                                <witDetail wit="#G" target="#rdg1.46-dapit" type="correction-original"/>
                             </app> impia <app>
                                 <lem wit="#A #ν #φ #γ #δ" source="#Guid. #edd." xml:id="lem1.46vinctas">vinctas</lem>
                                 <note target="#lem1.46vinctas">probavit <ref target="#Ramorino">F.
@@ -4560,20 +4543,16 @@
                                 <rdg wit="#θ">torquebat</rdg>
                             </app> viscera <app ana="#syntactic #morphological">
                                 <lem xml:id="lem1.48morsus">morsus</lem>
-                                <rdgGrp type="anteCorr">
-                                    <rdg wit="#N" varSeq="1">morsis</rdg>
-                                    <rdg wit="#N2" varSeq="2" copyOf="#lem1.48morsus"/>
-                                </rdgGrp>
+                                <rdg wit="#N" xml:id="rdg1.48-morsis">morsis</rdg>
+                                <witDetail wit="#N" target="#rdg1.48-morsis" type="correction-original"/>
                             </app></l>
                         <l n="49">et modo <app ana="#lexical #syntactic">
                                 <lem>quae</lem>
-                                <rdgGrp type="mutation">
-                                    <!-- To render quaque G (que del. m1). -->
-                                    <rdg wit="#G" varSeq="1">quaque</rdg>
-                                    <rdg wit="#G1" varSeq="2" xml:id="rdg1.49qua">qua</rdg>
-                                </rdgGrp>
-                                <witDetail wit="#G1" target="#rdg1.49qua">(<hi rend="italic">que</hi>
-                                    del. <ref target="#G1">G1</ref>)</witDetail>
+                                <!-- To render quaque G (que del. m1). -->
+                                <rdg wit="#G" xml:id="rdg1.49-quaque">quaque</rdg>
+                                <rdg wit="#G1" xml:id="rdg1.49qua">qua</rdg>
+                                <witDetail wit="#G" target="#rdg1.49-quaque" corresp="#rdg1.49qua" type="correction-original"/>
+                                <witDetail wit="#G1" target="#rdg1.49qua" corresp="#rdg1.49-quaque" type="correction-altered"><del>que</del></witDetail>
                             </app> toto civilia distulit orbe,</l>
                         <l n="50">secum bella geret: nullos iam Roma <app ana="#orthographical">
                                 <lem>Philippos</lem>
@@ -4609,11 +4588,11 @@
                             </app>
                             <app ana="#error">
                                 <lem xml:id="lem1.52carcere">carcere</lem>
-                                <rdgGrp type="anteCorr">
-                                    <rdg wit="#G" varSeq="1" xml:id="rdg1.52cargicarcere">cargicarcere</rdg>
-                                    <rdg wit="#G" varSeq="2" copyOf="#lem1.52carcere"/>
-                                </rdgGrp>
-                                <witDetail wit="#G" target="#rdg1.52cargicarcere"><hi rend="italic">cargi</hi> eras.</witDetail>
+                                <!-- Discuss this with Hugh: is it okay to use <del> this way in <witDetail>? Will it render: carcere] cargicarcere G (a.c.) : carcere G (p.c., cargi eras.) -->
+                                <rdg wit="#G" xml:id="rdg1.52cargicarcere">cargicarcere</rdg>
+                                <rdg wit="#G" xml:id="rdg1.52-carcere" copyOf="#lem1.52carcere"/>
+                                <witDetail wit="#G" target="#rdg1.52cargicarcere" corresp="#rdg1.52-carcere" type="correction-original"/>
+                                <witDetail wit="#G" target="#rdg1.52-carcere" corresp="#rdg1.52cargicarcere" type="correction-altered"><del rend="erasure">cargi</del></witDetail>
                             </app>
                             <app>
                                 <lem xml:id="lem1.52bella">bella</lem>
@@ -4632,10 +4611,8 @@
                             </app>
                             <app ana="#orthographical">
                                 <lem xml:id="lem1.53tenebris">tenebris</lem>
-                                <rdgGrp type="anteCorr">
-                                    <rdg wit="#G" varSeq="1">teneris</rdg>
-                                    <rdg wit="#G" varSeq="2" copyOf="#lem1.53tenebris"/>
-                                </rdgGrp>
+                                <rdg wit="#G" xml:id="rdg1.53-teneris">teneris</rdg>
+                                <witDetail wit="#G" target="#rdg1.53-teneris" type="correction-original"/>
                             </app> lucemque timebunt.</l>
                         <l n="54">candida Pax aderit, <app ana="#lexical" type="conjecture">
                                 <lem>nec</lem>
@@ -4713,10 +4690,9 @@
                             </app>
                             <app>
                                 <lem xml:id="lem1.57tacito">tacito</lem>
-                                <rdgGrp type="anteCorr">
-                                    <rdg wit="#P" varSeq="1" ana="#morphological">tacita</rdg>
-                                    <rdg wit="#P2" varSeq="2" copyOf="#lem1.57tacito"/>
-                                </rdgGrp>
+                                <!-- Discuss with Hugh. Example of a correction without a correction type. Maybe "correction" should be a value for @type? -->
+                                <rdg wit="#P" ana="#morphological" xml:id="rdg1.57-tacita">tacita</rdg>
+                                <witDetail wit="#P" target="#rdg1.57-tacita">corr. <ref target="#P2">P<hi rend="superscript">2</hi></ref></witDetail>
                                 <rdgGrp type="conjecture">
                                     <rdg source="#Beck" copyOf="#lem1.57tacito"/>
                                     <rdg source="#Beck" ana="#syntactic">tacite</rdg>
@@ -4743,10 +4719,8 @@
                                 <rdg wit="#ε #γ2 #η #ν #φ #ρ" ana="#lexical">condidit</rdg>
                                 <wit>edd. ante <ref target="#Glaeser">Glaeser</ref></wit>
                                 <rdg wit="#λ" ana="#orthographical">contulit</rdg>
-                                <rdgGrp type="MSVariants">
-                                    <rdg wit="#δ" ana="#morphological">contundit</rdg>
-                                    <rdg wit="#δ" ana="#lexical"><add place="margin">concedit</add></rdg>
-                                </rdgGrp>
+                                <rdg wit="#δ" ana="#morphological">contundit</rdg>
+                                <rdg wit="#δ" ana="#lexical"><add place="margin">concedit</add></rdg>
                                 <rdg wit="#N3" ana="#lexical"><add place="margin">truderit</add></rdg><!-- Conjecture? -->
                             </app> enses.</l>
                         <l n="60">nulla <app ana="#orthographical">
@@ -4754,60 +4728,51 @@
                                 <rdg wit="#P #γ #ν #η #δ #r #s" source="#i1 #p #n #o">cathenati</rdg>
                             </app> feralis pompa <app>
                                 <lem xml:id="lem1.60senatus">senatus</lem>
-                                <rdgGrp type="anteCorr">
-                                    <rdg wit="#N" varSeq="1" ana="#morphological">senatis</rdg>
-                                    <rdg wit="#N1" varSeq="2" copyOf="#lem1.60senatus"/>
-                                </rdgGrp>
+                                <rdg wit="#N" ana="#morphological" xml:id="rdg1.60-senatis">senatis</rdg>
+                                <witDetail wit="#N" target="#rdg1.60-senatis" type="correction">corr. N<hi rend="superscript">1</hi></witDetail>
                                 <rdg source="#Schenkl" xml:id="rdg1.60senati" ana="#morphological" type="conjecture">senati</rdg>
-                                <note target="#rdg1.60senati"><ref target="#Schenkl">Schenkl</ref>
-                                    olim</note>
+                                <note target="#rdg1.60senati">olim</note>
                             </app></l>
                         <l n="61">carnificum <app>
-                                <lem wit="#χ #φ #γ #μ #λ2 #α #β #ν #κ #ρ #η #ε" source="#edd." xml:id="lem1.61lassabit">lassabit</lem>
+                                <lem wit="#N2 #χ #φ #γ #μ #λ2 #α #β #ν #κ #ρ #η #ε" source="#edd." xml:id="lem1.61lassabit">lassabit</lem>
                                 <rdg wit="#G #P #π #λ1" ana="#lexical">laxabit</rdg>
-                                <rdgGrp type="anteCorr">
-                                    <rdg wit="#N" varSeq="1" ana="#morphological">lassabis</rdg>
-                                    <rdg wit="#N2" varSeq="2" copyOf="#lem1.61lassabit"/>
-                                </rdgGrp>
+                                <rdg wit="#N" ana="#morphological" xml:id="rdg1.61-lassabis">lassabis</rdg>
                                 <rdg wit="#δ" ana="#lexical">laxabat</rdg>
+                            <witDetail wit="#N" target="#rdg1.61-lassabis" corresp="#lem1.61lassabit" type="correction-original"/>
+                            <witDetail wit="#N2" target="#lem1.61lassabit" corresp="#rdg1.61-lassabis" type="correction-altered"/><!-- Discuss this with Hugh. This would produce lassabit N2 (p.c.) but is that accurate? Doesn't that say "after correction, N2 has lassabit"? -->
                             </app> opus, nec carcere <app>
                                 <lem>pleno</lem>
                                 <rdg wit="#θ" ana="#morphological">plenos</rdg>
                             </app></l>
                         <l n="62">infelix raros <app ana="#morphological">
                                 <lem xml:id="lem1.62numerabit">numerabit</lem>
-                                <rdgGrp type="anteCorr">
-                                    <rdg wit="#G" varSeq="1">numeravit</rdg>
-                                    <rdg wit="#G1" varSeq="2" copyOf="#lem1.62numerabit"/>
-                                </rdgGrp>
+                                <rdg wit="#G" xml:id="rdg1.62-numeravit">numeravit</rdg>
+                                <witDetail wit="#G" target="#rdg1.62-numeravit" type="correction-original"/><!-- Another example of the need for @type="correction". This should show G1 as the correcting hand. Review all previous instances of corrections in G to be sure you haven't missed something. -->
                             </app> curia patres.</l>
-                        <l n="63">plena quies aderit, <app>
+                        <l n="63">plena quies aderit, 
+                            <app>
                                 <lem>quae</lem>
-                                <rdgGrp type="MSVariants">
-                                    <rdg wit="#G" ana="#morphological">quam</rdg>
-                                    <rdg wit="#G" ana="#orthographical"><add place="margin">que</add></rdg>
-                                </rdgGrp>
+                                <rdg wit="#G" ana="#morphological">quam</rdg>
+                                <rdg wit="#G" ana="#orthographical"><add place="margin">que</add></rdg>
                             </app>
                             <app ana="#orthographical">
                                 <lem>stricti</lem>
                                 <rdg wit="#G">stripti</rdg><!-- Good example -->
                             </app> nescia ferri</l>
                         <l n="64">altera Saturni <app>
-                                <lem wit="#N" xml:id="lem1.64referet">referet</lem>
+                                <lem wit="#N #G" xml:id="lem1.64referet">referet</lem>
                                 <wit><ref target="#Glaeser">Glaeser</ref> sqq.</wit>
-                                <rdgGrp type="corrMargin">
-                                    <rdg wit="#G" varSeq="1" ana="#morphological">referent</rdg>
-                                    <rdg wit="#G1" varSeq="2"><add place="margin" copyOf="#lem1.64referet"/></rdg>
-                                </rdgGrp>
+                                <witDetail wit="#G" target="#lem1.64referet" corresp="#rdg1.64-referent" type="correction-altered">in mg.</witDetail>
+                                <rdg wit="#G" ana="#morphological" xml:id="rdg1.64-referent">referent</rdg>
+                                <witDetail wit="#G" target="#rdg1.64-referent" corresp="#lem1.64referet" type="correction-original"/>
                                 <rdg wit="#P #V" ana="#lexical">revocet</rdg>
                                 <wit>edd. ante <ref target="#Glaeser">Glaeser</ref></wit>
                             </app>
                             <app>
-                                <lem wit="#δ2 #β #γ #φ #π #κ #χ #ν #ρ #η #λ" source="#edd." xml:id="lem1.64latialia">Latialia</lem>
-                                <rdgGrp type="anteCorr">
-                                    <rdg wit="#G" varSeq="1" ana="#subtractive">latia</rdg>
-                                    <rdg wit="#G1" varSeq="2" copyOf="#lem1.64latialia"/>
-                                </rdgGrp>
+                                <lem wit="#G1 #δ2 #β #γ #φ #π #κ #χ #ν #ρ #η #λ" source="#edd." xml:id="lem1.64latialia">Latialia</lem>
+                                <witDetail wit="#G1" target="#lem1.64latialia" corresp="#rdg1.64-latia" type="correction-altered"/> <!-- Discuss this with Hugh. G1 (p.c.) isn't quite right. -->
+                                <rdg wit="#G" ana="#subtractive" xml:id="rdg1.64-latia">latia</rdg>
+                                <witDetail wit="#G" target="#rdg1.64-latia" corresp="#lem1.64latialia" type="correction-original"></witDetail>
                                 <rdg wit="#N #P #δ1 #α" ana="#orthographical">lacialia</rdg>
                                 <rdg wit="#ε #μ #e" ana="#orthographical">latralia</rdg>
                             </app> regna,</l>
@@ -4848,10 +4813,8 @@
                             </app> tacitus <app ana="#orthographical"> <!-- Good example -->
                                 <lem xml:id="lem1.70fasces">fasces</lem>
                                 <rdg wit="#P">fases</rdg>
-                                <rdgGrp type="anteCorr">
-                                    <rdg wit="#N" varSeq="1">fassces</rdg>
-                                    <rdg wit="#N2" varSeq="2" copyOf="#lem1.70fasces"/>
-                                </rdgGrp>
+                                <rdg wit="#N" xml:id="rdg1.70-fassces">fassces</rdg>
+                                <witDetail wit="#N" target="#rdg1.70-fassces" type="correction-original">corr. <ref target="#N2">N<hi rend="superscript">2</hi></ref></witDetail>
                             </app>
                             <app>
                                 <lem>et inane</lem>
@@ -4937,10 +4900,8 @@
                             </app> caelo</l>
                         <l n="78"><app ana="#morphological">
                                 <lem xml:id="lem1.78fulgeat">fulgeat</lem>
-                                <rdgGrp type="anteCorr">
-                                    <rdg wit="#N" varSeq="1">fulget</rdg>
-                                    <rdg wit="#N1" varSeq="2" copyOf="#lem1.78fulgeat"/>
-                                </rdgGrp>
+                                <rdg wit="#N" xml:id="rdg1.78-fulget">fulget</rdg>
+                            <witDetail wit="#N" target="#rdg1.78-fulget" type="correction-original">corr. <ref target="#N2">N<hi rend="superscript">2</hi></ref></witDetail><!-- another candidate for @type="correction" -->
                             </app>
                             <app ana="#morphological #syntactic">
                                 <lem wit="#N #G #Beck">et placida radiantem</lem>
@@ -4980,12 +4941,11 @@
                             </app>?</l>
                         <l n="80">
                             <app>
-                                <lem wit="#G #ε #γ #ρ" source="#edd." xml:id="lem1.80numquid">numquid</lem>
+                                <lem wit="#N2 #G #ε #γ #ρ" source="#edd." xml:id="lem1.80numquid">numquid</lem>
                                 <witDetail wit="#ρ" target="#lem1.80numquid">in ras.</witDetail>
-                                <rdgGrp type="anteCorr">
-                                    <rdg wit="#N" varSeq="1" ana="#orthographical">dumquid</rdg>
-                                    <rdg wit="#N2" varSeq="2" copyOf="#lem1.80numquid"/>
-                                </rdgGrp>
+                                <witDetail wit="#N2" target="#lem1.80numquid" corresp="#rdg1.80-dumquid" type="correction-altered"/><!-- Not quite correct because N2 hasn't been corrected; it did the correcting. -->
+                                <rdg wit="#N" ana="#orthographical" xml:id="rdg1.80-dumquid">dumquid</rdg>
+                                <witDetail wit="#N" target="#rdg1.80-dumquid" corresp="#lem1.80numquid" type="correction-original"/>
                                 <rdg wit="#P #κ #β #λ #μ #π #δ #Barth1613" ana="#lexical #syntactic">non quod</rdg>
                                 <rdg wit="#α" ana="#lexical">non</rdg>
                                 <rdg wit="#η #φ #ν #r #s" source="#o #n #i1 #l1 #p #t #h #Guid. #Tit. #Vienn. #Kempfer" ana="#lexical #syntactic">non per</rdg>
@@ -5030,10 +4990,8 @@
                                 <rdg wit="#ν #φ #η #π #θ #r #s">et</rdg>
                             </app> quondam <app ana="#lexical">
                                 <lem xml:id="lem1.82nontalis">non talis</lem>
-                                <rdgGrp type="anteCorr">
-                                    <rdg wit="#P" varSeq="1">natalis</rdg>
-                                    <rdg wit="#P1" varSeq="2" copyOf="#lem1.82nontalis"/>
-                                </rdgGrp>
+                                <rdg wit="#P" xml:id="rdg1.82-natalis">natalis</rdg>
+                                <witDetail wit="#P" target="#rdg1.82-natalis" corresp="#lem1.82nontalis" type="correction-original"/><!-- Discuss with Hugh: Will @corresp do the trick of signalling that the correction was to the lemma? -->
                             </app> erat, cum Caesare <app ana="#morphological">
                                 <lem>rapto</lem>
                                 <rdg wit="#θ">raptum</rdg>
@@ -5050,17 +5008,17 @@
                             <app>
                                 <lem xml:id="lem1.84scilicet">scilicet 
                                     <app>
-                                        <lem>ipse</lem>
-                                        <rdg wit="#P1" xml:id="rdg1.84ille" ana="#lexical">ille</rdg>
-                                        <note target="#rdg1.84ille">(suprascr.)</note>
+                                        <lem xml:id="lem1.84-ipse">ipse</lem>
+                                        <rdg wit="#P1" xml:id="rdg1.84ille" ana="#lexical"><add place="above">ille</add></rdg>
+                                        <witDetail wit="#P1" target="#rdg1.84ille">ipse <hi rend="italic">in textu</hi> <ref target="#P">P</ref></witDetail>
                                     </app> deus</lem>
-                                <rdgGrp type="anteCorr">
-                                    <rdg wit="#N" varSeq="1" ana="#lexical">scilicet sedis</rdg>
-                                    <rdg wit="#N2" varSeq="2" copyOf="#lem1.84scilicet"/>
-                                </rdgGrp>
+                                <rdg wit="#N" ana="#lexical" xml:id="rdg1.84-scilicet-sedis">scilicet sedis</rdg>
+                                <rdg wit="#N2" copyOf="#lem1.84scilicet" xml:id="rdg1.84-scilicet-ipse-deus"/>
+                                <witDetail wit="#N" target="#rdg1.84-scilicet-sedis" corresp="#rdg1.84-scilicet-ipse-deus" type="correction-original"/>
+                                <witDetail wit="#N2" target="#rdg1.84-scilicet-ipse-deus" corresp="#rdg1.84-scilicet-sedis" type="correction-altered"/>
                                 <rdg source="#Glaeser #Mueller" xml:id="rdg1.84scilicet" ana="#lexical" type="conjecture">scilicet
                                     sed Deus</rdg>
-                                <note target="#rdg1.84scilicet"><ref target="#Mueller">Mueller</ref> (l. l. p. 1071) <ptr target="http://hdl.handle.net/2027/uiug.30112023962282?urlappend=%3Bseq=674"/></note>
+                                <note target="#rdg1.84scilicet"><ref target="#Mueller">Mueller</ref> (<ref target="http://hdl.handle.net/2027/uiug.30112023962282?urlappend=%3Bseq=674">l. l. p. 1071</ref>)/></note><!-- Changed <ptr> to <ref>. Consider doing this elsewhere. -->
                             </app> Romanae pondera <app ana="#orthographical">
                                 <lem>molis</lem>
                                 <rdg wit="#μ #b">mollis</rdg>
@@ -5074,10 +5032,8 @@
                         <l n="86">
                             <app ana="#orthographical">
                                 <lem xml:id="lem1.86ut">ut</lem>
-                                <rdgGrp type="anteCorr">
-                                    <rdg wit="#N" varSeq="1">uti</rdg>
-                                    <rdg wit="#N2" varSeq="2" copyOf="#lem1.86ut"/>
-                                </rdgGrp>
+                                    <rdg wit="#N" xml:id="rdg1.86-uti">uti</rdg>
+                                    <witDetail wit="#N" target="#rdg1.86-uti">corr. <ref target="#N2">N<hi rend="superscript">2</hi></ref></witDetail><!-- Another candidate for @type="correction" -->
                             </app> neque <app ana="#lexical">
                                 <lem>translati</lem>
                                 <rdg wit="#A" source="#i1 #p #h #Ulit. #Vienn. #Kempfer #Barth1613">tralati</rdg>
