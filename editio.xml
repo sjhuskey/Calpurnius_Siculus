@@ -3869,10 +3869,8 @@
                         <item xml:id="Corydon">Corydon</item>
                         <item xml:id="Ornytus">Ornytus</item>
                     </list>
-                    
-                        
-                  <l n="1">
-                    <label type="speaker">
+                   
+                        <label type="speaker">
                       <app>
                         <lem wit="#G #P #A #φ" source="#Ulit. #Wernsd.">C.</lem>
                         <wit><ref target="#Glaeser">Glaeser</ref> sqq.</wit>
@@ -3881,6 +3879,7 @@
                         <wit>edd. ante <ref target="#Glaeser">Glaeser</ref></wit>
                       </app>
                     </label>
+                  <l n="1">
                     <app ana="#orthographical">
                       <lem xml:id="lem1.1nondum">Nondum</lem>
                       <rdg wit="#G #P" xml:id="rdg1.1nundum">nundum</rdg>
@@ -4762,7 +4761,7 @@
                                 <lem wit="#G1 #δ2 #β #γ #φ #π #κ #χ #ν #ρ #η #λ" source="#edd." xml:id="lem1.64latialia">Latialia</lem>
                                 <witDetail wit="#G1" target="#lem1.64latialia" corresp="#rdg1.64-latia" type="correction-altered"/> <!-- Discuss this with Hugh. G1 (p.c.) isn’t quite right. -->
                                 <rdg wit="#G" ana="#subtractive" xml:id="rdg1.64-latia">latia</rdg>
-                                <witDetail wit="#G" target="#rdg1.64-latia" corresp="#lem1.64latialia" type="correction-original"></witDetail>
+                                <witDetail wit="#G" target="#rdg1.64-latia" corresp="#lem1.64latialia" type="correction-original"/>
                                 <rdg wit="#N #P #δ1 #α" ana="#orthographical">lacialia</rdg>
                                 <rdg wit="#ε #μ #e" ana="#orthographical">latralia</rdg>
                             </app> regna,</l>
@@ -5220,7 +5219,8 @@
                         <item xml:id="Astacus">Astacus</item>
                         <item xml:id="Thyrsis">Thrysis</item>
                     </list>
-                    <l n="1"><app><note>hic loquitur poeta <ref target="#P">P</ref></note></app>
+                            <app><note>hic loquitur poeta <ref target="#P">P</ref></note></app>
+                    <l n="1">
                       <app ana="#orthographical">
                             <lem>Intactam</lem>
                             <rdg wit="#P">ntantam</rdg>
@@ -5235,11 +5235,10 @@
                         </app>
                         <app ana="#subtractive">
                             <lem xml:id="lem2.11.1">puer</lem>
-                            <rdgGrp type="anteCorr">
-                                <rdg wit="#N" varSeq="1"/>
-                                <rdg wit="#N3" varSeq="2"><add place="inline" copyOf="#lem2.11.1"/></rdg>
-                            </rdgGrp>
-                        </app>
+                                <rdg wit="#N" xml:id="rdg-2.1-puer-om"/>
+                                <rdg wit="#N3" xml:id="rdg-2.1-puer"><add place="inRas" copyOf="#lem2.11.1"/></rdg>
+                            <witDetail wit="#N" target="#rdg-2.1-puer-om" corresp="#rdg-2.1-puer" type="correction-original"/>
+                            <witDetail wit="#N3" target="#rdg-2.1-puer" corresp="#rdg-2.1-puer-om" type="correction-altered"/>
                         <app ana="#orthographical">
                             <lem>Astacus</lem>
                             <rdg wit="#ε #χ #γ #ρ2 #ζ #u #e #b" source="#o #n #d2 #i2 #l2">asthacus</rdg>
@@ -5247,8 +5246,8 @@
                         </app> et puer <app ana="#orthographical">
                             <lem>Idas</lem>
                             <rdg wit="#G #P">ydas</rdg>
-                            <rdg wit="#δ">iddas</rdg>
-                            <note>(item v. 2)</note>
+                            <rdg wit="#δ" xml:id="rdg-2.1-iddas">iddas</rdg>
+                            <witDetail wit="#δ" target="#rdg-2.1-iddas">item v. 2</witDetail>
                         </app>,</l>
                     <l n="2"><app ana="#orthographical">
                             <lem>Idas</lem>
@@ -5280,12 +5279,10 @@
                         </app>
                         <app ana="#orthographical">
                             <lem xml:id="lem2.4gravis">gravis</lem>
-                            <!-- Handling "(i ex e m3)" -->
-                            <rdgGrp type="anteCorr">
-                                <rdg wit="#N" varSeq="1">graves</rdg>
-                                <rdg wit="#N3" varSeq="2" xml:id="rdg2.4gravis" copyOf="#lem2.4gravis"/>
-                            </rdgGrp>
-                            <witDetail wit="#N3" target="#rdg2.4gravis">(<hi rend="italic">i</hi> ex <hi rend="italic">e</hi> <ref target="#N3">m³</ref>)</witDetail>
+                            <rdg wit="#N" xml:id="rdg2.4-graves">graves</rdg>
+                            <rdg wit="#N3" varSeq="2" xml:id="rdg2.4-gravis" copyOf="#lem2.4gravis"/>
+                            <witDetail wit="#N" target="#rdg2.4-graves" corresp="#rdg2.4-gravis" type="correction-original"/>
+                            <witDetail wit="#N3" target="#rdg2.4-gravis" corresp="#rdg2.4-graves"><hi rend="italic">i</hi> ex <hi rend="italic">e</hi> <ref target="#N3">N<hi rend="superscript">3</hi></ref></witDetail>
                         </app>
                         <app ana="#orthographical">
                             <lem>ureret</lem>
@@ -5293,9 +5290,9 @@
                         </app>
                         <app ana="#lexical" type="conjecture">
                             <lem>aestas</lem>
-                            <rdg wit="#b" type="margAddition" xml:id="rdgb2.11.4"><add place="margin">aestus</add></rdg>
-                            <witDetail wit="#b" target="#rdgb2.11.4">doctus aliquis in mg. edit.
-                                Bon.</witDetail>
+                            <rdg wit="#b" xml:id="rdgb2.11.4">aestus</rdg>
+                            <witDetail wit="#b" target="#rdgb2.11.4">doctus aliquis in mg. <ref target="#b">edit.
+                                Bon.</ref></witDetail>
                         </app>,</l>
                     <l n="5">ad gelidos fontes et easdem forte sub <app ana="#lexical">
                             <lem wit="#N #G" source="#Glaeser #Keene #Schenkl">umbras</lem>
@@ -5305,10 +5302,8 @@
                         </app></l>
                     <l n="6">conveniunt dulcique simul <app ana="#orthographical">
                             <lem xml:id="lem2.11.6">contendere</lem>
-                            <rdgGrp type="anteCorr">
-                                <rdg wit="#G" varSeq="1">condendere</rdg>
-                                <rdg wit="#G1" varSeq="2" copyOf="#lem2.11.6"/>
-                            </rdgGrp>
+                                <rdg wit="#G" xml:id="rdg1.6-condendere">condendere</rdg>
+                            <witDetail wit="#G" target="#rdg1.6-condendere" type="correction-original">corr. <ref target="#G1">G<hi rend="superscript">1</hi></ref></witDetail>
                         </app> cantu</l>
                     <l n="7">pignoribusque parant: placet, hic <app ana="#lexical" type="conjecture">
                             <lem>ut</lem>
