@@ -3869,20 +3869,27 @@
                         <item xml:id="Corydon">Corydon</item>
                         <item xml:id="Ornytus">Ornytus</item>
                     </list>
-                    
-                        
-                        <l n="1">
-
-                            <app ana="#orthographical">
-                                <lem xml:id="lem1.1nondum">Nondum</lem>
-                                <rdg wit="#G #P" xml:id="rdg1.1nundum">nundum</rdg>
-                                <witDetail wit="#G" corresp="lem1.1nondum" target="rdg1.1nundum" type="correction-original">corr. <ref target="#G1">G<hi rend="super">1</hi></ref></witDetail>
-                            </app> Solis equos <app>
-                                <lem wit="#N" source="#Heins. #Schenkl">declinis</lem>
-                                <rdg wit="#G #V" source="#edd." ana="#lexical">declivis</rdg>
-                                <rdg wit="#P" source="#p" ana="#lexical">declivus</rdg>
-                                <rdg wit="#μ" ana="#lexical #morphological">declives</rdg>
-                            </app> mitigat aestas,</l>
+                   
+                        <label type="speaker">
+                      <app>
+                        <lem wit="#G #P #A #φ" source="#Ulit. #Wernsd.">C.</lem>
+                        <wit><ref target="#Glaeser">Glaeser</ref> sqq.</wit>
+                        <rdg wit="#N #π #χ" source="#p" ana="#subtractive"/>
+                        <rdg wit="#ε #β #γ #μ #ρ" ana="#lexical">O.</rdg>
+                        <wit>edd. ante <ref target="#Glaeser">Glaeser</ref></wit>
+                      </app>
+                    </label>
+                  <l n="1">
+                    <app ana="#orthographical">
+                      <lem xml:id="lem1.1nondum">Nondum</lem>
+                      <rdg wit="#G #P" xml:id="rdg1.1nundum">nundum</rdg>
+                      <witDetail wit="#G" corresp="rdg1.1nondum" target="rdg1.1nundum" type="correction-original">corr. <ref target="#G1">G<hi rend="super">1</hi></ref></witDetail>
+                    </app> Solis equos <app>
+                      <lem wit="#N" source="#Heins. #Schenkl">declinis</lem>
+                      <rdg wit="#G #V" source="#edd." ana="#lexical">declivis</rdg>
+                      <rdg wit="#P" source="#p" ana="#lexical">declivus</rdg>
+                      <rdg wit="#μ" ana="#lexical #morphological">declives</rdg>
+                    </app> mitigat aestas,</l>
 
                         <l n="2">
                             <app ana="#lexical">
