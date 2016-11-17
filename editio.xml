@@ -6618,13 +6618,12 @@
                             </app></l>
                         <l n="5">iam dudum <app>
                                 <lem source="#Heins. #Baehr. #Schenkl" type="emendation">nullus</lem>
-                                <rdg wit="#ω #r #e #s #d2" source="#u #p #h #t #Barth1613 #Ulit. #Burm1731 #Glaeser #Keene" xml:id="rdg3.5nullis">nullis</rdg>
+                                <rdg wit="#G1 #ω #r #e #s #d2" source="#u #p #h #t #Barth1613 #Ulit. #Burm1731 #Glaeser #Keene" xml:id="rdg3.5nullis">nullis</rdg>
+                                <note target="#rdg3.5nullis">def. <ref target="#Ellis">Ellis</ref> l. l. p. 91</note>
+                                <witDetail wit="#G1" target="#rdg3.5nullis" corresp="#rdg3.5-multis" type="correction-altered">in mg.</witDetail>    
                                 <rdg wit="#edd.">et nullis</rdg>
-                                <rdgGrp type="corrMarg">
-                                    <rdg wit="#G" varSeq="1">multis</rdg>
-                                    <rdg wit="#G" varSeq="2"><add place="margin" copyOf="#rdg3.5nullis"/></rdg>
-                                </rdgGrp>
-                            <note target="#rdg3.5nullis">def. <ref target="#Ellis">Ellis</ref> l. l. p. 91</note>
+                                <rdg wit="#G" xml:id="rdg3.5-multis">multis</rdg>
+                                <witDetail wit="#G" target="#rdg3.5-multis" corresp="#rdg3.5-nullis" type="correction-original"/>
                             </app> dubitavi crura rubetis</l>
                         <l n="6">scindere, <app>
                                 <lem wit="#N #V">nec quicquam</lem>
@@ -6689,14 +6688,14 @@
                     
                     
                         
-                        <l n="10"><label type="speaker">I.</label>Mobilior <app>
+                        <l n="10"><label type="speaker">I.</label><app><lem>Mobilior</lem><rdg wit="#ExcPar"><witStart/><!-- Discuss with Hugh. Add section in guidelines --></rdg></app> <app>
                                 <lem xml:id="lem3.10ventis">ventis</lem>
                                 <rdgGrp type="anteCorr">
                                     <rdg wit="#G" varSeq="1">venti</rdg>
                                     <rdg wit="#G" varSeq="2" copyOf="#lem3.10ventis"/>
                                 </rdgGrp>
-                                <note resp="Giarratano">mobilior-femina habent Exc. Par.</note>
-                            </app> o femina! sic tua Phyllis:</l>
+                                <!-- Is this necessary with use of <witStart> and <witEnd>? <note resp="Giarratano">mobilior-femina habent Exc. Par.</note> -->
+                            </app> o <app><lem>femina</lem><rdg wit="#ExcPar"><witEnd/><!-- Discuss with Hugh. Add section in guidelines --></rdg></app>! sic tua Phyllis:</l>
                         <l n="11">quae sibi, nam <app>
                                 <lem>memini</lem>
                                 <rdg wit="#N">nemini</rdg>
