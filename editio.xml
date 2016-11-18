@@ -8172,6 +8172,7 @@
                                 <rdg wit="#A #ε #γ" source="#edd.">redit</rdg>
                             </app> inventa non irritus ecce iuvenca.</l>
                 </div><!-- End of poem 3 -->
+                
                 <div type="textpart" n="4" xml:id="poem4">
                     <head>Poem 4. [Meliboeus, Corydon, Amyntas]</head>
                     <list type="speakers">
@@ -8475,11 +8476,8 @@
                                         <lem wit="#N #G #ε #γ #ρ2" source="#edd.">te non</lem>
                                         <rdg wit="#V #r #s" source="#o #n">non te</rdg>
                                     </app> semel ista notavi: </l></lem>
-                            <rdgGrp type="anteCorr">
-                                <rdg wit="#G" varSeq="1"/>
-                                <rdg wit="#G1" varSeq="2" copyOf="#C4.22line" xml:id="rdg4.22line"/>
-                            </rdgGrp>
-                            <witDetail wit="#G1" target="#rdg4.22line">in mg. add. <ref target="#G1">G1</ref></witDetail>
+                                <rdg wit="#G" xml:id="rdg4.22-omission"/>
+                                <witDetail wit="#G" target="rdg4.220omission" type="correction-original">in mg. add. <ref target="#G1">G<hi rend="superscript">1</hi></ref></witDetail>
                         </app>
                         <l n="23">‘frange, puer, calamos et inanes <app>
                                 <lem>desere</lem>
@@ -8502,11 +8500,10 @@
                             </app> collige corna,</l>
                         <l n="25">duc <app>
                                 <lem xml:id="lem4.25ad">ad</lem>
-                                <rdgGrp type="anteCorr">
-                                    <rdg wit="#N" varSeq="1"/>
-                                    <rdg wit="#N1" varSeq="2" copyOf="#lem4.25ad" xml:id="rdg4.25ad"/>
-                                </rdgGrp>
-                                <witDetail wit="#N1">s.v.</witDetail>
+                                <rdg wit="#N" xml:id="rdg4.25-ad-om"/>
+                                <witDetail wit="#N" target="#rdg4.25-ad-om" corresp="#rdg4.25-ad" type="correction-original"/>
+                                <rdg wit="#N1" xml:id="rdg4.25-ad" copyOf="lem4.25ad"/>
+                                <witDetail wit="#N1" target="#rdg4.25-ad" corresp="#rdg4.25-ad-om" type="correction-altered">s.v.</witDetail>
                             </app>
                             <app>
                                 <lem>mulctra</lem>
@@ -8514,10 +8511,8 @@
                             </app>
                             <app>
                                 <lem>greges et</lem>
-                                <rdgGrp type="MSVariants">
-                                    <rdg wit="#N">greges ad</rdg>
-                                    <rdg wit="#N">ad greges</rdg>
-                                </rdgGrp>
+                                <rdg wit="#N">greges ad</rdg>
+                                <rdg wit="#N1">ad greges</rdg>
                             </app> lac venale per urbem</l>
                         <l n="26">non tacitus porta. quid enim tibi fistula reddet,</l>
                         <l n="27">quo <app>
@@ -8613,10 +8608,10 @@
                             </app>
                             <app>
                                 <lem xml:id="lem4.37in_umbra">in umbra</lem>
-                                <rdgGrp type="anteCorr">
-                                    <rdg wit="#N" varSeq="1">in antra umbra</rdg>
-                                    <rdg wit="#N2" varSeq="2" copyOf="#lem4.37in_umbra"/>
-                                </rdgGrp>
+                                <rdg wit="#N" xml:id="rdg4.37-in-antra-umbra">in antra umbra</rdg>
+                                <witDetail wit="#N" target="#rdg4.37-in-antra-umbra" corresp="#rdg4.37-in-umbra" type="correction-original"/>
+                                <rdg wit="#N2" xml:id="rdg4.37-in-umbra" copyOf="#lem4.37in_umbra"/>
+                                <witDetail wit="#N2" target="#rdg4.37-in-umbra" corresp="#rdg4.37-in-antra-umbra" type="correction-altered"><del rend="expunction">antra</del></witDetail> 
                             </app></l>
                         <l n="38">et fruimur silvis <app>
                                 <lem>Amaryllidos</lem>
@@ -8647,19 +8642,20 @@
                                         <rdg wit="#N">visura</rdg>
                                         <rdg source="#d1 #o">visurus</rdg>
                                     </app>, <app>
-                                        <lem wit="#G #H #ε #α" source="#edd." xml:id="lem4.40trucibusque">trucibusque</lem>
+                                        <lem wit="#N2 #G #H #ε #α" source="#edd." xml:id="lem4.40trucibusque">trucibusque</lem>
+                                        <witDetail wit="#N2" target="#lem4.40trucibusque" corresp="#rdg4.40trucibus" type="correction-altered"/>
                                         <note target="#lem4.40trucibusque">deff. <ref target="#Mueller">L. Mueller</ref> et <ref target="#Leo">Leo</ref></note>
-                                        <rdgGrp type="anteCorr">
-                                            <rdg wit="#N" xml:id="rdg4.40trucibus">trucibus</rdg>
-                                            <rdg wit="#N2" varSeq="2" copyOf="#lem4.40trucibusque"/>
-                                        </rdgGrp>
-                                        <rdg wit="#V #r" source="#o #n #Haupt1854 #Schenkl1" copyOf="#rdg4.40trucibus"/>
+                                        <rdg wit="#N #V #r" source="#o #n #Haupt1854 #Schenkl1" xml:id="rdg4.40trucibus">trucibus</rdg>
+                                        <witDetail wit="#N" target="#rdg4.40trucibus" corresp="#lem4.40trucibusque" type="correction-original"/>    
                                         <rdg source="#Barth1613">trucibus qua</rdg>
                                     </app> obnoxia Mauris</lem>
                                 <rdg source="#Haupt1854" xml:id="rdg4.40Haupt">visuri trucibus tristes
                                     obnoxia Mauris</rdg>
                                 <note target="#rdg4.40Haupt">olim</note>
                             </app></l>
+                    
+                    <!-- Start 2016-11-18 -->
+                    
                         <l n="41"><app>
                                 <lem xml:id="lem4.41pascua">pascua</lem>
                                 <rdgGrp type="anteCorr">
