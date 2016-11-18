@@ -350,12 +350,18 @@
                             <cell role="data">1.20</cell>
                             <cell role="data"><quote xml:lang="la">depicta</quote> N (ex <quote
                                     xml:lang="la">dipicta</quote>) G</cell>
-                            <cell role="data"><quote xml:lang="la">descripta</quote></cell>
+                            <cell role="data">
+                                <quote xml:lang="la">descripta</quote>
+                            </cell>
                         </row>
                         <row role="data">
                             <cell role="data">1.25</cell>
-                            <cell role="data"><quote xml:lang="la">codice</quote></cell>
-                            <cell role="data"><quote xml:lang="la">cortice</quote></cell>
+                            <cell role="data">
+                                <quote xml:lang="la">codice</quote>
+                            </cell>
+                            <cell role="data">
+                                <quote xml:lang="la">cortice</quote>
+                            </cell>
                         </row>
                         <row role="data">
                             <cell role="data">1.42</cell>
@@ -364,20 +370,28 @@
                         </row>
                         <row role="data">
                             <cell role="data">1.55</cell>
-                            <cell role="data"><quote xml:lang="la">profuso</quote></cell>
+                            <cell role="data">
+                                <quote xml:lang="la">profuso</quote>
+                            </cell>
                             <cell role="data"><quote xml:lang="la">professo</quote> (and many other
                                 mss.)</cell>
                         </row>
                         <row role="data">
                             <cell role="data">1.87</cell>
-                            <cell role="data"><quote xml:lang="la">a</quote></cell>
+                            <cell role="data">
+                                <quote xml:lang="la">a</quote>
+                            </cell>
                             <cell role="data"><quote xml:lang="la">ex</quote> (and many other
                                 mss.)</cell>
                         </row>
                         <row role="data">
                             <cell role="data">3.26</cell>
-                            <cell role="data"><quote xml:lang="la">ibi</quote></cell>
-                            <cell role="data"><quote xml:lang="la">sibi</quote></cell>
+                            <cell role="data">
+                                <quote xml:lang="la">ibi</quote>
+                            </cell>
+                            <cell role="data">
+                                <quote xml:lang="la">sibi</quote>
+                            </cell>
                         </row>
                         <row role="data">
                             <cell role="data">4.12</cell>
@@ -386,23 +400,35 @@
                         </row>
                         <row role="data">
                             <cell role="data">4.46</cell>
-                            <cell role="data"><quote xml:lang="la">quicquam</quote></cell>
+                            <cell role="data">
+                                <quote xml:lang="la">quicquam</quote>
+                            </cell>
                             <cell role="data">quisquam</cell>
                         </row>
                         <row role="data">
                             <cell role="data">4.82</cell>
-                            <cell role="data"><quote xml:lang="la">canat</quote></cell>
+                            <cell role="data">
+                                <quote xml:lang="la">canat</quote>
+                            </cell>
                             <cell role="data">canit</cell>
                         </row>
                         <row role="data">
                             <cell role="data">4.124</cell>
-                            <cell role="data"><quote xml:lang="la">raptas</quote></cell>
-                            <cell role="data"><quote xml:lang="la">ruptas</quote></cell>
+                            <cell role="data">
+                                <quote xml:lang="la">raptas</quote>
+                            </cell>
+                            <cell role="data">
+                                <quote xml:lang="la">ruptas</quote>
+                            </cell>
                         </row>
                         <row role="data">
                             <cell role="data">4.145</cell>
-                            <cell role="data"><quote xml:lang="la">nos</quote></cell>
-                            <cell role="data"><quote xml:lang="la">hos</quote></cell>
+                            <cell role="data">
+                                <quote xml:lang="la">nos</quote>
+                            </cell>
+                            <cell role="data">
+                                <quote xml:lang="la">hos</quote>
+                            </cell>
                         </row>
                         <row role="data">
                             <cell role="data">5.7</cell>
@@ -411,28 +437,46 @@
                         </row>
                         <row role="data">
                             <cell role="data">5.28</cell>
-                            <cell role="data"><quote xml:lang="la">vivat</quote></cell>
-                            <cell role="data"><quote xml:lang="la">vivit</quote></cell>
+                            <cell role="data">
+                                <quote xml:lang="la">vivat</quote>
+                            </cell>
+                            <cell role="data">
+                                <quote xml:lang="la">vivit</quote>
+                            </cell>
                         </row>
                         <row role="data">
                             <cell role="data">5.45</cell>
-                            <cell role="data"><quote xml:lang="la">peragunt</quote></cell>
-                            <cell role="data"><quote xml:lang="la">peragit</quote></cell>
+                            <cell role="data">
+                                <quote xml:lang="la">peragunt</quote>
+                            </cell>
+                            <cell role="data">
+                                <quote xml:lang="la">peragit</quote>
+                            </cell>
                         </row>
                         <row role="data">
                             <cell role="data">7.48</cell>
-                            <cell role="data"><quote xml:lang="la">tibi</quote></cell>
-                            <cell role="data"><quote xml:lang="la">ubi</quote></cell>
+                            <cell role="data">
+                                <quote xml:lang="la">tibi</quote>
+                            </cell>
+                            <cell role="data">
+                                <quote xml:lang="la">ubi</quote>
+                            </cell>
                         </row>
                         <row role="data">
                             <cell role="data">Nemes. 2.50</cell>
-                            <cell role="data"><quote xml:lang="la">cum</quote></cell>
-                            <cell role="data"><quote xml:lang="la">dum</quote></cell>
+                            <cell role="data">
+                                <quote xml:lang="la">cum</quote>
+                            </cell>
+                            <cell role="data">
+                                <quote xml:lang="la">dum</quote>
+                            </cell>
                         </row>
                         <row role="data">
                             <cell role="data">3.6</cell>
                             <cell role="data"><quote xml:lang="la">h</quote> N, om. G</cell>
-                            <cell role="data"><quote xml:lang="la">hanc pueri tamquam</quote></cell>
+                            <cell role="data">
+                                <quote xml:lang="la">hanc pueri tamquam</quote>
+                            </cell>
                         </row>
                     </table>
                     <p>On the other hand, an interpolator has cleverly emended the following:Calp.
@@ -909,27 +953,37 @@
                             <cell role="data">1.1</cell>
                             <cell role="data"><quote xml:lang="la">declinis</quote> N, <quote
                                     xml:lang="la">declivis</quote> G V</cell>
-                            <cell role="data"><quote xml:lang="la">declivus</quote></cell>
+                            <cell role="data">
+                                <quote xml:lang="la">declivus</quote>
+                            </cell>
                         </row>
                         <row role="data">
                             <cell role="data">1.2</cell>
                             <cell role="data"><quote xml:lang="la">praela</quote> N G V</cell>
-                            <cell role="data"><quote xml:lang="la">praeda</quote></cell>
+                            <cell role="data">
+                                <quote xml:lang="la">praeda</quote>
+                            </cell>
                         </row>
                         <row role="data">
                             <cell role="data">1.3</cell>
                             <cell role="data"><quote xml:lang="la">musta</quote> N G V</cell>
-                            <cell role="data"><quote xml:lang="la">iniusta</quote></cell>
+                            <cell role="data">
+                                <quote xml:lang="la">iniusta</quote>
+                            </cell>
                         </row>
                         <row role="data">
                             <cell role="data">1.13</cell>
                             <cell role="data"><quote xml:lang="la">vocas</quote> N G V</cell>
-                            <cell role="data"><quote xml:lang="la">vacas</quote></cell>
+                            <cell role="data">
+                                <quote xml:lang="la">vacas</quote>
+                            </cell>
                         </row>
                         <row role="data">
                             <cell role="data">1.15</cell>
                             <cell role="data"><quote xml:lang="la">pervia</quote> N G V</cell>
-                            <cell role="data"><quote xml:lang="la">previa</quote></cell>
+                            <cell role="data">
+                                <quote xml:lang="la">previa</quote>
+                            </cell>
                         </row>
                         <row role="data">
                             <cell role="data">1.18</cell>
@@ -944,7 +998,9 @@
                         <row role="data">
                             <cell role="data">1.25</cell>
                             <cell role="data"><quote xml:lang="la">citius</quote> N G V</cell>
-                            <cell role="data"><quote xml:lang="la">sycios</quote></cell>
+                            <cell role="data">
+                                <quote xml:lang="la">sycios</quote>
+                            </cell>
                         </row>
                         <row role="data">
                             <cell role="data">1.38</cell>
@@ -956,41 +1012,55 @@
                             <cell role="data"><quote xml:lang="la">subigentur</quote> N G, <quote
                                     xml:lang="la">subigentur</quote> vel <quote xml:lang="la"
                                     >subdentur</quote> V</cell>
-                            <cell role="data"><quote xml:lang="la">subiguntur</quote></cell>
+                            <cell role="data">
+                                <quote xml:lang="la">subiguntur</quote>
+                            </cell>
                         </row>
                         <row role="data">
                             <cell role="data">1.53</cell>
                             <cell role="data"><quote xml:lang="la">inmergentque</quote> G, <quote
                                     xml:lang="la">immergentque</quote> N V</cell>
-                            <cell role="data"><quote xml:lang="la">imverguntque</quote></cell>
+                            <cell role="data">
+                                <quote xml:lang="la">imverguntque</quote>
+                            </cell>
                         </row>
                         <row role="data">
                             <cell role="data">1.75</cell>
                             <cell role="data"><quote xml:lang="la">erectumque</quote> N G V</cell>
-                            <cell role="data"><quote xml:lang="la">ereptumque</quote></cell>
+                            <cell role="data">
+                                <quote xml:lang="la">ereptumque</quote>
+                            </cell>
                         </row>
                         <row role="data">
                             <cell role="data">1.79</cell>
                             <cell role="data"><quote xml:lang="la">sidus</quote> N G V</cell>
-                            <cell role="data"><quote xml:lang="la">plenus</quote></cell>
+                            <cell role="data">
+                                <quote xml:lang="la">plenus</quote>
+                            </cell>
                         </row>
                         <row role="data">
                             <cell role="data">1.85</cell>
                             <cell role="data"><quote xml:lang="la">excipiet</quote> N V, <quote
                                     xml:lang="la">accipiet</quote> G</cell>
-                            <cell role="data"><quote xml:lang="la">excipient</quote></cell>
+                            <cell role="data">
+                                <quote xml:lang="la">excipient</quote>
+                            </cell>
                         </row>
                         <row role="data">
                             <cell role="data">1.89</cell>
                             <cell role="data"><quote xml:lang="la">velut</quote> N V, <quote
                                     xml:lang="la">velud</quote> G</cell>
-                            <cell role="data"><quote xml:lang="la">velit</quote></cell>
+                            <cell role="data">
+                                <quote xml:lang="la">velit</quote>
+                            </cell>
                         </row>
                         <row role="data">
                             <cell role="data">1.94</cell>
                             <cell role="data"><quote xml:lang="la">aures</quote> or <quote
                                     xml:lang="la">auris</quote> N G V</cell>
-                            <cell role="data"><quote xml:lang="la">auras</quote></cell>
+                            <cell role="data">
+                                <quote xml:lang="la">auras</quote>
+                            </cell>
                         </row>
                         <row role="data">
                             <cell role="data">2.4</cell>
@@ -1003,62 +1073,84 @@
                         <row role="data">
                             <cell role="data">2.21</cell>
                             <cell role="data"><quote xml:lang="la">iamque</quote> N G V</cell>
-                            <cell role="data"><quote xml:lang="la">iam</quote></cell>
+                            <cell role="data">
+                                <quote xml:lang="la">iam</quote>
+                            </cell>
                         </row>
                         <row role="data">
                             <cell role="data">2.21</cell>
                             <cell role="data"><quote xml:lang="la">medius</quote> N G V</cell>
-                            <cell role="data"><quote xml:lang="la">meolus</quote></cell>
+                            <cell role="data">
+                                <quote xml:lang="la">meolus</quote>
+                            </cell>
                         </row>
                         <row role="data">
                             <cell role="data">2.22</cell>
                             <cell role="data"><quote xml:lang="la">iudice pignora</quote> N G
                                 V</cell>
-                            <cell role="data"><quote xml:lang="la">indice pignor</quote></cell>
+                            <cell role="data">
+                                <quote xml:lang="la">indice pignor</quote>
+                            </cell>
                         </row>
                         <row role="data">
                             <cell role="data">2.23</cell>
                             <cell role="data"><quote xml:lang="la">hīc</quote> N G, <quote
                                     xml:lang="la">hoc</quote> V</cell>
-                            <cell role="data"><quote xml:lang="la">hac</quote></cell>
+                            <cell role="data">
+                                <quote xml:lang="la">hac</quote>
+                            </cell>
                         </row>
                         <row role="data">
                             <cell role="data">2.24</cell>
                             <cell role="data"><quote xml:lang="la">victus</quote> N G V</cell>
-                            <cell role="data"><quote xml:lang="la">victor</quote></cell>
+                            <cell role="data">
+                                <quote xml:lang="la">victor</quote>
+                            </cell>
                         </row>
                         <row role="data">
                             <cell role="data">2.29</cell>
                             <cell role="data"><quote xml:lang="la">teda</quote> or <quote
                                     xml:lang="la">taeda</quote> N G V</cell>
-                            <cell role="data"><quote xml:lang="la">deda</quote></cell>
+                            <cell role="data">
+                                <quote xml:lang="la">deda</quote>
+                            </cell>
                         </row>
                         <row role="data">
                             <cell role="data">2.30</cell>
                             <cell role="data"><quote xml:lang="la">etiam</quote> N G V</cell>
-                            <cell role="data"><quote xml:lang="la">cerā</quote></cell>
+                            <cell role="data">
+                                <quote xml:lang="la">cerā</quote>
+                            </cell>
                         </row>
                         <row role="data">
                             <cell role="data">2.33</cell>
                             <cell role="data"><quote xml:lang="la">arbore</quote> N G V</cell>
-                            <cell role="data"><quote xml:lang="la">ardore</quote></cell>
+                            <cell role="data">
+                                <quote xml:lang="la">ardore</quote>
+                            </cell>
                         </row>
                         <row role="data">
                             <cell role="data">2.40</cell>
                             <cell role="data"><quote xml:lang="la">mutabilis</quote> N G V</cell>
-                            <cell role="data"><quote xml:lang="la">mirabilis</quote></cell>
+                            <cell role="data">
+                                <quote xml:lang="la">mirabilis</quote>
+                            </cell>
                         </row>
                         <row role="data">
                             <cell role="data">2.47</cell>
                             <cell role="data"><quote xml:lang="la">fetura</quote> or <quote
                                     xml:lang="la">foetura</quote> N G V</cell>
-                            <cell role="data"><quote xml:lang="la">factura</quote></cell>
+                            <cell role="data">
+                                <quote xml:lang="la">factura</quote>
+                            </cell>
                         </row>
                         <row role="data">
                             <cell role="data">2.52</cell>
                             <cell role="data"><quote xml:lang="la">crocalem</quote> or <quote
                                     xml:lang="la">crotalem</quote> or something similar N G V</cell>
-                            <cell role="data"><quote xml:lang="la">talē</quote></cell>
+                            <cell role="data">
+                                <quote xml:lang="la">talē</quote>
+                            </cell>
                         </row>
                         <row role="data">
                             <cell role="data">2.53</cell>
@@ -1068,184 +1160,252 @@
                         <row role="data">
                             <cell role="data">2.57</cell>
                             <cell role="data"><quote xml:lang="la">audiat</quote> N G V</cell>
-                            <cell role="data"><quote xml:lang="la">audeat</quote></cell>
+                            <cell role="data">
+                                <quote xml:lang="la">audeat</quote>
+                            </cell>
                         </row>
                         <row role="data">
                             <cell role="data">2.73</cell>
                             <cell role="data"><quote xml:lang="la">tenues citius</quote> G, <quote
                                     xml:lang="la">cicius tenues</quote> N, <quote xml:lang="la"
                                     >citius tenues</quote> V</cell>
-                            <cell role="data"><quote xml:lang="la">tenues cuius</quote></cell>
+                            <cell role="data">
+                                <quote xml:lang="la">tenues cuius</quote>
+                            </cell>
                         </row>
                         <row role="data">
                             <cell role="data">2.73</cell>
                             <cell role="data"><quote xml:lang="la">numerabit</quote> N G V</cell>
-                            <cell role="data"><quote xml:lang="la">enumerat</quote></cell>
+                            <cell role="data">
+                                <quote xml:lang="la">enumerat</quote>
+                            </cell>
                         </row>
                         <row role="data">
                             <cell role="data">2.74</cell>
                             <cell role="data"><quote xml:lang="la">metimus</quote> N G V</cell>
-                            <cell role="data"><quote xml:lang="la">metitur</quote></cell>
+                            <cell role="data">
+                                <quote xml:lang="la">metitur</quote>
+                            </cell>
                         </row>
                         <row role="data">
                             <cell role="data">2.74</cell>
                             <cell role="data"><quote xml:lang="la">bruma</quote> N (ex <quote
                                     xml:lang="la">pbruma</quote>) G V</cell>
-                            <cell role="data"><quote xml:lang="la">prima</quote></cell>
+                            <cell role="data">
+                                <quote xml:lang="la">prima</quote>
+                            </cell>
                         </row>
                         <row role="data">
                             <cell role="data">2.81</cell>
                             <cell role="data"><quote xml:lang="la">renidenti</quote> G, <quote
                                     xml:lang="la">renitendi</quote> N, <quote xml:lang="la"
                                     >renitenti</quote> V</cell>
-                            <cell role="data"><quote xml:lang="la">redempti</quote></cell>
+                            <cell role="data">
+                                <quote xml:lang="la">redempti</quote>
+                            </cell>
                         </row>
                         <row role="data">
                             <cell role="data">2.81</cell>
                             <cell role="data"><quote xml:lang="la">chias</quote> N G, <quote
                                     xml:lang="la">thilas</quote> V</cell>
-                            <cell role="data"><quote xml:lang="la">cymas</quote></cell>
+                            <cell role="data">
+                                <quote xml:lang="la">cymas</quote>
+                            </cell>
                         </row>
                         <row role="data">
                             <cell role="data">2.82</cell>
                             <cell role="data"><quote xml:lang="la">nuces</quote> N G V</cell>
-                            <cell role="data"><quote xml:lang="la">mices</quote></cell>
+                            <cell role="data">
+                                <quote xml:lang="la">mices</quote>
+                            </cell>
                         </row>
                         <row role="data">
                             <cell role="data">2.84</cell>
                             <cell role="data"><quote xml:lang="la">num-num</quote> N G V</cell>
-                            <cell role="data"><quote xml:lang="la">nunc-nunc</quote></cell>
+                            <cell role="data">
+                                <quote xml:lang="la">nunc-nunc</quote>
+                            </cell>
                         </row>
                         <row role="data">
                             <cell role="data">2.91</cell>
                             <cell role="data"><quote xml:lang="la">tenui lucere</quote> N G V</cell>
-                            <cell role="data"><quote xml:lang="la">tātū lucē</quote></cell>
+                            <cell role="data">
+                                <quote xml:lang="la">tātū lucē</quote>
+                            </cell>
                         </row>
                         <row role="data">
                             <cell role="data">3.2</cell>
                             <cell role="data"><quote xml:lang="la">tauris</quote> N V, <quote
                                     xml:lang="la">thauris</quote> G</cell>
-                            <cell role="data"><quote xml:lang="la">tātis</quote></cell>
+                            <cell role="data">
+                                <quote xml:lang="la">tātis</quote>
+                            </cell>
                         </row>
                         <row role="data">
                             <cell role="data">3.6</cell>
                             <cell role="data"><quote xml:lang="la">nec quicquam</quote> or <quote
                                     xml:lang="la">quidquam</quote> N G V</cell>
-                            <cell role="data"><quote xml:lang="la">ne quisquam</quote></cell>
+                            <cell role="data">
+                                <quote xml:lang="la">ne quisquam</quote>
+                            </cell>
                         </row>
                         <row role="data">
                             <cell role="data">3.18</cell>
                             <cell role="data"><quote xml:lang="la">adibo</quote> N G V</cell>
-                            <cell role="data"><quote xml:lang="la">adhibo</quote></cell>
+                            <cell role="data">
+                                <quote xml:lang="la">adhibo</quote>
+                            </cell>
                         </row>
                         <row role="data">
                             <cell role="data">3.24</cell>
                             <cell role="data"><quote xml:lang="la">contentus</quote> N G V</cell>
-                            <cell role="data"><quote xml:lang="la">contemptus</quote></cell>
+                            <cell role="data">
+                                <quote xml:lang="la">contemptus</quote>
+                            </cell>
                         </row>
                         <row role="data">
                             <cell role="data">3.26</cell>
                             <cell role="data"><quote xml:lang="la">calamos</quote> N G V</cell>
-                            <cell role="data"><quote xml:lang="la">calamus</quote></cell>
+                            <cell role="data">
+                                <quote xml:lang="la">calamus</quote>
+                            </cell>
                         </row>
                         <row role="data">
                             <cell role="data">3.29</cell>
                             <cell role="data"><quote xml:lang="la">ut</quote> N G V</cell>
-                            <cell role="data"><quote xml:lang="la">et</quote></cell>
+                            <cell role="data">
+                                <quote xml:lang="la">et</quote>
+                            </cell>
                         </row>
                         <row role="data">
                             <cell role="data">3.31</cell>
                             <cell role="data"><quote xml:lang="la">irata</quote> N G V</cell>
-                            <cell role="data"><quote xml:lang="la">iurata</quote></cell>
+                            <cell role="data">
+                                <quote xml:lang="la">iurata</quote>
+                            </cell>
                         </row>
                         <row role="data">
                             <cell role="data">3.32</cell>
                             <cell role="data"><quote xml:lang="la">te licida</quote> ve <quote
                                     xml:lang="la">lycida</quote> or something similar N G V</cell>
-                            <cell role="data"><quote xml:lang="la">theliocida</quote></cell>
+                            <cell role="data">
+                                <quote xml:lang="la">theliocida</quote>
+                            </cell>
                         </row>
                         <row role="data">
                             <cell role="data">3.42</cell>
                             <cell role="data"><quote xml:lang="la">ad sidera</quote> N G V</cell>
-                            <cell role="data"><quote xml:lang="la">a sydera</quote></cell>
+                            <cell role="data">
+                                <quote xml:lang="la">a sydera</quote>
+                            </cell>
                         </row>
                         <row role="data">
                             <cell role="data">3.43</cell>
                             <cell role="data"><quote xml:lang="la">tua</quote> N G V</cell>
-                            <cell role="data"><quote xml:lang="la">mea</quote></cell>
+                            <cell role="data">
+                                <quote xml:lang="la">mea</quote>
+                            </cell>
                         </row>
                         <row role="data">
                             <cell role="data">3.48</cell>
                             <cell role="data"><quote xml:lang="la">turdus</quote> N G V</cell>
-                            <cell role="data"><quote xml:lang="la">tardus</quote></cell>
+                            <cell role="data">
+                                <quote xml:lang="la">tardus</quote>
+                            </cell>
                         </row>
                         <row role="data">
                             <cell role="data">3.50</cell>
                             <cell role="data"><quote xml:lang="la">ut</quote> N G V</cell>
-                            <cell role="data"><quote xml:lang="la">et</quote></cell>
+                            <cell role="data">
+                                <quote xml:lang="la">et</quote>
+                            </cell>
                         </row>
                         <row role="data">
                             <cell role="data">3.51</cell>
                             <cell role="data"><quote xml:lang="la">te sine</quote> N G V</cell>
-                            <cell role="data"><quote xml:lang="la">desine</quote></cell>
+                            <cell role="data">
+                                <quote xml:lang="la">desine</quote>
+                            </cell>
                         </row>
                         <row role="data">
                             <cell role="data">3.52</cell>
                             <cell role="data"><quote xml:lang="la">sapiunt</quote> N G V</cell>
-                            <cell role="data"><quote xml:lang="la">sapient</quote></cell>
+                            <cell role="data">
+                                <quote xml:lang="la">sapient</quote>
+                            </cell>
                         </row>
                         <row role="data">
                             <cell role="data">3.57</cell>
                             <cell role="data"><quote xml:lang="la">nec</quote> N G V</cell>
-                            <cell role="data"><quote xml:lang="la">ne</quote></cell>
+                            <cell role="data">
+                                <quote xml:lang="la">ne</quote>
+                            </cell>
                         </row>
                         <row role="data">
                             <cell role="data">3.57</cell>
                             <cell role="data"><quote xml:lang="la">dubitasti</quote> N G V</cell>
-                            <cell role="data"><quote xml:lang="la">dubitanti</quote></cell>
+                            <cell role="data">
+                                <quote xml:lang="la">dubitanti</quote>
+                            </cell>
                         </row>
                         <row role="data">
                             <cell role="data">3.66</cell>
                             <cell role="data"><quote xml:lang="la">meis</quote> N G V</cell>
-                            <cell role="data"><quote xml:lang="la">mores</quote></cell>
+                            <cell role="data">
+                                <quote xml:lang="la">mores</quote>
+                            </cell>
                         </row>
                         <row role="data">
                             <cell role="data">3.66</cell>
                             <cell role="data"><quote xml:lang="la">multris</quote> G, <quote
                                     xml:lang="la">multis</quote> N, <quote xml:lang="la"
                                     >mulctris</quote> or something similar V</cell>
-                            <cell role="data"><quote xml:lang="la">ī ultrix</quote></cell>
+                            <cell role="data">
+                                <quote xml:lang="la">ī ultrix</quote>
+                            </cell>
                         </row>
                         <row role="data">
                             <cell role="data">3.68</cell>
                             <cell role="data"><quote xml:lang="la">nec</quote> N G V</cell>
-                            <cell role="data"><quote xml:lang="la">ne</quote></cell>
+                            <cell role="data">
+                                <quote xml:lang="la">ne</quote>
+                            </cell>
                         </row>
                         <row role="data">
                             <cell role="data">3.70</cell>
                             <cell role="data"><quote xml:lang="la">quod</quote> N G V</cell>
-                            <cell role="data"><quote xml:lang="la">quo</quote></cell>
+                            <cell role="data">
+                                <quote xml:lang="la">quo</quote>
+                            </cell>
                         </row>
                         <row role="data">
                             <cell role="data">3.82</cell>
                             <cell role="data"><quote xml:lang="la">metere</quote> N G V</cell>
-                            <cell role="data"><quote xml:lang="la">metā</quote></cell>
+                            <cell role="data">
+                                <quote xml:lang="la">metā</quote>
+                            </cell>
                         </row>
                         <row role="data">
                             <cell role="data">3.86</cell>
                             <cell role="data"><quote xml:lang="la">turpis</quote> N G V</cell>
-                            <cell role="data"><quote xml:lang="la">cupis</quote></cell>
+                            <cell role="data">
+                                <quote xml:lang="la">cupis</quote>
+                            </cell>
                         </row>
                         <row role="data">
                             <cell role="data">3.89</cell>
                             <cell role="data"><quote xml:lang="la">hy</quote> N G, <quote
                                     xml:lang="la">hi</quote> V</cell>
-                            <cell role="data"><quote xml:lang="la">hic</quote></cell>
+                            <cell role="data">
+                                <quote xml:lang="la">hic</quote>
+                            </cell>
                         </row>
                         <row role="data">
                             <cell role="data">3.92</cell>
                             <cell role="data"><quote xml:lang="la">miseris</quote> N G V</cell>
-                            <cell role="data"><quote xml:lang="la">miseros</quote></cell>
+                            <cell role="data">
+                                <quote xml:lang="la">miseros</quote>
+                            </cell>
                         </row>
                     </table>
                     <p>But despite such an abundance of errors, sometimes the Codex Parisinus
@@ -1276,8 +1436,12 @@
                         </row>
                         <row role="data">
                             <cell role="data">1.28</cell>
-                            <cell role="data"><quote xml:lang="la">haec</quote></cell>
-                            <cell role="data"><quote xml:lang="la">hoc</quote></cell>
+                            <cell role="data">
+                                <quote xml:lang="la">haec</quote>
+                            </cell>
+                            <cell role="data">
+                                <quote xml:lang="la">hoc</quote>
+                            </cell>
                         </row>
                         <row role="data">
                             <cell role="data">1.51</cell>
@@ -1286,23 +1450,39 @@
                         </row>
                         <row role="data">
                             <cell role="data">1.78</cell>
-                            <cell role="data"><quote xml:lang="la">rediantem</quote></cell>
-                            <cell role="data"><quote xml:lang="la">radianti</quote></cell>
+                            <cell role="data">
+                                <quote xml:lang="la">rediantem</quote>
+                            </cell>
+                            <cell role="data">
+                                <quote xml:lang="la">radianti</quote>
+                            </cell>
                         </row>
                         <row role="data">
                             <cell role="data">1.80</cell>
-                            <cell role="data"><quote xml:lang="la">cruento</quote></cell>
-                            <cell role="data"><quote xml:lang="la">cremato</quote></cell>
+                            <cell role="data">
+                                <quote xml:lang="la">cruento</quote>
+                            </cell>
+                            <cell role="data">
+                                <quote xml:lang="la">cremato</quote>
+                            </cell>
                         </row>
                         <row role="data">
                             <cell role="data">1.89</cell>
-                            <cell role="data"><quote xml:lang="la">plenum</quote></cell>
-                            <cell role="data"><quote xml:lang="la">plenus</quote></cell>
+                            <cell role="data">
+                                <quote xml:lang="la">plenum</quote>
+                            </cell>
+                            <cell role="data">
+                                <quote xml:lang="la">plenus</quote>
+                            </cell>
                         </row>
                         <row role="data">
                             <cell role="data">2.8</cell>
-                            <cell role="data"><quote xml:lang="la">vindicet</quote></cell>
-                            <cell role="data"><quote xml:lang="la">vendicet</quote></cell>
+                            <cell role="data">
+                                <quote xml:lang="la">vindicet</quote>
+                            </cell>
+                            <cell role="data">
+                                <quote xml:lang="la">vendicet</quote>
+                            </cell>
                         </row>
                         <row role="data">
                             <cell role="data">2.18–19</cell>
@@ -1311,108 +1491,180 @@
                         </row>
                         <row role="data">
                             <cell role="data">2.21</cell>
-                            <cell role="data"><quote xml:lang="la">annosa</quote></cell>
+                            <cell role="data">
+                                <quote xml:lang="la">annosa</quote>
+                            </cell>
                             <cell role="data"><quote xml:lang="la">herbosa</quote> or <quote
                                     xml:lang="la">umbrosa</quote> or <quote xml:lang="la"
                                     >herbora</quote></cell>
                         </row>
                         <row role="data">
                             <cell role="data">2.30</cell>
-                            <cell role="data"><quote xml:lang="la">parvo dixit</quote></cell>
-                            <cell role="data"><quote xml:lang="la">parvo hoc dixit</quote></cell>
+                            <cell role="data">
+                                <quote xml:lang="la">parvo dixit</quote>
+                            </cell>
+                            <cell role="data">
+                                <quote xml:lang="la">parvo hoc dixit</quote>
+                            </cell>
                         </row>
                         <row role="data">
                             <cell role="data">2.31</cell>
-                            <cell role="data"><quote xml:lang="la">crescat</quote></cell>
-                            <cell role="data"><quote xml:lang="la">crescit</quote></cell>
+                            <cell role="data">
+                                <quote xml:lang="la">crescat</quote>
+                            </cell>
+                            <cell role="data">
+                                <quote xml:lang="la">crescit</quote>
+                            </cell>
                         </row>
                         <row role="data">
                             <cell role="data">2.32</cell>
-                            <cell role="data"><quote xml:lang="la">pingit</quote></cell>
-                            <cell role="data"><quote xml:lang="la">spargit</quote></cell>
+                            <cell role="data">
+                                <quote xml:lang="la">pingit</quote>
+                            </cell>
+                            <cell role="data">
+                                <quote xml:lang="la">spargit</quote>
+                            </cell>
                         </row>
                         <row role="data">
                             <cell role="data">2.35</cell>
-                            <cell role="data"><quote xml:lang="la">iam-nutrire</quote></cell>
-                            <cell role="data"><quote xml:lang="la">nam-mutare</quote></cell>
+                            <cell role="data">
+                                <quote xml:lang="la">iam-nutrire</quote>
+                            </cell>
+                            <cell role="data">
+                                <quote xml:lang="la">nam-mutare</quote>
+                            </cell>
                         </row>
                         <row role="data">
                             <cell role="data">2.49</cell>
-                            <cell role="data"><quote xml:lang="la">pangitur</quote></cell>
-                            <cell role="data"><quote xml:lang="la">panditur</quote></cell>
+                            <cell role="data">
+                                <quote xml:lang="la">pangitur</quote>
+                            </cell>
+                            <cell role="data">
+                                <quote xml:lang="la">panditur</quote>
+                            </cell>
                         </row>
                         <row role="data">
                             <cell role="data">2.54</cell>
-                            <cell role="data"><quote xml:lang="la">decernamque</quote></cell>
-                            <cell role="data"><quote xml:lang="la">dicam namque</quote></cell>
+                            <cell role="data">
+                                <quote xml:lang="la">decernamque</quote>
+                            </cell>
+                            <cell role="data">
+                                <quote xml:lang="la">dicam namque</quote>
+                            </cell>
                         </row>
                         <row role="data">
                             <cell role="data">2.61</cell>
-                            <cell role="data"><quote xml:lang="la">et</quote></cell>
-                            <cell role="data"><quote xml:lang="la">est</quote></cell>
+                            <cell role="data">
+                                <quote xml:lang="la">et</quote>
+                            </cell>
+                            <cell role="data">
+                                <quote xml:lang="la">est</quote>
+                            </cell>
                         </row>
                         <row role="data">
                             <cell role="data">2.65</cell>
-                            <cell role="data"><quote xml:lang="la">figere</quote></cell>
+                            <cell role="data">
+                                <quote xml:lang="la">figere</quote>
+                            </cell>
                             <cell role="data"><quote xml:lang="la">fundere</quote> or <quote
                                     xml:lang="la">fraude</quote></cell>
                         </row>
                         <row role="data">
                             <cell role="data">2.67</cell>
-                            <cell role="data"><quote xml:lang="la">sunt</quote></cell>
+                            <cell role="data">
+                                <quote xml:lang="la">sunt</quote>
+                            </cell>
                             <cell role="data"><quote xml:lang="la">fore</quote> or <quote
                                     xml:lang="la">fere</quote></cell>
                         </row>
                         <row role="data">
                             <cell role="data">2.94</cell>
-                            <cell role="data"><quote xml:lang="la">agat</quote></cell>
+                            <cell role="data">
+                                <quote xml:lang="la">agat</quote>
+                            </cell>
                             <cell role="data"><quote xml:lang="la">vocat</quote> or <quote
                                     xml:lang="la">vocet</quote> or something similar</cell>
                         </row>
                         <row role="data">
                             <cell role="data">3.2</cell>
-                            <cell role="data"><quote xml:lang="la">ista</quote></cell>
-                            <cell role="data"><quote xml:lang="la">illa</quote></cell>
+                            <cell role="data">
+                                <quote xml:lang="la">ista</quote>
+                            </cell>
+                            <cell role="data">
+                                <quote xml:lang="la">illa</quote>
+                            </cell>
                         </row>
                         <row role="data">
                             <cell role="data">3.16</cell>
-                            <cell role="data"><quote xml:lang="la">spatiosus</quote></cell>
-                            <cell role="data"><quote xml:lang="la">spatiatus</quote></cell>
+                            <cell role="data">
+                                <quote xml:lang="la">spatiosus</quote>
+                            </cell>
+                            <cell role="data">
+                                <quote xml:lang="la">spatiatus</quote>
+                            </cell>
                         </row>
                         <row role="data">
                             <cell role="data">3.24</cell>
-                            <cell role="data"><quote xml:lang="la">sola tu</quote></cell>
-                            <cell role="data"><quote xml:lang="la">tu solus</quote></cell>
+                            <cell role="data">
+                                <quote xml:lang="la">sola tu</quote>
+                            </cell>
+                            <cell role="data">
+                                <quote xml:lang="la">tu solus</quote>
+                            </cell>
                         </row>
                         <row role="data">
                             <cell role="data">3.28</cell>
-                            <cell role="data"><quote xml:lang="la">haec</quote></cell>
-                            <cell role="data"><quote xml:lang="la">hoc</quote></cell>
+                            <cell role="data">
+                                <quote xml:lang="la">haec</quote>
+                            </cell>
+                            <cell role="data">
+                                <quote xml:lang="la">hoc</quote>
+                            </cell>
                         </row>
                         <row role="data">
                             <cell role="data">3.33</cell>
-                            <cell role="data"><quote xml:lang="la">negetur</quote></cell>
-                            <cell role="data"><quote xml:lang="la">vagetur</quote></cell>
+                            <cell role="data">
+                                <quote xml:lang="la">negetur</quote>
+                            </cell>
+                            <cell role="data">
+                                <quote xml:lang="la">vagetur</quote>
+                            </cell>
                         </row>
                         <row role="data">
                             <cell role="data">3.47</cell>
-                            <cell role="data"><quote xml:lang="la">excluso disperdit</quote></cell>
-                            <cell role="data"><quote xml:lang="la">excusso dispergit</quote></cell>
+                            <cell role="data">
+                                <quote xml:lang="la">excluso disperdit</quote>
+                            </cell>
+                            <cell role="data">
+                                <quote xml:lang="la">excusso dispergit</quote>
+                            </cell>
                         </row>
                         <row role="data">
                             <cell role="data">3.59</cell>
-                            <cell role="data"><quote xml:lang="la">haec</quote></cell>
-                            <cell role="data"><quote xml:lang="la">hoc</quote></cell>
+                            <cell role="data">
+                                <quote xml:lang="la">haec</quote>
+                            </cell>
+                            <cell role="data">
+                                <quote xml:lang="la">hoc</quote>
+                            </cell>
                         </row>
                         <row role="data">
                             <cell role="data">3.88</cell>
-                            <cell role="data"><quote xml:lang="la">nostros primum</quote></cell>
-                            <cell role="data"><quote xml:lang="la">primum nostros</quote></cell>
+                            <cell role="data">
+                                <quote xml:lang="la">nostros primum</quote>
+                            </cell>
+                            <cell role="data">
+                                <quote xml:lang="la">primum nostros</quote>
+                            </cell>
                         </row>
                         <row role="data">
                             <cell role="data">4.10</cell>
-                            <cell role="data"><quote xml:lang="la">numina</quote></cell>
-                            <cell role="data"><quote xml:lang="la">munera</quote></cell>
+                            <cell role="data">
+                                <quote xml:lang="la">numina</quote>
+                            </cell>
+                            <cell role="data">
+                                <quote xml:lang="la">munera</quote>
+                            </cell>
                         </row>
                     </table>
                     <p>The following can also be added to these examples:</p>
@@ -1426,13 +1678,17 @@
                             <cell role="data">1.9</cell>
                             <cell role="data"><quote xml:lang="la">densent</quote> N, <quote
                                     xml:lang="la">denset</quote> G P</cell>
-                            <cell role="data"><quote xml:lang="la">densat</quote></cell>
+                            <cell role="data">
+                                <quote xml:lang="la">densat</quote>
+                            </cell>
                         </row>
                         <row role="data">
                             <cell role="data">1.45</cell>
                             <cell role="data"><quote xml:lang="la">vicit</quote> N P <quote
                                     xml:lang="la">vīcit</quote> G</cell>
-                            <cell role="data"><quote xml:lang="la">lusit</quote></cell>
+                            <cell role="data">
+                                <quote xml:lang="la">lusit</quote>
+                            </cell>
                         </row>
                         <row role="data">
                             <cell role="data">1.76</cell>
@@ -1443,13 +1699,17 @@
                             <cell role="data">3.60</cell>
                             <cell role="data"><quote xml:lang="la">iners</quote> N G, <quote
                                     xml:lang="la">inexs</quote> P</cell>
-                            <cell role="data"><quote xml:lang="la">inops</quote></cell>
+                            <cell role="data">
+                                <quote xml:lang="la">inops</quote>
+                            </cell>
                         </row>
                         <row role="data">
                             <cell role="data">3.95</cell>
                             <cell role="data"><quote xml:lang="la">sub horti</quote>] <quote
                                     xml:lang="la">sub orti</quote> N G P</cell>
-                            <cell role="data"><quote xml:lang="la">sub ara</quote></cell>
+                            <cell role="data">
+                                <quote xml:lang="la">sub ara</quote>
+                            </cell>
                         </row>
                     </table>
                     <p>But more rarely P V corrupt a reading of the archetype preserved in N G. Here
@@ -1473,89 +1733,152 @@
                             <cell role="data"><quote xml:lang="la">referet</quote> N, <quote
                                     xml:lang="la">referent</quote> G (but corrected in the
                                 margin)</cell>
-                            <cell role="data"><quote xml:lang="la">revocet</quote></cell>
+                            <cell role="data">
+                                <quote xml:lang="la">revocet</quote>
+                            </cell>
                         </row>
                         <row role="data">
                             <cell role="data">2.5</cell>
-                            <cell role="data"><quote xml:lang="la">umbras</quote></cell>
-                            <cell role="data"><quote xml:lang="la">ulmos</quote></cell>
+                            <cell role="data">
+                                <quote xml:lang="la">umbras</quote>
+                            </cell>
+                            <cell role="data">
+                                <quote xml:lang="la">ulmos</quote>
+                            </cell>
                         </row>
                         <row role="data">
                             <cell role="data">2.27</cell>
-                            <cell role="data"><quote xml:lang="la">decernunt</quote></cell>
-                            <cell role="data"><quote xml:lang="la">discernunt</quote></cell>
+                            <cell role="data">
+                                <quote xml:lang="la">decernunt</quote>
+                            </cell>
+                            <cell role="data">
+                                <quote xml:lang="la">discernunt</quote>
+                            </cell>
                         </row>
                         <row role="data">
                             <cell role="data">2.32</cell>
-                            <cell role="data"><quote xml:lang="la">flora</quote></cell>
-                            <cell role="data"><quote xml:lang="la">flore</quote></cell>
+                            <cell role="data">
+                                <quote xml:lang="la">flora</quote>
+                            </cell>
+                            <cell role="data">
+                                <quote xml:lang="la">flore</quote>
+                            </cell>
                         </row>
                         <row role="data">
                             <cell role="data">2.35</cell>
-                            <cell role="data"><quote xml:lang="la">irriguos</quote></cell>
+                            <cell role="data">
+                                <quote xml:lang="la">irriguos</quote>
+                            </cell>
                             <cell role="data"><quote xml:lang="la">inriguis</quote> P, <quote
                                     xml:lang="la">irriguis</quote> V</cell>
                         </row>
                         <row role="data">
                             <cell role="data">2.45</cell>
-                            <cell role="data"><quote xml:lang="la">novis</quote></cell>
-                            <cell role="data"><quote xml:lang="la">novas</quote></cell>
+                            <cell role="data">
+                                <quote xml:lang="la">novis</quote>
+                            </cell>
+                            <cell role="data">
+                                <quote xml:lang="la">novas</quote>
+                            </cell>
                         </row>
                         <row role="data">
                             <cell role="data">2.48</cell>
-                            <cell role="data"><quote xml:lang="la">at</quote></cell>
-                            <cell role="data"><quote xml:lang="la">et</quote></cell>
+                            <cell role="data">
+                                <quote xml:lang="la">at</quote>
+                            </cell>
+                            <cell role="data">
+                                <quote xml:lang="la">et</quote>
+                            </cell>
                         </row>
                         <row role="data">
                             <cell role="data">2.80</cell>
-                            <cell role="data"><quote xml:lang="la">at</quote></cell>
-                            <cell role="data"><quote xml:lang="la">et</quote></cell>
+                            <cell role="data">
+                                <quote xml:lang="la">at</quote>
+                            </cell>
+                            <cell role="data">
+                                <quote xml:lang="la">et</quote>
+                            </cell>
                         </row>
                         <row role="data">
                             <cell role="data">2.82</cell>
-                            <cell role="data"><quote xml:lang="la">decembri</quote></cell>
-                            <cell role="data"><quote xml:lang="la">novembri</quote></cell>
+                            <cell role="data">
+                                <quote xml:lang="la">decembri</quote>
+                            </cell>
+                            <cell role="data">
+                                <quote xml:lang="la">novembri</quote>
+                            </cell>
                         </row>
                         <row role="data">
                             <cell role="data">2.88</cell>
-                            <cell role="data"><quote xml:lang="la">ipse</quote></cell>
-                            <cell role="data"><quote xml:lang="la">esse</quote></cell>
+                            <cell role="data">
+                                <quote xml:lang="la">ipse</quote>
+                            </cell>
+                            <cell role="data">
+                                <quote xml:lang="la">esse</quote>
+                            </cell>
                         </row>
                         <row role="data">
                             <cell role="data">3.7</cell>
-                            <cell role="data"><quote xml:lang="la">nec</quote></cell>
-                            <cell role="data"><quote xml:lang="la">neque</quote></cell>
+                            <cell role="data">
+                                <quote xml:lang="la">nec</quote>
+                            </cell>
+                            <cell role="data">
+                                <quote xml:lang="la">neque</quote>
+                            </cell>
                         </row>
                         <row role="data">
                             <cell role="data">3.18</cell>
-                            <cell role="data"><quote xml:lang="la">quavis</quote></cell>
-                            <cell role="data"><quote xml:lang="la">quamvis</quote></cell>
+                            <cell role="data">
+                                <quote xml:lang="la">quavis</quote>
+                            </cell>
+                            <cell role="data">
+                                <quote xml:lang="la">quamvis</quote>
+                            </cell>
                         </row>
                         <row role="data">
                             <cell role="data">3.24</cell>
-                            <cell role="data"><quote xml:lang="la">iolla</quote></cell>
-                            <cell role="data"><quote xml:lang="la">iolla es</quote></cell>
+                            <cell role="data">
+                                <quote xml:lang="la">iolla</quote>
+                            </cell>
+                            <cell role="data">
+                                <quote xml:lang="la">iolla es</quote>
+                            </cell>
                         </row>
                         <row role="data">
                             <cell role="data">3.74</cell>
-                            <cell role="data"><quote xml:lang="la">furem medio</quote></cell>
-                            <cell role="data"><quote xml:lang="la">medio furem</quote></cell>
+                            <cell role="data">
+                                <quote xml:lang="la">furem medio</quote>
+                            </cell>
+                            <cell role="data">
+                                <quote xml:lang="la">medio furem</quote>
+                            </cell>
                         </row>
                         <row role="data">
                             <cell role="data">3.75</cell>
-                            <cell role="data"><quote xml:lang="la">dubites</quote></cell>
-                            <cell role="data"><quote xml:lang="la">dubita
-                                    <!-- Giarratano omits V here --></quote></cell>
+                            <cell role="data">
+                                <quote xml:lang="la">dubites</quote>
+                            </cell>
+                            <cell role="data">
+                                <quote xml:lang="la">dubita <!-- Giarratano omits V here --></quote>
+                            </cell>
                         </row>
                         <row role="data">
                             <cell role="data">3.78</cell>
-                            <cell role="data"><quote xml:lang="la">gremium</quote></cell>
-                            <cell role="data"><quote xml:lang="la">gremio</quote></cell>
+                            <cell role="data">
+                                <quote xml:lang="la">gremium</quote>
+                            </cell>
+                            <cell role="data">
+                                <quote xml:lang="la">gremio</quote>
+                            </cell>
                         </row>
                         <row role="data">
                             <cell role="data">4.10</cell>
-                            <cell role="data"><quote xml:lang="la">despicit</quote></cell>
-                            <cell role="data"><quote xml:lang="la">respicit</quote></cell>
+                            <cell role="data">
+                                <quote xml:lang="la">despicit</quote>
+                            </cell>
+                            <cell role="data">
+                                <quote xml:lang="la">respicit</quote>
+                            </cell>
                         </row>
                     </table>
                     <p>On the other hand, P V have corrected the corrupted readings of the first
@@ -1569,30 +1892,46 @@
                         </row>
                         <row role="data">
                             <cell role="data">1.5</cell>
-                            <cell role="data"><quote xml:lang="la">molle sub</quote></cell>
-                            <cell role="data"><quote xml:lang="la">molliter</quote></cell>
+                            <cell role="data">
+                                <quote xml:lang="la">molle sub</quote>
+                            </cell>
+                            <cell role="data">
+                                <quote xml:lang="la">molliter</quote>
+                            </cell>
                         </row>
                         <row role="data">
                             <cell role="data">1.20</cell>
-                            <cell role="data"><quote xml:lang="la">descripta</quote></cell>
+                            <cell role="data">
+                                <quote xml:lang="la">descripta</quote>
+                            </cell>
                             <cell role="data"><quote xml:lang="la">depicta</quote> N (from <quote
                                     xml:lang="la">dipicta</quote>) G</cell>
                         </row>
                         <row role="data">
                             <cell role="data">1.24</cell>
-                            <cell role="data"><quote xml:lang="la">alto</quote></cell>
-                            <cell role="data"><quote xml:lang="la">altos</quote></cell>
+                            <cell role="data">
+                                <quote xml:lang="la">alto</quote>
+                            </cell>
+                            <cell role="data">
+                                <quote xml:lang="la">altos</quote>
+                            </cell>
                         </row>
                         <row role="data">
                             <cell role="data">1.25</cell>
-                            <cell role="data"><quote xml:lang="la">cortice</quote></cell>
+                            <cell role="data">
+                                <quote xml:lang="la">cortice</quote>
+                            </cell>
                             <cell role="data"><quote xml:lang="la">codice</quote> N (apparently)
                                 G</cell>
                         </row>
                         <row role="data">
                             <cell role="data">1.28</cell>
-                            <cell role="data"><quote xml:lang="la">triviali</quote></cell>
-                            <cell role="data"><quote xml:lang="la">tibi vili</quote></cell>
+                            <cell role="data">
+                                <quote xml:lang="la">triviali</quote>
+                            </cell>
+                            <cell role="data">
+                                <quote xml:lang="la">tibi vili</quote>
+                            </cell>
                         </row>
                         <row role="data">
                             <cell role="data">1.42</cell>
@@ -1603,63 +1942,105 @@
                             <cell role="data">1.55</cell>
                             <cell role="data"><quote xml:lang="la">professo</quote> P, most of
                                 V</cell>
-                            <cell role="data"><quote xml:lang="la">profuso</quote></cell>
+                            <cell role="data">
+                                <quote xml:lang="la">profuso</quote>
+                            </cell>
                         </row>
                         <row role="data">
                             <cell role="data">1.87</cell>
                             <cell role="data"><quote xml:lang="la">ex</quote> P, most of V</cell>
-                            <cell role="data"><quote xml:lang="la">a</quote></cell>
+                            <cell role="data">
+                                <quote xml:lang="la">a</quote>
+                            </cell>
                         </row>
                         <row role="data">
                             <cell role="data">1.90</cell>
-                            <cell role="data"><quote xml:lang="la">quatit</quote></cell>
+                            <cell role="data">
+                                <quote xml:lang="la">quatit</quote>
+                            </cell>
                             <cell role="data"><quote xml:lang="la">querit</quote> N <quote
                                     xml:lang="la">petit</quote> G</cell>
                         </row>
                         <row role="data">
                             <cell role="data">2.32</cell>
-                            <cell role="data"><quote xml:lang="la">et</quote></cell>
-                            <cell role="data"><quote xml:lang="la">at</quote></cell>
+                            <cell role="data">
+                                <quote xml:lang="la">et</quote>
+                            </cell>
+                            <cell role="data">
+                                <quote xml:lang="la">at</quote>
+                            </cell>
                         </row>
                         <row role="data">
                             <cell role="data">2.96</cell>
-                            <cell role="data"><quote xml:lang="la">canalem</quote></cell>
-                            <cell role="data"><quote xml:lang="la">canale</quote></cell>
+                            <cell role="data">
+                                <quote xml:lang="la">canalem</quote>
+                            </cell>
+                            <cell role="data">
+                                <quote xml:lang="la">canale</quote>
+                            </cell>
                         </row>
                         <row role="data">
                             <cell role="data">3.21</cell>
-                            <cell role="data"><quote xml:lang="la">sed</quote></cell>
-                            <cell role="data"><quote xml:lang="la">si</quote></cell>
+                            <cell role="data">
+                                <quote xml:lang="la">sed</quote>
+                            </cell>
+                            <cell role="data">
+                                <quote xml:lang="la">si</quote>
+                            </cell>
                         </row>
                         <row role="data">
                             <cell role="data">3.26</cell>
-                            <cell role="data"><quote xml:lang="la">sibi</quote></cell>
-                            <cell role="data"><quote xml:lang="la">ibi</quote></cell>
+                            <cell role="data">
+                                <quote xml:lang="la">sibi</quote>
+                            </cell>
+                            <cell role="data">
+                                <quote xml:lang="la">ibi</quote>
+                            </cell>
                         </row>
                         <row role="data">
                             <cell role="data">3.36</cell>
-                            <cell role="data"><quote xml:lang="la">a</quote></cell>
-                            <cell role="data"><quote xml:lang="la">o</quote></cell>
+                            <cell role="data">
+                                <quote xml:lang="la">a</quote>
+                            </cell>
+                            <cell role="data">
+                                <quote xml:lang="la">o</quote>
+                            </cell>
                         </row>
                         <row role="data">
                             <cell role="data">3.43</cell>
-                            <cell role="data"><quote xml:lang="la">nam</quote></cell>
-                            <cell role="data"><quote xml:lang="la">nunc</quote></cell>
+                            <cell role="data">
+                                <quote xml:lang="la">nam</quote>
+                            </cell>
+                            <cell role="data">
+                                <quote xml:lang="la">nunc</quote>
+                            </cell>
                         </row>
                         <row role="data">
                             <cell role="data">3.46</cell>
-                            <cell role="data"><quote xml:lang="la">quos</quote></cell>
-                            <cell role="data"><quote xml:lang="la">quas</quote></cell>
+                            <cell role="data">
+                                <quote xml:lang="la">quos</quote>
+                            </cell>
+                            <cell role="data">
+                                <quote xml:lang="la">quas</quote>
+                            </cell>
                         </row>
                         <row role="data">
                             <cell role="data">3.84</cell>
-                            <cell role="data"><quote xml:lang="la">tunc-tunc</quote></cell>
-                            <cell role="data"><quote xml:lang="la">tum-tunc</quote></cell>
+                            <cell role="data">
+                                <quote xml:lang="la">tunc-tunc</quote>
+                            </cell>
+                            <cell role="data">
+                                <quote xml:lang="la">tum-tunc</quote>
+                            </cell>
                         </row>
                         <row role="data">
                             <cell role="data">4.2</cell>
-                            <cell role="data"><quote xml:lang="la">platano</quote></cell>
-                            <cell role="data"><quote xml:lang="la">patula</quote></cell>
+                            <cell role="data">
+                                <quote xml:lang="la">platano</quote>
+                            </cell>
+                            <cell role="data">
+                                <quote xml:lang="la">patula</quote>
+                            </cell>
                         </row>
                     </table>
                     <p>And, finally, in some places where the manuscripts of the second family
@@ -1693,7 +2074,9 @@
                         </row>
                         <row role="data">
                             <cell role="data">2.14</cell>
-                            <cell role="data"><quote xml:lang="la">affuerant</quote></cell>
+                            <cell role="data">
+                                <quote xml:lang="la">affuerant</quote>
+                            </cell>
                             <cell role="data"><quote xml:lang="la">affuerunt</quote>* or <quote
                                     xml:lang="la">affuerant</quote></cell>
                         </row>
@@ -6690,20 +7073,16 @@
                         
                         <l n="10"><label type="speaker">I.</label><app><lem>Mobilior</lem><rdg wit="#ExcPar"><witStart/><!-- Discuss with Hugh. Add section in guidelines --></rdg></app> <app>
                                 <lem xml:id="lem3.10ventis">ventis</lem>
-                                <rdgGrp type="anteCorr">
-                                    <rdg wit="#G" varSeq="1">venti</rdg>
-                                    <rdg wit="#G" varSeq="2" copyOf="#lem3.10ventis"/>
-                                </rdgGrp>
-                                <!-- Is this necessary with use of <witStart> and <witEnd>? <note resp="Giarratano">mobilior-femina habent Exc. Par.</note> -->
+                                <rdg wit="#G" xml:id="rdg3.10-venti">venti</rdg>
+                            <witDetail wit="#G" target="#rdg3.10-venti" type="correction-original"><hi rend="italic">s</hi> e corr.</witDetail>
+                         <!-- Is the following necessary with use of <witStart> and <witEnd>? <note resp="Giarratano">mobilior-femina habent Exc. Par.</note> -->
                             </app> o <app><lem>femina</lem><rdg wit="#ExcPar"><witEnd/><!-- Discuss with Hugh. Add section in guidelines --></rdg></app>! sic tua Phyllis:</l>
                         <l n="11">quae sibi, nam <app>
                                 <lem>memini</lem>
                                 <rdg wit="#N">nemini</rdg>
                             </app>, si quando solus abesses,</l>
                         <l n="12">mella etiam sine te iurabat amara videri.</l>
-                    
-                    
-                        
+
                         <l n="13"><label type="speaker">L.</label>Altius ista <app>
                                 <lem>querar</lem>
                                 <rdg wit="#P #ε">qrat</rdg>
@@ -6731,10 +7110,8 @@
                             </app>, Iolla.</l>
                         <l n="14">has <app>
                                 <lem xml:id="lem3.14pete">pete</lem>
-                                <rdgGrp>
-                                    <rdg wit="#N" varSeq="1">petes</rdg>
-                                    <rdg wit="#N2" varSeq="2" copyOf="#lem3.14pete"/>
-                                </rdgGrp>
+                                <rdg wit="#N" xml:id="rdg3.14-petes">petes</rdg>
+                                <witDetail wit="#N" target="#rdg3.14-petes" type="correction-original">corr. <ref target="#N2">N<hi rend="superscript">2</hi></ref></witDetail>
                             </app> nunc salices et <app>
                                 <lem wit="#λ" source="#edd.">laevas</lem>
                                 <rdg wit="#N #G #P #α #ρ #π #ε #γ #β #u #e #d2">levas</rdg>
@@ -6981,10 +7358,10 @@
                             </app> tua Phyllis <app>
                                 <lem xml:id="lem3.32amabit">amabit</lem>
                                 <rdg wit="#P">amabat</rdg>
-                                <rdgGrp type="anteCorr">
-                                    <rdg wit="#N" varSeq="1">amabis</rdg>
-                                    <rdg wit="#N2" varSeq="2" copyOf="#lem3.32amabit"/>
-                                </rdgGrp>
+                                <rdg wit="#N" xml:id="rdg3.32-amabis">amabis</rdg>
+                                <witDetail wit="#N" target="#rdg3.32-amabis" corresp="#rdg3.32-amabit" type="correction-original"/>
+                                <rdg wit="#N2" xml:id="rdg3.32-amabit" copyOf="#lem3.32amabit"/>
+                                <witDetail wit="#N2" target="#rdg3.32-amabit" corresp="#rdg3.32-amabis" type="correction-altered"/>
                             </app>’.</l>
                         <l n="33">nunc penes <app>
                                 <lem>Alcippen</lem>
@@ -7053,10 +7430,8 @@
                                 <rdg wit="#N #G #P #V #r #e #u #b" source="#i1 #l2 #g #Tig. #Gryph. #Barth1613 #Glaeser">nocent</rdg>
                             </app>. si quid mandare <app>
                                 <lem xml:id="lem3.38iuvabit">iuvabit</lem>
-                                <rdgGrp type="anteCorr">
-                                    <rdg wit="#N" varSeq="1">iuvabis</rdg>
-                                    <rdg wit="#N2" varSeq="2" copyOf="#lem3.38iuvabit"/>
-                                </rdgGrp>
+                                <rdg wit="#N" xml:id="rdg3.38-iuvabis">iuvabis</rdg>
+                                <witDetail wit="#N" target="#rdg3.38-iuvabis" type="correction-original">corr. <ref target="#N2">N<hi rend="superscript">2</hi></ref></witDetail>
                             </app>,</l>
                         <l n="39">sedulus <app>
                                 <lem>iratae</lem>
@@ -7105,26 +7480,21 @@
                                 <rdg wit="#P">mea</rdg>
                             </app> cortice verba <app>
                                 <lem xml:id="lem3.43notabo">notabo</lem>
-                                <rdgGrp type="anteCorr">
-                                    <rdg wit="#N" varSeq="1">notato</rdg>
-                                    <rdg wit="#N2" varSeq="2" copyOf="#lem3.43notabo"/>
-                                </rdgGrp>
-                                <rdgGrp type="anteCorr">
-                                    <rdg wit="#P" varSeq="1">nota</rdg>
-                                    <rdg wit="#P" varSeq="2" copyOf="#lem3.43notabo"/>
-                                </rdgGrp>
+                                <rdg wit="#N" xml:id="rdg3.43-notato">notato</rdg>
+                                <witDetail wit="#N" target="#rdg3.43-notato" corresp="#rdg3.43-notabo" type="correction-original"/>
+                                <rdg wit="#N2" xml:id="rdg3.43-notabo" copyOf="#lem3.43notabo"/>
+                                <witDetail wit="#N2" target="#rdg3.43-notabo" corresp="#rdg3.43-notato" type="correction-altered"/>
+                                <rdg wit="#P" xml:id="rdg3.43-notabo-P">notabo</rdg>
+                                <witDetail wit="#P" target="#rdg3.43-notabo-P"><hi rend="italic">bo</hi> e corr.</witDetail>
                             </app></l>
                         <l n="44"><app>
                                 <lem>et decisa</lem>
-                                <rdg wit="#N" type="corrDeletion">et decisa<del>m</del></rdg>
-                                <!-- (m eras.) -->
+                                <rdg wit="#N" xml:id="rdg3.44-et-decisam">et decisam</rdg>
+                                <witDetail wit="#N" target="#rdg3.44-et-decisam" type="correction-original"><hi rend="italic">m</hi> eras.</witDetail>
                                 <rdg wit="#P">et decissa</rdg>
                                 <rdg source="#Heins.">atque incisa</rdg>
                             </app> feram rutilanti carmina libro.</l>
-                    
-                    
-                        
-                        <l n="45"><label type="speaker"><app>
+                    <l n="45"><label type="speaker"><app>
                                 <lem>L.</lem>
                                 <rdg wit="#P"/>
                             </app></label>‘Has tibi, <app>
@@ -7207,10 +7577,10 @@
                                 <lem xml:id="lem3.50tabidus">tabidus</lem>
                                 <rdg wit="#G #u #b" source="#i2 #l2 #o #n">turbidus</rdg>
                                 <rdg wit="#ε #e">tubidus</rdg>
-                                <rdgGrp type="anteCorr">
-                                    <rdg wit="#N" varSeq="1">tapidus</rdg>
-                                    <rdg wit="#N2" varSeq="2" copyOf="#lem3.50tabidus"/>
-                                </rdgGrp>
+                                <rdg wit="#N" xml:id="rdg3.50-tapidus">tapidus</rdg>
+                                <witDetail wit="#N" target="#rdg3.50-tapidus" corresp="#rdg3.50-tabidus" type="correction-original"/>
+                                <rdg wit="#N2" xml:id="rdg3.50-tabidus" copyOf="#lem3.50tabidus"/>
+                                <witDetail wit="#N2" target="#rdg3.50-tabidus" corresp="#rdg3.50-tabidus" type="correction-altered"/>
                                 <rdg wit="#θ">talibus</rdg>
                             </app> erro.</l>
                         <l n="51"><app>
@@ -7364,12 +7734,12 @@
                                 <rdg wit="#χ">mulctrix</rdg>
                             </app></l>
                         <l n="67">et <app>
-                                <lem xml:id="lem3.67quam">quam</lem>
-                                <rdgGrp type="mutation">
-                                    <!-- Handling qui (ex quam) N. -->
-                                    <rdg wit="#N" varSeq="1" copyOf="#lem3.67quam"/>
-                                    <rdg wit="#N" varSeq="2">qui</rdg>
-                                </rdgGrp>
+                                <!-- Handling qui (ex quam) N. -->
+                            <lem xml:id="lem3.67quam">quam</lem>
+                            <rdg wit="#N" xml:id="rdg3.67-quam" copyOf="#lem3.67quam"/>
+                            <witDetail wit="#N" target="#rdg3.67-quam" corresp="#rdg3.67-qui" type="correction-original"/>
+                            <rdg wit="#N" xml:id="rdg3.67-qui">qui</rdg>
+                            <witDetail wit="#N" target="#rdg3.67-qui" corresp="#rdg3.67-quam">ex <hi rend="italic">quam</hi></witDetail>
                             </app> multa <app>
                                 <lem xml:id="lem3.67suos" exclude="#rdg3.67natas">suos</lem>
                                 <rdg wit="#δ" xml:id="rdg3.67suas" exclude="#lem3.67natos">suas</rdg>
@@ -7628,10 +7998,8 @@
                                 <rdg source="#Wernsd.">quam</rdg>
                             </app> subigit <app>
                                 <lem xml:id="lem3.85manualibus">manualibus</lem>
-                                <rdgGrp type="anteCorr">
-                                    <rdg wit="#N" varSeq="1">manuilibus</rdg>
-                                    <rdg wit="#N2" varSeq="2" copyOf="#lem3.85manualibus"/>
-                                </rdgGrp>
+                                <rdg wit="#N" xml:id="rdg3.85-manuilibus">manuilibus</rdg>
+                                <witDetail wit="#N" target="#rdg3.85-manuilibus" type="correction-original">corr. <ref target="#N2">N<hi rend="superscript">2</hi></ref></witDetail>
                             </app>
                             <app>
                                 <lem wit="#ν #η">hordea</lem>
@@ -7698,10 +8066,10 @@
                                 <note target="rdg3.91lycidas">def. <ref target="#Ellis">Ellis</ref>
                                     (l.l. p. 90)</note>
                                 <rdg wit="#G #μ #λ #ρ #π #α #β">licidas</rdg>
-                                <rdgGrp type="mutation">
-                                    <rdg wit="#N" varSeq="1">licidax</rdg>
-                                    <rdg wit="#N2" varSeq="2">licida<add place="above">n</add></rdg>
-                                </rdgGrp>
+                                <rdg wit="#N" xml:id="rdg3.91-licidax">licidax</rdg>
+                                <witDetail wit="#N" target="#rdg3.91-licidax" corresp="#rdg3.91-licidan" type="correction-original"/>
+                                <rdg wit="#N2" xml:id="rdg3.91-licidan">licidan</rdg>
+                                <witDetail wit="#N2" target="#rdg3.92-licidan" corresp="#rdg3.91-licidax" type="correction-altered"><add place="above">n</add></witDetail><!-- Check with Hugh to make sure this is okay. -->
                                 <rdg wit="#κ #χ">lycida</rdg>
                             </app>
                             <app>
@@ -7803,8 +8171,7 @@
                                 <lem wit="#N #G #P #V #r #s" source="#Glaeser #Keene #Schenkl">venit</lem>
                                 <rdg wit="#A #ε #γ" source="#edd.">redit</rdg>
                             </app> inventa non irritus ecce iuvenca.</l>
-                    
-                </div>
+                </div><!-- End of poem 3 -->
                 <div type="textpart" n="4" xml:id="poem4">
                     <head>Poem 4. [Meliboeus, Corydon, Amyntas]</head>
                     <list type="speakers">
@@ -7820,11 +8187,8 @@
                             </app>, vultuque subinde minaci</l>
                         <l n="2"><app>
                                 <lem xml:id="lem4.2quidve">quidve</lem>
-                                <rdgGrp type="anteCorr">
                                     <!--G (d alt. del.)-->
-                                    <rdg wit="#G" varSeq="1" xml:id="rdg4.2quiddve">quiddve</rdg>
-                                    <rdg wit="#G" varSeq="2" copyOf="#lem4.2quidve"/>
-                                </rdgGrp>
+                                <rdg wit="#G" xml:id="rdg4.2quiddve">quiddve</rdg>
                                 <witDetail wit="#G" target="#rdg4.2quiddve"><hi rend="italic">d</hi>
                                     alt. del.</witDetail>
                             </app> sub hac <app>
