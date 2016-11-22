@@ -12907,7 +12907,8 @@
                      <witDetail wit="#G" target="#rdg6.52illa" corresp="#lem6.52illi" type="correction-original">in quo corr. in mg. <ref target="#N1">N<hi rend="superscript">1</hi></ref></witDetail>
                   </app></l>
 
-               <app><!-- Begin interpolated line that occurs after 52 in some witnesses and editions, but after 53 in others. -->
+               <app><!-- Begin interpolated line that occurs after 52 in some witnesses and editions, but after 53 in others. --><!-- Discuss with Hugh. This isn't showing up in the reading room. -->
+                   <!-- Add this to the guidelines? -->
                   <lem source="#Baehr. #Schenkl #Giarratano" exclude="#lem6.53b #rdg6.53b-cervix #rdg6.53b-frons-est" xml:id="lem6.53a"/>
                    <rdg wit="#ε #π #ρ2" xml:id="rdg6.53a"><surplus><l n="6.53a" exclude="#lem6.53b #rdg6.53b #rdg6.53b-frons-est">pes levis adductum latus, excelsissima cervix</l></surplus></rdg>
                    <wit>edd. (praeter <ref target="#r">r</ref> <ref target="#s">s</ref> <ref target="#Baehr.">Baehr.</ref> <ref target="#Schenkl">Schenkl</ref>)</wit>
@@ -12935,7 +12936,8 @@
                      </rdgGrp>
                   </app>,</l>
                
-               <app>
+               <app><!-- Discuss with Hugh. This isn't showing up in the reading room. -->
+                   <!-- Add this to the guidelines? -->
                   <!-- Accounting for the witnesses and sources that print the interpolated line after line 53 -->
                   <lem xml:id="lem6.53b" exclude="#lem6.53a #rdg6.53a"/>
                    <rdg wit="#γ #μ" source="#n #o #Glaeser #Keene" xml:id="rdg6.53b-cervix" exclude="#lem6.53a #rdg6.53a"><l n="6.53b">pes levis adductum
@@ -13162,11 +13164,10 @@
                      <lem>viret</lem>
                      <rdg wit="#θ">videt</rdg>
                   </app> herba <app>
-                     <lem wit="#N #ρ2" source="#edd." xml:id="lem6.71tapetis">tapetis</lem>
-                     <rdgGrp type="anteCorr">
-                        <rdg wit="#G" varSeq="1">taphetys</rdg>
-                        <rdg wit="#G1" varSeq="2" copyOf="#lem6.71tapetis"/>
-                     </rdgGrp>
+                     <lem wit="#N #G1 #ρ2" source="#edd." xml:id="lem6.71tapetis">tapetis</lem>
+                      <witDetail wit="#G1" target="#lem6.71tapetis" corresp="rdg6.71-taphetys" type="correction-altered"/>
+                     <rdg wit="#G" xml:id="rdg6.71-taphetys">taphetys</rdg>
+                     <witDetail wit="#G" target="rdg6.71-taphetys" corresp="#lem6.71tapetis" type="correction-original"/>
                      <rdg wit="#V #r #e #b #d #s #u" source="#n #o #l2 #i2 #Ulit.">lapillis</rdg>
                   </app>.</l>
                <l n="72" xml:id="line6.72"><app>
@@ -13177,11 +13178,8 @@
                   </app>nunc mihi seposita reddantur carmina lite;</l>
                <l n="73">nam vicibus teneros malim cantetis <app>
                      <lem xml:id="lem6.73amores">amores</lem>
-                     <rdgGrp type="anteCorr">
-                        <rdg wit="#N" varSeq="1">amares</rdg>
-                        <rdg wit="#N1" varSeq="2" copyOf="#lem6.73amores"/>
-                     </rdgGrp>
-                     <!-- N (corr. m1) -->
+                     <rdg wit="#N" xml:id="rdg6.73-amares">amares</rdg>
+                     <witDetail wit="#N" target="#rdg6.73-amares" corresp="#lem6.73amorea" type="correction-original">corr. <ref target="#N1">N<hi rend="superscript">1</hi></ref></witDetail>
                   </app>:</l>
                <l n="74"><app>
                      <lem source="#n #Baehr. #Schenkl" type="emendation">Astyle</lem>
@@ -13228,11 +13226,8 @@
                      <rdg wit="#λ #χ">menasille</rdg>
                   </app>, <app>
                      <lem xml:id="lem6.75precamur">precamur</lem>
-                     <rdgGrp type="anteCorr">
-                        <rdg wit="#G" varSeq="1">petamus</rdg>
-                        <rdg wit="#G1" varSeq="2" copyOf="#lem6.75precamur"/>
-                     </rdgGrp>
-                     <!-- G (corr. m1) -->
+                     <rdg wit="#G" xml:id="rdg6.75-petamus">petamus</rdg>
+                     <witDetail wit="#G" target="#rdg6.75-petamus" corresp="#lem6.75precamur">corr. <ref target="#G1">G<hi rend="superscript">1</hi></ref></witDetail>
                   </app>)</l>
                <l n="76">auribus <app>
                      <lem>accipias</lem>
@@ -13458,18 +13453,16 @@
                   </app>:</l>
                <l n="92"><app>
                      <lem xml:id="lem6.92litibus">litibus</lem>
-                     <rdgGrp type="anteCorr">
-                        <rdg wit="#G" varSeq="1">lititibus</rdg>
-                        <rdg wit="#G1" varSeq="2" copyOf="#lem6.92litibus"/>
-                     </rdgGrp>
-                     <!-- G (corr. m1). -->
+                     <rdg wit="#G" xml:id="rdg6.92-lititibus">lititibus</rdg>
+                     <witDetail wit="#G" target="#rdg6.92-lititibus" corresp="#lem6.92litibus">corr. <ref target="#G1">G<hi rend="superscript">1</hi></ref></witDetail>
                   </app>
                   <app>
                      <lem>hi</lem>
                      <rdg wit="#N #G">hy</rdg>
                   </app> vestris poterunt imponere finem.</l>
-            
-         </div>
+         </div><!-- End of poem 6 -->
+                
+                
                 <div type="textpart" n="7" xml:id="poem7">
             <head>Poem 7. [Lycotas, Corydon]</head>
             <list type="speakers">
