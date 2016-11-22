@@ -12101,7 +12101,7 @@
                      <rdg wit="#κ #χ">vetus</rdg>
                      <rdg wit="#ν #ρ1">vectus</rdg>
                      <rdg wit="#λ #α #γ #χ #e #d" xml:id="rdg6.1laetus">laetus</rdg>
-                     <witDetail wit="#χ" target="#rdg6.1laetus">(in mg.)</witDetail>
+                     <witDetail wit="#χ" target="#rdg6.1laetus">in mg.</witDetail>
                      <rdg wit="#θ #φ">ectus</rdg>
                      <rdg wit="#δ">aetus</rdg>
                      <rdg wit="#η">tectus</rdg>
@@ -12131,11 +12131,8 @@
                   </app>
                   <app>
                      <lem xml:id="lem6.3non">non</lem>
-                     <rdgGrp type="anteCorr">
-                        <rdg wit="#N" varSeq="1"/>
-                        <rdg wit="#N2" varSeq="2" copyOf="#lem6.3non"/>
-                     </rdgGrp>
-                     <!-- N (add. m2). -->
+                     <rdg wit="#N" xml:id="rdg6.03-non-om"/>
+                     <witDetail wit="#N" target="#rdg6.03-non-om" corresp="#lem6.3non" type="correction-original">add. <ref target="#N2">N<hi rend="superscript">2</hi></ref></witDetail>
                   </app> sine pignore. <app>
                      <lem>Nyctilus</lem>
                      <rdg wit="#N">nictilis</rdg>
@@ -12150,12 +12147,9 @@
                   </app></l>
                <l n="4">iuncta matre <app>
                      <lem xml:id="lem6.4dedit">dedit</lem>
-                     <rdgGrp type="anteCorr">
-                        <rdg wit="#N" varSeq="1">deo *</rdg>
-                        <rdg wit="#N2" varSeq="2" copyOf="#lem6.4dedit"/>
-                     </rdgGrp>
-                     <!-- deo * N (corr. m2). -->
-                  </app>: catulum dedit <app>
+                     <rdg wit="#N" xml:id="rdg6.04-deo">deo *</rdg>
+                     <witDetail wit="#N" target="#rdg6.04-deo" corresp="#lem6.4dedit" type="correction-original">corr. <ref target="#N2">N<hi rend="superscript">2</hi></ref></witDetail>
+                </app>: catulum dedit <app>
                      <lem xml:id="lem6.5ille">ille</lem>
                      <note target="#lem6.5ille">nonulli, ut <ref target="#p">Pithoeus</ref>, <ref target="#Ulit.">Ulit.</ref> etc.. post <hi rend="italic">ille</hi>
                         interpunxerunt.</note>
@@ -12178,7 +12172,7 @@
             
             
                
-               <!-- Does this work? -->
+               
                <l n="6"><label type="speaker"><app>
                      <lem>L.</lem>
                      <rdg wit="#α #λ #μ #γ #π #β #ε #e #u #b" source="#n #o #i1 #Vienn." xml:id="rdg6.6speaker"/>
@@ -12209,14 +12203,11 @@
                   </app>?</l>
                <l n="7"><app>
                      <lem>Astyle</lem>
-                     <!-- astile (hastile νφr, ast ille δ, actile ε) ω edd. -->
-                     <rdg source="#Baehr. #Schenkl">astyle</rdg>
+                     <rdg source="#Baehr. #Schenkl" type="conjecture">astyle</rdg>
                      <rdg wit="#ω" source="#edd." xml:id="rdg6.7astile">astile</rdg>
-                     <rdgGrp type="subVariants">
-                        <rdg wit="#ν #φ #r">hastile</rdg>
-                        <rdg wit="#δ">ast ille</rdg>
-                        <rdg wit="#ε">actile</rdg>
-                     </rdgGrp>
+                     <rdg wit="#ν #φ #r">hastile</rdg>
+                     <rdg wit="#δ">ast ille</rdg>
+                     <rdg wit="#ε">actile</rdg>
                   </app>, credibile <app>
                      <lem xml:id="lem6.7est">est</lem>
                      <note target="#lem6.7est">(post <hi rend="italic">est</hi> plerique edd. signum
@@ -12263,29 +12254,20 @@
                         12)</note>
                   </app>
                   <app>
-                     <lem wit="#G #ε #φ #ν #α #β #ρ2 #π2" source="#edd." xml:id="lem6.8aedona">aedona</lem>
-                     <witDetail wit="π2">(in mg.)</witDetail>
-                     <!--π2 (in mg.)-->
-                     <rdgGrp type="anteCorr">
-                        <rdg wit="#N" varSeq="1">accidona</rdg>
-                        <rdg wit="#N2" varSeq="2" copyOf="#lem6.8aedona"/>
-                     </rdgGrp>
-                     <!--N (corr. m2)-->
+                     <lem wit="#N2 #G #ε #φ #ν #α #β #ρ2 #π2" source="#edd." xml:id="lem6.8aedona">aedona</lem>
+                     <witDetail wit="#N2" target="#lem6.8aedona" corresp="#rdg6.08-accidona" type="correction-altered"/>
+                     <witDetail wit="π2" target="#lem6.8aedona">in mg.</witDetail>
+                     <rdg wit="#N" xml:id="rdg6.08-accidona">accidona</rdg>
+                     <witDetail wit="#N" target="#rdg6.08-accidona" corresp="#lem6.8aedona" type="correction-original"/>
                      <rdg wit="#π1 #κ #χ #λ #η #ρ1">edona</rdg>
                      <rdg wit="#μ #δ #γ">adona</rdg>
                   </app>
                   <app>
                      <lem xml:id="lem6.8bubo">bubo</lem>
-                     <rdgGrp type="anteCorr">
-                        <rdg wit="#N" varSeq="1">boubo</rdg>
-                        <rdg wit="#N" varSeq="2" xml:id="rdg6.8boubo">b<del>o</del>ubo</rdg>
-                     </rdgGrp>
-                     <witDetail wit="#N" target="#rdg6.8boubo">(<hi rend="italic">o</hi> pr.
-                        del.)</witDetail>
-                     <!--N (o pr. del.)-->
+                     <rdg wit="#N" xml:id="rdg6.08-boubo">boubo</rdg>
+                     <witDetail wit="#N" target="#rdg6.08-boubo" corresp="#rdg6.08-bubo" type="correction-original"><hi rend="italic">o</hi> pr.
+                        del.</witDetail>
                   </app>.</l>
-            
-            
                
                <l n="9"><label type="speaker"><app>
                      <lem>A.</lem>
@@ -12299,13 +12281,10 @@
                      <rdg wit="#s" source="#Modius #Wernsd. #Beck">ne</rdg>
                   </app>
                   <app>
-                     <lem wit="#N #κ #χ #γ #ν #ρ #π #φ" source="#edd." xml:id="lem6.9potiar">potiar</lem>
-                     <rdg wit="#α1 #ε1 #β #e #u #b" source="#i #l #Vienn. #Tig." xml:id="rdg6.9patiar">patiar</rdg>
-                     <!--G (corr. m1)-->
-                     <rdgGrp type="anteCorr">
-                        <rdg wit="#G" varSeq="1" copyOf="#rdg6.9patiar"/>
-                        <rdg wit="#G" varSeq="2" copyOf="#lem6.9potiar"/>
-                     </rdgGrp>
+                     <lem wit="#N #G1 #κ #χ #γ #ν #ρ #π #φ" source="#edd." xml:id="lem6.9potiar">potiar</lem>
+                     <witDetail wit="#G1" target="#lem6.9potiar" corresp="#rdg6.9patiar" type="correction-altered"/> 
+                     <rdg wit="#G #α1 #ε1 #β #e #u #b" source="#i #l #Vienn. #Tig." xml:id="rdg6.9patiar">patiar</rdg>
+                     <witDetail wit="#G" target="#rdg6.0patiar" corresp="#lem6.9potiar" type="correction-original"/>
                      <rdg wit="#δ">paciar</rdg>
                      <rdg wit="#λ #μ #α2 #ε2">patior</rdg>
                      <rdg source="#g">pater</rdg>
@@ -12318,11 +12297,8 @@
                      <rdg wit="#φ">Cortale</rdg>
                   </app>, qua nunc <app>
                      <lem xml:id="lem6.9ego">ego</lem>
-                     <rdgGrp type="anteCorr">
-                        <rdg wit="#N" varSeq="1"/>
-                        <rdg wit="#N2" varSeq="2" copyOf="#lem6.9ego"/>
-                     </rdgGrp>
-                     <!--N (add. m2)-->
+                     <rdg wit="#N" xml:id="rdg6.09-ego-om"/>
+                     <witDetail wit="#N" target="#rdg6.09-ego-om" corresp="#lem6.9ego" type="correction-original">add. <ref target="#N2">N<hi rend="superscript">2</hi></ref></witDetail>
                   </app>
                   <app>
                      <lem>maceror una</lem>
@@ -12330,18 +12306,14 @@
                   </app> una,</l>
                <l n="10">si <app>
                      <lem xml:id="lem6.10magis">magis</lem>
-                     <rdgGrp type="anteCorr">
-                        <rdg wit="#N" varSeq="1">magna</rdg>
-                        <rdg wit="#N2" varSeq="2" copyOf="#lem6.10magis"/>
-                     </rdgGrp>
-                     <!--N (corr. m2)-->
+                     <rdg wit="#N" xml:id="rdg6.10-magna">magna</rdg>
+                     <witDetail wit="#N" target="#rdg6.10-magna" corresp="#lem6.10magis" type="correction-original">corr. <ref target="#N2">N<hi rend="superscript">2</hi></ref></witDetail>
                   </app> aut docili calamorum <app>
                      <lem>Nyctilus</lem>
                      <rdg wit="#ε #γ" source="#edd.">nyctilus</rdg>
                      <rdg wit="#N">nictilis</rdg>
                      <rdg wit="#G #λ #μ" xml:id="rdg6.10nictilus">nictilus</rdg>
-                     <witDetail wit="#μ">(mg.)</witDetail>
-                     <!--μ (mg.)-->
+                     <witDetail wit="#μ" target="#rdg6.10nictilus">(mg.)</witDetail>
                      <rdg wit="#α #κ #ρ1 #δ #η #β #π #φ #χ">nictilos</rdg>
                      <rdg wit="#μ">nictulos</rdg>
                      <rdg wit="#ν #ρ2 #r">nyctilos</rdg>
@@ -12376,8 +12348,9 @@
                   </app>
                   <app>
                      <lem xml:id="lem6.12alter">alter</lem>
-                     <witDetail wit="#N" target="#lem6.12alter">(<hi rend="italic">lter</hi> in
-                        spatio vacuo, ut vid., add. <ref target="#N2">N²</ref>)</witDetail>
+                      <rdg wit="#N" xml:id="rdg6.12-alter">a</rdg>
+                     <witDetail wit="#N" target="#lem6.12alter"><hi rend="italic">lter</hi> in
+                        spatio vacuo, ut vid., add. <ref target="#N2">N<hi rend="superscript">2</hi></ref></witDetail>
                      <!--N (lter in spatio vacuo, ut vid., add. m2)-->
                   </app></l>
                <l n="13">venit et <app>
@@ -12443,11 +12416,8 @@
                   </app>,</l>
                <l n="18">tu <app>
                      <lem xml:id="lem6.18quoque">quoque</lem>
-                     <rdgGrp type="anteCorr">
-                        <rdg wit="#N" varSeq="1">quque</rdg>
-                        <rdg wit="#N2" varSeq="2" copyOf="#lem6.18quoque"/>
-                     </rdgGrp>
-                     <!--N (corr. m2)-->
+                     <rdg wit="#N" xml:id="rdg6.18-quque">quque</rdg>
+                     <witDetail wit="#N" target="#rdg6.18-quque" corresp="#lem6.18quoque" type="correction-original">corr. <ref target="#N2">N<hi rend="superscript">2</hi></ref></witDetail>
                   </app> laudatum <app>
                      <lem>posses</lem>
                      <rdg source="#Haupt1854 #Baehr. #Schenkl1">nosses</rdg>
@@ -12456,10 +12426,9 @@
                      <lem>Alcona</lem>
                      <rdg wit="#N">alterna</rdg>
                      <rdg wit="#N2">altona</rdg>
-                     <!--N (altona m2)-->
                   </app> probare.</l>
             
-            
+            <!-- Start here 2016-11-21 -->
                
                <l n="19"><label type="speaker">L.</label><app>
                      <lem>vis</lem>
@@ -12476,7 +12445,7 @@
                   </app>, improbe, <app>
                      <lem wit="#ρ2 #κ #μ #β #ε #χ #γ" source="#edd.">par es</lem>
                      <rdg wit="#N #π" xml:id="rdg6.10par_est">par est</rdg>
-                     <witDetail wit="#N">(in quo <hi rend="italic">t</hi> del.)</witDetail>
+                     <witDetail wit="#N" target="#rdg6.10par_est">in quo <hi rend="italic">t</hi> del.</witDetail>
                      <!--N (in quo t del.)-->
                      <rdg wit="#G #α #ν #φ #η #ρ1 #r #s #u" source="#n #o">pares</rdg>
                      <rdg wit="#δ">pars est</rdg>
@@ -12496,21 +12465,15 @@
                   </app>
                   <app>
                      <lem xml:id="lem6.20nostris">nostris</lem>
-                     <!--N (corr. m2)-->
-                     <rdgGrp type="anteCorr">
-                        <rdg wit="#N" varSeq="1" xml:id="rdg6.20nostros">nostros</rdg>
-                        <rdg wit="#N2" varSeq="2" copyOf="#lem6.20nostris"/>
-                     </rdgGrp>
-                     <rdg source="#Glaeser" copyOf="#rdg6.20nostros"/>
+                     <rdg wit="#N" source="#Glaeser" xml:id="rdg6.20nostros">nostros</rdg>
+                     <witDetail wit="#N" target="#rdg6.20nostros" corresp="#lem6.20nostris" type="correction-original">corr. <ref target="#N2">N<hi rend="superscript">2</hi></ref></witDetail>
                   </app>?</l>
                <l n="21">vis conferre <app>
                      <lem xml:id="lem6.21manum">manum</lem>
-                     <rdg wit="#φ #ρ #ν #ε" source="#edd." xml:id="rdg6.21manus">manus</rdg>
-                     <rdgGrp type="anteCorr">
-                        <rdg wit="#G" varSeq="1" copyOf="#rdg6.21manus"/>
-                        <rdg wit="#G1" varSeq="2" copyOf="#lem6.21manum"/>
-                     </rdgGrp>
-                     <note target="#rdg6.21manus">(exceptis <ref target="#e">e</ref>
+                     <rdg wit="#G #φ #ρ #ν #ε" xml:id="rdg6.21manus">manus</rdg>
+                     <witDetail wit="#G" target="#rdg6.21manus" corresp="#lem6.21manum" type="correction-original">corr. <ref target="#G1">G<hi rend="superscript">1</hi></ref></witDetail>
+                   <!-- Discuss this usage of <wit> with Hugh -->  
+                        <wit>edd., exceptis <ref target="#e">e</ref>
                         <ref target="#u">u</ref>
                         <ref target="#b">b</ref>
                         <ref target="#d2">d²</ref>
@@ -12518,7 +12481,7 @@
                         <ref target="#i2">i²</ref>
                         <ref target="#Baehr.">Baehr.</ref>
                         <ref target="#Schenkl">Schenkl</ref>
-                     </note>
+                     </wit>
                   </app>? <app>
                      <lem>veniat licet</lem>
                      <rdg wit="#η #θ #φ #ρ #ν1 #r">vel veniat</rdg>
@@ -12543,18 +12506,13 @@
                      <rdg source="#Glaeser #Baehr.">vincen</rdg>
                   </app> tu <app>
                      <lem>quemquam</lem>
-                     <rdgGrp type="subvariants">
-                        <!-- Not sure this is the right value for @type -->
-                        <rdg wit="#N">q<hi rend="stacked">e</hi> q&#x0304;</rdg>
-                        <rdg wit="#N2">q<hi rend="stacked">e</hi>mq&#x0304;</rdg>
-                     </rdgGrp>
+                     <rdg wit="#N">q<hi rend="stacked">e</hi> q&#x0304;</rdg>
+                     <rdg wit="#N2">q<hi rend="stacked">e</hi>mq&#x0304;</rdg>
                   </app>? vel te certamine quisquam</l>
                <l n="23">dignetur, qui <app>
                      <lem xml:id="lem6.23vix">vix</lem>
-                     <rdgGrp type="anteCorr">
-                        <rdg wit="#N" varSeq="1">vis</rdg>
-                        <rdg wit="#N2" varSeq="2" copyOf="#lem6.23vix"/>
-                     </rdgGrp>
+                     <rdg wit="#N" xml:id="rdg6.23-vis">vis</rdg>
+                     <witDetail wit="#N" target="#rdg6.23-vis" corresp="#lem6.23vix" type="correction-original">corr. <ref target="#N2">N<hi rend="superscript">2</hi></ref></witDetail>
                      <!-- Note that Giarratano omitted the witness siglum here, but corrected the omission in the second edition -->
                   </app>
                   <app>
@@ -12617,11 +12575,8 @@
                   </app>.</l>
                <l n="27">sed <app>
                      <lem xml:id="lem6.27quid">quid</lem>
-                     <rdgGrp type="anteCorr">
-                        <rdg wit="#N" varSeq="1">quas</rdg>
-                        <rdg wit="#N2" varSeq="2" copyOf="#lem6.27quid"/>
-                     </rdgGrp>
-                     <!-- 27 quas N (corr. m2). -->
+                     <rdg wit="#N" xml:id="rdg6.27-quas">quas</rdg>
+                     <witDetail wit="#N" target="#rdg6.27-quas" corresp="#lem6.27quid" type="correction-original">corr. <ref target="#N2">N<hi rend="superscript">2</hi></ref></witDetail>
                   </app> opus vana consumere tempora lite?</l>
                <l n="28">ecce venit <app>
                      <lem wit="#ρ2" source="#edd.">Mnasyllus</lem>
@@ -12749,19 +12704,13 @@
                      <wit>edd. ante <ref target="#Glaeser">Glaeser</ref></wit>
                   </app> ferre iugum <app>
                      <lem xml:id="lem6.35sequiturque">sequiturque</lem>
-                     <rdgGrp type="postCorr">
-                        <rdg wit="#G" varSeq="1">sequitur</rdg>
-                        <rdg wit="#G1" varSeq="2">sequitur<add place="below" hand="#G1">que</add></rdg>
-                     </rdgGrp>
-                     <!-- que in G s. v. m1 -->
+                     <rdg wit="#G" xml:id="rdg6.35-sequitur">sequitur</rdg>
+                      <witDetail wit="#G" target="#rdg6.35-sequitur" corresp="#lem6.35sequiturque" type="correction-original"><add place="below">que</add> <ref target="#G1">G<hi rend="superscript">1</hi></ref></witDetail>
                   </app> vocantem</l>
                <l n="36">credulus et <app>
                      <lem wit="#V" source="#edd." xml:id="lem6.36mensae">mensae</lem>
-                     <rdgGrp type="anteCorr">
-                        <rdg wit="#N" varSeq="1">mensem</rdg>
-                        <rdg wit="#N2" varSeq="2" copyOf="#lem6.36mensae"/>
-                     </rdgGrp>
-                     <!-- N (corr. m2) -->
+                     <rdg wit="#N" xml:id="rdg6.36-mensem">mensem</rdg>
+                     <witDetail wit="#N" target="#rdg6.36-mensem" corresp="#lem6.36mensae" type="correction-original">corr. ad <hi rend="italic">mensae</hi> <ref target="#N2">N<hi rend="superscript">2</hi></ref></witDetail>
                      <rdg wit="#G">mense</rdg>
                   </app> non <app>
                      <lem>improba</lem>
@@ -12770,12 +12719,10 @@
                <l n="37">aspicis, ut <app>
                      <lem wit="#φ #ν #κ2" source="#edd.">fruticat</lem>
                      <rdg wit="#G #H #μ #λ #α #ε #γ #δ #e #u #b #d2" source="#l2 #i2">fruticet</rdg>
-                     <rdgGrp type="mutation">
-                        <rdg wit="#N" varSeq="1" xml:id="rdg6.37frutio">frutiō</rdg>
-                        <rdg wit="#N2" varSeq="2">fruticem</rdg>
-                     </rdgGrp>
-                     <witDetail wit="#N" target="#rdg6.37frutio">(corr. in <hi rend="italic">fruticem</hi>
-                        <ref target="#N2">N²</ref>, ut vid.</witDetail>
+                     <rdg wit="#N" xml:id="rdg6.37frutio">frutiō</rdg>
+                     <witDetail wit="#N" target="#rdg6.37frutio" corresp="#rdg6.37-fruticem" type="correction-original"/>
+                     <rdg wit="#N2" xml:id="rdg6.37-fruticem">fruticem</rdg>
+                     <witDetail wit="#N2" target="#rdg6.37-fruticem" corresp="#rdg6.37frutio" type="correction-altered">ut vid.</witDetail>
                      <rdg wit="#π #β">fructicet</rdg>
                      <rdg wit="#η #κ1 #χ">fructicat</rdg>
                      <rdg wit="#ρ1">fructificat</rdg>
@@ -12791,12 +12738,9 @@
                <app type="lineOmission">
                   <lem><l n="38" xml:id="line6.38">cornibus <app>
                            <lem xml:id="lem6.38et_tereti">et tereti</lem>
-                           <rdgGrp type="anteCorr">
-                              <rdg wit="#N" varSeq="1">ethereti</rdg>
-                              <rdg wit="#N2" varSeq="2" copyOf="#lem6.38et_tereti"/>
-                           </rdgGrp>
-                           <!-- N (corr. m2) -->
-                           <rdg source="#Gebauer #Schenkl">e tereti</rdg>
+                           <rdg wit="#N" xml:id="rdg6.38-ethereti">ethereti</rdg>
+                           <witDetail wit="#N" target="#rdg6.38-ethereti" corresp="#lem6.38et_tereti" type="correction-original">corr. <ref target="#N2">N<hi rend="superscript">2</hi></ref></witDetail>
+                           <rdg source="#Gebauer #Schenkl" type="conjecture">e tereti</rdg>
                         </app>
                         <app>
                            <lem wit="#N #G #H" source="#Beck">pendent</lem>
@@ -12850,19 +12794,12 @@
                   </app></l>
                <l n="43">implicuere rosae rutiloque monilia <app>
                      <lem>torque</lem>
-                     <rdgGrp type="anteCorr">
-                        <rdg wit="#G" varSeq="1">collo torque</rdg>
-                        <rdg wit="#G1" varSeq="2"><del>collo</del> torque</rdg>
-                     </rdgGrp>
-                     <!-- collo (del.) torque -->
+                     <rdg wit="#G"><del>collo</del> torque</rdg><!-- collo (del.) torque -->
                   </app></l>
                <l n="44"><app>
                      <lem xml:id="lem6.44extrema">extrema</lem>
-                     <rdgGrp type="anteCorr">
-                        <rdg wit="#N" varSeq="1">exterma</rdg>
-                        <rdg wit="#N2" varSeq="2" copyOf="#lem6.44extrema"/>
-                     </rdgGrp>
-                     <!-- N (corr. m2) -->
+                     <rdg wit="#N" xml:id="rdg6.44-exterma">exterma</rdg>
+                     <witDetail wit="#N" target="#rdg6.44-exterma" corresp="#lem6.44extrema" type="correction-original">corr. <ref target="#N2">N<hi rend="superscript">2</hi></ref></witDetail>
                   </app> cervice <app>
                      <lem wit="#N #H #ρ2 #α2 #d1" source="#Heins. #BurmSqq">natant</lem>
                      <rdg wit="#V" source="#eddAnteBurm">notant</rdg>
@@ -12966,42 +12903,20 @@
                      <rdg wit="#G">tenerū</rdg>
                   </app> libavit dentibus: <app>
                      <lem xml:id="lem6.52illi">illi</lem>
-                     <rdg wit="#N" xml:id="rdg6.52illa">illa</rdg>
-                     <rdgGrp type="anteCorr">
-                        <rdg wit="#G" varSeq="1" copyOf="#rdg6.52illa"/>
-                        <rdg wit="#G1" varSeq="2"><add place="margin" hand="#G1" copyOf="#lem6.52illi"/></rdg>
-                     </rdgGrp>
-                     <!--G (in quo corr. in mg. m1)-->
+                     <rdg wit="#N #G" xml:id="rdg6.52illa">illa</rdg>
+                     <witDetail wit="#G" target="#rdg6.52illa" corresp="#lem6.52illi" type="correction-original">in quo corr. in mg. <ref target="#N1">N<hi rend="superscript">1</hi></ref></witDetail>
                   </app></l>
-               <app><note target="line6.52">post hunc versum <ref target="#ε">ε</ref>
-                  <ref target="#π">π</ref>
-                  <ref target="#ρ2">ρ²</ref>
-                  <ref target="#edd.">edd.</ref> (praeter <ref target="#r">r</ref>
-                  <ref target="#s">s</ref>
-                  <ref target="#Baehr.">Baehr.</ref>
-                  <ref target="#Schenkl">Schenkl</ref>.), post v. 53 <ref target="#γ">γ</ref>
-                  <ref target="#μ">μ</ref>
-                  <ref target="#n">n</ref>
-                  <ref target="#o">o</ref>
-                  <ref target="#Glaeser">Glaeser</ref>
-                  <ref target="#Keene">Keene</ref> habent hunc versum: <hi rend="italic">pes levis
-                     adductum latus, excelsissima cervix</hi> (<hi rend="italic">frons est</hi>
-                  <ref target="#n">n</ref>
-                  <ref target="#o">o</ref>
-                  <ref target="#Glaeser">Glaeser</ref>
-                  <ref target="#Keene">Keene</ref>), quem <ref target="#Beck">Beck</ref> uncis
-                  seclusit</note></app>
-               <app type="interpolation">
-                  <!-- Presenting the line that Beck marks as an interpolation, with the unmarked version and the omission presented as variant readings -->
-                  <lem xml:id="lem6.53a"/>
-                   <rdg source="#Beck" xml:id="rdg6.53a"><surplus><l n="6.53a" exclude="#rdg6.53b">pes levis adductum latus, excelsissima cervix</l></surplus></rdg>
-                  <!-- <surplus> marking the interpolation -->
-                  <rdg wit="#ε #π #ρ2" source="#edd." xml:id="rdg6.53a1" exclude="#rdg6.53b"><l n="6.53a">pes levis adductum latus, excelsissima cervix</l></rdg>
-                  <!-- a <rdg> without <surplus> to indicate the witnesses that accept the reading -->
-                  <rdg source="#Baehr. #Schenkl #Giarratano" xml:id="rdg6.53a2" exclude="#rdg6.53b"/>
-                  <!-- Showing which editors have omitted it from the main text -->
+
+               <app><!-- Begin interpolated line that occurs after 52 in some witnesses and editions, but after 53 in others. -->
+                  <lem source="#Baehr. #Schenkl #Giarratano" exclude="#lem6.53b #rdg6.53b-cervix #rdg6.53b-frons-est" xml:id="lem6.53a"/>
+                   <rdg wit="#ε #π #ρ2" xml:id="rdg6.53a"><surplus><l n="6.53a" exclude="#lem6.53b #rdg6.53b #rdg6.53b-frons-est">pes levis adductum latus, excelsissima cervix</l></surplus></rdg>
+                   <wit>edd. (praeter <ref target="#r">r</ref> <ref target="#s">s</ref> <ref target="#Baehr.">Baehr.</ref> <ref target="#Schenkl">Schenkl</ref>)</wit>
+                   <note target="#rdg6.53a"><ref target="#Beck">Beck</ref> uncis seclusit.</note>
                </app>
-               <l n="53" xml:id="line6.53">terga sedent, micat <app>
+               <l n="53" xml:id="line6.53"><app>
+                   <lem>terga</lem>
+                   <rdg wit="#ExcPar"><witStart/></rdg>
+               </app> sedent, micat <app>
                      <lem>acre</lem>
                      <rdg source="#Ulit.">aure</rdg>
                   </app>
@@ -13019,20 +12934,17 @@
                         <rdg source="#Heins.">venter</rdg>
                      </rdgGrp>
                   </app>,</l>
-               <app><note target="#line6.53">vv. 53-56 exstant in <ref target="#ExcPar">Exc.
-                  Par.</ref></note></app>
-               <app type="interpolation">
-                  <!-- Accounting for the witnesses and sources that print the interpolation after line 53 -->
-                  <lem xml:id="lem6.53b"/>
-                   <rdg wit="#γ #μ" source="#n #o" xml:id="rdg6.53b" exclude="#rdg6.53a #rdg6.53a1 #rdg6.53a2"><l n="6.53b">pes levis adductum
-                        latus, excelsissima <app>
-                           <lem>cervix</lem>
-                           <rdg source="#Glaeser #Keene">frons est</rdg>
-                           <!-- Glaeser and Keene have an alternate reading for cervix -->
-                        </app>
-                     </l>
+               
+               <app>
+                  <!-- Accounting for the witnesses and sources that print the interpolated line after line 53 -->
+                  <lem xml:id="lem6.53b" exclude="#lem6.53a #rdg6.53a"/>
+                   <rdg wit="#γ #μ" source="#n #o #Glaeser #Keene" xml:id="rdg6.53b-cervix" exclude="#lem6.53a #rdg6.53a"><l n="6.53b">pes levis adductum
+                        latus, excelsissima cervix,</l>
                   </rdg>
-               </app>
+                   <rdg source="#n #o #Glaeser #Keene" xml:id="rdg6.53b-frons-est" exclude="#lem6.53a #rdg6.53a"><l n="6.53b">pes levis adductum
+                        latus, excelsissima frons est,</l></rdg>
+               </app><!-- End interpolated line. -->
+             
                <l n="54"><app>
                      <lem><app>
                            <lem>et</lem>
