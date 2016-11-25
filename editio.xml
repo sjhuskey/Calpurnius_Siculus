@@ -4324,8 +4324,9 @@
             <!-- End bibliography -->
         </front>
         <!-- End front matter -->
-        
+
         <body>
+            <!-- Begin edition -->
             <div type="edition" xml:space="preserve">
                 
                 <div type="textpart" n="1" xml:id="poem1">
@@ -4335,7 +4336,9 @@
                         <item xml:id="Ornytus">Ornytus</item>
                     </list>
                    
-                        <label type="speaker">
+                        
+                  <l n="1">
+                      <label type="speaker">
                       <app>
                         <lem wit="#G #P #A #φ" source="#Ulit. #Wernsd.">C.</lem>
                         <wit><ref target="#Glaeser">Glaeser</ref> sqq.</wit>
@@ -4344,7 +4347,6 @@
                         <wit>edd. ante <ref target="#Glaeser">Glaeser</ref></wit>
                       </app>
                     </label>
-                  <l n="1">
                     <app ana="#orthographical">
                       <lem xml:id="lem1.1nondum">Nondum</lem>
                       <rdg wit="#G #P" xml:id="rdg1.1nundum">nundum</rdg>
@@ -4448,7 +4450,7 @@
                                 <wit><ref target="#Glaeser">Glaeser</ref> sqq.</wit>
                                 <rdg wit="#P #V" xml:id="l9a1rdg1" require="#l8a1rdg1">antra</rdg>
                                 <wit>edd. ante <ref target="#Glaeser">Glaeser</ref></wit>
-                            </app> patris Fauni, <app ana="#orthographical">
+                            </app> patris <persName ref="#Faunus">Fauni</persName>, <app ana="#orthographical">
                                 <lem>graciles</lem>
                                 <rdg wit="#V">gracilis </rdg>
                                 <note>edd. vett. accusativos eiusmodi fere semper in <hi rend="italic">is</hi>
@@ -4505,7 +4507,7 @@
                                 <!-- This siglum refers to all codices, which presumably includes things labeled elsewhere as either wit or source. Which attribute should it have? -->
                                 <rdg wit="#N" type="inRas"><add place="inline">or.</add></rdg>
                                 <!-- For a reading in ras. -->
-                            </app>; nam mea <app ana="#orthographical">
+                            </app>; nam mea <persName ref="#Leuce"><app ana="#orthographical">
                                 <lem wit="#N #G #A #P #π #ε #χ2" source="#edd." xml:id="lem1.13Leuce">Leuce</lem>
                                 <rdg wit="#κ #α #χ1">leute</rdg>
                                 <rdg wit="#φ #η #ρ #ν #θ #r #s">lene</rdg>
@@ -4513,7 +4515,7 @@
                                 <rdg wit="#b" xml:id="rdg1.13-luce">luce</rdg>
                                 <witDetail wit="#b" target="rdg1.13-luce">Leuce <hi rend="italic">in notis</hi> <ref target="#Guid.">Guid.</ref></witDetail><!-- Consulted Hugh about this 2016-11-09 -->
                                 <rdg wit="#λ #δ #β">lauce</rdg>
-                            </app>,</l>
+                            </app>,</persName></l>
                         <l n="14">dum negat amplexus <app>
                                 <lem>nocturnaque</lem>
                                 <rdg wit="#G" ana="#orthographical">noturnaque</rdg>
@@ -4523,10 +4525,10 @@
                   <l n="15"><app ana="#lexical">
                     <lem>pervia</lem>
                     <rdg wit="#P">previa</rdg>
-                  </app> cornigeri fecit sacraria <app ana="#orthographical">
+                  </app> cornigeri fecit sacraria <persName ref="#Faunus"><app ana="#orthographical">
                     <lem>Fauni</lem>
                     <rdg wit="#P">fanni</rdg>
-                  </app>.</l>
+                  </app></persName>.</l>
                   <app ana="#subtractive" type="lineOmission">
                     <lem><l n="16" xml:id="line1.16"><app>
                       <lem/>
@@ -4602,11 +4604,11 @@
                         
                     
                     
-                  <l n="20"><app>
+                  <l n="20"><label type="speaker"><app>
                     <lem/>
-                    <rdg wit="#μ #ρ"><label type="speaker">O.</label></rdg>
-                    <rdg wit="#ν #φ #δ #η #r #s" source="#o #n #Ulit. #Burm1731 #Wernsd. #Beck"><label type="speaker">C.</label></rdg>
-                  </app>sed quaenam <app ana="#morphological">
+                    <rdg wit="#μ #ρ">O.</rdg>
+                    <rdg wit="#ν #φ #δ #η #r #s" source="#o #n #Ulit. #Burm1731 #Wernsd. #Beck">C.</rdg>
+                  </app></label>sed quaenam <app ana="#morphological">
                     <lem>sacra</lem>
                     <rdg wit="#G #δ">sacro</rdg>
                   </app>
@@ -9496,7 +9498,7 @@
                     
                     
                         
-                        <ab>
+                       <ab>
                           <label type="speaker">(A.)</label>
                           <gap reason="lost" quantity="5" unit="lines" resp="#Giarratano"/>
                         </ab>
@@ -12509,8 +12511,6 @@
                      <rdg wit="#N">alterna</rdg>
                      <rdg wit="#N2">altona</rdg>
                   </app> probare.</l>
-            
-            <!-- Start here 2016-11-21 -->
                
                <l n="19"><label type="speaker">L.</label><app>
                      <lem>vis</lem>
