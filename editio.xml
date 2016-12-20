@@ -13529,49 +13529,49 @@
                
                <l n="1"><label type="speaker">L.</label><app>
                      <lem>Lentus</lem>
-                     <rdg wit="#φ #d2">entus</rdg>
-                     <rdg wit="#κ1 #χ #ν">ventus</rdg>
+                     <rdg wit="#φ #d2" ana="#orthographical">entus</rdg>
+                     <rdg wit="#κ1 #χ #ν" ana="#lexical">ventus</rdg>
                   </app> ab urbe venis, <app>
                      <lem wit="#G #ν #χ">Corydon</lem>
-                     <rdg wit="#N #V">Coridon</rdg>
-                     <rdg wit="#ε">Choridon</rdg>
+                     <rdg wit="#N #V" ana="#orthographical">Coridon</rdg>
+                     <rdg wit="#ε" ana="#orthographical">Choridon</rdg>
                   </app>; <app>
                      <lem wit="#θ #ν #μ #r" source="#n #o">vicesima</lem>
                      <wit><ref target="#Glaeser">Glaeser</ref> sqq.</wit>
-                     <rdg wit="#G #V">vigesima</rdg>
+                     <rdg wit="#G #V" ana="#orthographical">vigesima</rdg>
                      <wit>edd. ante <ref target="#Glaeser">Glaeser</ref></wit>
-                     <rdg wit="#β #e #u #b">vigessima</rdg>
-                     <rdg wit="#N #φ">vicessima</rdg>
+                     <rdg wit="#β #e #u #b" ana="#orthographical">vigessima</rdg>
+                     <rdg wit="#N #φ" ana="#orthographical">vicessima</rdg>
                   </app> certe</l>
                <l n="2"><app>
                      <lem>nox</lem>
-                     <rdg source="#Maehly">lux</rdg>
+                     <rdg source="#Maehly" ana="#lexical" type="conjecture">lux</rdg>
                   </app>
                   <app>
                      <lem>fuit</lem>
-                     <rdg source="#Heins.">ruit</rdg>
-                     <rdg source="#Maehly" xml:id="rdg7.2fugit">fugit</rdg>
+                     <rdg source="#Heins." ana="#lexical" type="conjecture">ruit</rdg>
+                     <rdg source="#Maehly" xml:id="rdg7.2fugit" ana="#lexical" type="conjecture">fugit</rdg>
                      <note target="#rdg7.2fugit">(qui et <hi rend="italic">lux</hi> pro <hi rend="italic">nox</hi> corr.)</note>
-                     <rdg source="#Baehr.">subit</rdg>
+                     <rdg source="#Baehr." ana="#lexical" type="conjecture">subit</rdg>
                   </app>, <app>
                      <lem>ut</lem>
-                     <rdg wit="#V">et</rdg>
+                     <rdg wit="#V" ana="#lexical">et</rdg>
                      <wit>edd. ante <ref target="#Glaeser">Glaeser</ref></wit>
                   </app> nostrae cupiunt te cernere silvae,</l>
                <l n="3">ut tua <app>
                      <lem wit="#ρ2" xml:id="lem7.3maerentes">maerentes</lem>
-                     <rdg wit="#N #V #r #e #u #d2">merentes</rdg>
-                     <rdg wit="#α">morentes</rdg>
-                     <rdg wit="#λ" xml:id="rdg7.3moerentes">moerentes</rdg>
+                     <rdg wit="#N #V #r #e #u #d2" ana="#orthographical">merentes</rdg>
+                     <rdg wit="#α" ana="#orthographical">morentes</rdg>
+                     <rdg wit="#λ" xml:id="rdg7.3moerentes" ana="#orthographical">moerentes</rdg>
                      <note target="#lem7.3maerentes"><hi rend="italic">maerentes</hi> vel <hi rend="italic">moerentes</hi> <ref target="#edd">edd</ref>.</note>
                   </app>
                   <app>
                      <lem>exspectant</lem>
-                     <rdg wit="#ω">expectant</rdg>
+                     <rdg wit="#ω" ana="#orthographical">expectant</rdg>
                   </app>
                   <app>
                      <lem>iubila</lem>
-                     <rdg wit="#α #δ" source="#Heins. #Beck" xml:id="rdg7.3sibila">sibila</rdg>
+                     <rdg wit="#α #δ" source="#Heins. #Beck" xml:id="rdg7.3sibila" ana="#orthographical #lexical">sibila</rdg>
                      <witDetail wit="#α" target="#rdg7.3sibila">in mg.</witDetail>
                   </app> tauri.</l>
             
@@ -13579,56 +13579,56 @@
                
                <l n="4"><label type="speaker">C.</label>O piger, <app>
                      <lem wit="#N #G #V #e #u #b" source="#i #l2 #Baehr. #Schenkl">o duro</lem>
-                     <rdg wit="#H #ν #φ" source="#edd.">et duro</rdg>
+                     <rdg wit="#H #ν #φ" source="#edd." ana="#lexical">et duro</rdg>
                   </app>
                   <app>
                      <lem wit="#N #G">non mollior</lem>
                      <wit><ref target="#Glaeser">Glaeser</ref> sqq.</wit>
-                     <rdg wit="#V">iam durior</rdg>
+                     <rdg wit="#V" ana="#lexical">iam durior</rdg>
                      <wit>edd. ante <ref target="#Glaeser">Glaeser</ref></wit>
                   </app>
                   <app>
                      <lem wit="#N #G #ε #α #β #δ #μ #λ1" source="#edd.">axe</lem>
-                     <rdg wit="#ν #η #ρ2 #r #s" source="#n #o #p #h #Guid. #Ulit.">osse</rdg>
-                     <rdg wit="#κ #χ #π #ρ1 #λ2">asse</rdg>
-                     <rdg wit="#φ #θ">esse</rdg>
-                     <rdg wit="#γ" source="#Heins.">aere</rdg>
+                     <rdg wit="#ν #η #ρ2 #r #s" source="#n #o #p #h #Guid. #Ulit." ana="#lexical">osse</rdg>
+                     <rdg wit="#κ #χ #π #ρ1 #λ2" ana="#lexical">asse</rdg>
+                     <rdg wit="#φ #θ" ana="#lexical #syntactic">esse</rdg>
+                     <rdg wit="#γ" source="#Heins." ana="#lexical" type="conjecture">aere</rdg>
                   </app>, <app>
                      <lem wit="#χ #ν #φ" source="#edd.">Lycota</lem>
-                     <rdg wit="#N #G #π #α #ρ #κ #β">licota</rdg>
-                     <rdg wit="#ε #γ #e #u">lycora</rdg>
-                     <rdg wit="#λ">liceta</rdg>
-                     <rdg wit="#δ #μ">licora</rdg>
+                     <rdg wit="#N #G #π #α #ρ #κ #β" ana="#orthographical">licota</rdg>
+                     <rdg wit="#ε #γ #e #u" ana="#orthographical">lycora</rdg>
+                     <rdg wit="#λ" ana="#orthographical">liceta</rdg>
+                     <rdg wit="#δ #μ" ana="#orthographical">licora</rdg>
                   </app>,</l>
                <l n="5">qui veteres fagos nova <app>
                      <lem>quam</lem>
-                     <rdg wit="#ρ1">quae</rdg>
-                     <rdg wit="#ν #χ #φ #α #η #r">que</rdg>
-                     <rdg wit="#μ">quem</rdg>
+                     <rdg wit="#ρ1" ana="#morphological">quae</rdg>
+                     <rdg wit="#ν #χ #φ #α #η #r" ana="#morphological">que</rdg>
+                     <rdg wit="#μ" ana="#morphological">quem</rdg>
                   </app>
                   <app>
                      <lem wit="#N">spectacula</lem>
-                     <rdg wit="#G">spettacula</rdg>
+                     <rdg wit="#G" ana="#orthographical">spettacula</rdg>
                   </app>
                   <app>
                      <lem>mavis</lem>
-                     <rdg wit="#κ #χ #π1">manes</rdg>
-                     <rdg wit="#μ">maius</rdg>
+                     <rdg wit="#κ #χ #π1" ana="#lexical">manes</rdg>
+                     <rdg wit="#μ" ana="#ordinal #lexical #orthographical">maius</rdg>
                   </app></l>
                <l n="6">cernere, quae patula iuvenis deus <app>
                      <lem wit="#N #G #A" source="#edd.">edit</lem>
-                     <rdg wit="#V #r #e #s">ardet</rdg>
-                     <rdg wit="#d2">aedit</rdg>
-                     <rdg source="#Ulit.">audet</rdg>
+                     <rdg wit="#V #r #e #s" ana="#lexical">ardet</rdg>
+                     <rdg wit="#d2" ana="#lexical">aedit</rdg>
+                     <rdg source="#Ulit." ana="#lexical">audet</rdg>
                   </app>
                   <app>
                      <lem wit="#ε #γ #π #χ #κ #β" xml:id="lem7.6harena">harena</lem>
-                     <rdg wit="#μ #φ #ν #λ #α #ρ" xml:id="rdg7.6arena">arena</rdg>
+                     <rdg wit="#μ #φ #ν #λ #α #ρ" xml:id="rdg7.6arena" ana="#orthographical">arena</rdg>
                      <note target="#lem7.6harena"><hi rend="italic">harena</hi> vel <hi rend="italic">arena</hi> <ref target="edd">edd</ref>.</note>
-                     <rdg wit="#N #G">in umbra</rdg>
+                     <rdg wit="#N #G" ana="#lexical">in umbra</rdg>
                   </app>.</l>
             
-            
+            <!-- Start here -->
                
                <!--Note that the first edition omits this speaker designation -->
                <l n="7"><label type="speaker">L.</label>Mirabar, quae <app>
