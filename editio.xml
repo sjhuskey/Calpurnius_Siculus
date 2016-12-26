@@ -6677,7 +6677,7 @@
                                 <witDetail wit="#G" target="#rdg2.16.81">(in mg.)</witDetail>
                                 <witDetail wit="#b" target="#rdg2.16.81">(corr. <ref target="#Guid.">Guid.</ref></witDetail>
                                 <!-- Corresponded with Bob about this. Not a correction, really. -->
-                                <rdg wit="#P" ana="##lexical">redempti</rdg>
+                                <rdg wit="#P" ana="#lexical">redempti</rdg>
                                 <rdg wit="#π1" ana="#lexical">retinenti</rdg>
                                 <rdg wit="#μ" ana="#lexical">remittenti</rdg>
                             </app> dabimus <app>
@@ -6689,7 +6689,7 @@
                                 <rdg wit="#ρ #χ #ν #κ #β #φ #π #η #δ #θ #ζ #r #d1" ana="#lexical">thilas</rdg>
                                 <rdg wit="#ε #λ #γ #e #d2" ana="#lexical">thillas</rdg>
                                 <rdg wit="#α" ana="#lexical">tillas</rdg>
-                                <rdg wit="#μ" ana="##lexical">chillas</rdg>
+                                <rdg wit="#μ" ana="#lexical">chillas</rdg>
                                 <rdg wit="#s" ana="#lexical">thalas</rdg>
                                 <rdg source="#Guid." type="conjecture" ana="#lexical">telas</rdg>
                             </app>,</l>
@@ -12138,7 +12138,7 @@
                     <note target="#rdg5.120-label">praef. <ref target="#G">G</ref></note>
             </app>sed iam <app>
                   <lem>sera</lem>
-                  <rdg source="#g #l2 #Gryph." ana="##morphological">sero</rdg>
+                  <rdg source="#g #l2 #Gryph." ana="#morphological">sero</rdg>
                </app> dies <app>
                   <lem>cadit</lem>
                   <rdg wit="#N" ana="#morphological">cadis</rdg>
@@ -12719,7 +12719,7 @@
                      <wit>edd. ante <ref target="#Glaeser">Glaeser</ref></wit>
                   </app> tamen <app>
                      <lem>hoc</lem>
-                     <rdg wit="#G" ana="##morphological">hec</rdg>
+                     <rdg wit="#G" ana="#morphological">hec</rdg>
                   </app> impune <app>
                      <lem wit="#N #G">feras</lem>
                      <wit><ref target="#Glaeser">Glaeser</ref> sqq.</wit>
