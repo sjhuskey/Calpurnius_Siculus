@@ -4125,7 +4125,7 @@
                                         Briefe an Moriz Haupt</title>. <pubPlace>Berlin</pubPlace>:
                                         <publisher>Druck und Verlag von Georg Reimer</publisher>,
                                         <date>1892</date>. URL: <ptr
-                                            target="https://books.google.com/books?id=e5gOAQAAMAAJ&amp;pg=PR1#v=onepage&amp;q&amp;f=false"
+                                        target="https://books.google.com/books?id=e5gOAQAAMAAJ&amp;pg=PR1#v=onepage&amp;q&amp;f=false"
                                     />.</bibl></note>
                         </person>
 
@@ -4612,9 +4612,9 @@
                       <rdg wit="#ω" ana="#orthographical">ornite</rdg>
                     </app>, fer <app>
                       <lem wit="#N1 #P #ρ2 #ε #κ #χ #λ #β #α #ν #γ #π #η #δ" source="#edd." xml:id="lem1.24propius">propius</lem>
+                        <witDetail wit="#N1" target="#lem1.24propius" corresp="#rdg1.24proprius" type="correction-altered">(<hi rend="italic">r</hi> alt. exp.)</witDetail>
                       <rdg wit="#N #G #φ #μ #ρ1 #θ" source="#i2 #h #Baehr." xml:id="rdg1.24proprius" ana="#lexical">proprius</rdg>
                       <witDetail wit="#N" target="#rdg1.24proprius" corresp="#lem1.24propius" type="correction-original"/>
-                      <witDetail wit="#N1" target="#lem1.24propius" corresp="#rdg1.24proprius" type="correction-altered">(<hi rend="italic">r</hi> alt. exp.)</witDetail>
                     </app>
                     <app>
                       <lem>tua</lem>
@@ -4626,14 +4626,14 @@
                         <l n="25">
                             <app>
                                 <lem wit="#N2 #P #V" source="#edd." xml:id="lem1.25cortice">cortice</lem>
+                                <witDetail wit="#N2" target="#lem1.25cortice" corresp="rdg1.25-coice" type="correction-altered"><add place="inRas">rt</add></witDetail><!-- Review how this is rendered. Use of <add> might cause trouble. -->
                                 <note target="#lem1.25cortice">(probavit mihi per litteras <ref target="#Leo">F. Leo</ref>,
                                     coll. <ref target="#intquot1">virides</ref> v. 22, Verg. Ecl. V
                                     13, Naso II, 63 sq.)</note>
                                 <rdg wit="#N" xml:id="rdg1.25-coice">co<del rend="erasure"><gap quantity="2" reason="lost" unit="character"/></del>ice</rdg>
-                                <rdg wit="#G #A" source="#Schenkl" ana="#lexical">codice</rdg>
-                                <!-- Review how this is rendered. Use of <add> might cause trouble. -->
                                 <witDetail wit="#N" target="#rdg1.25-coice" corresp="#lem1.25cortice" type="correction-original"/>
-                                <witDetail wit="#N2" target="#lem1.25cortice" corresp="rdg1.25-coice" type="correction-altered"><add place="inRas">rt</add></witDetail>
+                                <rdg wit="#G #A" source="#Schenkl" ana="#lexical">codice</rdg>
+                                
                             </app>
                             <app>
                                 <lem>descriptos</lem>
@@ -4676,9 +4676,9 @@
                     <app>
                       <lem wit="#P #V" source="#edd.">triviali</lem>
                       <rdg wit="#N #G" xml:id="rdg1.28tibivili" ana="#lexical">tibi vili</rdg>
-                      <rdg source="#o" ana="#lexical">rivali</rdg>
-                      <witDetail wit="#N" target="#rdg1.28tibivili">(in quo litt. evanidas
+                        <witDetail wit="#N" target="#rdg1.28tibivili">(in quo litt. evanidas
                         rest. <ref target="#N2">N<hi rend="superscript">2</hi></ref>)</witDetail>
+                      <rdg source="#o" ana="#lexical">rivali</rdg>
                     </app> more viator,</l>
                         <l n="29">sed deus ipse canit: <app>
                                 <lem>nihil armentale</lem>
@@ -4785,8 +4785,8 @@
                             <lem xml:id="lem1.36gaudete">gaudete</lem>
                             <!-- Discuss this with Hugh. Will it produce cogaudete N (a.c.) : gaudete N2 (p.c., co exp) ? Or could it be done with one witDetail, without @type: <del rend="expunction">co</del> <ref target="#N2">N<hi rend="superscript">2</hi></ref>? Or just one <witDetail> with @type="correction-original" and no notation about the deletion? -->
                             <rdg wit="#N" xml:id="rdg1.36-cogaudete">cogaudete</rdg>
-                            <rdg wit="#N2" xml:id="rdg1.36-gaudete" copyOf="#lem1.36gaudete"/>
                             <witDetail wit="#N" target="#rdg1.36-cogaudete" corresp="#rdg1.36-gaudete" type="correction-original"/>
+                            <rdg wit="#N2" xml:id="rdg1.36-gaudete" copyOf="#lem1.36gaudete"/>
                             <witDetail wit="#N2" target="#rdg1.36-gaudete" corresp="#rdg1.36-cogaudete" type="correction-altered"><del rend="expunction">co</del></witDetail>
                             </app> coloni,</l>
                         <l n="37">vos populi gaudete mei: licet omne vagetur</l>
@@ -4852,7 +4852,7 @@
                                         <rdg wit="#P">pate</rdg>
                                     </app> renascitur aetas</l>
                             </lem>
-                            <rdg wit="#N #G" xml:id="rdg1.42" ana="#subtractive" />
+                            <rdg wit="#N #G" xml:id="rdg1.42" ana="#subtractive"/>
                                 <witDetail wit="#N" target="#rdg1.42">in quo add. <ref target="#N2">N<hi rend="super">2</hi></ref> in mg.</witDetail>
                             </app>
                         <l n="43">et <app>
@@ -4909,11 +4909,11 @@
                             <app>
                                 <lem xml:id="lem1.46deus">deus</lem>
                                 <rdg wit="#G" xml:id="rdg1.46-reget" ana="#lexical">reget</rdg>
-                                <witDetail wit="#G" target="#rdg1.46-reget" type="correction-original"/>
+                                <witDetail wit="#G1" target="#rdg1.46-reget" type="correction-original"/>
                             </app> ipse reget, <app>
                                 <lem xml:id="lem1.46dabit">dabit</lem>
                                 <rdg wit="#P" xml:id="rdg1.46-dapit" ana="#orthographical">dapit</rdg>
-                                <witDetail wit="#G" target="#rdg1.46-dapit" type="correction-original"/>
+                                <witDetail wit="#P1" target="#rdg1.46-dapit" type="correction-original"/>
                             </app> impia <app>
                                 <lem wit="#A #ν #φ #γ #δ" source="#Guid. #edd." xml:id="lem1.46vinctas">vinctas</lem>
                                 <note target="#lem1.46vinctas">probavit <ref target="#Ramorino">F.
@@ -5042,8 +5042,8 @@
                                         <app>
                                             <lem wit="#N2 #P #V" source="#edd.">professo</lem>
                                             <rdg wit="#N #G #A #H #μ #b" source="#i #g #l2" xml:id="rdg1.55profuso" ana="#lexical">profuso</rdg>
-                                            <rdg wit="#u" ana="#lexical">profusso</rdg>
                                             <witDetail wit="#N" target="rdg1.55profuso">corr. <ref target="#N2">N2</ref></witDetail>
+                                            <rdg wit="#u" ana="#lexical">profusso</rdg>
                                         </app>,
                                     </l>
                                 </lem>
@@ -5129,11 +5129,11 @@
                             </app></l>
                         <l n="61">carnificum <app>
                                 <lem wit="#N2 #χ #φ #γ #μ #λ2 #α #β #ν #κ #ρ #η #ε" source="#edd." xml:id="lem1.61lassabit">lassabit</lem>
+                            <witDetail wit="#N2" target="#lem1.61lassabit" corresp="#rdg1.61-lassabis" type="correction-altered"/><!-- Discuss this with Hugh. This would produce lassabit N2 (p.c.) but is that accurate? Doesn’t that say "after correction, N2 has lassabit"? -->
                                 <rdg wit="#G #P #π #λ1" ana="#lexical">laxabit</rdg>
                                 <rdg wit="#N" ana="#morphological" xml:id="rdg1.61-lassabis">lassabis</rdg>
-                                <rdg wit="#δ" ana="#lexical">laxabat</rdg>
                             <witDetail wit="#N" target="#rdg1.61-lassabis" corresp="#lem1.61lassabit" type="correction-original"/>
-                            <witDetail wit="#N2" target="#lem1.61lassabit" corresp="#rdg1.61-lassabis" type="correction-altered"/><!-- Discuss this with Hugh. This would produce lassabit N2 (p.c.) but is that accurate? Doesn’t that say "after correction, N2 has lassabit"? -->
+                                <rdg wit="#δ" ana="#lexical">laxabat</rdg>
                             </app> opus, nec carcere <app>
                                 <lem>pleno</lem>
                                 <rdg wit="#θ" ana="#morphological">plenos</rdg>
@@ -5337,8 +5337,8 @@
                         <l n="80">
                             <app>
                                 <lem wit="#N2 #G #ε #γ #ρ" source="#edd." xml:id="lem1.80numquid">numquid</lem>
-                                <witDetail wit="#ρ" target="#lem1.80numquid">in ras.</witDetail>
                                 <witDetail wit="#N2" target="#lem1.80numquid" corresp="#rdg1.80-dumquid" type="correction-altered"/><!-- Not quite correct because N2 hasn’t been corrected; it did the correcting. -->
+                                <witDetail wit="#ρ" target="#lem1.80numquid">in ras.</witDetail>
                                 <rdg wit="#N" ana="#orthographical" xml:id="rdg1.80-dumquid">dumquid</rdg>
                                 <witDetail wit="#N" target="#rdg1.80-dumquid" corresp="#lem1.80numquid" type="correction-original"/>
                                 <rdg wit="#P #κ #β #λ #μ #π #δ #Barth1613" ana="#lexical #syntactic">non quod</rdg>
@@ -5407,8 +5407,8 @@
                                         <witDetail wit="#P1" target="#rdg1.84ille">ipse <hi rend="italic">in textu</hi> <ref target="#P">P</ref></witDetail>
                                     </app> deus</lem>
                                 <rdg wit="#N" ana="#lexical" xml:id="rdg1.84-scilicet-sedis">scilicet sedis</rdg>
-                                <rdg wit="#N2" copyOf="#lem1.84scilicet" xml:id="rdg1.84-scilicet-ipse-deus"/>
                                 <witDetail wit="#N" target="#rdg1.84-scilicet-sedis" corresp="#rdg1.84-scilicet-ipse-deus" type="correction-original"/>
+                                <rdg wit="#N2" copyOf="#lem1.84scilicet" xml:id="rdg1.84-scilicet-ipse-deus"/>
                                 <witDetail wit="#N2" target="#rdg1.84-scilicet-ipse-deus" corresp="#rdg1.84-scilicet-sedis" type="correction-altered"/>
                                 <rdg source="#Glaeser #Mueller" xml:id="rdg1.84scilicet" ana="#lexical" type="conjecture">scilicet
                                     sed Deus</rdg>
@@ -5444,6 +5444,7 @@
                                             meritis</lem>
                                         <rdg wit="#N #G" source="#Ellis" xml:id="rdg1.87ameritis" ana="#lexical">a
                                             meritis</rdg>
+                                        <witDetail wit="#N" target="#rdg1.87ameritis">corr. <ref target="#N2">N2</ref></witDetail>
                                         <note target="#rdg1.87ameritis"><ref target="#Ellis"><choice>
                                                   <sic>G</sic>
                                                   <corr resp="#SJH">R</corr>
@@ -5452,7 +5453,6 @@
                                                 <sic>20</sic>
                                                 <corr resp="#SJH">90</corr>
                                             </choice>)</note>
-                                        <witDetail wit="#N" target="#rdg1.87ameritis">corr. <ref target="#N2">N2</ref></witDetail>
                                         <rdg source="#Schenkl" ana="#lexical" type="conjecture">a! meritis</rdg>
                                         <rdg wit="#A #α #β #ε #λ #μ #e #u #d" source="#Guid." ana="#lexical">et
                                             meritis</rdg>
@@ -6210,8 +6210,8 @@
                                 <lem>prunis</lem>
                                 <!--N (r del., i supra u add. m2)-->
                                 <rdg wit="#N" xml:id="rdg2.43-prurrus">prurrus</rdg>
-                                <rdg wit="#N2" xml:id="rdg2.43-piurrus">piurrus</rdg>
                                 <witDetail wit="#N" target="#rdg2.43-prurrus" corresp="#rdg2.43-piurrus" type="correction-original"/>
+                                <rdg wit="#N2" xml:id="rdg2.43-piurrus">piurrus</rdg>
                                 <witDetail wit="#N2" target="#rdg2.43-piurrus" corresp="#rdg2.43-prurrus" type="correction-altered"><del>r</del>, <add place="above">i</add>u <ref target="#N2">N<hi rend="italic">2</hi></ref></witDetail>
                             </app>.</l>
                         <l n="44"><label type="speaker">I.</label>Me teneras salices <app>
@@ -6409,7 +6409,7 @@
                                     </app> agna.
                                 </l>
                             </lem>
-                            <rdg wit="#ε #e #d #c #Nordh." xml:id="rdg2.62line"  ana="#subtractive #additive"/>
+                            <rdg wit="#ε #e #d #c #Nordh." xml:id="rdg2.62line" ana="#subtractive #additive"/>
                             <note target="#rdg2.62line">versum om. et in his edd. pro eo scriptum est: <quote>perfundens aras divorum sanguine largo</quote></note>
                         </app>
                     
@@ -8284,8 +8284,8 @@
                                 <rdg wit="#N" ana="#lexical">vivat</rdg>
                             </app>
                             <app>
-                                <lem>humida</lem>
-                                <witDetail wit="#N" target="#rdg4.3humida">post <hi rend="italic">humida</hi> una littera est erasa in <ref target="#N">N</ref></witDetail>
+                                <lem xml:id="lem4.3-humida">humida</lem>
+                                <note target="#lem4.3-humida">post <hi rend="italic">humida</hi> una littera est erasa in <ref target="#N">N</ref></note>
                                 <rdg source="#Baehr." ana="#lexical" type="conjecture">algida</rdg>
                                 <rdg source="#Schenkl" ana="#lexical" type="conjecture">herbida</rdg>
                             </app> forsan</l>
@@ -10435,7 +10435,7 @@
                             </app><app>
                                 <lem xml:id="lem4.165pulcrior">pulcrior</lem>
                                 <witDetail wit="#N" target="#lem4.165pulcrior">(h supra
-                                    scr.)</witDetail><!-- Does this need <ref target="#N>N</ref>? -->
+                                    scr.)</witDetail><!-- Does this need <ref target="#N">N</ref>? -->
                             </app>
                             <app>
                                 <lem>et meritae</lem>
