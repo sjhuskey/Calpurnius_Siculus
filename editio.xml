@@ -4277,7 +4277,7 @@
                     <app>
                       <lem xml:id="lem1.1nondum">Nondum</lem>
                       <rdg wit="#G #P" xml:id="rdg1.1nundum" ana="#orthographical">nundum</rdg>
-                      <witDetail wit="#G" corresp="rdg1.1nondum" target="rdg1.1nundum" type="correction-original">corr. <ref target="#G1">G<hi rend="super">1</hi></ref></witDetail>
+                      <witDetail wit="#G" corresp="#rdg1.1nondum" target="#rdg1.1nundum" type="correction-original">corr. <ref target="#G1">G<hi rend="super">1</hi></ref></witDetail>
                     </app> Solis equos <app>
                       <lem wit="#N" source="#Heins. #Schenkl">declinis</lem>
                       <rdg wit="#G #V" source="#edd." ana="#lexical">declivis</rdg>
@@ -4357,7 +4357,7 @@
                                 <lem xml:id="lem1.7-label">O.</lem>
                                     <rdg wit="#N" xml:id="rdg1.7-omission" ana="#subtractive"/>
                                     <!-- Maybe delete this as redundant? <rdg wit="#N1" xml:id="rdg1.7-label" copyOf="#lem1.7-label"/> -->
-                                <witDetail wit="#N" target="rdg1.7-omission" corresp="#rdg1.7-label" type="correciton-original"/>
+                                <witDetail wit="#N" target="rdg1.7-omission" corresp="#rdg1.7-label" type="correction-original"/>
                                 <!-- Maybe delete this as redundant? <witDetail wit="#N1" target="rdg1.7-label" corresp="#rdg1.7-omission" type="correction-altered"/> -->
                             </app>
                         </label>Hoc potius, frater <app>
