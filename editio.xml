@@ -4447,7 +4447,7 @@
                         <l n="14">dum negat amplexus <app>
                                 <lem>nocturnaque</lem>
                                 <rdg wit="#G" ana="#orthographical">noturnaque</rdg>
-                                <rdg wit="#N2" type="inRas" ana="#additive"><add place="inline">nocturna</add>que</rdg>
+                                <rdg wit="#N" ana="#additive"><add place="inline">no<hi rend="superscript">c</hi>turna</add>que</rdg>
                                 <!-- Handling a reading that has been written in or on top of an erasure. -->
                             </app> gaudia nobis,</l>
                   <l n="15"><app>
