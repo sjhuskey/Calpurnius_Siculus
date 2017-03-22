@@ -613,7 +613,7 @@
                         Urbinas 353, Palatinus 1652, Reginensis 1759, Ottobonianus 1466—that I
                         collated in 1908, then inspected again in the following year. They are:</p>
                     <list>
-                        <head>Manuscripts in the Bibliotheca Apostolica Vaticana (Vatican
+                        <head>Manuscripts in the Biblioteca Apostolica Vaticana (Vatican
                             City)</head>
                         <item xml:id="CodVat3152"><ref target="#γ" rend="bold">γ</ref> = Codex
                             Vaticanus 3152.</item>
@@ -2562,11 +2562,10 @@
                                                 elegies of Giovanni Pontano, an elegy by Antonio
                                                 Beccadelli to Johannes Lamola of Bologna, Janus
                                                 Pannonius’ <bibl><title>Epithalamium in Salomonem
-                                                  Sacratum et Liberam Guarinam, a poem
-                                                  <bibl><title>In Venetae urbis
+                                                  Sacratum et Liberam Guarinam</title></bibl>, a
+                                                poem <bibl><title>In Venetae urbis
                                                   laudem</title></bibl>, and a poem <bibl><title>De
-                                                  ortu atque obitu Hermaphroditi</title></bibl>
-                                                  </title></bibl>.</p>
+                                                  ortu atque obitu Hermaphroditi</title></bibl>.</p>
                                         </msContents>
                                         <physDesc>
                                             <objectDesc>
@@ -2677,7 +2676,7 @@
                                     <msDesc>
                                         <msIdentifier>
                                             <settlement>Vatican City</settlement>
-                                            <repository>Bibliotheca Apostolica Vaticana</repository>
+                                            <repository>Biblioteca Apostolica Vaticana</repository>
                                             <idno>Vaticanus 3152</idno>
                                         </msIdentifier>
                                         <msContents>
@@ -2687,10 +2686,10 @@
                                         </msContents>
                                         <physDesc>
                                             <objectDesc>
-                                                <p><material>Paper</material> : 215 × 147 mm. : . It
-                                                  consists of 81 leaves, of which 18ᵛ, 26–30, 51ʳ,
-                                                  81ᵛ are blank. There are 31 verses on each
-                                                  page</p>
+                                                <p><material>Paper</material> : 215 × 147 mm. : 81
+                                                  leaves. It consists of 81 leaves, of which 18ᵛ,
+                                                  26–30, 51ʳ, 81ᵛ are blank. There are 31 verses on
+                                                  each page.</p>
                                             </objectDesc>
                                             <handDesc hands="2">
                                                 <handNote xml:id="γ1"><abbr type="siglum">γ<hi
@@ -2712,7 +2711,7 @@
                                     <msDesc>
                                         <msIdentifier>
                                             <settlement>Florence</settlement>
-                                            <repository>Biblioteca Laurenziana</repository>
+                                            <repository>Biblioteca Medicea Laurenziana</repository>
                                             <idno>bibl. Aed. 203</idno>
                                         </msIdentifier>
                                         <msContents>
@@ -2722,7 +2721,7 @@
                                                 end it is inscribed as follows: <quote xml:lang="la"
                                                   >Georgii Ant. Vespuccii liber</quote> (<quote>This
                                                   book belongs to Giorgio Antonio
-                                                Vespucci</quote>)</p>
+                                                Vespucci</quote>).</p>
                                         </msContents>
                                         <physDesc>
                                             <objectDesc>
@@ -2751,7 +2750,7 @@
                                     <msDesc>
                                         <msIdentifier>
                                             <settlement>Vatican City</settlement>
-                                            <repository>Bibliotheca Apostolica Vaticana</repository>
+                                            <repository>Biblioteca Apostolica Vaticana</repository>
                                             <idno>Urbinas 353</idno>
                                         </msIdentifier>
                                         <msContents>
@@ -2806,7 +2805,7 @@
                                     <msDesc>
                                         <msIdentifier>
                                             <settlement>Vatican City</settlement>
-                                            <repository>Bibliotheca Apostolica Vaticana</repository>
+                                            <repository>Biblioteca Apostolica Vaticana</repository>
                                             <idno>Vaticanus 2110</idno>
                                         </msIdentifier>
                                         <msContents>
@@ -2888,7 +2887,7 @@
                                     <msDesc>
                                         <msIdentifier>
                                             <settlement>Vatican City</settlement>
-                                            <repository>Bibliotheca Apostolica Vaticana</repository>
+                                            <repository>Biblioteca Apostolica Vaticana</repository>
                                             <idno>Ottobonianus 1466</idno>
                                             <altIdentifier>
                                                 <idno>Altaempsianus</idno>
@@ -2925,7 +2924,7 @@
                                     <msDesc>
                                         <msIdentifier>
                                             <settlement>Vatican City</settlement>
-                                            <repository>Bibliotheca Apostolica Vaticana</repository>
+                                            <repository>Biblioteca Apostolica Vaticana</repository>
                                             <idno>Reginensis 1759</idno>
                                         </msIdentifier>
                                         <msContents>
@@ -2999,7 +2998,7 @@
                                     <msDesc>
                                         <msIdentifier>
                                             <settlement>Vatican City</settlement>
-                                            <repository>Bibliotheca Apostolica Vaticana</repository>
+                                            <repository>Biblioteca Apostolica Vaticana</repository>
                                             <idno>1652</idno>
                                         </msIdentifier>
                                         <msContents>
@@ -3146,8 +3145,8 @@
                                         </physDesc>
                                         <history>
                                             <origin>
-                                                <origDate notAfter="1500" notBefore="1400"
-                                                  >XV</origDate>
+                                                <p>Written in the <origDate notAfter="1500"
+                                                  notBefore="1400">fifteenth century</origDate>.</p>
                                             </origin>
                                         </history>
                                     </msDesc>
@@ -3228,7 +3227,8 @@
                                 </physDesc>
                                 <history>
                                     <origin>
-                                        <origDate notAfter="1200" notBefore="1000">XI–XII</origDate>
+                                        <p>Written in the <origDate notAfter="1100" notBefore="1000"
+                                                >eleventh or twelfth century</origDate>.</p>
                                     </origin>
                                 </history>
                             </msDesc>
