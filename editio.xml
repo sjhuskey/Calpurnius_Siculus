@@ -3788,7 +3788,8 @@
                                 <title level="j">Hermes</title>
                             <biblScope unit="volume">8</biblScope> (<date>1874</date>): <biblScope
                                 unit="page">177–83, 241–56</biblScope>. URL: <ptr
-                                target="https://archive.org/stream/hermeswies08wies"/>.</bibl>
+                                target="https://books.google.de/books?id=QVYLAAAAMAAJ&amp;hl=de&amp;pg=PA177#v=onepage&amp;q&amp;f=false"
+                            />.</bibl>
 
                         <bibl xml:id="Heins1661"><abbr type="siglum">Heins. in <hi rend="italic"
                                     >Her</hi>.</abbr>. <author>Heinsius, Nicolaus</author>.
@@ -3816,7 +3817,8 @@
                                 <editor>Hermannus, Godofredus</editor>. <title>Bionis et Moschi
                                 Carmina</title>. <pubPlace>Lipsiae</pubPlace>: <publisher>apud
                                 Weidmannos</publisher>, <date>1849</date>. URL: <ptr
-                                target="http://hdl.handle.net/2027/hvd.hxjp5t"/>.</bibl>
+                                target="https://archive.org/details/bionisetmoschic00moscgoog"
+                            />.</bibl>
 
                         <bibl xml:id="Hoeufft"><abbr type="siglum">Hoeufft</abbr>, <author>Hoeufft,
                                 Jacob Hendrik</author>. <title>Pericula poëtica</title>.
@@ -5544,7 +5546,7 @@
                             </app> numina <app>
                                 <lem>Fauni</lem>
                                 <rdg source="#Heraldus" xml:id="rdg1.91Heraldus" ana="#lexical">Bacchi</rdg>
-                                <note target="#rdg1.91Heraldus"><ref target="#Heraldus">Heraldus</ref> (Adv. I c. 2 <ptr target="https://books.google.com/books?id=0DmP31YuSXkC&amp;lpg=PA51&amp;dq=Desiderii%20Heraldi%20Adversariorvm&amp;pg=PA62#v=onepage&amp;q&amp;f=false"/>)</note>
+                                <note target="#rdg1.91Heraldus"><ref target="#Heraldus">Heraldus</ref> (Adv. I c. 2 <ptr target="https://books.google.com/books?id=0DmP31YuSXkC&amp;lpg=PA51&amp;dq=Desiderii%20Heraldi%20Adversariorvm&amp;pg=PA66#v=onepage&amp;q&amp;f=false"/>)</note>
                             </app>.</l>
                     
                     
@@ -12679,7 +12681,7 @@
                   <app>
                      <lem wit="#N #A" xml:id="lem6.30praedamnatus">praedamnatus</lem>
                      <wit><ref target="#Glaeser">Glaeser</ref> sqq.</wit>
-                     <wit><ref target="#Tross">Tross</ref> (<ref target="https://books.google.com/books?id=ao8CAAAAQAAJ&amp;lpg=PR1&amp;ots=l6mFVC2uK0&amp;dq=tross%20observationum%20criticarum%20libellus&amp;pg=PA35#v=onepage&amp;q=tross%20observationum%20criticarum%20libellus&amp;f=false">Obss. c. 4 p. 17</ref>) --></wit><!-- Replaced <note> with <wit> here. -->
+                     <wit><ref target="#Tross">Tross</ref> (<ref target="https://books.google.com/books?id=ao8CAAAAQAAJ&amp;pg=PA35#v=onepage&amp;q&amp;f=false">Obss. c. 4 p. 17</ref>) --></wit><!-- Replaced <note> with <wit> here. -->
                      <rdg wit="#G" ana="#orthographical">praedampnatus</rdg>
                      <rdg wit="#V" xml:id="rdg6.30-praedam-nactus">pr<add>a</add>edam nactus</rdg>
                       <witDetail wit="#V" target="#rdg6.30-praedam-nactus">(naptus <ref target="#φ">φ</ref>)</witDetail>
