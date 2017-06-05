@@ -38,7 +38,7 @@
     </teiHeader>
     <text>
 
-        <front xml:id="front">
+        <front xml:id="front" n="Introduction">
             <div type="introduction" xml:lang="en">
                 <div type="section" n="1">
                     <head>I</head>
