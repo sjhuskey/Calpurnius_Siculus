@@ -3516,10 +3516,10 @@
                         <bibl xml:id="Wernsd."><abbr type="siglum">Wernsd.</abbr> = <title>ed.
                                 Wernsdorfii</title> = <editor>Wernsdorf, Iohannes
                                 Christianus.</editor>
-                            <title>Poetae Latini Minores, Tomus Primus</title>.
+                            <title>Poetae Latini Minores, Tomus Secundus</title>.
                                 <pubPlace>Altenburgi</pubPlace>: <pubPlace>ex officina
                                 Richteria</pubPlace>, <date>1780</date>. URL: <ptr
-                                target="https://books.google.com/books?id=A8w9AAAAcAAJ&amp;pg=PR1#v=onepage&amp;q&amp;f=false"
+                                    target="https://books.google.ie/books?id=XohHAAAAYAAJ&amp;pg=PR1#v=onepage&amp;q&amp;f=false"
                             /></bibl>
                         <bibl xml:id="Beck"><abbr type="siglum">Beck</abbr> = <editor>Beck,
                                 Christian Daniel</editor>. <title>T. Calpurnii Siculi Eclogae
@@ -3627,13 +3627,13 @@
                                 Observationum</title>. <pubPlace>Franequerae</pubPlace>:
                                 <publisher>s.n.</publisher>, <date>1772</date>.</bibl>
 
-                        <bibl xml:id="Buecheler1907"><abbr type="siglum">Buecheler 1907</abbr> =
-                                <author>Buecheler, Franz</author>. "<title level="a">Grammatica et
-                                Epigraphica</title>." <title level="j">Glotta</title>
-                            <biblScope unit="volume">1</biblScope> (<date>1907</date>): <biblScope
-                                unit="page">1–9</biblScope>. URL: <ptr
-                                target="https://archive.org/details/glottazeitschri00kretgoog"
-                            />.</bibl>
+                        <bibl xml:id="Buecheler1860"><abbr type="siglum">Buecheler 1860</abbr> =
+                                <author>Buecheler, Franz</author>. "<title level="a">Coniectanea
+                                critica (in Plautum, Pervigilium Veneris, Theocritum).</title>"
+                                <title level="j">Rheinisches Museum für Philologie</title>
+                            <biblScope unit="volume">15</biblScope> (<date>1860</date>): <biblScope
+                                unit="page">428–57</biblScope>. URL: <ptr
+                                target="http://www.rhm.uni-koeln.de/015/Buecheler2.pdf"/></bibl>
 
                         <bibl xml:id="Buecheler1871"><abbr type="siglum">Buecheler 1871</abbr> =
                                 <author>Buecheler, Franz</author>. "<title level="a">Zur Höfische
@@ -3642,6 +3642,14 @@
                             <biblScope>26</biblScope> (<date>1871</date>): <biblScope unit="page"
                                 >235–40</biblScope>. URL: <ptr
                                 target="http://www.rhm.uni-koeln.de/026/Buecheler1.pdf"/>.</bibl>
+
+                        <bibl xml:id="Buecheler1907"><abbr type="siglum">Buecheler 1907</abbr> =
+                                <author>Buecheler, Franz</author>. "<title level="a">Grammatica et
+                                Epigraphica</title>." <title level="j">Glotta</title>
+                            <biblScope unit="volume">1</biblScope> (<date>1907</date>): <biblScope
+                                unit="page">1–9</biblScope>. URL: <ptr
+                                target="https://archive.org/details/glottazeitschri00kretgoog"
+                            />.</bibl>
 
                         <bibl xml:id="Burman1759"><abbr type="siglum">Burm. 1759</abbr> =
                                 <editor>Burmannus, Petrus</editor>. <title>Anthologia Veterum
@@ -4279,7 +4287,7 @@
                     <app>
                       <lem xml:id="lem1.1nondum">Nondum</lem>
                       <rdg wit="#G #P" xml:id="rdg1.1nundum" ana="#orthographical">nundum</rdg>
-                      <witDetail wit="#G"  target="#rdg1.1nundum" type="correction-original">corr. <ref target="#G1">G<hi rend="super">1</hi></ref></witDetail>
+                      <witDetail wit="#G" target="#rdg1.1nundum" type="correction-original">corr. <ref target="#G1">G<hi rend="super">1</hi></ref></witDetail>
                     </app> Solis equos <app>
                       <lem wit="#N" source="#Heins. #Schenkl">declinis</lem>
                       <rdg wit="#G #V" source="#edd." ana="#lexical">declivis</rdg>
@@ -8198,7 +8206,7 @@
                                 <note target="#lem3.97adextro">probavit F. Ramorino</note>
                                 <rdg wit="#N" ana="#orthographical">adexstro</rdg>
                                 <rdg wit="#H #θ #ν #φ #η #r #s #b" source="#i #l1 #o #n #p #Barth1613 #Glaeser #Keene" xml:id="rdg3.97adextra" ana="#morphological">a dextra</rdg>
-                                <note target="#rdg3.97adextra"><ref target="Buecheler1871">Buecheler</ref> (Rh. Mus. XV p. 454), <ref target="#Fritzsche">Fritzsche</ref> (1.1.p. 19)</note>
+                                <note target="#rdg3.97adextra"><ref target="Buecheler1860">Buecheler</ref> (Rh. Mus. XV p. 454), <ref target="#Fritzsche">Fritzsche</ref> (1.1.p. 19)</note>
                                 <rdg wit="#ρ1" ana="#orthographical">addextra</rdg>
                                 <rdg wit="#δ #u #e" ana="#orthographical">adextro</rdg>
                                 <rdg source="#Leo" xml:id="rdg3.97dextrum" ana="#syntactic #morphological" type="conjecture">dextrum</rdg>
@@ -12274,9 +12282,9 @@
                      <note target="#lem6.7est">(post <hi rend="italic">est</hi> plerique edd. signum
                         iterrog. posuerunt.)</note>
                   </app>, <app>
-                     <lem wit="#N #G #d" source="#Brodaeus #Erasmus #Wernsd." xml:id="lem6.8si">si</lem>
+                     <lem wit="#N #G #d" source="#Brodaeus #Erasmus #Wernsd." xml:id="lem6.7si">si</lem>
                      <wit><ref target="#Glaeser">Glaeser</ref> sqq.</wit>
-                     <note target="#lem6.8si"><ref target="#Brodaeus">Brodaeus</ref> (<ref target="https://books.google.com/books?id=09rnSvLQZ20C&amp;pg=PA5#v=onepage&amp;q&amp;f=false">Miscell. 7,1</ref>), <ref target="#Erasmus">Erasmus</ref> (<ref target="https://books.google.ca/books?id=rZJd0x6VPqIC&amp;pg=PA67#v=onepage&amp;q&amp;f=false">Adag. Chil. I Cent. 8.83</ref>)</note>
+                     <note target="#lem6.7si"><ref target="#Brodaeus">Brodaeus</ref> (<ref target="https://books.google.com/books?id=09rnSvLQZ20C&amp;pg=PA5#v=onepage&amp;q&amp;f=false">Miscell. 7,1</ref>), <ref target="#Erasmus">Erasmus</ref> (<ref target="https://books.google.ca/books?id=rZJd0x6VPqIC&amp;pg=PA67#v=onepage&amp;q&amp;f=false">Adag. Chil. I Cent. 8.83</ref>)</note>
                      <!-- Erasm. (Adag. Chil. I Cent. 8.85) Actually, it’s Adag. Chil. I Cent. 8.83!-->
                      <rdg wit="#V" ana="#lexical">ut</rdg>
                      <wit>edd. ante <ref target="#Glaeser">Glaeser</ref></wit>
