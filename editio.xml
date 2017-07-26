@@ -5754,7 +5754,7 @@
                     <l n="10">affuit omne genus <app>
                             <lem xml:id="lem2.11.10">pecudum</lem>
                             <rdg wit="#G" xml:id="rdg2.10-pecorum" ana="#lexical">pecorum</rdg>
-                        <witDetail wit="#G" target="#rdg2.10-pecorum" type="correction-original">quod def. <ref target="#Mueller">L. Mueller</ref> (l. l. p. 1071);</witDetail>
+                        <witDetail wit="#G" target="#rdg2.10-pecorum" type="correction-original">quod def. <ref target="#Mueller">L. Mueller</ref> (l. l. p. 1071)</witDetail>
                             <rdg wit="#G" xml:id="rdg2.10-pecudum" copyOf="#lem2.11.10"/>
                             <witDetail wit="#G" target="#rdg2.10-pecudum" type="correction-altered">supr. lin.</witDetail>
                         </app>, genus omne ferarum</l>
