@@ -13808,7 +13808,7 @@
                   </app> lene iacentes</l>
                <l n="26">venimus <app>
                      <lem>ad</lem>
-                     <rdg wit="G" ana="#lexical">in</rdg>
+                     <rdg wit="#G" ana="#lexical">in</rdg>
                   </app> sedes, ubi pulla sordida <app>
                      <lem>veste</lem>
                      <rdg wit="#γ #ε2 #e #u" source="#l2" ana="#lexical">vesta</rdg>
@@ -13860,7 +13860,7 @@
                         </app>
                         <app>
                            <lem>curvatur</lem>
-                           <rdg wit="G" ana="#morphological"><add place="margin">curvantur</add></rdg>
+                           <rdg wit="#G" ana="#morphological"><add place="margin">curvantur</add></rdg>
                            <!--G (in mg.)-->
                         </app> concava montes,</l>
                      <l n="33">sic <app>
