@@ -37,8 +37,8 @@
         </fileDesc>
     </teiHeader>
     <text>
-
-        <front xml:id="front">
+        <front xml:id="front" n="Introduction">
+            <head>Calpurnius Siculus, <title>Bucolica</title></head>
             <div type="introduction" xml:lang="en">
                 <div type="section" n="1">
                     <head>I</head>
@@ -2542,7 +2542,8 @@
 
                     <listWit xml:id="mss-second-family">
                         <head>Second family</head>
-                        <witness xml:id="V" n="V">
+                        <witness xml:id="V" n="V"><abbr type="siglum">V</abbr> = <title>Consensus of
+                        the second family mss.</title>
                             <listWit>
                                 <witness xml:id="α"><abbr type="siglum">α</abbr> = <title>Codex
                                         Ambrosianus O.74 sup.</title>
@@ -4268,12 +4269,6 @@
                 
                 <div type="textpart" n="1" xml:id="poem1">
                     <head>Poem 1. [Corydon, Ornytus]</head>
-                    <list type="speakers">
-                        <item xml:id="Corydon">Corydon</item>
-                        <item xml:id="Ornytus">Ornytus</item>
-                    </list>
-                   
-                        
                   <l n="1">
                       <label type="speaker">
                       <app>
@@ -4333,8 +4328,9 @@
                         <l n="5"><app>
                                 <lem wit="#P #V" source="#edd.">molle sub</lem>
                                 <rdg wit="#N #G #A #H" source="#Glaeser #Keene" ana="#syntactic" xml:id="rdg1.5molliter">molliter</rdg>
+                                <note target="#rdg1.5molliter"><ref target="#Jacoby">Jacoby</ref> defendit (p. 1290 <ref target="https://books.google.de/books?id=q5blAAAAMAAJ&amp;hl=de&amp;pg=PA128#v=onepage&amp;q&amp;f=false">Wochenschrift für Klassische Philologie III, 1886</ref>)</note>
                                 <rdg source="#Schenkl2" ana="#lexical">molle per</rdg>
-                            <note target="#rdg1.5molliter"><ref target="#Jacoby">Jacoby</ref> defendit (p. 1290 <ref target="https://books.google.de/books?id=q5blAAAAMAAJ&amp;hl=de&amp;pg=PA128#v=onepage&amp;q&amp;f=false">Wochenschrift für Klassische Philologie III, 1886</ref>)</note>
+                            
                             </app>
                             <app>
                                 <lem>hirsuta</lem>
@@ -4457,8 +4453,7 @@
                         <l n="14">dum negat amplexus <app>
                                 <lem>nocturnaque</lem>
                                 <rdg wit="#G" ana="#orthographical">noturnaque</rdg>
-                                <rdg wit="#N" ana="#additive"><add place="inline">no<hi rend="superscript">c</hi>turna</add>que</rdg>
-                                <!-- Handling a reading that has been written in or on top of an erasure. -->
+                                <rdg wit="#N" ana="#additive"><add place="inRas">no<hi rend="superscript">c</hi>turna</add>que</rdg>
                             </app> gaudia nobis,</l>
                   <l n="15"><app>
                     <lem>pervia</lem>
