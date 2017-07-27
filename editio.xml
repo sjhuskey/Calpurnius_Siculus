@@ -4632,7 +4632,7 @@
                         <l n="25">
                             <app>
                                 <lem wit="#N2 #P #V" source="#edd." xml:id="lem1.25cortice">cortice</lem>
-                                <witDetail wit="#N2" target="#lem1.25cortice" corresp="rdg1.25-coice" type="correction-altered"><add place="inRas">rt</add></witDetail><!-- Review how this is rendered. Use of <add> might cause trouble. -->
+                                <witDetail wit="#N2" target="#lem1.25cortice" corresp="rdg1.25-coice" type="correction-altered">co<add place="inRas">rt</add>ice</witDetail><!-- Review how this is rendered. Use of <add> might cause trouble. -->
                                 <note target="#lem1.25cortice">(probavit mihi per litteras <ref target="#Leo">F. Leo</ref>,
                                     coll. <ref target="#intquot1">virides</ref> v. 22, Verg. Ecl. V
                                     13, Naso II, 63 sq.)</note>
