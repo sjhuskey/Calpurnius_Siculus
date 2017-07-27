@@ -6533,7 +6533,7 @@
                                 <rdg source="#l1 #i1 #p #h #t #Vienn. #Scaliger #Guid. #Barth1613 #Ulit. #Wernsd. #Beck #Glaeser #Keene" xml:id="rdg2.71hornus" ana="#lexical">hornus</rdg>
                                 <wit>codd. <ref target="#Tit.">Titii</ref></wit>
                                 <rdg source="#Burm1731"  xml:id="rdg2.71hornum" require="#rdg2.71totum" exclude="#lem2.7totus #rdg2.71foetus" ana="#lexical" type="conjecture">hornum</rdg>
-                                <rdg source="#Burm1731"  xml:id="rdg2.71hornus2" require="#rdg2.71foetus" exclude="#lem2.7totus #rdg2.71totum" ana="#lexical" type="conjecture" copyOf="#rdg2.71hornus"/>
+                                <rdg source="#Burm1731"  xml:id="rdg2.71hornus2" require="#rdg2.71foetus" exclude="#lem2.7totus #rdg2.71totum" ana="#lexical" type="conjecture">hornus</rdg>
                                 <note target="#rdg2.71hornum"><hi rend="normal">totum-hornum</hi> vel <hi rend="normal">foetus-hornus</hi>
                                     <ref target="#Burm1731">Burm.</ref></note>
                             </app>.</l>
