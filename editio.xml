@@ -6512,7 +6512,7 @@
                                 <lem>Crocale</lem>
                                 <rdg wit="#G" ana="#orthographical">crochale</rdg>
                             </app>, <app>
-                                <lem xml:id="lem2.71totus" exclude="#rdg2.71hornum">totus</lem>
+                                <lem xml:id="lem2.71totus" require="#lem2.71annus" exclude="#rdg2.71hornum #rdg2.71ornus #rdg2.71ortus #rdg2.71hortus #rdg2.71hornus #rdg2.71hornum #rdg2.71hornus2">totus</lem>
                                 <rdg source="#Burm1731" require="#rdg2.71hornum" exclude="#lem2.71annus #rdg2.71ornus #rdg2.71ortus #rdg2.71hortus #rdg2.71hornus" xml:id="rdg2.71totum" ana="#morphological" type="conjecture">totum</rdg>
                                 <rdg source="#Burm1731" require="#rdg2.71hornus2" exclude="#lem2.71annus #rdg2.71ornus #rdg2.71ortus #rdg2.71hortus #rdg2.71hornum" xml:id="rdg2.71foetus" ana="#lexical" type="conjecture">foetus</rdg>
                             </app> <app>
@@ -6526,7 +6526,7 @@
                             
                             
                             <app>
-                                <lem xml:id="lem2.71annus">annus</lem>
+                                <lem xml:id="lem2.71annus" require="#lem2.71totus" exclude="#rdg2.71totum #rdg2.71foetus">annus</lem>
                                 <rdg wit="#φ #ν #θ #ζ #r" xml:id="rdg2.71ornus" ana="#lexical">ornus</rdg>
                                 <rdg wit="#s" xml:id="rdg2.71ortus" ana="#lexical">ortus</rdg>
                                 <rdg source="#n #o" xml:id="rdg2.71hortus" ana="#lexical">hortus</rdg>
