@@ -4399,7 +4399,7 @@
                         <l n="10">silva comas <app>
                                 <lem>rapidoque</lem>
                                 <rdg source="#Baehr1870" ana="#lexical" type="conjecture">rabidoque</rdg>
-                                <note>(lect. lat. p. 35 <ptr target="https://books.google.com/books?id=a6FMAAAAcAAJ&amp;pg=PT38#v=onepage&amp;q&amp;f=false"/>)</note>
+                                <note>(lect. lat. p. <ref target="https://books.google.com/books?id=a6FMAAAAcAAJ&amp;pg=PT38#v=onepage&amp;q&amp;f=false">35</ref>)</note>
                             </app>
                             <app>
                                 <lem>caput</lem>
@@ -5023,8 +5023,8 @@
                                 <lem>vultu</lem>
                                 <rdg wit="#P" ana="#orthographical">ultu</rdg>
                                 <rdg wit="#Dempster" xml:id="rdg1.54cultu" ana="#lexical" type="conjecture">cultu</rdg>
-                                <note target="#rdg1.54cultu"><ref target="#Dempster">Dempster (De
-                                        Etruria Regali III.86 <ptr target="https://books.google.com/books?id=tQJdAAAAcAAJ&amp;pg=PA448#v=onepage&amp;q&amp;f=false"/>)</ref></note>
+                                <note target="#rdg1.54cultu"><ref target="#Dempster">Dempster</ref> (<ref target="https://books.google.com/books?id=tQJdAAAAcAAJ&amp;pg=PA448#v=onepage&amp;q&amp;f=false">De
+                                        Etruria Regali III.86</ref>)</note>
                             </app>,</l>
                         <app type="line-omission">
                                 <lem>
@@ -5078,8 +5078,8 @@
                                 <rdg wit="#N2" ana="#orthographical">puplica</rdg>
                                 <rdg source="#Hermann #Haupt1854 #Baehr." ana="#lexical" type="conjecture">iubila</rdg>
                                 <rdg source="#Leo" xml:id="rdg1.57Leo" ana="#lexical" type="conjecture">vulnera</rdg>
-                                <note target="#rdg1.57Leo"><ref target="#Leo">Leo (Zeitschr. f. d.
-                                        oesterr. Gymn. XXX p. 616<ptr target="https://books.google.com/books?id=vABMAAAAYAAJ&amp;pg=PA616#v=onepage&amp;q&amp;f=false"/>)</ref></note>
+                                <note target="#rdg1.57Leo"><ref target="#Leo">Leo</ref> (<ref target="https://books.google.com/books?id=vABMAAAAYAAJ&amp;pg=PA616#v=onepage&amp;q&amp;f=false">Zeitschr. f. d.
+                                        oesterr. Gymn. XXX p. 616</ref>)</note>
                                 <rdg source="#Schenkl2" ana="#lexical" type="conjecture">fulmina</rdg>
                             </app>
                             <app>
@@ -5229,14 +5229,14 @@
                         <l n="72">ius aderit moremque fori <app>
                                 <lem>vultumque priorem</lem>
                                 <rdg source="#Barth1624" ana="#lexical" type="conjecture">legemque priorem</rdg>
-                                <note>(<ref target="#Barth1624">Barth</ref>Adv. 44,15 <ptr target="https://books.google.com/books?id=-DVOAAAAYAAJ&amp;lpg=RA4-PT766&amp;ots=v5kIDI84YC&amp;dq=Adversariorvm%20commentariorvm%20libri%20LX&amp;pg=RA4-PT412#v=onepage&amp;q=Adversariorvm%20commentariorvm%20libri%20LX&amp;f=false"/>)</note>
+                                <note>(<ref target="#Barth1624">Barth</ref> <ref target="https://books.google.com/books?id=-DVOAAAAYAAJ&amp;lpg=RA4-PT766&amp;ots=v5kIDI84YC&amp;dq=Adversariorvm%20commentariorvm%20libri%20LX&amp;pg=RA4-PT412#v=onepage&amp;q=Adversariorvm%20commentariorvm%20libri%20LX&amp;f=false">Adv. 44,15 </ref>)</note>
                             </app></l>
                         <l n="73">reddet et afflictum melior deus <app>
                                 <lem>auferet</lem>
                                 <rdg wit="#N2 #P #η1" ana="#lexical">afferet</rdg>
                                 <rdg source="#Mueller" ana="#lexical" type="conjecture">asseret</rdg>
-                                <note><ref target="#Mueller">L. Mueller</ref> (Berl. phil. Woch V.
-                                    p.1071 <ptr target="http://hdl.handle.net/2027/uiug.30112023962282?urlappend=%3Bseq=674"/></note>
+                                <note><ref target="#Mueller">L. Mueller</ref> (<ref target="http://hdl.handle.net/2027/uiug.30112023962282?urlappend=%3Bseq=674">Berl. phil. Woch V.
+                                    p.1071</ref>)</note>
                             </app> aevum.</l>
                         <l n="74">
                             <app>
@@ -5469,8 +5469,8 @@
                                         <note target="#rdg1.87Mueller"><ref target="#Mueller">(l. l. p. 1071)</ref></note>
                                         <rdg wit="#δ" source="#Barth1613 #Glaeser" ana="#lexical">emeritis</rdg>
                                         <rdg source="#Gronovius1755 #Haupt1874" xml:id="rdg1.87GronovHaupt" ana="#lexical #syntactic" type="conjecture">emeriti</rdg>
-                                        <note target="#rdg1.87GronovHaupt"><ref target="#Gronovius1755">(Gronov. Obss. III 13</ref>, <ref target="#Haupt1874">Haupt Hermes VIII p.
-                                            251</ref> <ptr target="https://books.google.de/books?id=QVYLAAAAMAAJ&amp;hl=de&amp;pg=PA251#v=onepage&amp;q&amp;f=false"/>)</note>
+                                        <note target="#rdg1.87GronovHaupt"><ref target="#Gronovius1755">(Gronov. Obss. III 13</ref>, <ref target="#Haupt1874">Haupt</ref> <ref target="https://books.google.de/books?id=QVYLAAAAMAAJ&amp;hl=de&amp;pg=PA251#v=onepage&amp;q&amp;f=false">Hermes VIII p.
+                                            251</ref>)</note>
                                     </app>
                                     <app>
                                         <lem>defunctos</lem>
@@ -5549,11 +5549,9 @@
                             </app> numina <app>
                                 <lem>Fauni</lem>
                                 <rdg source="#Heraldus" xml:id="rdg1.91Heraldus" ana="#lexical">Bacchi</rdg>
-                                <note target="#rdg1.91Heraldus"><ref target="#Heraldus">Heraldus</ref> (Adv. I c. 2 <ptr target="https://books.google.com/books?id=0DmP31YuSXkC&amp;lpg=PA51&amp;dq=Desiderii%20Heraldi%20Adversariorvm&amp;pg=PA66#v=onepage&amp;q&amp;f=false"/>)</note>
+                                <note target="#rdg1.91Heraldus"><ref target="#Heraldus">Heraldus</ref> (<ref target="https://books.google.com/books?id=0DmP31YuSXkC&amp;lpg=PA51&amp;dq=Desiderii%20Heraldi%20Adversariorvm&amp;pg=PA66#v=onepage&amp;q&amp;f=false">Adv. I c. 2</ref>)</note>
                             </app>.</l>
-                    
-                    
-                        
+           
                   <l n="92"><label type="speaker">
                     <app>
                       <lem>O.</lem>
@@ -5710,8 +5708,8 @@
                     <l n="5">ad gelidos fontes et easdem forte sub <app>
                             <lem wit="#N #G" source="#Glaeser #Keene #Schenkl">umbras</lem>
                             <rdg wit="#P #V" source="#edd." xml:id="rdg2.5ulmos" ana="#lexical">ulmos</rdg>
-                            <note target="#rdg2.5ulmos">probavit <ref target="#Jacoby">Jacoby</ref> (Woch. f. kl. Phil.
-                                III p. 1291) <ptr target="https://books.google.de/books?id=q5blAAAAMAAJ&amp;hl=de&amp;pg=RA8-PA41#v=onepage&amp;q&amp;f=false"/></note>
+                            <note target="#rdg2.5ulmos">probavit <ref target="#Jacoby">Jacoby</ref> (<ref target="https://books.google.de/books?id=q5blAAAAMAAJ&amp;hl=de&amp;pg=RA8-PA41#v=onepage&amp;q&amp;f=false">Woch. f. kl. Phil.
+                                III p. 1291</ref>)</note>
                         </app></l>
                     <l n="6">conveniunt dulcique simul <app>
                             <lem xml:id="lem2.11.6">contendere</lem>
@@ -5754,7 +5752,7 @@
                     <l n="10">affuit omne genus <app>
                             <lem xml:id="lem2.11.10">pecudum</lem>
                             <rdg wit="#G" xml:id="rdg2.10-pecorum" ana="#lexical">pecorum</rdg>
-                        <witDetail wit="#G" target="#rdg2.10-pecorum" type="correction-original">quod def. <ref target="#Mueller">L. Mueller</ref> (l. l. p. 1071)</witDetail>
+                        <witDetail wit="#G" target="#rdg2.10-pecorum" type="correction-original">ante corr., quod def. <ref target="#Mueller">L. Mueller</ref> (l. l. p. 1071)</witDetail>
                             <rdg wit="#G" xml:id="rdg2.10-pecudum" copyOf="#lem2.11.10"/>
                             <witDetail wit="#G" target="#rdg2.10-pecudum" type="correction-altered">supr. lin.</witDetail>
                         </app>, genus omne ferarum</l>
@@ -5784,8 +5782,8 @@
                             <rdg wit="#ω" source="#edd." ana="#morphological #syntactic">lentas</rdg>
                             <rdg wit="#ζ" ana="#lexical #syntactic">lectas</rdg>
                             <rdg source="#Tit. #Friesemann" ana="#lexical #syntactic" type="conjecture" xml:id="rdg2.12laetas">laetas</rdg>
-                            <note target="#rdg2.12laetas"><ref target="#Friesemann">Friesemann</ref> coll. crit. p.
-                                175 <ptr target="https://books.google.com/books?id=hu5WAAAAcAAJ&amp;lpg=PA173&amp;dq=friesemann%20collectanea%20critica&amp;pg=PA175#v=onepage&amp;q=friesemann%20collectanea%20critica&amp;f=false"/>)</note>
+                            <note target="#rdg2.12laetas"><ref target="#Friesemann">Friesemann</ref> <ref target="https://books.google.com/books?id=hu5WAAAAcAAJ&amp;lpg=PA173&amp;dq=friesemann%20collectanea%20critica&amp;pg=PA175#v=onepage&amp;q=friesemann%20collectanea%20critica&amp;f=false">coll. crit. p.
+                                175</ref>)</note>
                         </app></l>
                     <l n="13">pascit oves, Faunusque pater <app>
                             <lem wit="#N #ε #χ #ρ2 #φ2 #λ #ν #α #γ" ana="#orthographical">Satyrique</lem>
@@ -5937,7 +5935,7 @@
                             <lem xml:id="lem2.12.25">distinguere</lem>
                             <rdg wit="#P" ana="#orthographical">distingere</rdg>
                             <rdg wit="#N" xml:id="rdg2.25-distingere" ana="#orthographical">distingure</rdg>
-                            <witDetail wit="#N" target="#rdg2.25-distingere" type="correction-original">corr. <ref target="#N2">N<hi rend="superscript">2></hi></ref></witDetail>
+                            <witDetail wit="#N" target="#rdg2.25-distingere" type="correction-original">corr. <ref target="#N2">N<hi rend="superscript">2</hi></ref></witDetail>
                         </app> cantus</l>
                     <l n="26"><app>
                             <lem>possitis</lem>
@@ -5955,7 +5953,7 @@
                             <app>
                                 <lem wit="#N #G #d" source="#Heins. #Gronovius1755 #Burm1731" xml:id="lem2.13.27">decernunt digitis</lem>
                                 <wit><ref target="#Glaeser">Glaeser</ref> sqq.</wit>
-                                <note target="#lem2.13.27"><ref target="#Gronovius1755">Gronov.</ref> (Obss. 3, 13 <ptr target="https://books.google.com/books?id=9n5MAAAAcAAJ&amp;pg=PA416#v=onepage&amp;q&amp;f=false"/>)</note>
+                                <note target="#lem2.13.27"><ref target="#Gronovius1755">Gronov.</ref> (<ref target="https://books.google.com/books?id=9n5MAAAAcAAJ&amp;pg=PA416#v=onepage&amp;q&amp;f=false">Obss. 3, 13 </ref>)</note>
                                 <rdg wit="#ζ" ana="#lexical"><add place="margin" copyOf="#lem2.13.27"/></rdg>
                                 <rdg wit="#P #η #π #φ #χ #ρ #ν #κ #θ #β #ζ" ana="#lexical">discernunt digitis</rdg>
                                 <wit>edd. ante <ref target="#Glaeser">Glaeser</ref></wit>
@@ -6013,7 +6011,7 @@
                                 <note target="#rdg2.31crescit">(def. <bibl><author>Haupt</author>, <title ref="#HauptDiss">De
                                             carm. buc. Calp. et Nem.</title>
                                         <pubPlace>Berolini</pubPlace>
-                                        <date>1854</date>, <citedRange unit="page">p28</citedRange><ptr target="https://books.google.com/books?id=Z-8nAAAAYAAJ&amp;pg=PA28#v=onepage&amp;q&amp;f=false"/></bibl>)</note>
+                                        <date>1854</date>, <citedRange unit="page"><ref target="https://books.google.com/books?id=Z-8nAAAAYAAJ&amp;pg=PA28#v=onepage&amp;q&amp;f=false">p28</ref></citedRange></bibl>)</note>
                                 <!-- Seems unnecessary if this is already defined in a <bibl> -->
                                 <rdg wit="#χ2" source="#Maehly" ana="#morphological">crescet</rdg>
                             </app> tibi fistula <app>
@@ -6032,11 +6030,11 @@
                       <bibl><author>Gebauer</author> (<title ref="#Gebauer">de
                         poet.</title>
                         <biblScope unit="volume">I</biblScope>
-                        <citedRange unit="page">p. 30</citedRange> <ptr target="https://books.google.com/books?id=4YMCAAAAQAAJ&amp;lpg=PA1&amp;dq=gebauer%20de%20poetarum&amp;pg=PA30#v=onepage&amp;q&amp;f=false"/>)</bibl>
+                        <citedRange unit="page"><ref target="https://books.google.com/books?id=4YMCAAAAQAAJ&amp;lpg=PA1&amp;dq=gebauer%20de%20poetarum&amp;pg=PA30#v=onepage&amp;q&amp;f=false">p. 30</ref></citedRange>)</bibl>
                       <bibl><author ref="#Forbiger">Forbiger</author> (ad loc. all.
                         Verg.)</bibl>
-                      <bibl><author ref="#Leo">Leo</author> (l. l. p.
-                        617 <ptr target="https://books.google.com/books?id=vABMAAAAYAAJ&amp;pg=PA617#v=onepage&amp;q&amp;f=false"/>)</bibl></note>
+                      <bibl><author ref="#Leo">Leo</author> (<ref target="https://books.google.com/books?id=vABMAAAAYAAJ&amp;pg=PA617#v=onepage&amp;q&amp;f=false">l. l. p.
+                        617 </ref>)</bibl></note>
                     <rdg wit="#N #G #edd." ana="#lexical">at</rdg>
                     <rdg wit="#ρ" ana="#lexical">ast</rdg>
                   </app> mihi <app>
@@ -6236,7 +6234,7 @@
                                 <lem>condiscant</lem>
                                 <rdg wit="#P" ana="#orthographical">cū discant</rdg>
                                 <rdg source="#Voss" xml:id="rdg2.46condiscat" ana="#morphological" type="conjecture">condiscat</rdg>
-                                <note target="#rdg2.46condiscat">(ad Verg. ländl. Ged. I, p. 139 <ptr target="https://books.google.com/books?id=Q2YGAAAAQAAJ&amp;lpg=PA461&amp;dq=voss%20vergils%20l%C3%A4ndliche%20gedichte&amp;pg=PA139#v=onepage&amp;q&amp;f=false"/>)</note>
+                                <note target="#rdg2.46condiscat">(<ref target="https://books.google.com/books?id=Q2YGAAAAQAAJ&amp;lpg=PA461&amp;dq=voss%20vergils%20l%C3%A4ndliche%20gedichte&amp;pg=PA139#v=onepage&amp;q&amp;f=false">ad Verg. ländl. Ged. I, p. 139</ref>)</note>
                             </app> primoque recidere <app>
                                 <lem wit="#G1 #P #V" source="#edd." xml:id="lem2.14.46">gramina</lem>
                                 <witDetail wit="#G1" target="#lem2.14.46" type="correction-altered"/>
@@ -6316,7 +6314,7 @@
                                 <rdg source="#Postgate" xml:id="rdg2.55hac-erat" ana="#lexical" type="conjecture">hac erat</rdg>
                                 <rdg source="#Maehly" ana="#lexical" type="conjecture">hac est</rdg>
                                 <rdg source="#Heins." ana="#lexical #morphological" type="conjecture">hac eris</rdg>
-                                <note target="#rdg2.55hac-erat">(1.1 p.213 <ptr target="http://www.jstor.org/stable/694806"/>)</note>
+                                <note target="#rdg2.55hac-erat">(<ref target="http://www.jstor.org/stable/694806">1.1 p.213</ref> )</note>
                             </app>; ite procul (sacer est locus) ite <app>
                                 <lem wit="#G #P #ε #ν #κ #χ #φ #η #ρ" source="#edd.">profani</lem>
                                 <rdg wit="#N #γ #λ #α #β #μ #π #δ #ζ #u #e #d2 #b" source="#o #n #i2 #l2 #g" ana="#orthographical">prophani</rdg>
@@ -6351,7 +6349,7 @@
                                 <rdgGrp><rdg source="#Gronovius1755" ana="#lexical" type="conjecture">solus</rdg>
                                 <note>vel</note>
                                 <rdg source="#Gronovius1755" copyOf="#rdg2.57similis"/></rdgGrp>
-                                <note target="#rdgGrp2.57Gronovius">(Obss. III 13 <ptr target="https://books.google.com/books?id=9n5MAAAAcAAJ&amp;pg=PA419#v=onepage&amp;q&amp;f=false"/>)</note>
+                                <note target="#rdgGrp2.57Gronovius">(<ref target="https://books.google.com/books?id=9n5MAAAAcAAJ&amp;pg=PA419#v=onepage&amp;q&amp;f=false">Obss. III 13</ref>)</note>
                             </app>, <app>
                                 <lem>virides</lem>
                                 <rdg wit="#γ" ana="#subtractive"/>
@@ -8166,7 +8164,7 @@
                                 <lem><app>
                                         <lem>vicina</lem>
                                         <rdg source="#Oudendorp" xml:id="rdg3.95vicini" ana="#morphological" type="conjecture">vicini</rdg>
-                                        <note target="#rdg3.95vicini">(ap. <ref target="#Burman1759">Burm. Anth. lat. I</ref> p. 716)<ptr target="https://books.google.com/books?id=wik_AAAAcAAJ&amp;lpg=PR74&amp;ots=zH-Fkh4dG5&amp;dq=anthologia%20veterum%20latinorum&amp;pg=PA716#v=onepage&amp;q=anthologia%20veterum%20latinorum&amp;f=false"/></note>
+                                        <note target="#rdg3.95vicini">(ap. <ref target="#Burman1759">Burm.</ref> Anth. lat. I <ref target="https://books.google.com/books?id=wik_AAAAcAAJ&amp;lpg=PR74&amp;ots=zH-Fkh4dG5&amp;dq=anthologia%20veterum%20latinorum&amp;pg=PA716#v=onepage&amp;q=anthologia%20veterum%20latinorum&amp;f=false">p. 716</ref>)</note>
                                     </app>
                                     <app>
                                         <lem>saepe</lem>
@@ -8277,7 +8275,7 @@
                                 <rdg wit="#β #η" ana="#lexical">in secta</rdg>
                                 <rdg source="#Ulit." ana="#lexical" type="conjecture">intecta</rdg>
                                 <rdg source="#Salmasius1656" xml:id="rdg4.3in_festa" ana="#lexical" type="conjecture">in festa</rdg>
-                                <note target="#rdg4.3in_festa">(epist. ad Gronov. 110 <ptr target="https://books.google.com/books?id=0zRv3_Ym5R4C&amp;dq=Salmasius%20epistolae&amp;pg=PA251#v=onepage&amp;q=Salmasius%20epistolae&amp;f=false"/>)</note><!-- Use <wit> instead? -->
+                                <note target="#rdg4.3in_festa">(epist. ad Gronov. <ref target="https://books.google.com/books?id=0zRv3_Ym5R4C&amp;dq=Salmasius%20epistolae&amp;pg=PA251#v=onepage&amp;q=Salmasius%20epistolae&amp;f=false">110</ref>)</note><!-- Use <wit> instead? -->
                                 <rdgGrp><rdg source="#Burm1731" ana="#lexical" type="conjecture">in certa</rdg>
                                     <note>vel</note>
                                 <rdg source="#Burm1731" ana="#lexical" type="conjecture">lecta</rdg></rdgGrp>
@@ -8456,7 +8454,7 @@
                                 <rdg source="#Heins." xml:id="rdg4.18Heins2" exclude="#lem4.18admovet #rdg4.18amonet #rdg4.18admonet #rdg4.18Gronov-admonet" ana="#lexical" type="conjecture">bis dena</rdg></rdgGrp>
                                 <rdg source="#Gronovius1755" xml:id="rdg4.18Gronov-vicina" copyOf="#lem4.18vicina" exclude="#lem4.18admovet #rdg4.18admonet #rdg4.18amonet #rdg4.18amovet"/>
                                 <note target="#rdg4.18vicina-admonet">in omiss. ad Diatr. Statii
-                                        <ptr target="https://books.google.com/books?id=zBk-AAAAcAAJ&amp;dq=gronovius%20diatrib&amp;pg=PA415#v=onepage&amp;q=gronovius%20diatrib&amp;f=false"/>p. 415</note><!-- Use <wit>? -->
+                                        <ref target="https://books.google.com/books?id=zBk-AAAAcAAJ&amp;dq=gronovius%20diatrib&amp;pg=PA415#v=onepage&amp;q=gronovius%20diatrib&amp;f=false">p. 415</ref></note><!-- Use <wit>? -->
                             </app> meis natalibus <app>
                                 <lem xml:id="lem4.18admovet" exclude="#rdg4.18Barth-vicena #rdg4.18Heins2 #rdg4.18Gronov-vicina">admovet</lem>
                                 <rdg wit="#N" xml:id="rdg4.18amonet" exclude="#rdg4.18Barth-vicena #rdg4.18Burm-vicena #rdg4.18Heins1 #rdgHeins2 #rdg4.18Gronov-vicina" ana="#lexical #orthographical">amonet</rdg>
@@ -8701,7 +8699,7 @@
                                 <rdg wit="#V #r #d #e #s" ana="#lexical">germani</rdg>
                                 <rdg wit="#δ" ana="#lexical">germanis</rdg>
                                 <rdg source="#Heins1661 #Burm1731 #t" xml:id="rdg4.41Geryonae" ana="#morphological" type="conjecture">Geryonae</rdg>
-                                <note target="#rdg4.41Geryonae">Heins. (ad Ovid. Her. 8,9)<ptr target="https://books.google.com/books?id=uuYJ9S-mr2QC&amp;pg=RA2-PA67#v=onepage&amp;q&amp;f=false"/></note>
+                                <note target="#rdg4.41Geryonae"><ref target="https://books.google.com/books?id=uuYJ9S-mr2QC&amp;pg=RA2-PA67#v=onepage&amp;q&amp;f=false">Heins. (ad Ovid. Her. 8,9)</ref></note>
                             </app>, liquidis ubi cursibus ingens</l>
                         <l n="42">dicitur occiduas <app>
                                 <lem>impellere</lem>
@@ -8786,8 +8784,8 @@
                                 <rdg wit="#ν #φ #η #r" source="#t #Burm1731 #Wernsd. #Beck #Glaeser #Keene" ana="#lexical">avocat</rdg>
                                 <rdg wit="#γ" source="#p #Fruterius #Modius #Barth1613" xml:id="rdg4.50avocet" ana="#lexical">avocet</rdg>
                                 <note target="#rdg4.50avocet">Fruterius: Coniect. Verisim. III 12
-                                    (cited by Barth ad loc., no longer extant; Modius: Epist.
-                                        124<ptr target="https://books.google.com/books?id=AzROAAAAcAAJ&amp;pg=PA541#v=onepage&amp;q&amp;f=false"/></note>
+                                    (cited by Barth ad loc., no longer extant; Modius: <ref target="https://books.google.com/books?id=AzROAAAAcAAJ&amp;pg=PA541#v=onepage&amp;q&amp;f=false">Epist.
+                                        124</ref></note>
                             </app> aures</l>
                         <l n="51">et nostris aliena <app>
                                 <lem xml:id="lem4.51magis">magis</lem>
@@ -8797,7 +8795,7 @@
                                 <lem>carmina rident</lem>
                                 <rdg source="#Modius" xml:id="rdg4.51pagina_ridet" ana="#lexical" type="conjecture">pagina
                                     ridet</rdg>
-                                <note target="#rdg4.51pagina_ridet"><ptr target="https://books.google.com/books?id=AzROAAAAcAAJ&amp;pg=PA541#v=onepage&amp;q&amp;f=false"/></note>
+                                <note target="#rdg4.51pagina_ridet"><ref target="https://books.google.com/books?id=AzROAAAAcAAJ&amp;pg=PA541#v=onepage&amp;q&amp;f=false"><bibl><title>Novantiquae Lect.</title></bibl> p. 541</ref></note>
                             </app>,</l>
                         <l n="52">vis, <app>
                                 <lem>hodierna</lem>
@@ -8955,7 +8953,7 @@
                                 <rdg source="#Schenkl #Leo" xml:id="rdg4.63carmen_modulatus" ana="#lexical #ordinal #syntactic">carmen
                                     modulatus</rdg>
                                 <note target="#rdg4.63carmen_modulatus"><ref target="#Leo">Leo</ref>
-                                    (l .l. p. 616<ptr target="https://books.google.com/books?id=vABMAAAAYAAJ&amp;pg=PA616#v=onepage&amp;q&amp;f=false"/>)</note>
+                                    (l .l. <ref target="https://books.google.com/books?id=vABMAAAAYAAJ&amp;pg=PA616#v=onepage&amp;q&amp;f=false">p. 616</ref>)</note>
                             </app> avena’.</l>
                     
                         <l n="64"><label type="speaker">M.</label>Magna petis, <app>
@@ -9111,7 +9109,7 @@
                                 <rdg source="#Leo" xml:id="rdg4.76magnos_calamos" ana="#syntactic #subtractive" type="conjecture">magnos
                                     calamos</rdg>
                                 <note target="#rdg4.76magnos_calamos"><ref target="#Leo">Leo</ref>
-                                    (l. l. p. 617 <ptr target="https://books.google.com/books?id=vABMAAAAYAAJ&amp;pg=PA617#v=onepage&amp;q&amp;f=false"/>)</note><!-- Use <wit> instead? -->
+                                    (l. l. <ref target="https://books.google.com/books?id=vABMAAAAYAAJ&amp;pg=PA617#v=onepage&amp;q&amp;f=false">p. 617</ref>)</note><!-- Use <wit> instead? -->
                             </app>
                             <app>
                                 <lem>sectare</lem>
@@ -9124,7 +9122,7 @@
                         <l n="77"><app>
                                 <lem source="#Leo #Schenkl" xml:id="lem4.77exprime" type="emendation">exprime</lem>
                                 <note target="#lem4.77exprime"><ref target="#Leo">Leo</ref> (l. l.
-                                    p. 617 <ptr target="https://books.google.com/books?id=vABMAAAAYAAJ&amp;pg=PA617#v=onepage&amp;q&amp;f=false"/>)</note> <!-- Use <wit> instead? -->
+                                    <ref target="https://books.google.com/books?id=vABMAAAAYAAJ&amp;pg=PA617#v=onepage&amp;q&amp;f=false">p. 617</ref>)</note> <!-- Use <wit> instead? -->
                                 <rdg wit="#N #G" source="#Glaeser #Baehr. #Keene" ana="#lexical">et preme</rdg>
                                 <rdg wit="#γ #ρ #μ #β #δ" ana="#lexical #subtractive">prome</rdg>
                                 <rdg wit="#π #φ #χ #θ #ν #κ #λ #μ #α #r" source="#i1 #l1 #Vienn. #Guid. #Barth1613 #t" ana="#lexical #syntactic">pro me</rdg>
@@ -9177,7 +9175,7 @@
                                         <lem xml:id="lem4.80reducite" exclude="#rdg4.80dicite-Friesemann" require="#rdg4.80ducite-Friesemann">reducite</lem>
                                         <rdg source="#Friesemann" xml:id="rdg4.80redicite" exclude="#rdg4.80ducite-Friesemann" require="#rdg4.80dicite-Friesemann" ana="#lexical" type="conjecture">redicite</rdg>
                                         <note target="#rdg4.80ducite-Friesemann">ducite-reducite vel
-                                            dicite-redicite Friesemann (coll. crit. pag. 177<ptr target="https://books.google.com/books?id=hu5WAAAAcAAJ&amp;pg=PA177#v=onepage&amp;q&amp;f=false"/>)</note>
+                                            dicite-redicite Friesemann (coll. crit. <ref target="https://books.google.com/books?id=hu5WAAAAcAAJ&amp;pg=PA177#v=onepage&amp;q&amp;f=false">pag. 177</ref>)</note>
                                     </app> carmen;</l></lem>
                             <rdg wit="#α1 #π #η"/>
                         </app>
@@ -9322,7 +9320,7 @@
                                     <rdg source="#Barth1613" ana="#lexical #morphological" type="conjecture">fructiferant</rdg>
                                     <rdg source="#Haupt1854" xml:id="rdg4.91en_fruticant" ana="#lexical #additive" type="conjecture">en
                                         fruticant</rdg>
-                                    <note target="#rdg4.91en_fruticant">p. 20<ptr target="https://books.google.com/books?id=Z-8nAAAAYAAJ&amp;pg=PA20#v=onepage&amp;q&amp;f=false"/></note> <!-- Use <wit> instead here? -->
+                                    <note target="#rdg4.91en_fruticant"><ref target="https://books.google.com/books?id=Z-8nAAAAYAAJ&amp;pg=PA20#v=onepage&amp;q&amp;f=false">p. 20</ref></note> <!-- Use <wit> instead here? -->
                                     <rdg source="#Schenkl1" ana="#lexical #additive">iam fruticat</rdg>
                                 </app>
                                 <app>
@@ -9336,7 +9334,7 @@
                                         <note>vel</note>
                                     <rdg source="#Barth1613" copyOf="#lem91vicinaque"/></rdgGrp>
                                     <rdg source="#Swartius" xml:id="rdg4.91vitisequa" ana="#lexical" type="conjecture">vitisequa</rdg>
-                                    <note target="#rdg4.91vitisequa">(Anal. III 6 <ptr target="https://books.google.com/books?id=8JFMAAAAcAAJ&amp;pg=PA118#v=onepage&amp;q&amp;f=false"/>)</note>
+                                    <note target="#rdg4.91vitisequa">(Anal. <ref target="https://books.google.com/books?id=8JFMAAAAcAAJ&amp;pg=PA118#v=onepage&amp;q&amp;f=false">III 6</ref>)</note>
                                     <rdgGrp><rdg source="#Ulit." ana="#lexical" type="conjecture">erycinaque</rdg>
                                     <note>vel</note>
                                     <rdg source="#Ulit." copyOf="#lem91vicinaque"/></rdgGrp>
@@ -9465,10 +9463,9 @@
                             <l n="97" xml:id="C4.97"><label type="speaker">C.</label>Aspicis, ut virides audito Caesare silvae</l>
                             <app><note target="#C4.97">Carmen amoebaeum, quod vocatur, cum ex impari
                                 stropharum numero constare nequeat, in hac ecloga integrum non esses
-                                    <ref target="#Hermann">G. Hermann</ref> (ad Bion. et Mosch. p.
-                                    46<ptr target="https://books.google.com/books?id=a9Dh6bvB3z4C&amp;dq=bion%20moschus%20hermann&amp;pg=PA46#v=onepage&amp;q=bion%20moschus%20hermann&amp;f=false"/>) primus sensit. <ref target="#Schenkl">Schenkl</ref> autem
-                                censuit deesse stropham quae olim opposita fuit strophae <ref target="#C4strophe8">VIII</ref> itidemque comite carere <ref target="#C4strophe3">III</ref>, quam ob rem <ref target="#Schenkl1">in editione priore</ref> vir doctissimus <ref target="C4strophe3">III</ref> post <ref target="C4strophe11">XI</ref> transposuit lacunameque in utraque editione post <ref target="C4strophe8">VIII</ref> statuit. Contra <ref target="#Leo">F. Leo (Zeitsch. f. d. oesterr. Gymn. XXXVI p. 619
-                                        <ptr target="https://books.google.com/books?id=vABMAAAAYAAJ&amp;pg=PA619#v=onepage&amp;q&amp;f=false"/>)</ref>
+                                    <ref target="#Hermann">G. Hermann</ref> (ad Bion. et Mosch. <ref target="https://books.google.com/books?id=a9Dh6bvB3z4C&amp;dq=bion%20moschus%20hermann&amp;pg=PA46#v=onepage&amp;q=bion%20moschus%20hermann&amp;f=false">p.
+                                    46</ref>) primus sensit. <ref target="#Schenkl">Schenkl</ref> autem
+                                censuit deesse stropham quae olim opposita fuit strophae <ref target="#C4strophe8">VIII</ref> itidemque comite carere <ref target="#C4strophe3">III</ref>, quam ob rem <ref target="#Schenkl1">in editione priore</ref> vir doctissimus <ref target="C4strophe3">III</ref> post <ref target="C4strophe11">XI</ref> transposuit lacunameque in utraque editione post <ref target="C4strophe8">VIII</ref> statuit. Contra <ref target="#Leo">F. Leo</ref> (Zeitsch. f. d. oesterr. Gymn. XXXVI <ref target="https://books.google.com/books?id=vABMAAAAYAAJ&amp;pg=PA619#v=onepage&amp;q&amp;f=false">p. 619</ref>)
                                 <ref target="C4strophe13">XIII</ref> post <ref target="C4strophe3">III</ref> collocavit ut v. 141 carmen amoebaeum concluderetur.
                                 Mihi quidem, cum strophae <ref target="C4strophe1">I</ref>, et <ref target="C4strophe2">II</ref>, <ref target="C4strophe4">IV</ref>
                                 et <ref target="C4strophe5">V</ref>, <ref target="C4strophe6">VI</ref> et <ref target="C4strophe7">VII</ref>, <ref target="C4strophe9">IX</ref> et <ref target="C4strophe10">X</ref>, <ref target="C4strophe12">XII</ref> et <ref target="C4strophe13">XIII</ref> invicem sibi respondeant, visum
@@ -9621,7 +9618,7 @@
                                 </app> audito <app>
                                     <lem>nomine</lem>
                                     <rdg source="#Barth1624" xml:id="rdg4.109numine" ana="#lexical" type="conjecture">numine</rdg>
-                                    <note target="#rdg4.109numine">(34.2)<ptr target="https://books.google.com/books?id=-DVOAAAAYAAJ&amp;pg=RA4-PT179#v=onepage&amp;q&amp;f=false"/></note><!-- <wit> here instead of <note>? -->
+                                    <note target="#rdg4.109numine">(<ref target="https://books.google.com/books?id=-DVOAAAAYAAJ&amp;pg=RA4-PT179#v=onepage&amp;q&amp;f=false">34.2</ref>)</note><!-- <wit> here instead of <note>? -->
                                 </app> tellus</l>
                             <l n="110">incaluit floremque dedit; <app>
                                     <lem>cui silva</lem>
@@ -9859,7 +9856,7 @@
                                     <lem wit="#A #γ #μ #π #λ #β #ε #α" source="#edd." xml:id="lem4.124saliat">saliat</lem>
                                     <note target="#lem4.124saliat">probat <ref target="#Leo">Leo</ref></note>
                                     <rdg wit="#G #η #ν #φ #r #s" source="#Ulit. #Gronovius1637 #Glaeser #Baehr." xml:id="rdg4.124psallat" ana="#lexical">psallat</rdg>
-                                    <note target="#rdg4.124psallat"><ref target="#Gronovius1637">Gronov.</ref> (in omissis ad diatr. Stat. p. 416 <ptr target="https://books.google.com/books?id=zBk-AAAAcAAJ&amp;pg=PA416#v=onepage&amp;q&amp;f=false"/>)</note>
+                                    <note target="#rdg4.124psallat"><ref target="#Gronovius1637">Gronov.</ref> (in omissis ad diatr. Stat. <ref target="https://books.google.com/books?id=zBk-AAAAcAAJ&amp;pg=PA416#v=onepage&amp;q&amp;f=false">p. 416</ref>)</note>
                                     <rdg wit="#N" ana="#lexical">psalat</rdg>
                                     <rdg wit="#N2" ana="#lexical">psaliat</rdg>
                                     <rdg wit="#κ #χ" ana="#lexical">pallat</rdg>
@@ -10040,12 +10037,12 @@
                                 </app> longa reducite <app>
                                     <lem>vitae</lem>
                                     <rdg source="#Barth1624" xml:id="rdg4.138secla" ana="#lexical #morphological" type="conjecture">secla</rdg>
-                                    <note target="#rdg4.138secla"><ref target="#Barth1624">Barth</ref> (Adv. 11, 10 <ptr target="https://books.google.com/books?id=oIZNAAAAcAAJ&amp;pg=PT317#v=onepage&amp;q&amp;f=false"/>)</note><!-- Use <wit> here instead of <note>? -->
+                                    <note target="#rdg4.138secla"><ref target="#Barth1624">Barth</ref> (Adv. <ref target="https://books.google.com/books?id=oIZNAAAAcAAJ&amp;pg=PT317#v=onepage&amp;q&amp;f=false">11, 10</ref>)</note><!-- Use <wit> here instead of <note>? -->
                                 </app></l>
                             <l n="139">tempora vel potius mortale <app>
                                     <lem>resolvite</lem>
                                     <rdg source="#Heins. #Friesemann" xml:id="rdg4.139revolvite" ana="#lexical" type="conjecture">revolvite</rdg>
-                                    <note target="#rdg4.139revolvite"><ref target="#Friesemann">Friesemann</ref> (coll. erit. p. 178 <ptr target="https://books.google.com/books?id=hu5WAAAAcAAJ&amp;pg=PA178#v=onepage&amp;q&amp;f=false"/>)</note><!-- Use <wit> here instead of <note>? -->
+                                    <note target="#rdg4.139revolvite"><ref target="#Friesemann">Friesemann</ref> (coll. erit. <ref target="https://books.google.com/books?id=hu5WAAAAcAAJ&amp;pg=PA178#v=onepage&amp;q&amp;f=false">p. 178</ref>)</note><!-- Use <wit> here instead of <note>? -->
                                 </app> pensum</l>
                             <l n="140">et date <app>
                                     <lem>perpetuo</lem>
@@ -10130,7 +10127,7 @@
                                     <rdg wit="#κ #χ #ε #γ #e #d" source="#Burm1731" ana="#lexical">captamque</rdg>
                                     <rdg wit="#u #b" ana="#orthographical">caeptamque</rdg>
                                     <rdg source="#Hoeufft #Beck" xml:id="rdg4.146certamque" ana="#lexical" type="conjecture">certamque</rdg>
-                                    <note target="#rdg4.146certamque"><ref target="#Hoeufft">Hoeufft</ref> (peric. poet. et crit. III p. 330 <ptr target="https://books.google.com/books?id=Xv9hAAAAcAAJ&amp;dq=Hoeufft%20peric&amp;pg=PA330#v=onepage&amp;q=Hoeufft%20peric&amp;f=false"/></note> <!-- Use <wit> here instead of <note>? -->
+                                    <note target="#rdg4.146certamque"><ref target="#Hoeufft">Hoeufft</ref> (peric. poet. et crit. III <ref target="https://books.google.com/books?id=Xv9hAAAAcAAJ&amp;dq=Hoeufft%20peric&amp;pg=PA330#v=onepage&amp;q=Hoeufft%20peric&amp;f=false">p. 330</ref></note> <!-- Use <wit> here instead of <note>? -->
                                     <rdgGrp><rdg source="#Heins." ana="#lexical" type="conjecture">spretamque</rdg>
                                         <note>vel</note>
                                     <rdg source="#Heins." ana="#lexical" type="conjecture">cassamque</rdg></rdgGrp>
@@ -10169,7 +10166,7 @@
                                 <witDetail wit="#N2" target="#lem4.148-deos" type="correction-altered">intra et supra <hi rend="italic">a</hi> ras.; <hi rend="italic">o</hi> ex <hi rend="italic">a</hi></witDetail>
                                 <rdg wit="#G" source="#Schenkl2" xml:id="rdg4.148deas" ana="#morphological">deas</rdg>
                                 <note target="#rdg4.148deas">def. <ref target="#Leo">Leo</ref> (l.
-                                    l. p. 616 <ptr target="https://books.google.com/books?id=vABMAAAAYAAJ&amp;pg=PA616#v=onepage&amp;q&amp;f=false"/>)</note>
+                                    l. <ref target="https://books.google.com/books?id=vABMAAAAYAAJ&amp;pg=PA616#v=onepage&amp;q&amp;f=false">p. 616</ref>)</note>
                                 <rdg wit="#N" xml:id="rdg4.148das" ana="#morphological">d’as</rdg>
                                 <witDetail wit="#N" target="#rdg4.148das" type="correction-original"/>
                             </app> et obesis auribus <app>
@@ -10178,7 +10175,7 @@
                             </app>;</l>
                         <l n="149">verum, <app>
                                 <lem wit="#θ #s" source="#o #n #Ulit. #Haupt1854 #Baehr. #Keene #Schenkl" xml:id="lem4.149quae_paribus">quae paribus</lem>
-                                <note target="#lem4.149quae_paribus">Haupt1854 (l. l. p. 2 <ptr target="https://books.google.com/books?id=Z-8nAAAAYAAJ&amp;pg=PA2#v=onepage&amp;q&amp;f=false"/>)</note><!-- Use <wit> here? -->
+                                <note target="#lem4.149quae_paribus">Haupt1854 (l. l. <ref target="https://books.google.com/books?id=Z-8nAAAAYAAJ&amp;pg=PA2#v=onepage&amp;q&amp;f=false">p. 2</ref>)</note><!-- Use <wit> here? -->
                                 <rdg wit="#G #N2 #H2" ana="#orthographical">que paribus</rdg>
                                 <rdg wit="#N" ana="#orthographical">quē paribus</rdg>
                                 <rdg wit="#H #ε #γ #μ #λ #ρ2" source="#edd." ana="#lexical #additive">quae imparibus</rdg>
@@ -10234,10 +10231,10 @@
                                 <rdg source="#Tit." ana="#morphological" type="conjecture">solet</rdg>
                                 <rdg source="#Heins. #Barth1624" xml:id="rdg4.151fovent" ana="#lexical" type="conjecture">fovent</rdg>
                                 <note target="#rdg4.151fovent"><ref target="#Barth1624">Barth</ref>
-                                    (Adv. p. 1205 <ptr target="https://books.google.com/books?id=oIZNAAAAcAAJ&amp;pg=PT643#v=onepage&amp;q&amp;f=false"/>)</note><!-- Use <wit> here instead? -->
+                                    (Adv. <ref target="https://books.google.com/books?id=oIZNAAAAcAAJ&amp;pg=PT643#v=onepage&amp;q&amp;f=false">p. 1205</ref>)</note><!-- Use <wit> here instead? -->
                                 <rdg source="#Barth1624" xml:id="rdg4.151serunt" ana="#lexical" type="conjecture">serunt</rdg>
                                 <note target="#rdg4.151serunt"><ref target="#Barth1624">Barth</ref>
-                                    (Adv. p. 2341 <ptr target="https://books.google.com/books?id=oIZNAAAAcAAJ&amp;pg=PT1257#v=onepage&amp;q&amp;f=false"/>)</note><!-- Use <wit> here instead? -->
+                                    (Adv. <ref target="https://books.google.com/books?id=oIZNAAAAcAAJ&amp;pg=PT1257#v=onepage&amp;q&amp;f=false">p. 2341</ref>)</note><!-- Use <wit> here instead? -->
                                 <rdg source="#Haupt1854 #Schenkl1 #Ellis" ana="#lexical" type="conjecture">parant</rdg>
                             </app> examina <app>
                                 <lem>lambere</lem>
@@ -10249,8 +10246,8 @@
                         <l n="152" xml:id="C4.152Line"><label type="speaker">C.</label><app>
                                 <lem wit="#H #V" source="#edd.">O mihi</lem>
                                 <rdg wit="#N #G" source="#Glaeser #Schenkl #Leo" xml:id="rdg4.152olim" ana="#lexical">olim</rdg>
-                                <note target="#rdg4.152olim"><ref target="#Leo">Leo</ref> (l. l. p.
-                                    618 <ptr target="https://books.google.com/books?id=vABMAAAAYAAJ&amp;pg=PA618#v=onepage&amp;q&amp;f=false"/>)</note><!-- Use <wit> here instead? -->
+                                <note target="#rdg4.152olim"><ref target="#Leo">Leo</ref> (l. l. <ref target="https://books.google.com/books?id=vABMAAAAYAAJ&amp;pg=PA618#v=onepage&amp;q&amp;f=false">p.
+                                    618</ref>)</note><!-- Use <wit> here instead? -->
                                 <rdg wit="#s" ana="#lexical">hei mihi</rdg>
                                 <rdg wit="#d2" ana="#lexical">ey mihi</rdg>
                             </app>
@@ -10269,7 +10266,7 @@
                                 <rdg wit="#N #G" source="#Glaeser #Baehr. #Schenkl #Leo" ana="#morphological">decurrent</rdg>
                                 <rdg wit="#λ" ana="#lexical">docuerunt</rdg>
                                 <rdg source="#Barth1613 #Friesemann #Beck" xml:id="rdg4.152quae_currunt" ana="#lexical #additive">quae currunt</rdg>
-                                <note target="#rdg4.152quae_currunt"><ref target="#Friesemann">Friesemann</ref> (coll. crit. p. 177 <ptr target="https://books.google.com/books?id=hu5WAAAAcAAJ&amp;pg=PA177#v=onepage&amp;q&amp;f=false"/>)</note><!-- Use <wit> instead? -->
+                                <note target="#rdg4.152quae_currunt"><ref target="#Friesemann">Friesemann</ref> (coll. crit. <ref target="https://books.google.com/books?id=hu5WAAAAcAAJ&amp;pg=PA177#v=onepage&amp;q&amp;f=false">p. 177</ref>)</note><!-- Use <wit> instead? -->
                                 <rdg source="#Haupt1854 #Keene" ana="#morphological #syntactic" type="conjecture">decurrens</rdg>
                             </app>
                             <app>
@@ -10291,11 +10288,11 @@
                                         <rdg source="#Baehr." ana="#lexical #syntactic" type="conjecture">meum</rdg>
                                         <rdg source="#Schenkl1" ana="#lexical #syntactic" type="conjecture">mihi</rdg>
                                         <rdg source="#Ellis" xml:id="rdg4.153sona" ana="#lexical #syntactic" type="conjecture">sona</rdg>
-                                        <note target="#rdg4.153sona"><ref target="#Ellis">Ellis</ref> (l. l. p. 91 <ptr target="https://books.google.com/books?id=tl4bu49MEyIC&amp;dq=editions%3AkJBBtxu-RskC&amp;pg=PA91#v=onepage&amp;q=ellis&amp;f=false"/>)</note><!-- Use <wit> here instead? -->
+                                        <note target="#rdg4.153sona"><ref target="#Ellis">Ellis</ref> (l. l. <ref target="https://books.google.com/books?id=tl4bu49MEyIC&amp;dq=editions%3AkJBBtxu-RskC&amp;pg=PA91#v=onepage&amp;q=ellis&amp;f=false">p. 91</ref>)</note><!-- Use <wit> here instead? -->
                                         <rdg source="#Haupt1854 #Keene #Leo" ana="#morphological" type="conjecture">sonet</rdg>
                                     </app></lem>
                                 <rdg source="#Leo" xml:id="rdg4.153Leo" ana="#lexical" type="conjecture">nunc triviale sonant</rdg>
-                                <note target="#rdg4.153Leo">(l. l. p. 618 <ptr target="https://books.google.com/books?id=vABMAAAAYAAJ&amp;pg=PA618#v=onepage&amp;q&amp;f=false"/>)</note><!-- Use <wit> here instead? -->
+                                <note target="#rdg4.153Leo">(l. l. <ref target="https://books.google.com/books?id=vABMAAAAYAAJ&amp;pg=PA618#v=onepage&amp;q&amp;f=false">p. 618</ref>)</note><!-- Use <wit> here instead? -->
                             </app>, si quando <app>
                                 <lem wit="#G #φ" source="#Haupt1854 #Baehr. #Leo #Schenkl">montibus</lem>
                                 <rdg wit="#N #V #H" source="#edd." ana="#additive">in montibus</rdg>
@@ -10398,7 +10395,7 @@
                                 <lem>sed post</lem>
                                 <rdg source="#Leo" xml:id="rdg4.163post_res" ana="#lexical">post res</rdg>
                                 <note target="#rdg4.163post_res"><ref target="#Leo">Leo</ref> (l. l.
-                                    p. 618 <ptr target="https://books.google.com/books?id=vABMAAAAYAAJ&amp;pg=PA618#v=onepage&amp;q&amp;f=false"/>)</note><!-- Use <wit> here instead of <note>? -->
+                                    <ref target="https://books.google.com/books?id=vABMAAAAYAAJ&amp;pg=PA618#v=onepage&amp;q&amp;f=false">p. 618</ref>)</note><!-- Use <wit> here instead of <note>? -->
                             </app>
                             <app>
                                 <lem>cantabimus</lem>
