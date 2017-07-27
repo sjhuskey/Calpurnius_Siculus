@@ -6512,7 +6512,7 @@
                                 <lem>Crocale</lem>
                                 <rdg wit="#G" ana="#orthographical">crochale</rdg>
                             </app>, <app>
-                                <lem xml:id="lem2.71totus" exclude="#rdg2.71hornum #rdg2.71hornus2">totus</lem>
+                                <lem xml:id="lem2.71totus" exclude="#rdg2.71hornum #rdg2.71hornus2" require="#lem2.71annus">totus</lem>
                                 <rdg source="#Burm1731" xml:id="rdg2.71totum" require="#rdg2.71hornum" exclude="#lem2.71annus #rdg2.71ornus #rdg2.71ortus #rdg2.71hortus #rdg2.71hornus #rdg2.71hornus2" ana="#morphological" type="conjecture">totum</rdg>
                                 <rdg source="#Burm1731" xml:id="rdg2.71foetus" require="#rdg2.71hornus2" exclude="#lem2.71annus #rdg2.71ornus #rdg2.71ortus #rdg2.71hortus #rdg2.71hornus #rdg2.71hornum" ana="#lexical" type="conjecture">foetus</rdg>
                             </app> <app>
