@@ -6534,7 +6534,7 @@
                                 <wit>codd. <ref target="#Tit.">Titii</ref></wit>
                                 <rdg source="#Burm1731" exclude="#lem2.71totus #rdg2.71foetus" xml:id="rdg2.71hornum" ana="#lexical" type="conjecture">hornum</rdg>
                                 <rdg source="#Burm1731" exclude="#lem2.71totus #rdg2.71totum" ana="#lexical" type="conjecture" copyOf="#rdg2.71hornus"/>
-                                <note target="#rdg2.71hornum"><q>totum-hornum</q> vel <q>foetus-hornus</q>
+                                <note target="#rdg2.71hornum"><hi rend="italic">totum-hornum</hi> vel <hi rend="italic">foetus-hornus</hi>
                                     <ref target="#Burm1731">Burm.</ref></note>
                             </app>.</l>
                     
