@@ -6513,8 +6513,8 @@
                                 <rdg wit="#G" ana="#orthographical">crochale</rdg>
                             </app>, <app>
                                 <lem xml:id="lem2.71totus">totus</lem>
-                                <rdg source="#Burm1731" xml:id="rdg2.71totum" require="#rdg2.71hornum" exclude="lem2.71annus #rdg2.71ornus #rdg2.71ortus #rdg2.71hortus #rdg2.71hornus #rdg2.71hornus2" ana="#morphological" type="conjecture">totum</rdg>
-                                <rdg source="#Burm1731" xml:id="rdg2.71foetus" require="#rdg2.71hornus2" exclude="lem2.71annus #rdg2.71ornus #rdg2.71ortus #rdg2.71hortus #rdg2.71hornus #rdg2.71hornum" ana="#lexical" type="conjecture">foetus</rdg>
+                                <rdg source="#Burm1731" xml:id="rdg2.71totum" require="#rdg2.71hornum" exclude="#lem2.71annus #rdg2.71ornus #rdg2.71ortus #rdg2.71hortus #rdg2.71hornus #rdg2.71hornus2" ana="#morphological" type="conjecture">totum</rdg>
+                                <rdg source="#Burm1731" xml:id="rdg2.71foetus" require="#rdg2.71hornus2" exclude="#lem2.71annus #rdg2.71ornus #rdg2.71ortus #rdg2.71hortus #rdg2.71hornus #rdg2.71hornum" ana="#lexical" type="conjecture">foetus</rdg>
                             </app> <app>
                                 <lem>tibi</lem>
                                 <rdg wit="#ε #e #u #b" source="#i #l2 #Gryph. #Tig. #P" ana="#lexical">mihi</rdg>
