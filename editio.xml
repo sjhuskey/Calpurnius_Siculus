@@ -5983,8 +5983,8 @@
                                 <rdg wit="#P" ana="#orthographical">deda</rdg>
                                 <rdg source="#Burm1731" ana="#lexical" type="conjecture">pinu</rdg>
                                 <rdg source="#Heins." ana="#lexical" type="conjecture">taenia</rdg>
-                                <note target="#lem2.29taeda">(<ref target="#Gronovius1755">Gronov.</ref> def. <hi rend="italic">taeda</hi> coll.
-                                            <bibl><author>Plin.</author>
+                                <note target="#lem2.29taeda">(<ref target="#Gronovius1755">Gronov.</ref> def. <hi rend="normal">taeda</hi> coll.
+                                            <bibl><author ref="http://viaf.org/viaf/100219162">Plin.</author>
                                         <title>N. H.</title>
                                         16, 10</bibl>).</note>
                             </app>.</l>
