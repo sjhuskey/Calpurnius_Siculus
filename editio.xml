@@ -7185,8 +7185,7 @@
                                     </app>
                                     <app>
                                         <lem wit="#N #G #ρ #φ #ε #α #λ #π #δ #μ #η #d" source="#n #Barth1613 #Ulit." xml:id="lem3.18contentus">contentus</lem>
-                                        <witDetail wit="#N" target="#lem3.18contentus">contētus</witDetail>
-                                        <witDetail wit="#ρ" target="#lem3.18contentus">contētus</witDetail>
+                                        <witDetail wit="#N #ρ" target="#lem3.18contentus">contētus</witDetail>
                                         <rdg source="#Burm1731" ana="#lexical #morphological" type="conjecture">contendis</rdg>
                                         <rdg wit="#P #γ #κ #χ #ν #β #ρ2" source="#edd." ana="#lexical">contemptus</rdg>
                                     </app>
