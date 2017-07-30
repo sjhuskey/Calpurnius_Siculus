@@ -7247,15 +7247,15 @@
                                 <lem>quae <app>
                                         <lem wit="#N #P #V" source="#edd.">vos tam</lem>
                                         <rdg wit="#G" ana="#lexical">nos tam</rdg>
-                                        <rdg wit="#Baehr." ana="#lexical" type="conjecture">noxam</rdg>
-                                        <rdg wit="#CSchenkl #Schenkl1" xml:id="rdg3.22restam" ana="#lexical" type="conjecture">res tam</rdg>
+                                        <rdg source="#Baehr." ana="#lexical" type="conjecture">noxam</rdg>
+                                        <rdg source="#CSchenkl #Schenkl1" xml:id="rdg3.22restam" ana="#lexical" type="conjecture">res tam</rdg>
                                         <wit><ref target="#Jacoby">Jacoby</ref> (l.l. p. 1291)</wit>
                                     </app>
                                     <app>
                                         <lem>magna</lem>
                                         <rdg wit="#P" ana="#orthographical">māna</rdg>
                                     </app> tulere</lem>
-                                <rdg wit="#Maehly" ana="#lexical #syntactic" type="conjecture">quae vobis tanta fuere</rdg>
+                                <rdg source="#Maehly" ana="#lexical #syntactic" type="conjecture">quae vobis tanta fuere</rdg>
                             </app></l>
                         <l n="23">iurgia? quis <app>
                                 <lem>vestro <app>
