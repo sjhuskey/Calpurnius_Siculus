@@ -4565,7 +4565,7 @@
                   <witDetail wit="#N2" target="#lem1.20descripta">in mg.</witDetail>
                   <rdg wit="#G #N1" source="#Jacoby" ana="#lexical" xml:id="rdg1.20depicta"
                     >depicta</rdg>
-                  <witDetail wit="#N1" target="#rdg1.20-N1-depicta" type="correction-altered"/>
+                  <witDetail wit="#N1" target="#rdg1.20depicta" type="correction-altered"/>
                   <note target="rdg1.20depicta"><ref
                     target="https://books.google.de/books?id=q5blAAAAMAAJ&amp;hl=de&amp;pg=RA8-PA41#v=onepage&amp;q&amp;f=false"
                     >p. 1291</ref></note>
