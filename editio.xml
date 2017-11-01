@@ -4572,6 +4572,7 @@
                   <rdg wit="#N" ana="#lexical" xml:id="rdg1.20-dipicta">dipicta</rdg>
                   <witDetail wit="#N" target="#rdg1.20-dipicta" type="correction-original"/>
                 </app>
+                <expan>   <abbr>M</abbr>   <ex>arcus</ex>  </expan>
                 <app>
                   <lem>est</lem>
                   <rdg wit="#e #u" ana="#subtractive"/>
