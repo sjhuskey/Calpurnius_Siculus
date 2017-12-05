@@ -10089,9 +10089,9 @@
               <rdg wit="#G" ana="#subtractive"/>
             </app>
             <l n="124">ut nudus <app>
-                <lem wit="#N2 #V" source="#edd." xml:id="lem4.124ruptas">ruptas</lem>
+              <lem wit="#N2 #V" source="#edd." xml:id="lem4.124ruptas" exclude="#rdg4.124-in-uvis-Glaeser">ruptas</lem>
                 <witDetail wit="#N2" target="#lem4.124ruptas" type="correction-altered"/>
-                <rdg wit="#N #G" xml:id="rdg4.124-raptas" ana="#lexical">raptas</rdg>
+              <rdg wit="#N #G" xml:id="rdg4.124-raptas" exclude="#rdg4.124-in-uvis-Glaeser" ana="#lexical">raptas</rdg>
                 <witDetail wit="#N" target="#rdg4.124-raptas" type="correction-original"/>
                 <rdg source="#Glaeser" xml:id="rdg4.124ruptis-Glaeser"
                   exclude="#lem4.124in_uvas #rdg4.12ad_uvas" require="#rdg4.124-in-uvis-Glaeser"
@@ -10119,9 +10119,9 @@
               </app>
               <app>
                 <lem>calcator <app>
-                    <lem xml:id="lem4.124in_uvas">in uvas</lem>
+                  <lem xml:id="lem4.124in_uvas" exclude="#rdg4.124ruptis-Glaeser">in uvas</lem>
                     <rdg source="#Ulit." xml:id="rdg4.124ad_uvas" ana="#lexical" type="conjecture"
-                      >ad uvas</rdg>
+                      exclude="#rdg4.124ruptis-Glaeser">ad uvas</rdg>
                     <rdg source="#Glaeser" xml:id="rdg4.124-in-uvis-Glaeser"
                       require="#rdg4.124ruptis-Glaeser"
                       exclude="#lem4.124ruptas #rdg4.124-raptas"
