@@ -3947,12 +3947,6 @@
         <head>Bucolica</head>
         <div type="textpart" n="1" xml:id="poem1">
           <head>Poem 1. [Corydon, Ornytus]</head>
-          <app type="line-omission">
-            <lem source="#V" xml:id="lem-1.1-9">
-              <gap reason="lost" quantity="9" unit="lines"/>
-            </lem>
-            <note target="#lem-1.1-9">u. 1–9 librarii incuria cecidisse putavit Verdière</note>
-          </app>
           <l n="1">
             <label type="speaker">
               <app>
