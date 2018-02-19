@@ -3956,7 +3956,10 @@
                 <rdg wit="#ε #β #γ #μ #ρ" xml:id="rdg-1.1-O" ana="#lexical">O.</rdg>
                 <note target="#rdg-1.1-O">edd. ante <ref target="#Glaeser">Glaeser</ref></note>
               </app>
-            </label>
+            </label><unclear>ame</unclear>
+            <gap reason="lost" quantity="3" unit="characters"/>
+            <unclear>a tenebat aram</unclear>
+            <gap reason="lost" quantity="10" unit="characters"/>
             <app>
               <lem xml:id="lem1.1nondum">Nondum</lem>
               <rdg wit="#G #P" xml:id="rdg1.1nundum" ana="#orthographical">nundum</rdg>
