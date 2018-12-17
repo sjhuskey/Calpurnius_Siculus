@@ -38,7 +38,7 @@
   </teiHeader>
   <text>
     <front xml:id="front">
-      <div type="section" subtype="toc">
+      <div type="section" subtype="toc" xml:id="toc">
         <list>
           <head>Table of Contents</head>
           <item><ref target="#intro">Introduction</ref>
@@ -49,7 +49,6 @@
               <item><ref target="#front4">IV. Manuscripts: The Second Family (V)</ref></item>
               <item><ref target="#front5">V. The Third Family (P)</ref></item>
               <item><ref target="#front6">VI. Two lost manuscripts</ref></item>
-              <item><ref target="#bibliography">Bibliography</ref></item>
             </list>
           </item>
           <item><ref target="#poem1">Poem 1. [Corydon, Ornytus]</ref></item>
@@ -59,6 +58,7 @@
           <item><ref target="#poem5">Poem 5.</ref></item>
           <item><ref target="#poem6">Poem 6. [Astylus, Lycidas, Mnasyllus]</ref></item>
           <item><ref target="#poem7">Poem 7. [Lycotas, Corydon]</ref></item>
+          <item><ref target="#bibliography">Bibliography</ref></item>
         </list>
       </div>
       <div type="introduction" xml:lang="en" n="Introduction" xml:id="intro">
