@@ -43,7 +43,7 @@
           <head>Table of Contents</head>
           <item><ref target="#intro">Introduction</ref>
             <list>
-              <item><ref target="#front1">I</ref></item>
+              <item><ref target="#front1">I. Calpurnius and Nemesianus</ref></item>
               <item><ref target="#front2">II. Overview of the Tradition</ref></item>
               <item><ref target="#front3">III. Manuscripts: The First Family (N G)</ref></item>
               <item><ref target="#front4">IV. Manuscripts: The Second Family (V)</ref></item>
@@ -68,7 +68,7 @@
             Hugh A. Cayless, 2017.</p>
         </div>
         <div type="section" n="1" xml:id="front1">
-          <head>I</head>
+          <head>I. Calpurnius and Nemesianus</head>
           <p>The seven eclogues of Calpurnius and the four of Nemesianus are preserved in the same
             manuscripts, which is how it comes to pass that they are always published together by
             scholars, even though they differ in terms of refinement and charm. Add to this the fact
@@ -77,7 +77,7 @@
             Ugoleto there has been no shortage of those who divide the poems between Calpurnius and
             Nemesianus, assigning the last four to the latter; until recently they thought that
             Calpurnius had sent his poems to Nemesianus. But <bibl><author>Moriz Haupt</author>
-                (<title xml:lang="la"><hi rend="italic"><ref
+                (<title xml:lang="lat"><hi rend="italic"><ref
                     target="https://books.google.com/books?id=Z-8nAAAAYAAJ&amp;pg=PP1#v=onepage&amp;q&amp;f=false"
                     >De Carminibus bucolicis Calpurnii et Nemesiani</ref></hi></title>,
                 <pubPlace>Berlin</pubPlace>, <date>1854</date>, <biblScope unit="page">p.
@@ -167,7 +167,7 @@
             it, much more carefully. I myself transcribed the manuscript in 1908 with as much
             attentiveness as I could, but I collated it again in the following year, to settle all
             of the discrepancies with <ref target="#Schenkl">Schenkl</ref>. Still, there are very
-            many places that <ref target="Schenkl">Schenkl</ref> has reported erroneously, as you
+            many places that <ref target="#Schenkl">Schenkl</ref> has reported erroneously, as you
             can gather from my notes, for I have taken greatest pains to publish all of the readings
             of this manuscript, too.</p>
           <p>Having described the outer appearance of manuscripts N and G and explained their
@@ -196,121 +196,126 @@
             distorted because of the carelessness and ignorance of the copyists, it seems to me that
             the Gaddianus was copied a little more carelessly. For instance, four verses (Calp.
             1.40, 4.16, 4.123; Nemes. 1.73) are missing from it, and Nemesianus 2.49 has been placed
-            after verse 45: Moreover, the following words have been omitted: Calp. 1.92 <quote
-              xml:lang="la">ipsa</quote>, 2.88 <quote xml:lang="la">quotiens</quote>, 3.23 <quote
-              xml:lang="la">deus</quote>, 3.3 <quote xml:lang="la">sed</quote>, 3.89 <quote
-              xml:lang="la">non</quote>. But in the Neapolitan manuscript, no verse is missing (it
-            is unnecessary, I think, for me to remind you that I speak here about the unique defects
-            of each manuscript, not about the common defects that are rightly assigned to the
-            archetype), but Calp. 1.31–32 have been inverted, and Nemes. 2.81 was inserted after
-            3.16. Then the copyist overlooked the following words: Calp. 6.46 <quote xml:lang="la"
-              >pignus</quote>, 6.90 <quote xml:lang="la">hoc</quote>, Nemes. 1.23 <quote
-              xml:lang="la">et</quote>, 1.71 <quote xml:lang="la">et</quote>, 3.5 <quote
-              xml:lang="la">ex tereti</quote>, 4.60 <quote xml:lang="la">audit</quote>. Add to this
-            the fact that in almost 130 places N offers the correct reading and G an erroneous one
-            and the opposite happens a little less frequently.</p>
+            after verse 45: Moreover, the following words have been omitted: Calp. 1.92 <foreign
+              xml:lang="lat">ipsa</foreign>, 2.88 <foreign xml:lang="lat">quotiens</foreign>, 3.23
+              <foreign xml:lang="lat">deus</foreign>, 3.3 <foreign xml:lang="lat">sed</foreign>,
+            3.89 <foreign xml:lang="lat">non</foreign>. But in the Neapolitan manuscript, no verse
+            is missing (it is unnecessary, I think, for me to remind you that I speak here about the
+            unique defects of each manuscript, not about the common defects that are rightly
+            assigned to the archetype), but Calp. 1.31–32 have been inverted, and Nemes. 2.81 was
+            inserted after 3.16. Then the copyist overlooked the following words: Calp. 6.46 <quote
+              xml:lang="lat">pignus</quote>, 6.90 <foreign xml:lang="lat">hoc</foreign>, Nemes. 1.23
+              <foreign xml:lang="lat">et</foreign>, 1.71 <foreign xml:lang="lat">et</foreign>, 3.5
+              <foreign xml:lang="lat">ex tereti</foreign>, 4.60 <foreign xml:lang="lat"
+              >audit</foreign>. Add to this the fact that in almost 130 places N offers the correct
+            reading and G an erroneous one and the opposite happens a little less frequently.</p>
           <p>Each of the two manuscripts has some errors (N has more by far) in common with V, which
             could not have happened in every case entirely by chance. The following places are
-            clearly due to interpolation: Calp. 2.73 <quote xml:lang="la">cicius</quote> or <quote
-              xml:lang="la">citius tenues</quote> NV, 3.35 <quote xml:lang="la">quod</quote> NV,
-            6.25 <quote xml:lang="la">verba</quote> N, <quote xml:lang="la">verba</quote> and <quote
-              xml:lang="la">verbo</quote> V, 6.82 <quote xml:lang="la">te stante</quote> NV, 7.33
-              <quote xml:lang="la">tibi</quote> GV, Nemes. 3.37 <quote xml:lang="la"
-              >ostendit</quote>. The rest of the examples are either doubtful or should be
-            disregarded entirely.</p>
+            clearly due to interpolation: Calp. 2.73 <foreign xml:lang="lat">cicius</foreign> or
+              <foreign xml:lang="lat">citius tenues</foreign> NV, 3.35 <foreign xml:lang="lat"
+              >quod</foreign> NV, 6.25 <foreign xml:lang="lat">verba</foreign> N, <foreign
+              xml:lang="lat">verba</foreign> and <foreign xml:lang="lat">verbo</foreign> V, 6.82
+              <foreign xml:lang="lat">te stante</foreign> NV, 7.33 <foreign xml:lang="lat"
+              >tibi</foreign> GV, Nemes. 3.37 <quote xml:lang="lat">ostendit</quote>. The rest of
+            the examples are either doubtful or should be disregarded entirely.</p>
           <p>Next, some have deemed the following places in G as possibly
-            suspicious:<!-- Maybe do this as a list? --> Calp. 1.12 <quote xml:lang="la"
-              >errantes</quote>, 1.85 <quote xml:lang="la">accipiet</quote>, 3.20 <quote
-              xml:lang="la">invenias</quote>, 4.2 <quote xml:lang="la">obstrepit</quote>, 4.53
-              <quote xml:lang="la">discere</quote>, 4.72 <quote xml:lang="la">aspernatur</quote>,
-            4.85 <quote xml:lang="la">corpore</quote>, 4.105 <quote xml:lang="la">enim</quote>,
-            4.150 <quote xml:lang="la">liquide</quote>, 5.31 <quote xml:lang="la">primum</quote>,
-            5.44 <quote xml:lang="la">pascua</quote>, 5.52, <quote xml:lang="la">quod</quote>, 6.59
-              <quote xml:lang="la">mascillo</quote>, 7.11 <quote xml:lang="la">herus</quote>, 7.26
-              <quote xml:lang="la">in</quote>, 7.41 <quote xml:lang="la">non</quote>, Nemes. 1.2
-              <quote xml:lang="la">raris</quote>, 1.5 <quote xml:lang="la">flavit</quote>, 1.16
-              <quote xml:lang="la">carmina</quote>, 1.63 <quote xml:lang="la">carmina</quote>, 1.82
-              <quote xml:lang="la">canis</quote>, 2.27 <quote xml:lang="la">nostri tamquam</quote>,
-            2.32 <quote xml:lang="la">ethera</quote>, 2.74 <quote xml:lang="la">omnes</quote>, 2.89
-              <quote xml:lang="la">discedere</quote>, 3.52 <quote xml:lang="la">saliensque
-              liquore</quote>. But <quote xml:lang="la">enim</quote>, <quote xml:lang="la"
-              >pascua</quote>, <quote xml:lang="la">mascillo</quote>, <quote xml:lang="la"
-              >in</quote>, <quote xml:lang="la">canis</quote> are without doubt glosses inserted
-            later in place of the poets’ words. One could say the same thing about <quote
-              xml:lang="la">accipiet</quote>, <quote xml:lang="la">ethera</quote>, <quote
-              xml:lang="la">discedere</quote>. Also <quote xml:lang="la">aethera</quote> and <quote
-              xml:lang="la">discedere</quote> are just as good as <quote xml:lang="la">aera</quote>
-            and <quote xml:lang="la">descendere</quote>, and for a long time I was not sure which of
-            the two I preferred. And <quote xml:lang="la">liquide</quote>, <quote xml:lang="la"
-              >primum</quote>, <quote xml:lang="la">flavit</quote>, <quote xml:lang="la"
-              >carmina</quote> (Nemes. I 16) should not be considered interpolations, but rather
-            corruptions that arose in these places since the words that should have been written by
-            the copyist appeared nearby. Thus, <quote xml:lang="la">liquide</quote> is derived from
-              <quote xml:lang="la">dulce</quote>, <quote xml:lang="la">primum</quote> from <quote
-              xml:lang="la">spatium</quote>, <quote xml:lang="la">flavit</quote> from <quote
-              xml:lang="la">inflare</quote>, <quote xml:lang="la">carmina</quote> from <quote
-              xml:lang="la">carmine</quote>. But <quote xml:lang="la">carmina</quote> (Nemes. 1.63)
-            is either a gloss or a corruption that owes its origin from the initial sound of the
-            next word, and <quote xml:lang="la">corpore</quote> and <quote xml:lang="la"
-              >robore</quote> are very often confused in the manuscripts. Then there are these
-            words: <quote xml:lang="la">herus</quote>, <quote xml:lang="la">raris</quote>, <quote
-              xml:lang="la">omnes</quote>. One would hardly believe that they were made by an
-            interpolator since they are meaningless. But for the most part, the rest of the examples
-            can be attributed to an interpolator. The following places in N should be considered:
-            Calp. 1.13 <quote xml:lang="la">sequar</quote>, 4.46 <quote xml:lang="la">inter
-              nostras</quote>, 4.136 <quote xml:lang="la">pede velox</quote>, 4.153 <quote
-              xml:lang="la">in</quote>, 4.164 <quote xml:lang="la">vestros</quote>, Nemes. 2.71
-              <quote xml:lang="la">ducas</quote>. <quote xml:lang="la">in</quote> is a gloss. <quote
-              xml:lang="la">ducas</quote> is closer to <quote xml:lang="la">ducam</quote>, which the
-            inferior manuscripts have, than to <quote xml:lang="la">duco</quote>, which G correctly
-            offers. <quote xml:lang="la">vestros</quote> is owed to an interpolator. The rest are
-            uncertain.</p>
+            suspicious:<!-- Maybe do this as a list? --> Calp. 1.12 <quote xml:lang="lat"
+              >errantes</quote>, 1.85 <foreign xml:lang="lat">accipiet</foreign>, 3.20 <foreign
+              xml:lang="lat">invenias</foreign>, 4.2 <foreign xml:lang="lat">obstrepit</foreign>,
+            4.53 <foreign xml:lang="lat">discere</foreign>, 4.72 <foreign xml:lang="lat"
+              >aspernatur</foreign>, 4.85 <foreign xml:lang="lat">corpore</foreign>, 4.105 <foreign
+              xml:lang="lat">enim</foreign>, 4.150 <foreign xml:lang="lat">liquide</foreign>, 5.31
+              <foreign xml:lang="lat">primum</foreign>, 5.44 <foreign xml:lang="lat"
+              >pascua</foreign>, 5.52, <foreign xml:lang="lat">quod</foreign>, 6.59 <foreign
+              xml:lang="lat">mascillo</foreign>, 7.11 <foreign xml:lang="lat">herus</foreign>, 7.26
+              <foreign xml:lang="lat">in</foreign>, 7.41 <foreign xml:lang="lat">non</foreign>,
+            Nemes. 1.2 <foreign xml:lang="lat">raris</foreign>, 1.5 <foreign xml:lang="lat"
+              >flavit</foreign>, 1.16 <foreign xml:lang="lat">carmina</foreign>, 1.63 <foreign
+              xml:lang="lat">carmina</foreign>, 1.82 <foreign xml:lang="lat">canis</foreign>, 2.27
+              <foreign xml:lang="lat">nostri tamquam</foreign>, 2.32 <foreign xml:lang="lat"
+              >ethera</foreign>, 2.74 <foreign xml:lang="lat">omnes</foreign>, 2.89 <foreign
+              xml:lang="lat">discedere</foreign>, 3.52 <foreign xml:lang="lat">saliensque
+              liquore</foreign>. But <foreign xml:lang="lat">enim</foreign>, <quote xml:lang="lat"
+              >pascua</quote>, <foreign xml:lang="lat">mascillo</foreign>, <quote xml:lang="lat"
+              >in</quote>, <foreign xml:lang="lat">canis</foreign> are without doubt glosses
+            inserted later in place of the poets’ words. One could say the same thing about <foreign
+              xml:lang="lat">accipiet</foreign>, <foreign xml:lang="lat">ethera</foreign>, <foreign
+              xml:lang="lat">discedere</foreign>. Also <foreign xml:lang="lat">aethera</foreign> and
+              <foreign xml:lang="lat">discedere</foreign> are just as good as <foreign
+              xml:lang="lat">aera</foreign> and <foreign xml:lang="lat">descendere</foreign>, and
+            for a long time I was not sure which of the two I preferred. And <foreign xml:lang="lat"
+              >liquide</foreign>, <quote xml:lang="lat">primum</quote>, <foreign xml:lang="lat"
+              >flavit</foreign>, <quote xml:lang="lat">carmina</quote> (Nemes. I 16) should not be
+            considered interpolations, but rather corruptions that arose in these places since the
+            words that should have been written by the copyist appeared nearby. Thus, <foreign
+              xml:lang="lat">liquide</foreign> is derived from <foreign xml:lang="lat"
+              >dulce</foreign>, <foreign xml:lang="lat">primum</foreign> from <foreign
+              xml:lang="lat">spatium</foreign>, <foreign xml:lang="lat">flavit</foreign> from
+              <foreign xml:lang="lat">inflare</foreign>, <foreign xml:lang="lat">carmina</foreign>
+            from <foreign xml:lang="lat">carmine</foreign>. But <foreign xml:lang="lat"
+              >carmina</foreign> (Nemes. 1.63) is either a gloss or a corruption that owes its
+            origin from the initial sound of the next word, and <foreign xml:lang="lat"
+              >corpore</foreign> and <quote xml:lang="lat">robore</quote> are very often confused in
+            the manuscripts. Then there are these words: <foreign xml:lang="lat">herus</foreign>,
+              <foreign xml:lang="lat">raris</foreign>, <foreign xml:lang="lat">omnes</foreign>. One
+            would hardly believe that they were made by an interpolator since they are meaningless.
+            But for the most part, the rest of the examples can be attributed to an interpolator.
+            The following places in N should be considered: Calp. 1.13 <foreign xml:lang="lat"
+              >sequar</foreign>, 4.46 <foreign xml:lang="lat">inter nostras</foreign>, 4.136
+              <foreign xml:lang="lat">pede velox</foreign>, 4.153 <foreign xml:lang="lat"
+              >in</foreign>, 4.164 <foreign xml:lang="lat">vestros</foreign>, Nemes. 2.71 <foreign
+              xml:lang="lat">ducas</foreign>. <foreign xml:lang="lat">in</foreign> is a gloss.
+              <foreign xml:lang="lat">ducas</foreign> is closer to <foreign xml:lang="lat"
+              >ducam</foreign>, which the inferior manuscripts have, than to <foreign xml:lang="lat"
+              >duco</foreign>, which G correctly offers. <foreign xml:lang="lat">vestros</foreign>
+            is owed to an interpolator. The rest are uncertain.</p>
           <p>Finally, the writings of both manuscripts have been corrupted in various ways, but
             sometimes they betray an infelicitous effort at emendation. I would like you to consider
             the following places, for it is not necessary to say anything about the rest): Calp.
-            1.90 <quote xml:lang="la">querit</quote> N, <quote xml:lang="la">petit</quote> G; 2.96
-              <quote xml:lang="la">o</quote> G; 3.50 <quote xml:lang="la">turbidus</quote> G; 4.63
-              <quote xml:lang="la">carmen modulavit</quote> G; 4.125 <quote xml:lang="la"
-              >placanda</quote> G; 5.15 <quote xml:lang="la">montibus</quote> G; 5.16 <quote
-              xml:lang="la">cecinere</quote> G; 5.104 <quote xml:lang="la">nectendum</quote> N,
-              <quote xml:lang="la">videndum</quote> G; Nemes. 2.30 <quote xml:lang="la">nullo
-              sudarunt</quote> G, 4.28 <quote xml:lang="la">volucrum tum</quote> G; 4.39 <quote
-              xml:lang="la">subeunte</quote> G. Indeed it is hardly the case that all of these
-            places are equally suspicious, for <quote xml:lang="la">o</quote> is a gloss, and I do
-            not think one should think otherwise about <quote xml:lang="la">carmen
-            modulavit</quote>. But <quote xml:lang="la">turbidus</quote> is clearly an
-            interpolation, which I could hardly say about <quote xml:lang="la">volucrum tum</quote>.
-            Then <quote xml:lang="la">querit</quote> and <quote xml:lang="la">petit</quote> perhaps
-            stem from a poorly understood abbreviation of the word <quote xml:lang="la"
-              >quatit</quote>, but that gives me pause. But the other examples, with due respect to
-              <ref target="#Schenkl">Schenkl</ref>, are hardly attributable to interpolators, unless
-            you happen to think that those interpolators were completely ignorant of the Latin
-            language.</p>
+            1.90 <foreign xml:lang="lat">querit</foreign> N, <foreign xml:lang="lat">petit</foreign>
+            G; 2.96 <foreign xml:lang="lat">o</foreign> G; 3.50 <foreign xml:lang="lat"
+              >turbidus</foreign> G; 4.63 <foreign xml:lang="lat">carmen modulavit</foreign> G;
+            4.125 <quote xml:lang="lat">placanda</quote> G; 5.15 <foreign xml:lang="lat"
+              >montibus</foreign> G; 5.16 <foreign xml:lang="lat">cecinere</foreign> G; 5.104
+              <foreign xml:lang="lat">nectendum</foreign> N, <foreign xml:lang="lat"
+              >videndum</foreign> G; Nemes. 2.30 <foreign xml:lang="lat">nullo sudarunt</foreign> G,
+            4.28 <foreign xml:lang="lat">volucrum tum</foreign> G; 4.39 <foreign xml:lang="lat"
+              >subeunte</foreign> G. Indeed it is hardly the case that all of these places are
+            equally suspicious, for <foreign xml:lang="lat">o</foreign> is a gloss, and I do not
+            think one should think otherwise about <foreign xml:lang="lat">carmen
+              modulavit</foreign>. But <foreign xml:lang="lat">turbidus</foreign> is clearly an
+            interpolation, which I could hardly say about <foreign xml:lang="lat">volucrum
+              tum</foreign>. Then <foreign xml:lang="lat">querit</foreign> and <foreign
+              xml:lang="lat">petit</foreign> perhaps stem from a poorly understood abbreviation of
+            the word <quote xml:lang="lat">quatit</quote>, but that gives me pause. But the other
+            examples, with due respect to <ref target="#Schenkl">Schenkl</ref>, are hardly
+            attributable to interpolators, unless you happen to think that those interpolators were
+            completely ignorant of the Latin language.</p>
           <p>But before we pass judgment on the authority of manuscripts N and G, we must say a few
             things about the corrections that each manuscript underwent.</p>
-          <p xml:id="Ndesc-firsthand">Manuscript N, <ref target="#CodexNeapolitanusTrans">as we said
-              above</ref>, was emended rather often by the original copyist and others. But all of
-            the emendations of the first hand, which I have detected in almost sixty places, arose
-            from the archetype itself. The copyist, as often happens, sometimes corrected the more
-            trivial scribal errors as he wrote; we are all used to making these errors when we
-            write. Accordingly, he added letters that he omitted by writing too quickly, or he
-            deleted extra letters, or he changed vowels and consonants, or he added words that had
-            been omitted, or he restored the order of verses, or he inserted notes about people.
-            Since that is the case, nearly all of the emendations by the first hand are good, or, to
-            state it more truthfully, they restore the wording of the archetype. At Calp. 1.20, the
-            first hand corrected <quote xml:lang="la">dipicta</quote> to <quote xml:lang="la"
-              >depicta</quote>, which <ref target="#Jacoby">Jacoby</ref> recently defended in vain,
-            since <quote xml:lang="la">descripta</quote> is to be read without doubt (cfr. Verg.
-            Ecl. 5.13 and Calp. 1.25), but <quote xml:lang="la">depicta</quote> was in the
-            archetype, as G shows us. Similarly at Nemes. 4.65 <quote xml:lang="la">aversa</quote>
-            is wrong (cfr. Verg. Ecl. 8.101 sq.), and the first hand has changed the fault into
-              <quote xml:lang="la">adversa</quote>, but <quote xml:lang="la">adversa</quote> is
+          <p xml:id="Ndesc-firsthand">Manuscript N, as we said above, was emended rather often by
+            the original copyist and others. But all of the emendations of the first hand, which I
+            have detected in almost sixty places, arose from the archetype itself. The copyist, as
+            often happens, sometimes corrected the more trivial scribal errors as he wrote; we are
+            all used to making these errors when we write. Accordingly, he added letters that he
+            omitted by writing too quickly, or he deleted extra letters, or he changed vowels and
+            consonants, or he added words that had been omitted, or he restored the order of verses,
+            or he inserted notes about people. Since that is the case, nearly all of the emendations
+            by the first hand are good, or, to state it more truthfully, they restore the wording of
+            the archetype. At Calp. 1.20, the first hand corrected <foreign xml:lang="lat"
+              >dipicta</foreign> to <quote xml:lang="lat">depicta</quote>, which <ref
+              target="#Jacoby">Jacoby</ref> recently defended in vain, since <foreign xml:lang="lat"
+              >descripta</foreign> is to be read without doubt (cfr. Verg. Ecl. 5.13 and Calp.
+            1.25), but <foreign xml:lang="lat">depicta</foreign> was in the archetype, as G shows
+            us. Similarly at Nemes. 4.65 <foreign xml:lang="lat">aversa</foreign> is wrong (cfr.
+            Verg. Ecl. 8.101 sq.), and the first hand has changed the fault into <foreign
+              xml:lang="lat">adversa</foreign>, but <foreign xml:lang="lat">adversa</foreign> is
             found in G, from which you can easily conclude that the same reading appeared in the
             archetype. Only once did the first hand corrupt the true reading of the archetype (Calp.
-            3.67 <quote xml:lang="la">qui</quote> from <quote xml:lang="la">quam</quote>), but that
-            should be attributed to an abbreviation, not at all to his intellect. Finally, all of
-            the corrections of the first hand are confirmed by the readings in manuscript G, with
-            the exception of Calp. 1.24 <quote xml:lang="la">propius</quote>, where I have
+            3.67 <foreign xml:lang="lat">qui</foreign> from <foreign xml:lang="lat">quam</foreign>),
+            but that should be attributed to an abbreviation, not at all to his intellect. Finally,
+            all of the corrections of the first hand are confirmed by the readings in manuscript G,
+            with the exception of Calp. 1.24 <foreign xml:lang="lat">propius</foreign>, where I have
             reasonable suspicion that the person who wrote G misread the word.</p>
           <p xml:id="Ndesc-secondhand">The second hand’s so-called emendations are three times as
             frequent as the first hand’s, but in terms of proportion, they are found much more often
@@ -331,19 +336,19 @@
             </row>
             <row role="data">
               <cell role="data">1.20</cell>
-              <cell role="data"><quote xml:lang="la">depicta</quote> N (ex <quote xml:lang="la"
-                  >dipicta</quote>) G</cell>
+              <cell role="data"><foreign xml:lang="lat">depicta</foreign> N (ex <quote
+                  xml:lang="lat">dipicta</quote>) G</cell>
               <cell role="data">
-                <quote xml:lang="la">descripta</quote>
+                <foreign xml:lang="lat">descripta</foreign>
               </cell>
             </row>
             <row role="data">
               <cell role="data">1.25</cell>
               <cell role="data">
-                <quote xml:lang="la">codice</quote>
+                <foreign xml:lang="lat">codice</foreign>
               </cell>
               <cell role="data">
-                <quote xml:lang="la">cortice</quote>
+                <foreign xml:lang="lat">cortice</foreign>
               </cell>
             </row>
             <row role="data">
@@ -354,61 +359,62 @@
             <row role="data">
               <cell role="data">1.55</cell>
               <cell role="data">
-                <quote xml:lang="la">profuso</quote>
+                <foreign xml:lang="lat">profuso</foreign>
               </cell>
-              <cell role="data"><quote xml:lang="la">professo</quote> (and many other mss.)</cell>
+              <cell role="data"><foreign xml:lang="lat">professo</foreign> (and many other
+                mss.)</cell>
             </row>
             <row role="data">
               <cell role="data">1.87</cell>
               <cell role="data">
-                <quote xml:lang="la">a</quote>
+                <foreign xml:lang="lat">a</foreign>
               </cell>
-              <cell role="data"><quote xml:lang="la">ex</quote> (and many other mss.)</cell>
+              <cell role="data"><foreign xml:lang="lat">ex</foreign> (and many other mss.)</cell>
             </row>
             <row role="data">
               <cell role="data">3.26</cell>
               <cell role="data">
-                <quote xml:lang="la">ibi</quote>
+                <foreign xml:lang="lat">ibi</foreign>
               </cell>
               <cell role="data">
-                <quote xml:lang="la">sibi</quote>
+                <foreign xml:lang="lat">sibi</foreign>
               </cell>
             </row>
             <row role="data">
               <cell role="data">4.12</cell>
-              <cell role="data"><quote xml:lang="la">C.</quote> omitted</cell>
-              <cell role="data"><quote xml:lang="la">C.</quote> added</cell>
+              <cell role="data"><quote xml:lang="lat">C.</quote> omitted</cell>
+              <cell role="data"><quote xml:lang="lat">C.</quote> added</cell>
             </row>
             <row role="data">
               <cell role="data">4.46</cell>
               <cell role="data">
-                <quote xml:lang="la">quicquam</quote>
+                <foreign xml:lang="lat">quicquam</foreign>
               </cell>
               <cell role="data">quisquam</cell>
             </row>
             <row role="data">
               <cell role="data">4.82</cell>
               <cell role="data">
-                <quote xml:lang="la">canat</quote>
+                <foreign xml:lang="lat">canat</foreign>
               </cell>
               <cell role="data">canit</cell>
             </row>
             <row role="data">
               <cell role="data">4.124</cell>
               <cell role="data">
-                <quote xml:lang="la">raptas</quote>
+                <foreign xml:lang="lat">raptas</foreign>
               </cell>
               <cell role="data">
-                <quote xml:lang="la">ruptas</quote>
+                <foreign xml:lang="lat">ruptas</foreign>
               </cell>
             </row>
             <row role="data">
               <cell role="data">4.145</cell>
               <cell role="data">
-                <quote xml:lang="la">nos</quote>
+                <foreign xml:lang="lat">nos</foreign>
               </cell>
               <cell role="data">
-                <quote xml:lang="la">hos</quote>
+                <foreign xml:lang="lat">hos</foreign>
               </cell>
             </row>
             <row role="data">
@@ -419,111 +425,118 @@
             <row role="data">
               <cell role="data">5.28</cell>
               <cell role="data">
-                <quote xml:lang="la">vivat</quote>
+                <foreign xml:lang="lat">vivat</foreign>
               </cell>
               <cell role="data">
-                <quote xml:lang="la">vivit</quote>
+                <foreign xml:lang="lat">vivit</foreign>
               </cell>
             </row>
             <row role="data">
               <cell role="data">5.45</cell>
               <cell role="data">
-                <quote xml:lang="la">peragunt</quote>
+                <foreign xml:lang="lat">peragunt</foreign>
               </cell>
               <cell role="data">
-                <quote xml:lang="la">peragit</quote>
+                <foreign xml:lang="lat">peragit</foreign>
               </cell>
             </row>
             <row role="data">
               <cell role="data">7.48</cell>
               <cell role="data">
-                <quote xml:lang="la">tibi</quote>
+                <foreign xml:lang="lat">tibi</foreign>
               </cell>
               <cell role="data">
-                <quote xml:lang="la">ubi</quote>
+                <foreign xml:lang="lat">ubi</foreign>
               </cell>
             </row>
             <row role="data">
               <cell role="data">Nemes. 2.50</cell>
               <cell role="data">
-                <quote xml:lang="la">cum</quote>
+                <foreign xml:lang="lat">cum</foreign>
               </cell>
               <cell role="data">
-                <quote xml:lang="la">dum</quote>
+                <foreign xml:lang="lat">dum</foreign>
               </cell>
             </row>
             <row role="data">
               <cell role="data">3.6</cell>
-              <cell role="data"><quote xml:lang="la">h</quote> N, om. G</cell>
+              <cell role="data"><foreign xml:lang="lat">h</foreign> N, om. G</cell>
               <cell role="data">
-                <quote xml:lang="la">hanc pueri tamquam</quote>
+                <foreign xml:lang="lat">hanc pueri tamquam</foreign>
               </cell>
             </row>
           </table>
-          <p>On the other hand, an interpolator has cleverly emended the following:Calp. 3.91 <quote
-              xml:lang="la">licidan</quote> N², <quote xml:lang="la">licidax</quote> N, <quote
-              xml:lang="la">licidas</quote> or <quote xml:lang="la">lycidas</quote> G V, 4.152
-              <quote xml:lang="la">teriti</quote> N G, <quote xml:lang="la">tereti</quote> N².</p>
+          <p>On the other hand, an interpolator has cleverly emended the following:Calp. 3.91
+              <foreign xml:lang="lat">licidan</foreign> N², <foreign xml:lang="lat"
+              >licidax</foreign> N, <foreign xml:lang="lat">licidas</foreign> or <foreign
+              xml:lang="lat">lycidas</foreign> G V, 4.152 <foreign xml:lang="lat">teriti</foreign> N
+            G, <foreign xml:lang="lat">tereti</foreign> N².</p>
           <p>Does it not seem to you that I have demonstrated what I set out to prove? Or does it
             seem likely that N and G corrupted the good readings of the archetype in the same way in
             all of these places? But, if you need more proof, reflect on these other examples. First
             of all, in following places the second hand of manuscript N substituted the
             interpolations that mar the manuscripts in V for the genuine readings of the archetype:
-            Calp. 2.8 <quote xml:lang="la">vindicet</quote>* (I have indicated all correct readings
-            with an asterisk) N G, <quote xml:lang="la">vendicet</quote> N²V; 2.9 <quote
-              xml:lang="la">thyrsi</quote>*, <quote xml:lang="la">tyrsi</quote> G, <quote
-              xml:lang="la">tirsi</quote> N, <quote xml:lang="la">tirso</quote> N²V pler.; 4.42
-              <quote xml:lang="la">baetis</quote>*, <quote xml:lang="la">bethis</quote> G, <quote
-              xml:lang="la">beris</quote> N, <quote xml:lang="la">bactrus</quote> N²V; 4.53 <quote
-              xml:lang="la">tantum-ventos</quote>* N G, <quote xml:lang="la">solum-nimbos</quote>
-            N²V pler.; 4.75 <quote xml:lang="la">quam</quote>* G, <quote xml:lang="la"
-              >q&#773;m</quote> N, <quote xml:lang="la">qua</quote> N²V nonn.; 4.131 <quote
-              xml:lang="la">iam surdant</quote>* G, <quote xml:lang="la">iam surdat</quote> N,
-              <quote xml:lang="la">exsurdant</quote> N²V nonn.; 4.148 <quote xml:lang="la"
-              >deas</quote>* G (<quote xml:lang="la">deas</quote> = <hi rend="italic">Musas</hi>, as
-              <ref target="#Leo">F. Leo</ref> demonstrated), <quote xml:lang="la">d’as</quote> N,
-              <quote xml:lang="la">deos</quote> N²V; 5.49 <quote xml:lang="la">afferet</quote>* N G,
-              <quote xml:lang="la">afferat</quote> N²V nonn.; 5.61 <quote xml:lang="la"
-              >serique-premendi</quote>* N G, <quote xml:lang="la">seraeque-merendae</quote> N²V;
-            5.97 <quote xml:lang="la">circitor</quote>* N G, <quote xml:lang="la">vinitor</quote>
-            N²V; 5.99 <quote xml:lang="la">nunc</quote>* N G, <quote xml:lang="la">tunc</quote> N²V;
-            6.47 <quote xml:lang="la">perdere</quote>* N, <quote xml:lang="la">prodere</quote> G,
-              <quote xml:lang="la">pendere</quote> N²V; 6.75 <quote xml:lang="la">illis</quote> N G,
-              <quote xml:lang="la">ipsi</quote> N²V, pler.; N 1.27 <quote xml:lang="la"
-              >laudem</quote>* N G, <quote xml:lang="la">musam</quote> N²V; 1.54 <quote
-              xml:lang="la">iuris</quote>* N G, <quote xml:lang="la">iusti</quote> N²V; 2.28 <quote
-              xml:lang="la">nostros posset</quote>* N G, <quote xml:lang="la">posset rapidos</quote>
-            N²V pler.; 4.66 <quote xml:lang="la">urar</quote>* N, <quote xml:lang="la">uror</quote>
-            G, <quote xml:lang="la">arsi</quote> N²V; cfr praeterea 4.63 <quote xml:lang="la">carmen
-              modulabile</quote> N²V nonn., which <ref target="#Baehr.">Baehrens</ref> would not
-            have received into the text, if he had assessed carefully the things Haupt discussed
-            about elisions in Calpurnius, and 5.65 <quote xml:lang="la">coagulat lacte</quote> N²,
-            which clearly comes from <quote xml:lang="la">coagula lactis</quote> V. Next, in the
-            following places the second hand made some very poor attempts at conjectures for words
-            handed down in the tradition: Calp. 1.31 <quote xml:lang="la">sequaci</quote>* G, <quote
-              xml:lang="la">sagaci</quote> N²; 1.73 <quote xml:lang="la">auferet</quote>* N G,
-              <quote xml:lang="la">afferet</quote> N²; 1.85 <quote xml:lang="la">excipiet</quote>*
-            N, <quote xml:lang="la">excuciet</quote> N²; 2.76 <quote xml:lang="la">herbas</quote>* N
-            G, <quote xml:lang="la">uvas</quote> N²; 3.25 <quote xml:lang="la">sprevi</quote>* G,
-              <quote xml:lang="la">spiritu&#773;</quote> N, <quote xml:lang="la">speciem</quote> N²;
-            3.46 <quote xml:lang="la">acerba</quote>* N G, <quote xml:lang="la">avena</quote> N²;
-            4.79 <quote xml:lang="la">succinet</quote>*, <quote xml:lang="la">subcinit</quote> G,
-              <quote xml:lang="la">succinit</quote> N, <quote xml:lang="la">sucinat</quote> N²;
-            4.106 <quote xml:lang="la">palen</quote>*, <quote xml:lang="la">panem</quote> N G,
-              <quote xml:lang="la">palam</quote> N²; 4.111 <quote xml:lang="la">densat</quote>* G,
-              <quote xml:lang="la">pensat</quote> N, <quote xml:lang="la">pulsat</quote> N²; 4.121
-              <quote xml:lang="la">et</quote>* N G, <quote xml:lang="la">at</quote> N²; 4.124 <quote
-              xml:lang="la">saliat</quote>*, <quote xml:lang="la">psallat</quote> G, <quote
-              xml:lang="la">psalat</quote> N, <quote xml:lang="la">psaliat</quote> N²; 5.27 <quote
-              xml:lang="la">voca</quote>* N G, <quote xml:lang="la">loca</quote> N²; 6.19 <quote
-              xml:lang="la">vis</quote>* N G, <quote xml:lang="la">visne</quote> N²; 6.37 <quote
-              xml:lang="la">fruticat</quote>*, <quote xml:lang="la">fruticet</quote> G, <quote
-              xml:lang="la">frutiō</quote> N, <quote xml:lang="la">fruticem</quote> N²; 6.69 <quote
-              xml:lang="la">mutavimus</quote>* N G, <quote xml:lang="la">mutuabimus</quote> N²;
-            Nemes. 1.1 <quote xml:lang="la">fiscella</quote>* N G, <quote xml:lang="la"
-              >cistella</quote> N², 1.5 <quote xml:lang="la">versuque</quote>* N G, <quote
-              xml:lang="la">versusque</quote> N²; 2.17 <quote xml:lang="la">leves</quote>* N G,
-              <quote xml:lang="la">lenes</quote> N².</p>
+            Calp. 2.8 <foreign xml:lang="lat">vindicet</foreign>* (I have indicated all correct
+            readings with an asterisk) N G, <foreign xml:lang="lat">vendicet</foreign> N²V; 2.9
+              <foreign xml:lang="lat">thyrsi</foreign>*, <foreign xml:lang="lat">tyrsi</foreign> G,
+              <foreign xml:lang="lat">tirsi</foreign> N, <foreign xml:lang="lat">tirso</foreign> N²V
+            pler.; 4.42 <foreign xml:lang="lat">baetis</foreign>*, <foreign xml:lang="lat"
+              >bethis</foreign> G, <foreign xml:lang="lat">beris</foreign> N, <foreign
+              xml:lang="lat">bactrus</foreign> N²V; 4.53 <quote xml:lang="lat"
+            >tantum-ventos</quote>* N G, <quote xml:lang="lat">solum-nimbos</quote> N²V pler.; 4.75
+              <foreign xml:lang="lat">quam</foreign>* G, <quote xml:lang="lat">q&#773;m</quote> N,
+              <foreign xml:lang="lat">qua</foreign> N²V nonn.; 4.131 <foreign xml:lang="lat">iam
+              surdant</foreign>* G, <foreign xml:lang="lat">iam surdat</foreign> N, <foreign
+              xml:lang="lat">exsurdant</foreign> N²V nonn.; 4.148 <quote xml:lang="lat"
+            >deas</quote>* G (<foreign xml:lang="lat">deas</foreign> = <hi rend="italic">Musas</hi>,
+            as <ref target="#Leo">F. Leo</ref> demonstrated), <quote xml:lang="lat">d’as</quote> N,
+              <foreign xml:lang="lat">deos</foreign> N²V; 5.49 <foreign xml:lang="lat"
+              >afferet</foreign>* N G, <foreign xml:lang="lat">afferat</foreign> N²V nonn.; 5.61
+              <quote xml:lang="lat">serique-premendi</quote>* N G, <quote xml:lang="lat"
+              >seraeque-merendae</quote> N²V; 5.97 <foreign xml:lang="lat">circitor</foreign>* N G,
+              <foreign xml:lang="lat">vinitor</foreign> N²V; 5.99 <foreign xml:lang="lat"
+              >nunc</foreign>* N G, <foreign xml:lang="lat">tunc</foreign> N²V; 6.47 <foreign
+              xml:lang="lat">perdere</foreign>* N, <foreign xml:lang="lat">prodere</foreign> G,
+              <foreign xml:lang="lat">pendere</foreign> N²V; 6.75 <foreign xml:lang="lat"
+              >illis</foreign> N G, <foreign xml:lang="lat">ipsi</foreign> N²V, pler.; N 1.27 <quote
+              xml:lang="lat">laudem</quote>* N G, <foreign xml:lang="lat">musam</foreign> N²V; 1.54
+              <foreign xml:lang="lat">iuris</foreign>* N G, <foreign xml:lang="lat">iusti</foreign>
+            N²V; 2.28 <foreign xml:lang="lat">nostros posset</foreign>* N G, <foreign xml:lang="lat"
+              >posset rapidos</foreign> N²V pler.; 4.66 <foreign xml:lang="lat">urar</foreign>* N,
+              <foreign xml:lang="lat">uror</foreign> G, <foreign xml:lang="lat">arsi</foreign> N²V;
+            cfr praeterea 4.63 <foreign xml:lang="lat">carmen modulabile</foreign> N²V nonn., which
+              <ref target="#Baehr.">Baehrens</ref> would not have received into the text, if he had
+            assessed carefully the things Haupt discussed about elisions in Calpurnius, and 5.65
+              <foreign xml:lang="lat">coagulat lacte</foreign> N², which clearly comes from <foreign
+              xml:lang="lat">coagula lactis</foreign> V. Next, in the following places the second
+            hand made some very poor attempts at conjectures for words handed down in the tradition:
+            Calp. 1.31 <foreign xml:lang="lat">sequaci</foreign>* G, <foreign xml:lang="lat"
+              >sagaci</foreign> N²; 1.73 <foreign xml:lang="lat">auferet</foreign>* N G, <foreign
+              xml:lang="lat">afferet</foreign> N²; 1.85 <foreign xml:lang="lat">excipiet</foreign>*
+            N, <foreign xml:lang="lat">excuciet</foreign> N²; 2.76 <foreign xml:lang="lat"
+              >herbas</foreign>* N G, <foreign xml:lang="lat">uvas</foreign> N²; 3.25 <foreign
+              xml:lang="lat">sprevi</foreign>* G, <quote xml:lang="lat">spiritu&#773;</quote> N,
+              <foreign xml:lang="lat">speciem</foreign> N²; 3.46 <foreign xml:lang="lat"
+              >acerba</foreign>* N G, <foreign xml:lang="lat">avena</foreign> N²; 4.79 <foreign
+              xml:lang="lat">succinet</foreign>*, <foreign xml:lang="lat">subcinit</foreign> G,
+              <foreign xml:lang="lat">succinit</foreign> N, <foreign xml:lang="lat"
+              >sucinat</foreign> N²; 4.106 <foreign xml:lang="lat">palen</foreign>*, <foreign
+              xml:lang="lat">panem</foreign> N G, <foreign xml:lang="lat">palam</foreign> N²; 4.111
+              <foreign xml:lang="lat">densat</foreign>* G, <foreign xml:lang="lat">pensat</foreign>
+            N, <foreign xml:lang="lat">pulsat</foreign> N²; 4.121 <foreign xml:lang="lat"
+              >et</foreign>* N G, <foreign xml:lang="lat">at</foreign> N²; 4.124 <foreign
+              xml:lang="lat">saliat</foreign>*, <foreign xml:lang="lat">psallat</foreign> G,
+              <foreign xml:lang="lat">psalat</foreign> N, <foreign xml:lang="lat">psaliat</foreign>
+            N²; 5.27 <foreign xml:lang="lat">voca</foreign>* N G, <foreign xml:lang="lat"
+              >loca</foreign> N²; 6.19 <foreign xml:lang="lat">vis</foreign>* N G, <foreign
+              xml:lang="lat">visne</foreign> N²; 6.37 <foreign xml:lang="lat">fruticat</foreign>*,
+              <foreign xml:lang="lat">fruticet</foreign> G, <quote xml:lang="lat">frutiō</quote> N,
+              <foreign xml:lang="lat">fruticem</foreign> N²; 6.69 <foreign xml:lang="lat"
+              >mutavimus</foreign>* N G, <foreign xml:lang="lat">mutuabimus</foreign> N²; Nemes. 1.1
+              <foreign xml:lang="lat">fiscella</foreign>* N G, <quote xml:lang="lat"
+              >cistella</quote> N², 1.5 <foreign xml:lang="lat">versuque</foreign>* N G, <foreign
+              xml:lang="lat">versusque</foreign> N²; 2.17 <foreign xml:lang="lat">leves</foreign>* N
+            G, <foreign xml:lang="lat">lenes</foreign> N².</p>
           <p>And so if the second hand’s emendations agree with manuscripts of family V, they can
             add no authority to them, since they arose from them; but if they depend on no other
             manuscript, they must be considered to be the conjectures of a fairly learned person. If
@@ -531,10 +544,10 @@
             merit, and I did not unjustly omit them outright when I compared manuscript N with
             G.</p>
           <p xml:id="Ndesc-thirdhand">Finally, there are five emendations by the third hand, of
-            which three are good (Calp. 2.1 <quote xml:lang="la">puer</quote>, 2.4 <quote
-              xml:lang="la">gravis</quote>, 2.33 <quote xml:lang="la">pomona</quote>) and two are
-            bad (Calp. 1.59 <quote xml:lang="la">truderit</quote>, 5.11 <quote xml:lang="la"
-              >ganā</quote>).</p>
+            which three are good (Calp. 2.1 <foreign xml:lang="lat">puer</foreign>, 2.4 <foreign
+              xml:lang="lat">gravis</foreign>, 2.33 <foreign xml:lang="lat">pomona</foreign>) and
+            two are bad (Calp. 1.59 <foreign xml:lang="lat">truderit</foreign>, 5.11 <quote
+              xml:lang="lat">ganā</quote>).</p>
           <p xml:id="Gdesc-hand">Manuscript G offers more than eighty emendations in its own right.
             With two or three exceptions where you can recognize another hand, they are the work of
             the original copyist. Sometimes he restored verses or words that had been omitted, but
@@ -673,14 +686,14 @@
             1.51, 7.32–34, 7.52–54, Nemes. 1.29, 2.83, 3.25, 3.30) and one verse has been made from
             the two verses Calp. 2.18–19. On the other hand, Calp. 1.42 is missing in <ref
               target="#N">N</ref> and <ref target="#G">G</ref>, and the following words have been
-            omitted: Calp. 4.94 <quote xml:lang="la">posito</quote>, 7.71 <quote xml:lang="la"
-              >et</quote>, Nemes. 3.6 <quote xml:lang="la">hanc pueri tamquam</quote>. Moreover, in
-              <ref target="#N">N</ref>
+            omitted: Calp. 4.94 <foreign xml:lang="lat">posito</foreign>, 7.71 <quote xml:lang="lat"
+              >et</quote>, Nemes. 3.6 <foreign xml:lang="lat">hanc pueri tamquam</foreign>.
+            Moreover, in <ref target="#N">N</ref>
             <ref target="G">G</ref> Calpurnius 5.7 is placed before 5.6 and in <ref target="#V"
               >V</ref> Calpurnius 5.67 is placed before 5.66. But since verses and supplied words
             have been passed down from antiquity and cannot be attributed to interpolators, the
             carelessness of copyists must not be blamed in these passages. But with regard to the
-            words <quote xml:lang="la">(h)anc pueri tamquam</quote>, which were omitted in <ref
+            words <quote xml:lang="lat">(h)anc pueri tamquam</quote>, which were omitted in <ref
               target="#N">N</ref>
             <ref target="#G">G</ref> even though there was space for them, the copyist, in my
             opinion, deliberately omitted them because he did not understand the writing in the
@@ -695,59 +708,65 @@
             but <ref target="#V">V</ref> quite often underwent interpolations. For example, there is
             no doubt that in <ref target="#N">N</ref>
             <ref target="#G">G</ref> the following passages drew their flaws from either the
-            carelessness of a copyist or an abbreviation poorly understood: Calp. 1.28 <quote
-              xml:lang="la">tibi vili</quote>, 1.55 <quote xml:lang="la">profuso</quote>, 2.14
-              <quote xml:lang="la">affuerant</quote>, 2.23 <quote xml:lang="la">hic</quote>, 2.80
-              <quote xml:lang="la">numerat</quote>, 2.96 <quote xml:lang="la">canale</quote>, 3.21
-              <quote xml:lang="la">si</quote>, 3.36 <quote xml:lang="la">o</quote>, 3.43 <quote
-              xml:lang="la">nunc</quote>, 3.46 <quote xml:lang="la">quas</quote>, 3.84 <quote
-              xml:lang="la">tum</quote>, 4.2 <quote xml:lang="la">patula</quote>, 4.31 <quote
-              xml:lang="la">fragra</quote>, 4.43 <quote xml:lang="la">externo</quote>, 4.44 <quote
-              xml:lang="la">intra</quote>, 4.46 <quote xml:lang="la">quicquam</quote>, 4.62 <quote
-              xml:lang="la">quoque</quote>, 4.76 <quote xml:lang="la">hospicius</quote>, 4.106
-              <quote xml:lang="la">panem</quote>, 4.112 <quote xml:lang="la">primo</quote>, 4.124
-              <quote xml:lang="la">raptas</quote>, 4.145 <quote xml:lang="la">nos</quote>, 4.153
-              <quote xml:lang="la">nunc</quote>, 5.6 <quote xml:lang="la">vanaque</quote>, 5.28
-              <quote xml:lang="la">vivat</quote>, 5.45 <quote xml:lang="la">peragunt</quote>, 5.77
-              <quote xml:lang="la">contrahit</quote>, 5.82 <quote xml:lang="la">rara</quote>, 5.84
-              <quote xml:lang="la">let(h)es</quote>, 5.117 <quote xml:lang="la">sint(ne)</quote>,
-            6.70 <quote xml:lang="la">dabis</quote>, 6.76 <quote xml:lang="la">hinc</quote>, 7.48
-              <quote xml:lang="la">tibi</quote>, 7.57 <quote xml:lang="la">esse</quote>, 7.65 <quote
-              xml:lang="la">(a)equoreis</quote>, 7.67 <quote xml:lang="la">anne</quote>, 7.80 <quote
-              xml:lang="la">proprius</quote>, 7.82 <quote xml:lang="la">obfuerat</quote>
+            carelessness of a copyist or an abbreviation poorly understood: Calp. 1.28 <foreign
+              xml:lang="lat">tibi vili</foreign>, 1.55 <foreign xml:lang="lat">profuso</foreign>,
+            2.14 <foreign xml:lang="lat">affuerant</foreign>, 2.23 <foreign xml:lang="lat"
+              >hic</foreign>, 2.80 <foreign xml:lang="lat">numerat</foreign>, 2.96 <foreign
+              xml:lang="lat">canale</foreign>, 3.21 <foreign xml:lang="lat">si</foreign>, 3.36
+              <foreign xml:lang="lat">o</foreign>, 3.43 <foreign xml:lang="lat">nunc</foreign>, 3.46
+              <foreign xml:lang="lat">quas</foreign>, 3.84 <foreign xml:lang="lat">tum</foreign>,
+            4.2 <foreign xml:lang="lat">patula</foreign>, 4.31 <foreign xml:lang="lat"
+              >fragra</foreign>, 4.43 <foreign xml:lang="lat">externo</foreign>, 4.44 <foreign
+              xml:lang="lat">intra</foreign>, 4.46 <foreign xml:lang="lat">quicquam</foreign>, 4.62
+              <foreign xml:lang="lat">quoque</foreign>, 4.76 <foreign xml:lang="lat"
+              >hospicius</foreign>, 4.106 <foreign xml:lang="lat">panem</foreign>, 4.112 <foreign
+              xml:lang="lat">primo</foreign>, 4.124 <foreign xml:lang="lat">raptas</foreign>, 4.145
+              <foreign xml:lang="lat">nos</foreign>, 4.153 <foreign xml:lang="lat">nunc</foreign>,
+            5.6 <foreign xml:lang="lat">vanaque</foreign>, 5.28 <foreign xml:lang="lat"
+              >vivat</foreign>, 5.45 <foreign xml:lang="lat">peragunt</foreign>, 5.77 <foreign
+              xml:lang="lat">contrahit</foreign>, 5.82 <foreign xml:lang="lat">rara</foreign>, 5.84
+              <quote xml:lang="lat">let(h)es</quote>, 5.117 <quote xml:lang="lat">sint(ne)</quote>,
+            6.70 <foreign xml:lang="lat">dabis</foreign>, 6.76 <foreign xml:lang="lat"
+              >hinc</foreign>, 7.48 <foreign xml:lang="lat">tibi</foreign>, 7.57 <foreign
+              xml:lang="lat">esse</foreign>, 7.65 <quote xml:lang="lat">(a)equoreis</quote>, 7.67
+              <foreign xml:lang="lat">anne</foreign>, 7.80 <foreign xml:lang="lat"
+              >proprius</foreign>, 7.82 <foreign xml:lang="lat">obfuerat</foreign>
             <ref target="#G">G</ref>
-            <quote xml:lang="la">offuerant</quote>
-            <ref target="#N">N</ref>, Nemes. 1.11 <quote xml:lang="la">et versu</quote>, 1.14 <quote
-              xml:lang="la">nam</quote>, 1.38 <quote xml:lang="la">si sentire datur
-              mi(t)tite</quote>, 1.42 <quote xml:lang="la">novisti</quote>, 1.46 <quote
-              xml:lang="la">hic</quote>, 1.70 <quote xml:lang="la">honor</quote>, 1.73 <quote
-              xml:lang="la">tunc</quote>
-            <ref target="#N">N</ref>, 2.6 <quote xml:lang="la">veneris</quote>, 2.45 <quote
-              xml:lang="la">rubensque</quote>, 2.50 <quote xml:lang="la">cum</quote>, 2.73 <quote
-              xml:lang="la">vates fauni</quote>, 3.17 <quote xml:lang="la">cepit fatus</quote>, 3.41
-              <quote xml:lang="la">hoc</quote>, 3.51 <quote xml:lang="la">vocabula cimbula</quote>,
-            3.57 <quote xml:lang="la">cūcubitum</quote>
+            <foreign xml:lang="lat">offuerant</foreign>
+            <ref target="#N">N</ref>, Nemes. 1.11 <foreign xml:lang="lat">et versu</foreign>, 1.14
+              <foreign xml:lang="lat">nam</foreign>, 1.38 <quote xml:lang="lat">si sentire datur
+              mi(t)tite</quote>, 1.42 <foreign xml:lang="lat">novisti</foreign>, 1.46 <foreign
+              xml:lang="lat">hic</foreign>, 1.70 <foreign xml:lang="lat">honor</foreign>, 1.73
+              <foreign xml:lang="lat">tunc</foreign>
+            <ref target="#N">N</ref>, 2.6 <foreign xml:lang="lat">veneris</foreign>, 2.45 <foreign
+              xml:lang="lat">rubensque</foreign>, 2.50 <foreign xml:lang="lat">cum</foreign>, 2.73
+              <foreign xml:lang="lat">vates fauni</foreign>, 3.17 <foreign xml:lang="lat">cepit
+              fatus</foreign>, 3.41 <foreign xml:lang="lat">hoc</foreign>, 3.51 <foreign
+              xml:lang="lat">vocabula cimbula</foreign>, 3.57 <quote xml:lang="lat"
+              >cūcubitum</quote>
             <ref target="#N">N</ref>
-            <quote xml:lang="la">concubitum</quote>
-            <ref target="#G">G</ref>, 4.10 <quote xml:lang="la">animos</quote> (<hi rend="italic"
-              >s</hi> exp.) <ref target="#G">G</ref>, <quote xml:lang="la">arons</quote>
-            <ref target="#N">N</ref>, 4.21 <quote xml:lang="la">(h)erit-florem</quote>, 4.47 <quote
-              xml:lang="la">habunda(n)s</quote>, 4.58 <quote xml:lang="la">annos</quote>.</p>
-          <p>Glosses have been received into the text in the following passages: Calp. 1.5 <quote
-              xml:lang="la">molliter</quote>, Nemes. 1.49 <quote xml:lang="la">mortali</quote>, 2.42
-              <quote xml:lang="la">vini</quote>, 1.51 <quote xml:lang="la">uvas</quote>. Also,
-              <quote xml:lang="la">litora</quote> Nem. 2.22 comes from the same word placed at the
-            beginning of the verse, and <quote xml:lang="la">visus</quote> Calp. 7.84 comes from the
-            preceding verse. There are certainly some passages that you could trace back to an
-            interpolator: Calp. 1.20 <quote xml:lang="la">depicta</quote>, 1.24 <quote xml:lang="la"
-              >altos</quote>, 1.25 <quote xml:lang="la">codice</quote>, 1.87 <quote xml:lang="la"
-              >a</quote>, 2.26 <quote xml:lang="la">ibi</quote>, 4.82 <quote xml:lang="la"
-              >canat</quote>, 4.152 <quote xml:lang="la">olim-decurrent</quote>, 6.52 <quote
-              xml:lang="la">illa</quote>, 6.78 <quote xml:lang="la">provocat ille</quote>, 7.6
-              <quote xml:lang="la">in umbra</quote>, Nemes. 2.20 <quote xml:lang="la">atque</quote>,
-            4.39 <quote xml:lang="la">subeunt(e)</quote>, but, from the perspective of the
-            archetype, I would attribute even these passages, with one or two exceptions, to the
-            ignorance or carelessness of a copyist.</p>
+            <foreign xml:lang="lat">concubitum</foreign>
+            <ref target="#G">G</ref>, 4.10 <foreign xml:lang="lat">animos</foreign> (<hi
+              rend="italic">s</hi> exp.) <ref target="#G">G</ref>, <foreign xml:lang="lat"
+              >arons</foreign>
+            <ref target="#N">N</ref>, 4.21 <quote xml:lang="lat">(h)erit-florem</quote>, 4.47 <quote
+              xml:lang="lat">habunda(n)s</quote>, 4.58 <foreign xml:lang="lat">annos</foreign>.</p>
+          <p>Glosses have been received into the text in the following passages: Calp. 1.5 <foreign
+              xml:lang="lat">molliter</foreign>, Nemes. 1.49 <foreign xml:lang="lat"
+              >mortali</foreign>, 2.42 <foreign xml:lang="lat">vini</foreign>, 1.51 <foreign
+              xml:lang="lat">uvas</foreign>. Also, <foreign xml:lang="lat">litora</foreign> Nem.
+            2.22 comes from the same word placed at the beginning of the verse, and <foreign
+              xml:lang="lat">visus</foreign> Calp. 7.84 comes from the preceding verse. There are
+            certainly some passages that you could trace back to an interpolator: Calp. 1.20
+              <foreign xml:lang="lat">depicta</foreign>, 1.24 <quote xml:lang="lat">altos</quote>,
+            1.25 <foreign xml:lang="lat">codice</foreign>, 1.87 <quote xml:lang="lat">a</quote>,
+            2.26 <foreign xml:lang="lat">ibi</foreign>, 4.82 <quote xml:lang="lat">canat</quote>,
+            4.152 <quote xml:lang="lat">olim-decurrent</quote>, 6.52 <foreign xml:lang="lat"
+              >illa</foreign>, 6.78 <foreign xml:lang="lat">provocat ille</foreign>, 7.6 <foreign
+              xml:lang="lat">in umbra</foreign>, Nemes. 2.20 <foreign xml:lang="lat"
+            >atque</foreign>, 4.39 <quote xml:lang="lat">subeunt(e)</quote>, but, from the
+            perspective of the archetype, I would attribute even these passages, with one or two
+            exceptions, to the ignorance or carelessness of a copyist.</p>
           <p>The same cannot be said about the archetype of the second family; indeed, things could
             not be more different. To say nothing of glosses received into the text, or words moved
             either because of the scribes’ mistake or judgment (cfr. Calp. 1.8–9, 2.4, 2.73, 3.74,
@@ -757,82 +776,94 @@
             abundance of interpolations that have arisen only out of a passion for making changes.
             And, just to dismiss the several passages that others have ascribed to the carelessness
             of copyists, there is no reason to doubt that the readings marshalled here are owed to
-            an interpolator: Calp. 1.45 <quote xml:lang="la">lusit</quote>, 1.64 <quote
-              xml:lang="la">revocet</quote>, 1.78 <quote xml:lang="la">placidum</quote> or <quote
-              xml:lang="la">placidam radianti</quote>, 2.5 <quote xml:lang="la">ulmos</quote>, 2.32
-              <quote xml:lang="la">spargit</quote>, 2.65 <quote xml:lang="la">fundere</quote>, 2.67
-              <quote xml:lang="la">fore</quote> or <quote xml:lang="la">fere</quote>, 2.82 <quote
-              xml:lang="la">novembri</quote>, 2.94 <quote xml:lang="la">vocat</quote>, 3.16 <quote
-              xml:lang="la">spatiatus</quote>, 3.24 <quote xml:lang="la">tu solus-Iolla es</quote>,
-            3.33 <quote xml:lang="la">vagetur</quote>, 3.35 <quote xml:lang="la">quod</quote>, 3.47
-              <quote xml:lang="la">excusso dispergit</quote>, 3.48 <quote xml:lang="la"
-              >destructa</quote>, 3.60 <quote xml:lang="la">inops</quote>, 3.62 <quote xml:lang="la"
-              >narrare</quote>, 3.69 <quote xml:lang="la">nulla-lactis</quote>, 3.75 <quote
-              xml:lang="la">dubita</quote>, 3.95 <quote xml:lang="la">ara</quote>, 4.10 <quote
-              xml:lang="la">munera</quote>, 4.14 <quote xml:lang="la">dum</quote>, 4.16 <quote
-              xml:lang="la">proxima</quote>, 4.24 <quote xml:lang="la">et</quote>, 4.35 <quote
-              xml:lang="la">pellere</quote>, 4.41 <quote xml:lang="la">germani</quote>, 4.42 <quote
-              xml:lang="la">bactrus</quote>, 4.53 <quote xml:lang="la">solum-noscere nimbos</quote>,
-            4.84 <quote xml:lang="la">nunc</quote>, 4.87 <quote xml:lang="la">te</quote>, 4.90
-              <quote xml:lang="la">visurus</quote>, 4.125 <quote xml:lang="la">ut quoque turba bono
-              plaudat saginata magistro</quote>, 4.129 <quote xml:lang="la"
-              >nonnullas-choreas</quote>, 4.131 <quote xml:lang="la">exurdant</quote> or <quote
-              xml:lang="la">exundant</quote>, 4.132 <quote xml:lang="la">lyaeo</quote> or simile
-            quid, 4.137 <quote xml:lang="la">nisi</quote>, 4.144 <quote xml:lang="la">vivas et
-              hunc</quote>, 4.146 <quote xml:lang="la">terram</quote>, 4.151 <quote xml:lang="la"
-              >sonant</quote>, 4.152 <quote xml:lang="la">quam tenero</quote>, 4.155 <quote
-              xml:lang="la">contigerit</quote>, 5.2 <quote xml:lang="la">arbore</quote>, 5.12 <quote
-              xml:lang="la">iamdudum</quote> or <quote xml:lang="la">iampridem</quote>, 5.17 <quote
-              xml:lang="la">habitabit</quote>, 5.19 <quote xml:lang="la">tota</quote>, 5.24 <quote
-              xml:lang="la">mittito clausos</quote>, 5.30 <quote xml:lang="la">accedere</quote>,
-            5.34 <quote xml:lang="la">messe fluat</quote>, 5.58 <quote xml:lang="la">sine</quote> or
-              <quote xml:lang="la">sive</quote>, 5.61 <quote xml:lang="la"
-            >seraeque-merendae</quote>, 5.65 <quote xml:lang="la">coagula</quote>
-            <quote xml:lang="la">lactis</quote>, 5.77 <quote xml:lang="la">corrodet</quote>, 5.79
-              <quote xml:lang="la">porta</quote>, 5.80 <quote xml:lang="la">ulceribus</quote>, 5.81
-              <quote xml:lang="la">dura</quote>, 5.82 <quote xml:lang="la">vini</quote> or <quote
-              xml:lang="la">vivi</quote>, 5.97 <quote xml:lang="la">vinitor</quote>, 5.100 <quote
-              xml:lang="la">debes</quote>, 5.105 <quote xml:lang="la">venit</quote>, 5.111 <quote
-              xml:lang="la">gelida</quote>, 5.116 <quote xml:lang="la">stipulis et</quote>, 5.118
-              <quote xml:lang="la">penetralia</quote>, 6.7 <quote xml:lang="la">ut</quote>, 6.8
-              <quote xml:lang="la">turpior</quote>, 6.9 <quote xml:lang="la">te</quote>, 6.17 <quote
-              xml:lang="la">adesset</quote>, 6.22 <quote xml:lang="la">vincere</quote>, 6.29 <quote
-              xml:lang="la">insta nunc</quote>, 6.30 <quote xml:lang="la">praedam nactus</quote>,
-            6.38 <quote xml:lang="la">lucent</quote>, 6.46 <quote xml:lang="la">hunc ego
-              qualemcumque vides in valle</quote>, 6.50 <quote xml:lang="la">iugale</quote>, 6.71
-              <quote xml:lang="la">lapillis</quote>, 6.75 <quote xml:lang="la">ipse</quote> or
-              <quote xml:lang="la">ipsi</quote>, 6.79 <quote xml:lang="la">merito nihil hic
-              nisi</quote>, 6.82 <quote xml:lang="la">te stante</quote>, 7.4 <quote xml:lang="la"
-              >iam durior</quote>, 7.6 <quote xml:lang="la">ardet</quote>, 7.21 <quote xml:lang="la"
-              >certare</quote>, 7.30 <quote xml:lang="la">contendit</quote>, 7.49 <quote
-              xml:lang="la">peragit</quote>, 7.59 <quote xml:lang="la">nocticanam</quote> or <quote
-              xml:lang="la">nicticanam</quote>, 7.66 <quote xml:lang="la">dignum</quote>, 7.68
-              <quote xml:lang="la">venientibus</quote>, 7.69 <quote xml:lang="la">nos</quote>, 7.71
-              <quote xml:lang="la">latebris</quote>, 7.72 <quote xml:lang="la">croceo</quote>,
-            Nemes. 1.9 <quote xml:lang="la">meam mihi care senectam</quote>, 1.13 <quote
-              xml:lang="la">stupuere</quote>, 1.25 <quote xml:lang="la">modulantibus</quote> or
-              <quote xml:lang="la">modulatibus</quote>, 1.27 <quote xml:lang="la">musam</quote>,
-            1.29 <quote xml:lang="la">quercus</quote>, 1.37 <quote xml:lang="la">calamos</quote>,
-            1.47 <quote xml:lang="la">pelleret</quote>, 1.67 <quote xml:lang="la">campo</quote>,
-            1.74 <quote xml:lang="la">secuntur</quote>, 1.75 <quote xml:lang="la">nascentur</quote>,
-            1.85 <quote xml:lang="la">plena</quote> or <quote xml:lang="la">plene</quote>, 2.3
-              <quote xml:lang="la">furiata</quote>, 2.28 <quote xml:lang="la">posset rapidos</quote>
-            or <quote xml:lang="la">rabidos</quote>, 2.30 <quote xml:lang="la">lamberunt</quote> or
-              <quote xml:lang="la">biberunt</quote>, 2.37 <quote xml:lang="la">Idas ille ego
-              sum</quote>, 2.44 <quote xml:lang="la">nigra</quote>, 2.71 <quote xml:lang="la"
-              >cupiam</quote>, 3.19 <quote xml:lang="la">qui quando</quote>, 3.20 <quote
-              xml:lang="la">odorato-capillo</quote>, 3.29 <quote xml:lang="la">et vocat ad</quote>,
-            3.34 <quote xml:lang="la">summas</quote>, 3.37 <quote xml:lang="la">ostendit</quote>,
-            3.40 <quote xml:lang="la">pueri</quote>, 3.45 <quote xml:lang="la">udaque</quote> or
-              <quote xml:lang="la">nudaque</quote>, 3.47 <quote xml:lang="la">hoc capit</quote>,
-            3.54 <quote xml:lang="la">spumeus</quote>, 3.65 <quote xml:lang="la">ingerit</quote>,
-            4.11 <quote xml:lang="la">quos lusus</quote> or <quote xml:lang="la">luxus</quote>, 4.17
-              <quote xml:lang="la">vultum veniens</quote>, 4.24 <quote xml:lang="la">tibi</quote>,
-            4.44 <quote xml:lang="la">nactum</quote> or <quote xml:lang="la">natum</quote>, 4.45
-              <quote xml:lang="la">vertito</quote>, 4.47 <quote xml:lang="la">fluens</quote>, 4.50
-              <quote xml:lang="la">longa</quote>, 4.66 <quote xml:lang="la">arsi</quote>. For these
-            reasons the manuscripts of the second family cannot be neglected entirely, but they
-            should be used with greatest caution.</p>
+            an interpolator: Calp. 1.45 <foreign xml:lang="lat">lusit</foreign>, 1.64 <foreign
+              xml:lang="lat">revocet</foreign>, 1.78 <foreign xml:lang="lat">placidum</foreign> or
+              <foreign xml:lang="lat">placidam radianti</foreign>, 2.5 <foreign xml:lang="lat"
+              >ulmos</foreign>, 2.32 <foreign xml:lang="lat">spargit</foreign>, 2.65 <foreign
+              xml:lang="lat">fundere</foreign>, 2.67 <foreign xml:lang="lat">fore</foreign> or
+              <foreign xml:lang="lat">fere</foreign>, 2.82 <foreign xml:lang="lat"
+              >novembri</foreign>, 2.94 <foreign xml:lang="lat">vocat</foreign>, 3.16 <foreign
+              xml:lang="lat">spatiatus</foreign>, 3.24 <quote xml:lang="lat">tu solus-Iolla
+              es</quote>, 3.33 <foreign xml:lang="lat">vagetur</foreign>, 3.35 <foreign
+              xml:lang="lat">quod</foreign>, 3.47 <foreign xml:lang="lat">excusso
+              dispergit</foreign>, 3.48 <quote xml:lang="lat">destructa</quote>, 3.60 <foreign
+              xml:lang="lat">inops</foreign>, 3.62 <quote xml:lang="lat">narrare</quote>, 3.69
+              <quote xml:lang="lat">nulla-lactis</quote>, 3.75 <foreign xml:lang="lat"
+              >dubita</foreign>, 3.95 <foreign xml:lang="lat">ara</foreign>, 4.10 <foreign
+              xml:lang="lat">munera</foreign>, 4.14 <foreign xml:lang="lat">dum</foreign>, 4.16
+              <foreign xml:lang="lat">proxima</foreign>, 4.24 <foreign xml:lang="lat">et</foreign>,
+            4.35 <foreign xml:lang="lat">pellere</foreign>, 4.41 <foreign xml:lang="lat"
+              >germani</foreign>, 4.42 <foreign xml:lang="lat">bactrus</foreign>, 4.53 <quote
+              xml:lang="lat">solum-noscere nimbos</quote>, 4.84 <foreign xml:lang="lat"
+              >nunc</foreign>, 4.87 <foreign xml:lang="lat">te</foreign>, 4.90 <foreign
+              xml:lang="lat">visurus</foreign>, 4.125 <foreign xml:lang="lat">ut quoque turba bono
+              plaudat saginata magistro</foreign>, 4.129 <quote xml:lang="lat"
+              >nonnullas-choreas</quote>, 4.131 <foreign xml:lang="lat">exurdant</foreign> or
+              <foreign xml:lang="lat">exundant</foreign>, 4.132 <foreign xml:lang="lat"
+              >lyaeo</foreign> or simile quid, 4.137 <foreign xml:lang="lat">nisi</foreign>, 4.144
+              <foreign xml:lang="lat">vivas et hunc</foreign>, 4.146 <foreign xml:lang="lat"
+              >terram</foreign>, 4.151 <quote xml:lang="lat">sonant</quote>, 4.152 <foreign
+              xml:lang="lat">quam tenero</foreign>, 4.155 <foreign xml:lang="lat"
+              >contigerit</foreign>, 5.2 <foreign xml:lang="lat">arbore</foreign>, 5.12 <foreign
+              xml:lang="lat">iamdudum</foreign> or <foreign xml:lang="lat">iampridem</foreign>, 5.17
+              <foreign xml:lang="lat">habitabit</foreign>, 5.19 <foreign xml:lang="lat"
+              >tota</foreign>, 5.24 <foreign xml:lang="lat">mittito clausos</foreign>, 5.30 <foreign
+              xml:lang="lat">accedere</foreign>, 5.34 <foreign xml:lang="lat">messe fluat</foreign>,
+            5.58 <foreign xml:lang="lat">sine</foreign> or <foreign xml:lang="lat">sive</foreign>,
+            5.61 <quote xml:lang="lat">seraeque-merendae</quote>, 5.65 <foreign xml:lang="lat"
+              >coagula</foreign>
+            <foreign xml:lang="lat">lactis</foreign>, 5.77 <foreign xml:lang="lat"
+              >corrodet</foreign>, 5.79 <foreign xml:lang="lat">porta</foreign>, 5.80 <foreign
+              xml:lang="lat">ulceribus</foreign>, 5.81 <foreign xml:lang="lat">dura</foreign>, 5.82
+              <foreign xml:lang="lat">vini</foreign> or <foreign xml:lang="lat">vivi</foreign>, 5.97
+              <foreign xml:lang="lat">vinitor</foreign>, 5.100 <foreign xml:lang="lat"
+              >debes</foreign>, 5.105 <foreign xml:lang="lat">venit</foreign>, 5.111 <foreign
+              xml:lang="lat">gelida</foreign>, 5.116 <foreign xml:lang="lat">stipulis et</foreign>,
+            5.118 <foreign xml:lang="lat">penetralia</foreign>, 6.7 <foreign xml:lang="lat"
+              >ut</foreign>, 6.8 <foreign xml:lang="lat">turpior</foreign>, 6.9 <foreign
+              xml:lang="lat">te</foreign>, 6.17 <foreign xml:lang="lat">adesset</foreign>, 6.22
+              <foreign xml:lang="lat">vincere</foreign>, 6.29 <foreign xml:lang="lat">insta
+              nunc</foreign>, 6.30 <foreign xml:lang="lat">praedam nactus</foreign>, 6.38 <foreign
+              xml:lang="lat">lucent</foreign>, 6.46 <foreign xml:lang="lat">hunc ego qualemcumque
+              vides in valle</foreign>, 6.50 <foreign xml:lang="lat">iugale</foreign>, 6.71 <foreign
+              xml:lang="lat">lapillis</foreign>, 6.75 <foreign xml:lang="lat">ipse</foreign> or
+              <foreign xml:lang="lat">ipsi</foreign>, 6.79 <foreign xml:lang="lat">merito nihil hic
+              nisi</foreign>, 6.82 <foreign xml:lang="lat">te stante</foreign>, 7.4 <quote
+              xml:lang="lat">iam durior</quote>, 7.6 <foreign xml:lang="lat">ardet</foreign>, 7.21
+              <quote xml:lang="lat">certare</quote>, 7.30 <foreign xml:lang="lat"
+              >contendit</foreign>, 7.49 <foreign xml:lang="lat">peragit</foreign>, 7.59 <foreign
+              xml:lang="lat">nocticanam</foreign> or <foreign xml:lang="lat">nicticanam</foreign>,
+            7.66 <foreign xml:lang="lat">dignum</foreign>, 7.68 <foreign xml:lang="lat"
+              >venientibus</foreign>, 7.69 <foreign xml:lang="lat">nos</foreign>, 7.71 <foreign
+              xml:lang="lat">latebris</foreign>, 7.72 <foreign xml:lang="lat">croceo</foreign>,
+            Nemes. 1.9 <foreign xml:lang="lat">meam mihi care senectam</foreign>, 1.13 <foreign
+              xml:lang="lat">stupuere</foreign>, 1.25 <foreign xml:lang="lat">modulantibus</foreign>
+            or <foreign xml:lang="lat">modulatibus</foreign>, 1.27 <foreign xml:lang="lat"
+              >musam</foreign>, 1.29 <foreign xml:lang="lat">quercus</foreign>, 1.37 <foreign
+              xml:lang="lat">calamos</foreign>, 1.47 <foreign xml:lang="lat">pelleret</foreign>,
+            1.67 <foreign xml:lang="lat">campo</foreign>, 1.74 <foreign xml:lang="lat"
+              >secuntur</foreign>, 1.75 <foreign xml:lang="lat">nascentur</foreign>, 1.85 <foreign
+              xml:lang="lat">plena</foreign> or <foreign xml:lang="lat">plene</foreign>, 2.3
+              <foreign xml:lang="lat">furiata</foreign>, 2.28 <foreign xml:lang="lat">posset
+              rapidos</foreign> or <foreign xml:lang="lat">rabidos</foreign>, 2.30 <foreign
+              xml:lang="lat">lamberunt</foreign> or <foreign xml:lang="lat">biberunt</foreign>, 2.37
+              <foreign xml:lang="lat">Idas ille ego sum</foreign>, 2.44 <foreign xml:lang="lat"
+              >nigra</foreign>, 2.71 <quote xml:lang="lat">cupiam</quote>, 3.19 <foreign
+              xml:lang="lat">qui quando</foreign>, 3.20 <quote xml:lang="lat"
+              >odorato-capillo</quote>, 3.29 <foreign xml:lang="lat">et vocat ad</foreign>, 3.34
+              <foreign xml:lang="lat">summas</foreign>, 3.37 <foreign xml:lang="lat"
+              >ostendit</foreign>, 3.40 <foreign xml:lang="lat">pueri</foreign>, 3.45 <foreign
+              xml:lang="lat">udaque</foreign> or <foreign xml:lang="lat">nudaque</foreign>, 3.47
+              <foreign xml:lang="lat">hoc capit</foreign>, 3.54 <foreign xml:lang="lat"
+              >spumeus</foreign>, 3.65 <foreign xml:lang="lat">ingerit</foreign>, 4.11 <foreign
+              xml:lang="lat">quos lusus</foreign> or <foreign xml:lang="lat">luxus</foreign>, 4.17
+              <foreign xml:lang="lat">vultum veniens</foreign>, 4.24 <foreign xml:lang="lat"
+              >tibi</foreign>, 4.44 <foreign xml:lang="lat">nactum</foreign> or <foreign
+              xml:lang="lat">natum</foreign>, 4.45 <foreign xml:lang="lat">vertito</foreign>, 4.47
+              <foreign xml:lang="lat">fluens</foreign>, 4.50 <foreign xml:lang="lat"
+            >longa</foreign>, 4.66 <foreign xml:lang="lat">arsi</foreign>. For these reasons the
+            manuscripts of the second family cannot be neglected entirely, but they should be used
+            with greatest caution.</p>
         </div>
         <!-- End of Second Family -->
 
@@ -868,470 +899,474 @@
             </row>
             <row role="data">
               <cell role="data">1.1</cell>
-              <cell role="data"><quote xml:lang="la">declinis</quote> N, <quote xml:lang="la"
+              <cell role="data"><foreign xml:lang="lat">declinis</foreign> N, <quote xml:lang="lat"
                   >declivis</quote> G V</cell>
               <cell role="data">
-                <quote xml:lang="la">declivus</quote>
+                <foreign xml:lang="lat">declivus</foreign>
               </cell>
             </row>
             <row role="data">
               <cell role="data">1.2</cell>
-              <cell role="data"><quote xml:lang="la">praela</quote> N G V</cell>
+              <cell role="data"><foreign xml:lang="lat">praela</foreign> N G V</cell>
               <cell role="data">
-                <quote xml:lang="la">praeda</quote>
+                <foreign xml:lang="lat">praeda</foreign>
               </cell>
             </row>
             <row role="data">
               <cell role="data">1.3</cell>
-              <cell role="data"><quote xml:lang="la">musta</quote> N G V</cell>
+              <cell role="data"><foreign xml:lang="lat">musta</foreign> N G V</cell>
               <cell role="data">
-                <quote xml:lang="la">iniusta</quote>
+                <foreign xml:lang="lat">iniusta</foreign>
               </cell>
             </row>
             <row role="data">
               <cell role="data">1.13</cell>
-              <cell role="data"><quote xml:lang="la">vocas</quote> N G V</cell>
+              <cell role="data"><foreign xml:lang="lat">vocas</foreign> N G V</cell>
               <cell role="data">
-                <quote xml:lang="la">vacas</quote>
+                <foreign xml:lang="lat">vacas</foreign>
               </cell>
             </row>
             <row role="data">
               <cell role="data">1.15</cell>
-              <cell role="data"><quote xml:lang="la">pervia</quote> N G V</cell>
+              <cell role="data"><foreign xml:lang="lat">pervia</foreign> N G V</cell>
               <cell role="data">
-                <quote xml:lang="la">previa</quote>
+                <foreign xml:lang="lat">previa</foreign>
               </cell>
             </row>
             <row role="data">
               <cell role="data">1.18</cell>
-              <cell role="data"><quote xml:lang="la">matura</quote> N G V</cell>
-              <cell role="data"><quote xml:lang="la">matura</quote> N G V</cell>
+              <cell role="data"><foreign xml:lang="lat">matura</foreign> N G V</cell>
+              <cell role="data"><foreign xml:lang="lat">matura</foreign> N G V</cell>
             </row>
             <row role="data">
               <cell role="data">1.19</cell>
-              <cell role="data"><quote xml:lang="la">pariter</quote> N G V</cell>
+              <cell role="data"><foreign xml:lang="lat">pariter</foreign> N G V</cell>
               <cell role="data">om.</cell>
             </row>
             <row role="data">
               <cell role="data">1.25</cell>
-              <cell role="data"><quote xml:lang="la">citius</quote> N G V</cell>
+              <cell role="data"><foreign xml:lang="lat">citius</foreign> N G V</cell>
               <cell role="data">
-                <quote xml:lang="la">sycios</quote>
+                <foreign xml:lang="lat">sycios</foreign>
               </cell>
             </row>
             <row role="data">
               <cell role="data">1.38</cell>
-              <cell role="data"><quote xml:lang="la">pecus</quote> N G V</cell>
+              <cell role="data"><foreign xml:lang="lat">pecus</foreign> N G V</cell>
               <cell role="data">om.</cell>
             </row>
             <row role="data">
               <cell role="data">1.52</cell>
-              <cell role="data"><quote xml:lang="la">subigentur</quote> N G, <quote xml:lang="la"
-                  >subigentur</quote> vel <quote xml:lang="la">subdentur</quote> V</cell>
+              <cell role="data"><foreign xml:lang="lat">subigentur</foreign> N G, <quote
+                  xml:lang="lat">subigentur</quote> vel <foreign xml:lang="lat">subdentur</foreign>
+                V</cell>
               <cell role="data">
-                <quote xml:lang="la">subiguntur</quote>
+                <foreign xml:lang="lat">subiguntur</foreign>
               </cell>
             </row>
             <row role="data">
               <cell role="data">1.53</cell>
-              <cell role="data"><quote xml:lang="la">inmergentque</quote> G, <quote xml:lang="la"
-                  >immergentque</quote> N V</cell>
+              <cell role="data"><foreign xml:lang="lat">inmergentque</foreign> G, <quote
+                  xml:lang="lat">immergentque</quote> N V</cell>
               <cell role="data">
-                <quote xml:lang="la">imverguntque</quote>
+                <foreign xml:lang="lat">imverguntque</foreign>
               </cell>
             </row>
             <row role="data">
               <cell role="data">1.75</cell>
-              <cell role="data"><quote xml:lang="la">erectumque</quote> N G V</cell>
+              <cell role="data"><foreign xml:lang="lat">erectumque</foreign> N G V</cell>
               <cell role="data">
-                <quote xml:lang="la">ereptumque</quote>
+                <foreign xml:lang="lat">ereptumque</foreign>
               </cell>
             </row>
             <row role="data">
               <cell role="data">1.79</cell>
-              <cell role="data"><quote xml:lang="la">sidus</quote> N G V</cell>
+              <cell role="data"><foreign xml:lang="lat">sidus</foreign> N G V</cell>
               <cell role="data">
-                <quote xml:lang="la">plenus</quote>
+                <foreign xml:lang="lat">plenus</foreign>
               </cell>
             </row>
             <row role="data">
               <cell role="data">1.85</cell>
-              <cell role="data"><quote xml:lang="la">excipiet</quote> N V, <quote xml:lang="la"
-                  >accipiet</quote> G</cell>
+              <cell role="data"><foreign xml:lang="lat">excipiet</foreign> N V, <quote
+                  xml:lang="lat">accipiet</quote> G</cell>
               <cell role="data">
-                <quote xml:lang="la">excipient</quote>
+                <foreign xml:lang="lat">excipient</foreign>
               </cell>
             </row>
             <row role="data">
               <cell role="data">1.89</cell>
-              <cell role="data"><quote xml:lang="la">velut</quote> N V, <quote xml:lang="la"
+              <cell role="data"><foreign xml:lang="lat">velut</foreign> N V, <quote xml:lang="lat"
                   >velud</quote> G</cell>
               <cell role="data">
-                <quote xml:lang="la">velit</quote>
+                <foreign xml:lang="lat">velit</foreign>
               </cell>
             </row>
             <row role="data">
               <cell role="data">1.94</cell>
-              <cell role="data"><quote xml:lang="la">aures</quote> or <quote xml:lang="la"
+              <cell role="data"><foreign xml:lang="lat">aures</foreign> or <quote xml:lang="lat"
                   >auris</quote> N G V</cell>
               <cell role="data">
-                <quote xml:lang="la">auras</quote>
+                <foreign xml:lang="lat">auras</foreign>
               </cell>
             </row>
             <row role="data">
               <cell role="data">2.4</cell>
-              <cell role="data"><quote xml:lang="la">hy cum terras</quote> N G, <quote xml:lang="la"
-                  >terras hi</quote> or <quote xml:lang="la">ii cum</quote> V</cell>
-              <cell role="data"><quote xml:lang="la">hīc</quote> (om. <quote xml:lang="la">cum
-                  terras</quote>)</cell>
+              <cell role="data"><foreign xml:lang="lat">hy cum terras</foreign> N G, <quote
+                  xml:lang="lat">terras hi</quote> or <foreign xml:lang="lat">ii cum</foreign>
+                V</cell>
+              <cell role="data"><quote xml:lang="lat">hīc</quote> (om. <foreign xml:lang="lat">cum
+                  terras</foreign>)</cell>
             </row>
             <row role="data">
               <cell role="data">2.21</cell>
-              <cell role="data"><quote xml:lang="la">iamque</quote> N G V</cell>
+              <cell role="data"><foreign xml:lang="lat">iamque</foreign> N G V</cell>
               <cell role="data">
-                <quote xml:lang="la">iam</quote>
+                <foreign xml:lang="lat">iam</foreign>
               </cell>
             </row>
             <row role="data">
               <cell role="data">2.21</cell>
-              <cell role="data"><quote xml:lang="la">medius</quote> N G V</cell>
+              <cell role="data"><foreign xml:lang="lat">medius</foreign> N G V</cell>
               <cell role="data">
-                <quote xml:lang="la">meolus</quote>
+                <foreign xml:lang="lat">meolus</foreign>
               </cell>
             </row>
             <row role="data">
               <cell role="data">2.22</cell>
-              <cell role="data"><quote xml:lang="la">iudice pignora</quote> N G V</cell>
+              <cell role="data"><foreign xml:lang="lat">iudice pignora</foreign> N G V</cell>
               <cell role="data">
-                <quote xml:lang="la">indice pignor</quote>
+                <foreign xml:lang="lat">indice pignor</foreign>
               </cell>
             </row>
             <row role="data">
               <cell role="data">2.23</cell>
-              <cell role="data"><quote xml:lang="la">hīc</quote> N G, <quote xml:lang="la"
+              <cell role="data"><quote xml:lang="lat">hīc</quote> N G, <quote xml:lang="lat"
                   >hoc</quote> V</cell>
               <cell role="data">
-                <quote xml:lang="la">hac</quote>
+                <foreign xml:lang="lat">hac</foreign>
               </cell>
             </row>
             <row role="data">
               <cell role="data">2.24</cell>
-              <cell role="data"><quote xml:lang="la">victus</quote> N G V</cell>
+              <cell role="data"><foreign xml:lang="lat">victus</foreign> N G V</cell>
               <cell role="data">
-                <quote xml:lang="la">victor</quote>
+                <foreign xml:lang="lat">victor</foreign>
               </cell>
             </row>
             <row role="data">
               <cell role="data">2.29</cell>
-              <cell role="data"><quote xml:lang="la">teda</quote> or <quote xml:lang="la"
+              <cell role="data"><foreign xml:lang="lat">teda</foreign> or <quote xml:lang="lat"
                   >taeda</quote> N G V</cell>
               <cell role="data">
-                <quote xml:lang="la">deda</quote>
+                <foreign xml:lang="lat">deda</foreign>
               </cell>
             </row>
             <row role="data">
               <cell role="data">2.30</cell>
-              <cell role="data"><quote xml:lang="la">etiam</quote> N G V</cell>
+              <cell role="data"><foreign xml:lang="lat">etiam</foreign> N G V</cell>
               <cell role="data">
-                <quote xml:lang="la">cerā</quote>
+                <quote xml:lang="lat">cerā</quote>
               </cell>
             </row>
             <row role="data">
               <cell role="data">2.33</cell>
-              <cell role="data"><quote xml:lang="la">arbore</quote> N G V</cell>
+              <cell role="data"><foreign xml:lang="lat">arbore</foreign> N G V</cell>
               <cell role="data">
-                <quote xml:lang="la">ardore</quote>
+                <foreign xml:lang="lat">ardore</foreign>
               </cell>
             </row>
             <row role="data">
               <cell role="data">2.40</cell>
-              <cell role="data"><quote xml:lang="la">mutabilis</quote> N G V</cell>
+              <cell role="data"><foreign xml:lang="lat">mutabilis</foreign> N G V</cell>
               <cell role="data">
-                <quote xml:lang="la">mirabilis</quote>
+                <foreign xml:lang="lat">mirabilis</foreign>
               </cell>
             </row>
             <row role="data">
               <cell role="data">2.47</cell>
-              <cell role="data"><quote xml:lang="la">fetura</quote> or <quote xml:lang="la"
+              <cell role="data"><foreign xml:lang="lat">fetura</foreign> or <quote xml:lang="lat"
                   >foetura</quote> N G V</cell>
               <cell role="data">
-                <quote xml:lang="la">factura</quote>
+                <foreign xml:lang="lat">factura</foreign>
               </cell>
             </row>
             <row role="data">
               <cell role="data">2.52</cell>
-              <cell role="data"><quote xml:lang="la">crocalem</quote> or <quote xml:lang="la"
+              <cell role="data"><foreign xml:lang="lat">crocalem</foreign> or <quote xml:lang="lat"
                   >crotalem</quote> or something similar N G V</cell>
               <cell role="data">
-                <quote xml:lang="la">talē</quote>
+                <quote xml:lang="lat">talē</quote>
               </cell>
             </row>
             <row role="data">
               <cell role="data">2.53</cell>
-              <cell role="data"><quote xml:lang="la">ego</quote> N G V</cell>
+              <cell role="data"><foreign xml:lang="lat">ego</foreign> N G V</cell>
               <cell role="data">om.</cell>
             </row>
             <row role="data">
               <cell role="data">2.57</cell>
-              <cell role="data"><quote xml:lang="la">audiat</quote> N G V</cell>
+              <cell role="data"><foreign xml:lang="lat">audiat</foreign> N G V</cell>
               <cell role="data">
-                <quote xml:lang="la">audeat</quote>
+                <foreign xml:lang="lat">audeat</foreign>
               </cell>
             </row>
             <row role="data">
               <cell role="data">2.73</cell>
-              <cell role="data"><quote xml:lang="la">tenues citius</quote> G, <quote xml:lang="la"
-                  >cicius tenues</quote> N, <quote xml:lang="la">citius tenues</quote> V</cell>
+              <cell role="data"><foreign xml:lang="lat">tenues citius</foreign> G, <quote
+                  xml:lang="lat">cicius tenues</quote> N, <foreign xml:lang="lat">citius
+                  tenues</foreign> V</cell>
               <cell role="data">
-                <quote xml:lang="la">tenues cuius</quote>
+                <foreign xml:lang="lat">tenues cuius</foreign>
               </cell>
             </row>
             <row role="data">
               <cell role="data">2.73</cell>
-              <cell role="data"><quote xml:lang="la">numerabit</quote> N G V</cell>
+              <cell role="data"><foreign xml:lang="lat">numerabit</foreign> N G V</cell>
               <cell role="data">
-                <quote xml:lang="la">enumerat</quote>
+                <foreign xml:lang="lat">enumerat</foreign>
               </cell>
             </row>
             <row role="data">
               <cell role="data">2.74</cell>
-              <cell role="data"><quote xml:lang="la">metimus</quote> N G V</cell>
+              <cell role="data"><foreign xml:lang="lat">metimus</foreign> N G V</cell>
               <cell role="data">
-                <quote xml:lang="la">metitur</quote>
+                <foreign xml:lang="lat">metitur</foreign>
               </cell>
             </row>
             <row role="data">
               <cell role="data">2.74</cell>
-              <cell role="data"><quote xml:lang="la">bruma</quote> N (ex <quote xml:lang="la"
+              <cell role="data"><foreign xml:lang="lat">bruma</foreign> N (ex <quote xml:lang="lat"
                   >pbruma</quote>) G V</cell>
               <cell role="data">
-                <quote xml:lang="la">prima</quote>
+                <foreign xml:lang="lat">prima</foreign>
               </cell>
             </row>
             <row role="data">
               <cell role="data">2.81</cell>
-              <cell role="data"><quote xml:lang="la">renidenti</quote> G, <quote xml:lang="la"
-                  >renitendi</quote> N, <quote xml:lang="la">renitenti</quote> V</cell>
+              <cell role="data"><foreign xml:lang="lat">renidenti</foreign> G, <quote xml:lang="lat"
+                  >renitendi</quote> N, <foreign xml:lang="lat">renitenti</foreign> V</cell>
               <cell role="data">
-                <quote xml:lang="la">redempti</quote>
+                <foreign xml:lang="lat">redempti</foreign>
               </cell>
             </row>
             <row role="data">
               <cell role="data">2.81</cell>
-              <cell role="data"><quote xml:lang="la">chias</quote> N G, <quote xml:lang="la"
+              <cell role="data"><foreign xml:lang="lat">chias</foreign> N G, <quote xml:lang="lat"
                   >thilas</quote> V</cell>
               <cell role="data">
-                <quote xml:lang="la">cymas</quote>
+                <foreign xml:lang="lat">cymas</foreign>
               </cell>
             </row>
             <row role="data">
               <cell role="data">2.82</cell>
-              <cell role="data"><quote xml:lang="la">nuces</quote> N G V</cell>
+              <cell role="data"><foreign xml:lang="lat">nuces</foreign> N G V</cell>
               <cell role="data">
-                <quote xml:lang="la">mices</quote>
+                <foreign xml:lang="lat">mices</foreign>
               </cell>
             </row>
             <row role="data">
               <cell role="data">2.84</cell>
-              <cell role="data"><quote xml:lang="la">num-num</quote> N G V</cell>
+              <cell role="data"><quote xml:lang="lat">num-num</quote> N G V</cell>
               <cell role="data">
-                <quote xml:lang="la">nunc-nunc</quote>
+                <quote xml:lang="lat">nunc-nunc</quote>
               </cell>
             </row>
             <row role="data">
               <cell role="data">2.91</cell>
-              <cell role="data"><quote xml:lang="la">tenui lucere</quote> N G V</cell>
+              <cell role="data"><foreign xml:lang="lat">tenui lucere</foreign> N G V</cell>
               <cell role="data">
-                <quote xml:lang="la">tātū lucē</quote>
+                <quote xml:lang="lat">tātū lucē</quote>
               </cell>
             </row>
             <row role="data">
               <cell role="data">3.2</cell>
-              <cell role="data"><quote xml:lang="la">tauris</quote> N V, <quote xml:lang="la"
+              <cell role="data"><foreign xml:lang="lat">tauris</foreign> N V, <quote xml:lang="lat"
                   >thauris</quote> G</cell>
               <cell role="data">
-                <quote xml:lang="la">tātis</quote>
+                <quote xml:lang="lat">tātis</quote>
               </cell>
             </row>
             <row role="data">
               <cell role="data">3.6</cell>
-              <cell role="data"><quote xml:lang="la">nec quicquam</quote> or <quote xml:lang="la"
-                  >quidquam</quote> N G V</cell>
+              <cell role="data"><foreign xml:lang="lat">nec quicquam</foreign> or <quote
+                  xml:lang="lat">quidquam</quote> N G V</cell>
               <cell role="data">
-                <quote xml:lang="la">ne quisquam</quote>
+                <foreign xml:lang="lat">ne quisquam</foreign>
               </cell>
             </row>
             <row role="data">
               <cell role="data">3.18</cell>
-              <cell role="data"><quote xml:lang="la">adibo</quote> N G V</cell>
+              <cell role="data"><foreign xml:lang="lat">adibo</foreign> N G V</cell>
               <cell role="data">
-                <quote xml:lang="la">adhibo</quote>
+                <foreign xml:lang="lat">adhibo</foreign>
               </cell>
             </row>
             <row role="data">
               <cell role="data">3.24</cell>
-              <cell role="data"><quote xml:lang="la">contentus</quote> N G V</cell>
+              <cell role="data"><foreign xml:lang="lat">contentus</foreign> N G V</cell>
               <cell role="data">
-                <quote xml:lang="la">contemptus</quote>
+                <foreign xml:lang="lat">contemptus</foreign>
               </cell>
             </row>
             <row role="data">
               <cell role="data">3.26</cell>
-              <cell role="data"><quote xml:lang="la">calamos</quote> N G V</cell>
+              <cell role="data"><foreign xml:lang="lat">calamos</foreign> N G V</cell>
               <cell role="data">
-                <quote xml:lang="la">calamus</quote>
+                <foreign xml:lang="lat">calamus</foreign>
               </cell>
             </row>
             <row role="data">
               <cell role="data">3.29</cell>
-              <cell role="data"><quote xml:lang="la">ut</quote> N G V</cell>
+              <cell role="data"><foreign xml:lang="lat">ut</foreign> N G V</cell>
               <cell role="data">
-                <quote xml:lang="la">et</quote>
+                <foreign xml:lang="lat">et</foreign>
               </cell>
             </row>
             <row role="data">
               <cell role="data">3.31</cell>
-              <cell role="data"><quote xml:lang="la">irata</quote> N G V</cell>
+              <cell role="data"><foreign xml:lang="lat">irata</foreign> N G V</cell>
               <cell role="data">
-                <quote xml:lang="la">iurata</quote>
+                <foreign xml:lang="lat">iurata</foreign>
               </cell>
             </row>
             <row role="data">
               <cell role="data">3.32</cell>
-              <cell role="data"><quote xml:lang="la">te licida</quote> ve <quote xml:lang="la"
+              <cell role="data"><foreign xml:lang="lat">te licida</foreign> ve <quote xml:lang="lat"
                   >lycida</quote> or something similar N G V</cell>
               <cell role="data">
-                <quote xml:lang="la">theliocida</quote>
+                <foreign xml:lang="lat">theliocida</foreign>
               </cell>
             </row>
             <row role="data">
               <cell role="data">3.42</cell>
-              <cell role="data"><quote xml:lang="la">ad sidera</quote> N G V</cell>
+              <cell role="data"><foreign xml:lang="lat">ad sidera</foreign> N G V</cell>
               <cell role="data">
-                <quote xml:lang="la">a sydera</quote>
+                <foreign xml:lang="lat">a sydera</foreign>
               </cell>
             </row>
             <row role="data">
               <cell role="data">3.43</cell>
-              <cell role="data"><quote xml:lang="la">tua</quote> N G V</cell>
+              <cell role="data"><foreign xml:lang="lat">tua</foreign> N G V</cell>
               <cell role="data">
-                <quote xml:lang="la">mea</quote>
+                <foreign xml:lang="lat">mea</foreign>
               </cell>
             </row>
             <row role="data">
               <cell role="data">3.48</cell>
-              <cell role="data"><quote xml:lang="la">turdus</quote> N G V</cell>
+              <cell role="data"><foreign xml:lang="lat">turdus</foreign> N G V</cell>
               <cell role="data">
-                <quote xml:lang="la">tardus</quote>
+                <foreign xml:lang="lat">tardus</foreign>
               </cell>
             </row>
             <row role="data">
               <cell role="data">3.50</cell>
-              <cell role="data"><quote xml:lang="la">ut</quote> N G V</cell>
+              <cell role="data"><foreign xml:lang="lat">ut</foreign> N G V</cell>
               <cell role="data">
-                <quote xml:lang="la">et</quote>
+                <foreign xml:lang="lat">et</foreign>
               </cell>
             </row>
             <row role="data">
               <cell role="data">3.51</cell>
-              <cell role="data"><quote xml:lang="la">te sine</quote> N G V</cell>
+              <cell role="data"><foreign xml:lang="lat">te sine</foreign> N G V</cell>
               <cell role="data">
-                <quote xml:lang="la">desine</quote>
+                <foreign xml:lang="lat">desine</foreign>
               </cell>
             </row>
             <row role="data">
               <cell role="data">3.52</cell>
-              <cell role="data"><quote xml:lang="la">sapiunt</quote> N G V</cell>
+              <cell role="data"><foreign xml:lang="lat">sapiunt</foreign> N G V</cell>
               <cell role="data">
-                <quote xml:lang="la">sapient</quote>
+                <foreign xml:lang="lat">sapient</foreign>
               </cell>
             </row>
             <row role="data">
               <cell role="data">3.57</cell>
-              <cell role="data"><quote xml:lang="la">nec</quote> N G V</cell>
+              <cell role="data"><foreign xml:lang="lat">nec</foreign> N G V</cell>
               <cell role="data">
-                <quote xml:lang="la">ne</quote>
+                <foreign xml:lang="lat">ne</foreign>
               </cell>
             </row>
             <row role="data">
               <cell role="data">3.57</cell>
-              <cell role="data"><quote xml:lang="la">dubitasti</quote> N G V</cell>
+              <cell role="data"><foreign xml:lang="lat">dubitasti</foreign> N G V</cell>
               <cell role="data">
-                <quote xml:lang="la">dubitanti</quote>
+                <foreign xml:lang="lat">dubitanti</foreign>
               </cell>
             </row>
             <row role="data">
               <cell role="data">3.66</cell>
-              <cell role="data"><quote xml:lang="la">meis</quote> N G V</cell>
+              <cell role="data"><foreign xml:lang="lat">meis</foreign> N G V</cell>
               <cell role="data">
-                <quote xml:lang="la">mores</quote>
+                <foreign xml:lang="lat">mores</foreign>
               </cell>
             </row>
             <row role="data">
               <cell role="data">3.66</cell>
-              <cell role="data"><quote xml:lang="la">multris</quote> G, <quote xml:lang="la"
-                  >multis</quote> N, <quote xml:lang="la">mulctris</quote> or something similar
+              <cell role="data"><foreign xml:lang="lat">multris</foreign> G, <quote xml:lang="lat"
+                  >multis</quote> N, <foreign xml:lang="lat">mulctris</foreign> or something similar
                 V</cell>
               <cell role="data">
-                <quote xml:lang="la">ī ultrix</quote>
+                <quote xml:lang="lat">ī ultrix</quote>
               </cell>
             </row>
             <row role="data">
               <cell role="data">3.68</cell>
-              <cell role="data"><quote xml:lang="la">nec</quote> N G V</cell>
+              <cell role="data"><foreign xml:lang="lat">nec</foreign> N G V</cell>
               <cell role="data">
-                <quote xml:lang="la">ne</quote>
+                <foreign xml:lang="lat">ne</foreign>
               </cell>
             </row>
             <row role="data">
               <cell role="data">3.70</cell>
-              <cell role="data"><quote xml:lang="la">quod</quote> N G V</cell>
+              <cell role="data"><foreign xml:lang="lat">quod</foreign> N G V</cell>
               <cell role="data">
-                <quote xml:lang="la">quo</quote>
+                <foreign xml:lang="lat">quo</foreign>
               </cell>
             </row>
             <row role="data">
               <cell role="data">3.82</cell>
-              <cell role="data"><quote xml:lang="la">metere</quote> N G V</cell>
+              <cell role="data"><foreign xml:lang="lat">metere</foreign> N G V</cell>
               <cell role="data">
-                <quote xml:lang="la">metā</quote>
+                <quote xml:lang="lat">metā</quote>
               </cell>
             </row>
             <row role="data">
               <cell role="data">3.86</cell>
-              <cell role="data"><quote xml:lang="la">turpis</quote> N G V</cell>
+              <cell role="data"><foreign xml:lang="lat">turpis</foreign> N G V</cell>
               <cell role="data">
-                <quote xml:lang="la">cupis</quote>
+                <foreign xml:lang="lat">cupis</foreign>
               </cell>
             </row>
             <row role="data">
               <cell role="data">3.89</cell>
-              <cell role="data"><quote xml:lang="la">hy</quote> N G, <quote xml:lang="la">hi</quote>
-                V</cell>
+              <cell role="data"><foreign xml:lang="lat">hy</foreign> N G, <foreign xml:lang="lat"
+                  >hi</foreign> V</cell>
               <cell role="data">
-                <quote xml:lang="la">hic</quote>
+                <foreign xml:lang="lat">hic</foreign>
               </cell>
             </row>
             <row role="data">
               <cell role="data">3.92</cell>
-              <cell role="data"><quote xml:lang="la">miseris</quote> N G V</cell>
+              <cell role="data"><foreign xml:lang="lat">miseris</foreign> N G V</cell>
               <cell role="data">
-                <quote xml:lang="la">miseros</quote>
+                <foreign xml:lang="lat">miseros</foreign>
               </cell>
             </row>
           </table>
           <p>But despite such an abundance of errors, sometimes the Codex Parisinus reports a
             correct reading of the archetype that has been corrupted in the other two families: cfr.
-            2.14 <quote xml:lang="la">naides</quote> P, <quote xml:lang="la">naiades</quote> N V,
-              <quote xml:lang="la">nayades</quote> G, 63 <quote xml:lang="la">parilibus</quote> P,
-              <quote xml:lang="la">paliribus</quote> N G, <quote xml:lang="la">palilibus</quote> V.
-            To those passage you could add 1.4 <quote xml:lang="la">ornyte</quote>*, <quote
-              xml:lang="la">ornyce</quote> P, <quote xml:lang="la">ornite</quote> N G V. Even if you
-            grant that these passages could have been emended by conjecture, nevertheless you would
-            hardly think that a copyist whose ignorance and carelessness we have detected in so many
-            and such great passages should be pardoned. If we have discussed these matters properly,
-            all of the interpolations that the manuscript underwent are owed to the archetype, but
-            the numerous mistakes in writing must be attributed to the copyist.</p>
+            2.14 <foreign xml:lang="lat">naides</foreign> P, <foreign xml:lang="lat"
+              >naiades</foreign> N V, <foreign xml:lang="lat">nayades</foreign> G, 63 <foreign
+              xml:lang="lat">parilibus</foreign> P, <foreign xml:lang="lat">paliribus</foreign> N G,
+              <foreign xml:lang="lat">palilibus</foreign> V. To those passage you could add 1.4
+              <foreign xml:lang="lat">ornyte</foreign>*, <foreign xml:lang="lat">ornyce</foreign> P,
+              <foreign xml:lang="lat">ornite</foreign> N G V. Even if you grant that these passages
+            could have been emended by conjecture, nevertheless you would hardly think that a
+            copyist whose ignorance and carelessness we have detected in so many and such great
+            passages should be pardoned. If we have discussed these matters properly, all of the
+            interpolations that the manuscript underwent are owed to the archetype, but the numerous
+            mistakes in writing must be attributed to the copyist.</p>
           <p>But to make a better judgment about the worth of this manuscript, we should consider
             what its readings are in the passages where the first family differs from the
             second.</p>
@@ -1346,10 +1381,10 @@
             <row role="data">
               <cell role="data">1.28</cell>
               <cell role="data">
-                <quote xml:lang="la">haec</quote>
+                <foreign xml:lang="lat">haec</foreign>
               </cell>
               <cell role="data">
-                <quote xml:lang="la">hoc</quote>
+                <foreign xml:lang="lat">hoc</foreign>
               </cell>
             </row>
             <row role="data">
@@ -1360,37 +1395,37 @@
             <row role="data">
               <cell role="data">1.78</cell>
               <cell role="data">
-                <quote xml:lang="la">rediantem</quote>
+                <foreign xml:lang="lat">rediantem</foreign>
               </cell>
               <cell role="data">
-                <quote xml:lang="la">radianti</quote>
+                <foreign xml:lang="lat">radianti</foreign>
               </cell>
             </row>
             <row role="data">
               <cell role="data">1.80</cell>
               <cell role="data">
-                <quote xml:lang="la">cruento</quote>
+                <foreign xml:lang="lat">cruento</foreign>
               </cell>
               <cell role="data">
-                <quote xml:lang="la">cremato</quote>
+                <foreign xml:lang="lat">cremato</foreign>
               </cell>
             </row>
             <row role="data">
               <cell role="data">1.89</cell>
               <cell role="data">
-                <quote xml:lang="la">plenum</quote>
+                <foreign xml:lang="lat">plenum</foreign>
               </cell>
               <cell role="data">
-                <quote xml:lang="la">plenus</quote>
+                <foreign xml:lang="lat">plenus</foreign>
               </cell>
             </row>
             <row role="data">
               <cell role="data">2.8</cell>
               <cell role="data">
-                <quote xml:lang="la">vindicet</quote>
+                <foreign xml:lang="lat">vindicet</foreign>
               </cell>
               <cell role="data">
-                <quote xml:lang="la">vendicet</quote>
+                <foreign xml:lang="lat">vendicet</foreign>
               </cell>
             </row>
             <row role="data">
@@ -1401,177 +1436,177 @@
             <row role="data">
               <cell role="data">2.21</cell>
               <cell role="data">
-                <quote xml:lang="la">annosa</quote>
+                <foreign xml:lang="lat">annosa</foreign>
               </cell>
-              <cell role="data"><quote xml:lang="la">herbosa</quote> or <quote xml:lang="la"
-                  >umbrosa</quote> or <quote xml:lang="la">herbora</quote></cell>
+              <cell role="data"><foreign xml:lang="lat">herbosa</foreign> or <quote xml:lang="lat"
+                  >umbrosa</quote> or <foreign xml:lang="lat">herbora</foreign></cell>
             </row>
             <row role="data">
               <cell role="data">2.30</cell>
               <cell role="data">
-                <quote xml:lang="la">parvo dixit</quote>
+                <foreign xml:lang="lat">parvo dixit</foreign>
               </cell>
               <cell role="data">
-                <quote xml:lang="la">parvo hoc dixit</quote>
+                <foreign xml:lang="lat">parvo hoc dixit</foreign>
               </cell>
             </row>
             <row role="data">
               <cell role="data">2.31</cell>
               <cell role="data">
-                <quote xml:lang="la">crescat</quote>
+                <foreign xml:lang="lat">crescat</foreign>
               </cell>
               <cell role="data">
-                <quote xml:lang="la">crescit</quote>
+                <foreign xml:lang="lat">crescit</foreign>
               </cell>
             </row>
             <row role="data">
               <cell role="data">2.32</cell>
               <cell role="data">
-                <quote xml:lang="la">pingit</quote>
+                <foreign xml:lang="lat">pingit</foreign>
               </cell>
               <cell role="data">
-                <quote xml:lang="la">spargit</quote>
+                <foreign xml:lang="lat">spargit</foreign>
               </cell>
             </row>
             <row role="data">
               <cell role="data">2.35</cell>
               <cell role="data">
-                <quote xml:lang="la">iam-nutrire</quote>
+                <quote xml:lang="lat">iam-nutrire</quote>
               </cell>
               <cell role="data">
-                <quote xml:lang="la">nam-mutare</quote>
+                <quote xml:lang="lat">nam-mutare</quote>
               </cell>
             </row>
             <row role="data">
               <cell role="data">2.49</cell>
               <cell role="data">
-                <quote xml:lang="la">pangitur</quote>
+                <foreign xml:lang="lat">pangitur</foreign>
               </cell>
               <cell role="data">
-                <quote xml:lang="la">panditur</quote>
+                <foreign xml:lang="lat">panditur</foreign>
               </cell>
             </row>
             <row role="data">
               <cell role="data">2.54</cell>
               <cell role="data">
-                <quote xml:lang="la">decernamque</quote>
+                <foreign xml:lang="lat">decernamque</foreign>
               </cell>
               <cell role="data">
-                <quote xml:lang="la">dicam namque</quote>
+                <foreign xml:lang="lat">dicam namque</foreign>
               </cell>
             </row>
             <row role="data">
               <cell role="data">2.61</cell>
               <cell role="data">
-                <quote xml:lang="la">et</quote>
+                <foreign xml:lang="lat">et</foreign>
               </cell>
               <cell role="data">
-                <quote xml:lang="la">est</quote>
+                <foreign xml:lang="lat">est</foreign>
               </cell>
             </row>
             <row role="data">
               <cell role="data">2.65</cell>
               <cell role="data">
-                <quote xml:lang="la">figere</quote>
+                <foreign xml:lang="lat">figere</foreign>
               </cell>
-              <cell role="data"><quote xml:lang="la">fundere</quote> or <quote xml:lang="la"
+              <cell role="data"><foreign xml:lang="lat">fundere</foreign> or <quote xml:lang="lat"
                   >fraude</quote></cell>
             </row>
             <row role="data">
               <cell role="data">2.67</cell>
               <cell role="data">
-                <quote xml:lang="la">sunt</quote>
+                <foreign xml:lang="lat">sunt</foreign>
               </cell>
-              <cell role="data"><quote xml:lang="la">fore</quote> or <quote xml:lang="la"
+              <cell role="data"><foreign xml:lang="lat">fore</foreign> or <quote xml:lang="lat"
                   >fere</quote></cell>
             </row>
             <row role="data">
               <cell role="data">2.94</cell>
               <cell role="data">
-                <quote xml:lang="la">agat</quote>
+                <foreign xml:lang="lat">agat</foreign>
               </cell>
-              <cell role="data"><quote xml:lang="la">vocat</quote> or <quote xml:lang="la"
+              <cell role="data"><foreign xml:lang="lat">vocat</foreign> or <quote xml:lang="lat"
                   >vocet</quote> or something similar</cell>
             </row>
             <row role="data">
               <cell role="data">3.2</cell>
               <cell role="data">
-                <quote xml:lang="la">ista</quote>
+                <foreign xml:lang="lat">ista</foreign>
               </cell>
               <cell role="data">
-                <quote xml:lang="la">illa</quote>
+                <foreign xml:lang="lat">illa</foreign>
               </cell>
             </row>
             <row role="data">
               <cell role="data">3.16</cell>
               <cell role="data">
-                <quote xml:lang="la">spatiosus</quote>
+                <foreign xml:lang="lat">spatiosus</foreign>
               </cell>
               <cell role="data">
-                <quote xml:lang="la">spatiatus</quote>
+                <foreign xml:lang="lat">spatiatus</foreign>
               </cell>
             </row>
             <row role="data">
               <cell role="data">3.24</cell>
               <cell role="data">
-                <quote xml:lang="la">sola tu</quote>
+                <foreign xml:lang="lat">sola tu</foreign>
               </cell>
               <cell role="data">
-                <quote xml:lang="la">tu solus</quote>
+                <foreign xml:lang="lat">tu solus</foreign>
               </cell>
             </row>
             <row role="data">
               <cell role="data">3.28</cell>
               <cell role="data">
-                <quote xml:lang="la">haec</quote>
+                <foreign xml:lang="lat">haec</foreign>
               </cell>
               <cell role="data">
-                <quote xml:lang="la">hoc</quote>
+                <foreign xml:lang="lat">hoc</foreign>
               </cell>
             </row>
             <row role="data">
               <cell role="data">3.33</cell>
               <cell role="data">
-                <quote xml:lang="la">negetur</quote>
+                <foreign xml:lang="lat">negetur</foreign>
               </cell>
               <cell role="data">
-                <quote xml:lang="la">vagetur</quote>
+                <foreign xml:lang="lat">vagetur</foreign>
               </cell>
             </row>
             <row role="data">
               <cell role="data">3.47</cell>
               <cell role="data">
-                <quote xml:lang="la">excluso disperdit</quote>
+                <foreign xml:lang="lat">excluso disperdit</foreign>
               </cell>
               <cell role="data">
-                <quote xml:lang="la">excusso dispergit</quote>
+                <foreign xml:lang="lat">excusso dispergit</foreign>
               </cell>
             </row>
             <row role="data">
               <cell role="data">3.59</cell>
               <cell role="data">
-                <quote xml:lang="la">haec</quote>
+                <foreign xml:lang="lat">haec</foreign>
               </cell>
               <cell role="data">
-                <quote xml:lang="la">hoc</quote>
+                <foreign xml:lang="lat">hoc</foreign>
               </cell>
             </row>
             <row role="data">
               <cell role="data">3.88</cell>
               <cell role="data">
-                <quote xml:lang="la">nostros primum</quote>
+                <foreign xml:lang="lat">nostros primum</foreign>
               </cell>
               <cell role="data">
-                <quote xml:lang="la">primum nostros</quote>
+                <foreign xml:lang="lat">primum nostros</foreign>
               </cell>
             </row>
             <row role="data">
               <cell role="data">4.10</cell>
               <cell role="data">
-                <quote xml:lang="la">numina</quote>
+                <foreign xml:lang="lat">numina</foreign>
               </cell>
               <cell role="data">
-                <quote xml:lang="la">munera</quote>
+                <foreign xml:lang="lat">munera</foreign>
               </cell>
             </row>
           </table>
@@ -1584,39 +1619,39 @@
             </row>
             <row role="data">
               <cell role="data">1.9</cell>
-              <cell role="data"><quote xml:lang="la">densent</quote> N, <quote xml:lang="la"
+              <cell role="data"><foreign xml:lang="lat">densent</foreign> N, <quote xml:lang="lat"
                   >denset</quote> G P</cell>
               <cell role="data">
-                <quote xml:lang="la">densat</quote>
+                <foreign xml:lang="lat">densat</foreign>
               </cell>
             </row>
             <row role="data">
               <cell role="data">1.45</cell>
-              <cell role="data"><quote xml:lang="la">vicit</quote> N P <quote xml:lang="la"
+              <cell role="data"><foreign xml:lang="lat">vicit</foreign> N P <quote xml:lang="lat"
                   >vīcit</quote> G</cell>
               <cell role="data">
-                <quote xml:lang="la">lusit</quote>
+                <foreign xml:lang="lat">lusit</foreign>
               </cell>
             </row>
             <row role="data">
               <cell role="data">1.76</cell>
-              <cell role="data"><quote xml:lang="la">fervit</quote> G P</cell>
-              <cell role="data"><quote xml:lang="la">servit</quote> (N V)</cell>
+              <cell role="data"><foreign xml:lang="lat">fervit</foreign> G P</cell>
+              <cell role="data"><foreign xml:lang="lat">servit</foreign> (N V)</cell>
             </row>
             <row role="data">
               <cell role="data">3.60</cell>
-              <cell role="data"><quote xml:lang="la">iners</quote> N G, <quote xml:lang="la"
+              <cell role="data"><foreign xml:lang="lat">iners</foreign> N G, <quote xml:lang="lat"
                   >inexs</quote> P</cell>
               <cell role="data">
-                <quote xml:lang="la">inops</quote>
+                <foreign xml:lang="lat">inops</foreign>
               </cell>
             </row>
             <row role="data">
               <cell role="data">3.95</cell>
-              <cell role="data"><quote xml:lang="la">sub horti</quote>] <quote xml:lang="la">sub
-                  orti</quote> N G P</cell>
+              <cell role="data"><foreign xml:lang="lat">sub horti</foreign>] <foreign xml:lang="lat"
+                  >sub orti</foreign> N G P</cell>
               <cell role="data">
-                <quote xml:lang="la">sub ara</quote>
+                <foreign xml:lang="lat">sub ara</foreign>
               </cell>
             </row>
           </table>
@@ -1631,160 +1666,160 @@
             </row>
             <row role="data">
               <cell role="data">1.8</cell>
-              <cell role="data"><quote xml:lang="la">antra</quote>-9 <quote xml:lang="la"
+              <cell role="data"><foreign xml:lang="lat">antra</foreign>-9 <quote xml:lang="lat"
                   >ista</quote></cell>
-              <cell role="data"><quote xml:lang="la">ista</quote>-9 <quote xml:lang="la"
+              <cell role="data"><foreign xml:lang="lat">ista</foreign>-9 <quote xml:lang="lat"
                   >antra</quote></cell>
             </row>
             <row role="data">
               <cell role="data">1.64</cell>
-              <cell role="data"><quote xml:lang="la">referet</quote> N, <quote xml:lang="la"
+              <cell role="data"><foreign xml:lang="lat">referet</foreign> N, <quote xml:lang="lat"
                   >referent</quote> G (but corrected in the margin)</cell>
               <cell role="data">
-                <quote xml:lang="la">revocet</quote>
+                <foreign xml:lang="lat">revocet</foreign>
               </cell>
             </row>
             <row role="data">
               <cell role="data">2.5</cell>
               <cell role="data">
-                <quote xml:lang="la">umbras</quote>
+                <foreign xml:lang="lat">umbras</foreign>
               </cell>
               <cell role="data">
-                <quote xml:lang="la">ulmos</quote>
+                <foreign xml:lang="lat">ulmos</foreign>
               </cell>
             </row>
             <row role="data">
               <cell role="data">2.27</cell>
               <cell role="data">
-                <quote xml:lang="la">decernunt</quote>
+                <foreign xml:lang="lat">decernunt</foreign>
               </cell>
               <cell role="data">
-                <quote xml:lang="la">discernunt</quote>
+                <foreign xml:lang="lat">discernunt</foreign>
               </cell>
             </row>
             <row role="data">
               <cell role="data">2.32</cell>
               <cell role="data">
-                <quote xml:lang="la">flora</quote>
+                <foreign xml:lang="lat">flora</foreign>
               </cell>
               <cell role="data">
-                <quote xml:lang="la">flore</quote>
+                <foreign xml:lang="lat">flore</foreign>
               </cell>
             </row>
             <row role="data">
               <cell role="data">2.35</cell>
               <cell role="data">
-                <quote xml:lang="la">irriguos</quote>
+                <foreign xml:lang="lat">irriguos</foreign>
               </cell>
-              <cell role="data"><quote xml:lang="la">inriguis</quote> P, <quote xml:lang="la"
+              <cell role="data"><foreign xml:lang="lat">inriguis</foreign> P, <quote xml:lang="lat"
                   >irriguis</quote> V</cell>
             </row>
             <row role="data">
               <cell role="data">2.45</cell>
               <cell role="data">
-                <quote xml:lang="la">novis</quote>
+                <foreign xml:lang="lat">novis</foreign>
               </cell>
               <cell role="data">
-                <quote xml:lang="la">novas</quote>
+                <foreign xml:lang="lat">novas</foreign>
               </cell>
             </row>
             <row role="data">
               <cell role="data">2.48</cell>
               <cell role="data">
-                <quote xml:lang="la">at</quote>
+                <foreign xml:lang="lat">at</foreign>
               </cell>
               <cell role="data">
-                <quote xml:lang="la">et</quote>
+                <foreign xml:lang="lat">et</foreign>
               </cell>
             </row>
             <row role="data">
               <cell role="data">2.80</cell>
               <cell role="data">
-                <quote xml:lang="la">at</quote>
+                <foreign xml:lang="lat">at</foreign>
               </cell>
               <cell role="data">
-                <quote xml:lang="la">et</quote>
+                <foreign xml:lang="lat">et</foreign>
               </cell>
             </row>
             <row role="data">
               <cell role="data">2.82</cell>
               <cell role="data">
-                <quote xml:lang="la">decembri</quote>
+                <foreign xml:lang="lat">decembri</foreign>
               </cell>
               <cell role="data">
-                <quote xml:lang="la">novembri</quote>
+                <foreign xml:lang="lat">novembri</foreign>
               </cell>
             </row>
             <row role="data">
               <cell role="data">2.88</cell>
               <cell role="data">
-                <quote xml:lang="la">ipse</quote>
+                <foreign xml:lang="lat">ipse</foreign>
               </cell>
               <cell role="data">
-                <quote xml:lang="la">esse</quote>
+                <foreign xml:lang="lat">esse</foreign>
               </cell>
             </row>
             <row role="data">
               <cell role="data">3.7</cell>
               <cell role="data">
-                <quote xml:lang="la">nec</quote>
+                <foreign xml:lang="lat">nec</foreign>
               </cell>
               <cell role="data">
-                <quote xml:lang="la">neque</quote>
+                <foreign xml:lang="lat">neque</foreign>
               </cell>
             </row>
             <row role="data">
               <cell role="data">3.18</cell>
               <cell role="data">
-                <quote xml:lang="la">quavis</quote>
+                <foreign xml:lang="lat">quavis</foreign>
               </cell>
               <cell role="data">
-                <quote xml:lang="la">quamvis</quote>
+                <foreign xml:lang="lat">quamvis</foreign>
               </cell>
             </row>
             <row role="data">
               <cell role="data">3.24</cell>
               <cell role="data">
-                <quote xml:lang="la">iolla</quote>
+                <foreign xml:lang="lat">iolla</foreign>
               </cell>
               <cell role="data">
-                <quote xml:lang="la">iolla es</quote>
+                <foreign xml:lang="lat">iolla es</foreign>
               </cell>
             </row>
             <row role="data">
               <cell role="data">3.74</cell>
               <cell role="data">
-                <quote xml:lang="la">furem medio</quote>
+                <foreign xml:lang="lat">furem medio</foreign>
               </cell>
               <cell role="data">
-                <quote xml:lang="la">medio furem</quote>
+                <foreign xml:lang="lat">medio furem</foreign>
               </cell>
             </row>
             <row role="data">
               <cell role="data">3.75</cell>
               <cell role="data">
-                <quote xml:lang="la">dubites</quote>
+                <foreign xml:lang="lat">dubites</foreign>
               </cell>
               <cell role="data">
-                <quote xml:lang="la">dubita <!-- Giarratano omits V here --></quote>
+                <quote xml:lang="lat">dubita <!-- Giarratano omits V here --></quote>
               </cell>
             </row>
             <row role="data">
               <cell role="data">3.78</cell>
               <cell role="data">
-                <quote xml:lang="la">gremium</quote>
+                <foreign xml:lang="lat">gremium</foreign>
               </cell>
               <cell role="data">
-                <quote xml:lang="la">gremio</quote>
+                <foreign xml:lang="lat">gremio</foreign>
               </cell>
             </row>
             <row role="data">
               <cell role="data">4.10</cell>
               <cell role="data">
-                <quote xml:lang="la">despicit</quote>
+                <foreign xml:lang="lat">despicit</foreign>
               </cell>
               <cell role="data">
-                <quote xml:lang="la">respicit</quote>
+                <foreign xml:lang="lat">respicit</foreign>
               </cell>
             </row>
           </table>
@@ -1800,43 +1835,43 @@
             <row role="data">
               <cell role="data">1.5</cell>
               <cell role="data">
-                <quote xml:lang="la">molle sub</quote>
+                <foreign xml:lang="lat">molle sub</foreign>
               </cell>
               <cell role="data">
-                <quote xml:lang="la">molliter</quote>
+                <foreign xml:lang="lat">molliter</foreign>
               </cell>
             </row>
             <row role="data">
               <cell role="data">1.20</cell>
               <cell role="data">
-                <quote xml:lang="la">descripta</quote>
+                <foreign xml:lang="lat">descripta</foreign>
               </cell>
-              <cell role="data"><quote xml:lang="la">depicta</quote> N (from <quote xml:lang="la"
-                  >dipicta</quote>) G</cell>
+              <cell role="data"><foreign xml:lang="lat">depicta</foreign> N (from <quote
+                  xml:lang="lat">dipicta</quote>) G</cell>
             </row>
             <row role="data">
               <cell role="data">1.24</cell>
               <cell role="data">
-                <quote xml:lang="la">alto</quote>
+                <foreign xml:lang="lat">alto</foreign>
               </cell>
               <cell role="data">
-                <quote xml:lang="la">altos</quote>
+                <foreign xml:lang="lat">altos</foreign>
               </cell>
             </row>
             <row role="data">
               <cell role="data">1.25</cell>
               <cell role="data">
-                <quote xml:lang="la">cortice</quote>
+                <foreign xml:lang="lat">cortice</foreign>
               </cell>
-              <cell role="data"><quote xml:lang="la">codice</quote> N (apparently) G</cell>
+              <cell role="data"><foreign xml:lang="lat">codice</foreign> N (apparently) G</cell>
             </row>
             <row role="data">
               <cell role="data">1.28</cell>
               <cell role="data">
-                <quote xml:lang="la">triviali</quote>
+                <foreign xml:lang="lat">triviali</foreign>
               </cell>
               <cell role="data">
-                <quote xml:lang="la">tibi vili</quote>
+                <foreign xml:lang="lat">tibi vili</foreign>
               </cell>
             </row>
             <row role="data">
@@ -1846,105 +1881,105 @@
             </row>
             <row role="data">
               <cell role="data">1.55</cell>
-              <cell role="data"><quote xml:lang="la">professo</quote> P, most of V</cell>
+              <cell role="data"><foreign xml:lang="lat">professo</foreign> P, most of V</cell>
               <cell role="data">
-                <quote xml:lang="la">profuso</quote>
+                <foreign xml:lang="lat">profuso</foreign>
               </cell>
             </row>
             <row role="data">
               <cell role="data">1.87</cell>
-              <cell role="data"><quote xml:lang="la">ex</quote> P, most of V</cell>
+              <cell role="data"><foreign xml:lang="lat">ex</foreign> P, most of V</cell>
               <cell role="data">
-                <quote xml:lang="la">a</quote>
+                <foreign xml:lang="lat">a</foreign>
               </cell>
             </row>
             <row role="data">
               <cell role="data">1.90</cell>
               <cell role="data">
-                <quote xml:lang="la">quatit</quote>
+                <foreign xml:lang="lat">quatit</foreign>
               </cell>
-              <cell role="data"><quote xml:lang="la">querit</quote> N <quote xml:lang="la"
+              <cell role="data"><foreign xml:lang="lat">querit</foreign> N <quote xml:lang="lat"
                   >petit</quote> G</cell>
             </row>
             <row role="data">
               <cell role="data">2.32</cell>
               <cell role="data">
-                <quote xml:lang="la">et</quote>
+                <foreign xml:lang="lat">et</foreign>
               </cell>
               <cell role="data">
-                <quote xml:lang="la">at</quote>
+                <foreign xml:lang="lat">at</foreign>
               </cell>
             </row>
             <row role="data">
               <cell role="data">2.96</cell>
               <cell role="data">
-                <quote xml:lang="la">canalem</quote>
+                <foreign xml:lang="lat">canalem</foreign>
               </cell>
               <cell role="data">
-                <quote xml:lang="la">canale</quote>
+                <foreign xml:lang="lat">canale</foreign>
               </cell>
             </row>
             <row role="data">
               <cell role="data">3.21</cell>
               <cell role="data">
-                <quote xml:lang="la">sed</quote>
+                <foreign xml:lang="lat">sed</foreign>
               </cell>
               <cell role="data">
-                <quote xml:lang="la">si</quote>
+                <foreign xml:lang="lat">si</foreign>
               </cell>
             </row>
             <row role="data">
               <cell role="data">3.26</cell>
               <cell role="data">
-                <quote xml:lang="la">sibi</quote>
+                <foreign xml:lang="lat">sibi</foreign>
               </cell>
               <cell role="data">
-                <quote xml:lang="la">ibi</quote>
+                <foreign xml:lang="lat">ibi</foreign>
               </cell>
             </row>
             <row role="data">
               <cell role="data">3.36</cell>
               <cell role="data">
-                <quote xml:lang="la">a</quote>
+                <foreign xml:lang="lat">a</foreign>
               </cell>
               <cell role="data">
-                <quote xml:lang="la">o</quote>
+                <foreign xml:lang="lat">o</foreign>
               </cell>
             </row>
             <row role="data">
               <cell role="data">3.43</cell>
               <cell role="data">
-                <quote xml:lang="la">nam</quote>
+                <foreign xml:lang="lat">nam</foreign>
               </cell>
               <cell role="data">
-                <quote xml:lang="la">nunc</quote>
+                <foreign xml:lang="lat">nunc</foreign>
               </cell>
             </row>
             <row role="data">
               <cell role="data">3.46</cell>
               <cell role="data">
-                <quote xml:lang="la">quos</quote>
+                <foreign xml:lang="lat">quos</foreign>
               </cell>
               <cell role="data">
-                <quote xml:lang="la">quas</quote>
+                <foreign xml:lang="lat">quas</foreign>
               </cell>
             </row>
             <row role="data">
               <cell role="data">3.84</cell>
               <cell role="data">
-                <quote xml:lang="la">tunc-tunc</quote>
+                <quote xml:lang="lat">tunc-tunc</quote>
               </cell>
               <cell role="data">
-                <quote xml:lang="la">tum-tunc</quote>
+                <quote xml:lang="lat">tum-tunc</quote>
               </cell>
             </row>
             <row role="data">
               <cell role="data">4.2</cell>
               <cell role="data">
-                <quote xml:lang="la">platano</quote>
+                <foreign xml:lang="lat">platano</foreign>
               </cell>
               <cell role="data">
-                <quote xml:lang="la">patula</quote>
+                <foreign xml:lang="lat">patula</foreign>
               </cell>
             </row>
           </table>
@@ -1959,88 +1994,88 @@
             </row>
             <row role="data">
               <cell role="data">1.46</cell>
-              <cell role="data"><quote xml:lang="la">victas</quote> N G P</cell>
-              <cell role="data"><quote xml:lang="la">vinctas</quote>* or <quote xml:lang="la"
+              <cell role="data"><foreign xml:lang="lat">victas</foreign> N G P</cell>
+              <cell role="data"><foreign xml:lang="lat">vinctas</foreign>* or <quote xml:lang="lat"
                   >victas</quote></cell>
             </row>
             <row role="data">
               <cell role="data">1.61</cell>
-              <cell role="data"><quote xml:lang="la">laxabit</quote> G P</cell>
-              <cell role="data"><quote xml:lang="la">lassabit</quote>* or <quote xml:lang="la"
+              <cell role="data"><foreign xml:lang="lat">laxabit</foreign> G P</cell>
+              <cell role="data"><foreign xml:lang="lat">lassabit</foreign>* or <quote xml:lang="lat"
                   >laxabit</quote></cell>
             </row>
             <row role="data">
               <cell role="data">1.80</cell>
-              <cell role="data"><quote xml:lang="la">numquid</quote>* G, <quote xml:lang="la">non
-                  quod</quote> P</cell>
-              <cell role="data"><quote xml:lang="la">numquid</quote> or <quote xml:lang="la">non
-                  quod</quote> or <quote xml:lang="la">non per</quote></cell>
+              <cell role="data"><foreign xml:lang="lat">numquid</foreign>* G, <foreign
+                  xml:lang="lat">non quod</foreign> P</cell>
+              <cell role="data"><foreign xml:lang="lat">numquid</foreign> or <foreign xml:lang="lat"
+                  >non quod</foreign> or <foreign xml:lang="lat">non per</foreign></cell>
             </row>
             <row role="data">
               <cell role="data">2.14</cell>
               <cell role="data">
-                <quote xml:lang="la">affuerant</quote>
+                <foreign xml:lang="lat">affuerant</foreign>
               </cell>
-              <cell role="data"><quote xml:lang="la">affuerunt</quote>* or <quote xml:lang="la"
-                  >affuerant</quote></cell>
+              <cell role="data"><foreign xml:lang="lat">affuerunt</foreign>* or <quote
+                  xml:lang="lat">affuerant</quote></cell>
             </row>
             <row role="data">
               <cell role="data">2.26</cell>
-              <cell role="data"><quote xml:lang="la">iactate</quote>* N G, <quote xml:lang="la"
-                  >iactare</quote> P</cell>
-              <cell role="data"><quote xml:lang="la">iactate</quote> or <quote xml:lang="la"
+              <cell role="data"><foreign xml:lang="lat">iactate</foreign>* N G, <quote
+                  xml:lang="lat">iactare</quote> P</cell>
+              <cell role="data"><foreign xml:lang="lat">iactate</foreign> or <quote xml:lang="lat"
                   >iactare</quote></cell>
             </row>
             <row role="data">
               <cell role="data">2.48</cell>
-              <cell role="data"><quote xml:lang="la">arida</quote>* N G, <quote xml:lang="la"
+              <cell role="data"><foreign xml:lang="lat">arida</foreign>* N G, <quote xml:lang="lat"
                   >altera</quote> P</cell>
-              <cell role="data"><quote xml:lang="la">arida</quote> or <quote xml:lang="la"
-                  >altera</quote> or <quote xml:lang="la">avida</quote></cell>
+              <cell role="data"><foreign xml:lang="lat">arida</foreign> or <quote xml:lang="lat"
+                  >altera</quote> or <foreign xml:lang="lat">avida</foreign></cell>
             </row>
             <row role="data">
               <cell role="data">3.18</cell>
-              <cell role="data"><quote xml:lang="la">contentus</quote>* N G, <quote xml:lang="la"
-                  >contemptus</quote> P</cell>
-              <cell role="data"><quote xml:lang="la">contentus</quote> or <quote xml:lang="la"
+              <cell role="data"><foreign xml:lang="lat">contentus</foreign>* N G, <quote
+                  xml:lang="lat">contemptus</quote> P</cell>
+              <cell role="data"><foreign xml:lang="lat">contentus</foreign> or <quote xml:lang="lat"
                   >contemptus</quote></cell>
             </row>
             <row role="data">
               <cell role="data">3.55</cell>
-              <cell role="data"><quote xml:lang="la">te</quote>* N G, <quote xml:lang="la"
+              <cell role="data"><foreign xml:lang="lat">te</foreign>* N G, <quote xml:lang="lat"
                   >tu</quote> P</cell>
-              <cell role="data"><quote xml:lang="la">tu</quote> or <quote xml:lang="la"
-                >te</quote></cell>
+              <cell role="data"><foreign xml:lang="lat">tu</foreign> or <quote xml:lang="lat"
+                  >te</quote></cell>
             </row>
             <row role="data">
               <cell role="data">3.73</cell>
-              <cell role="data"><quote xml:lang="la">vi</quote> G P</cell>
-              <cell role="data"><quote xml:lang="la">ut</quote>* or <quote xml:lang="la"
-                >vi</quote></cell>
+              <cell role="data"><foreign xml:lang="lat">vi</foreign> G P</cell>
+              <cell role="data"><foreign xml:lang="lat">ut</foreign>* or <quote xml:lang="lat"
+                  >vi</quote></cell>
             </row>
             <row role="data">
               <cell role="data">3.91</cell>
-              <cell role="data"><quote xml:lang="la">habet</quote>* N G, <quote xml:lang="la"
+              <cell role="data"><foreign xml:lang="lat">habet</foreign>* N G, <quote xml:lang="lat"
                   >amat</quote> P</cell>
-              <cell role="data"><quote xml:lang="la">amat</quote> or <quote xml:lang="la"
+              <cell role="data"><foreign xml:lang="lat">amat</foreign> or <quote xml:lang="lat"
                   >habet</quote></cell>
             </row>
           </table>
           <p>In conclusion, to review what has been accomplished in this discussion, where N and G
             agree with P, there is no doubt that their reading should be preferred to readings of
             the second family. We have seen that this rule is violated in only three places (1.48
-              <quote xml:lang="la">victas</quote>, 2.14 <quote xml:lang="la">affuerant</quote>, 3.73
-              <quote xml:lang="la">vi</quote>), with which I do not concern myself. But where N and
-            G differ from P and V, both groups of manuscripts have nearly the same number of good
-            and corrupt readings. But far be it from me to give equal authority to both groups, for
-            nearly all of the corruptions that N and G received, as it were, by inheritance from the
-            archetype of the first family are owed to the carelessness or ignorance of copyists, but
-            the faults of other manuscripts should be attributed to the perverse zeal of
-            pseudo-scholars for emending and interpolating. That is why, with one or two exceptions,
-            there is never any uncertainty about which reading to select. If these matters have been
-            established correctly, then the Codex Parisinus cannot always be accepted as an arbiter,
-            but we ought always to consider its readings and we must also be sad that it has such a
-            brief run of verses.</p>
+              <foreign xml:lang="lat">victas</foreign>, 2.14 <foreign xml:lang="lat"
+              >affuerant</foreign>, 3.73 <foreign xml:lang="lat">vi</foreign>), with which I do not
+            concern myself. But where N and G differ from P and V, both groups of manuscripts have
+            nearly the same number of good and corrupt readings. But far be it from me to give equal
+            authority to both groups, for nearly all of the corruptions that N and G received, as it
+            were, by inheritance from the archetype of the first family are owed to the carelessness
+            or ignorance of copyists, but the faults of other manuscripts should be attributed to
+            the perverse zeal of pseudo-scholars for emending and interpolating. That is why, with
+            one or two exceptions, there is never any uncertainty about which reading to select. If
+            these matters have been established correctly, then the Codex Parisinus cannot always be
+            accepted as an arbiter, but we ought always to consider its readings and we must also be
+            sad that it has such a brief run of verses.</p>
         </div>
         <!-- End of Third Family -->
 
@@ -2088,62 +2123,66 @@
             two classes, for most of them agree with N G, and the rest with certain manuscripts of
             the second family, especially Codex Urbinas 353 Vatican 3152, Ambrosianus O.74 sup., and
             the edition published in Venice in 1472. Consider the following passages: Calp. 1.30
-              <quote xml:lang="la">non</quote> Aεαγe, 1.46 <quote xml:lang="la">vinctas</quote> Aγ,
-            1.87 <quote xml:lang="la">et meritis</quote> Aεαe, 2.27 <quote xml:lang="la">discrevit
-              digitus</quote> Aεαe, 2.32 et A V, 2.48 <quote xml:lang="la">arida</quote> Aα, 2.67
-              <quote xml:lang="la">fore</quote> Aεαγe, 3.93 <quote xml:lang="la">perfer et ore tuo
-              modulator</quote> A¹ εγe, 3.98 <quote xml:lang="la">redit</quote> Aεγe, 4.51 <quote
-              xml:lang="la">aliena</quote> Aεe, 4.75 <quote xml:lang="la">quae</quote> Aεαe, 4.77
-              <quote xml:lang="la">per me</quote> Aεe, 4.94 <quote xml:lang="la">abis</quote> Aεγe,
-            4.95 <quote xml:lang="la">reclivus</quote> Aεγe et <quote xml:lang="la">reclivis</quote>
-            Aα, 4.101 <quote xml:lang="la">sonuerunt</quote> Aεe, 5.31 <quote xml:lang="la"
-              >ut</quote> Aεe, 5.58 <quote xml:lang="la">vel</quote> Aεαγe, 5.100 <quote
-              xml:lang="la">tum</quote> Aεγe, 5.102 <quote xml:lang="la">ast tibi</quote> A N G and
-              <quote xml:lang="la">ast ubi</quote> Aεαe, 6.35 <quote xml:lang="la">scit</quote> Aεe,
-            6.38 <quote xml:lang="la">lucent</quote> A V, 6.82 <quote xml:lang="la">carmina</quote>
-            Aεαγe, 7.25 <quote xml:lang="la">clivos</quote> Aα, 7.43 <quote xml:lang="la"
-              >tam</quote> Aεe, 7.77 <quote xml:lang="la">referens</quote> Aεαe, 7.78 <quote
-              xml:lang="la">quae sit modo</quote> Aεαγe, 7.84 <quote xml:lang="la">putavi</quote>
-            Aεγe, Nemes. 1.31 <quote xml:lang="la">fagosve</quote> Aεαγe, 1.32 <quote xml:lang="la"
-              >suggerit</quote> εe, 1.78 <quote xml:lang="la">olivas</quote> A V, 2.8 <quote
-              xml:lang="la">iam non</quote> Aεγe, 2.15 <quote xml:lang="la">relevare</quote> Aεe,
-            2.30 <quote xml:lang="la">nulloque biberunt</quote> Aεγe, 2.48 <quote xml:lang="la">tum
-              dulce rubens</quote> Aεγe, 3.26 <quote xml:lang="la">vos etiam et</quote> Aεe, <quote
-              xml:lang="la">nutristis</quote> Aεαe, 3.33 <quote xml:lang="la">leve</quote> Aεαe,
-            3.37 <quote xml:lang="la">lenes</quote> Aγe, 3.51 <quote xml:lang="la">cymbia</quote>
-            Aεγe, 3.63 <quote xml:lang="la">natus ab ipso</quote> Aεαγe, 4.69 <quote xml:lang="la"
-              >artes</quote> Aεe. Add these, too: Calp. 5.33 <quote xml:lang="la">capellis</quote>
-            Aνφθ, 7.18 <quote xml:lang="la">spectavimus</quote> Aκχ. In light of these facts, it
-            seems very close to the truth that the Codex Germanicus derived from the same archetype
-            as N and G, and that the readings that agree with N and G should be attributed to that
-            archetype, but that Angeli copied the rest of the readings from interpolated
-            manuscripts. This inference is supported by the fact that Angeli discloses in the
-            subscription to the Codex Riccardianus that he used other manuscripts, too. This agrees
-            with the fact that the four later poems were attributed to Nemesianus in the Codex
-            Germanicus, as attested by Niccolò Angeli at the end of Calpurnius in the Codex
-            Riccardianus and Angelo Ugoleto at the end of the original from Parma. N and G divide
-            the eleven eclogues between Calpurnius and Nemesianus in the same way, but all of them
-            are attributed to Calpurnius alone in the manuscripts of the second family. Therefore
-            the Codex Germanicus should certainly be assigned to the first family. But could it not
-            happen that the Codex Germanicus underwent some interpolations? Indeed it could have
-            happened, but since the task of seeking out a semblance of the lost manuscript is a very
-            risky venture, even though the inference seems probable to me, I nevertheless prefer to
-            report all of Angeli’s readings without distinction under the symbol <ref target="#A"
-              >A</ref>. And I feel so strongly about the authority of the Codex Germanicus that when
-            it agrees with N or G, it offers us another witness to the first family, and when it
-            agrees with V, it has the same force as a manuscript of the second family. For Angeli’s
-            annotations hardly ever differ from all of the manuscripts: Calp. 1.45 <quote
-              xml:lang="la">in ulnis</quote>, 1.86 <quote xml:lang="la">tralati</quote>, 2.3 <quote
-              xml:lang="la">nec</quote>, 4.86 <quote xml:lang="la">in</quote>, 5.65 <quote
-              xml:lang="la">tinniat ore</quote>, 5.79 <quote xml:lang="la">et vitrosa</quote>, 5.104
-              <quote xml:lang="la">hic</quote>, 7.59 <quote xml:lang="la">manticoram</quote>, Nemes.
-            1.70 <quote xml:lang="la">hinc</quote>, 2.41 <quote xml:lang="la">horti</quote>, 2.83
-              <quote xml:lang="la">qui</quote>. But sometimes the Codex Germanicus alone among all
+              <foreign xml:lang="lat">non</foreign> Aεαγe, 1.46 <foreign xml:lang="lat"
+              >vinctas</foreign> Aγ, 1.87 <foreign xml:lang="lat">et meritis</foreign> Aεαe, 2.27
+              <foreign xml:lang="lat">discrevit digitus</foreign> Aεαe, 2.32 et A V, 2.48 <foreign
+              xml:lang="lat">arida</foreign> Aα, 2.67 <foreign xml:lang="lat">fore</foreign> Aεαγe,
+            3.93 <foreign xml:lang="lat">perfer et ore tuo modulator</foreign> A¹ εγe, 3.98 <foreign
+              xml:lang="lat">redit</foreign> Aεγe, 4.51 <foreign xml:lang="lat">aliena</foreign>
+            Aεe, 4.75 <foreign xml:lang="lat">quae</foreign> Aεαe, 4.77 <foreign xml:lang="lat">per
+              me</foreign> Aεe, 4.94 <foreign xml:lang="lat">abis</foreign> Aεγe, 4.95 <foreign
+              xml:lang="lat">reclivus</foreign> Aεγe et <foreign xml:lang="lat">reclivis</foreign>
+            Aα, 4.101 <foreign xml:lang="lat">sonuerunt</foreign> Aεe, 5.31 <quote xml:lang="lat"
+              >ut</quote> Aεe, 5.58 <foreign xml:lang="lat">vel</foreign> Aεαγe, 5.100 <foreign
+              xml:lang="lat">tum</foreign> Aεγe, 5.102 <foreign xml:lang="lat">ast tibi</foreign> A
+            N G and <foreign xml:lang="lat">ast ubi</foreign> Aεαe, 6.35 <foreign xml:lang="lat"
+              >scit</foreign> Aεe, 6.38 <foreign xml:lang="lat">lucent</foreign> A V, 6.82 <foreign
+              xml:lang="lat">carmina</foreign> Aεαγe, 7.25 <foreign xml:lang="lat">clivos</foreign>
+            Aα, 7.43 <quote xml:lang="lat">tam</quote> Aεe, 7.77 <foreign xml:lang="lat"
+              >referens</foreign> Aεαe, 7.78 <foreign xml:lang="lat">quae sit modo</foreign> Aεαγe,
+            7.84 <foreign xml:lang="lat">putavi</foreign> Aεγe, Nemes. 1.31 <foreign xml:lang="lat"
+              >fagosve</foreign> Aεαγe, 1.32 <quote xml:lang="lat">suggerit</quote> εe, 1.78
+              <foreign xml:lang="lat">olivas</foreign> A V, 2.8 <foreign xml:lang="lat">iam
+              non</foreign> Aεγe, 2.15 <foreign xml:lang="lat">relevare</foreign> Aεe, 2.30 <foreign
+              xml:lang="lat">nulloque biberunt</foreign> Aεγe, 2.48 <foreign xml:lang="lat">tum
+              dulce rubens</foreign> Aεγe, 3.26 <foreign xml:lang="lat">vos etiam et</foreign> Aεe,
+              <foreign xml:lang="lat">nutristis</foreign> Aεαe, 3.33 <foreign xml:lang="lat"
+              >leve</foreign> Aεαe, 3.37 <foreign xml:lang="lat">lenes</foreign> Aγe, 3.51 <foreign
+              xml:lang="lat">cymbia</foreign> Aεγe, 3.63 <foreign xml:lang="lat">natus ab
+              ipso</foreign> Aεαγe, 4.69 <quote xml:lang="lat">artes</quote> Aεe. Add these, too:
+            Calp. 5.33 <foreign xml:lang="lat">capellis</foreign> Aνφθ, 7.18 <foreign xml:lang="lat"
+              >spectavimus</foreign> Aκχ. In light of these facts, it seems very close to the truth
+            that the Codex Germanicus derived from the same archetype as N and G, and that the
+            readings that agree with N and G should be attributed to that archetype, but that Angeli
+            copied the rest of the readings from interpolated manuscripts. This inference is
+            supported by the fact that Angeli discloses in the subscription to the Codex
+            Riccardianus that he used other manuscripts, too. This agrees with the fact that the
+            four later poems were attributed to Nemesianus in the Codex Germanicus, as attested by
+            Niccolò Angeli at the end of Calpurnius in the Codex Riccardianus and Angelo Ugoleto at
+            the end of the original from Parma. N and G divide the eleven eclogues between
+            Calpurnius and Nemesianus in the same way, but all of them are attributed to Calpurnius
+            alone in the manuscripts of the second family. Therefore the Codex Germanicus should
+            certainly be assigned to the first family. But could it not happen that the Codex
+            Germanicus underwent some interpolations? Indeed it could have happened, but since the
+            task of seeking out a semblance of the lost manuscript is a very risky venture, even
+            though the inference seems probable to me, I nevertheless prefer to report all of
+            Angeli’s readings without distinction under the symbol <ref target="#A">A</ref>. And I
+            feel so strongly about the authority of the Codex Germanicus that when it agrees with N
+            or G, it offers us another witness to the first family, and when it agrees with V, it
+            has the same force as a manuscript of the second family. For Angeli’s annotations hardly
+            ever differ from all of the manuscripts: Calp. 1.45 <foreign xml:lang="lat">in
+              ulnis</foreign>, 1.86 <foreign xml:lang="lat">tralati</foreign>, 2.3 <foreign
+              xml:lang="lat">nec</foreign>, 4.86 <foreign xml:lang="lat">in</foreign>, 5.65 <foreign
+              xml:lang="lat">tinniat ore</foreign>, 5.79 <foreign xml:lang="lat">et
+              vitrosa</foreign>, 5.104 <foreign xml:lang="lat">hic</foreign>, 7.59 <foreign
+              xml:lang="lat">manticoram</foreign>, Nemes. 1.70 <foreign xml:lang="lat"
+              >hinc</foreign>, 2.41 <foreign xml:lang="lat">horti</foreign>, 2.83 <foreign
+              xml:lang="lat">qui</foreign>. But sometimes the Codex Germanicus alone among all
             manuscripts preserves for us the true reading or traces of the true reading, as at Calp.
-            2.3 <quote xml:lang="la">nec et</quote>, 5.65 <quote xml:lang="la">tinniat ore</quote>.
-            Finally, in the same Codex Riccardianus there are certain corrections that cannot be
-            attributed to Angeli, but doubtlessly descend from some manuscript of the first family.
-            Perhaps some corrector copied those, too, from the Codex Germanicus.</p>
+            2.3 <foreign xml:lang="lat">nec et</foreign>, 5.65 <foreign xml:lang="lat">tinniat
+              ore</foreign>. Finally, in the same Codex Riccardianus there are certain corrections
+            that cannot be attributed to Angeli, but doubtlessly descend from some manuscript of the
+            first family. Perhaps some corrector copied those, too, from the Codex Germanicus.</p>
           <p xml:id="Boccaccio">Regarding Boccaccio’s manuscript, truly the things that can be said
             are few and uncertain. For although the Codex Harleianus, according to its subscription,
             was collated with the Codex Germanicus, Boccaccio’s manuscript, and many others, for the
@@ -2153,8 +2192,8 @@
             own hand must be assigned to the so-called first family. Everything else is highly
             uncertain. As for the authority of this manuscript, the same things that I said about
             the Codex Germanicus apply. Finally, I think we should not overlook that in one place
-            (Nemes. 4.70 <quote xml:lang="la">quo</quote> Boccaccio’s manuscript alone, out of all
-            of the manuscripts, displays the true reading.</p>
+            (Nemes. 4.70 <foreign xml:lang="lat">quo</foreign> Boccaccio’s manuscript alone, out of
+            all of the manuscripts, displays the true reading.</p>
           <div type="section" xml:id="Excerpta">
             <head>Excerpts: Exc. Par. and Exc. Bon.</head>
             <p>Now I must discuss the excerpts. Two manuscripts in Paris (referred to together as
@@ -2172,14 +2211,15 @@
                 /></bibl>), both of which contain excerpts from the poems of Latin poets, have also
               some verses selected from Calpurnius’ eclogues 2, 3, 4, 5, 6 and a few others from
               Nemesianus’ fourth eclogue, attributed there to Calpurnius. For in the Codex Thuaneus
-              at the beginning of the first excerpt the following is inscribed: <quote xml:lang="la"
-                >Calpurnius in bucolicis</quote>; in the Codex Nostradamensis: <quote xml:lang="la"
-                >Scalpurius in bucolicis</quote>. But in the latter, the corruption of the name
-              traces its origin to the initial letter of the first verse: <quote xml:lang="la">Satis
-                hoc</quote> (2.23). These are the fragments: Calp. 2.23 <quote xml:lang="la"
-                >satis</quote>-24, 3.10 <quote xml:lang="la">mobilior-femina</quote>, 4.14–15, 4.155
-                <quote xml:lang="la">vellit</quote>-156, 5.12–13, 46–48, 6.53–56, Nemes. 4.19 <quote
-                xml:lang="la">levant-curas</quote>, 4.21–24, 4.32, 4.38 <quote xml:lang="la"
+              at the beginning of the first excerpt the following is inscribed: <quote
+                xml:lang="lat">Calpurnius in bucolicis</quote>; in the Codex Nostradamensis: <quote
+                xml:lang="lat">Scalpurius in bucolicis</quote>. But in the latter, the corruption of
+              the name traces its origin to the initial letter of the first verse: <foreign
+                xml:lang="lat">Satis hoc</foreign> (2.23). These are the fragments: Calp. 2.23
+                <quote xml:lang="lat">satis</quote>-24, 3.10 <quote xml:lang="lat"
+                >mobilior-femina</quote>, 4.14–15, 4.155 <foreign xml:lang="lat"
+              >vellit</foreign>-156, 5.12–13, 46–48, 6.53–56, Nemes. 4.19 <quote xml:lang="lat"
+                >levant-curas</quote>, 4.21–24, 4.32, 4.38 <quote xml:lang="lat"
                 >vocat-umbram</quote>. Nearly the same verses are found in a certain codex in Berlin
               (ms. Diez. B. Santen. 60 fol. 29ʳ): cfr. <ref target="#Haupt">M. Haupt</ref> (l. l. p.
               13) and <ref target="#Manitius">M. Manitius</ref> (l. l.). Codex Bononiensis 83 (52,
@@ -2194,45 +2234,46 @@
               1909, I was the first to collate the excerpta Bononiensia.</p>
             <p xml:id="ExcerptaTrans">Now let us discuss the worth of the excerpts. Certainly the
               excerpta Bononiensia were copied from some manuscript of the second family. Compare
-              these passages: Nemes. 4.21 <quote xml:lang="la">eris–flores</quote> V Exc. Bon.,
-                <quote xml:lang="la">(h)erit florem</quote> N G, 4.24 <quote xml:lang="la"
-                >tibi</quote> Exc. Bon., <quote xml:lang="la">quod</quote> N G, 4.28 <quote
-                xml:lang="la">volucres et</quote> V Exc. Bon., <quote xml:lang="la">volucru
-                et</quote> N, <quote xml:lang="la">volucrum tum</quote> G, 4.30 <quote xml:lang="la"
-                >perdis</quote> V Exc. Bon., <quote xml:lang="la">prodis</quote> N G, 4.58 <quote
-                xml:lang="la">animos</quote> V Exc. Bon., <quote xml:lang="la">annos</quote> N G.
-              But the books in Paris have a better reputation by far. In the following places N G
-              Exc. Par. offer a good reading, but V offers a bad one: Calp 4.14 <quote xml:lang="la"
-                >nunc</quote> N G Exc. Par., <quote xml:lang="la">dum</quote> V, 4.155 <quote
-                xml:lang="la">contingat</quote> N G Exc. Par., <quote xml:lang="la"
-                >contigerit</quote> V, 4.156 <quote xml:lang="la">dicit</quote> N G Exc. Par.,
-                <quote xml:lang="la">dixit</quote> V, Nemes. 4.24 <quote xml:lang="la">quod</quote>
-              N G Exc. Par., <quote xml:lang="la">tibi</quote> V. Add these, too: Nemes. 4.24 <quote
-                xml:lang="la">commodet</quote> G Exc. Par., <quote xml:lang="la">comodet</quote> N,
-                <quote xml:lang="la">commodat</quote> V. But in two places V Exc. Par. preserve an
-              attested reading that N G have corrupted: Calp. 2.23 <quote xml:lang="la">hoc</quote>
-              V Exc. Par., <quote xml:lang="la">hic</quote> N G, Nemes. 4.21 <quote xml:lang="la"
-                >eris-flores</quote> V Exc. Par., <quote xml:lang="la">(h)erit-florem</quote> N G.
-              Moreover, in only one place have the excerpta Parisina admitted the interpolations of
-              the inferior manuscripts: Calp. 5.12 <quote xml:lang="la">iamdudum</quote> pler. V
-              Exc. Par., <quote xml:lang="la">aetas iam</quote> N G. At Calp. 6.55 N and G and the
-              excerpts are different. Finally, they present some readings unique to them: Calp. 4.15
-                <quote xml:lang="la">valeate</quote> Par. pr., 155 <quote xml:lang="la"
-                >michi</quote>, 5.45 <quote xml:lang="la">erit; dubitanda</quote> Par. post. 5.48
-                <quote xml:lang="la">tonsoribus</quote> Par. pr., 6.54 <quote xml:lang="la"
-                >torvata</quote> Par. pr. We have already said that all of the manuscripts that we
-              have today must be traced back by various paths to the same archetype, as their many
-              errors in common indicate, especially the lacuna and the confusion of verses in the
-              amoebaean song in Calpurnius’ fourth eclogue. But that the excerpts about which we
-              speak cannot trace their origin further is supported by a single, but very strong
-              argument (cf. <bibl><author>H. Schenkl</author>, <title level="j">Wiener
-                  Studien</title>
+              these passages: Nemes. 4.21 <quote xml:lang="lat">eris–flores</quote> V Exc. Bon.,
+                <quote xml:lang="lat">(h)erit florem</quote> N G, 4.24 <quote xml:lang="lat"
+                >tibi</quote> Exc. Bon., <foreign xml:lang="lat">quod</foreign> N G, 4.28 <quote
+                xml:lang="lat">volucres et</quote> V Exc. Bon., <foreign xml:lang="lat">volucru
+                et</foreign> N, <foreign xml:lang="lat">volucrum tum</foreign> G, 4.30 <quote
+                xml:lang="lat">perdis</quote> V Exc. Bon., <foreign xml:lang="lat">prodis</foreign>
+              N G, 4.58 <quote xml:lang="lat">animos</quote> V Exc. Bon., <foreign xml:lang="lat"
+                >annos</foreign> N G. But the books in Paris have a better reputation by far. In the
+              following places N G Exc. Par. offer a good reading, but V offers a bad one: Calp 4.14
+                <quote xml:lang="lat">nunc</quote> N G Exc. Par., <foreign xml:lang="lat"
+                >dum</foreign> V, 4.155 <quote xml:lang="lat">contingat</quote> N G Exc. Par.,
+                <quote xml:lang="lat">contigerit</quote> V, 4.156 <foreign xml:lang="lat"
+                >dicit</foreign> N G Exc. Par., <foreign xml:lang="lat">dixit</foreign> V, Nemes.
+              4.24 <foreign xml:lang="lat">quod</foreign> N G Exc. Par., <foreign xml:lang="lat"
+                >tibi</foreign> V. Add these, too: Nemes. 4.24 <quote xml:lang="lat"
+                >commodet</quote> G Exc. Par., <foreign xml:lang="lat">comodet</foreign> N, <foreign
+                xml:lang="lat">commodat</foreign> V. But in two places V Exc. Par. preserve an
+              attested reading that N G have corrupted: Calp. 2.23 <foreign xml:lang="lat"
+                >hoc</foreign> V Exc. Par., <foreign xml:lang="lat">hic</foreign> N G, Nemes. 4.21
+                <quote xml:lang="lat">eris-flores</quote> V Exc. Par., <quote xml:lang="lat"
+                >(h)erit-florem</quote> N G. Moreover, in only one place have the excerpta Parisina
+              admitted the interpolations of the inferior manuscripts: Calp. 5.12 <foreign
+                xml:lang="lat">iamdudum</foreign> pler. V Exc. Par., <foreign xml:lang="lat">aetas
+                iam</foreign> N G. At Calp. 6.55 N and G and the excerpts are different. Finally,
+              they present some readings unique to them: Calp. 4.15 <foreign xml:lang="lat"
+                >valeate</foreign> Par. pr., 155 <quote xml:lang="lat">michi</quote>, 5.45 <quote
+                xml:lang="lat">erit; dubitanda</quote> Par. post. 5.48 <foreign xml:lang="lat"
+                >tonsoribus</foreign> Par. pr., 6.54 <quote xml:lang="lat">torvata</quote> Par. pr.
+              We have already said that all of the manuscripts that we have today must be traced
+              back by various paths to the same archetype, as their many errors in common indicate,
+              especially the lacuna and the confusion of verses in the amoebaean song in Calpurnius’
+              fourth eclogue. But that the excerpts about which we speak cannot trace their origin
+              further is supported by a single, but very strong argument (cf. <bibl><author>H.
+                  Schenkl</author>, <title level="j">Wiener Studien</title>
                 <biblScope unit="volume">VI</biblScope>
                 <biblScope unit="page">p. 84</biblScope>
                 <ptr target="http://hdl.handle.net/2027/njp.32101015024290?urlappend=%3Bseq=430"
                 /></bibl>). For at Calp. 4.156, where Heinsius quite successfully restored <quote
-                xml:lang="la">ovilia</quote>, all of the manuscripts and the excerpts have <quote
-                xml:lang="la">vilia</quote></p>
+                xml:lang="lat">ovilia</quote>, all of the manuscripts and the excerpts have <quote
+                xml:lang="lat">vilia</quote></p>
             <p>Before I end this preface, I want to offer my thanks to those who deserve it from me.
               H. Cocchia, A. E. Housman, F. Leo, F. Ramorino, G. C. Summers, most learned and humane
               men to whom I owe my greatest thanks, kindly pointed out many things while I was
@@ -2274,11 +2315,11 @@
                         <bibl><title>Bucolica</title></bibl> of Calpurnius and Nemesianus.</p>
                   <p>The individual poems lack titles, but they are separated from each other by
                     brief spaces. The following subscription appears at the end of the whole work:
-                      <quote xml:lang="la">Aureliani Nemesiani Cartag&#773; bucol&#8217; explicit:
+                      <quote xml:lang="lat">Aureliani Nemesiani Cartag&#773; bucol&#8217; explicit:
                       Deo gratias amen</quote>. Finally, another more recent hand, as <ref
                       target="#Bursian">Bursian</ref> and <ref target="#Schenkl">Schenkl</ref>
-                    recognized, wrote <quote xml:lang="la">Calpurnii eclogae</quote> and <quote
-                      xml:lang="la">Nemesiani eclogae</quote>. The remaining leaves are blank.</p>
+                    recognized, wrote <foreign xml:lang="lat">Calpurnii eclogae</foreign> and <quote
+                      xml:lang="lat">Nemesiani eclogae</quote>. The remaining leaves are blank.</p>
                 </msContents>
                 <physDesc>
                   <objectDesc>
@@ -2304,11 +2345,11 @@
                   <provenance>
                     <p>We know nothing about the origin and provenance of this manuscript except
                       what is understood from the following passages written on the last leaf:
-                        <quote xml:lang="la">Joannes Antonius Perillus patric. neap. ac iuvenis
+                        <quote xml:lang="lat">Joannes Antonius Perillus patric. neap. ac iuvenis
                         apprime litteratus Jacobum Perillum hoc libro donavit MDCVII, Klis
                         Juniis</quote> (“Joannes Antonius Perillus, a nobleman of Naples and most
                       learned gentleman, gave this book to Jacob Perillus in 1667 on the first of
-                      June”), and a little below, <quote xml:lang="la">Antonii Seripandi ex Jacobi
+                      June”), and a little below, <quote xml:lang="lat">Antonii Seripandi ex Jacobi
                         Perilli amici opt. munere</quote> (“This book belongs to Antonius
                       Seripandus, received as a gift from his best friend Jacob Perillus”). Later it
                       was brought to the library of San Giovanni a Carbonara, and from there it came
@@ -2335,24 +2376,24 @@
                     Calpurnius and Nemesianus (ff. 55–74). A very brief, unattributed eclogue
                     follows with the interlocutors Daphnis, Tityrus, Mopsus, and Meliboeus.</p>
                   <p>The following inscription has been added to the eclogues of Calpurnius: <quote
-                      xml:lang="la">Egloge Calfurnii ad nemesianum cartaginiensem.</quote>
+                      xml:lang="lat">Egloge Calfurnii ad nemesianum cartaginiensem.</quote>
                       (<quote>The Eclogues of Calfurnius to Nemesianus of Carthage</quote>).
                     Nemesianus follows Calpurnius with the following title prefixed: <quote
-                      xml:lang="la">Aureliani nemesiani cartaginiensis egloghe incipiunt</quote>
+                      xml:lang="lat">Aureliani nemesiani cartaginiensis egloghe incipiunt</quote>
                       (<quote>Here begin the eclogues of Aurelianus Nemesianus of Carthage</quote>).
                     At the end of each eclogue there appears an <hi rend="italic">explicit</hi> with
                     the number of each eclogue, but Calpurnius’ sixth eclogue lacks a subscription,
-                    and the following is written at the end of the seventh: <quote xml:lang="la"
+                    and the following is written at the end of the seventh: <quote xml:lang="lat"
                       >explicit sexta egloga Calphurnii</quote> (<quote>Here ends the sixth eclogue
                       of Calphurnius</quote>). This is explained by the fact that the seventh
                     eclogue follows the sixth without any break, with the result that only six
                     eclogues are attributed to Calpurnius in this manuscript. But in the margin,
                     where the sixth eclogue ought to end, the copyist has added the following:
-                      <quote xml:lang="la">aliqui volunt dicere quod ista sit alia et diversa egloga
-                      ubi incipit “lentus," aliqui dicunt quod est una etc.</quote> (<quote>Some
-                      wish to say that the eclogue that begins <hi rend="italic">lentus</hi> is a
-                      completely different eclogue; others say that it is the same,
-                    etc.</quote>).</p>
+                      <quote xml:lang="lat">aliqui volunt dicere quod ista sit alia et diversa
+                      egloga ubi incipit “lentus," aliqui dicunt quod est una etc.</quote>
+                      (<quote>Some wish to say that the eclogue that begins <hi rend="italic"
+                        >lentus</hi> is a completely different eclogue; others say that it is the
+                      same, etc.</quote>).</p>
                 </msContents>
                 <physDesc>
                   <objectDesc>
@@ -2438,7 +2479,7 @@
                             <bibl><title>De cantu avium et sono quadrupedum</title> (ff.
                           32–33)</bibl>, the <bibl><title>Bucolica</title></bibl> of Calpurnius and
                         Nemesianus attributed to Calpurnius alone (ff. 35–61). Folios 31 and 34 are
-                        blank. At the end I read the following subscription: <quote xml:lang="la"
+                        blank. At the end I read the following subscription: <quote xml:lang="lat"
                           >die 4 augusti 1463 ego petrus feliciter peregi</quote> (<quote>On August
                           4, 1463, I, Peter, finished this</quote>; cf. <bibl xml:id="Sabbadini"
                             ><author>R. Sabbadini</author>, <title>Le scoperte dei codici latini e
@@ -2543,7 +2584,7 @@
                     <msContents>
                       <p>Contains the eleven eclogues of Calpurnius (ff. 140–161), along with the
                         poems of Vergil, Statius, Caudian, Maximian and other ancient poets. At the
-                        end it is inscribed as follows: <quote xml:lang="la">Georgii Ant. Vespuccii
+                        end it is inscribed as follows: <quote xml:lang="lat">Georgii Ant. Vespuccii
                           liber</quote> (<quote>This book belongs to Giorgio Antonio
                           Vespucci</quote>).</p>
                     </msContents>
@@ -2581,12 +2622,12 @@
                       <p>The eleven eclogues of Calpurnius are contained on leaves 95ʳ–113ᵛ of this
                         manuscript, along with many poems by various authors that it is not
                         necessary to report here. The following subscription appears at the end of
-                        this work: <quote xml:lang="la">Federicus De Veteranis Urbinas sub divo
+                        this work: <quote xml:lang="lat">Federicus De Veteranis Urbinas sub divo
                           Federico Urbinat, duce invictiss. romanae ecclesi. dictat.
                           transcripsit</quote> (<quote>Federico Veterano of Urbino, in service to
                           Federico di Montefeltro, Duke of Urbino, Commander of the most indomitable
                           Roman Church, copied this manuscript</quote>). And a little below that:
-                          <quote xml:lang="la">quo principe decedente utinam et ego de medio tunc
+                          <quote xml:lang="lat">quo principe decedente utinam et ego de medio tunc
                           sublatus quiescerem ab instanti temporum calamitate.</quote> (<quote>When
                           that prince dies, may I, too, be taken from your midst and find rest from
                           the approaching times of disaster</quote>).</p>
@@ -2809,7 +2850,7 @@
                       <p>It contains Tibullus (ff. 1–28ʳ), Catullus (ff. 28ᵛ–60ʳ), Calpurnius’
                         eleven eclogues (ff. 60ʳ–74ᵛ), Propertius (ff. 74ᵛ–129). The following is
                         written at the end of the work (cfr. <ref target="#Sabbadini"
-                          >Sabbadini</ref>): <quote xml:lang="la">a M’ petro montopolitano die XXI
+                          >Sabbadini</ref>): <quote xml:lang="lat">a M’ petro montopolitano die XXI
                           februarii 1460</quote> (<quote>By the hand of master Petrus Montopolitanus
                           on February 21, 1460</quote>). That is followed by two hexameters written
                         on the death of Giannozzo Manetti.</p>
@@ -2921,7 +2962,7 @@
                             <bibl><title>Georgics</title></bibl>, and
                           <bibl><title>Aeneid</title></bibl>, it has the seven eclogues of
                         Calpurnius. After an empty space on the last part of the page, the copyist
-                        has written the following subscription: <quote xml:lang="la">Finis: haec
+                        has written the following subscription: <quote xml:lang="lat">Finis: haec
                           quae de Calphurnio inveniuntur</quote> (<quote>The end. These are the
                           poems that were composed by Calpurnius</quote>).</p>
                     </msContents>
@@ -2990,9 +3031,9 @@
                     century, according to Kelius, end of the 12th century, according to Froehnerus,
                     the end of the second book of the <bibl><title>De Divinatione</title> by
                         <author>Cicero</author></bibl>. On the verso of leaf 17: <quote
-                      xml:lang="la">Marci Tullii de divinacione liber IIᵘˢ explicit. Petronii
+                      xml:lang="lat">Marci Tullii de divinacione liber IIᵘˢ explicit. Petronii
                       arbitri satirarum liber incipit</quote>. On the recto of leaf 25: <quote
-                      xml:lang="la">explicit Petronius. incipit egologa Calpurnii (nondum solis
+                      xml:lang="lat">explicit Petronius. incipit egologa Calpurnii (nondum solis
                       equos I 1—quicquid id est silvestre etc. IIII 12)</quote>. III. 12th century.
                     Seneca’s proverbs.</p>
                 </msContents>
