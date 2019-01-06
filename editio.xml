@@ -3293,7 +3293,7 @@
                 target="https://books.google.com/books?id=CjUOAAAAYAAJ&amp;pg=PA1#v=onepage&amp;q&amp;f=false"
               /></bibl>
             <listBibl xml:id="Schenkl">
-              <head>utriusque edition. Schenkl. consensus</head>
+              <head><abbr type="siglum">Schenkl</abbr> = utriusque edition. Schenkl. consensus</head>
               <bibl xml:id="Schenkl1"><abbr type="siglum">Schenkl<hi rend="super">1</hi></abbr> =
                   <editor>Schenkl, Henricus</editor>. <title>Calpurnii et Nemesiani
                 Bucolica</title>. <pubPlace>Lipsiae</pubPlace>: sumptus fecit G. Freytag,
