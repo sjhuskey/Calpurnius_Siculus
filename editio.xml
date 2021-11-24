@@ -56,58 +56,6 @@
                         <date>1910</date></bibl>
             </sourceDesc>
         </fileDesc>
-        <encodingDesc>
-            <classDecl>
-                <taxonomy>
-                    <category xml:id="function">
-                        <catDesc>Defines a function for a structural unit, such as .</catDesc>
-                    </category>
-                </taxonomy>
-            </classDecl>
-            <listPrefixDef>
-                <prefixDef ident="dc" matchPattern="([a-zA-Z]+)"
-                    replacementPattern="http://purl.org/dc/terms/$1"/>
-            </listPrefixDef>
-            <!-- Problem #1: the thing you want to use to generate a citation isn't necessarily the thing you want to use to resolve it in every context -->
-            <refsDecl>
-                <citeStructure match="//front/div[@type='introduction']" use="'Introduction'">
-                    <citeData property="dc:identifier" use="@xml:id"/>
-                    <citeData property="#function" use="'toc-entry'"/>
-                    <citeStructure match="./div[@type='section']" use="head" delim=", "
-                        unit="section">
-                        <citeData property="dc:title" use="head"/>
-                        <citeData property="dc:identifier" use="@xml:id"/>
-                        <citeData property="#function" use="'toc-entry'"/>
-                        <citeData property="#function" use="'chunk'"/>
-                        <citeData property="dc:requires" use="//front/div[@type='bibliography']"/>
-                    </citeStructure>
-                </citeStructure>
-                <citeStructure match="//front/div[@type='bibliography']" use="head">
-                    <citeData property="dc:identifier" use="@xml:id"/>
-                    <citeData property="#function" use="'toc-entry'"/>
-                    <citeStructure match="./div[@type='bibliography']" use="head" delim=", "
-                        unit="section">
-                        <citeData property="dc:title" use="head"/>
-                        <citeData property="dc:identifier" use="@xml:id"/>
-                        <citeData property="#function" use="'toc-entry'"/>
-                        <citeData property="#function" use="'chunk'"/>
-                    </citeStructure>
-                </citeStructure>
-                <citeStructure match="//body/div[@type='edition']" use="head">
-                    <citeData property="dc:identifier" use="@xml:id"/>
-                    <citeData property="#function" use="'toc-entry'"/>
-                    <citeStructure match="./div[@type='textpart']" use="@n" delim=" " unit="poem">
-                        <citeData property="dc:title" use="head"/>
-                        <citeData property="dc:identifier" use="@xml:id"/>
-                        <citeData property="#function" use="'toc-entry'"/>
-                        <citeData property="#function" use="'chunk'"/>
-                        <citeData property="dc:requires" use="//front/div[@type='bibliography']"/>
-                        <citeStructure match=".//l[parent::div or parent::lem]" use="@n" delim="."
-                            unit="line"/>
-                    </citeStructure>
-                </citeStructure>
-            </refsDecl>
-        </encodingDesc>
         <revisionDesc>
             <listChange>
                 <change n="1" who="#sjh" when="2021-11-18">
