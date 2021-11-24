@@ -520,14 +520,14 @@
                         to demonstrate this, but, to begin with passages successfully restored,
                         consider these readings with me, dear reader:</p>
 
-                    <table>
+                    <table rows="18" cols="3">
                         <head>Comparison of N¹ and G with N² and V</head>
-                        <row role="label">
+                        <row n="1" role="label">
                             <cell n="1">Line</cell>
                             <cell n="2">N¹ and G</cell>
                             <cell n="3">N²V</cell>
                         </row>
-                        <row>
+                        <row n="2">
                             <cell n="1">1.20</cell>
                             <cell n="2"><foreign xml:lang="la">depicta</foreign> N (ex <quote
                                     xml:lang="la">dipicta</quote>) G</cell>
@@ -535,7 +535,7 @@
                                 <foreign xml:lang="la">descripta</foreign>
                             </cell>
                         </row>
-                        <row>
+                        <row n="3">
                             <cell n="1">1.25</cell>
                             <cell n="2">
                                 <foreign xml:lang="la">codice</foreign>
@@ -544,12 +544,12 @@
                                 <foreign xml:lang="la">cortice</foreign>
                             </cell>
                         </row>
-                        <row>
+                        <row n="4">
                             <cell n="1">1.42</cell>
                             <cell n="2">omitted</cell>
                             <cell n="3">added</cell>
                         </row>
-                        <row>
+                        <row n="5">
                             <cell n="1">1.55</cell>
                             <cell n="2">
                                 <foreign xml:lang="la">profuso</foreign>
@@ -557,7 +557,7 @@
                             <cell n="3"><foreign xml:lang="la">professo</foreign> (and many other
                                 mss.)</cell>
                         </row>
-                        <row>
+                        <row n="6">
                             <cell n="1">1.87</cell>
                             <cell n="2">
                                 <foreign xml:lang="la">a</foreign>
@@ -565,7 +565,7 @@
                             <cell n="3"><foreign xml:lang="la">ex</foreign> (and many other
                                 mss.)</cell>
                         </row>
-                        <row>
+                        <row n="7">
                             <cell n="1">3.26</cell>
                             <cell n="2">
                                 <foreign xml:lang="la">ibi</foreign>
@@ -574,26 +574,26 @@
                                 <foreign xml:lang="la">sibi</foreign>
                             </cell>
                         </row>
-                        <row>
+                        <row n="8">
                             <cell n="1">4.12</cell>
                             <cell n="2"><quote xml:lang="la">C.</quote> omitted</cell>
                             <cell n="3"><quote xml:lang="la">C.</quote> added</cell>
                         </row>
-                        <row>
+                        <row n="9">
                             <cell n="1">4.46</cell>
                             <cell n="2">
                                 <foreign xml:lang="la">quicquam</foreign>
                             </cell>
                             <cell n="3">quisquam</cell>
                         </row>
-                        <row>
+                        <row n="10">
                             <cell n="1">4.82</cell>
                             <cell n="2">
                                 <foreign xml:lang="la">canat</foreign>
                             </cell>
                             <cell n="3">canit</cell>
                         </row>
-                        <row>
+                        <row n="11">
                             <cell n="1">4.124</cell>
                             <cell n="2">
                                 <foreign xml:lang="la">raptas</foreign>
@@ -602,7 +602,7 @@
                                 <foreign xml:lang="la">ruptas</foreign>
                             </cell>
                         </row>
-                        <row>
+                        <row n="12">
                             <cell n="1">4.145</cell>
                             <cell n="2">
                                 <foreign xml:lang="la">nos</foreign>
@@ -611,12 +611,12 @@
                                 <foreign xml:lang="la">hos</foreign>
                             </cell>
                         </row>
-                        <row>
+                        <row n="13">
                             <cell n="1">5.7</cell>
                             <cell n="2">entire line placed before line 6</cell>
                             <cell n="3">corrected</cell>
                         </row>
-                        <row>
+                        <row n="14">
                             <cell n="1">5.28</cell>
                             <cell n="2">
                                 <foreign xml:lang="la">vivat</foreign>
@@ -625,7 +625,7 @@
                                 <foreign xml:lang="la">vivit</foreign>
                             </cell>
                         </row>
-                        <row>
+                        <row n="15">
                             <cell n="1">5.45</cell>
                             <cell n="2">
                                 <foreign xml:lang="la">peragunt</foreign>
@@ -634,7 +634,7 @@
                                 <foreign xml:lang="la">peragit</foreign>
                             </cell>
                         </row>
-                        <row>
+                        <row n="16">
                             <cell n="1">7.48</cell>
                             <cell n="2">
                                 <foreign xml:lang="la">tibi</foreign>
@@ -643,7 +643,7 @@
                                 <foreign xml:lang="la">ubi</foreign>
                             </cell>
                         </row>
-                        <row>
+                        <row n="17">
                             <cell n="1">Nemes. 2.50</cell>
                             <cell n="2">
                                 <foreign xml:lang="la">cum</foreign>
@@ -652,7 +652,7 @@
                                 <foreign xml:lang="la">dum</foreign>
                             </cell>
                         </row>
-                        <row>
+                        <row n="18">
                             <cell n="1">3.6</cell>
                             <cell n="2"><foreign xml:lang="la">h</foreign> N, om. G</cell>
                             <cell n="3">
@@ -1342,14 +1342,14 @@
                     curious things that are unique to this manuscript, so that you will be all the
                     more amazed at the copyist’s carelessness and ignorance:</p>
 
-                <table rows="63" cols="3">
+                <table rows="64" cols="3">
                     <head>Curious Readings in P</head>
-                    <row role="label">
+                    <row n="1" role="label">
                         <cell n="1">Line</cell>
-                        <cell>Readings in N G V</cell>
-                        <cell>Reading in P</cell>
+                        <cell n="2">Readings in N G V</cell>
+                        <cell n="3">Reading in P</cell>
                     </row>
-                    <row>
+                    <row n="2">
                         <cell n="1">1.1</cell>
                         <cell n="2"><foreign xml:lang="la">declinis</foreign> N, <quote
                                 xml:lang="la">declivis</quote> G V</cell>
@@ -1357,57 +1357,57 @@
                             <foreign xml:lang="la">declivus</foreign>
                         </cell>
                     </row>
-                    <row>
+                    <row n="3">
                         <cell n="1">1.2</cell>
                         <cell n="2"><foreign xml:lang="la">praela</foreign> N G V</cell>
                         <cell n="3">
                             <foreign xml:lang="la">praeda</foreign>
                         </cell>
                     </row>
-                    <row>
+                    <row n="4">
                         <cell n="1">1.3</cell>
                         <cell n="2"><foreign xml:lang="la">musta</foreign> N G V</cell>
                         <cell n="3">
                             <foreign xml:lang="la">iniusta</foreign>
                         </cell>
                     </row>
-                    <row>
+                    <row n="5">
                         <cell n="1">1.13</cell>
                         <cell n="2"><foreign xml:lang="la">vocas</foreign> N G V</cell>
                         <cell n="3">
                             <foreign xml:lang="la">vacas</foreign>
                         </cell>
                     </row>
-                    <row>
+                    <row n="6">
                         <cell n="1">1.15</cell>
                         <cell n="2"><foreign xml:lang="la">pervia</foreign> N G V</cell>
                         <cell n="3">
                             <foreign xml:lang="la">previa</foreign>
                         </cell>
                     </row>
-                    <row>
+                    <row n="7">
                         <cell n="1">1.18</cell>
                         <cell n="2"><foreign xml:lang="la">matura</foreign> N G V</cell>
                         <cell n="3"><foreign xml:lang="la">matura</foreign> N G V</cell>
                     </row>
-                    <row>
+                    <row n="8">
                         <cell n="1">1.19</cell>
                         <cell n="2"><foreign xml:lang="la">pariter</foreign> N G V</cell>
                         <cell n="3">om.</cell>
                     </row>
-                    <row>
+                    <row n="9">
                         <cell n="1">1.25</cell>
                         <cell n="2"><foreign xml:lang="la">citius</foreign> N G V</cell>
                         <cell n="3">
                             <foreign xml:lang="la">sycios</foreign>
                         </cell>
                     </row>
-                    <row>
+                    <row n="10">
                         <cell n="1">1.38</cell>
                         <cell n="2"><foreign xml:lang="la">pecus</foreign> N G V</cell>
                         <cell n="3">om.</cell>
                     </row>
-                    <row>
+                    <row n="11">
                         <cell n="1">1.52</cell>
                         <cell n="2"><foreign xml:lang="la">subigentur</foreign> N G, <quote
                                 xml:lang="la">subigentur</quote> vel <foreign xml:lang="la"
@@ -1416,7 +1416,7 @@
                             <foreign xml:lang="la">subiguntur</foreign>
                         </cell>
                     </row>
-                    <row>
+                    <row n="12">
                         <cell n="1">1.53</cell>
                         <cell n="2"><foreign xml:lang="la">inmergentque</foreign> G, <quote
                                 xml:lang="la">immergentque</quote> N V</cell>
@@ -1424,21 +1424,21 @@
                             <foreign xml:lang="la">imverguntque</foreign>
                         </cell>
                     </row>
-                    <row>
+                    <row n="13">
                         <cell n="1">1.75</cell>
                         <cell n="2"><foreign xml:lang="la">erectumque</foreign> N G V</cell>
                         <cell n="3">
                             <foreign xml:lang="la">ereptumque</foreign>
                         </cell>
                     </row>
-                    <row>
+                    <row n="14">
                         <cell n="1">1.79</cell>
                         <cell n="2"><foreign xml:lang="la">sidus</foreign> N G V</cell>
                         <cell n="3">
                             <foreign xml:lang="la">plenus</foreign>
                         </cell>
                     </row>
-                    <row>
+                    <row n="15">
                         <cell n="1">1.85</cell>
                         <cell n="2"><foreign xml:lang="la">excipiet</foreign> N V, <quote
                                 xml:lang="la">accipiet</quote> G</cell>
@@ -1446,7 +1446,7 @@
                             <foreign xml:lang="la">excipient</foreign>
                         </cell>
                     </row>
-                    <row>
+                    <row n="16">
                         <cell n="1">1.89</cell>
                         <cell n="2"><foreign xml:lang="la">velut</foreign> N V, <quote xml:lang="la"
                                 >velud</quote> G</cell>
@@ -1454,7 +1454,7 @@
                             <foreign xml:lang="la">velit</foreign>
                         </cell>
                     </row>
-                    <row>
+                    <row n="17">
                         <cell n="1">1.94</cell>
                         <cell n="2"><foreign xml:lang="la">aures</foreign> or <quote xml:lang="la"
                                 >auris</quote> N G V</cell>
@@ -1462,7 +1462,7 @@
                             <foreign xml:lang="la">auras</foreign>
                         </cell>
                     </row>
-                    <row>
+                    <row n="18">
                         <cell n="1">2.4</cell>
                         <cell n="2"><foreign xml:lang="la">hy cum terras</foreign> N G, <quote
                                 xml:lang="la">terras hi</quote> or <foreign xml:lang="la">ii
@@ -1470,28 +1470,28 @@
                         <cell n="3"><quote xml:lang="la">hīc</quote> (om. <foreign xml:lang="la">cum
                                 terras</foreign>)</cell>
                     </row>
-                    <row>
+                    <row n="19">
                         <cell n="1">2.21</cell>
                         <cell n="2"><foreign xml:lang="la">iamque</foreign> N G V</cell>
                         <cell n="3">
                             <foreign xml:lang="la">iam</foreign>
                         </cell>
                     </row>
-                    <row>
+                    <row n="20">
                         <cell n="1">2.21</cell>
                         <cell n="2"><foreign xml:lang="la">medius</foreign> N G V</cell>
                         <cell n="3">
                             <foreign xml:lang="la">meolus</foreign>
                         </cell>
                     </row>
-                    <row>
+                    <row n="21">
                         <cell n="1">2.22</cell>
                         <cell n="2"><foreign xml:lang="la">iudice pignora</foreign> N G V</cell>
                         <cell n="3">
                             <foreign xml:lang="la">indice pignor</foreign>
                         </cell>
                     </row>
-                    <row>
+                    <row n="22">
                         <cell n="1">2.23</cell>
                         <cell n="2"><quote xml:lang="la">hīc</quote> N G, <quote xml:lang="la"
                                 >hoc</quote> V</cell>
@@ -1499,14 +1499,14 @@
                             <foreign xml:lang="la">hac</foreign>
                         </cell>
                     </row>
-                    <row>
+                    <row n="23">
                         <cell n="1">2.24</cell>
                         <cell n="2"><foreign xml:lang="la">victus</foreign> N G V</cell>
                         <cell n="3">
                             <foreign xml:lang="la">victor</foreign>
                         </cell>
                     </row>
-                    <row>
+                    <row n="24">
                         <cell n="1">2.29</cell>
                         <cell n="2"><foreign xml:lang="la">teda</foreign> or <quote xml:lang="la"
                                 >taeda</quote> N G V</cell>
@@ -1514,28 +1514,28 @@
                             <foreign xml:lang="la">deda</foreign>
                         </cell>
                     </row>
-                    <row>
+                    <row n="25">
                         <cell n="1">2.30</cell>
                         <cell n="2"><foreign xml:lang="la">etiam</foreign> N G V</cell>
                         <cell n="3">
                             <quote xml:lang="la">cerā</quote>
                         </cell>
                     </row>
-                    <row>
+                    <row n="26">
                         <cell n="1">2.33</cell>
                         <cell n="2"><foreign xml:lang="la">arbore</foreign> N G V</cell>
                         <cell n="3">
                             <foreign xml:lang="la">ardore</foreign>
                         </cell>
                     </row>
-                    <row>
+                    <row n="27">
                         <cell n="1">2.40</cell>
                         <cell n="2"><foreign xml:lang="la">mutabilis</foreign> N G V</cell>
                         <cell n="3">
                             <foreign xml:lang="la">mirabilis</foreign>
                         </cell>
                     </row>
-                    <row>
+                    <row n="28">
                         <cell n="1">2.47</cell>
                         <cell n="2"><foreign xml:lang="la">fetura</foreign> or <quote xml:lang="la"
                                 >foetura</quote> N G V</cell>
@@ -1543,7 +1543,7 @@
                             <foreign xml:lang="la">factura</foreign>
                         </cell>
                     </row>
-                    <row>
+                    <row n="29">
                         <cell n="1">2.52</cell>
                         <cell n="2"><foreign xml:lang="la">crocalem</foreign> or <quote
                                 xml:lang="la">crotalem</quote> or something similar N G V</cell>
@@ -1551,19 +1551,19 @@
                             <quote xml:lang="la">talē</quote>
                         </cell>
                     </row>
-                    <row>
+                    <row n="30">
                         <cell n="1">2.53</cell>
                         <cell n="2"><foreign xml:lang="la">ego</foreign> N G V</cell>
                         <cell n="3">om.</cell>
                     </row>
-                    <row>
+                    <row n="31">
                         <cell n="1">2.57</cell>
                         <cell n="2"><foreign xml:lang="la">audiat</foreign> N G V</cell>
                         <cell n="3">
                             <foreign xml:lang="la">audeat</foreign>
                         </cell>
                     </row>
-                    <row>
+                    <row n="32">
                         <cell n="1">2.73</cell>
                         <cell n="2"><foreign xml:lang="la">tenues citius</foreign> G, <quote
                                 xml:lang="la">cicius tenues</quote> N, <foreign xml:lang="la">citius
@@ -1572,21 +1572,21 @@
                             <foreign xml:lang="la">tenues cuius</foreign>
                         </cell>
                     </row>
-                    <row>
+                    <row n="33">
                         <cell n="1">2.73</cell>
                         <cell n="2"><foreign xml:lang="la">numerabit</foreign> N G V</cell>
                         <cell n="3">
                             <foreign xml:lang="la">enumerat</foreign>
                         </cell>
                     </row>
-                    <row>
+                    <row n="34">
                         <cell n="1">2.74</cell>
                         <cell n="2"><foreign xml:lang="la">metimus</foreign> N G V</cell>
                         <cell n="3">
                             <foreign xml:lang="la">metitur</foreign>
                         </cell>
                     </row>
-                    <row>
+                    <row n="35">
                         <cell n="1">2.74</cell>
                         <cell n="2"><foreign xml:lang="la">bruma</foreign> N (ex <quote
                                 xml:lang="la">pbruma</quote>) G V</cell>
@@ -1594,7 +1594,7 @@
                             <foreign xml:lang="la">prima</foreign>
                         </cell>
                     </row>
-                    <row>
+                    <row n="36">
                         <cell n="1">2.81</cell>
                         <cell n="2"><foreign xml:lang="la">renidenti</foreign> G, <quote
                                 xml:lang="la">renitendi</quote> N, <foreign xml:lang="la"
@@ -1603,7 +1603,7 @@
                             <foreign xml:lang="la">redempti</foreign>
                         </cell>
                     </row>
-                    <row>
+                    <row n="37">
                         <cell n="1">2.81</cell>
                         <cell n="2"><foreign xml:lang="la">chias</foreign> N G, <quote xml:lang="la"
                                 >thilas</quote> V</cell>
@@ -1611,28 +1611,28 @@
                             <foreign xml:lang="la">cymas</foreign>
                         </cell>
                     </row>
-                    <row>
+                    <row n="38">
                         <cell n="1">2.82</cell>
                         <cell n="2"><foreign xml:lang="la">nuces</foreign> N G V</cell>
                         <cell n="3">
                             <foreign xml:lang="la">mices</foreign>
                         </cell>
                     </row>
-                    <row>
+                    <row n="39">
                         <cell n="1">2.84</cell>
                         <cell n="2"><quote xml:lang="la">num-num</quote> N G V</cell>
                         <cell n="3">
                             <quote xml:lang="la">nunc-nunc</quote>
                         </cell>
                     </row>
-                    <row>
+                    <row n="40">
                         <cell n="1">2.91</cell>
                         <cell n="2"><foreign xml:lang="la">tenui lucere</foreign> N G V</cell>
                         <cell n="3">
                             <quote xml:lang="la">tātū lucē</quote>
                         </cell>
                     </row>
-                    <row>
+                    <row n="41">
                         <cell n="1">3.2</cell>
                         <cell n="2"><foreign xml:lang="la">tauris</foreign> N V, <quote
                                 xml:lang="la">thauris</quote> G</cell>
@@ -1640,7 +1640,7 @@
                             <quote xml:lang="la">tātis</quote>
                         </cell>
                     </row>
-                    <row>
+                    <row n="42">
                         <cell n="1">3.6</cell>
                         <cell n="2"><foreign xml:lang="la">nec quicquam</foreign> or <quote
                                 xml:lang="la">quidquam</quote> N G V</cell>
@@ -1648,42 +1648,42 @@
                             <foreign xml:lang="la">ne quisquam</foreign>
                         </cell>
                     </row>
-                    <row>
+                    <row n="43">
                         <cell n="1">3.18</cell>
                         <cell n="2"><foreign xml:lang="la">adibo</foreign> N G V</cell>
                         <cell n="3">
                             <foreign xml:lang="la">adhibo</foreign>
                         </cell>
                     </row>
-                    <row>
+                    <row n="44">
                         <cell n="1">3.24</cell>
                         <cell n="2"><foreign xml:lang="la">contentus</foreign> N G V</cell>
                         <cell n="3">
                             <foreign xml:lang="la">contemptus</foreign>
                         </cell>
                     </row>
-                    <row>
+                    <row n="45">
                         <cell n="1">3.26</cell>
                         <cell n="2"><foreign xml:lang="la">calamos</foreign> N G V</cell>
                         <cell n="3">
                             <foreign xml:lang="la">calamus</foreign>
                         </cell>
                     </row>
-                    <row>
+                    <row n="46">
                         <cell n="1">3.29</cell>
                         <cell n="2"><foreign xml:lang="la">ut</foreign> N G V</cell>
                         <cell n="3">
                             <foreign xml:lang="la">et</foreign>
                         </cell>
                     </row>
-                    <row>
+                    <row n="47">
                         <cell n="1">3.31</cell>
                         <cell n="2"><foreign xml:lang="la">irata</foreign> N G V</cell>
                         <cell n="3">
                             <foreign xml:lang="la">iurata</foreign>
                         </cell>
                     </row>
-                    <row>
+                    <row n="48">
                         <cell n="1">3.32</cell>
                         <cell n="2"><foreign xml:lang="la">te licida</foreign> ve <quote
                                 xml:lang="la">lycida</quote> or something similar N G V</cell>
@@ -1691,70 +1691,70 @@
                             <foreign xml:lang="la">theliocida</foreign>
                         </cell>
                     </row>
-                    <row>
+                    <row n="49">
                         <cell n="1">3.42</cell>
                         <cell n="2"><foreign xml:lang="la">ad sidera</foreign> N G V</cell>
                         <cell n="3">
                             <foreign xml:lang="la">a sydera</foreign>
                         </cell>
                     </row>
-                    <row>
+                    <row n="50">
                         <cell n="1">3.43</cell>
                         <cell n="2"><foreign xml:lang="la">tua</foreign> N G V</cell>
                         <cell n="3">
                             <foreign xml:lang="la">mea</foreign>
                         </cell>
                     </row>
-                    <row>
+                    <row n="51">
                         <cell n="1">3.48</cell>
                         <cell n="2"><foreign xml:lang="la">turdus</foreign> N G V</cell>
                         <cell n="3">
                             <foreign xml:lang="la">tardus</foreign>
                         </cell>
                     </row>
-                    <row>
+                    <row n="52">
                         <cell n="1">3.50</cell>
                         <cell n="2"><foreign xml:lang="la">ut</foreign> N G V</cell>
                         <cell n="3">
                             <foreign xml:lang="la">et</foreign>
                         </cell>
                     </row>
-                    <row>
+                    <row n="53">
                         <cell n="1">3.51</cell>
                         <cell n="2"><foreign xml:lang="la">te sine</foreign> N G V</cell>
                         <cell n="3">
                             <foreign xml:lang="la">desine</foreign>
                         </cell>
                     </row>
-                    <row>
+                    <row n="54">
                         <cell n="1">3.52</cell>
                         <cell n="2"><foreign xml:lang="la">sapiunt</foreign> N G V</cell>
                         <cell n="3">
                             <foreign xml:lang="la">sapient</foreign>
                         </cell>
                     </row>
-                    <row>
+                    <row n="55">
                         <cell n="1">3.57</cell>
                         <cell n="2"><foreign xml:lang="la">nec</foreign> N G V</cell>
                         <cell n="3">
                             <foreign xml:lang="la">ne</foreign>
                         </cell>
                     </row>
-                    <row>
+                    <row n="56">
                         <cell n="1">3.57</cell>
                         <cell n="2"><foreign xml:lang="la">dubitasti</foreign> N G V</cell>
                         <cell n="3">
                             <foreign xml:lang="la">dubitanti</foreign>
                         </cell>
                     </row>
-                    <row>
+                    <row n="57">
                         <cell n="1">3.66</cell>
                         <cell n="2"><foreign xml:lang="la">meis</foreign> N G V</cell>
                         <cell n="3">
                             <foreign xml:lang="la">mores</foreign>
                         </cell>
                     </row>
-                    <row>
+                    <row n="58">
                         <cell n="1">3.66</cell>
                         <cell n="2"><foreign xml:lang="la">multris</foreign> G, <quote xml:lang="la"
                                 >multis</quote> N, <foreign xml:lang="la">mulctris</foreign> or
@@ -1763,35 +1763,35 @@
                             <quote xml:lang="la">ī ultrix</quote>
                         </cell>
                     </row>
-                    <row>
+                    <row n="59">
                         <cell n="1">3.68</cell>
                         <cell n="2"><foreign xml:lang="la">nec</foreign> N G V</cell>
                         <cell n="3">
                             <foreign xml:lang="la">ne</foreign>
                         </cell>
                     </row>
-                    <row>
+                    <row n="60">
                         <cell n="1">3.70</cell>
                         <cell n="2"><foreign xml:lang="la">quod</foreign> N G V</cell>
                         <cell n="3">
                             <foreign xml:lang="la">quo</foreign>
                         </cell>
                     </row>
-                    <row>
+                    <row n="61">
                         <cell n="1">3.82</cell>
                         <cell n="2"><foreign xml:lang="la">metere</foreign> N G V</cell>
                         <cell n="3">
                             <quote xml:lang="la">metā</quote>
                         </cell>
                     </row>
-                    <row>
+                    <row n="62">
                         <cell n="1">3.86</cell>
                         <cell n="2"><foreign xml:lang="la">turpis</foreign> N G V</cell>
                         <cell n="3">
                             <foreign xml:lang="la">cupis</foreign>
                         </cell>
                     </row>
-                    <row>
+                    <row n="63">
                         <cell n="1">3.89</cell>
                         <cell n="2"><foreign xml:lang="la">hy</foreign> N G, <foreign xml:lang="la"
                                 >hi</foreign> V</cell>
@@ -1799,7 +1799,7 @@
                             <foreign xml:lang="la">hic</foreign>
                         </cell>
                     </row>
-                    <row>
+                    <row n="64">
                         <cell n="1">3.92</cell>
                         <cell n="2"><foreign xml:lang="la">miseris</foreign> N G V</cell>
                         <cell n="3">
@@ -1832,239 +1832,239 @@
 
                 <table rows="28" cols="3">
                     <head>N G P versus V</head>
-                    <row role="label">
-                        <cell>Line</cell>
-                        <cell>N G P</cell>
-                        <cell>V</cell>
+                    <row n="1" role="label">
+                        <cell n="1">Line</cell>
+                        <cell n="2">N G P</cell>
+                        <cell n="3">V</cell>
                     </row>
-                    <row>
-                        <cell>1.28</cell>
-                        <cell>
+                    <row n="2">
+                        <cell n="1">1.28</cell>
+                        <cell n="2">
                             <foreign xml:lang="la">haec</foreign>
                         </cell>
-                        <cell>
+                        <cell n="3">
                             <foreign xml:lang="la">hoc</foreign>
                         </cell>
                     </row>
-                    <row>
-                        <cell>1.51</cell>
-                        <cell>Present</cell>
-                        <cell>Omitted</cell>
+                    <row n="3">
+                        <cell n="1">1.51</cell>
+                        <cell n="2">Present</cell>
+                        <cell n="3">Omitted</cell>
                     </row>
-                    <row>
-                        <cell>1.78</cell>
-                        <cell>
+                    <row n="4">
+                        <cell n="1">1.78</cell>
+                        <cell n="2">
                             <foreign xml:lang="la">rediantem</foreign>
                         </cell>
-                        <cell>
+                        <cell n="3">
                             <foreign xml:lang="la">radianti</foreign>
                         </cell>
                     </row>
-                    <row>
-                        <cell>1.80</cell>
-                        <cell>
+                    <row n="5">
+                        <cell n="1">1.80</cell>
+                        <cell n="2">
                             <foreign xml:lang="la">cruento</foreign>
                         </cell>
-                        <cell>
+                        <cell n="3">
                             <foreign xml:lang="la">cremato</foreign>
                         </cell>
                     </row>
-                    <row>
-                        <cell>1.89</cell>
-                        <cell>
+                    <row n="6">
+                        <cell n="1">1.89</cell>
+                        <cell n="2">
                             <foreign xml:lang="la">plenum</foreign>
                         </cell>
-                        <cell>
+                        <cell n="3">
                             <foreign xml:lang="la">plenus</foreign>
                         </cell>
                     </row>
-                    <row>
-                        <cell>2.8</cell>
-                        <cell>
+                    <row n="7">
+                        <cell n="1">2.8</cell>
+                        <cell n="2">
                             <foreign xml:lang="la">vindicet</foreign>
                         </cell>
-                        <cell>
+                        <cell n="3">
                             <foreign xml:lang="la">vendicet</foreign>
                         </cell>
                     </row>
-                    <row>
-                        <cell>2.18–19</cell>
-                        <cell>Present</cell>
-                        <cell>Collapsed into one</cell>
+                    <row n="8">
+                        <cell n="1">2.18–19</cell>
+                        <cell n="2">Present</cell>
+                        <cell n="3">Collapsed into one</cell>
                     </row>
-                    <row>
-                        <cell>2.21</cell>
-                        <cell>
+                    <row n="9">
+                        <cell n="1">2.21</cell>
+                        <cell n="2">
                             <foreign xml:lang="la">annosa</foreign>
                         </cell>
-                        <cell><foreign xml:lang="la">herbosa</foreign> or <quote xml:lang="la"
+                        <cell n="3"><foreign xml:lang="la">herbosa</foreign> or <quote xml:lang="la"
                                 >umbrosa</quote> or <foreign xml:lang="la">herbora</foreign></cell>
                     </row>
-                    <row>
-                        <cell>2.30</cell>
-                        <cell>
+                    <row n="10">
+                        <cell n="1">2.30</cell>
+                        <cell n="2">
                             <foreign xml:lang="la">parvo dixit</foreign>
                         </cell>
-                        <cell>
+                        <cell n="3">
                             <foreign xml:lang="la">parvo hoc dixit</foreign>
                         </cell>
                     </row>
-                    <row>
-                        <cell>2.31</cell>
-                        <cell>
+                    <row n="11">
+                        <cell n="1">2.31</cell>
+                        <cell n="2">
                             <foreign xml:lang="la">crescat</foreign>
                         </cell>
-                        <cell>
+                        <cell n="3">
                             <foreign xml:lang="la">crescit</foreign>
                         </cell>
                     </row>
-                    <row>
-                        <cell>2.32</cell>
-                        <cell>
+                    <row n="12">
+                        <cell n="1">2.32</cell>
+                        <cell n="2">
                             <foreign xml:lang="la">pingit</foreign>
                         </cell>
-                        <cell>
+                        <cell n="3">
                             <foreign xml:lang="la">spargit</foreign>
                         </cell>
                     </row>
-                    <row>
-                        <cell>2.35</cell>
-                        <cell>
+                    <row n="13">
+                        <cell n="1">2.35</cell>
+                        <cell n="2">
                             <quote xml:lang="la">iam-nutrire</quote>
                         </cell>
-                        <cell>
+                        <cell n="3">
                             <quote xml:lang="la">nam-mutare</quote>
                         </cell>
                     </row>
-                    <row>
-                        <cell>2.49</cell>
-                        <cell>
+                    <row n="14">
+                        <cell n="1">2.49</cell>
+                        <cell n="2">
                             <foreign xml:lang="la">pangitur</foreign>
                         </cell>
-                        <cell>
+                        <cell n="3">
                             <foreign xml:lang="la">panditur</foreign>
                         </cell>
                     </row>
-                    <row>
-                        <cell>2.54</cell>
-                        <cell>
+                    <row n="15">
+                        <cell n="1">2.54</cell>
+                        <cell n="2">
                             <foreign xml:lang="la">decernamque</foreign>
                         </cell>
-                        <cell>
+                        <cell n="3">
                             <foreign xml:lang="la">dicam namque</foreign>
                         </cell>
                     </row>
-                    <row>
-                        <cell>2.61</cell>
-                        <cell>
+                    <row n="16">
+                        <cell n="1">2.61</cell>
+                        <cell n="2">
                             <foreign xml:lang="la">et</foreign>
                         </cell>
-                        <cell>
+                        <cell n="3">
                             <foreign xml:lang="la">est</foreign>
                         </cell>
                     </row>
-                    <row>
-                        <cell>2.65</cell>
-                        <cell>
+                    <row n="17">
+                        <cell n="1">2.65</cell>
+                        <cell n="2">
                             <foreign xml:lang="la">figere</foreign>
                         </cell>
-                        <cell><foreign xml:lang="la">fundere</foreign> or <quote xml:lang="la"
+                        <cell n="3"><foreign xml:lang="la">fundere</foreign> or <quote xml:lang="la"
                                 >fraude</quote></cell>
                     </row>
-                    <row>
-                        <cell>2.67</cell>
-                        <cell>
+                    <row n="18">
+                        <cell n="1">2.67</cell>
+                        <cell n="2">
                             <foreign xml:lang="la">sunt</foreign>
                         </cell>
-                        <cell><foreign xml:lang="la">fore</foreign> or <quote xml:lang="la"
+                        <cell n="3"><foreign xml:lang="la">fore</foreign> or <quote xml:lang="la"
                                 >fere</quote></cell>
                     </row>
-                    <row>
-                        <cell>2.94</cell>
-                        <cell>
+                    <row n="19">
+                        <cell n="1">2.94</cell>
+                        <cell n="2">
                             <foreign xml:lang="la">agat</foreign>
                         </cell>
-                        <cell><foreign xml:lang="la">vocat</foreign> or <quote xml:lang="la"
+                        <cell n="3"><foreign xml:lang="la">vocat</foreign> or <quote xml:lang="la"
                                 >vocet</quote> or something similar</cell>
                     </row>
-                    <row>
-                        <cell>3.2</cell>
-                        <cell>
+                    <row n="20">
+                        <cell n="1">3.2</cell>
+                        <cell n="2">
                             <foreign xml:lang="la">ista</foreign>
                         </cell>
-                        <cell>
+                        <cell n="3">
                             <foreign xml:lang="la">illa</foreign>
                         </cell>
                     </row>
-                    <row>
-                        <cell>3.16</cell>
-                        <cell>
+                    <row n="21">
+                        <cell n="1">3.16</cell>
+                        <cell n="2">
                             <foreign xml:lang="la">spatiosus</foreign>
                         </cell>
-                        <cell>
+                        <cell n="3">
                             <foreign xml:lang="la">spatiatus</foreign>
                         </cell>
                     </row>
-                    <row>
-                        <cell>3.24</cell>
-                        <cell>
+                    <row n="22">
+                        <cell n="1">3.24</cell>
+                        <cell n="2">
                             <foreign xml:lang="la">sola tu</foreign>
                         </cell>
-                        <cell>
+                        <cell n="3">
                             <foreign xml:lang="la">tu solus</foreign>
                         </cell>
                     </row>
-                    <row>
-                        <cell>3.28</cell>
-                        <cell>
+                    <row n="23">
+                        <cell n="1">3.28</cell>
+                        <cell n="2">
                             <foreign xml:lang="la">haec</foreign>
                         </cell>
-                        <cell>
+                        <cell n="3">
                             <foreign xml:lang="la">hoc</foreign>
                         </cell>
                     </row>
-                    <row>
-                        <cell>3.33</cell>
-                        <cell>
+                    <row n="24">
+                        <cell n="1">3.33</cell>
+                        <cell n="2">
                             <foreign xml:lang="la">negetur</foreign>
                         </cell>
-                        <cell>
+                        <cell n="3">
                             <foreign xml:lang="la">vagetur</foreign>
                         </cell>
                     </row>
-                    <row>
-                        <cell>3.47</cell>
-                        <cell>
+                    <row n="25">
+                        <cell n="1">3.47</cell>
+                        <cell n="2">
                             <foreign xml:lang="la">excluso disperdit</foreign>
                         </cell>
-                        <cell>
+                        <cell n="3">
                             <foreign xml:lang="la">excusso dispergit</foreign>
                         </cell>
                     </row>
-                    <row>
-                        <cell>3.59</cell>
-                        <cell>
+                    <row n="26">
+                        <cell n="1">3.59</cell>
+                        <cell n="2">
                             <foreign xml:lang="la">haec</foreign>
                         </cell>
-                        <cell>
+                        <cell n="3">
                             <foreign xml:lang="la">hoc</foreign>
                         </cell>
                     </row>
-                    <row>
-                        <cell>3.88</cell>
-                        <cell>
+                    <row n="27">
+                        <cell n="1">3.88</cell>
+                        <cell n="2">
                             <foreign xml:lang="la">nostros primum</foreign>
                         </cell>
-                        <cell>
+                        <cell n="3">
                             <foreign xml:lang="la">primum nostros</foreign>
                         </cell>
                     </row>
-                    <row>
-                        <cell>4.10</cell>
-                        <cell>
+                    <row n="28">
+                        <cell n="1">4.10</cell>
+                        <cell n="2">
                             <foreign xml:lang="la">numina</foreign>
                         </cell>
-                        <cell>
+                        <cell n="3">
                             <foreign xml:lang="la">munera</foreign>
                         </cell>
                     </row>
@@ -2073,45 +2073,45 @@
                 <p>The following can also be added to these examples:</p>
 
                 <table rows="6" cols="3">
-                    <row role="label">
-                        <cell>Line</cell>
-                        <cell>N G P</cell>
-                        <cell>V</cell>
+                    <row n="1" role="label">
+                        <cell n="1">Line</cell>
+                        <cell n="2">N G P</cell>
+                        <cell n="3">V</cell>
                     </row>
-                    <row>
-                        <cell>1.9</cell>
-                        <cell><foreign xml:lang="la">densent</foreign> N, <quote xml:lang="la"
+                    <row n="2">
+                        <cell n="1">1.9</cell>
+                        <cell n="2"><foreign xml:lang="la">densent</foreign> N, <quote xml:lang="la"
                                 >denset</quote> G P</cell>
-                        <cell>
+                        <cell n="3">
                             <foreign xml:lang="la">densat</foreign>
                         </cell>
                     </row>
-                    <row>
-                        <cell>1.45</cell>
-                        <cell><foreign xml:lang="la">vicit</foreign> N P <quote xml:lang="la"
+                    <row n="3">
+                        <cell n="1">1.45</cell>
+                        <cell n="2"><foreign xml:lang="la">vicit</foreign> N P <quote xml:lang="la"
                                 >vīcit</quote> G</cell>
-                        <cell>
+                        <cell n="3">
                             <foreign xml:lang="la">lusit</foreign>
                         </cell>
                     </row>
-                    <row>
-                        <cell>1.76</cell>
-                        <cell><foreign xml:lang="la">fervit</foreign> G P</cell>
-                        <cell><foreign xml:lang="la">servit</foreign> (N V)</cell>
+                    <row n="4">
+                        <cell n="1">1.76</cell>
+                        <cell n="2"><foreign xml:lang="la">fervit</foreign> G P</cell>
+                        <cell n="3"><foreign xml:lang="la">servit</foreign> (N V)</cell>
                     </row>
-                    <row>
-                        <cell>3.60</cell>
-                        <cell><foreign xml:lang="la">iners</foreign> N G, <quote xml:lang="la"
+                    <row n="5">
+                        <cell n="1">3.60</cell>
+                        <cell n="2"><foreign xml:lang="la">iners</foreign> N G, <quote xml:lang="la"
                                 >inexs</quote> P</cell>
-                        <cell>
+                        <cell n="3">
                             <foreign xml:lang="la">inops</foreign>
                         </cell>
                     </row>
-                    <row>
-                        <cell>3.95</cell>
-                        <cell><foreign xml:lang="la">sub horti</foreign>] <foreign xml:lang="la">sub
+                    <row n="6">
+                        <cell n="1">3.95</cell>
+                        <cell n="2"><foreign xml:lang="la">sub horti</foreign>] <foreign xml:lang="la">sub
                                 orti</foreign> N G P</cell>
-                        <cell>
+                        <cell n="3">
                             <foreign xml:lang="la">sub ara</foreign>
                         </cell>
                     </row>
@@ -2120,168 +2120,168 @@
                 <p>But more rarely P V corrupt a reading of the archetype preserved in N G. Here are
                     some examples:</p>
 
-                <table rows="18" cols="3">
+                <table rows="19" cols="3">
                     <head>N G versus P V</head>
-                    <row role="label">
-                        <cell>Line</cell>
-                        <cell>N G</cell>
-                        <cell>P V</cell>
+                    <row n="1" role="label">
+                        <cell n="1">Line</cell>
+                        <cell n="2">N G</cell>
+                        <cell n="3">P V</cell>
                     </row>
-                    <row>
-                        <cell>1.8</cell>
-                        <cell><foreign xml:lang="la">antra</foreign>-9 <quote xml:lang="la"
+                    <row n="2">
+                        <cell n="1">1.8</cell>
+                        <cell n="2"><foreign xml:lang="la">antra</foreign>-9 <quote xml:lang="la"
                                 >ista</quote></cell>
-                        <cell><foreign xml:lang="la">ista</foreign>-9 <quote xml:lang="la"
+                        <cell n="3"><foreign xml:lang="la">ista</foreign>-9 <quote xml:lang="la"
                                 >antra</quote></cell>
                     </row>
-                    <row>
-                        <cell>1.64</cell>
-                        <cell><foreign xml:lang="la">referet</foreign> N, <quote xml:lang="la"
+                    <row n="3">
+                        <cell n="1">1.64</cell>
+                        <cell n="2"><foreign xml:lang="la">referet</foreign> N, <quote xml:lang="la"
                                 >referent</quote> G (but corrected in the margin)</cell>
-                        <cell>
+                        <cell n="3">
                             <foreign xml:lang="la">revocet</foreign>
                         </cell>
                     </row>
-                    <row>
-                        <cell>2.5</cell>
-                        <cell>
+                    <row n="4">
+                        <cell n="1">2.5</cell>
+                        <cell n="2">
                             <foreign xml:lang="la">umbras</foreign>
                         </cell>
-                        <cell>
+                        <cell n="3">
                             <foreign xml:lang="la">ulmos</foreign>
                         </cell>
                     </row>
-                    <row>
-                        <cell>2.27</cell>
-                        <cell>
+                    <row n="5">
+                        <cell n="1">2.27</cell>
+                        <cell n="2">
                             <foreign xml:lang="la">decernunt</foreign>
                         </cell>
-                        <cell>
+                        <cell n="3">
                             <foreign xml:lang="la">discernunt</foreign>
                         </cell>
                     </row>
-                    <row>
-                        <cell>2.32</cell>
-                        <cell>
+                    <row n="6">
+                        <cell n="1">2.32</cell>
+                        <cell n="2">
                             <foreign xml:lang="la">flora</foreign>
                         </cell>
-                        <cell>
+                        <cell n="3">
                             <foreign xml:lang="la">flore</foreign>
                         </cell>
                     </row>
-                    <row>
-                        <cell>2.35</cell>
-                        <cell>
+                    <row n="7">
+                        <cell n="1">2.35</cell>
+                        <cell n="2">
                             <foreign xml:lang="la">irriguos</foreign>
                         </cell>
-                        <cell><foreign xml:lang="la">inriguis</foreign> P, <quote xml:lang="la"
+                        <cell n="3"><foreign xml:lang="la">inriguis</foreign> P, <quote xml:lang="la"
                                 >irriguis</quote> V</cell>
                     </row>
-                    <row>
-                        <cell>2.45</cell>
-                        <cell>
+                    <row n="8">
+                        <cell n="1">2.45</cell>
+                        <cell n="2">
                             <foreign xml:lang="la">novis</foreign>
                         </cell>
-                        <cell>
+                        <cell n="3">
                             <foreign xml:lang="la">novas</foreign>
                         </cell>
                     </row>
-                    <row>
-                        <cell>2.48</cell>
-                        <cell>
+                    <row n="9">
+                        <cell n="1">2.48</cell>
+                        <cell n="2">
                             <foreign xml:lang="la">at</foreign>
                         </cell>
-                        <cell>
+                        <cell n="3">
                             <foreign xml:lang="la">et</foreign>
                         </cell>
                     </row>
-                    <row>
-                        <cell>2.80</cell>
-                        <cell>
+                    <row n="10">
+                        <cell n="1">2.80</cell>
+                        <cell n="2">
                             <foreign xml:lang="la">at</foreign>
                         </cell>
-                        <cell>
+                        <cell n="3">
                             <foreign xml:lang="la">et</foreign>
                         </cell>
                     </row>
-                    <row>
-                        <cell>2.82</cell>
-                        <cell>
+                    <row n="11">
+                        <cell n="1">2.82</cell>
+                        <cell n="2">
                             <foreign xml:lang="la">decembri</foreign>
                         </cell>
-                        <cell>
+                        <cell n="3">
                             <foreign xml:lang="la">novembri</foreign>
                         </cell>
                     </row>
-                    <row>
-                        <cell>2.88</cell>
-                        <cell>
+                    <row n="12">
+                        <cell n="1">2.88</cell>
+                        <cell n="2">
                             <foreign xml:lang="la">ipse</foreign>
                         </cell>
-                        <cell>
+                        <cell n="3">
                             <foreign xml:lang="la">esse</foreign>
                         </cell>
                     </row>
-                    <row>
-                        <cell>3.7</cell>
-                        <cell>
+                    <row n="13">
+                        <cell n="1">3.7</cell>
+                        <cell n="2">
                             <foreign xml:lang="la">nec</foreign>
                         </cell>
-                        <cell>
+                        <cell n="3">
                             <foreign xml:lang="la">neque</foreign>
                         </cell>
                     </row>
-                    <row>
-                        <cell>3.18</cell>
-                        <cell>
+                    <row n="14">
+                        <cell n="1">3.18</cell>
+                        <cell n="2">
                             <foreign xml:lang="la">quavis</foreign>
                         </cell>
-                        <cell>
+                        <cell n="3">
                             <foreign xml:lang="la">quamvis</foreign>
                         </cell>
                     </row>
-                    <row>
-                        <cell>3.24</cell>
-                        <cell>
+                    <row n="15">
+                        <cell n="1">3.24</cell>
+                        <cell n="2">
                             <foreign xml:lang="la">iolla</foreign>
                         </cell>
-                        <cell>
+                        <cell n="3">
                             <foreign xml:lang="la">iolla es</foreign>
                         </cell>
                     </row>
-                    <row>
-                        <cell>3.74</cell>
-                        <cell>
+                    <row n="16">
+                        <cell n="1">3.74</cell>
+                        <cell n="2">
                             <foreign xml:lang="la">furem medio</foreign>
                         </cell>
-                        <cell>
+                        <cell n="3">
                             <foreign xml:lang="la">medio furem</foreign>
                         </cell>
                     </row>
-                    <row>
-                        <cell>3.75</cell>
-                        <cell>
+                    <row n="17">
+                        <cell n="1">3.75</cell>
+                        <cell n="2">
                             <foreign xml:lang="la">dubites</foreign>
                         </cell>
-                        <cell>
+                        <cell n="3">
                             <quote xml:lang="la">dubita <!-- Giarratano omits V here --></quote>
                         </cell>
                     </row>
-                    <row>
-                        <cell>3.78</cell>
-                        <cell>
+                    <row n="18">
+                        <cell n="1">3.78</cell>
+                        <cell n="2">
                             <foreign xml:lang="la">gremium</foreign>
                         </cell>
-                        <cell>
+                        <cell n="3">
                             <foreign xml:lang="la">gremio</foreign>
                         </cell>
                     </row>
-                    <row>
-                        <cell>4.10</cell>
-                        <cell>
+                    <row n="19">
+                        <cell n="1">4.10</cell>
+                        <cell n="2">
                             <foreign xml:lang="la">despicit</foreign>
                         </cell>
-                        <cell>
+                        <cell n="3">
                             <foreign xml:lang="la">respicit</foreign>
                         </cell>
                     </row>
@@ -2292,158 +2292,158 @@
 
                 <table rows="19" cols="3">
                     <head>Correct reading in P V where N G are corrupt</head>
-                    <row role="label">
-                        <cell>Line</cell>
-                        <cell>P V</cell>
-                        <cell>N G</cell>
+                    <row n="1" role="label">
+                        <cell n="1">Line</cell>
+                        <cell n="2">P V</cell>
+                        <cell n="3">N G</cell>
                     </row>
-                    <row>
-                        <cell>1.5</cell>
-                        <cell>
+                    <row n="2">
+                        <cell n="1">1.5</cell>
+                        <cell n="2">
                             <foreign xml:lang="la">molle sub</foreign>
                         </cell>
-                        <cell>
+                        <cell n="3">
                             <foreign xml:lang="la">molliter</foreign>
                         </cell>
                     </row>
-                    <row>
-                        <cell>1.20</cell>
-                        <cell>
+                    <row n="3">
+                        <cell n="1">1.20</cell>
+                        <cell n="2">
                             <foreign xml:lang="la">descripta</foreign>
                         </cell>
-                        <cell><foreign xml:lang="la">depicta</foreign> N (from <quote xml:lang="la"
+                        <cell n="3"><foreign xml:lang="la">depicta</foreign> N (from <quote xml:lang="la"
                                 >dipicta</quote>) G</cell>
                     </row>
-                    <row>
-                        <cell>1.24</cell>
-                        <cell>
+                    <row n="4">
+                        <cell n="1">1.24</cell>
+                        <cell n="2">
                             <foreign xml:lang="la">alto</foreign>
                         </cell>
-                        <cell>
+                        <cell n="3">
                             <foreign xml:lang="la">altos</foreign>
                         </cell>
                     </row>
-                    <row>
-                        <cell>1.25</cell>
-                        <cell>
+                    <row n="5">
+                        <cell n="1">1.25</cell>
+                        <cell n="2">
                             <foreign xml:lang="la">cortice</foreign>
                         </cell>
-                        <cell><foreign xml:lang="la">codice</foreign> N (apparently) G</cell>
+                        <cell n="3"><foreign xml:lang="la">codice</foreign> N (apparently) G</cell>
                     </row>
-                    <row>
-                        <cell>1.28</cell>
-                        <cell>
+                    <row n="6">
+                        <cell n="1">1.28</cell>
+                        <cell n="2">
                             <foreign xml:lang="la">triviali</foreign>
                         </cell>
-                        <cell>
+                        <cell n="3">
                             <foreign xml:lang="la">tibi vili</foreign>
                         </cell>
                     </row>
-                    <row>
-                        <cell>1.42</cell>
-                        <cell>Present</cell>
-                        <cell>Omitted</cell>
+                    <row n="7">
+                        <cell n="1">1.42</cell>
+                        <cell n="2">Present</cell>
+                        <cell n="3">Omitted</cell>
                     </row>
-                    <row>
-                        <cell>1.55</cell>
-                        <cell><foreign xml:lang="la">professo</foreign> P, most of V</cell>
-                        <cell>
+                    <row n="8">
+                        <cell n="1">1.55</cell>
+                        <cell n="2"><foreign xml:lang="la">professo</foreign> P, most of V</cell>
+                        <cell n="3">
                             <foreign xml:lang="la">profuso</foreign>
                         </cell>
                     </row>
-                    <row>
-                        <cell>1.87</cell>
-                        <cell><foreign xml:lang="la">ex</foreign> P, most of V</cell>
-                        <cell>
+                    <row n="9">
+                        <cell n="1">1.87</cell>
+                        <cell n="2"><foreign xml:lang="la">ex</foreign> P, most of V</cell>
+                        <cell n="3">
                             <foreign xml:lang="la">a</foreign>
                         </cell>
                     </row>
-                    <row>
-                        <cell>1.90</cell>
-                        <cell>
+                    <row n="10">
+                        <cell n="1">1.90</cell>
+                        <cell n="2">
                             <foreign xml:lang="la">quatit</foreign>
                         </cell>
-                        <cell><foreign xml:lang="la">querit</foreign> N <quote xml:lang="la"
+                        <cell n="3"><foreign xml:lang="la">querit</foreign> N <quote xml:lang="la"
                                 >petit</quote> G</cell>
                     </row>
-                    <row>
-                        <cell>2.32</cell>
-                        <cell>
+                    <row n="11">
+                        <cell n="1">2.32</cell>
+                        <cell n="2">
                             <foreign xml:lang="la">et</foreign>
                         </cell>
-                        <cell>
+                        <cell n="3">
                             <foreign xml:lang="la">at</foreign>
                         </cell>
                     </row>
-                    <row>
-                        <cell>2.96</cell>
-                        <cell>
+                    <row n="12">
+                        <cell n="1">2.96</cell>
+                        <cell n="2">
                             <foreign xml:lang="la">canalem</foreign>
                         </cell>
-                        <cell>
+                        <cell n="3">
                             <foreign xml:lang="la">canale</foreign>
                         </cell>
                     </row>
-                    <row>
-                        <cell>3.21</cell>
-                        <cell>
+                    <row n="13">
+                        <cell n="1">3.21</cell>
+                        <cell n="2">
                             <foreign xml:lang="la">sed</foreign>
                         </cell>
-                        <cell>
+                        <cell n="3">
                             <foreign xml:lang="la">si</foreign>
                         </cell>
                     </row>
-                    <row>
-                        <cell>3.26</cell>
-                        <cell>
+                    <row n="14">
+                        <cell n="1">3.26</cell>
+                        <cell n="2">
                             <foreign xml:lang="la">sibi</foreign>
                         </cell>
-                        <cell>
+                        <cell n="3">
                             <foreign xml:lang="la">ibi</foreign>
                         </cell>
                     </row>
-                    <row>
-                        <cell>3.36</cell>
-                        <cell>
+                    <row n="15">
+                        <cell n="1">3.36</cell>
+                        <cell n="2">
                             <foreign xml:lang="la">a</foreign>
                         </cell>
-                        <cell>
+                        <cell n="3">
                             <foreign xml:lang="la">o</foreign>
                         </cell>
                     </row>
-                    <row>
-                        <cell>3.43</cell>
-                        <cell>
+                    <row n="16">
+                        <cell n="1">3.43</cell>
+                        <cell n="2">
                             <foreign xml:lang="la">nam</foreign>
                         </cell>
-                        <cell>
+                        <cell n="3">
                             <foreign xml:lang="la">nunc</foreign>
                         </cell>
                     </row>
-                    <row>
-                        <cell>3.46</cell>
-                        <cell>
+                    <row n="17">
+                        <cell n="1">3.46</cell>
+                        <cell n="2">
                             <foreign xml:lang="la">quos</foreign>
                         </cell>
-                        <cell>
+                        <cell n="3">
                             <foreign xml:lang="la">quas</foreign>
                         </cell>
                     </row>
-                    <row>
-                        <cell>3.84</cell>
-                        <cell>
+                    <row n="18">
+                        <cell n="1">3.84</cell>
+                        <cell n="2">
                             <quote xml:lang="la">tunc-tunc</quote>
                         </cell>
-                        <cell>
+                        <cell n="3">
                             <quote xml:lang="la">tum-tunc</quote>
                         </cell>
                     </row>
-                    <row>
-                        <cell>4.2</cell>
-                        <cell>
+                    <row n="19">
+                        <cell n="1">4.2</cell>
+                        <cell n="2">
                             <foreign xml:lang="la">platano</foreign>
                         </cell>
-                        <cell>
+                        <cell n="3">
                             <foreign xml:lang="la">patula</foreign>
                         </cell>
                     </row>
@@ -2452,79 +2452,79 @@
                 <p>And, finally, in some places where the manuscripts of the second family report
                     various readings, P preserves an inferior reading:</p>
 
-                <table rows="1" cols="3">
+                <table rows="11" cols="3">
                     <head>Places where P has an inferior reading compared to V</head>
-                    <row role="label">
-                        <cell>Line</cell>
-                        <cell>P (with N and/or G)</cell>
-                        <cell>V</cell>
+                    <row n="1" role="label">
+                        <cell n="1">Line</cell>
+                        <cell n="2">P (with N and/or G)</cell>
+                        <cell n="3">V</cell>
                     </row>
-                    <row>
-                        <cell>1.46</cell>
-                        <cell><foreign xml:lang="la">victas</foreign> N G P</cell>
-                        <cell><foreign xml:lang="la">vinctas</foreign>* or <quote xml:lang="la"
+                    <row n="2">
+                        <cell n="1">1.46</cell>
+                        <cell n="2"><foreign xml:lang="la">victas</foreign> N G P</cell>
+                        <cell n="3"><foreign xml:lang="la">vinctas</foreign>* or <quote xml:lang="la"
                                 >victas</quote></cell>
                     </row>
-                    <row>
-                        <cell>1.61</cell>
-                        <cell><foreign xml:lang="la">laxabit</foreign> G P</cell>
-                        <cell><foreign xml:lang="la">lassabit</foreign>* or <quote xml:lang="la"
+                    <row n="3">
+                        <cell n="1">1.61</cell>
+                        <cell n="2"><foreign xml:lang="la">laxabit</foreign> G P</cell>
+                        <cell n="3"><foreign xml:lang="la">lassabit</foreign>* or <quote xml:lang="la"
                                 >laxabit</quote></cell>
                     </row>
-                    <row>
-                        <cell>1.80</cell>
-                        <cell><foreign xml:lang="la">numquid</foreign>* G, <foreign xml:lang="la"
+                    <row n="4">
+                        <cell n="1">1.80</cell>
+                        <cell n="2"><foreign xml:lang="la">numquid</foreign>* G, <foreign xml:lang="la"
                                 >non quod</foreign> P</cell>
-                        <cell><foreign xml:lang="la">numquid</foreign> or <foreign xml:lang="la">non
+                        <cell n="3"><foreign xml:lang="la">numquid</foreign> or <foreign xml:lang="la">non
                                 quod</foreign> or <foreign xml:lang="la">non per</foreign></cell>
                     </row>
-                    <row>
-                        <cell>2.14</cell>
-                        <cell>
+                    <row n="5">
+                        <cell n="1">2.14</cell>
+                        <cell n="2">
                             <foreign xml:lang="la">affuerant</foreign>
                         </cell>
-                        <cell><foreign xml:lang="la">affuerunt</foreign>* or <quote xml:lang="la"
+                        <cell n="3"><foreign xml:lang="la">affuerunt</foreign>* or <quote xml:lang="la"
                                 >affuerant</quote></cell>
                     </row>
-                    <row>
-                        <cell>2.26</cell>
-                        <cell><foreign xml:lang="la">iactate</foreign>* N G, <quote xml:lang="la"
+                    <row n="6">
+                        <cell n="1">2.26</cell>
+                        <cell n="2"><foreign xml:lang="la">iactate</foreign>* N G, <quote xml:lang="la"
                                 >iactare</quote> P</cell>
-                        <cell><foreign xml:lang="la">iactate</foreign> or <quote xml:lang="la"
+                        <cell n="3"><foreign xml:lang="la">iactate</foreign> or <quote xml:lang="la"
                                 >iactare</quote></cell>
                     </row>
-                    <row>
-                        <cell>2.48</cell>
-                        <cell><foreign xml:lang="la">arida</foreign>* N G, <quote xml:lang="la"
+                    <row n="7">
+                        <cell n="1">2.48</cell>
+                        <cell n="2"><foreign xml:lang="la">arida</foreign>* N G, <quote xml:lang="la"
                                 >altera</quote> P</cell>
-                        <cell><foreign xml:lang="la">arida</foreign> or <quote xml:lang="la"
+                        <cell n="3"><foreign xml:lang="la">arida</foreign> or <quote xml:lang="la"
                                 >altera</quote> or <foreign xml:lang="la">avida</foreign></cell>
                     </row>
-                    <row>
-                        <cell>3.18</cell>
-                        <cell><foreign xml:lang="la">contentus</foreign>* N G, <quote xml:lang="la"
+                    <row n="8">
+                        <cell n="1">3.18</cell>
+                        <cell n="2"><foreign xml:lang="la">contentus</foreign>* N G, <quote xml:lang="la"
                                 >contemptus</quote> P</cell>
-                        <cell><foreign xml:lang="la">contentus</foreign> or <quote xml:lang="la"
+                        <cell n="3"><foreign xml:lang="la">contentus</foreign> or <quote xml:lang="la"
                                 >contemptus</quote></cell>
                     </row>
-                    <row>
-                        <cell>3.55</cell>
-                        <cell><foreign xml:lang="la">te</foreign>* N G, <quote xml:lang="la"
+                    <row n="9">
+                        <cell n="1">3.55</cell>
+                        <cell n="2"><foreign xml:lang="la">te</foreign>* N G, <quote xml:lang="la"
                                 >tu</quote> P</cell>
-                        <cell><foreign xml:lang="la">tu</foreign> or <quote xml:lang="la"
+                        <cell n="3"><foreign xml:lang="la">tu</foreign> or <quote xml:lang="la"
                             >te</quote></cell>
                     </row>
-                    <row>
-                        <cell>3.73</cell>
-                        <cell><foreign xml:lang="la">vi</foreign> G P</cell>
-                        <cell><foreign xml:lang="la">ut</foreign>* or <quote xml:lang="la"
+                    <row n="10">
+                        <cell n="1">3.73</cell>
+                        <cell n="2"><foreign xml:lang="la">vi</foreign> G P</cell>
+                        <cell n="3"><foreign xml:lang="la">ut</foreign>* or <quote xml:lang="la"
                                 >vi</quote></cell>
                     </row>
-                    <row>
-                        <cell>3.91</cell>
-                        <cell><foreign xml:lang="la">habet</foreign>* N G, <quote xml:lang="la"
+                    <row n="11">
+                        <cell n="1">3.91</cell>
+                        <cell n="2"><foreign xml:lang="la">habet</foreign>* N G, <quote xml:lang="la"
                                 >amat</quote> P</cell>
-                        <cell><foreign xml:lang="la">amat</foreign> or <quote xml:lang="la"
+                        <cell n="3"><foreign xml:lang="la">amat</foreign> or <quote xml:lang="la"
                                 >habet</quote></cell>
                     </row>
                 </table>
