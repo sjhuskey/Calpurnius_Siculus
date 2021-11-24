@@ -72,6 +72,13 @@
                         <item>Added attribute n to cell elements in tables.</item>
                     </list>
                 </change>
+                <change n="2" who="#sjh" when="2021-11-24">
+                    <list>
+                        <item>Added @n to rows in tables.</item>
+                        <item>Removed forename and surname from persName.</item>
+                        <item>Added @rend="inline" to quote in many places.</item>
+                    </list>
+                </change>
             </listChange>
         </revisionDesc>
     </teiHeader>
@@ -231,29 +238,30 @@
                                 >N<hi rend="superscript">3</hi></ref>) correctons can be discerned
                         in only a few places. The individual poems lack titles, but they are
                         separated from each other by brief spaces. The following subscription
-                        appears at the end of the whole work: <quote rend="inline" xml:lang="la">Aureliani
-                            Nemesiani Cartag&#773; bucol&#8217; explicit: Deo gratias amen</quote>.
-                        Finally, another more recent hand, as <ref target="#Bursian">Bursian</ref>
-                        and <ref target="#Schenkl">Schenkl</ref> recognized, wrote <foreign
-                            xml:lang="la">Calpurnii eclogae</foreign> and <quote rend="inline" xml:lang="la"
-                            >Nemesiani eclogae</quote>.</p>
+                        appears at the end of the whole work: <quote rend="inline" xml:lang="la"
+                            >Aureliani Nemesiani Cartag&#773; bucol&#8217; explicit: Deo gratias
+                            amen</quote>. Finally, another more recent hand, as <ref
+                            target="#Bursian">Bursian</ref> and <ref target="#Schenkl">Schenkl</ref>
+                        recognized, wrote <foreign xml:lang="la">Calpurnii eclogae</foreign> and
+                            <quote rend="inline" xml:lang="la">Nemesiani eclogae</quote>.</p>
 
                     <p>We know nothing about the origin and provenance of this manuscript except
                         what is understood from the following passages written on the last leaf:
-                            <quote rend="inline" xml:lang="la">Joannes Antonius Perillus patric. neap. ac iuvenis
-                            apprime litteratus Jacobum Perillum hoc libro donavit MDCVII, Klis
-                            Juniis</quote> (“Joannes Antonius Perillus, a nobleman of Naples and
-                        most learned gentleman, gave this book to Jacob Perillus in 1667 on the
-                        first of June”), and a little below, <quote rend="inline" xml:lang="la">Antonii Seripandi
-                            ex Jacobi Perilli amici opt. munere</quote> (<quote rend="inline">This book belongs to
-                        Antonius Seripandus, received as a gift from his best friend Jacob
-                        Perillus</quote>). Later it was brought to the library of San Giovanni a Carbonara,
-                        and from there it came to the greatest library in Naples, formerly known as
-                        the <orgName>Reale biblioteca borbonica</orgName>, (now the <orgName
-                            ref="http://www.bnnonline.it">Biblioteca nazionale Vittorio Emanuele
-                            III</orgName>). The manuscript was written at about the beginning of the
-                            <origDate notAfter="1500" notBefore="1400">fifteenth
-                        century</origDate>.</p>
+                            <quote rend="inline" xml:lang="la">Joannes Antonius Perillus patric.
+                            neap. ac iuvenis apprime litteratus Jacobum Perillum hoc libro donavit
+                            MDCVII, Klis Juniis</quote> (“Joannes Antonius Perillus, a nobleman of
+                        Naples and most learned gentleman, gave this book to Jacob Perillus in 1667
+                        on the first of June”), and a little below, <quote rend="inline"
+                            xml:lang="la">Antonii Seripandi ex Jacobi Perilli amici opt.
+                            munere</quote> (<quote rend="inline">This book belongs to Antonius
+                            Seripandus, received as a gift from his best friend Jacob
+                            Perillus</quote>). Later it was brought to the library of San Giovanni a
+                        Carbonara, and from there it came to the greatest library in Naples,
+                        formerly known as the <orgName>Reale biblioteca borbonica</orgName>, (now
+                        the <orgName ref="http://www.bnnonline.it">Biblioteca nazionale Vittorio
+                            Emanuele III</orgName>). The manuscript was written at about the
+                        beginning of the <origDate notAfter="1500" notBefore="1400">fifteenth
+                            century</origDate>.</p>
 
                     <p>Regarding <hi rend="bold">N</hi>, Jacques Philippe D’Orville was the first to
                         collate it carefully enough for Pieter Burmann’s use; his collation appears
@@ -292,25 +300,27 @@
                         52–55), and Calpurnius and Nemesianus (ff. 55–74). A very brief,
                         unattributed eclogue follows with the interlocutors Daphnis, Tityrus,
                         Mopsus, and Meliboeus. The following inscription has been added to the
-                        eclogues of Calpurnius: <quote rend="inline" xml:lang="la">Egloge Calfurnii ad nemesianum
-                            cartaginiensem.</quote> (<quote rend="inline">The Eclogues of Calfurnius to Nemesianus
-                            of Carthage</quote>). Nemesianus follows Calpurnius with the following
-                        title prefixed: <quote rend="inline" xml:lang="la">Aureliani nemesiani cartaginiensis
-                            egloghe incipiunt</quote> (<quote rend="inline">Here begin the eclogues of Aurelianus
-                            Nemesianus of Carthage</quote>). At the end of each eclogue there
-                        appears an <hi rend="italic">explicit</hi> with the number of each eclogue,
-                        but Calpurnius’ sixth eclogue lacks a subscription, and the following is
-                        written at the end of the seventh: <quote rend="inline" xml:lang="la">explicit sexta
-                            egloga Calphurnii</quote> (<quote rend="inline">Here ends the sixth eclogue of
-                            Calphurnius</quote>). This is explained by the fact that the seventh
-                        eclogue follows the sixth without any break, with the result that only six
-                        eclogues are attributed to Calpurnius in this manuscript. But in the margin,
-                        where the sixth eclogue ought to end, the copyist has added the following:
-                            <quote rend="inline" xml:lang="la">aliqui volunt dicere quod ista sit alia et diversa
-                            egloga ubi incipit “lentus," aliqui dicunt quod est una etc.</quote>
-                            (<quote rend="inline">Some wish to say that the eclogue that begins <hi rend="italic"
-                                >lentus</hi> is a completely different eclogue; others say that it
-                            is the same, etc.</quote>).</p>
+                        eclogues of Calpurnius: <quote rend="inline" xml:lang="la">Egloge Calfurnii
+                            ad nemesianum cartaginiensem.</quote> (<quote rend="inline">The Eclogues
+                            of Calfurnius to Nemesianus of Carthage</quote>). Nemesianus follows
+                        Calpurnius with the following title prefixed: <quote rend="inline"
+                            xml:lang="la">Aureliani nemesiani cartaginiensis egloghe
+                            incipiunt</quote> (<quote rend="inline">Here begin the eclogues of
+                            Aurelianus Nemesianus of Carthage</quote>). At the end of each eclogue
+                        there appears an <hi rend="italic">explicit</hi> with the number of each
+                        eclogue, but Calpurnius’ sixth eclogue lacks a subscription, and the
+                        following is written at the end of the seventh: <quote rend="inline"
+                            xml:lang="la">explicit sexta egloga Calphurnii</quote> (<quote
+                            rend="inline">Here ends the sixth eclogue of Calphurnius</quote>). This
+                        is explained by the fact that the seventh eclogue follows the sixth without
+                        any break, with the result that only six eclogues are attributed to
+                        Calpurnius in this manuscript. But in the margin, where the sixth eclogue
+                        ought to end, the copyist has added the following: <quote rend="inline"
+                            xml:lang="la">aliqui volunt dicere quod ista sit alia et diversa egloga
+                            ubi incipit “lentus," aliqui dicunt quod est una etc.</quote> (<quote
+                            rend="inline">Some wish to say that the eclogue that begins <hi
+                                rend="italic">lentus</hi> is a completely different eclogue; others
+                            say that it is the same, etc.</quote>).</p>
 
                     <p>The copyist himself added almost all of the corrections either by removing
                         scribal errors in the verses or adding variant readings to the margin. Some
@@ -373,13 +383,13 @@
                         the unique defects of each manuscript, not about the common defects that are
                         rightly assigned to the archetype), but Calp. 1.31–32 have been inverted,
                         and Nemes. 2.81 was inserted after 3.16. Then the copyist overlooked the
-                        following words: Calp. 6.46 <quote rend="inline" xml:lang="la">pignus</quote>, 6.90
-                            <foreign xml:lang="la">hoc</foreign>, Nemes. 1.23 <foreign xml:lang="la"
-                            >et</foreign>, 1.71 <foreign xml:lang="la">et</foreign>, 3.5 <foreign
-                            xml:lang="la">ex tereti</foreign>, 4.60 <foreign xml:lang="la"
-                            >audit</foreign>. Add to this the fact that in almost 130 places N
-                        offers the correct reading and G an erroneous one and the opposite happens a
-                        little less frequently.</p>
+                        following words: Calp. 6.46 <quote rend="inline" xml:lang="la"
+                            >pignus</quote>, 6.90 <foreign xml:lang="la">hoc</foreign>, Nemes. 1.23
+                            <foreign xml:lang="la">et</foreign>, 1.71 <foreign xml:lang="la"
+                            >et</foreign>, 3.5 <foreign xml:lang="la">ex tereti</foreign>, 4.60
+                            <foreign xml:lang="la">audit</foreign>. Add to this the fact that in
+                        almost 130 places N offers the correct reading and G an erroneous one and
+                        the opposite happens a little less frequently.</p>
 
                     <p>Each of the two manuscripts has some errors (N has more by far) in common
                         with V, which could not have happened in every case entirely by chance. The
@@ -389,17 +399,17 @@
                             <foreign xml:lang="la">verba</foreign> N, <foreign xml:lang="la"
                             >verba</foreign> and <foreign xml:lang="la">verbo</foreign> V, 6.82
                             <foreign xml:lang="la">te stante</foreign> NV, 7.33 <foreign
-                            xml:lang="la">tibi</foreign> GV, Nemes. 3.37 <quote rend="inline" xml:lang="la"
-                            >ostendit</quote>. The rest of the examples are either doubtful or
-                        should be disregarded entirely.</p>
+                            xml:lang="la">tibi</foreign> GV, Nemes. 3.37 <quote rend="inline"
+                            xml:lang="la">ostendit</quote>. The rest of the examples are either
+                        doubtful or should be disregarded entirely.</p>
 
                     <p>Next, some have deemed the following places in G as possibly
-                        suspicious:<!-- Maybe do this as a list? --> Calp. 1.12 <quote rend="inline" xml:lang="la"
-                            >errantes</quote>, 1.85 <foreign xml:lang="la">accipiet</foreign>, 3.20
-                            <foreign xml:lang="la">invenias</foreign>, 4.2 <foreign xml:lang="la"
-                            >obstrepit</foreign>, 4.53 <foreign xml:lang="la">discere</foreign>,
-                        4.72 <foreign xml:lang="la">aspernatur</foreign>, 4.85 <foreign
-                            xml:lang="la">corpore</foreign>, 4.105 <foreign xml:lang="la"
+                        suspicious:<!-- Maybe do this as a list? --> Calp. 1.12 <quote rend="inline"
+                            xml:lang="la">errantes</quote>, 1.85 <foreign xml:lang="la"
+                            >accipiet</foreign>, 3.20 <foreign xml:lang="la">invenias</foreign>, 4.2
+                            <foreign xml:lang="la">obstrepit</foreign>, 4.53 <foreign xml:lang="la"
+                            >discere</foreign>, 4.72 <foreign xml:lang="la">aspernatur</foreign>,
+                        4.85 <foreign xml:lang="la">corpore</foreign>, 4.105 <foreign xml:lang="la"
                             >enim</foreign>, 4.150 <foreign xml:lang="la">liquide</foreign>, 5.31
                             <foreign xml:lang="la">primum</foreign>, 5.44 <foreign xml:lang="la"
                             >pascua</foreign>, 5.52, <foreign xml:lang="la">quod</foreign>, 6.59
@@ -413,35 +423,35 @@
                             xml:lang="la">ethera</foreign>, 2.74 <foreign xml:lang="la"
                             >omnes</foreign>, 2.89 <foreign xml:lang="la">discedere</foreign>, 3.52
                             <foreign xml:lang="la">saliensque liquore</foreign>. But <foreign
-                            xml:lang="la">enim</foreign>, <quote rend="inline" xml:lang="la">pascua</quote>,
-                            <foreign xml:lang="la">mascillo</foreign>, <quote rend="inline" xml:lang="la"
-                            >in</quote>, <foreign xml:lang="la">canis</foreign> are without doubt
-                        glosses inserted later in place of the poets’ words. One could say the same
-                        thing about <foreign xml:lang="la">accipiet</foreign>, <foreign
-                            xml:lang="la">ethera</foreign>, <foreign xml:lang="la"
-                            >discedere</foreign>. Also <foreign xml:lang="la">aethera</foreign> and
-                            <foreign xml:lang="la">discedere</foreign> are just as good as <foreign
-                            xml:lang="la">aera</foreign> and <foreign xml:lang="la"
-                            >descendere</foreign>, and for a long time I was not sure which of the
-                        two I preferred. And <foreign xml:lang="la">liquide</foreign>, <quote rend="inline"
-                            xml:lang="la">primum</quote>, <foreign xml:lang="la">flavit</foreign>,
-                            <quote rend="inline" xml:lang="la">carmina</quote> (Nemes. I 16) should not be
-                        considered interpolations, but rather corruptions that arose in these places
-                        since the words that should have been written by the copyist appeared
-                        nearby. Thus, <foreign xml:lang="la">liquide</foreign> is derived from
-                            <foreign xml:lang="la">dulce</foreign>, <foreign xml:lang="la"
-                            >primum</foreign> from <foreign xml:lang="la">spatium</foreign>,
-                            <foreign xml:lang="la">flavit</foreign> from <foreign xml:lang="la"
-                            >inflare</foreign>, <foreign xml:lang="la">carmina</foreign> from
-                            <foreign xml:lang="la">carmine</foreign>. But <foreign xml:lang="la"
-                            >carmina</foreign> (Nemes. 1.63) is either a gloss or a corruption that
-                        owes its origin from the initial sound of the next word, and <foreign
-                            xml:lang="la">corpore</foreign> and <quote rend="inline" xml:lang="la">robore</quote>
-                        are very often confused in the manuscripts. Then there are these words:
-                            <foreign xml:lang="la">herus</foreign>, <foreign xml:lang="la"
-                            >raris</foreign>, <foreign xml:lang="la">omnes</foreign>. One would
-                        hardly believe that they were made by an interpolator since they are
-                        meaningless. But for the most part, the rest of the examples can be
+                            xml:lang="la">enim</foreign>, <quote rend="inline" xml:lang="la"
+                            >pascua</quote>, <foreign xml:lang="la">mascillo</foreign>, <quote
+                            rend="inline" xml:lang="la">in</quote>, <foreign xml:lang="la"
+                            >canis</foreign> are without doubt glosses inserted later in place of
+                        the poets’ words. One could say the same thing about <foreign xml:lang="la"
+                            >accipiet</foreign>, <foreign xml:lang="la">ethera</foreign>, <foreign
+                            xml:lang="la">discedere</foreign>. Also <foreign xml:lang="la"
+                            >aethera</foreign> and <foreign xml:lang="la">discedere</foreign> are
+                        just as good as <foreign xml:lang="la">aera</foreign> and <foreign
+                            xml:lang="la">descendere</foreign>, and for a long time I was not sure
+                        which of the two I preferred. And <foreign xml:lang="la">liquide</foreign>,
+                            <quote rend="inline" xml:lang="la">primum</quote>, <foreign
+                            xml:lang="la">flavit</foreign>, <quote rend="inline" xml:lang="la"
+                            >carmina</quote> (Nemes. I 16) should not be considered interpolations,
+                        but rather corruptions that arose in these places since the words that
+                        should have been written by the copyist appeared nearby. Thus, <foreign
+                            xml:lang="la">liquide</foreign> is derived from <foreign xml:lang="la"
+                            >dulce</foreign>, <foreign xml:lang="la">primum</foreign> from <foreign
+                            xml:lang="la">spatium</foreign>, <foreign xml:lang="la">flavit</foreign>
+                        from <foreign xml:lang="la">inflare</foreign>, <foreign xml:lang="la"
+                            >carmina</foreign> from <foreign xml:lang="la">carmine</foreign>. But
+                            <foreign xml:lang="la">carmina</foreign> (Nemes. 1.63) is either a gloss
+                        or a corruption that owes its origin from the initial sound of the next
+                        word, and <foreign xml:lang="la">corpore</foreign> and <quote rend="inline"
+                            xml:lang="la">robore</quote> are very often confused in the manuscripts.
+                        Then there are these words: <foreign xml:lang="la">herus</foreign>, <foreign
+                            xml:lang="la">raris</foreign>, <foreign xml:lang="la">omnes</foreign>.
+                        One would hardly believe that they were made by an interpolator since they
+                        are meaningless. But for the most part, the rest of the examples can be
                         attributed to an interpolator. The following places in N should be
                         considered: Calp. 1.13 <foreign xml:lang="la">sequar</foreign>, 4.46
                             <foreign xml:lang="la">inter nostras</foreign>, 4.136 <foreign
@@ -461,25 +471,25 @@
                             >querit</foreign> N, <foreign xml:lang="la">petit</foreign> G; 2.96
                             <foreign xml:lang="la">o</foreign> G; 3.50 <foreign xml:lang="la"
                             >turbidus</foreign> G; 4.63 <foreign xml:lang="la">carmen
-                            modulavit</foreign> G; 4.125 <quote rend="inline" xml:lang="la">placanda</quote> G;
-                        5.15 <foreign xml:lang="la">montibus</foreign> G; 5.16 <foreign
-                            xml:lang="la">cecinere</foreign> G; 5.104 <foreign xml:lang="la"
-                            >nectendum</foreign> N, <foreign xml:lang="la">videndum</foreign> G;
-                        Nemes. 2.30 <foreign xml:lang="la">nullo sudarunt</foreign> G, 4.28 <foreign
-                            xml:lang="la">volucrum tum</foreign> G; 4.39 <foreign xml:lang="la"
-                            >subeunte</foreign> G. Indeed it is hardly the case that all of these
-                        places are equally suspicious, for <foreign xml:lang="la">o</foreign> is a
-                        gloss, and I do not think one should think otherwise about <foreign
-                            xml:lang="la">carmen modulavit</foreign>. But <foreign xml:lang="la"
-                            >turbidus</foreign> is clearly an interpolation, which I could hardly
-                        say about <foreign xml:lang="la">volucrum tum</foreign>. Then <foreign
-                            xml:lang="la">querit</foreign> and <foreign xml:lang="la"
-                            >petit</foreign> perhaps stem from a poorly understood abbreviation of
-                        the word <quote rend="inline" xml:lang="la">quatit</quote>, but that gives me pause. But
-                        the other examples, with due respect to <ref target="#Schenkl"
-                        >Schenkl</ref>, are hardly attributable to interpolators, unless you happen
-                        to think that those interpolators were completely ignorant of the Latin
-                        language.</p>
+                            modulavit</foreign> G; 4.125 <quote rend="inline" xml:lang="la"
+                            >placanda</quote> G; 5.15 <foreign xml:lang="la">montibus</foreign> G;
+                        5.16 <foreign xml:lang="la">cecinere</foreign> G; 5.104 <foreign
+                            xml:lang="la">nectendum</foreign> N, <foreign xml:lang="la"
+                            >videndum</foreign> G; Nemes. 2.30 <foreign xml:lang="la">nullo
+                            sudarunt</foreign> G, 4.28 <foreign xml:lang="la">volucrum tum</foreign>
+                        G; 4.39 <foreign xml:lang="la">subeunte</foreign> G. Indeed it is hardly the
+                        case that all of these places are equally suspicious, for <foreign
+                            xml:lang="la">o</foreign> is a gloss, and I do not think one should
+                        think otherwise about <foreign xml:lang="la">carmen modulavit</foreign>. But
+                            <foreign xml:lang="la">turbidus</foreign> is clearly an interpolation,
+                        which I could hardly say about <foreign xml:lang="la">volucrum
+                        tum</foreign>. Then <foreign xml:lang="la">querit</foreign> and <foreign
+                            xml:lang="la">petit</foreign> perhaps stem from a poorly understood
+                        abbreviation of the word <quote rend="inline" xml:lang="la">quatit</quote>,
+                        but that gives me pause. But the other examples, with due respect to <ref
+                            target="#Schenkl">Schenkl</ref>, are hardly attributable to
+                        interpolators, unless you happen to think that those interpolators were
+                        completely ignorant of the Latin language.</p>
 
                     <p>But before we pass judgment on the authority of manuscripts N and G, we must
                         say a few things about the corrections that each manuscript underwent.</p>
@@ -495,23 +505,23 @@
                         order of verses, or he inserted notes about people. Since that is the case,
                         nearly all of the emendations by the first hand are good, or, to state it
                         more truthfully, they restore the wording of the archetype. At Calp. 1.20,
-                        the first hand corrected <foreign xml:lang="la">dipicta</foreign> to <quote rend="inline"
-                            xml:lang="la">depicta</quote>, which <ref target="#Jacoby">Jacoby</ref>
-                        recently defended in vain, since <foreign xml:lang="la">descripta</foreign>
-                        is to be read without doubt (cfr. Verg. Ecl. 5.13 and Calp. 1.25), but
-                            <foreign xml:lang="la">depicta</foreign> was in the archetype, as G
-                        shows us. Similarly at Nemes. 4.65 <foreign xml:lang="la">aversa</foreign>
-                        is wrong (cfr. Verg. Ecl. 8.101 sq.), and the first hand has changed the
-                        fault into <foreign xml:lang="la">adversa</foreign>, but <foreign
-                            xml:lang="la">adversa</foreign> is found in G, from which you can easily
-                        conclude that the same reading appeared in the archetype. Only once did the
-                        first hand corrupt the true reading of the archetype (Calp. 3.67 <foreign
-                            xml:lang="la">qui</foreign> from <foreign xml:lang="la">quam</foreign>),
-                        but that should be attributed to an abbreviation, not at all to his
-                        intellect. Finally, all of the corrections of the first hand are confirmed
-                        by the readings in manuscript G, with the exception of Calp. 1.24 <foreign
-                            xml:lang="la">propius</foreign>, where I have reasonable suspicion that
-                        the person who wrote G misread the word.</p>
+                        the first hand corrected <foreign xml:lang="la">dipicta</foreign> to <quote
+                            rend="inline" xml:lang="la">depicta</quote>, which <ref target="#Jacoby"
+                            >Jacoby</ref> recently defended in vain, since <foreign xml:lang="la"
+                            >descripta</foreign> is to be read without doubt (cfr. Verg. Ecl. 5.13
+                        and Calp. 1.25), but <foreign xml:lang="la">depicta</foreign> was in the
+                        archetype, as G shows us. Similarly at Nemes. 4.65 <foreign xml:lang="la"
+                            >aversa</foreign> is wrong (cfr. Verg. Ecl. 8.101 sq.), and the first
+                        hand has changed the fault into <foreign xml:lang="la">adversa</foreign>,
+                        but <foreign xml:lang="la">adversa</foreign> is found in G, from which you
+                        can easily conclude that the same reading appeared in the archetype. Only
+                        once did the first hand corrupt the true reading of the archetype (Calp.
+                        3.67 <foreign xml:lang="la">qui</foreign> from <foreign xml:lang="la"
+                            >quam</foreign>), but that should be attributed to an abbreviation, not
+                        at all to his intellect. Finally, all of the corrections of the first hand
+                        are confirmed by the readings in manuscript G, with the exception of Calp.
+                        1.24 <foreign xml:lang="la">propius</foreign>, where I have reasonable
+                        suspicion that the person who wrote G misread the word.</p>
 
                     <p xml:id="Ndesc-secondhand">The second hand’s so-called emendations are three
                         times as frequent as the first hand’s, but in terms of proportion, they are
@@ -534,8 +544,8 @@
                         </row>
                         <row n="2">
                             <cell n="1">1.20</cell>
-                            <cell n="2"><foreign xml:lang="la">depicta</foreign> N (ex <quote rend="inline"
-                                    xml:lang="la">dipicta</quote>) G</cell>
+                            <cell n="2"><foreign xml:lang="la">depicta</foreign> N (ex <quote
+                                    rend="inline" xml:lang="la">dipicta</quote>) G</cell>
                             <cell n="3">
                                 <foreign xml:lang="la">descripta</foreign>
                             </cell>
@@ -686,26 +696,28 @@
                             xml:lang="la">tirso</foreign> N²V pler.; 4.42 <foreign xml:lang="la"
                             >baetis</foreign>*, <foreign xml:lang="la">bethis</foreign> G, <foreign
                             xml:lang="la">beris</foreign> N, <foreign xml:lang="la"
-                            >bactrus</foreign> N²V; 4.53 <quote rend="inline" xml:lang="la">tantum-ventos</quote>*
-                        N G, <quote rend="inline" xml:lang="la">solum-nimbos</quote> N²V pler.; 4.75 <foreign
-                            xml:lang="la">quam</foreign>* G, <quote rend="inline" xml:lang="la">q&#773;m</quote>
+                            >bactrus</foreign> N²V; 4.53 <quote rend="inline" xml:lang="la"
+                            >tantum-ventos</quote>* N G, <quote rend="inline" xml:lang="la"
+                            >solum-nimbos</quote> N²V pler.; 4.75 <foreign xml:lang="la"
+                            >quam</foreign>* G, <quote rend="inline" xml:lang="la">q&#773;m</quote>
                         N, <foreign xml:lang="la">qua</foreign> N²V nonn.; 4.131 <foreign
                             xml:lang="la">iam surdant</foreign>* G, <foreign xml:lang="la">iam
                             surdat</foreign> N, <foreign xml:lang="la">exsurdant</foreign> N²V
-                        nonn.; 4.148 <quote rend="inline" xml:lang="la">deas</quote>* G (<foreign xml:lang="la"
-                            >deas</foreign> = <hi rend="italic">Musas</hi>, as <ref target="#Leo">F.
-                            Leo</ref> demonstrated), <quote rend="inline" xml:lang="la">d’as</quote> N, <foreign
-                            xml:lang="la">deos</foreign> N²V; 5.49 <foreign xml:lang="la"
-                            >afferet</foreign>* N G, <foreign xml:lang="la">afferat</foreign> N²V
-                        nonn.; 5.61 <quote rend="inline" xml:lang="la">serique-premendi</quote>* N G, <quote rend="inline"
-                            xml:lang="la">seraeque-merendae</quote> N²V; 5.97 <foreign xml:lang="la"
+                        nonn.; 4.148 <quote rend="inline" xml:lang="la">deas</quote>* G (<foreign
+                            xml:lang="la">deas</foreign> = <hi rend="italic">Musas</hi>, as <ref
+                            target="#Leo">F. Leo</ref> demonstrated), <quote rend="inline"
+                            xml:lang="la">d’as</quote> N, <foreign xml:lang="la">deos</foreign> N²V;
+                        5.49 <foreign xml:lang="la">afferet</foreign>* N G, <foreign xml:lang="la"
+                            >afferat</foreign> N²V nonn.; 5.61 <quote rend="inline" xml:lang="la"
+                            >serique-premendi</quote>* N G, <quote rend="inline" xml:lang="la"
+                            >seraeque-merendae</quote> N²V; 5.97 <foreign xml:lang="la"
                             >circitor</foreign>* N G, <foreign xml:lang="la">vinitor</foreign> N²V;
                         5.99 <foreign xml:lang="la">nunc</foreign>* N G, <foreign xml:lang="la"
                             >tunc</foreign> N²V; 6.47 <foreign xml:lang="la">perdere</foreign>* N,
                             <foreign xml:lang="la">prodere</foreign> G, <foreign xml:lang="la"
                             >pendere</foreign> N²V; 6.75 <foreign xml:lang="la">illis</foreign> N G,
-                            <foreign xml:lang="la">ipsi</foreign> N²V, pler.; N 1.27 <quote rend="inline"
-                            xml:lang="la">laudem</quote>* N G, <foreign xml:lang="la"
+                            <foreign xml:lang="la">ipsi</foreign> N²V, pler.; N 1.27 <quote
+                            rend="inline" xml:lang="la">laudem</quote>* N G, <foreign xml:lang="la"
                             >musam</foreign> N²V; 1.54 <foreign xml:lang="la">iuris</foreign>* N G,
                             <foreign xml:lang="la">iusti</foreign> N²V; 2.28 <foreign xml:lang="la"
                             >nostros posset</foreign>* N G, <foreign xml:lang="la">posset
@@ -724,32 +736,32 @@
                             >afferet</foreign> N²; 1.85 <foreign xml:lang="la">excipiet</foreign>*
                         N, <foreign xml:lang="la">excuciet</foreign> N²; 2.76 <foreign xml:lang="la"
                             >herbas</foreign>* N G, <foreign xml:lang="la">uvas</foreign> N²; 3.25
-                            <foreign xml:lang="la">sprevi</foreign>* G, <quote rend="inline" xml:lang="la"
-                            >spiritu&#773;</quote> N, <foreign xml:lang="la">speciem</foreign> N²;
-                        3.46 <foreign xml:lang="la">acerba</foreign>* N G, <foreign xml:lang="la"
-                            >avena</foreign> N²; 4.79 <foreign xml:lang="la">succinet</foreign>*,
-                            <foreign xml:lang="la">subcinit</foreign> G, <foreign xml:lang="la"
-                            >succinit</foreign> N, <foreign xml:lang="la">sucinat</foreign> N²;
-                        4.106 <foreign xml:lang="la">palen</foreign>*, <foreign xml:lang="la"
-                            >panem</foreign> N G, <foreign xml:lang="la">palam</foreign> N²; 4.111
-                            <foreign xml:lang="la">densat</foreign>* G, <foreign xml:lang="la"
-                            >pensat</foreign> N, <foreign xml:lang="la">pulsat</foreign> N²; 4.121
-                            <foreign xml:lang="la">et</foreign>* N G, <foreign xml:lang="la"
-                            >at</foreign> N²; 4.124 <foreign xml:lang="la">saliat</foreign>*,
-                            <foreign xml:lang="la">psallat</foreign> G, <foreign xml:lang="la"
-                            >psalat</foreign> N, <foreign xml:lang="la">psaliat</foreign> N²; 5.27
-                            <foreign xml:lang="la">voca</foreign>* N G, <foreign xml:lang="la"
-                            >loca</foreign> N²; 6.19 <foreign xml:lang="la">vis</foreign>* N G,
-                            <foreign xml:lang="la">visne</foreign> N²; 6.37 <foreign xml:lang="la"
-                            >fruticat</foreign>*, <foreign xml:lang="la">fruticet</foreign> G,
-                            <quote rend="inline" xml:lang="la">frutiō</quote> N, <foreign xml:lang="la"
-                            >fruticem</foreign> N²; 6.69 <foreign xml:lang="la">mutavimus</foreign>*
-                        N G, <foreign xml:lang="la">mutuabimus</foreign> N²; Nemes. 1.1 <foreign
-                            xml:lang="la">fiscella</foreign>* N G, <quote rend="inline" xml:lang="la"
-                            >cistella</quote> N², 1.5 <foreign xml:lang="la">versuque</foreign>* N
-                        G, <foreign xml:lang="la">versusque</foreign> N²; 2.17 <foreign
-                            xml:lang="la">leves</foreign>* N G, <foreign xml:lang="la"
-                            >lenes</foreign> N².</p>
+                            <foreign xml:lang="la">sprevi</foreign>* G, <quote rend="inline"
+                            xml:lang="la">spiritu&#773;</quote> N, <foreign xml:lang="la"
+                            >speciem</foreign> N²; 3.46 <foreign xml:lang="la">acerba</foreign>* N
+                        G, <foreign xml:lang="la">avena</foreign> N²; 4.79 <foreign xml:lang="la"
+                            >succinet</foreign>*, <foreign xml:lang="la">subcinit</foreign> G,
+                            <foreign xml:lang="la">succinit</foreign> N, <foreign xml:lang="la"
+                            >sucinat</foreign> N²; 4.106 <foreign xml:lang="la">palen</foreign>*,
+                            <foreign xml:lang="la">panem</foreign> N G, <foreign xml:lang="la"
+                            >palam</foreign> N²; 4.111 <foreign xml:lang="la">densat</foreign>* G,
+                            <foreign xml:lang="la">pensat</foreign> N, <foreign xml:lang="la"
+                            >pulsat</foreign> N²; 4.121 <foreign xml:lang="la">et</foreign>* N G,
+                            <foreign xml:lang="la">at</foreign> N²; 4.124 <foreign xml:lang="la"
+                            >saliat</foreign>*, <foreign xml:lang="la">psallat</foreign> G, <foreign
+                            xml:lang="la">psalat</foreign> N, <foreign xml:lang="la"
+                            >psaliat</foreign> N²; 5.27 <foreign xml:lang="la">voca</foreign>* N G,
+                            <foreign xml:lang="la">loca</foreign> N²; 6.19 <foreign xml:lang="la"
+                            >vis</foreign>* N G, <foreign xml:lang="la">visne</foreign> N²; 6.37
+                            <foreign xml:lang="la">fruticat</foreign>*, <foreign xml:lang="la"
+                            >fruticet</foreign> G, <quote rend="inline" xml:lang="la">frutiō</quote>
+                        N, <foreign xml:lang="la">fruticem</foreign> N²; 6.69 <foreign xml:lang="la"
+                            >mutavimus</foreign>* N G, <foreign xml:lang="la">mutuabimus</foreign>
+                        N²; Nemes. 1.1 <foreign xml:lang="la">fiscella</foreign>* N G, <quote
+                            rend="inline" xml:lang="la">cistella</quote> N², 1.5 <foreign
+                            xml:lang="la">versuque</foreign>* N G, <foreign xml:lang="la"
+                            >versusque</foreign> N²; 2.17 <foreign xml:lang="la">leves</foreign>* N
+                        G, <foreign xml:lang="la">lenes</foreign> N².</p>
 
                     <p>And so if the second hand’s emendations agree with manuscripts of family V,
                         they can add no authority to them, since they arose from them; but if they
@@ -762,8 +774,8 @@
                         hand, of which three are good (Calp. 2.1 <foreign xml:lang="la"
                             >puer</foreign>, 2.4 <foreign xml:lang="la">gravis</foreign>, 2.33
                             <foreign xml:lang="la">pomona</foreign>) and two are bad (Calp. 1.59
-                            <foreign xml:lang="la">truderit</foreign>, 5.11 <quote rend="inline" xml:lang="la"
-                            >ganā</quote>).</p>
+                            <foreign xml:lang="la">truderit</foreign>, 5.11 <quote rend="inline"
+                            xml:lang="la">ganā</quote>).</p>
 
                     <p xml:id="Gdesc-hand">Manuscript G offers more than eighty emendations in its
                         own right. With two or three exceptions where you can recognize another
@@ -833,11 +845,12 @@
                                 <bibl><title>De cantu avium et sono quadrupedum</title> (ff.
                             32–33)</bibl>, the <bibl><title>Bucolica</title></bibl> of Calpurnius
                         and Nemesianus attributed to Calpurnius alone (ff. 35–61). Folios 31 and 34
-                        are blank. At the end I read the following subscription: <quote rend="inline"
-                            xml:lang="la">die 4 augusti 1463 ego petrus feliciter peregi</quote>
-                            (<quote rend="inline">On August 4, 1463, I, Peter, finished this</quote>; cf. <bibl
-                            xml:id="Sabbadini"><author>R. Sabbadini</author>, <title>Le scoperte dei
-                                codici latini e greci ne’ secoli XIV e XV</title>, p. 16 n. 82 <ptr
+                        are blank. At the end I read the following subscription: <quote
+                            rend="inline" xml:lang="la">die 4 augusti 1463 ego petrus feliciter
+                            peregi</quote> (<quote rend="inline">On August 4, 1463, I, Peter,
+                            finished this</quote>; cf. <bibl xml:id="Sabbadini"><author>R.
+                                Sabbadini</author>, <title>Le scoperte dei codici latini e greci ne’
+                                secoli XIV e XV</title>, p. 16 n. 82 <ptr
                                 target="https://archive.org/stream/lescopertedeicod01sabbuoft"
                             /></bibl>). In 1909 I was the first to collate this manuscript, which
                         was entirely unknown to previous editors.</p>
@@ -884,15 +897,16 @@
                         manuscript. The eleven eclogues of Calpurnius are contained on leaves
                         95ʳ–113ᵛ of this manuscript, along with many poems by various authors that
                         it is not necessary to report here. The following subscription appears at
-                        the end of this work: <quote rend="inline"><foreign xml:lang="la">Federicus De Veteranis
-                                Urbinas sub divo Federico Urbinat, duce invictiss. romanae ecclesi.
-                                dictat. transcripsit</foreign></quote> (<quote rend="inline">Federico Veterano of
-                            Urbino, in service to Federico di Montefeltro, Duke of Urbino, Commander
-                            of the most indomitable Roman Church, copied this manuscript</quote>).
-                        And a little below that: <quote rend="inline"><foreign xml:lang="la">quo principe
-                                decedente utinam et ego de medio tunc sublatus quiescerem ab
-                                instanti temporum calamitate</foreign></quote> (<quote rend="inline">When that
-                            prince dies, may I, too, be taken from your midst and find rest from the
+                        the end of this work: <quote rend="inline"><foreign xml:lang="la">Federicus
+                                De Veteranis Urbinas sub divo Federico Urbinat, duce invictiss.
+                                romanae ecclesi. dictat. transcripsit</foreign></quote> (<quote
+                            rend="inline">Federico Veterano of Urbino, in service to Federico di
+                            Montefeltro, Duke of Urbino, Commander of the most indomitable Roman
+                            Church, copied this manuscript</quote>). And a little below that: <quote
+                            rend="inline"><foreign xml:lang="la">quo principe decedente utinam et
+                                ego de medio tunc sublatus quiescerem ab instanti temporum
+                                calamitate</foreign></quote> (<quote rend="inline">When that prince
+                            dies, may I, too, be taken from your midst and find rest from the
                             approaching times of disaster</quote>).</p>
 
                     <p xml:id="CodVatPalatinus1652">Codex Vaticanus Palatinus 1652 (<ref target="#π"
@@ -902,10 +916,11 @@
                         leaves, with thirty-seven verses per page. It contains Tibullus (ff. 1–28ʳ),
                         Catullus (ff. 28ᵛ–60ʳ), Calpurnius’ eleven eclogues (ff. 60ʳ–74ᵛ),
                         Propertius (ff. 74ᵛ–129). The following is written at the end of the work
-                        (cfr. <ref target="#Sabbadini">Sabbadini</ref>): <quote rend="inline" xml:lang="la">a M’
-                            petro montopolitano die XXI februarii 1460</quote> (<quote rend="inline">By the hand
-                            of master Petrus Montopolitanus on February 21, 1460</quote>). That is
-                        followed by two hexameters written on the death of Giannozzo Manetti. </p>
+                        (cfr. <ref target="#Sabbadini">Sabbadini</ref>): <quote rend="inline"
+                            xml:lang="la">a M’ petro montopolitano die XXI februarii 1460</quote>
+                            (<quote rend="inline">By the hand of master Petrus Montopolitanus on
+                            February 21, 1460</quote>). That is followed by two hexameters written
+                        on the death of Giannozzo Manetti. </p>
 
                     <p xml:id="CodVatReginensis1759">Codex Vaticanus Reginensis 1759 (<ref
                             target="χ" rend="bold">χ</ref>). This manuscript was formerly in the
@@ -952,8 +967,9 @@
                         leaves, with twenty-five verses per page. It contains the eleven eclogues of
                         Calpurnius (ff. 140–161), along with the poems of Vergil, Statius, Caudian,
                         Maximian and other ancient poets. At the end it is inscribed as follows:
-                            <quote rend="inline" xml:lang="la">Georgii Ant. Vespuccii liber</quote> (<quote rend="inline">This
-                            book belongs to Giorgio Antonio Vespucci</quote>).</p>
+                            <quote rend="inline" xml:lang="la">Georgii Ant. Vespuccii liber</quote>
+                            (<quote rend="inline">This book belongs to Giorgio Antonio
+                            Vespucci</quote>).</p>
 
                     <p xml:id="CodRiccardianus724">Codex Riccardianus 724, formerly L IIII 10 (<ref
                             target="#κ" rend="bold">κ</ref>). It was written in the <origDate
@@ -1010,8 +1026,8 @@
                             rend="bold">δ</ref>), but I have not inspected them personally.</p>
 
                     <p xml:id="CodGothanus55">Regarding the <ref target="θ">codex Gothanus</ref>
-                        <ref target="Wernsdorf">Wernsdorf</ref> reported the following:
-                            <quote rend="inline">Written on parchment, octavo. After Vergil’s
+                        <ref target="Wernsdorf">Wernsdorf</ref> reported the following: <quote
+                            rend="inline">Written on parchment, octavo. After Vergil’s
                                     <bibl><title>Bucolics</title></bibl>,
                                     <bibl><title>Georgics</title></bibl>, and
                                     <bibl><title>Aeneid</title></bibl>, it has the seven eclogues of
@@ -1019,16 +1035,17 @@
                             just before the fifteenth century. Moreover, it was damaged, or copied
                             from a damaged manuscript, since the seventh eclogue ends at verse 65.
                             After an empty space on the last part of the page, the copyist has
-                            written the following subscription: <quote rend="inline" xml:lang="la">Finis: haec
-                                quae de Calphurnio inveniuntur</quote> (<quote rend="inline">The end. These are
-                                the poems that were composed by Calpurnius</quote>).</quote> I. G.
-                        Meusel collated the manuscript for Wernsdorf.</p>
+                            written the following subscription: <quote rend="inline" xml:lang="la"
+                                >Finis: haec quae de Calphurnio inveniuntur</quote> (<quote
+                                rend="inline">The end. These are the poems that were composed by
+                                Calpurnius</quote>).</quote> I. G. Meusel collated the manuscript
+                        for Wernsdorf.</p>
 
                     <p><ref target="#Glaeser">Glaeser</ref> says the following about the two codices
-                        in the Bibliotheca Rehdigerana (Vratislavia): <quote rend="blockquote">The newer codex
-                            Rehdigeranus (i.e., I 4, 11—<ref target="#δ">δ</ref> in this edition),
-                            retrieved from the Rehdigeran Library that stands in this city (i.e.,
-                            Vratislavia), is a quarto volume of paper. It was written in the
+                        in the Bibliotheca Rehdigerana (Vratislavia): <quote rend="blockquote">The
+                            newer codex Rehdigeranus (i.e., I 4, 11—<ref target="#δ">δ</ref> in this
+                            edition), retrieved from the Rehdigeran Library that stands in this city
+                            (i.e., Vratislavia), is a quarto volume of paper. It was written in the
                             fifteenth century, carelessly. It has 115 folios. All eleven eclogues
                             are ascribed to Calpurnius. They are found on folios 3.1–22.1. No
                             inscription is found in this book, aside from the one on its front, and
@@ -1038,16 +1055,16 @@
                             verses. Although this book has many defects, nevertheless I can confirm
                             that it does not entirely lack good readings. I collated it
                             myself.</quote>
-                        <quote rend="blockquote">The older codex Rehdigeranus (i.e., I 4, 10—<ref target="#η">η</ref>
-                            in this edition) was loaned from the Rehdigeran Library, which is in
-                            this city, for my use. It is an octavo volume with a mixture of paper
-                            and parchment. It was beautifully written in the fifteenth century, and
-                            it consists of 130 folios. All eleven of the ecloges it contains are
-                            assigned to Calpurnius. They are on folios 3.1-27.1. The titles and the
-                            signs for characters are written in red ink. Each page as twenty-two or
-                            twenty-three verses. Moreover, many of the minor poems of Vergil and
-                            others (even some more recent authors) were copied in it. I collated it
-                            myself.</quote></p>
+                        <quote rend="blockquote">The older codex Rehdigeranus (i.e., I 4, 10—<ref
+                                target="#η">η</ref> in this edition) was loaned from the Rehdigeran
+                            Library, which is in this city, for my use. It is an octavo volume with
+                            a mixture of paper and parchment. It was beautifully written in the
+                            fifteenth century, and it consists of 130 folios. All eleven of the
+                            ecloges it contains are assigned to Calpurnius. They are on folios
+                            3.1-27.1. The titles and the signs for characters are written in red
+                            ink. Each page as twenty-two or twenty-three verses. Moreover, many of
+                            the minor poems of Vergil and others (even some more recent authors)
+                            were copied in it. I collated it myself.</quote></p>
 
                     <p>I have very carefully noted the readings of all of these manuscripts in the
                         apparatus criticus, but I have omitted certain unique readings, especially
@@ -1100,15 +1117,17 @@
                         3.25, 3.30) and one verse has been made from the two verses Calp. 2.18–19.
                         On the other hand, Calp. 1.42 is missing in <ref target="#N">N</ref> and
                             <ref target="#G">G</ref>, and the following words have been omitted:
-                        Calp. 4.94 <foreign xml:lang="la">posito</foreign>, 7.71 <quote rend="inline"
-                            xml:lang="la">et</quote>, Nemes. 3.6 <foreign xml:lang="la">hanc pueri
-                            tamquam</foreign>. Moreover, in <ref target="#N">N</ref>
+                        Calp. 4.94 <foreign xml:lang="la">posito</foreign>, 7.71 <quote
+                            rend="inline" xml:lang="la">et</quote>, Nemes. 3.6 <foreign
+                            xml:lang="la">hanc pueri tamquam</foreign>. Moreover, in <ref
+                            target="#N">N</ref>
                         <ref target="G">G</ref> Calpurnius 5.7 is placed before 5.6 and in <ref
                             target="#V">V</ref> Calpurnius 5.67 is placed before 5.66. But since
                         verses and supplied words have been passed down from antiquity and cannot be
                         attributed to interpolators, the carelessness of copyists must not be blamed
-                        in these passages. But with regard to the words <quote rend="inline" xml:lang="la">(h)anc
-                            pueri tamquam</quote>, which were omitted in <ref target="#N">N</ref>
+                        in these passages. But with regard to the words <quote rend="inline"
+                            xml:lang="la">(h)anc pueri tamquam</quote>, which were omitted in <ref
+                            target="#N">N</ref>
                         <ref target="#G">G</ref> even though there was space for them, the copyist,
                         in my opinion, deliberately omitted them because he did not understand the
                         writing in the archetype.</p>
@@ -1143,19 +1162,20 @@
                             <foreign xml:lang="la">vanaque</foreign>, 5.28 <foreign xml:lang="la"
                             >vivat</foreign>, 5.45 <foreign xml:lang="la">peragunt</foreign>, 5.77
                             <foreign xml:lang="la">contrahit</foreign>, 5.82 <foreign xml:lang="la"
-                            >rara</foreign>, 5.84 <quote rend="inline" xml:lang="la">let(h)es</quote>, 5.117
-                            <quote rend="inline" xml:lang="la">sint(ne)</quote>, 6.70 <foreign xml:lang="la"
-                            >dabis</foreign>, 6.76 <foreign xml:lang="la">hinc</foreign>, 7.48
-                            <foreign xml:lang="la">tibi</foreign>, 7.57 <foreign xml:lang="la"
-                            >esse</foreign>, 7.65 <quote rend="inline" xml:lang="la">(a)equoreis</quote>, 7.67
-                            <foreign xml:lang="la">anne</foreign>, 7.80 <foreign xml:lang="la"
+                            >rara</foreign>, 5.84 <quote rend="inline" xml:lang="la"
+                            >let(h)es</quote>, 5.117 <quote rend="inline" xml:lang="la"
+                            >sint(ne)</quote>, 6.70 <foreign xml:lang="la">dabis</foreign>, 6.76
+                            <foreign xml:lang="la">hinc</foreign>, 7.48 <foreign xml:lang="la"
+                            >tibi</foreign>, 7.57 <foreign xml:lang="la">esse</foreign>, 7.65 <quote
+                            rend="inline" xml:lang="la">(a)equoreis</quote>, 7.67 <foreign
+                            xml:lang="la">anne</foreign>, 7.80 <foreign xml:lang="la"
                             >proprius</foreign>, 7.82 <foreign xml:lang="la">obfuerat</foreign>
                         <ref target="#G">G</ref>
                         <foreign xml:lang="la">offuerant</foreign>
                         <ref target="#N">N</ref>, Nemes. 1.11 <foreign xml:lang="la">et
-                            versu</foreign>, 1.14 <foreign xml:lang="la">nam</foreign>, 1.38 <quote rend="inline"
-                            xml:lang="la">si sentire datur mi(t)tite</quote>, 1.42 <foreign
-                            xml:lang="la">novisti</foreign>, 1.46 <foreign xml:lang="la"
+                            versu</foreign>, 1.14 <foreign xml:lang="la">nam</foreign>, 1.38 <quote
+                            rend="inline" xml:lang="la">si sentire datur mi(t)tite</quote>, 1.42
+                            <foreign xml:lang="la">novisti</foreign>, 1.46 <foreign xml:lang="la"
                             >hic</foreign>, 1.70 <foreign xml:lang="la">honor</foreign>, 1.73
                             <foreign xml:lang="la">tunc</foreign>
                         <ref target="#N">N</ref>, 2.6 <foreign xml:lang="la">veneris</foreign>, 2.45
@@ -1163,15 +1183,16 @@
                             >cum</foreign>, 2.73 <foreign xml:lang="la">vates fauni</foreign>, 3.17
                             <foreign xml:lang="la">cepit fatus</foreign>, 3.41 <foreign
                             xml:lang="la">hoc</foreign>, 3.51 <foreign xml:lang="la">vocabula
-                            cimbula</foreign>, 3.57 <quote rend="inline" xml:lang="la">cūcubitum</quote>
+                            cimbula</foreign>, 3.57 <quote rend="inline" xml:lang="la"
+                            >cūcubitum</quote>
                         <ref target="#N">N</ref>
                         <foreign xml:lang="la">concubitum</foreign>
                         <ref target="#G">G</ref>, 4.10 <foreign xml:lang="la">animos</foreign> (<hi
                             rend="italic">s</hi> exp.) <ref target="#G">G</ref>, <foreign
                             xml:lang="la">arons</foreign>
-                        <ref target="#N">N</ref>, 4.21 <quote rend="inline" xml:lang="la">(h)erit-florem</quote>,
-                        4.47 <quote rend="inline" xml:lang="la">habunda(n)s</quote>, 4.58 <foreign xml:lang="la"
-                            >annos</foreign>.</p>
+                        <ref target="#N">N</ref>, 4.21 <quote rend="inline" xml:lang="la"
+                            >(h)erit-florem</quote>, 4.47 <quote rend="inline" xml:lang="la"
+                            >habunda(n)s</quote>, 4.58 <foreign xml:lang="la">annos</foreign>.</p>
 
                     <p>Glosses have been received into the text in the following passages: Calp. 1.5
                             <foreign xml:lang="la">molliter</foreign>, Nemes. 1.49 <foreign
@@ -1181,14 +1202,15 @@
                         word placed at the beginning of the verse, and <foreign xml:lang="la"
                             >visus</foreign> Calp. 7.84 comes from the preceding verse. There are
                         certainly some passages that you could trace back to an interpolator: Calp.
-                        1.20 <foreign xml:lang="la">depicta</foreign>, 1.24 <quote rend="inline" xml:lang="la"
-                            >altos</quote>, 1.25 <foreign xml:lang="la">codice</foreign>, 1.87
-                            <quote rend="inline" xml:lang="la">a</quote>, 2.26 <foreign xml:lang="la"
-                            >ibi</foreign>, 4.82 <quote rend="inline" xml:lang="la">canat</quote>, 4.152 <quote rend="inline"
-                            xml:lang="la">olim-decurrent</quote>, 6.52 <foreign xml:lang="la"
-                            >illa</foreign>, 6.78 <foreign xml:lang="la">provocat ille</foreign>,
-                        7.6 <foreign xml:lang="la">in umbra</foreign>, Nemes. 2.20 <foreign
-                            xml:lang="la">atque</foreign>, 4.39 <quote rend="inline" xml:lang="la"
+                        1.20 <foreign xml:lang="la">depicta</foreign>, 1.24 <quote rend="inline"
+                            xml:lang="la">altos</quote>, 1.25 <foreign xml:lang="la"
+                            >codice</foreign>, 1.87 <quote rend="inline" xml:lang="la">a</quote>,
+                        2.26 <foreign xml:lang="la">ibi</foreign>, 4.82 <quote rend="inline"
+                            xml:lang="la">canat</quote>, 4.152 <quote rend="inline" xml:lang="la"
+                            >olim-decurrent</quote>, 6.52 <foreign xml:lang="la">illa</foreign>,
+                        6.78 <foreign xml:lang="la">provocat ille</foreign>, 7.6 <foreign
+                            xml:lang="la">in umbra</foreign>, Nemes. 2.20 <foreign xml:lang="la"
+                            >atque</foreign>, 4.39 <quote rend="inline" xml:lang="la"
                             >subeunt(e)</quote>, but, from the perspective of the archetype, I would
                         attribute even these passages, with one or two exceptions, to the ignorance
                         or carelessness of a copyist.</p>
@@ -1212,36 +1234,39 @@
                             <foreign xml:lang="la">fore</foreign> or <foreign xml:lang="la"
                             >fere</foreign>, 2.82 <foreign xml:lang="la">novembri</foreign>, 2.94
                             <foreign xml:lang="la">vocat</foreign>, 3.16 <foreign xml:lang="la"
-                            >spatiatus</foreign>, 3.24 <quote rend="inline" xml:lang="la">tu solus-Iolla
-                            es</quote>, 3.33 <foreign xml:lang="la">vagetur</foreign>, 3.35 <foreign
-                            xml:lang="la">quod</foreign>, 3.47 <foreign xml:lang="la">excusso
-                            dispergit</foreign>, 3.48 <quote rend="inline" xml:lang="la">destructa</quote>, 3.60
-                            <foreign xml:lang="la">inops</foreign>, 3.62 <quote rend="inline" xml:lang="la"
-                            >narrare</quote>, 3.69 <quote rend="inline" xml:lang="la">nulla-lactis</quote>, 3.75
-                            <foreign xml:lang="la">dubita</foreign>, 3.95 <foreign xml:lang="la"
+                            >spatiatus</foreign>, 3.24 <quote rend="inline" xml:lang="la">tu
+                            solus-Iolla es</quote>, 3.33 <foreign xml:lang="la">vagetur</foreign>,
+                        3.35 <foreign xml:lang="la">quod</foreign>, 3.47 <foreign xml:lang="la"
+                            >excusso dispergit</foreign>, 3.48 <quote rend="inline" xml:lang="la"
+                            >destructa</quote>, 3.60 <foreign xml:lang="la">inops</foreign>, 3.62
+                            <quote rend="inline" xml:lang="la">narrare</quote>, 3.69 <quote
+                            rend="inline" xml:lang="la">nulla-lactis</quote>, 3.75 <foreign
+                            xml:lang="la">dubita</foreign>, 3.95 <foreign xml:lang="la"
                             >ara</foreign>, 4.10 <foreign xml:lang="la">munera</foreign>, 4.14
                             <foreign xml:lang="la">dum</foreign>, 4.16 <foreign xml:lang="la"
                             >proxima</foreign>, 4.24 <foreign xml:lang="la">et</foreign>, 4.35
                             <foreign xml:lang="la">pellere</foreign>, 4.41 <foreign xml:lang="la"
                             >germani</foreign>, 4.42 <foreign xml:lang="la">bactrus</foreign>, 4.53
-                            <quote rend="inline" xml:lang="la">solum-noscere nimbos</quote>, 4.84 <foreign
-                            xml:lang="la">nunc</foreign>, 4.87 <foreign xml:lang="la">te</foreign>,
-                        4.90 <foreign xml:lang="la">visurus</foreign>, 4.125 <foreign xml:lang="la"
-                            >ut quoque turba bono plaudat saginata magistro</foreign>, 4.129 <quote rend="inline"
-                            xml:lang="la">nonnullas-choreas</quote>, 4.131 <foreign xml:lang="la"
+                            <quote rend="inline" xml:lang="la">solum-noscere nimbos</quote>, 4.84
+                            <foreign xml:lang="la">nunc</foreign>, 4.87 <foreign xml:lang="la"
+                            >te</foreign>, 4.90 <foreign xml:lang="la">visurus</foreign>, 4.125
+                            <foreign xml:lang="la">ut quoque turba bono plaudat saginata
+                            magistro</foreign>, 4.129 <quote rend="inline" xml:lang="la"
+                            >nonnullas-choreas</quote>, 4.131 <foreign xml:lang="la"
                             >exurdant</foreign> or <foreign xml:lang="la">exundant</foreign>, 4.132
                             <foreign xml:lang="la">lyaeo</foreign> or simile quid, 4.137 <foreign
                             xml:lang="la">nisi</foreign>, 4.144 <foreign xml:lang="la">vivas et
                             hunc</foreign>, 4.146 <foreign xml:lang="la">terram</foreign>, 4.151
-                            <quote rend="inline" xml:lang="la">sonant</quote>, 4.152 <foreign xml:lang="la">quam
-                            tenero</foreign>, 4.155 <foreign xml:lang="la">contigerit</foreign>, 5.2
-                            <foreign xml:lang="la">arbore</foreign>, 5.12 <foreign xml:lang="la"
-                            >iamdudum</foreign> or <foreign xml:lang="la">iampridem</foreign>, 5.17
-                            <foreign xml:lang="la">habitabit</foreign>, 5.19 <foreign xml:lang="la"
-                            >tota</foreign>, 5.24 <foreign xml:lang="la">mittito clausos</foreign>,
-                        5.30 <foreign xml:lang="la">accedere</foreign>, 5.34 <foreign xml:lang="la"
-                            >messe fluat</foreign>, 5.58 <foreign xml:lang="la">sine</foreign> or
-                            <foreign xml:lang="la">sive</foreign>, 5.61 <quote rend="inline" xml:lang="la"
+                            <quote rend="inline" xml:lang="la">sonant</quote>, 4.152 <foreign
+                            xml:lang="la">quam tenero</foreign>, 4.155 <foreign xml:lang="la"
+                            >contigerit</foreign>, 5.2 <foreign xml:lang="la">arbore</foreign>, 5.12
+                            <foreign xml:lang="la">iamdudum</foreign> or <foreign xml:lang="la"
+                            >iampridem</foreign>, 5.17 <foreign xml:lang="la">habitabit</foreign>,
+                        5.19 <foreign xml:lang="la">tota</foreign>, 5.24 <foreign xml:lang="la"
+                            >mittito clausos</foreign>, 5.30 <foreign xml:lang="la"
+                            >accedere</foreign>, 5.34 <foreign xml:lang="la">messe fluat</foreign>,
+                        5.58 <foreign xml:lang="la">sine</foreign> or <foreign xml:lang="la"
+                            >sive</foreign>, 5.61 <quote rend="inline" xml:lang="la"
                             >seraeque-merendae</quote>, 5.65 <foreign xml:lang="la"
                             >coagula</foreign>
                         <foreign xml:lang="la">lactis</foreign>, 5.77 <foreign xml:lang="la"
@@ -1264,31 +1289,32 @@
                             <foreign xml:lang="la">ipse</foreign> or <foreign xml:lang="la"
                             >ipsi</foreign>, 6.79 <foreign xml:lang="la">merito nihil hic
                             nisi</foreign>, 6.82 <foreign xml:lang="la">te stante</foreign>, 7.4
-                            <quote rend="inline" xml:lang="la">iam durior</quote>, 7.6 <foreign xml:lang="la"
-                            >ardet</foreign>, 7.21 <quote rend="inline" xml:lang="la">certare</quote>, 7.30
-                            <foreign xml:lang="la">contendit</foreign>, 7.49 <foreign xml:lang="la"
-                            >peragit</foreign>, 7.59 <foreign xml:lang="la">nocticanam</foreign> or
-                            <foreign xml:lang="la">nicticanam</foreign>, 7.66 <foreign xml:lang="la"
-                            >dignum</foreign>, 7.68 <foreign xml:lang="la">venientibus</foreign>,
-                        7.69 <foreign xml:lang="la">nos</foreign>, 7.71 <foreign xml:lang="la"
-                            >latebris</foreign>, 7.72 <foreign xml:lang="la">croceo</foreign>,
-                        Nemes. 1.9 <foreign xml:lang="la">meam mihi care senectam</foreign>, 1.13
-                            <foreign xml:lang="la">stupuere</foreign>, 1.25 <foreign xml:lang="la"
-                            >modulantibus</foreign> or <foreign xml:lang="la">modulatibus</foreign>,
-                        1.27 <foreign xml:lang="la">musam</foreign>, 1.29 <foreign xml:lang="la"
-                            >quercus</foreign>, 1.37 <foreign xml:lang="la">calamos</foreign>, 1.47
-                            <foreign xml:lang="la">pelleret</foreign>, 1.67 <foreign xml:lang="la"
-                            >campo</foreign>, 1.74 <foreign xml:lang="la">secuntur</foreign>, 1.75
-                            <foreign xml:lang="la">nascentur</foreign>, 1.85 <foreign xml:lang="la"
-                            >plena</foreign> or <foreign xml:lang="la">plene</foreign>, 2.3 <foreign
-                            xml:lang="la">furiata</foreign>, 2.28 <foreign xml:lang="la">posset
-                            rapidos</foreign> or <foreign xml:lang="la">rabidos</foreign>, 2.30
-                            <foreign xml:lang="la">lamberunt</foreign> or <foreign xml:lang="la"
-                            >biberunt</foreign>, 2.37 <foreign xml:lang="la">Idas ille ego
-                            sum</foreign>, 2.44 <foreign xml:lang="la">nigra</foreign>, 2.71 <quote rend="inline"
-                            xml:lang="la">cupiam</quote>, 3.19 <foreign xml:lang="la">qui
-                            quando</foreign>, 3.20 <quote rend="inline" xml:lang="la">odorato-capillo</quote>,
-                        3.29 <foreign xml:lang="la">et vocat ad</foreign>, 3.34 <foreign
+                            <quote rend="inline" xml:lang="la">iam durior</quote>, 7.6 <foreign
+                            xml:lang="la">ardet</foreign>, 7.21 <quote rend="inline" xml:lang="la"
+                            >certare</quote>, 7.30 <foreign xml:lang="la">contendit</foreign>, 7.49
+                            <foreign xml:lang="la">peragit</foreign>, 7.59 <foreign xml:lang="la"
+                            >nocticanam</foreign> or <foreign xml:lang="la">nicticanam</foreign>,
+                        7.66 <foreign xml:lang="la">dignum</foreign>, 7.68 <foreign xml:lang="la"
+                            >venientibus</foreign>, 7.69 <foreign xml:lang="la">nos</foreign>, 7.71
+                            <foreign xml:lang="la">latebris</foreign>, 7.72 <foreign xml:lang="la"
+                            >croceo</foreign>, Nemes. 1.9 <foreign xml:lang="la">meam mihi care
+                            senectam</foreign>, 1.13 <foreign xml:lang="la">stupuere</foreign>, 1.25
+                            <foreign xml:lang="la">modulantibus</foreign> or <foreign xml:lang="la"
+                            >modulatibus</foreign>, 1.27 <foreign xml:lang="la">musam</foreign>,
+                        1.29 <foreign xml:lang="la">quercus</foreign>, 1.37 <foreign xml:lang="la"
+                            >calamos</foreign>, 1.47 <foreign xml:lang="la">pelleret</foreign>, 1.67
+                            <foreign xml:lang="la">campo</foreign>, 1.74 <foreign xml:lang="la"
+                            >secuntur</foreign>, 1.75 <foreign xml:lang="la">nascentur</foreign>,
+                        1.85 <foreign xml:lang="la">plena</foreign> or <foreign xml:lang="la"
+                            >plene</foreign>, 2.3 <foreign xml:lang="la">furiata</foreign>, 2.28
+                            <foreign xml:lang="la">posset rapidos</foreign> or <foreign
+                            xml:lang="la">rabidos</foreign>, 2.30 <foreign xml:lang="la"
+                            >lamberunt</foreign> or <foreign xml:lang="la">biberunt</foreign>, 2.37
+                            <foreign xml:lang="la">Idas ille ego sum</foreign>, 2.44 <foreign
+                            xml:lang="la">nigra</foreign>, 2.71 <quote rend="inline" xml:lang="la"
+                            >cupiam</quote>, 3.19 <foreign xml:lang="la">qui quando</foreign>, 3.20
+                            <quote rend="inline" xml:lang="la">odorato-capillo</quote>, 3.29
+                            <foreign xml:lang="la">et vocat ad</foreign>, 3.34 <foreign
                             xml:lang="la">summas</foreign>, 3.37 <foreign xml:lang="la"
                             >ostendit</foreign>, 3.40 <foreign xml:lang="la">pueri</foreign>, 3.45
                             <foreign xml:lang="la">udaque</foreign> or <foreign xml:lang="la"
@@ -1315,20 +1341,21 @@
                 <p xml:id="CodPar8049Lat">Our only witness to the third family is codex Parisinus
                     8049 (= <ref target="#P" rend="bold">P</ref>). F. Buecheler (in his edition of
                     Petronius [Berlin 1862, p. XXf.]) describes its outer appearance as follows:
-                        <quote rend="blockquote">Parchment, quarto volume, bound in three parts: I. Introduction on
-                        Satire, Perseus; II. end of the 11th century, according to Kelius, end of
-                        the 12th century, according to Froehnerus, the end of the second book of the
-                                <bibl><title>De Divinatione</title> by
-                            <author>Cicero</author></bibl>. On the verso of leaf 17: <quote rend="inline"
-                            xml:lang="la">Marci Tullii de divinacione liber IIᵘˢ explicit. Petronii
-                            arbitri satirarum liber incipit</quote>. On the recto of leaf 25: <quote rend="inline"
-                            xml:lang="la">explicit Petronius. incipit egologa Calpurnii (nondum
-                            solis equos I 1—quicquid id est silvestre etc. IIII 12)</quote>. III.
-                        12th century. Seneca’s proverbs.</quote> Regarding this manuscript or one
-                    very similar to it, Poggio wrote the following to Niccolò de’ Niccoli (Epist.
-                    1.91) in 1423: <quote rend="inline">mittas ad me oro Bucolicam Calpurnii et particulam
-                        Petronii, quas misi tibi ex Britannia</quote> (<quote rend="inline">Please send me
-                        Calpurnius’ <bibl><title>Bucolia</title></bibl> and the excerpt of Petronius
+                        <quote rend="blockquote">Parchment, quarto volume, bound in three parts: I.
+                        Introduction on Satire, Perseus; II. end of the 11th century, according to
+                        Kelius, end of the 12th century, according to Froehnerus, the end of the
+                        second book of the <bibl><title>De Divinatione</title> by
+                                <author>Cicero</author></bibl>. On the verso of leaf 17: <quote
+                            rend="inline" xml:lang="la">Marci Tullii de divinacione liber IIᵘˢ
+                            explicit. Petronii arbitri satirarum liber incipit</quote>. On the recto
+                        of leaf 25: <quote rend="inline" xml:lang="la">explicit Petronius. incipit
+                            egologa Calpurnii (nondum solis equos I 1—quicquid id est silvestre etc.
+                            IIII 12)</quote>. III. 12th century. Seneca’s proverbs.</quote>
+                    Regarding this manuscript or one very similar to it, Poggio wrote the following
+                    to Niccolò de’ Niccoli (Epist. 1.91) in 1423: <quote rend="inline">mittas ad me
+                        oro Bucolicam Calpurnii et particulam Petronii, quas misi tibi ex
+                        Britannia</quote> (<quote rend="inline">Please send me Calpurnius’
+                                <bibl><title>Bucolia</title></bibl> and the excerpt of Petronius
                         that I sent to you from England.</quote>; cfr. <ref target="#Sabbadini"
                         >Sabbadini</ref> p. 83 n. 52). <ref target="#Pithou">Pithou</ref> was the
                     first to use this manuscript, then <ref target="#Heinsius">Heinsius</ref>, as it
@@ -1356,8 +1383,8 @@
                     </row>
                     <row n="2">
                         <cell n="1">1.1</cell>
-                        <cell n="2"><foreign xml:lang="la">declinis</foreign> N, <quote rend="inline"
-                                xml:lang="la">declivis</quote> G V</cell>
+                        <cell n="2"><foreign xml:lang="la">declinis</foreign> N, <quote
+                                rend="inline" xml:lang="la">declivis</quote> G V</cell>
                         <cell n="3">
                             <foreign xml:lang="la">declivus</foreign>
                         </cell>
@@ -1414,17 +1441,17 @@
                     </row>
                     <row n="11">
                         <cell n="1">1.52</cell>
-                        <cell n="2"><foreign xml:lang="la">subigentur</foreign> N G, <quote rend="inline"
-                                xml:lang="la">subigentur</quote> vel <foreign xml:lang="la"
-                                >subdentur</foreign> V</cell>
+                        <cell n="2"><foreign xml:lang="la">subigentur</foreign> N G, <quote
+                                rend="inline" xml:lang="la">subigentur</quote> vel <foreign
+                                xml:lang="la">subdentur</foreign> V</cell>
                         <cell n="3">
                             <foreign xml:lang="la">subiguntur</foreign>
                         </cell>
                     </row>
                     <row n="12">
                         <cell n="1">1.53</cell>
-                        <cell n="2"><foreign xml:lang="la">inmergentque</foreign> G, <quote rend="inline"
-                                xml:lang="la">immergentque</quote> N V</cell>
+                        <cell n="2"><foreign xml:lang="la">inmergentque</foreign> G, <quote
+                                rend="inline" xml:lang="la">immergentque</quote> N V</cell>
                         <cell n="3">
                             <foreign xml:lang="la">imverguntque</foreign>
                         </cell>
@@ -1445,35 +1472,35 @@
                     </row>
                     <row n="15">
                         <cell n="1">1.85</cell>
-                        <cell n="2"><foreign xml:lang="la">excipiet</foreign> N V, <quote rend="inline"
-                                xml:lang="la">accipiet</quote> G</cell>
+                        <cell n="2"><foreign xml:lang="la">excipiet</foreign> N V, <quote
+                                rend="inline" xml:lang="la">accipiet</quote> G</cell>
                         <cell n="3">
                             <foreign xml:lang="la">excipient</foreign>
                         </cell>
                     </row>
                     <row n="16">
                         <cell n="1">1.89</cell>
-                        <cell n="2"><foreign xml:lang="la">velut</foreign> N V, <quote rend="inline" xml:lang="la"
-                                >velud</quote> G</cell>
+                        <cell n="2"><foreign xml:lang="la">velut</foreign> N V, <quote rend="inline"
+                                xml:lang="la">velud</quote> G</cell>
                         <cell n="3">
                             <foreign xml:lang="la">velit</foreign>
                         </cell>
                     </row>
                     <row n="17">
                         <cell n="1">1.94</cell>
-                        <cell n="2"><foreign xml:lang="la">aures</foreign> or <quote rend="inline" xml:lang="la"
-                                >auris</quote> N G V</cell>
+                        <cell n="2"><foreign xml:lang="la">aures</foreign> or <quote rend="inline"
+                                xml:lang="la">auris</quote> N G V</cell>
                         <cell n="3">
                             <foreign xml:lang="la">auras</foreign>
                         </cell>
                     </row>
                     <row n="18">
                         <cell n="1">2.4</cell>
-                        <cell n="2"><foreign xml:lang="la">hy cum terras</foreign> N G, <quote rend="inline"
-                                xml:lang="la">terras hi</quote> or <foreign xml:lang="la">ii
-                                cum</foreign> V</cell>
-                        <cell n="3"><quote rend="inline" xml:lang="la">hīc</quote> (om. <foreign xml:lang="la">cum
-                                terras</foreign>)</cell>
+                        <cell n="2"><foreign xml:lang="la">hy cum terras</foreign> N G, <quote
+                                rend="inline" xml:lang="la">terras hi</quote> or <foreign
+                                xml:lang="la">ii cum</foreign> V</cell>
+                        <cell n="3"><quote rend="inline" xml:lang="la">hīc</quote> (om. <foreign
+                                xml:lang="la">cum terras</foreign>)</cell>
                     </row>
                     <row n="19">
                         <cell n="1">2.21</cell>
@@ -1498,8 +1525,8 @@
                     </row>
                     <row n="22">
                         <cell n="1">2.23</cell>
-                        <cell n="2"><quote rend="inline" xml:lang="la">hīc</quote> N G, <quote rend="inline" xml:lang="la"
-                                >hoc</quote> V</cell>
+                        <cell n="2"><quote rend="inline" xml:lang="la">hīc</quote> N G, <quote
+                                rend="inline" xml:lang="la">hoc</quote> V</cell>
                         <cell n="3">
                             <foreign xml:lang="la">hac</foreign>
                         </cell>
@@ -1513,8 +1540,8 @@
                     </row>
                     <row n="24">
                         <cell n="1">2.29</cell>
-                        <cell n="2"><foreign xml:lang="la">teda</foreign> or <quote rend="inline" xml:lang="la"
-                                >taeda</quote> N G V</cell>
+                        <cell n="2"><foreign xml:lang="la">teda</foreign> or <quote rend="inline"
+                                xml:lang="la">taeda</quote> N G V</cell>
                         <cell n="3">
                             <foreign xml:lang="la">deda</foreign>
                         </cell>
@@ -1542,16 +1569,17 @@
                     </row>
                     <row n="28">
                         <cell n="1">2.47</cell>
-                        <cell n="2"><foreign xml:lang="la">fetura</foreign> or <quote rend="inline" xml:lang="la"
-                                >foetura</quote> N G V</cell>
+                        <cell n="2"><foreign xml:lang="la">fetura</foreign> or <quote rend="inline"
+                                xml:lang="la">foetura</quote> N G V</cell>
                         <cell n="3">
                             <foreign xml:lang="la">factura</foreign>
                         </cell>
                     </row>
                     <row n="29">
                         <cell n="1">2.52</cell>
-                        <cell n="2"><foreign xml:lang="la">crocalem</foreign> or <quote rend="inline"
-                                xml:lang="la">crotalem</quote> or something similar N G V</cell>
+                        <cell n="2"><foreign xml:lang="la">crocalem</foreign> or <quote
+                                rend="inline" xml:lang="la">crotalem</quote> or something similar N
+                            G V</cell>
                         <cell n="3">
                             <quote rend="inline" xml:lang="la">talē</quote>
                         </cell>
@@ -1570,9 +1598,9 @@
                     </row>
                     <row n="32">
                         <cell n="1">2.73</cell>
-                        <cell n="2"><foreign xml:lang="la">tenues citius</foreign> G, <quote rend="inline"
-                                xml:lang="la">cicius tenues</quote> N, <foreign xml:lang="la">citius
-                                tenues</foreign> V</cell>
+                        <cell n="2"><foreign xml:lang="la">tenues citius</foreign> G, <quote
+                                rend="inline" xml:lang="la">cicius tenues</quote> N, <foreign
+                                xml:lang="la">citius tenues</foreign> V</cell>
                         <cell n="3">
                             <foreign xml:lang="la">tenues cuius</foreign>
                         </cell>
@@ -1593,25 +1621,25 @@
                     </row>
                     <row n="35">
                         <cell n="1">2.74</cell>
-                        <cell n="2"><foreign xml:lang="la">bruma</foreign> N (ex <quote rend="inline"
-                                xml:lang="la">pbruma</quote>) G V</cell>
+                        <cell n="2"><foreign xml:lang="la">bruma</foreign> N (ex <quote
+                                rend="inline" xml:lang="la">pbruma</quote>) G V</cell>
                         <cell n="3">
                             <foreign xml:lang="la">prima</foreign>
                         </cell>
                     </row>
                     <row n="36">
                         <cell n="1">2.81</cell>
-                        <cell n="2"><foreign xml:lang="la">renidenti</foreign> G, <quote rend="inline"
-                                xml:lang="la">renitendi</quote> N, <foreign xml:lang="la"
-                                >renitenti</foreign> V</cell>
+                        <cell n="2"><foreign xml:lang="la">renidenti</foreign> G, <quote
+                                rend="inline" xml:lang="la">renitendi</quote> N, <foreign
+                                xml:lang="la">renitenti</foreign> V</cell>
                         <cell n="3">
                             <foreign xml:lang="la">redempti</foreign>
                         </cell>
                     </row>
                     <row n="37">
                         <cell n="1">2.81</cell>
-                        <cell n="2"><foreign xml:lang="la">chias</foreign> N G, <quote rend="inline" xml:lang="la"
-                                >thilas</quote> V</cell>
+                        <cell n="2"><foreign xml:lang="la">chias</foreign> N G, <quote rend="inline"
+                                xml:lang="la">thilas</quote> V</cell>
                         <cell n="3">
                             <foreign xml:lang="la">cymas</foreign>
                         </cell>
@@ -1639,16 +1667,16 @@
                     </row>
                     <row n="41">
                         <cell n="1">3.2</cell>
-                        <cell n="2"><foreign xml:lang="la">tauris</foreign> N V, <quote rend="inline"
-                                xml:lang="la">thauris</quote> G</cell>
+                        <cell n="2"><foreign xml:lang="la">tauris</foreign> N V, <quote
+                                rend="inline" xml:lang="la">thauris</quote> G</cell>
                         <cell n="3">
                             <quote rend="inline" xml:lang="la">tātis</quote>
                         </cell>
                     </row>
                     <row n="42">
                         <cell n="1">3.6</cell>
-                        <cell n="2"><foreign xml:lang="la">nec quicquam</foreign> or <quote rend="inline"
-                                xml:lang="la">quidquam</quote> N G V</cell>
+                        <cell n="2"><foreign xml:lang="la">nec quicquam</foreign> or <quote
+                                rend="inline" xml:lang="la">quidquam</quote> N G V</cell>
                         <cell n="3">
                             <foreign xml:lang="la">ne quisquam</foreign>
                         </cell>
@@ -1690,8 +1718,9 @@
                     </row>
                     <row n="48">
                         <cell n="1">3.32</cell>
-                        <cell n="2"><foreign xml:lang="la">te licida</foreign> ve <quote rend="inline"
-                                xml:lang="la">lycida</quote> or something similar N G V</cell>
+                        <cell n="2"><foreign xml:lang="la">te licida</foreign> ve <quote
+                                rend="inline" xml:lang="la">lycida</quote> or something similar N G
+                            V</cell>
                         <cell n="3">
                             <foreign xml:lang="la">theliocida</foreign>
                         </cell>
@@ -1761,9 +1790,9 @@
                     </row>
                     <row n="58">
                         <cell n="1">3.66</cell>
-                        <cell n="2"><foreign xml:lang="la">multris</foreign> G, <quote rend="inline" xml:lang="la"
-                                >multis</quote> N, <foreign xml:lang="la">mulctris</foreign> or
-                            something similar V</cell>
+                        <cell n="2"><foreign xml:lang="la">multris</foreign> G, <quote rend="inline"
+                                xml:lang="la">multis</quote> N, <foreign xml:lang="la"
+                                >mulctris</foreign> or something similar V</cell>
                         <cell n="3">
                             <quote rend="inline" xml:lang="la">ī ultrix</quote>
                         </cell>
@@ -1902,8 +1931,9 @@
                         <cell n="2">
                             <foreign xml:lang="la">annosa</foreign>
                         </cell>
-                        <cell n="3"><foreign xml:lang="la">herbosa</foreign> or <quote rend="inline" xml:lang="la"
-                                >umbrosa</quote> or <foreign xml:lang="la">herbora</foreign></cell>
+                        <cell n="3"><foreign xml:lang="la">herbosa</foreign> or <quote rend="inline"
+                                xml:lang="la">umbrosa</quote> or <foreign xml:lang="la"
+                                >herbora</foreign></cell>
                     </row>
                     <row n="10">
                         <cell n="1">2.30</cell>
@@ -1973,24 +2003,24 @@
                         <cell n="2">
                             <foreign xml:lang="la">figere</foreign>
                         </cell>
-                        <cell n="3"><foreign xml:lang="la">fundere</foreign> or <quote rend="inline" xml:lang="la"
-                                >fraude</quote></cell>
+                        <cell n="3"><foreign xml:lang="la">fundere</foreign> or <quote rend="inline"
+                                xml:lang="la">fraude</quote></cell>
                     </row>
                     <row n="18">
                         <cell n="1">2.67</cell>
                         <cell n="2">
                             <foreign xml:lang="la">sunt</foreign>
                         </cell>
-                        <cell n="3"><foreign xml:lang="la">fore</foreign> or <quote rend="inline" xml:lang="la"
-                                >fere</quote></cell>
+                        <cell n="3"><foreign xml:lang="la">fore</foreign> or <quote rend="inline"
+                                xml:lang="la">fere</quote></cell>
                     </row>
                     <row n="19">
                         <cell n="1">2.94</cell>
                         <cell n="2">
                             <foreign xml:lang="la">agat</foreign>
                         </cell>
-                        <cell n="3"><foreign xml:lang="la">vocat</foreign> or <quote rend="inline" xml:lang="la"
-                                >vocet</quote> or something similar</cell>
+                        <cell n="3"><foreign xml:lang="la">vocat</foreign> or <quote rend="inline"
+                                xml:lang="la">vocet</quote> or something similar</cell>
                     </row>
                     <row n="20">
                         <cell n="1">3.2</cell>
@@ -2085,16 +2115,16 @@
                     </row>
                     <row n="2">
                         <cell n="1">1.9</cell>
-                        <cell n="2"><foreign xml:lang="la">densent</foreign> N, <quote rend="inline" xml:lang="la"
-                                >denset</quote> G P</cell>
+                        <cell n="2"><foreign xml:lang="la">densent</foreign> N, <quote rend="inline"
+                                xml:lang="la">denset</quote> G P</cell>
                         <cell n="3">
                             <foreign xml:lang="la">densat</foreign>
                         </cell>
                     </row>
                     <row n="3">
                         <cell n="1">1.45</cell>
-                        <cell n="2"><foreign xml:lang="la">vicit</foreign> N P <quote rend="inline" xml:lang="la"
-                                >vīcit</quote> G</cell>
+                        <cell n="2"><foreign xml:lang="la">vicit</foreign> N P <quote rend="inline"
+                                xml:lang="la">vīcit</quote> G</cell>
                         <cell n="3">
                             <foreign xml:lang="la">lusit</foreign>
                         </cell>
@@ -2106,16 +2136,16 @@
                     </row>
                     <row n="5">
                         <cell n="1">3.60</cell>
-                        <cell n="2"><foreign xml:lang="la">iners</foreign> N G, <quote rend="inline" xml:lang="la"
-                                >inexs</quote> P</cell>
+                        <cell n="2"><foreign xml:lang="la">iners</foreign> N G, <quote rend="inline"
+                                xml:lang="la">inexs</quote> P</cell>
                         <cell n="3">
                             <foreign xml:lang="la">inops</foreign>
                         </cell>
                     </row>
                     <row n="6">
                         <cell n="1">3.95</cell>
-                        <cell n="2"><foreign xml:lang="la">sub horti</foreign>] <foreign xml:lang="la">sub
-                                orti</foreign> N G P</cell>
+                        <cell n="2"><foreign xml:lang="la">sub horti</foreign>] <foreign
+                                xml:lang="la">sub orti</foreign> N G P</cell>
                         <cell n="3">
                             <foreign xml:lang="la">sub ara</foreign>
                         </cell>
@@ -2134,15 +2164,16 @@
                     </row>
                     <row n="2">
                         <cell n="1">1.8</cell>
-                        <cell n="2"><foreign xml:lang="la">antra</foreign>-9 <quote rend="inline" xml:lang="la"
-                                >ista</quote></cell>
-                        <cell n="3"><foreign xml:lang="la">ista</foreign>-9 <quote rend="inline" xml:lang="la"
-                                >antra</quote></cell>
+                        <cell n="2"><foreign xml:lang="la">antra</foreign>-9 <quote rend="inline"
+                                xml:lang="la">ista</quote></cell>
+                        <cell n="3"><foreign xml:lang="la">ista</foreign>-9 <quote rend="inline"
+                                xml:lang="la">antra</quote></cell>
                     </row>
                     <row n="3">
                         <cell n="1">1.64</cell>
-                        <cell n="2"><foreign xml:lang="la">referet</foreign> N, <quote rend="inline" xml:lang="la"
-                                >referent</quote> G (but corrected in the margin)</cell>
+                        <cell n="2"><foreign xml:lang="la">referet</foreign> N, <quote rend="inline"
+                                xml:lang="la">referent</quote> G (but corrected in the
+                            margin)</cell>
                         <cell n="3">
                             <foreign xml:lang="la">revocet</foreign>
                         </cell>
@@ -2179,8 +2210,8 @@
                         <cell n="2">
                             <foreign xml:lang="la">irriguos</foreign>
                         </cell>
-                        <cell n="3"><foreign xml:lang="la">inriguis</foreign> P, <quote rend="inline" xml:lang="la"
-                                >irriguis</quote> V</cell>
+                        <cell n="3"><foreign xml:lang="la">inriguis</foreign> P, <quote
+                                rend="inline" xml:lang="la">irriguis</quote> V</cell>
                     </row>
                     <row n="8">
                         <cell n="1">2.45</cell>
@@ -2269,7 +2300,8 @@
                             <foreign xml:lang="la">dubites</foreign>
                         </cell>
                         <cell n="3">
-                            <quote rend="inline" xml:lang="la">dubita <!-- Giarratano omits V here --></quote>
+                            <quote rend="inline" xml:lang="la">dubita
+                                <!-- Giarratano omits V here --></quote>
                         </cell>
                     </row>
                     <row n="18">
@@ -2316,8 +2348,8 @@
                         <cell n="2">
                             <foreign xml:lang="la">descripta</foreign>
                         </cell>
-                        <cell n="3"><foreign xml:lang="la">depicta</foreign> N (from <quote rend="inline" xml:lang="la"
-                                >dipicta</quote>) G</cell>
+                        <cell n="3"><foreign xml:lang="la">depicta</foreign> N (from <quote
+                                rend="inline" xml:lang="la">dipicta</quote>) G</cell>
                     </row>
                     <row n="4">
                         <cell n="1">1.24</cell>
@@ -2368,8 +2400,8 @@
                         <cell n="2">
                             <foreign xml:lang="la">quatit</foreign>
                         </cell>
-                        <cell n="3"><foreign xml:lang="la">querit</foreign> N <quote rend="inline" xml:lang="la"
-                                >petit</quote> G</cell>
+                        <cell n="3"><foreign xml:lang="la">querit</foreign> N <quote rend="inline"
+                                xml:lang="la">petit</quote> G</cell>
                     </row>
                     <row n="11">
                         <cell n="1">2.32</cell>
@@ -2467,70 +2499,72 @@
                     <row n="2">
                         <cell n="1">1.46</cell>
                         <cell n="2"><foreign xml:lang="la">victas</foreign> N G P</cell>
-                        <cell n="3"><foreign xml:lang="la">vinctas</foreign>* or <quote rend="inline" xml:lang="la"
-                                >victas</quote></cell>
+                        <cell n="3"><foreign xml:lang="la">vinctas</foreign>* or <quote
+                                rend="inline" xml:lang="la">victas</quote></cell>
                     </row>
                     <row n="3">
                         <cell n="1">1.61</cell>
                         <cell n="2"><foreign xml:lang="la">laxabit</foreign> G P</cell>
-                        <cell n="3"><foreign xml:lang="la">lassabit</foreign>* or <quote rend="inline" xml:lang="la"
-                                >laxabit</quote></cell>
+                        <cell n="3"><foreign xml:lang="la">lassabit</foreign>* or <quote
+                                rend="inline" xml:lang="la">laxabit</quote></cell>
                     </row>
                     <row n="4">
                         <cell n="1">1.80</cell>
-                        <cell n="2"><foreign xml:lang="la">numquid</foreign>* G, <foreign xml:lang="la"
-                                >non quod</foreign> P</cell>
-                        <cell n="3"><foreign xml:lang="la">numquid</foreign> or <foreign xml:lang="la">non
-                                quod</foreign> or <foreign xml:lang="la">non per</foreign></cell>
+                        <cell n="2"><foreign xml:lang="la">numquid</foreign>* G, <foreign
+                                xml:lang="la">non quod</foreign> P</cell>
+                        <cell n="3"><foreign xml:lang="la">numquid</foreign> or <foreign
+                                xml:lang="la">non quod</foreign> or <foreign xml:lang="la">non
+                                per</foreign></cell>
                     </row>
                     <row n="5">
                         <cell n="1">2.14</cell>
                         <cell n="2">
                             <foreign xml:lang="la">affuerant</foreign>
                         </cell>
-                        <cell n="3"><foreign xml:lang="la">affuerunt</foreign>* or <quote rend="inline" xml:lang="la"
-                                >affuerant</quote></cell>
+                        <cell n="3"><foreign xml:lang="la">affuerunt</foreign>* or <quote
+                                rend="inline" xml:lang="la">affuerant</quote></cell>
                     </row>
                     <row n="6">
                         <cell n="1">2.26</cell>
-                        <cell n="2"><foreign xml:lang="la">iactate</foreign>* N G, <quote rend="inline" xml:lang="la"
-                                >iactare</quote> P</cell>
-                        <cell n="3"><foreign xml:lang="la">iactate</foreign> or <quote rend="inline" xml:lang="la"
-                                >iactare</quote></cell>
+                        <cell n="2"><foreign xml:lang="la">iactate</foreign>* N G, <quote
+                                rend="inline" xml:lang="la">iactare</quote> P</cell>
+                        <cell n="3"><foreign xml:lang="la">iactate</foreign> or <quote rend="inline"
+                                xml:lang="la">iactare</quote></cell>
                     </row>
                     <row n="7">
                         <cell n="1">2.48</cell>
-                        <cell n="2"><foreign xml:lang="la">arida</foreign>* N G, <quote rend="inline" xml:lang="la"
-                                >altera</quote> P</cell>
-                        <cell n="3"><foreign xml:lang="la">arida</foreign> or <quote rend="inline" xml:lang="la"
-                                >altera</quote> or <foreign xml:lang="la">avida</foreign></cell>
+                        <cell n="2"><foreign xml:lang="la">arida</foreign>* N G, <quote
+                                rend="inline" xml:lang="la">altera</quote> P</cell>
+                        <cell n="3"><foreign xml:lang="la">arida</foreign> or <quote rend="inline"
+                                xml:lang="la">altera</quote> or <foreign xml:lang="la"
+                                >avida</foreign></cell>
                     </row>
                     <row n="8">
                         <cell n="1">3.18</cell>
-                        <cell n="2"><foreign xml:lang="la">contentus</foreign>* N G, <quote rend="inline" xml:lang="la"
-                                >contemptus</quote> P</cell>
-                        <cell n="3"><foreign xml:lang="la">contentus</foreign> or <quote rend="inline" xml:lang="la"
-                                >contemptus</quote></cell>
+                        <cell n="2"><foreign xml:lang="la">contentus</foreign>* N G, <quote
+                                rend="inline" xml:lang="la">contemptus</quote> P</cell>
+                        <cell n="3"><foreign xml:lang="la">contentus</foreign> or <quote
+                                rend="inline" xml:lang="la">contemptus</quote></cell>
                     </row>
                     <row n="9">
                         <cell n="1">3.55</cell>
-                        <cell n="2"><foreign xml:lang="la">te</foreign>* N G, <quote rend="inline" xml:lang="la"
-                                >tu</quote> P</cell>
-                        <cell n="3"><foreign xml:lang="la">tu</foreign> or <quote rend="inline" xml:lang="la"
-                            >te</quote></cell>
+                        <cell n="2"><foreign xml:lang="la">te</foreign>* N G, <quote rend="inline"
+                                xml:lang="la">tu</quote> P</cell>
+                        <cell n="3"><foreign xml:lang="la">tu</foreign> or <quote rend="inline"
+                                xml:lang="la">te</quote></cell>
                     </row>
                     <row n="10">
                         <cell n="1">3.73</cell>
                         <cell n="2"><foreign xml:lang="la">vi</foreign> G P</cell>
-                        <cell n="3"><foreign xml:lang="la">ut</foreign>* or <quote rend="inline" xml:lang="la"
-                                >vi</quote></cell>
+                        <cell n="3"><foreign xml:lang="la">ut</foreign>* or <quote rend="inline"
+                                xml:lang="la">vi</quote></cell>
                     </row>
                     <row n="11">
                         <cell n="1">3.91</cell>
-                        <cell n="2"><foreign xml:lang="la">habet</foreign>* N G, <quote rend="inline" xml:lang="la"
-                                >amat</quote> P</cell>
-                        <cell n="3"><foreign xml:lang="la">amat</foreign> or <quote rend="inline" xml:lang="la"
-                                >habet</quote></cell>
+                        <cell n="2"><foreign xml:lang="la">habet</foreign>* N G, <quote
+                                rend="inline" xml:lang="la">amat</quote> P</cell>
+                        <cell n="3"><foreign xml:lang="la">amat</foreign> or <quote rend="inline"
+                                xml:lang="la">habet</quote></cell>
                     </row>
                 </table>
 
@@ -2564,24 +2598,25 @@
 
                 <p xml:id="AngeliTrans">We know nothing about the Codex Germanicus other than what
                     Niccolò Angeli has handed down to us about it. Also, the following is written in
-                    Codex Riccardianus 636 at the end of Calpurnius in the hand of Angeli: <quote rend="inline"
-                        xml:id="Riccardianus636SubTrans">From a very ancient manuscript brought from
-                        Germany | this title has been copied: The end of the bucolics of |
-                        Calpurnius, the first eclogue of Aurelius Nemesianus the poet | from
-                        Carthage</quote>. Then, at the end of Nemesianus: <quote rend="inline">I, Niccolò Angeli,
-                        collated this manuscript against many others and the very old manuscript
-                        that Taddeo Ugoleto, librarian of the royal library in Hungary, brought with
-                        him from Germany and prepared for my use. Many poems were discovered in it.
-                        In the year of salvation 1492</quote>. Regarding Boccaccio’s manuscript,
-                    Codex Harleianus 2578 (about which see <bibl><author>C. Schenkl</author> in the
-                        preface to his edition of Ausonius [Berlin 1884], p. XXI)</bibl> offers
-                    similar testimony. At the end of Nemesianus, the following subscription is
-                    found: <quote rend="inline">This manuscript was collated with greatest care with the very old
-                        manuscript that Taddeo Ugoleto, librarian of the royal library in Hungary,
-                        brought from Germany. Also with the one that Giovanni Boccaccio is said to
-                        have written with his own hand to dedicate to the library of Santo Spirito
-                        in Florence: We found the title and division of the work in that manuscript,
-                        along with many poems.</quote></p>
+                    Codex Riccardianus 636 at the end of Calpurnius in the hand of Angeli: <quote
+                        rend="inline" xml:id="Riccardianus636SubTrans">From a very ancient
+                        manuscript brought from Germany | this title has been copied: The end of the
+                        bucolics of | Calpurnius, the first eclogue of Aurelius Nemesianus the poet
+                        | from Carthage</quote>. Then, at the end of Nemesianus: <quote
+                        rend="inline">I, Niccolò Angeli, collated this manuscript against many
+                        others and the very old manuscript that Taddeo Ugoleto, librarian of the
+                        royal library in Hungary, brought with him from Germany and prepared for my
+                        use. Many poems were discovered in it. In the year of salvation
+                    1492</quote>. Regarding Boccaccio’s manuscript, Codex Harleianus 2578 (about
+                    which see <bibl><author>C. Schenkl</author> in the preface to his edition of
+                        Ausonius [Berlin 1884], p. XXI)</bibl> offers similar testimony. At the end
+                    of Nemesianus, the following subscription is found: <quote rend="inline">This
+                        manuscript was collated with greatest care with the very old manuscript that
+                        Taddeo Ugoleto, librarian of the royal library in Hungary, brought from
+                        Germany. Also with the one that Giovanni Boccaccio is said to have written
+                        with his own hand to dedicate to the library of Santo Spirito in Florence:
+                        We found the title and division of the work in that manuscript, along with
+                        many poems.</quote></p>
 
                 <p>Codex Riccardianus 636 is written very beautifully on the leaves that contain the
                     bucolic poetry of Calpurnius and Nemesianus, but at a later date various hands
@@ -2616,17 +2651,18 @@
                         <foreign xml:lang="la">per me</foreign> Aεe, 4.94 <foreign xml:lang="la"
                         >abis</foreign> Aεγe, 4.95 <foreign xml:lang="la">reclivus</foreign> Aεγe et
                         <foreign xml:lang="la">reclivis</foreign> Aα, 4.101 <foreign xml:lang="la"
-                        >sonuerunt</foreign> Aεe, 5.31 <quote rend="inline" xml:lang="la">ut</quote> Aεe, 5.58
-                        <foreign xml:lang="la">vel</foreign> Aεαγe, 5.100 <foreign xml:lang="la"
-                        >tum</foreign> Aεγe, 5.102 <foreign xml:lang="la">ast tibi</foreign> A N G
-                    and <foreign xml:lang="la">ast ubi</foreign> Aεαe, 6.35 <foreign xml:lang="la"
-                        >scit</foreign> Aεe, 6.38 <foreign xml:lang="la">lucent</foreign> A V, 6.82
-                        <foreign xml:lang="la">carmina</foreign> Aεαγe, 7.25 <foreign xml:lang="la"
-                        >clivos</foreign> Aα, 7.43 <quote rend="inline" xml:lang="la">tam</quote> Aεe, 7.77
-                        <foreign xml:lang="la">referens</foreign> Aεαe, 7.78 <foreign xml:lang="la"
-                        >quae sit modo</foreign> Aεαγe, 7.84 <foreign xml:lang="la">putavi</foreign>
-                    Aεγe, Nemes. 1.31 <foreign xml:lang="la">fagosve</foreign> Aεαγe, 1.32 <quote rend="inline"
-                        xml:lang="la">suggerit</quote> εe, 1.78 <foreign xml:lang="la"
+                        >sonuerunt</foreign> Aεe, 5.31 <quote rend="inline" xml:lang="la">ut</quote>
+                    Aεe, 5.58 <foreign xml:lang="la">vel</foreign> Aεαγe, 5.100 <foreign
+                        xml:lang="la">tum</foreign> Aεγe, 5.102 <foreign xml:lang="la">ast
+                        tibi</foreign> A N G and <foreign xml:lang="la">ast ubi</foreign> Aεαe, 6.35
+                        <foreign xml:lang="la">scit</foreign> Aεe, 6.38 <foreign xml:lang="la"
+                        >lucent</foreign> A V, 6.82 <foreign xml:lang="la">carmina</foreign> Aεαγe,
+                    7.25 <foreign xml:lang="la">clivos</foreign> Aα, 7.43 <quote rend="inline"
+                        xml:lang="la">tam</quote> Aεe, 7.77 <foreign xml:lang="la"
+                        >referens</foreign> Aεαe, 7.78 <foreign xml:lang="la">quae sit
+                        modo</foreign> Aεαγe, 7.84 <foreign xml:lang="la">putavi</foreign> Aεγe,
+                    Nemes. 1.31 <foreign xml:lang="la">fagosve</foreign> Aεαγe, 1.32 <quote
+                        rend="inline" xml:lang="la">suggerit</quote> εe, 1.78 <foreign xml:lang="la"
                         >olivas</foreign> A V, 2.8 <foreign xml:lang="la">iam non</foreign> Aεγe,
                     2.15 <foreign xml:lang="la">relevare</foreign> Aεe, 2.30 <foreign xml:lang="la"
                         >nulloque biberunt</foreign> Aεγe, 2.48 <foreign xml:lang="la">tum dulce
@@ -2634,9 +2670,9 @@
                     Aεe, <foreign xml:lang="la">nutristis</foreign> Aεαe, 3.33 <foreign
                         xml:lang="la">leve</foreign> Aεαe, 3.37 <foreign xml:lang="la"
                         >lenes</foreign> Aγe, 3.51 <foreign xml:lang="la">cymbia</foreign> Aεγe,
-                    3.63 <foreign xml:lang="la">natus ab ipso</foreign> Aεαγe, 4.69 <quote rend="inline"
-                        xml:lang="la">artes</quote> Aεe. Add these, too: Calp. 5.33 <foreign
-                        xml:lang="la">capellis</foreign> Aνφθ, 7.18 <foreign xml:lang="la"
+                    3.63 <foreign xml:lang="la">natus ab ipso</foreign> Aεαγe, 4.69 <quote
+                        rend="inline" xml:lang="la">artes</quote> Aεe. Add these, too: Calp. 5.33
+                        <foreign xml:lang="la">capellis</foreign> Aνφθ, 7.18 <foreign xml:lang="la"
                         >spectavimus</foreign> Aκχ. In light of these facts, it seems very close to
                     the truth that the Codex Germanicus derived from the same archetype as N and G,
                     and that the readings that agree with N and G should be attributed to that
@@ -2710,20 +2746,22 @@
                     have also some verses selected from Calpurnius’ eclogues 2, 3, 4, 5, 6 and a few
                     others from Nemesianus’ fourth eclogue, attributed there to Calpurnius. For in
                     the Codex Thuaneus at the beginning of the first excerpt the following is
-                    inscribed: <quote rend="inline" xml:lang="la">Calpurnius in bucolicis</quote>; in the Codex
-                    Nostradamensis: <quote rend="inline" xml:lang="la">Scalpurius in bucolicis</quote>. But in the
-                    latter, the corruption of the name traces its origin to the initial letter of
-                    the first verse: <foreign xml:lang="la">Satis hoc</foreign> (2.23). These are
-                    the fragments: Calp. 2.23 <quote rend="inline" xml:lang="la">satis</quote>-24, 3.10 <quote rend="inline"
+                    inscribed: <quote rend="inline" xml:lang="la">Calpurnius in bucolicis</quote>;
+                    in the Codex Nostradamensis: <quote rend="inline" xml:lang="la">Scalpurius in
+                        bucolicis</quote>. But in the latter, the corruption of the name traces its
+                    origin to the initial letter of the first verse: <foreign xml:lang="la">Satis
+                        hoc</foreign> (2.23). These are the fragments: Calp. 2.23 <quote
+                        rend="inline" xml:lang="la">satis</quote>-24, 3.10 <quote rend="inline"
                         xml:lang="la">mobilior-femina</quote>, 4.14–15, 4.155 <foreign xml:lang="la"
-                        >vellit</foreign>-156, 5.12–13, 46–48, 6.53–56, Nemes. 4.19 <quote rend="inline"
-                        xml:lang="la">levant-curas</quote>, 4.21–24, 4.32, 4.38 <quote rend="inline" xml:lang="la"
-                        >vocat-umbram</quote>. Nearly the same verses are found in a certain codex
-                    in Berlin (ms. Diez. B. Santen. 60 fol. 29ʳ): cfr. <ref target="#Haupt">M.
-                        Haupt</ref> (l. l. p. 13) and <ref target="#Manitius">M. Manitius</ref> (l.
-                    l.). Codex Bononiensis 83 (52, II n. 1 = <ref target="#ExcBon" rend="bold">Exc.
-                        Bon.</ref>) contains other excerpts (Calp. 3.90, Nemes. 4.20–32, 56–59)
-                    ascribed to Calpurnius alone: cfr. <bibl><author>L. Frati</author>
+                        >vellit</foreign>-156, 5.12–13, 46–48, 6.53–56, Nemes. 4.19 <quote
+                        rend="inline" xml:lang="la">levant-curas</quote>, 4.21–24, 4.32, 4.38 <quote
+                        rend="inline" xml:lang="la">vocat-umbram</quote>. Nearly the same verses are
+                    found in a certain codex in Berlin (ms. Diez. B. Santen. 60 fol. 29ʳ): cfr. <ref
+                        target="#Haupt">M. Haupt</ref> (l. l. p. 13) and <ref target="#Manitius">M.
+                        Manitius</ref> (l. l.). Codex Bononiensis 83 (52, II n. 1 = <ref
+                        target="#ExcBon" rend="bold">Exc. Bon.</ref>) contains other excerpts (Calp.
+                    3.90, Nemes. 4.20–32, 56–59) ascribed to Calpurnius alone: cfr. <bibl><author>L.
+                            Frati</author>
                         <title level="j">Studi italiani di Filol. classica</title>
                         <biblScope unit="volume">16</biblScope> (<date>1908</date>): <biblScope
                             unit="page">131</biblScope><ptr
@@ -2733,51 +2771,53 @@
 
                 <p xml:id="ExcerptaTrans">Now let us discuss the worth of the excerpts. Certainly
                     the excerpta Bononiensia were copied from some manuscript of the second family.
-                    Compare these passages: Nemes. 4.21 <quote rend="inline" xml:lang="la">eris–flores</quote> V
-                    Exc. Bon., <quote rend="inline" xml:lang="la">(h)erit florem</quote> N G, 4.24 <quote rend="inline"
-                        xml:lang="la">tibi</quote> Exc. Bon., <foreign xml:lang="la">quod</foreign>
-                    N G, 4.28 <quote rend="inline" xml:lang="la">volucres et</quote> V Exc. Bon., <foreign
-                        xml:lang="la">volucru et</foreign> N, <foreign xml:lang="la">volucrum
-                        tum</foreign> G, 4.30 <quote rend="inline" xml:lang="la">perdis</quote> V Exc. Bon.,
-                        <foreign xml:lang="la">prodis</foreign> N G, 4.58 <quote rend="inline" xml:lang="la"
+                    Compare these passages: Nemes. 4.21 <quote rend="inline" xml:lang="la"
+                        >eris–flores</quote> V Exc. Bon., <quote rend="inline" xml:lang="la">(h)erit
+                        florem</quote> N G, 4.24 <quote rend="inline" xml:lang="la">tibi</quote>
+                    Exc. Bon., <foreign xml:lang="la">quod</foreign> N G, 4.28 <quote rend="inline"
+                        xml:lang="la">volucres et</quote> V Exc. Bon., <foreign xml:lang="la"
+                        >volucru et</foreign> N, <foreign xml:lang="la">volucrum tum</foreign> G,
+                    4.30 <quote rend="inline" xml:lang="la">perdis</quote> V Exc. Bon., <foreign
+                        xml:lang="la">prodis</foreign> N G, 4.58 <quote rend="inline" xml:lang="la"
                         >animos</quote> V Exc. Bon., <foreign xml:lang="la">annos</foreign> N G. But
                     the books in Paris have a better reputation by far. In the following places N G
-                    Exc. Par. offer a good reading, but V offers a bad one: Calp 4.14 <quote rend="inline"
-                        xml:lang="la">nunc</quote> N G Exc. Par., <foreign xml:lang="la"
-                        >dum</foreign> V, 4.155 <quote rend="inline" xml:lang="la">contingat</quote> N G Exc.
-                    Par., <quote rend="inline" xml:lang="la">contigerit</quote> V, 4.156 <foreign xml:lang="la"
-                        >dicit</foreign> N G Exc. Par., <foreign xml:lang="la">dixit</foreign> V,
-                    Nemes. 4.24 <foreign xml:lang="la">quod</foreign> N G Exc. Par., <foreign
-                        xml:lang="la">tibi</foreign> V. Add these, too: Nemes. 4.24 <quote rend="inline"
+                    Exc. Par. offer a good reading, but V offers a bad one: Calp 4.14 <quote
+                        rend="inline" xml:lang="la">nunc</quote> N G Exc. Par., <foreign
+                        xml:lang="la">dum</foreign> V, 4.155 <quote rend="inline" xml:lang="la"
+                        >contingat</quote> N G Exc. Par., <quote rend="inline" xml:lang="la"
+                        >contigerit</quote> V, 4.156 <foreign xml:lang="la">dicit</foreign> N G Exc.
+                    Par., <foreign xml:lang="la">dixit</foreign> V, Nemes. 4.24 <foreign
+                        xml:lang="la">quod</foreign> N G Exc. Par., <foreign xml:lang="la"
+                        >tibi</foreign> V. Add these, too: Nemes. 4.24 <quote rend="inline"
                         xml:lang="la">commodet</quote> G Exc. Par., <foreign xml:lang="la"
                         >comodet</foreign> N, <foreign xml:lang="la">commodat</foreign> V. But in
                     two places V Exc. Par. preserve an attested reading that N G have corrupted:
                     Calp. 2.23 <foreign xml:lang="la">hoc</foreign> V Exc. Par., <foreign
-                        xml:lang="la">hic</foreign> N G, Nemes. 4.21 <quote rend="inline" xml:lang="la"
-                        >eris-flores</quote> V Exc. Par., <quote rend="inline" xml:lang="la"
-                        >(h)erit-florem</quote> N G. Moreover, in only one place have the excerpta
-                    Parisina admitted the interpolations of the inferior manuscripts: Calp. 5.12
-                        <foreign xml:lang="la">iamdudum</foreign> pler. V Exc. Par., <foreign
+                        xml:lang="la">hic</foreign> N G, Nemes. 4.21 <quote rend="inline"
+                        xml:lang="la">eris-flores</quote> V Exc. Par., <quote rend="inline"
+                        xml:lang="la">(h)erit-florem</quote> N G. Moreover, in only one place have
+                    the excerpta Parisina admitted the interpolations of the inferior manuscripts:
+                    Calp. 5.12 <foreign xml:lang="la">iamdudum</foreign> pler. V Exc. Par., <foreign
                         xml:lang="la">aetas iam</foreign> N G. At Calp. 6.55 N and G and the
                     excerpts are different. Finally, they present some readings unique to them:
-                    Calp. 4.15 <foreign xml:lang="la">valeate</foreign> Par. pr., 155 <quote rend="inline"
-                        xml:lang="la">michi</quote>, 5.45 <quote rend="inline" xml:lang="la">erit;
-                        dubitanda</quote> Par. post. 5.48 <foreign xml:lang="la"
-                        >tonsoribus</foreign> Par. pr., 6.54 <quote rend="inline" xml:lang="la">torvata</quote>
-                    Par. pr. We have already said that all of the manuscripts that we have today
-                    must be traced back by various paths to the same archetype, as their many errors
-                    in common indicate, especially the lacuna and the confusion of verses in the
-                    amoebaean song in Calpurnius’ fourth eclogue. But that the excerpts about which
-                    we speak cannot trace their origin further is supported by a single, but very
-                    strong argument (cf. <bibl><author>H. Schenkl</author>, <title level="j">Wiener
-                            Studien</title>
+                    Calp. 4.15 <foreign xml:lang="la">valeate</foreign> Par. pr., 155 <quote
+                        rend="inline" xml:lang="la">michi</quote>, 5.45 <quote rend="inline"
+                        xml:lang="la">erit; dubitanda</quote> Par. post. 5.48 <foreign xml:lang="la"
+                        >tonsoribus</foreign> Par. pr., 6.54 <quote rend="inline" xml:lang="la"
+                        >torvata</quote> Par. pr. We have already said that all of the manuscripts
+                    that we have today must be traced back by various paths to the same archetype,
+                    as their many errors in common indicate, especially the lacuna and the confusion
+                    of verses in the amoebaean song in Calpurnius’ fourth eclogue. But that the
+                    excerpts about which we speak cannot trace their origin further is supported by
+                    a single, but very strong argument (cf. <bibl><author>H. Schenkl</author>,
+                            <title level="j">Wiener Studien</title>
                         <biblScope unit="volume">VI</biblScope>
                         <biblScope unit="page">p. 84</biblScope>
                         <ptr
                             target="http://hdl.handle.net/2027/njp.32101015024290?urlappend=%3Bseq=430"
                         /></bibl>). For at Calp. 4.156, where Heinsius quite successfully restored
-                        <quote rend="inline" xml:lang="la">ovilia</quote>, all of the manuscripts and the excerpts
-                    have <quote rend="inline" xml:lang="la">vilia</quote></p>
+                        <quote rend="inline" xml:lang="la">ovilia</quote>, all of the manuscripts
+                    and the excerpts have <quote rend="inline" xml:lang="la">vilia</quote></p>
             </div>
 
             <!-- Acknowledgments -->
@@ -2813,25 +2853,25 @@
                     <listWit xml:id="mss-first-family">
                         <head>First family</head>
 
-                        <witness xml:id="N"><abbr type="siglum">N</abbr> = <title>Codex Neapolitanus
-                                V A 8</title>, formerly 380.<listWit>
+                        <witness xml:id="N"><abbr type="siglum">N</abbr><title>Codex Neapolitanus V
+                                A 8</title>, formerly 380.<listWit>
                                 <head>Hands in N</head>
                                 <witness xml:id="N1"><abbr type="siglum">N<hi rend="superscript"
-                                            >1</hi></abbr> = The original copyist (see discussion at
+                                            >1</hi></abbr>The original copyist (see discussion at
                                         <ptr target="#Ndesc-firsthand"/>)</witness>
                                 <witness xml:id="N2"><abbr type="siglum">N<hi rend="superscript"
-                                            >2</hi></abbr> = A correcting hand, difficult to
+                                            >2</hi></abbr>A correcting hand, difficult to
                                     distinguish from N<hi rend="superscript">1</hi> (see discussion
                                     at <ptr target="#Ndesc-secondhand"/>)</witness>
                                 <witness xml:id="N3"><abbr type="siglum">N<hi rend="superscript"
-                                            >3</hi></abbr> = A third hand, which corrected the text
-                                    in a few places (see discussion at <ptr
-                                        target="#Ndesc-thirdhand"/></witness>
+                                            >3</hi></abbr>A third hand, which corrected the text in
+                                    a few places (see discussion at <ptr target="#Ndesc-thirdhand"
+                                    /></witness>
                             </listWit>
                         </witness>
 
-                        <witness xml:id="G"><abbr type="siglum">G</abbr> = <title>Codex Gaddianus
-                                pl. 90, 12 inf.</title>.<listWit>
+                        <witness xml:id="G"><abbr type="siglum">G</abbr><title>Codex Gaddianus pl.
+                                90, 12 inf.</title>.<listWit>
                                 <head>Hands in G</head>
                                 <witness xml:id="G1"><abbr type="siglum">G<hi rend="superscript"
                                             >1</hi></abbr>: The original copyist (see discussion at
@@ -2848,10 +2888,10 @@
                         <head>Second family</head>
 
                         <!-- Manuscript α -->
-                        <witness xml:id="V"><abbr type="siglum">V</abbr> = <title>Consensus of the
+                        <witness xml:id="V"><abbr type="siglum">V</abbr><title>Consensus of the
                                 second family mss.</title>
                             <listWit>
-                                <witness xml:id="α"><abbr type="siglum">α</abbr> = <title>Codex
+                                <witness xml:id="α"><abbr type="siglum">α</abbr><title>Codex
                                         Ambrosianus O.74 sup.</title>.<listWit>
                                         <head>Hands in α</head>
                                         <witness xml:id="α1"><abbr type="siglum">α<hi
@@ -2862,7 +2902,7 @@
                                 </witness>
 
                                 <!-- Manuscript β -->
-                                <witness xml:id="β"><abbr type="siglum">β</abbr> = <title>Codex
+                                <witness xml:id="β"><abbr type="siglum">β</abbr><title>Codex
                                         Ambrosianus I.26 sup.</title><listWit>
                                         <head>Hands in β</head>
                                         <witness xml:id="β1"><abbr type="siglum">β<hi
@@ -2873,7 +2913,7 @@
                                 </witness>
 
                                 <!-- Manuscript δ -->
-                                <witness xml:id="δ"><abbr type="siglum">δ</abbr> = <title>Codex
+                                <witness xml:id="δ"><abbr type="siglum">δ</abbr><title>Codex
                                         Vratislaviensis Rehdigeranus 1.4.11</title><listWit>
                                         <head>Hands in δ</head>
                                         <witness xml:id="δ1"><abbr type="siglum">δ<hi
@@ -2884,7 +2924,7 @@
                                 </witness>
 
                                 <!-- Manuscript γ -->
-                                <witness xml:id="γ"><abbr type="siglum">γ</abbr> = <title>Codex
+                                <witness xml:id="γ"><abbr type="siglum">γ</abbr><title>Codex
                                         Vaticanus 3152</title><listWit>
                                         <head>Hands in γ</head>
                                         <witness xml:id="γ1"><abbr type="siglum">γ<hi
@@ -2895,7 +2935,7 @@
                                 </witness>
 
                                 <!-- Manuscript λ -->
-                                <witness xml:id="λ"><abbr type="siglum">λ</abbr> = <title>Codex
+                                <witness xml:id="λ"><abbr type="siglum">λ</abbr><title>Codex
                                         Laurentianus bibl. Aed. 203</title>
                                     <listWit>
                                         <head>Hands in λ</head>
@@ -2907,7 +2947,7 @@
                                 </witness>
 
                                 <!-- Manuscript ε -->
-                                <witness xml:id="ε"><abbr type="siglum">ε</abbr> = <title>Codex
+                                <witness xml:id="ε"><abbr type="siglum">ε</abbr><title>Codex
                                         Vaticanus Urbinas 353.</title>
                                     <listWit>
                                         <head>Hands in ε</head>
@@ -2919,7 +2959,7 @@
                                 </witness>
 
                                 <!-- Manuscript μ -->
-                                <witness xml:id="μ"><abbr type="siglum">μ</abbr> = <title>Codex
+                                <witness xml:id="μ"><abbr type="siglum">μ</abbr><title>Codex
                                         Vaticanus 2110</title>. <listWit>
                                         <head>Hands in μ</head>
                                         <witness xml:id="μ1"><abbr type="siglum">μ<hi
@@ -2930,7 +2970,7 @@
                                 </witness>
 
                                 <!-- Manuscript κ -->
-                                <witness xml:id="κ"><abbr type="siglum">κ</abbr> = <title>Codex
+                                <witness xml:id="κ"><abbr type="siglum">κ</abbr><title>Codex
                                         Riccardianus 724</title>
                                     <listWit>
                                         <head>Hands in κ</head>
@@ -2942,7 +2982,7 @@
                                 </witness>
 
                                 <!-- Manuscript φ -->
-                                <witness xml:id="φ"><abbr type="siglum">φ</abbr> = <title>Codex
+                                <witness xml:id="φ"><abbr type="siglum">φ</abbr><title>Codex
                                         Vaticanus Ottobonianus 1466</title>. <listWit>
                                         <head>Hands in φ</head>
                                         <witness xml:id="φ1"><abbr type="siglum">φ<hi
@@ -2953,7 +2993,7 @@
                                 </witness>
 
                                 <!-- Manuscript χ -->
-                                <witness xml:id="χ"><abbr type="siglum">χ</abbr> = <title>Codex
+                                <witness xml:id="χ"><abbr type="siglum">χ</abbr><title>Codex
                                         Vaticanus Reginensis 1759</title>. <listWit>
                                         <head>Hands in χ</head>
                                         <witness xml:id="χ1"><abbr type="siglum">χ<hi
@@ -2964,7 +3004,7 @@
                                 </witness>
 
                                 <!-- Manuscript ν -->
-                                <witness xml:id="ν"><abbr type="siglum">ν</abbr> = <title>Codex
+                                <witness xml:id="ν"><abbr type="siglum">ν</abbr><title>Codex
                                         Laurentianus pl. 37.14</title>
                                     <listWit>
                                         <head>Hands in ν</head>
@@ -2976,7 +3016,7 @@
                                 </witness>
 
                                 <!-- Manuscript π -->
-                                <witness xml:id="π"><abbr type="siglum">π</abbr> = <title>Codex
+                                <witness xml:id="π"><abbr type="siglum">π</abbr><title>Codex
                                         Vaticanus Palatinus 1652</title>. <listWit>
                                         <head>Hands in π</head>
                                         <witness xml:id="π1"><abbr type="siglum">π<hi
@@ -2987,7 +3027,7 @@
                                 </witness>
 
                                 <!-- Manuscript η -->
-                                <witness xml:id="η"><abbr type="siglum">η</abbr> = <title>Codex
+                                <witness xml:id="η"><abbr type="siglum">η</abbr><title>Codex
                                         Vratislaviensis Rehdigeranus 1.4.10</title>. <listWit>
                                         <head>Hands in η</head>
                                         <witness xml:id="η1"><abbr type="siglum">η<hi
@@ -2998,27 +3038,27 @@
                                 </witness>
 
                                 <!-- Manuscript ρ -->
-                                <witness xml:id="ρ"><abbr type="siglum">ρ</abbr> = <title>Codex
+                                <witness xml:id="ρ"><abbr type="siglum">ρ</abbr><title>Codex
                                         Riccardianus 636</title>. <listWit>
                                         <head>Hands in ρ</head>
                                         <witness xml:id="ρ1"><abbr type="siglum">ρ<hi
                                                   rend="superscript">1</hi></abbr></witness>
                                         <witness xml:id="ρ2"><abbr type="siglum">ρ<hi
-                                                  rend="superscript">2</hi></abbr>: Various hands
+                                                  rend="superscript">2</hi></abbr>Various hands
                                             that are indistinguishable from each other.</witness>
                                         <!-- Note that this should probably be changed to "recc" -->
-                                        <witness sameAs="#A"><abbr type="siglum">A</abbr> = The hand
-                                            of Niccolò Angeli, recording variants from the lost <ref
+                                        <witness sameAs="#A"><abbr type="siglum">A</abbr>The hand of
+                                            Niccolò Angeli, recording variants from the lost <ref
                                                 target="#A">Codex Germanicus</ref>.</witness>
                                     </listWit>
                                 </witness>
 
                                 <!-- Manuscript θ -->
-                                <witness xml:id="θ"><abbr type="siglum">θ</abbr> = <title>Codex
+                                <witness xml:id="θ"><abbr type="siglum">θ</abbr><title>Codex
                                         Gothanus 55</title></witness>
 
                                 <!-- Manuscript ζ -->
-                                <witness xml:id="ζ"><abbr type="siglum">ζ</abbr> = <title>Codex
+                                <witness xml:id="ζ"><abbr type="siglum">ζ</abbr><title>Codex
                                         Riccardianus 974</title>. <listWit>
                                         <head>Hands in ζ</head>
                                         <witness xml:id="ζ1"><abbr type="siglum">ζ<hi
@@ -3035,7 +3075,7 @@
                     <!-- Third Family -->
                     <listWit xml:id="mss-third-family">
                         <head>Third family</head>
-                        <witness xml:id="P"><abbr type="siglum">P</abbr> = <title>Codex Parisinus
+                        <witness xml:id="P"><abbr type="siglum">P</abbr><title>Codex Parisinus
                                 8049</title>. <listWit>
                                 <head>Hands in P</head>
                                 <witness xml:id="P1"><abbr type="siglum">P<hi rend="superscript"
@@ -3050,12 +3090,12 @@
                     <listWit xml:id="mss-other-codices">
                         <head>Other codices</head>
 
-                        <witness xml:id="A" corresp="#ρ"><abbr type="siglum">A</abbr> = <title>cod.
-                                Germanicus Th. Ugoleti</title> = Marginalia copied into <ref
+                        <witness xml:id="A" corresp="#ρ"><abbr type="siglum">A</abbr><title>cod.
+                                Germanicus Th. Ugoleti</title>Marginalia copied into <ref
                                 target="#ρ">cod. Riccard. 636</ref> by N. Angelius (Niccolò
                             Angeli).</witness>
 
-                        <witness xml:id="H"><abbr type="siglum">H</abbr> = <title>Readings in cod.
+                        <witness xml:id="H"><abbr type="siglum">H</abbr><title>Readings in cod.
                                 Harleiani 2578 that appear to go back to the manuscript of Boccaccio
                                 or Th. Ugoletus (Taddeo Ugoleto)</title>. <listWit>
                                 <head>Hands in H</head>
@@ -3066,7 +3106,7 @@
                             </listWit>
                         </witness>
 
-                        <witness xml:id="codVind"><abbr type="siglum">cod. Vindob.</abbr> = Codex
+                        <witness xml:id="codVind"><abbr type="siglum">cod. Vindob.</abbr>Codex
                             Vindobonensis 305, a member of <ref target="#V">V</ref>, but cited only
                             once or twice by Giarratano.</witness>
                     </listWit>
@@ -3080,20 +3120,20 @@
                                 (below)</title>
                             <listWit>
                                 <witness xml:id="ExcParPrior"><abbr type="siglum">Exc. Par.
-                                        Prior</abbr> = <title>Thuaneus 7647</title>
+                                        Prior</abbr><title>Thuaneus 7647</title>
                                 </witness>
                                 <witness xml:id="ExcParAlter"><abbr type="siglum">Exc. Par.
-                                        Alter</abbr> = <title>Nostradamensis 17903</title>
+                                        Alter</abbr><title>Nostradamensis 17903</title>
                                 </witness>
                             </listWit>
                         </witness>
-                        <witness xml:id="ExcBon"><abbr type="siglum">Exc. Bon.</abbr> = <title>52
-                                Busta II, n. 1</title>
+                        <witness xml:id="ExcBon"><abbr type="siglum">Exc. Bon.</abbr><title>52 Busta
+                                II, n. 1</title>
                         </witness>
                     </listWit>
 
                     <listWit xml:id="mss-consensus">
-                        <witness xml:id="ω" n="ω"><abbr type="siglum">ω</abbr> = <title>Consensus of
+                        <witness xml:id="ω" n="ω"><abbr type="siglum">ω</abbr><title>Consensus of
                                 all of the manuscripts</title></witness>
                     </listWit>
                 </div>
@@ -3118,11 +3158,11 @@
                                     <publisher>Ausonius et Giradinus</publisher>,
                                 <date>1472</date></bibl>.</witness>
 
-                        <witness xml:id="d"><abbr type="siglum">d</abbr> = utriusque edit. Daventr.
+                        <witness xml:id="d"><abbr type="siglum">d</abbr>utriusque edit. Daventr.
                             consensus <listWit>
 
                                 <witness xml:id="d1"><abbr type="siglum">d<hi rend="superscript"
-                                            >1</hi></abbr> = <bibl><editor>Anonymous</editor>.
+                                            >1</hi></abbr><bibl><editor>Anonymous</editor>.
                                             <title>editio Daventriensis prior</title>.
                                             <pubPlace>[Daventriae]</pubPlace>: <publisher>apud R.
                                             Paffraet</publisher>, <date>1488</date></bibl>. URL:
@@ -3160,16 +3200,16 @@
                                     <pubPlace>[Nordheim]</pubPlace>: <publisher>s.n.</publisher>,
                                     <date>s.d.</date></bibl>.</witness>
 
-                        <witness xml:id="s"><abbr type="siglum">s</abbr> = <bibl><title>editio
-                                    Ascensiana</title> = <editor>Badius, Josse
-                                    (“Ascensius”)</editor>. <title>Buccolica, cum adnotatione
-                                    Ascensiana</title>. <pubPlace>Parhisiis, in vico
-                                    Maturinorum</pubPlace>: <publisher>a Durando
-                                    Gerlerio</publisher>, <date>1503</date></bibl>. URL: <ptr
+                        <witness xml:id="s"><abbr type="siglum">s</abbr><bibl><title>editio
+                                    Ascensiana</title><editor>Badius, Josse (“Ascensius”)</editor>.
+                                    <title>Buccolica, cum adnotatione Ascensiana</title>.
+                                    <pubPlace>Parhisiis, in vico Maturinorum</pubPlace>:
+                                    <publisher>a Durando Gerlerio</publisher>,
+                                <date>1503</date></bibl>. URL: <ptr
                                 target="http://gallica.bnf.fr/ark:/12148/bpt6k841539v"/>.</witness>
 
-                        <witness xml:id="b"><abbr type="siglum">b</abbr> = <bibl><title>editio
-                                    Bononiensis</title> = <editor>Guidalottus Bononiensis,
+                        <witness xml:id="b"><abbr type="siglum">b</abbr><bibl><title>editio
+                                    Bononiensis</title><editor>Guidalottus Bononiensis,
                                     Diomedes</editor>. <title>Calpurnii et Nemesiani Poetarum
                                     Buccolicum Carmen</title>. <pubPlace>Bononiae</pubPlace>:
                                     <publisher>per Caligulam Bazalerium</publisher>,
@@ -3187,11 +3227,11 @@
 
                     <listBibl xml:id="editions-sources">
 
-                        <bibl xml:id="i"><abbr type="siglum">i</abbr> = utriusque ed. Florent.
+                        <bibl xml:id="i"><abbr type="siglum">i</abbr>utriusque ed. Florent.
                             consensus</bibl>
                         <listBibl>
                             <bibl xml:id="i1"><abbr type="siglum">i<hi rend="superscript"
-                                    >1</hi></abbr> = <editor>Anonymous</editor>. <title>editio
+                                    >1</hi></abbr><editor>Anonymous</editor>. <title>editio
                                     Florentina prior</title>. <pubPlace>Florentiae</pubPlace>:
                                     <publisher>Philippi de Giunta</publisher>, <date>1504</date>.
                                 URL: <ptr
@@ -3199,9 +3239,9 @@
                                 /></bibl>
 
                             <bibl xml:id="i2"><abbr type="siglum">i<hi rend="superscript"
-                                    >2</hi></abbr> = <editor>Anonymous</editor>. <title>editio
-                                    Florentina posterior</title> = Titius, Robertus. <title>M.
-                                    Aurelii Olympii Nemesiani Carthaginiensis, T. Calphurnii Siculi
+                                    >2</hi></abbr><editor>Anonymous</editor>. <title>editio
+                                    Florentina posterior</title>Titius, Robertus. <title>M. Aurelii
+                                    Olympii Nemesiani Carthaginiensis, T. Calphurnii Siculi
                                     Bucolica</title>. <pubPlace>Florentiae</pubPlace>:
                                     <publisher>apud Philippum Iunctam</publisher>,
                                 <date>1590</date>. URL: <ptr
@@ -3209,28 +3249,28 @@
                                 /></bibl>
                         </listBibl>
 
-                        <bibl xml:id="l"><abbr type="siglum">l</abbr> = utriusque ed. Ald.
+                        <bibl xml:id="l"><abbr type="siglum">l</abbr>utriusque ed. Ald.
                             consensus</bibl>
                         <listBibl>
                             <bibl xml:id="l1"><abbr type="siglum">l<hi rend="superscript"
-                                    >1</hi></abbr> = <editor>Anonymous</editor>. <title>editio
-                                    Aldina prior</title>. <pubPlace>Venetiis</pubPlace>:
-                                    <publisher>in aedibus Aldi, et Andreae Soceri</publisher>
+                                    >1</hi></abbr><editor>Anonymous</editor>. <title>editio Aldina
+                                    prior</title>. <pubPlace>Venetiis</pubPlace>: <publisher>in
+                                    aedibus Aldi, et Andreae Soceri</publisher>
                                 <date>1518</date>. URL: <ptr
                                     target="http://gateway.proquest.com/openurl?url_ver=Z39.88-2004&amp;res_dat=xri:eurobo:&amp;rft_dat=xri:eurobo:rec:ita-bnc-ald-00000030-001"
                                 /></bibl>
 
                             <bibl xml:id="l2"><abbr type="siglum">l<hi rend="superscript"
-                                    >2</hi></abbr> = <editor>Anonymous</editor>. <title>editio
-                                    Aldina posterior</title>. <pubPlace>Venetiis</pubPlace>:
-                                    <publisher>in aedibus heredum Aldi Manutii, et Andreae
-                                    Soceri</publisher>, <date>1519</date>. URL: <ptr
+                                    >2</hi></abbr><editor>Anonymous</editor>. <title>editio Aldina
+                                    posterior</title>. <pubPlace>Venetiis</pubPlace>: <publisher>in
+                                    aedibus heredum Aldi Manutii, et Andreae Soceri</publisher>,
+                                    <date>1519</date>. URL: <ptr
                                     target="https://books.google.com/books?id=EYg6AAAAcAAJ&amp;pg=PA1#v=onepage&amp;q&amp;f=false"
                                 /></bibl>
                         </listBibl>
 
-                        <bibl xml:id="n"><abbr type="siglum">n</abbr> = <editor>Brassicanus,
-                                Johannes Alexander</editor>. <title>editio Brassicani</title>.
+                        <bibl xml:id="n"><abbr type="siglum">n</abbr><editor>Brassicanus, Johannes
+                                Alexander</editor>. <title>editio Brassicani</title>.
                                 <pubPlace>Argentorati (Strasbourg)</pubPlace>: <publisher>Iohannis
                                 Knoblochus</publisher>, <date>1519</date>. URL: <ptr
                                 target="https://books.google.com/books?id=n8JSAAAAcAAJ&amp;pg=PA1#v=onepage&amp;q&amp;f=false"
@@ -3240,7 +3280,7 @@
                                 <editor>Anonymous</editor>. <title>ed. Viennensis</title>.
                                 <pubPlace>s.l.</pubPlace>, <date>s.d.</date></bibl>
 
-                        <bibl xml:id="g"><abbr type="siglum">g</abbr> = <editor>Logus,
+                        <bibl xml:id="g"><abbr type="siglum">g</abbr><editor>Logus,
                                 Georgius</editor>. <title>editio Augustana</title>.
                                 <pubPlace>Augustae Vindelicorum</pubPlace>: <publisher>in officina
                                 Henrici Steyner</publisher>), <date>1534</date>. URL: <ptr
@@ -3261,15 +3301,15 @@
                                 target="https://books.google.com/books?id=JpJXAAAAcAAJ&amp;pg=PA1#v=onepage&amp;q&amp;f=false"
                             />.</bibl>
 
-                        <bibl xml:id="o"><abbr type="siglum">o</abbr> = <editor>Anonymous</editor>.
+                        <bibl xml:id="o"><abbr type="siglum">o</abbr><editor>Anonymous</editor>.
                                 <title>ed. Oporiniana</title>
                             <pubPlace>Basileae</pubPlace>: <publisher>Johannes Oporinus</publisher>,
                                 <date>1546</date>.URL: <ptr
                                 target="https://books.google.com/books?id=cKqCwvkRiTgC&amp;pg=PP5#v=onepage&amp;q&amp;f=false"
                             /></bibl>
 
-                        <bibl xml:id="p"><abbr type="siglum">p</abbr> = <title>ed. Pithoeana</title>
-                            = <editor>Pithoeus, Petrus</editor>. <title>Epigrammata et poematia
+                        <bibl xml:id="p"><abbr type="siglum">p</abbr><title>ed. Pithoeana</title>
+                            <editor>Pithoeus, Petrus</editor>. <title>Epigrammata et poematia
                                 vetera</title>. <pubPlace>Parisiis</pubPlace>: <publisher>Dionysius
                                 Duvallius</publisher>, <date>1590</date>. URL: <ptr
                                 target="https://books.google.com/books?id=F_E6AAAAcAAJ&amp;pg=PR6#v=onepage&amp;q&amp;f=false"
@@ -3283,22 +3323,22 @@
                                 target="https://books.google.com/books?id=Q-EPAAAAQAAJ&amp;pg=PP5#v=onepage&amp;q&amp;f=false"
                             /></bibl>
 
-                        <bibl xml:id="Barth1613"><abbr type="siglum">Barth 1613</abbr> = <title>ed.
-                                Barthii</title> = <editor>Barthius, Casparus</editor>.
-                                <title>Venatici et Bucolici Poetae Latini: Gratius, Nemesianus,
-                                Calpurnius</title>. <pubPlace>Hanoviae</pubPlace>: <publisher>In
-                                Bibliopolio Willieriano</publisher>, <date>1613</date>. URL: <ptr
+                        <bibl xml:id="Barth1613"><abbr type="siglum">Barth 1613</abbr><title>ed.
+                                Barthii</title><editor>Barthius, Casparus</editor>. <title>Venatici
+                                et Bucolici Poetae Latini: Gratius, Nemesianus, Calpurnius</title>.
+                                <pubPlace>Hanoviae</pubPlace>: <publisher>In Bibliopolio
+                                Willieriano</publisher>, <date>1613</date>. URL: <ptr
                                 target="https://books.google.com/books?id=SEVXAAAAcAAJ&amp;pg=PP7#v=onepage&amp;q&amp;f=false"
                             /></bibl>
 
-                        <bibl xml:id="Ulit."><abbr type="siglum">Ulit.</abbr> = <title>ed.
-                                Ulitii</title> = <editor>Ulitius, Ianus</editor>. <title>Venatio
+                        <bibl xml:id="Ulit."><abbr type="siglum">Ulit.</abbr><title>ed.
+                                Ulitii</title><editor>Ulitius, Ianus</editor>. <title>Venatio
                                 Novantiqua</title>. <pubPlace>Leidae</pubPlace>: <publisher>Ex
                                 Officina Elzeveriana</publisher>, <date>1645</date>. URL: <ptr
                                 target="https://books.google.com/books?id=Yb09AAAAcAAJ&amp;pg=PR4#v=onepage&amp;q&amp;f=false"
                             /></bibl>
 
-                        <bibl xml:id="h"><abbr type="siglum">h</abbr> = ed. Haverkampi et Brucii =
+                        <bibl xml:id="h"><abbr type="siglum">h</abbr>ed. Haverkampi et Brucii =
                                 <editor>Anonymous</editor>. <title>Poetae Latini Rei Venaticae
                                 Scriptores et Bucolici Antiqui</title>. <pubPlace>Lugduni Batavorum
                                 et Hagae Comitum</pubPlace>: apud Johannem Arnoldum Langerak, P.
@@ -3308,15 +3348,15 @@
                             /></bibl>
 
                         <bibl xml:id="Burm1731"><abbr type="siglum">Burm. 1731</abbr> =
-                                <title>editio Burmanni</title> = <editor>Burmannus, Petrus (Pieter
+                                <title>editio Burmanni</title><editor>Burmannus, Petrus (Pieter
                                 Burman)</editor>. <title>Poetae Latini Minores, Tom. I</title>.
                                 <pubPlace>Leidae</pubPlace>: <publisher>apud Conradum Wishoff et
                                 Danielem Goedval</publisher>, <date>1731</date>. URL: <ptr
                                 target="https://books.google.com/books?id=uKZAAAAAcAAJ&amp;pg=PP9#v=onepage&amp;q&amp;f=false"
                             /></bibl>
 
-                        <bibl xml:id="t"><abbr type="siglum">t</abbr> = <title>ed.
-                                Mitaviensis</title> = <editor>Anonymous</editor>. <title>M. Aurelii
+                        <bibl xml:id="t"><abbr type="siglum">t</abbr><title>ed.
+                                Mitaviensis</title><editor>Anonymous</editor>. <title>M. Aurelii
                                 Olympii Nemesiani Eclogae IV et T. Calpurnii Siculi Eclogae VII ad
                                 Nemesianum Carthaginiensem, cum notis selectis Titii, Martelli,
                                 Ulitii, et Petri Burmanni integris.</title>
@@ -3325,31 +3365,30 @@
                                 target="https://books.google.com/books?id=eNUpAAAAYAAJ&amp;pg=PP11#v=onepage&amp;q&amp;f=false"
                             />.</bibl>
 
-                        <bibl xml:id="Wernsd."><abbr type="siglum">Wernsd.</abbr> = <title>ed.
-                                Wernsdorfii</title> = <editor>Wernsdorf, Iohannes
-                                Christianus.</editor>
+                        <bibl xml:id="Wernsd."><abbr type="siglum">Wernsd.</abbr><title>ed.
+                                Wernsdorfii</title><editor>Wernsdorf, Iohannes Christianus.</editor>
                             <title>Poetae Latini Minores, Tomus Secundus</title>.
                                 <pubPlace>Altenburgi</pubPlace>: <pubPlace>ex officina
                                 Richteria</pubPlace>, <date>1780</date>. URL: <ptr
                                 target="https://books.google.ie/books?id=XohHAAAAYAAJ&amp;pg=PR1#v=onepage&amp;q&amp;f=false"
                             /></bibl>
 
-                        <bibl xml:id="Beck"><abbr type="siglum">Beck</abbr> = <editor>Beck,
-                                Christian Daniel</editor>. <title>T. Calpurnii Siculi Eclogae
-                                XI</title>. <pubPlace>Lipsiae</pubPlace>: <publisher>in libraria
+                        <bibl xml:id="Beck"><abbr type="siglum">Beck</abbr><editor>Beck, Christian
+                                Daniel</editor>. <title>T. Calpurnii Siculi Eclogae XI</title>.
+                                <pubPlace>Lipsiae</pubPlace>: <publisher>in libraria
                                 Weidmannia</publisher>, <date>1803</date>. URL: <ptr
                                 target="https://books.google.com/books?id=w6QBAAAAYAAJ&amp;pg=PR2#v=onepage&amp;q&amp;f=false"
                             /></bibl>
 
-                        <bibl xml:id="Glaeser"><abbr type="siglum">Glaeser</abbr> = <editor>Glaeser,
-                                C. E.</editor>
+                        <bibl xml:id="Glaeser"><abbr type="siglum">Glaeser</abbr><editor>Glaeser, C.
+                                E.</editor>
                             <title>T. Calpurnii Siculi Eclogae</title>.
                                 <pubPlace>Gottingae</pubPlace>: <publisher>sumptibus
                                 Dieterichianis</publisher>, <date>1842</date>. URL: <ptr
                                 target="https://books.google.com/books?id=4sdEAAAAIAAJ&amp;pg=PP5#v=onepage&amp;q&amp;f=false"
                             /></bibl>
 
-                        <bibl xml:id="Baehr."><abbr type="siglum">Baehr.</abbr> = ed. Baehrensii =
+                        <bibl xml:id="Baehr."><abbr type="siglum">Baehr.</abbr>ed. Baehrensii =
                                 <editor>Baehrens, Aemilius</editor>. <title>Poetae Latini Minores,
                                 Volumen III</title>. <pubPlace>Lipsiae</pubPlace>: <publisher>in
                                 aedibus B. G. Teubneri</publisher>, 1881. URL: <ptr
@@ -3357,11 +3396,11 @@
                             /></bibl>
 
 
-                        <bibl xml:id="Schenkl"><abbr type="siglum">Schenkl</abbr> = utriusque
-                            edition. Schenkl. consensus</bibl>
+                        <bibl xml:id="Schenkl"><abbr type="siglum">Schenkl</abbr>utriusque edition.
+                            Schenkl. consensus</bibl>
                         <listBibl>
                             <bibl xml:id="Schenkl1"><abbr type="siglum">Schenkl<hi
-                                        rend="superscript">1</hi></abbr> = <editor>Schenkl,
+                                        rend="superscript">1</hi></abbr><editor>Schenkl,
                                     Henricus</editor>. <title>Calpurnii et Nemesiani
                                     Bucolica</title>. <pubPlace>Lipsiae</pubPlace>: sumptus fecit G.
                                 Freytag, <date>1885</date>. URL <ptr
@@ -3369,7 +3408,7 @@
                                 /></bibl>
 
                             <bibl xml:id="Schenkl2"><abbr type="siglum">Schenkl<hi
-                                        rend="superscript">2</hi></abbr> = <editor>Schenkl,
+                                        rend="superscript">2</hi></abbr><editor>Schenkl,
                                     Henricus</editor>. <title>T. Calpurni Siculi Bucolica</title> in
                                     <ref target="Postgate1905">Postgate 1905</ref>: 197–205. URL:
                                     <ptr
@@ -3377,11 +3416,11 @@
                                 /></bibl>
                         </listBibl>
 
-                        <bibl xml:id="Keene"><abbr type="siglum">Keene</abbr> = <editor>Keene,
-                                Charles Haines</editor>. <title>The Eclogues of Calpurnius Siculus
-                                and M. Aurelius Olympius Nemesianus</title>.
-                                <pubPlace>London</pubPlace>: <publisher>Bell</publisher>, 1887. URL:
-                                <ptr target="https://archive.org/details/ecloguesofcalpur00calpuoft"
+                        <bibl xml:id="Keene"><abbr type="siglum">Keene</abbr><editor>Keene, Charles
+                                Haines</editor>. <title>The Eclogues of Calpurnius Siculus and M.
+                                Aurelius Olympius Nemesianus</title>. <pubPlace>London</pubPlace>:
+                                <publisher>Bell</publisher>, 1887. URL: <ptr
+                                target="https://archive.org/details/ecloguesofcalpur00calpuoft"
                             /></bibl>
 
                         <bibl xml:id="Giarratano"><abbr type="siglum">Giarratano</abbr> =
@@ -3438,7 +3477,7 @@
                                 target="https://books.google.com/books?id=R-f-lEMwFq0C&amp;pg=PR4#v=onepage&amp;q&amp;f=false"
                             />.</bibl>
 
-                        <bibl xml:id="Bergk"><abbr type="siglum">Bergk</abbr> = <author>Bergk,
+                        <bibl xml:id="Bergk"><abbr type="siglum">Bergk</abbr><author>Bergk,
                                 Theodor</author>. "<title level="a">Philologische Thesen</title>."
                                 <title level="j">Rheinisches Museum für Philologie</title>
                             <biblScope unit="volume">20</biblScope> (<date>1865</date>): <biblScope
@@ -3490,12 +3529,12 @@
                                 target="https://books.google.com/books?id=95tHAAAAYAAJ&amp;pg=PR1#v=onepage&amp;q&amp;f=false"
                             /></bibl>
 
-                        <bibl xml:id="Carrio"><abbr type="siglum">Carrio</abbr> = <author>Carrion,
+                        <bibl xml:id="Carrio"><abbr type="siglum">Carrio</abbr><author>Carrion,
                                 Louis</author>. <title>Emendationum et Observationum Libri duo
                                 1.2</title>. <pubPlace>Lutetiae</pubPlace>:
                                 <publisher>Beysius</publisher>, <date>1583</date>.</bibl>
 
-                        <bibl xml:id="Chytil"><abbr type="siglum">Chytil</abbr> = <author>Chytil,
+                        <bibl xml:id="Chytil"><abbr type="siglum">Chytil</abbr><author>Chytil,
                                 Franz</author>. "<title level="a">Der Eklogendichter T. Calpurnius
                                 Siculus und seine Vorbilder</title>." <title level="j">Jahresbericht
                                 des k. k. Gymnasiums in Znaim</title>
@@ -3510,14 +3549,14 @@
                                 target="https://books.google.com/books?id=tQJdAAAAcAAJ&amp;pg=PR8#v=onepage&amp;q&amp;f=false"
                             />.</bibl>
 
-                        <bibl xml:id="deRooy"><abbr type="siglum">de Rooy</abbr> = <author>de Rooy,
+                        <bibl xml:id="deRooy"><abbr type="siglum">de Rooy</abbr><author>de Rooy,
                                 Antonius</author>. <title>Spicilegia Critica</title>.
                                 <pubPlace>Dordraci</pubPlace>: <publisher>typis Petri van
                                 Braam</publisher>, <date>1771</date>. URL: <ptr
                                 target="https://books.google.com/books?id=m10VAAAAQAAJ&amp;pg=PA101#v=onepage&amp;q&amp;f=false"
                             />.</bibl>
 
-                        <bibl xml:id="Ellis"><abbr type="siglum">Ellis</abbr> = <author>Ellis,
+                        <bibl xml:id="Ellis"><abbr type="siglum">Ellis</abbr><author>Ellis,
                                 Robinson</author>. <title level="a">Review of ‘Calpurnii et
                                 Nemesiani Bucoloca Recensuit Henricus Schenkl, Lipsiae, G. Freytag,
                                 Pragae, F. Tempsky, 1885’</title>
@@ -3527,7 +3566,7 @@
                                 target="https://books.google.com/books?id=tl4bu49MEyIC&amp;pg=PA88#v=onepage&amp;q&amp;f=false"
                             />.</bibl>
 
-                        <bibl xml:id="Erasmus"><abbr type="siglum">Erasmus</abbr> = <author>Erasmus,
+                        <bibl xml:id="Erasmus"><abbr type="siglum">Erasmus</abbr><author>Erasmus,
                                 Desiderius</author>. <title>Opera Omnia Emendatiora et Auctiora,
                                 Tomus Secundus: Complectens Adagia</title>. <pubPlace>Lugdunum
                                 Batavorum</pubPlace>: <publisher>cura et impensis Petri Lander
@@ -3565,7 +3604,7 @@
                                 <ptr target="https://archive.org/details/deeclogiscalpur00fritgoog"
                             />.</bibl>
 
-                        <bibl xml:id="Gebauer"><abbr type="siglum">Gebauer</abbr> = <editor>Gebauer,
+                        <bibl xml:id="Gebauer"><abbr type="siglum">Gebauer</abbr><editor>Gebauer,
                                 Gustavus Adolphus</editor>. <title>De poetarum Græcorum bucolicorum
                                 imprimis Theocriti carminibus in eclogis a Vergilio adumbratis.
                                 Particula 1</title>. <pubPlace>Lipsiae</pubPlace>:
@@ -3574,7 +3613,7 @@
                                 target="https://books.google.com/books?id=4YMCAAAAQAAJ&amp;pg=PR1#v=onepage&amp;q&amp;f=false"
                             />.</bibl>
 
-                        <bibl xml:id="Gebhard"><abbr type="siglum">Gebhard</abbr> = <author>Gebhard,
+                        <bibl xml:id="Gebhard"><abbr type="siglum">Gebhard</abbr><author>Gebhard,
                                 Janus</author>. <title>Crepundiorum, seu Iuvenilium Curarum Libri
                                 Tres</title>. <pubPlace>Hanoviae</pubPlace>: <publisher>Wechelianis,
                                 apud Haeredes Ioannis Aubrii</publisher>, <date>1615</date>. URL:
@@ -3598,7 +3637,7 @@
                                 target="https://books.google.com/books?id=9n5MAAAAcAAJ&amp;pg=PP7#v=onepage&amp;q&amp;f=false"
                             />.</bibl>
 
-                        <bibl xml:id="Lucas"><abbr type="siglum">Lucas</abbr> = <author>Lucas,
+                        <bibl xml:id="Lucas"><abbr type="siglum">Lucas</abbr><author>Lucas,
                                 Hans</author>. "<title level="a">Zu Calpurnius</title>." <title
                                 level="j">Wiener Studien</title>
                             <biblScope unit="volume">22</biblScope> (<date>1901</date>): <biblScope
@@ -3673,7 +3712,7 @@
                                 target="https://books.google.com/books?id=78dEAQAAIAAJ&amp;pg=PR3#v=onepage&amp;q&amp;f=false"
                             />.</bibl>
 
-                        <bibl xml:id="Jacoby"><abbr type="siglum">Jacoby</abbr> = <author>Jacoby,
+                        <bibl xml:id="Jacoby"><abbr type="siglum">Jacoby</abbr><author>Jacoby,
                                 Karl</author>. <title level="a">Review of ‘Calpurnii et Nemesiani
                                 Bucolica recensuit Henricus Schenkl, Lipsiae, G. Freytag, Pragae, F.
                                 Tempsky, 1885’</title>. <title level="j">Wochenschrift für klassiche
@@ -3683,14 +3722,14 @@
                                 target="https://books.google.de/books?id=q5blAAAAMAAJ&amp;hl=de&amp;pg=RA7-PA41#v=onepage&amp;q&amp;f=false"
                             />.</bibl>
 
-                        <bibl xml:id="Iustus"><abbr type="siglum">Iustus</abbr> = Iustus, Petrus
+                        <bibl xml:id="Iustus"><abbr type="siglum">Iustus</abbr>Iustus, Petrus
                             Paulus. <title>Specimen Observationum Criticarum</title>.
                                 <pubPlace>Viennae</pubPlace>: <publisher>Typis Ioannis Thomae de
                                 Trattnern</publisher>, <date>1765</date>. <ptr
                                 target="https://books.google.com/books?id=TdBWAAAAcAAJ&amp;pg=PP7#v=onepage&amp;q&amp;f=false"
                             />.</bibl>
 
-                        <bibl xml:id="Leo"><abbr type="siglum">Leo</abbr> = Leo, F. <title level="a"
+                        <bibl xml:id="Leo"><abbr type="siglum">Leo</abbr>Leo, F. <title level="a"
                                 >Review of ‘Calpurni et Nemesiani bucolica, recensuit Henricus
                                 Schenkl. Lipsiae (A. Freitag) et Pragae (F. Tempsky) 1885. LXXII,
                                 130 SS. 8’</title>. <title level="j">Zeitschrift für die
@@ -3698,15 +3737,15 @@
                             <biblScope unit="volume">36</biblScope> (<date>1885</date>): <biblScope
                                 unit="page">611–21</biblScope>.</bibl>
 
-                        <bibl xml:id="Maehly"><abbr type="siglum">Maehly</abbr> = <author>Mähly,
-                                Jacob Achilles</author>. <title>Der Oedipus Coloneus des Sophocles
-                                Anhang enthaltend Beiträge zu Calpurnius und Nemesianus</title>.
+                        <bibl xml:id="Maehly"><abbr type="siglum">Maehly</abbr><author>Mähly, Jacob
+                                Achilles</author>. <title>Der Oedipus Coloneus des Sophocles Anhang
+                                enthaltend Beiträge zu Calpurnius und Nemesianus</title>.
                                 <pubPlace>Basel</pubPlace>: <publisher>Hugo Richter</publisher>,
                                 <date>1868</date>. URL: <ptr
                                 target="https://books.google.com/books?id=ejldAAAAcAAJ&amp;pg=PR1#v=onepage&amp;q&amp;f=false"
                             />.</bibl>
 
-                        <bibl xml:id="Magnus"><abbr type="siglum">Magnus</abbr> = <author>Magnus,
+                        <bibl xml:id="Magnus"><abbr type="siglum">Magnus</abbr><author>Magnus,
                                 Hugo</author>. <title level="a">Review of ‘Poetae Latini Minores
                                 rec. et em. Aemilius Baehrens. Vol. III. Lipsiae. B.G. Teubner
                                 1881’</title>. <title level="j">Philologische Wochenschrift</title>
@@ -3715,14 +3754,14 @@
                                 target="https://books.google.com/books?id=8eoOoQ-uLHMC&amp;pg=PA809#v=onepage&amp;q&amp;f=false"
                             />.</bibl>
 
-                        <bibl xml:id="Modius"><abbr type="siglum">Modius</abbr> = <author>Modius,
+                        <bibl xml:id="Modius"><abbr type="siglum">Modius</abbr><author>Modius,
                                 Franciscus</author>. <title>Novantiquae lectiones</title>.
                                 <pubPlace>Froncofurti</pubPlace>: <publisher>apud heredes Andreae
                                 Wecheli</publisher>, <date>1584</date>. URL: <ptr
                                 target="https://books.google.com/books?id=AzROAAAAcAAJ&amp;pg=PP5#v=onepage&amp;q&amp;f=false"
                             />.</bibl>
 
-                        <bibl xml:id="Mueller"><abbr type="siglum">Mueller</abbr> = <author>Müller,
+                        <bibl xml:id="Mueller"><abbr type="siglum">Mueller</abbr><author>Müller,
                                 Lucian</author>. <title level="a">Review of ‘Calpurnii et Nemesiani
                                 Bucolica Recensuit Henricus Schenkl, Lipsiae, G. Freytag, Pragae, F.
                                 Tempsky, 1885’</title>. <title level="j">Berliner Philologische
@@ -3732,8 +3771,8 @@
                                 target="https://books.google.com/books?id=eNUpAAAAYAAJ&amp;pg=PP11#v=onepage&amp;q&amp;f=false."
                             /></bibl>
 
-                        <bibl xml:id="Nodell"><abbr type="siglum">Nodell</abbr> = <editor>Nodell,
-                                Jan Adam</editor>. <title>Flavii Aviani Fabulae ad MS. CD.
+                        <bibl xml:id="Nodell"><abbr type="siglum">Nodell</abbr><editor>Nodell, Jan
+                                Adam</editor>. <title>Flavii Aviani Fabulae ad MS. CD.
                                 Collatae.</title>. <pubPlace>Amstelodami</pubPlace>: <publisher>apud
                                 Petrum den Hengst</publisher>, <date>1787</date>. <ptr
                                 target="https://books.google.com/books?id=dYdYAAAAcAAJ&amp;pg=PP7#v=onepage&amp;q&amp;f=false"
@@ -3762,8 +3801,8 @@
                                 target="https://books.google.com/books?id=0zRv3_Ym5R4C&amp;pg=PP5#v=onepage&amp;q&amp;f=false"
                             />.</bibl>
 
-                        <bibl xml:id="Sarpe"><abbr type="siglum">Sarpe</abbr> = <author>Sarpe,
-                                Gustav Cristoph</author>. <title>Quaestiones Philologicae</title>.
+                        <bibl xml:id="Sarpe"><abbr type="siglum">Sarpe</abbr><author>Sarpe, Gustav
+                                Cristoph</author>. <title>Quaestiones Philologicae</title>.
                                 <pubPlace>Rostochii</pubPlace>: <publisher>litteris
                                 Adlerianis</publisher>, <date>1819</date>. URL: <ptr
                                 target="http://reader.digitale-sammlungen.de/resolve/display/bsb10972357.html"
@@ -3784,7 +3823,7 @@
                                 target="https://books.google.com/books?id=8JFMAAAAcAAJ&amp;pg=PP5#v=onepage&amp;q&amp;f=false"
                             />.</bibl>
 
-                        <bibl xml:id="Tross"><abbr type="siglum">Tross</abbr> = <author>Tross,
+                        <bibl xml:id="Tross"><abbr type="siglum">Tross</abbr><author>Tross,
                                 Ludovicus</author>. <title>Observationum Criticarum in Scriptores
                                 Nonnullos Latinos Libellus Prior</title>.
                                 <pubPlace>Hammone</pubPlace>: <publisher>sumptibus
@@ -3792,7 +3831,7 @@
                                 target="https://books.google.com/books?id=ao8CAAAAQAAJ&amp;pg=PR1#v=onepage&amp;q&amp;f=false"
                             />.</bibl>
 
-                        <bibl xml:id="Voss"><abbr type="siglum">Voss</abbr> = <editor>Voss, Johann
+                        <bibl xml:id="Voss"><abbr type="siglum">Voss</abbr><editor>Voss, Johann
                                 Heinrich</editor>. <title>Des Publius Virgilius Maro Ländliche
                                 Gedichte</title>. <pubPlace>Altona</pubPlace>: <publisher>Johann
                                 Friedrich Hammerich</publisher>, <date>1797</date>. URL: <ptr
@@ -3826,9 +3865,7 @@
 
                         <person xml:id="Argol.">
                             <persName ref="http://viaf.org/viaf/34563690">
-                                <abbr type="siglum">Argol.</abbr> = <forename>Giovanni</forename>
-                                <surname>Argoli</surname>
-                            </persName>
+                                <abbr type="siglum">Argol.</abbr>Giovanni Argoli</persName>
                             <note>Notes published in <bibl><author>Onuphrii Panvinii</author>,
                                         <title>De Ludis Circensibus, Libri II</title>.
                                         <pubPlace>Patavii</pubPlace>: <publisher>Typis Petri Marie
@@ -3839,18 +3876,15 @@
 
                         <person xml:id="Ascensius">
                             <persName ref="http://viaf.org/viaf/44352439">
-                                <abbr type="siglum">Ascensius</abbr> = <forename>Josse</forename>
-                                <surname>Badius</surname>
-                                <addName>Ascensius</addName>
-                            </persName>
+                                <abbr type="siglum">Ascensius</abbr>Josse Badius
+                                    <addName>Ascensius</addName>
+                           </persName>
                             <note>Editor of <ref target="#s" rend="bold">s</ref>.</note>
                         </person>
 
                         <person xml:id="Brodaeus">
                             <persName ref="http://viaf.org/viaf/3531680">
-                                <abbr type="siglum">Brodaeus</abbr> = <forename>Jean</forename>
-                                <surname>Brodeau</surname>
-                            </persName>
+                                <abbr type="siglum">Brodaeus</abbr>Jean Brodeau</persName>
                             <note>Notes on Calpurnius cited in <bibl><author>Gruterus,
                                         Janus</author>. <title>Lampas, sive Fax Artium Liberalium,
                                         Tomus Quartus</title>. <pubPlace>Francofurti</pubPlace>:
@@ -3863,37 +3897,29 @@
 
                         <person xml:id="Bursian">
                             <persName ref="http://viaf.org/viaf/57385669">
-                                <abbr type="siglum">Bursian</abbr> = <forename>Conrad</forename>
-                                <surname>Bursian</surname>
-                            </persName>
-                            <note target="#Haupt1854">Haupt</note>
+                                <abbr type="siglum">Bursian</abbr>Conrad Bursian</persName>
                             <note><ref target="#Haupt1854">Haupt</ref> notes that he used Bursian’s
                                 collation of a manuscript in Naples.</note>
                         </person>
 
                         <person xml:id="DOrville">
                             <persName ref="http://viaf.org/viaf/24945908">
-                                <abbr type="siglum">D’Orville</abbr> =
-                                    <forename>Jacques-Philippe</forename>
+                                <abbr type="siglum"
+                                    >D’Orville</abbr><forename>Jacques-Philippe</forename>
                                 <surname>d’Orville</surname>
-                            </persName>
+                           </persName>
                             <note>Cited in <ref target="#Burman1731">Burman 1731</ref></note>
                         </person>
 
                         <person xml:id="Casaub.">
                             <persName ref="http://viaf.org/viaf/56620173">
-                                <abbr type="siglum">Casaub.</abbr> = <forename>Isaac</forename>
-                                <surname>Casaubon</surname>
-                            </persName>
+                                <abbr type="siglum">Casaub.</abbr>Isaac Casaubon</persName>
                             <note>Cited in <ref target="#Burman1731">Burman 1731</ref></note>
                         </person>
 
                         <person xml:id="Fruterius">
                             <persName ref="http://viaf.org/viaf/35271168">
-                                <abbr type="siglum">Fruterius</abbr> = <forename>Lucas</forename>
-                                <surname>Fruterius</surname>
-                            </persName>
-                            <note target="#Barth1613">Barth 1613</note>
+                                <abbr type="siglum">Fruterius</abbr>Lucas Fruterius</persName>
                             <note><ref target="#Barth1613">Barth 1613</ref> cites content from the
                                 third book of Fruterius’ “Coniect. Verisim.", which is no longer
                                 extant.</note>
@@ -3901,59 +3927,45 @@
 
                         <person xml:id="Hartel">
                             <persName>
-                                <abbr type="siglum">Hartel</abbr> = <forename>G.</forename>
-                                <surname>Hartel</surname>
-                            </persName>
+                                <abbr type="siglum">Hartel</abbr>G. Hartel</persName>
                             <note><ref target="#Schenkl">Schenkl</ref> cites Hartel’s unpublished
                                 opinions.</note>
                         </person>
 
                         <person xml:id="Gudius">
                             <persName ref="http://viaf.org/viaf/59865177">
-                                <abbr type="siglum">Gudius</abbr> = <forename>Marquard</forename>
-                                <surname>Gude</surname>
-                            </persName>
+                                <abbr type="siglum">Gudius</abbr>Marquard Gude</persName>
                             <note>Cited in <ref target="#Burm1731">Burman 1731</ref>.</note>
                         </person>
 
                         <person xml:id="Guid.">
                             <persName ref="http://viaf.org/viaf/121992734">
-                                <abbr type="siglum">Guid.</abbr> = <forename>Diomedes</forename>
-                                <surname>Guidalotti</surname>
-                            </persName>
+                                <abbr type="siglum">Guid.</abbr>Diomedes Guidalotti</persName>
                             <note>Commentary in <ref target="#b">b</ref>, notes in <ref target="#h"
                                     >h</ref>.</note>
                         </person>
 
                         <person xml:id="Heins.">
                             <persName ref="http://viaf.org/viaf/24651364">
-                                <abbr type="siglum">Heins.</abbr> = <forename>Nicolaus</forename>
-                                <surname>Heinsius</surname>
-                            </persName>
+                                <abbr type="siglum">Heins.</abbr>Nicolaus Heinsius</persName>
                             <note>Cited in <ref target="#Burm1731">Burman 1731</ref>.</note>
                         </person>
 
                         <person xml:id="HousmanPerLitt" n="Housman per litt.">
                             <persName ref="http://viaf.org/viaf/49249069">
-                                <abbr type="siglum">Housman</abbr> = <forename>A. E.</forename>
-                                <surname>Housman</surname>
-                            </persName>
+                                <abbr type="siglum">Housman</abbr>A. E. Housman</persName>
                             <note>Housman had personal communication with Giarratano.</note>
                         </person>
 
                         <person xml:id="Kempfer">
                             <persName ref="http://viaf.org/viaf/22520653">
-                                <abbr type="siglum">Kempfer</abbr> = <forename>Gerard</forename>
-                                <surname>Kempher</surname>
-                            </persName>
+                                <abbr type="siglum">Kempfer</abbr>Gerard Kempher</persName>
                             <note>Cited in <ref target="#h" rend="bold">h</ref></note>
                         </person>
 
                         <person xml:id="Lachmann">
                             <persName ref="http://viaf.org/viaf/64025742">
-                                <abbr type="siglum">Lachmann</abbr> = <forename>Karl</forename>
-                                <surname>Lachmann</surname>
-                            </persName>
+                                <abbr type="siglum">Lachmann</abbr>Karl Lachmann</persName>
                             <note>In <bibl><editor>Johannes Vahlen</editor>, <title>Karl Lachmanns
                                         Briefe an Moriz Haupt</title>. <pubPlace>Berlin</pubPlace>:
                                         <publisher>Druck und Verlag von Georg Reimer</publisher>,
@@ -3964,95 +3976,71 @@
 
                         <person xml:id="Lipsius">
                             <persName ref="http://viaf.org/viaf/51706656">
-                                <abbr type="siglum">Lipsius</abbr> = <forename>Justus</forename>
-                                <surname>Lipsius</surname>
-                            </persName>
+                                <abbr type="siglum">Lipsius</abbr>Justus Lipsius</persName>
                             <note>Cited in <ref target="#Burm1731">Burman 1731</ref>.</note>
                         </person>
 
                         <person xml:id="Martell.">
                             <persName ref="http://viaf.org/viaf/1088">
-                                <abbr type="siglum">Martell.</abbr> = <forename>Ugolino</forename>
-                                <surname>Martelli</surname>
-                            </persName>
+                                <abbr type="siglum">Martell.</abbr>Ugolino Martelli</persName>
                             <note>Cited in <ref target="#h" rend="bold">h</ref></note>
                         </person>
 
                         <person xml:id="Oudendorp">
                             <persName ref="http://viaf.org/viaf/37257920">
-                                <abbr type="siglum">Oudendorp</abbr> = <forename>Frans
-                                    van</forename>
-                                <surname>Oudendorp</surname>
-                            </persName>
+                                <abbr type="siglum">Oudendorp</abbr>Frans van Oudendorp</persName>
                             <note>Cited in <ref target="#Burman1759">Burman 1759</ref></note>
                         </person>
 
                         <person xml:id="Ramorino">
                             <persName ref="http://viaf.org/viaf/14441806">
-                                <abbr type="siglum">Ramorino</abbr> = <forename>Felice</forename>
-                                <surname>Ramorino</surname>
-                            </persName>
+                                <abbr type="siglum">Ramorino</abbr>Felice Ramorino</persName>
                             <note>Ramorino’s personal communication with Giarratano</note>
                         </person>
 
                         <person xml:id="Scaliger">
                             <persName ref="http://viaf.org/viaf/29540435">
-                                <abbr type="siglum">Scaliger</abbr> =
-                                    <forename>Joseph-Juste</forename>
-                                <surname>Scaliger</surname>
-                            </persName>
+                                <abbr type="siglum">Scaliger</abbr> = Joseph-Juste Scaliger</persName>
                             <note>Cited in <ref target="#Burm1731">Burman 1731</ref>.</note>
                         </person>
 
                         <person xml:id="CSchenkl">
                             <persName ref="http://viaf.org/viaf/12523146">
-                                <abbr type="siglum">C. Schenkl</abbr> = <forename>Karl</forename>
-                                <surname>Schenkl</surname>
-                            </persName>
+                                <abbr type="siglum">C. Schenkl</abbr>Karl Schenkl</persName>
                             <note>Unpublished opinions cited in <ref target="#Schenkl"
                                     >Schenkl’s</ref> editions.</note>
                         </person>
 
                         <person xml:id="Scriverius">
                             <persName ref="https://viaf.org/viaf/121894458/">
-                                <abbr type="siglum">Scriver.</abbr> = <forename>Pieter</forename>
-                                <surname>Schrijver</surname>
-                                <addName>Scriverius</addName>
-                            </persName>
+                                <abbr type="siglum">Scriver.</abbr>Pieter Schrijver
+                                    <addName>Scriverius</addName>
+                           </persName>
                             <note>Cited in <ref target="#Burm1731">Burman 1731</ref>.</note>
                         </person>
 
                         <person xml:id="Schraeder">
                             <persName>
-                                <abbr type="siglum">Schraeder</abbr> = <forename>?</forename>
-                                <surname>Schraeder</surname>
-                            </persName>
+                                <abbr type="siglum">Schraeder</abbr><forename>?</forename> Schraeder</persName>
                             <note>Scholar cited by <ref target="#Brantsma">Brantsma</ref></note>
                         </person>
 
                         <person xml:id="Tit.">
                             <persName ref="http://viaf.org/viaf/74961015">
-                                <abbr type="siglum">Tit.</abbr> = <forename>Robertus</forename>
-                                <surname>Titius</surname>
-                            </persName>
+                                <abbr type="siglum">Tit.</abbr>Robertus Titius</persName>
                             <note>Editor of <ref target="i2">i<hi rend="superscript">2</hi></ref>;
                                 notes in <ref target="#h" rend="bold">h</ref>.</note>
                         </person>
 
                         <person xml:id="Tortell.">
                             <persName ref="http://viaf.org/viaf/307181319">
-                                <abbr type="siglum">Tortell.</abbr> = <forename>Giovanni</forename>
-                                <surname>Tortelli</surname>
-                            </persName>
+                                <abbr type="siglum">Tortell.</abbr>Giovanni Tortelli</persName>
                             <note>Cited in <ref target="#Guid.">Guidalotti 1504</ref>.</note>
                         </person>
 
                         <person xml:id="Vigilius">
                             <persName ref="http://viaf.org/viaf/15563174">
-                                <abbr type="siglum">Victor Vigilius</abbr> =
-                                    <forename>Victor</forename>
-                                <surname>Vigilius</surname>
-                            </persName>
+                                <abbr type="siglum">Victor Vigilius</abbr>Victor Vigilius</persName>
                             <note target="#Barth1613">Barth 1613</note>
                             <note>Pseudonym used by Kaspar von Barth in his notes to suggest
                                 conjectures that he is not prepared to print in his text.</note>
@@ -4060,10 +4048,7 @@
 
                         <person xml:id="Wolf">
                             <persName ref="http://viaf.org/viaf/32037036/">
-                                <abbr type="siglum">Wolf</abbr> = <forename>Johann</forename>
-                                <forename>Christoph</forename>
-                                <surname>Wolf</surname>
-                            </persName>
+                                <abbr type="siglum">Wolf</abbr>Johann Christoph Wolf</persName>
                             <note>Cited in <ref target="#Burm1731">Burman 1731</ref>.</note>
                         </person>
                     </listPerson>
@@ -4073,9 +4058,9 @@
                 <div type="bibliography" xml:id="bibliography-abbreviations">
                     <head>Other abbreviations used in this edition</head>
                     <list xml:id="abbreviations">
-                        <item xml:id="edd.">edd. = editiones: All editions not explicitly referenced
+                        <item xml:id="edd.">edd. (editiones): All editions not explicitly referenced
                             elsewhere in an entry in the apparatus.</item>
-                        <item>cod./codd. = codex/codices: Manuscript(s) not explicitly referenced
+                        <item>cod./codd. (codex/codices): Manuscript(s) not explicitly referenced
                             elsewhere in an entry in the apparatus.</item>
                     </list>
                 </div>
@@ -6229,8 +6214,8 @@
                                 <rdg wit="#ω #edd." xml:id="rdg2.32parienti" ana="#lexical"
                                     >parienti</rdg>
                                 <note target="#rdg2.32parienti"><cit>
-                                        <quote rend="inline">fortasse latet epitheton ad v. <hi rend="italic"
-                                                >mihi</hi> pertinens</quote>
+                                        <quote rend="inline">fortasse latet epitheton ad v. <hi
+                                                rend="italic">mihi</hi> pertinens</quote>
                                         <bibl><ref target="#Glaeser">Glaeser.</ref></bibl>
                                     </cit></note>
                                 <rdgGrp>
@@ -6677,7 +6662,8 @@
                             <rdg wit="#ε #e #d #c #Nordh." xml:id="rdg2.62line"
                                 ana="#subtractive #additive"/>
                             <note target="#rdg2.62line">versum om. et in his edd. pro eo scriptum
-                                est: <quote rend="inline">perfundens aras divorum sanguine largo</quote></note>
+                                est: <quote rend="inline">perfundens aras divorum sanguine
+                                    largo</quote></note>
                         </app>
                         <l n="64"><label type="speaker">A.</label>Nos quoque pomiferi Laribus
                             consuevimus <app>
